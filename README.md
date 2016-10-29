@@ -10,7 +10,7 @@ Welcome to the home page of the Owasp DevSecCon
 
 ### Initial Vision
 
-> Owasp-DevSecCon Summit, England, April 2017=
+> **Owasp-DevSecCon Summit, England, April 2017**
 >
 > OWASP is joining forces with DevSecCon to create a Summit focused on the collaboration between
 Developers and Application Security.
