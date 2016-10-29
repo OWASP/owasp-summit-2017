@@ -20,7 +20,7 @@ Developers and Application Security.
 > * Threat Modeling, Mobile Security, IoT
 > * Risk & Governance, Privacy & CTO/CISO requirements
 > * Secure Design, Bug-bounties
-> * Browser Security, AI for Attack & Defence
+> * [Browser Security](./Workshops/Browser-security.md), AI for Attack & Defence
 > * DDoS, Cyber Warfare, AppSec Standards;
 >
 >... and of course, working sessions on popular OWASP projects (lead by its leaders) such as:
