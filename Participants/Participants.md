@@ -1,4 +1,4 @@
- ## Participants
+## Participants
 
 Add your name below (and create a page for your info) if you are planning to attend
 
