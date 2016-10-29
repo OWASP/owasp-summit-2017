@@ -4,6 +4,7 @@ Add your name below (and create a page for your info) if you are planning to att
 
 (in alphabetical order)
 
+* [David Rook](David-Rook.md)
 * [Dinis Cruz](Dinis-Cruz.md)
 * [Francois Raynaud](Francois-Raynaud.md)
 * [Ofer Maor](Ofer-Maor.md)
