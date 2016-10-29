@@ -3,6 +3,7 @@
 Ideas for workshops to do:
 
 - [Responsible Disclosure](Responsible-disclosure.md)
+- [Browser Security](Browser-security.md)
 - Devops
 - Top 10 - Next generation controls
 - Security architecture design
