@@ -7,7 +7,7 @@ Welcome to the home page of the Owasp DevSecCon
 * [Wiki page at Owasp.org](https://www.owasp.org/index.php?title=Owasp-DevSecCon-Summit)
 * [Slack channel](https://owasp.slack.com/archives/owasp-dsc-summit)
 * [Trello](https://trello.com/owaspdevsecconsummit2017)
-* [Twitter](https://twitter.com/OWASPDevSecCon) - currently being updated
+* [@OwaspDevSecCon](https://twitter.com/OWASPDevSecCon) - twitter (currently being updated)
 
 ### Initial Vision
 
