@@ -2,8 +2,11 @@
 
 Ideas for workshops to do:
 
-- [Responsible Disclosure](Responsible-disclosure.md)
+- [AWS Lambda Security](AWS-Lambda-Security.md)
 - [Browser Security](Browser-security.md)
+- [Securing GitHub Integrations](Securing-GitHub-Integrations.md)
+- [Responsible Disclosure](Responsible-disclosure.md)
+
 - Devops
 - Top 10 - Next generation controls
 - Security architecture design
