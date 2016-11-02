@@ -16,4 +16,8 @@ Using the same model used in previous performances of the OWASP band (at multipl
 
 (where was this?)
 
-![image](https://cloud.githubusercontent.com/assets/656739/19942716/97fc3f4e-a12c-11e6-8a22-badffca70a92.png)
+![](https://cloud.githubusercontent.com/assets/656739/19942716/97fc3f4e-a12c-11e6-8a22-badffca70a92.png)
+
+#### OWASP Summit 2011 (Lisbon)
+
+![](https://lh3.googleusercontent.com/X0Cu9r1oMMVKQMdi3_RgRiek4YQ_FT9NVymBdC9mpiFQ4RJ4m07a1vbQAcD13uhOdyR2XZnf9ICMEg=w5120-h3200-rw-no)
