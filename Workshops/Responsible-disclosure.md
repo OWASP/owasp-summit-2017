@@ -16,6 +16,11 @@ Questions to ask:
 7) Future of responsible disclosure
 
 Participants:
+We would like to invite the following people.
+Casey Ellis (BugCrowd Founder)
+Frans Rosen (Renowned bounty hunter)
+Andrew Pham (Community Manager, Synack)
+>>>>DRAFT>>>adding more soon
 
 1) Leading bug bounty hunters
 2) Companies with mature bug bounty programs (self managed)
