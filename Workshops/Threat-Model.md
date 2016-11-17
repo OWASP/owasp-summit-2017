@@ -2,7 +2,7 @@
 
 (add details, why, what, who)
 
-Who should be there
+**Who should be there**
 
 - Michael Howard
 - Adam Shostack
@@ -13,7 +13,7 @@ Who should be there
 - Aarun (Threatmodeler owner)
 - Continuum people?
 
-Threat Modeling Workshop ideas 
+**Threat Modeling Workshop ideas**
 
 (some can be consolidated in one workshop)
 
