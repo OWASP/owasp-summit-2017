@@ -1,6 +1,6 @@
 ## Threat Model 
 
-Organizer(s): [Geoff Hill](Participants/Geoff-Hill.md)
+Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
 
 **Who should be there**
 
