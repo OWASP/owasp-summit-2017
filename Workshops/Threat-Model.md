@@ -1,7 +1,5 @@
 ## Threat Model 
 
-(add details, why, what, who)
-
 **Who should be there**
 
 - Michael Howard
