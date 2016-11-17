@@ -1,5 +1,7 @@
 ## Threat Model 
 
+Organizer(s): [Geoff Hill](Participants/Geoff-Hill.md)
+
 **Who should be there**
 
 - Michael Howard
