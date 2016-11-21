@@ -1,4 +1,4 @@
-## Threat Model 
+## Threat Model
 
 Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
 
@@ -12,6 +12,7 @@ Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
 - Sammy Migues
 - Aarun (Threatmodeler owner)
 - Continuum people?
+- Security Compass people?
 
 **Threat Modeling Workshop ideas**
 
@@ -28,3 +29,7 @@ Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
 - are threat trees actually useful in live business environments
 - unified input and output in a sSDL
 - simplifying threat modeling for business environments
+- Scaling threat models throughout an organization (central storage, versioning control, etc)
+- Automating threat models
+- Splitting up threat models integration into domain-agnostic and domain-specific
+- Enabling Security champions to perform domain agnostic threat models

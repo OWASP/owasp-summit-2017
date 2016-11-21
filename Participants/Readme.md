@@ -15,3 +15,4 @@ Add your name below (and create a page for your info) if you are planning to att
 * [Sam Stepanyan](Sam-Stepanyan.md)
 * [Sebastien Deleersnyder](Sebastien-Deleersnyder.md)
 * [Steven van der Baan](Steven-van-der-Baan.md)
+* [Stefan Streichsbier](Stefan-Streichsbier.md)
