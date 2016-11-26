@@ -8,6 +8,7 @@ If you haven't already, add your name below and help to chose the best data by f
 
 (note when adding a name to this make, please put it in alphabetic order)
 
+
 | Name | Actions | Status |
 |------|---------|--------|
 | Adrian Winckles       | emailed by Seba on 22nd Nov | doodle |
@@ -63,3 +64,8 @@ If you haven't already, add your name below and help to chose the best data by f
 | Yan Kravchenko        | emailed by Seba on 22nd Nov |  doodle |
 | Tobias Gondrom        | emailed by Seba on 22nd Nov |
 | Tom Neaves            | |
+
+---- 
+
+TODO: Map the names below with action 'emailed by dinis on 26 Nov '
+Colin Watson , Justin Clarke , Jeff Williams, Dave Wichers, Dan Cornell, Mark Curphey, Jim Manico, johanna curiel curiel, John Wilander , Konstantinos Papapanagiotou , Samy Kamkar, Marcus Pinto, Mario Heiderich , Stefano Di Paola, Giorgio Fedon , Matt Tesauro, Ofer Maor, Petko Petkov , Simon Bennetts, Steven van der Baan, Tobias Gondrom, Jeremy Long, Pravir Chandra, Ryan Barnett, Bjoern Kimminich, Mark Miller, Chris Schmidt, Kevin W. Wall, Chetan Karande , Ed Adams, Jason Taylor, Joe Basirico, Michael Hidalgo, Neil Barlow
