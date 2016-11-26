@@ -11,14 +11,16 @@ If you haven't already, add your name below and help to chose the best data by f
 | Name | Actions | Status |
 |------|---------|--------|
 | Adrian Winckles       | emailed by Seba on 22nd Nov | doodle |
-| Alexander Antukh      | |
-| Adam Shostack         | |
+| Alexander Antukh      | emailed by dinis on 26 Nov  |
+| Adam Shostack         | emailed by dinis on 26 Nov  |
 | Andrew van der Stock  | emailed by Seba on 22nd Nov |
+| Anurag Agarwal        | emailed by dinis on 26 Nov  |
 | Bart De Win           | emailed by Seba on 22nd Nov | doodle |
+| David LeBlanc         | emailed by dinis on 26 Nov  |
 | Bernhard Mueller      | |
 | Brian Glas            | | doodle |
 | Bruce Jenkins         | emailed by Seba on 22nd Nov |
-| Colin Domoney         | |
+| Colin Domoney         | emailed by dinis on 26 Nov  |
 | Dan Cornell           | emailed by Seba on 22nd Nov |
 | Daniel Cuthbert       | emailed by Seba on 22nd Nov | doodle |
 | Daniel Kefer          | emailed by Seba on 22nd Nov |
@@ -32,6 +34,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Jeff Williams         | emailed by Seba on 22nd Nov |
 | Jim Manico            | emailed by Seba on 22nd Nov |
 | Johanna Curiel        | emailed by Seba on 22nd Nov |
+| John Steven           | emailed by dinis on 26 Nov  |
 | John Willander        | emailed by Seba on 22nd Nov |
 | Justin Collins        | emailed by Seba on 22nd Nov |
 | Konstantinos Papapanagiotou | emailed by Seba on 22nd Nov |
@@ -48,10 +51,12 @@ If you haven't already, add your name below and help to chose the best data by f
 | Mike West (Chrome)    | emailed by Seba on 22nd Nov |
 | Ofer Maor             | emailed by Seba on 22nd Nov |
 | Petko Petkov          | emailed by Seba on 22nd Nov |
+| Rohit Sethi           | emailed by dinis on 26 Nov  |
 | Sam Stepanyan         | emailed by Seba on 22nd Nov |
+| Sammy Migues          | emailed by dinis on 26 Nov  |
 | Simon Bennetts        | emailed by Seba on 22nd Nov |
 | Steven van der Baan   | emailed by Seba on 22nd Nov |
-| Stephen de Vries      | emailed by Seba on 22nd Nov |
+| Stephen de Vries      | emailed by Seba on 22nd Nov, and dinis on 26th Nov |
 | Tony Miller           | emailed by Seba on 22nd Nov |
 | Viktorija Almazova    | |
 | Will Stranathan       | |
