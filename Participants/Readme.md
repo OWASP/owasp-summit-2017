@@ -1,3 +1,7 @@
+## PLEASE HELP TO CHOSE THE DATE FOR THE SUMMIT
+
+If you haven't already, add your name and available dates to this Doodle: http://doodle.com/poll/e8d4p955rc8guuru
+
 ## Participants
 
 Add your name below (and create a page for your info) if you are planning to attend
