@@ -1,6 +1,6 @@
 Nanne, can you also:
 - Fill in this doodle with your preferred dates: http://doodle.com/poll/e8d4p955rc8guuru
- -Add more info about you to https://github.com/OWASP/owasp-devseccon-summit/blob/master/Participants/Nanne-Baars.md
+- Add more info about you to https://github.com/OWASP/owasp-devseccon-summit/blob/master/Participants/Nanne-Baars.md
 - Add more info about the WebGoat workshops to https://github.com/OWASP/owasp-devseccon-summit/blob/master/Workshops/WebGoat.md , namely (in an ideal world) WHO should be there and what would be the topics of the workshops?
 
 Bruce (CCed), can you also do this? Since WE HAVE TO HAVE YOU there at the Summit (as one of the main creators of WebGoat).
