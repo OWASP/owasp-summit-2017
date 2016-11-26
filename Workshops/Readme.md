@@ -4,8 +4,9 @@ Ideas for workshops to do:
 
 - [AWS Lambda Security](AWS-Lambda-Security.md)
 - [Browser Security](Browser-security.md)
-- [Securing GitHub Integrations](Securing-GitHub-Integrations.md)
 - [Responsible Disclosure](Responsible-disclosure.md)
+- [Securing GitHub Integrations](Securing-GitHub-Integrations.md)
+- [Threat-Model](Threat-Model.md)
 - [WebGoat](WebGoat.md)
 
 ----
@@ -21,5 +22,4 @@ Ideas for workshops to do:
 - Ethical security / User as a commodity
 - RISK workflows
 - Security in IDES
-- Threat modelling
 - Privacy
