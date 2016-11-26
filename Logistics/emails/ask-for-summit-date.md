@@ -32,3 +32,16 @@ Thank you!
 CU at the summit...
 
 Seba, Dinis & Francois
+
+
+
+----- 
+Simple version
+
+Hi xxx,
+
+We are trying to find the best date for the Owasp DevSecCon Summit 2017, and it would be great if you could add your preferences to http://doodle.com/poll/e8d4p955rc8guuru
+
+Thanks
+
+Dinis, Seba & Francois
