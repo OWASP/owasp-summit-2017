@@ -6,6 +6,7 @@ Ideas for workshops to do:
 - [Browser Security](Browser-security.md)
 - [Securing GitHub Integrations](Securing-GitHub-Integrations.md)
 - [Responsible Disclosure](Responsible-disclosure.md)
+- [WebGoat](WebGoat.md)
 
 - Devops
 - Top 10 - Next generation controls
