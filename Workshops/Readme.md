@@ -23,3 +23,4 @@ Ideas for workshops to do:
 - RISK workflows
 - Security in IDES
 - Privacy
+- SAST (custom rules)
