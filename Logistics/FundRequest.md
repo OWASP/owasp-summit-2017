@@ -14,6 +14,7 @@ As soon as we have the final timing we will contract the venue together with Lau
 
 Let's be clear: **we do not ask for 150 as a sunk cost or as a blank cheque**.
 We will tap into several sources of income to organize this summit:
+
 1. people coming to the summit will be asked to cover their own travel/accommodation. We will only sponsor invited people that do not have support from their own organisation.
 2. we will ask the participating projects for seed funds: e.g. SAMM already donated 10.000 USD 
 3. we will ask chapters to sponsor the summit with the budget they have available (potentially 750K+ USD)
