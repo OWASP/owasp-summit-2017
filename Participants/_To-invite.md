@@ -64,7 +64,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Yan Kravchenko        | emailed by Seba on 22nd Nov |  doodle |
 | Tobias Gondrom        | emailed by Seba on 22nd Nov |
 | Tom Neaves            | emailed by Francois  27 Nov |
-
+| Stefan Streichsbier   | emailed by Francois 27 Nov  | 
 ---- 
 
 **TODO: Map the names below with action 'emailed by dinis on 26 Nov '**
