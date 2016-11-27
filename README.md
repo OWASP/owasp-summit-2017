@@ -33,6 +33,6 @@ Developers and Application Security.
 >
 > If you care about Application Security and want to collaborate with the key players in this industry, this is the event to be.
 >
-> The Summit will occur in England, April 2017, with an entry ticket of $2000 (covering travel + hotel + accommodation + event fee). OWASP is funding a large number of its leaders and other deserving individuals to attend, so if you feel you can't afford this fee, or your company is not in a position to sponsor you, please contact the event organisers.
+> The Summit will occur in England, April or June 2017, with an entry ticket of $2000 (covering travel + hotel + accommodation + event fee). OWASP is funding a large number of its leaders and other deserving individuals to attend, so if you feel you can't afford this fee, or your company is not in a position to sponsor you, please contact the event organisers.
 >
 > If you want to be involved, add you name to the [Participants](Participants) page
