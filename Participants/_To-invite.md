@@ -18,7 +18,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Anurag Agarwal        | emailed by dinis on 26 Nov  |
 | Bart De Win           | emailed by Seba on 22nd Nov | doodle |
 | David LeBlanc         | emailed by dinis on 26 Nov  |
-| Bernhard Mueller      | |
+| Bernhard Mueller      | emailed by Francois  27 Nov |
 | Brian Glas            | | doodle |
 | Bruce Jenkins         | emailed by Seba on 22nd Nov |
 | Colin Domoney         | emailed by dinis on 26 Nov  |
@@ -28,7 +28,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Dave Wichers          | emailed by Seba on 22nd Nov |
 | David Rook            | emailed by Seba on 22nd Nov | doodle |
 | Dennis Groves         | emailed by Seba on 22nd Nov |
-| Devesh Bhatt          | |
+| Devesh Bhatt          | emailed by Francois  27 Nov |
 | Geoff Hill            | going |
 | Greg Reber            | emailed by Seba on 22nd Nov |
 | Guy Podjarny          | emailed by Seba on 22nd Nov |
@@ -63,7 +63,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Will Stranathan       | |
 | Yan Kravchenko        | emailed by Seba on 22nd Nov |  doodle |
 | Tobias Gondrom        | emailed by Seba on 22nd Nov |
-| Tom Neaves            | |
+| Tom Neaves            | emailed by Francois  27 Nov |
 
 ---- 
 
