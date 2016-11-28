@@ -6,7 +6,7 @@ Our draft budget is available here:
 https://github.com/OWASP/owasp-devseccon-summit/blob/master/Budget/owasp-devseccon-summit-budget.xlsx
 We will further refine and improve this together with Laura and Andrew in the coming days.
 
-We already submitted the summit in OCMS.
+We already submitted the summit in OCMS. Which is  being followed-up by the OWASP staff.
 
 Next week we will have the summit week decided (probably in June 2017) and we are currently visiting and talking with multiple venues. 
 
