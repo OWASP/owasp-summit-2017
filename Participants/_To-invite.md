@@ -55,6 +55,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Justin Collins        | emailed by Seba on 22nd Nov |
 | Kevin W. Wall  | emailed by Dinis on 27 Nov  | 
 | Konstantinos Papapanagiotou   | emailed by Dinis on 27 Nov  | 
+| Kris Buytaert  | emailed by Seba on 28 Nov  | 
 | Marc Miller           | emailed by Seba on 22nd Nov |
 | Marcus Pinto          | emailed by Seba on 22nd Nov |
 | Mario Heiderich       | emailed by Seba on 22nd Nov |
