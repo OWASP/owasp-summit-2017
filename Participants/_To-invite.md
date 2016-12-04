@@ -92,7 +92,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Samy Kamkar  | emailed by Dinis on 27 Nov  | 
 | Sherif Mansour       | |  doodle |
 | Simon Bennetts        | emailed by Seba on 22nd Nov |
-| Suman Sourav        | |  doodle |
+| Suman Sourav        | emailed by Francois 22nd Nov|  doodle |
 | Stefan Streichsbier   | emailed by Francois 27 Nov  |   doodle |
 | Stefano Di Paola  | emailed by Dinis on 27 Nov  |   doodle |
 | Stephen de Vries      | emailed by Seba on 22nd Nov, and dinis on 26th Nov |
