@@ -14,12 +14,13 @@ If you haven't already, add your name below and help to chose the best data by f
 | Aaron Weaver      |  | doodle |
 | Adam Shostack         | emailed by dinis on 26 Nov  |
 | Adrian Winckles       | emailed by Seba on 22nd Nov | doodle |
-| Alexander Antukh      | emailed by dinis on 26 Nov  |
+| Alexander Antukh      | emailed by dinis on 26 Nov  | doodle |
 | Andrew van der Stock  | emailed by Seba on 22nd Nov |
 | Anurag Agarwal        | emailed by dinis on 26 Nov  |
 | Bart De Win           | emailed by Seba on 22nd Nov | doodle |
 | David Rook           |  | doodle |
-| Bernhard Mueller      | emailed by Francois  27 Nov |  doodle |
+| Ben Tomhave           |  | doodle |
+| Bernhard Mueller      | emailed by Francois  27 Nov | doodle |
 | Biraj Prajapati          |  | doodle |
 | Bjoern Kimminich  | emailed by Dinis on 27 Nov  | 
 | Brian Glas            | | doodle |
@@ -42,7 +43,9 @@ If you haven't already, add your name below and help to chose the best data by f
 | David Rook            | emailed by Seba on 22nd Nov | doodle |
 | Dennis Groves         | emailed by Seba on 22nd Nov |  doodle |
 | Devesh Bhatt          | emailed by Francois  27 Nov |  doodle |
-| Ed Adams  | emailed by Dinis on 27 Nov  | 
+| Ed Adams  | emailed by Dinis on 27 Nov  | doodle |
+| Fraser Scott |  | doodle |
+| Frank Catucci |  | doodle |
 | Geoff Hill            | going |
 | Giorgio Fedon   | emailed by Dinis on 27 Nov  |   doodle |
 | Greg Reber            | emailed by Seba on 22nd Nov |
@@ -54,6 +57,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Jim Manico            | emailed by Seba on 22nd Nov |
 | Joe Basirico  | emailed by Dinis on 27 Nov  | 
 | Johanna Curiel        | emailed by Seba on 22nd Nov |  doodle |
+| John Melton          |   |  doodle |
 | John Steven           | emailed by dinis on 26 Nov  |
 | John Wilander   | emailed by Dinis on 27 Nov  | 
 | Justin Clarke   | emailed by Dinis on 27 Nov  | 
@@ -92,10 +96,11 @@ If you haven't already, add your name below and help to chose the best data by f
 | Stefan Streichsbier   | emailed by Francois 27 Nov  |   doodle |
 | Stefano Di Paola  | emailed by Dinis on 27 Nov  |   doodle |
 | Stephen de Vries      | emailed by Seba on 22nd Nov, and dinis on 26th Nov |
-| Steven van der Baan   | emailed by Seba on 22nd Nov |
+| Steven van der Baan   | emailed by Seba on 22nd Nov | doodle |
 | Tim O'Ryan        | |  doodle |
 | Tobias Gondrom        | emailed by Seba on 22nd Nov |
 | Tom Neaves            | emailed by Francois  27 Nov |
+|  Tony UV            |  |  doodle |
 | Tony Miller           | emailed by Seba on 22nd Nov |
 | Viktorija Almazova    | |
 | Vinod        | |  doodle |
