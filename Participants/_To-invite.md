@@ -54,7 +54,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Jason Taylor  | emailed by Dinis on 27 Nov  |   doodle |
 | Jeff Williams         | emailed by Seba on 22nd Nov |
 | Jeremy Long  | emailed by Dinis on 27 Nov  |   doodle |
-| Jim Manico            | emailed by Seba on 22nd Nov |
+| Jim Manico            | emailed by Seba on 22nd Nov | remote?  |
 | Joe Basirico  | emailed by Dinis on 27 Nov  | 
 | Johanna Curiel        | emailed by Seba on 22nd Nov |  doodle |
 | John Melton          |   |  doodle |
