@@ -1,3 +1,9 @@
+---
+layout: default
+title: Readme
+type: content
+---
+
 ## Owasp DevSecCon Summit
 
 Welcome to the home page of the Owasp DevSecCon

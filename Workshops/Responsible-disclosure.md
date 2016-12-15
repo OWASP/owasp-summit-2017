@@ -1,3 +1,9 @@
+---
+layout: default
+title: Responsible Disclosure
+type: workshop
+---
+
 ## Responsible Disclosure
 
 (add details, why, what, who)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: AWS Lambda Security
+type: workshop
+---
+
 ## AWS Lambda Security
 
 _(add details, why, what, who)_

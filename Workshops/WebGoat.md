@@ -1,3 +1,9 @@
-### Webgoat
+---
+layout: default
+title: Webgoat
+type: workshop
+---
 
-(add details, why, what, who) 
+## Webgoat
+
+(add details, why, what, who)

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<h2>All pages</h2>
+
+<p>Here is all the current Workshops, Participants and Logistic pages for this Summit</p>
+
+<p>You can read more about it on the <a href='README.html'>README</a>
+
+<h5>Workshops</h5>
+
+<ul>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.title and page.type == 'workshop' %}
+                <li><a href="/owasp-devseccon-summit{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</ul>
+
+<h5>Participants</h5>
+
+<ul>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.title and page.type == 'participant' %}
+                <li><a href="/owasp-devseccon-summit{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</ul>
+<hr>
+
+<h5>Logistics</h5>
+
+<ul>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.title and page.type == 'logistic' %}
+                <li><a href="/owasp-devseccon-summit{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</ul>
+<hr>
+
+{{content}}

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Photos
+type: logistic
+---
+
 ## Photos
 
 Photography will be handled by [Ofer Maor](../Participants/Ofer-Maor.md), just like the previous Summit

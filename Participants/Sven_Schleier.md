@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sven Schleier
+type: participant
+---
+
 ## Sven Schleier
 
 * One of the project leaders of Mobile Security Testing Guide, https://github.com/OWASP/owasp-mstg

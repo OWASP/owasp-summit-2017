@@ -1,3 +1,9 @@
+---
+layout: default
+title: Threat Model
+type: workshop
+---
+
 ## Threat Model
 
 Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)

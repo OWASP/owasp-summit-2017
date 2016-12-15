@@ -1,3 +1,9 @@
+---
+layout: default
+title: Browser Security
+type: workshop
+---
+
 ## Browser Security
 
 _(add details, why, what, who)_

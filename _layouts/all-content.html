@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<!--{{site.pages}}-->
+
+{% for page in site.pages %}
+  {% if page.title and page.type == 'content' %}
+    {{page.content}}
+  {% endif %}  
+{% endfor %}

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mobile Security
+type: workshop
+---
+
 ## Mobile Security
 
 ### Questions to answer:
@@ -8,7 +14,7 @@
    * BDD
    * MobSF
 * How can mobile developers be trained to code securely?
-* How can (Penetration|QA) testers be trained to identify vulnerabilites in weak implemented mobile Apps?
+* How can (Penetration/QA) testers be trained to identify vulnerabilites in weak implemented mobile Apps?
 
 
 ###  Mobile Application Security Verification Standard (MASVS)

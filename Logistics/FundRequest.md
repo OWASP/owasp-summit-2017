@@ -1,3 +1,9 @@
+---
+layout: default
+title: 50K USD seed funds
+type: logistic
+---
+
 # INPUT for 50K USD seed funds requested to the OWASP board (for meeting 14 Dec 2016)
 
 Here is more input for our request to have 50K USD set aside for the upcoming owasp-devseccon-summit next year in the UK.
