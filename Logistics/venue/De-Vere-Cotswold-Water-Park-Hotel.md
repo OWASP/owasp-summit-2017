@@ -7,4 +7,4 @@ Projected cost per person: £200 (+ about £40 travel cost)
 
 https://www.phcompany.com/de-vere/cotswold-water-park-hotel
 
-Here is a [zip with photos](https://github.com/OWASP/owasp-devseccon-summit/releases/download/venue-photos-nov-2016/Photos-De-Vere-Cotswold-Water-Park-Hotel.zip)
+Here is a [zip with photos](https://github.com/OWASP/owasp-Summit-2017/releases/download/venue-photos-nov-2016/Photos-De-Vere-Cotswold-Water-Park-Hotel.zip)

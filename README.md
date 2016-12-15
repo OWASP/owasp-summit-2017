@@ -4,20 +4,20 @@ title: Readme
 type: content
 ---
 
-## Owasp DevSecCon Summit
+## Owasp Summit 2017
 
-Welcome to the home page of the Owasp DevSecCon
+Welcome to the home page of the Owasp Summit 2017
 
 ### Other sites
 
-* [Wiki page at Owasp.org](https://www.owasp.org/index.php?title=Owasp-DevSecCon-Summit)
+* [Wiki page at Owasp.org](https://www.owasp.org/index.php?title=Owasp-Summit-2017)
 * [Slack channel](https://owasp.slack.com/archives/owasp-dsc-summit)
 * [Trello](https://trello.com/owaspdevsecconsummit2017)
-* [@OwaspDevSecCon](https://twitter.com/OWASPDevSecCon) - twitter (currently being updated)
+* Todo - twitter 
 
 ### Initial Vision
 
-> **Owasp-DevSecCon Summit, England, April 2017**
+> **Owasp Summit 2017, England, April 2017**
 >
 > OWASP is joining forces with DevSecCon to create a Summit focused on the collaboration between
 Developers and Application Security.

@@ -8,4 +8,4 @@ site: http://www.londonsyonpark.com/
 
 Projected cost per person: £259
 
-Here is a [zip with photos](https://github.com/OWASP/owasp-devseccon-summit/releases/download/venue-photos-nov-2016/Photos-Hilton-Syon-Park.zip)
+Here is a [zip with photos](https://github.com/OWASP/owasp-Summit-2017/releases/download/venue-photos-nov-2016/Photos-Hilton-Syon-Park.zip)
