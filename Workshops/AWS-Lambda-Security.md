@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AWS Lambda Security
-type: workshop
+type: bkbkjsbfdkqjbds
 ---
 
 ## AWS Lambda Security
