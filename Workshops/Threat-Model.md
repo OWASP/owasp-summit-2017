@@ -15,6 +15,7 @@ Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
 - Bryan Sullivan
 - Dave LeBlanc
 - John Steven
+- Robert Hurlbut
 - Sammy Migues
 - Aarun (Threatmodeler owner)
 - Continuum people?
