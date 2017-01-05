@@ -18,7 +18,7 @@ Welcome to the home page of the Owasp Summit 2017
 
 > **Owasp Summit 2017, England, 12-16 June 2017**
 >
-> OWASP is orgnizing a new Summit in 2017 focused on the collaboration between Developers and Application Security.
+> OWASP is organizing a new Summit in 2017 focused on the collaboration between Developers and Application Security.
 >
 > This is not a conference with uni-directional presentations, this is a working summit with working sessions on areas like:
 > * Secure Coding, Security Testing/TDD, DevOps,
