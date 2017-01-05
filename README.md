@@ -11,16 +11,14 @@ Welcome to the home page of the Owasp Summit 2017
 ### Other sites
 
 * [Wiki page at Owasp.org](https://www.owasp.org/index.php?title=Owasp-Summit-2017)
-* [Slack channel](https://owasp.slack.com/archives/owasp-dsc-summit)
-* [Trello](https://trello.com/owaspdevsecconsummit2017)
+* [Slack channel](https://owasp.slack.com/archives/owasp-summit)
 * Todo - twitter 
 
 ### Initial Vision
 
-> **Owasp Summit 2017, England, April 2017**
+> **Owasp Summit 2017, England, 12-16 June 2017**
 >
-> OWASP is joining forces with DevSecCon to create a Summit focused on the collaboration between
-Developers and Application Security.
+> OWASP is orgnizing a new Summit in 2017 focused on the collaboration between Developers and Application Security.
 >
 > This is not a conference with uni-directional presentations, this is a working summit with working sessions on areas like:
 > * Secure Coding, Security Testing/TDD, DevOps,
@@ -39,6 +37,6 @@ Developers and Application Security.
 >
 > If you care about Application Security and want to collaborate with the key players in this industry, this is the event to be.
 >
-> The Summit will occur in England, April or June 2017, with an entry ticket of $2000 (covering travel + hotel + accommodation + event fee). OWASP is funding a large number of its leaders and other deserving individuals to attend, so if you feel you can't afford this fee, or your company is not in a position to sponsor you, please contact the event organisers.
+> The Summit will occur in England, 12-16 June 2017, with an entry ticket of 1200 GBP (covering stay + accommodation + event fee). OWASP has somefunding for its leaders and other deserving individuals to attend, so if you feel you can't afford this fee, or your company is not in a position to sponsor you, please contact the event organisers.
 >
 > If you want to be involved, add you name to the [Participants](Participants) page
