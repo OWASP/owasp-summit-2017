@@ -1,0 +1,4 @@
+---
+layout: workshops
+title: Workshops
+---
