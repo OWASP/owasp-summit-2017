@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h2>Workshops</h2>
+
+<p>Here is all the current Workshops this Summit</p>
+
+<p>You can edit these and add news on  <a href='https://github.com/OWASP/owasp-summit-2017/tree/master/Workshops'>GitHub</a> 
+
+<h5>Workshops</h5>
+
+<ul>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.title and page.type == 'workshop' %}
+                <li><a href="/owasp-summit-2017{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</ul>
