@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h2>Participants</h2>
+
+<p>List of Summit attendees</p>
+<ul>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.title and page.type == 'participant' %}
+                <li><a href="/owasp-summit-2017{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</ul>
+
+<p>To Edit or add new workshops please fork the repo and use <a href='https://github.com/OWASP/owasp-summit-2017/tree/master/Participants'>these pages</a>
