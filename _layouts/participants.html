@@ -9,7 +9,7 @@ layout: default
     <ul>
         {% for page in site.pages %}
             {% if page.title and page.type == 'participant' %}
-                <li><a href="/{{page.url}}">{{page.title}}</a></li>
+                <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
