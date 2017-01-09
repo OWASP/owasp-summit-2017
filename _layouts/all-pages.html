@@ -14,7 +14,7 @@ layout: default
     <ul>
         {% for page in site.pages %}
             {% if page.title and page.type == 'workshop' %}
-                <li><a href="/owasp-summit-2017{{page.url}}">{{page.title}}</a></li>
+                <li><a href="/{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
@@ -26,7 +26,7 @@ layout: default
     <ul>
         {% for page in site.pages %}
             {% if page.title and page.type == 'participant' %}
-                <li><a href="/owasp-summit-2017{{page.url}}">{{page.title}}</a></li>
+                <li><a href="/{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
@@ -39,7 +39,7 @@ layout: default
     <ul>
         {% for page in site.pages %}
             {% if page.title and page.type == 'logistic' %}
-                <li><a href="/owasp-summit-2017{{page.url}}">{{page.title}}</a></li>
+                <li><a href="/{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
