@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Alexander-Antukh
+title: Alexander Antukh
 type: participant
 ---
 
 
 ## Alexander-Antukh
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
+http://linkedin.com/in/antukh
+http://antukh.com
+https://twitter.com/c0rdis
