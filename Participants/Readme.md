@@ -9,6 +9,7 @@ Add your name below (and create a page for your info) if you are planning to att
 (in alphabetical order)
 
 * [Alexander Antukh](Alexander-Antukh.md)
+* [Bjoern Kimminich](Bjoern-Kimminich.md)
 * [Colin Domoney](Colin-Domoney.md)
 * [David Rook](David-Rook.md)
 * [Dinis Cruz](Dinis-Cruz.md)
