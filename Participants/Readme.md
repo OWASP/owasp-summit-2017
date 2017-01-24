@@ -11,6 +11,7 @@ Add your name below (and create a page for your info) if you are planning to att
 * [Alexander Antukh](Alexander-Antukh.md)
 * [Bjoern Kimminich](Bjoern-Kimminich.md)
 * [Colin Domoney](Colin-Domoney.md)
+* [Daniel Kefer](Daniel-Kefer.md)
 * [David Rook](David-Rook.md)
 * [Dinis Cruz](Dinis-Cruz.md)
 * [Viktorija Almazova](Viktorija-Almazova.md)
