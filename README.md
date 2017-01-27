@@ -8,6 +8,8 @@ type: content
 
 Welcome to the home page of the Owasp Summit 2017
 
+Registration is open [On RegOnline](https://www.regonline.com/owaspsummit2017) 
+
 ### Other sites
 
 * [Wiki page at Owasp.org](https://www.owasp.org/index.php?title=Owasp-Summit-2017)
