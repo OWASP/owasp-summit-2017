@@ -13,7 +13,7 @@ Today's security scanners were built for yesterday's web applications, based on 
 ### Questions
 
 * What makes scanning Javascript-heavy applications so different?
-* What funcionality is missing in today's scanner tools?
+* What functionality is missing in today's scanner tools?
 * How to improve the automation parts of existing tools?
 * How to further assist users during proxied manual pentests?
 * How can vulnerable applications like [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) be used by scanner vendors as a sample victim?
