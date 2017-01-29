@@ -2,6 +2,8 @@
 layout: default
 title: Bjoern Kimminich
 type: participant
+time:vacation
+exprenses:owasp
 ---
 
 ## Bjoern Kimminich
