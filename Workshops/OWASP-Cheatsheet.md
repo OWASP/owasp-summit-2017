@@ -4,7 +4,7 @@ title: OWASP Cheatsheets
 type: workshop
 ---
 
-## ZAP
+## OWASP Cheatsheets
 
 (add details, why, what, who)
 
