@@ -47,3 +47,8 @@ Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
 - Automating threat models
 - Splitting up threat models integration into domain-agnostic and domain-specific
 - Enabling Security champions to perform domain agnostic threat models
+
+
+**Resources and links (please add more):**
+
+- [Developer-Driven Threat Modeling](https://www.infoq.com/articles/developer-driven-threat-modeling)
