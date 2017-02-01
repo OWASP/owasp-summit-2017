@@ -2,6 +2,7 @@
 layout: default
 title: GitHub Organization Reboot
 type: workshop
+track: OWASP Projects
 ---
 
 ## GitHub Organization Reboot
