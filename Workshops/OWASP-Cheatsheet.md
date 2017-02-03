@@ -2,6 +2,7 @@
 layout: default
 title: OWASP Cheatsheets
 type: workshop
+track: OWASP Projects
 ---
 
 ## OWASP Cheatsheets
