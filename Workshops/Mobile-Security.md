@@ -6,6 +6,8 @@ type: workshop
 
 ## Mobile Security
 
+Organizer(s): [Bernhard Mueller](../Participants/Bernhard-Mueller.html) , [Sven Schleier](../Participants/Sven-Schleier.html)
+
 ### Questions to answer:
 * How can requirements from MASVS be integrated into Agile environments?
 * What are pain points at the moment in Mobile Security development, when considering/implementing security?

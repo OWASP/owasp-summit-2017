@@ -10,4 +10,4 @@ type: participant
 * One of the project leaders of Mobile Application Security Verification Standard (MASVS), https://github.com/OWASP/owasp-masvs
 * Project leader of Mobile Hacking Playground, https://github.com/OWASP/OMTG-Hacking-Playground
 
-https://www.linkedin.com/in/sven-schleier-98259194
+[LinkedIn](https://www.linkedin.com/in/sven-schleier-98259194)
