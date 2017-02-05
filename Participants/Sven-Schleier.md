@@ -2,6 +2,7 @@
 layout: default
 title: Sven Schleier
 type: participant
+expenses: owasp
 ---
 
 ## Sven Schleier
