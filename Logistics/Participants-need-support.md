@@ -13,4 +13,4 @@ The OWASP Summit team is committed to brining as many OWASP Leaders (and other c
 
 **Note:** To add your name to the list below add the property ```expenses: owasp``` to your page (see [Bernhard Mueller](https://github.com/OWASP/owasp-summit-2017/edit/master/Participants/Bernhard-Mueller.md) page for an example)
 
-### OWASP leaders:
+### Participants:
