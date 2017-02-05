@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 50K USD seed funds
-type: logistic
+type: archive
 ---
 
 # INPUT for 50K USD seed funds requested to the OWASP board (for meeting 14 Dec 2016)

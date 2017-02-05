@@ -35,3 +35,4 @@ If you are creating content to be added for this site, here are some notes/tips:
 - After summiting the PR, please drop a message in the [#owasp-summit-2017](https://owasp.slack.com/archives/owasp-summit-2017) Slack channel
 - If your changes have not been merged within a couple hours/days feel free to drop a note direct to [Bjoern](mailto:bjoern.kimminich@owasp.org), [Dinis](mailto:dinis.cruz@owasp.org) or [Seba](mailto:seba@owasp.org)
 - When creating links between pages, please link to the HTML page in the owaspsummit.org site (i.e. don't link to the GitHub page)
+- When creating files use - instead of spaces or _ (in the filename)
