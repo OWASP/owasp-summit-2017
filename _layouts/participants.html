@@ -6,13 +6,13 @@ layout: default
 
 <p>List of Summit attendees</p>
 <ul>
-    <ul>
+    <ol>
         {% for page in site.pages %}
             {% if page.title and page.type == 'participant' %}
                 <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
-    </ul>
+    </ol>
 </ul>
 
 <p>To add your name to this repo please fork the repo and use <a href='https://github.com/OWASP/owasp-summit-2017/tree/master/Participants'>these pages</a>

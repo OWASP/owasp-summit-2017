@@ -2,6 +2,7 @@
 layout: default
 title: Mobile Security
 type: workshop
+track: project-summit
 ---
 
 ## Mobile Security

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ZAP
+title: Bug Bounty
 type: workshop
 track: project-summit
 ---
 
-## ZAP
+## Bug Bounty
 
-(add details, why, what, who)
+_(add details, why, what, who)_

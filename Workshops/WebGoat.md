@@ -2,7 +2,7 @@
 layout: default
 title: Webgoat
 type: workshop
-track: OWASP Projects
+track: project-summit
 ---
 
 ## WebGoat

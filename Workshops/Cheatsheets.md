@@ -1,8 +1,8 @@
 ---
 layout: default
-title: OWASP Cheatsheets
+title: Cheatsheets
 type: workshop
-track: OWASP Projects
+track: project-summit
 ---
 
 ## OWASP Cheatsheets

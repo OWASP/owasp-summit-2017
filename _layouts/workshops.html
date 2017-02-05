@@ -6,13 +6,13 @@ layout: default
 
 <p>First pass at mapping Summit Workshops:</p>
 <ul>
-    <ul>
+    <ol>
         {% for page in site.pages %}
             {% if page.title and page.type == 'workshop' %}
                 <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}
-    </ul>
+    </ol>
 </ul>
 
 <p>To Edit or add new workshops please fork the repo and use <a href='https://github.com/OWASP/owasp-summit-2017/tree/master/Workshops'>these pages</a>

@@ -2,7 +2,7 @@
 layout: default
 title: OwaspSAMM
 type: workshop
-track: OWASP Projects
+track: project-summit
 ---
 
 ## OwaspSAMM
