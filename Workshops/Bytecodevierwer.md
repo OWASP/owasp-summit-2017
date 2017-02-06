@@ -6,7 +6,7 @@ track: open-source-tools
 ---
 
 ## Bytecodeviewer
-Category: Mobile Penetartion Testing (Android)
+Category: Mobile Penetration Testing (Android)
 
 ###Why:
 Because Bytecodeviewer is one, if not the best open source tools to reverse engineering APK's. 
