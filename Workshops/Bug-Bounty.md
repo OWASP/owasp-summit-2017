@@ -9,6 +9,7 @@ track: project-summit
 
 Why:
 OWASP bug bounty program is the opportunity you are looking for to hack into defender libraries & ZAP
+
 Learn how we are trying to make web applications safe and how can you help us as bounty hunter to make them
 more secure
 
