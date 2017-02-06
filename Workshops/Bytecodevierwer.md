@@ -5,11 +5,12 @@ type: workshop
 track: open-source-tools
 ---
 
-## Bytecodevierwer
+## Bytecodeviewer
 
 
 ###Why:
 Because Bytecodeviewer is one, if not the best open source tools to reverse engineering APK's. 
+The follwoing workshop is teh result of a 5 month reserach into Pen testing mobile APK's @ Securify.nl
 
 ###Who:
 - New to pentesting mobile android apps? Welcome
