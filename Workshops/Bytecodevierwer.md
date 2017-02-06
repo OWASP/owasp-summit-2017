@@ -7,9 +7,18 @@ track: open-source-tools
 
 ## Bytecodevierwer
 
-_(add details, why, what, who)_
-Why:
-One of the best open source tools to reverse engineering APK's is Bytecodeviewer. This workshop will provide attendees knowledge on:
+
+###Why:
+Because Bytecodeviewer is one, if not the best open source tools to reverse engineering APK's. 
+
+###Who:
+- New to pentesting mobile android apps? Welcome
+- New to Bytecodeviewer? Welcome!
+
+###When
+12, 13 June - 2017
+
+This workshop will provide attendees knowledge on:
 - The process of pen testing Mobile Android applications vs Web Apps
 - The challenges of Pentesting Mobile Android apps 
 - The role of reverse engineering in pentesting Mobile Apps
@@ -18,8 +27,10 @@ One of the best open source tools to reverse engineering APK's is Bytecodeviewer
 - Installing Xposed Framework
 - Why emulators do not provide the right or limited testing environment
 - Introduction to Bytecodeviewer
+- Reverse Engineering with Bytecodeviewer
 - How to use Xposed Framework 
-- Hacking an app with Xposed
+- Analzying with Bytecode and Hacking an app with Xposed
+- Using the Xposed Generator (new feature!)
 - Pre-release Bytecodeviewer 3.0.0. with new features!
 
 Reverse engineering APKS with Bytecodevierwer (Pre-release 3.0.0) features:
