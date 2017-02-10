@@ -6,27 +6,7 @@ type: workshop
 
 ## Threat Model
 
-Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
-
-**Who should be there**
-
-- Michael Howard
-    17/01 (2017 Jan). Cannot attend.
-- Adam Shostack
-    17/01. In discussion.
-- Bryan Sullivan
-    17/01. No response yet.
-- Dave LeBlanc
-    17/01. In discussion.
-- John Steven
-    17/01. No response yet.
-- Robert Hurlbut
-    17/01. In discussion.
-- Sammy Migues
-    17/01. Cannot attend.
-- Aarun (Threatmodeler owner)
-- Continuum people?
-- Security Compass people?
+Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md), Tony UV
 
 **Threat Modeling Workshop ideas**
 
