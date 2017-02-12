@@ -7,4 +7,6 @@ type: participant
 
 (add info, links, blogs, twitter, bio, what would like to see at the summit)
 
-* Adrian is proposing a new project Software Defined Everything (SDx) and Application Security for the Summit
+* Adrian is proposing two new project's for the Summit
+-> "Software Defined Everything (SDx) and Application Security"
+-> "New Application Security Undergrad and Postgrad Standards"
