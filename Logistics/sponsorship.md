@@ -6,7 +6,7 @@ type: logistic
 
 ## OWASP Summit 2017: sponsorship options
 
-If you are interested in one of the sponsorships packages below please contact [Francois](mailto:francois@devseccon.com) or [Kelly Santalucia](mailto:kelly.santalucia@owasp.org)
+If you are interested in one of the sponsorships packages below please contact [Francois Raynaud](mailto:francois@devseccon.com) or [Kelly Santalucia](mailto:kelly.santalucia@owasp.org)
 
 ### Platinum sponsor: 10.000$ (villa and project)
 
@@ -44,13 +44,13 @@ If you are interested in one of the sponsorships packages below please contact [
 - daily
 - end of summit party 
 
-#### entertainment (display of company logo co-branded) - review cost
+#### entertainment (display of company logo co-branded) - 1000$
 - clay piegon shooting
 - tennis
 - bowling
 - ...
 
-#### Meals (display of company logo co-branded) - review cost
+#### Meals (display of company logo co-branded) - 1000$
 - breakfast
 - lunch 
 - dinner
