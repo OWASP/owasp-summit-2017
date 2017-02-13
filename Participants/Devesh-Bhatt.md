@@ -2,7 +2,7 @@
 layout: default
 title: Devesh Bhatt
 type: participant
-expense: owasp
+expenses: owasp
 ---
 
 ## Devesh Bhatt
