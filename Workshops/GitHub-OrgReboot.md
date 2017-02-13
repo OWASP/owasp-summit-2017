@@ -7,6 +7,8 @@ track: project-summit
 
 ## GitHub Organization Reboot
 
+Organizer(s): Bjoern Kimminich
+
 ### Problem statement
 
 The [OWASP GitHub organization](https://github.com/owasp) hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them. GitHub has become kind of a de-facto standard for OSS projects and using this platform and associated ecosystem of SaaS to its full potential could make a big difference when it comes to gaining new contributors.
