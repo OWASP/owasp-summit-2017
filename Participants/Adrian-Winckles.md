@@ -7,7 +7,7 @@ expenses: owasp and ARU
 
 ##Adrian Winckles
 
-I’ve approached my employer who can give me the time  to attend but isn’t going to be able to cover the accomodation cost but will cover travel. 
+I’ve approached my employer who can give me the time to attend but isn’t going to be able to cover the accomodation cost but will cover travel. 
 
 This is due to funding for me to go to AppSec Europe 2017 in Belfast in May with a team for the University Challenge
 
