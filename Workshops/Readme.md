@@ -8,6 +8,7 @@ Ideas for workshops to do:
 - [NextGen Security Scanners](NextGen-SecurityScanners.md)
 - [Responsible Disclosure](Responsible-disclosure.md)
 - [Securing GitHub Integrations](Securing-GitHub-Integrations.md)
+- [Software Defined Everything (SDx)](Software-Defined-Everything-(SDx).md)
 - [Threat-Model](Threat-Model.md)
 - [WebGoat](WebGoat.md)
 - [ZAP](ZAP.md)
@@ -25,5 +26,6 @@ Ideas for workshops to do:
 - Ethical security / User as a commodity
 - RISK workflows
 - Security in IDES
+- Software Defined Everything (SDx)
 - Privacy
 - SAST (custom rules)
