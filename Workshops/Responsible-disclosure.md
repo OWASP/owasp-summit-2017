@@ -25,7 +25,7 @@ Responsible disclosure is a great way to have multiple eyes with different metho
 We would like to invite the following people:
 * Casey Ellis (BugCrowd Founder)
 * Frans Rosen (Renowned bounty hunter)
-* Andrew Pham (Community Manager, Synack)
+
 
 as well as:
 
