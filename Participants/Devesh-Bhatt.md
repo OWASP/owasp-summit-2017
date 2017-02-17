@@ -3,6 +3,7 @@ layout: default
 title: Devesh Bhatt
 type: participant
 expenses: owasp
+flight: 1000
 ---
 
 ## Devesh Bhatt
