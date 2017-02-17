@@ -15,11 +15,14 @@ This is due to funding for me to go to AppSec Europe 2017 in Belfast in May with
 
 What I would also like to propose is two ideas for Workshops/Themes
 
-> Software Defined Everything (SDx) (which I’ve been having discussions with Frank Catucci, Azeddine Mennouchi & Bev Corwin to raise this at AppSec this year
-> Application Security BSc/Masters Curriculum Design - initial discussions with Andrew van der Stock & Tiffany so I see the summit as an opportunity to get this started.
+ - [Software-Defined-Everything-(SDx)](../Workshops/Software-Defined-Everything-(SDx).html)
+ - [Application Security BSc/Masters Curriculum Design)](../Workshops/AppSec-BSc-Masters-Curriculum-Design.html)
+ 
 
-* [OWASP Cambridge Chapter Leader] (https://www.owasp.org/index.php/Cambridge)
+#### OWASP Contributions
+
+* [OWASP Cambridge Chapter Leader](https://www.owasp.org/index.php/Cambridge)
 * OWASP European Board Member
 * [OWASP AppSec Europe 2014 Chair] (https://2014.appsec.eu)
-* [LinkedIn] (https://www.linkedin.com/in/adrian-winckles-2582ab3)
-* Twitter: [@botflowking]
+* [LinkedIn](https://www.linkedin.com/in/adrian-winckles-2582ab3)
+* [Twitter](twitter.com/botflowking)
