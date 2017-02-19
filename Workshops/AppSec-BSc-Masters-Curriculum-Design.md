@@ -8,8 +8,6 @@ type: workshop
 
 Organizer(s): [Adrian-Winckles](../Participants/Adrian-Winckles.html)
 
-_"(initial discussions with Andrew van der Stock & Tiffany so I see the summit as an opportunity to get this started.)"_
-
 Part of OWASP's main purpose is to _"Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software"_ and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next geenration as well especially with the acknowledged skill shortge in the whole sector that exists.
 
 A common problem with many security education education programmes (whether we say cyber or infosec) or even tradiitonal computer science programs is that they do not address application security adequatley or in some cases at all.  In some regions there have been the starting motions of trying to address this deficit.  In the Uk for example ISC2 and the BCS are working on an initiiative to embed security firnly within the Comouter Science curriculum especially scure coding techniques and OWASP (through myself) are slso championing this initative.
