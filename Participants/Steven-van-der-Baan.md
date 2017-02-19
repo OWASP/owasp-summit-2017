@@ -2,6 +2,11 @@
 layout: default
 title: Steven van der Baan
 type: participant
+job-title:
+image: https://pbs.twimg.com/profile_images/2150492060/P7310595_400x400.JPG
+linkedin:
+twitter: vdbaan
+facebook:
 ---
 
 ## Steven van der Baan

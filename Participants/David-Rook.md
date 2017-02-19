@@ -2,6 +2,11 @@
 layout: default
 title: David Rook
 type: participant
+job-title:
+image: https://pbs.twimg.com/profile_images/745937762386317312/EqDgkbDM_400x400.jpg
+linkedin:
+twitter: davidrook
+facebook:
 ---
 
 ## David Rook

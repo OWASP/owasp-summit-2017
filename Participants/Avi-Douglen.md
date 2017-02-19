@@ -3,6 +3,11 @@ layout: default
 title: Avi Douglen
 type: participant
 expenses: owasp
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Avi Douglen

@@ -4,6 +4,11 @@ title: Devesh Bhatt
 type: participant
 expenses: owasp
 flight: 1000
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Devesh Bhatt

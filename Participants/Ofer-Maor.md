@@ -2,6 +2,11 @@
 layout: default
 title: Ofer Maor
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Ofer Maor

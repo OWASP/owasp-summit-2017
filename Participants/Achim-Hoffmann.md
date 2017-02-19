@@ -2,6 +2,11 @@
 layout: default
 title: Achim Hoffmann
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## [Achim Hoffmann](https://www.owasp.org/index.php/User:Achim)

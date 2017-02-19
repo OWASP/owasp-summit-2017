@@ -3,6 +3,11 @@ layout: default
 title: Johanna Curiel
 type: participant
 expenses: owasp
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Johanna Curiel

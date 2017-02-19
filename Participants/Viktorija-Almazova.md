@@ -2,6 +2,11 @@
 layout: default
 title: Viktorija Almazova
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Viktorija Almazova

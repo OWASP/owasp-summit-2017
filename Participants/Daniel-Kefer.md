@@ -2,6 +2,11 @@
 layout: default
 title: Daniel Kefer
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Daniel Kefer

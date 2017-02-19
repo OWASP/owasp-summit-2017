@@ -2,6 +2,11 @@
 layout: default
 title: Geoff Hill
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Geoff Hill

@@ -2,6 +2,11 @@
 layout: default
 title: Nanne-Baars
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ### Nanne-Baars

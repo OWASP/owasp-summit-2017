@@ -2,6 +2,11 @@
 layout: default
 title: Alexander Antukh
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 

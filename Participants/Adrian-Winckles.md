@@ -5,6 +5,11 @@ type: participant
 time: work
 expenses: owasp
 time: ARU
+job-title: ....
+image: https://pbs.twimg.com/profile_images/589462457015476224/-f9sW6zr_400x400.jpg
+linkedin:
+twitter: botflowking
+facebook:
 ---
 
 ## Adrian Winckles

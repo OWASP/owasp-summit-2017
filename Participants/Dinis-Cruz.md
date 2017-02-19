@@ -2,6 +2,10 @@
 layout: default
 title: Dinis Cruz
 type: participant
+job-title: Application Security
+image: https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
+linkedin: diniscruz
+twitter: DinisCruz
 ---
 
 ## Dinis Cruz

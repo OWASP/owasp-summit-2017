@@ -2,6 +2,11 @@
 layout: default
 title: Lucas Ferreira
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Lucas Ferreira

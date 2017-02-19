@@ -4,6 +4,11 @@ title: Bjoern Kimminich
 type: participant
 time: vacation
 expenses: owasp
+job-title: IT Architect @KNLogistics
+image: https://pbs.twimg.com/profile_images/791646959090200576/hHp8iliO_400x400.jpg
+linkedin:
+twitter: bkimminich
+facebook:
 ---
 
 ## Bjoern Kimminich

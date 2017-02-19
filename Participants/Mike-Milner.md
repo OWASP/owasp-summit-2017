@@ -2,6 +2,11 @@
 layout: default
 title: Mike Milner
 type: participant
+job-title:
+image: 
+linkedin:
+twitter:
+facebook:
 ---
 
 ## Mike Milner
