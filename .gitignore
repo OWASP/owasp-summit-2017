@@ -2,3 +2,4 @@ _site
 .idea/
 .vscode/
 *.iml
+_event_point_files/eventpoint_v1.1.0
