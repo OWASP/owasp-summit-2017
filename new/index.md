@@ -1,5 +1,5 @@
 ---
-layout: event-point/home-page
+layout: event-point/index
 title: index
 ---
 

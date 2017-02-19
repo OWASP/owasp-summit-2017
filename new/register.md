@@ -1,7 +1,7 @@
 ---
 layout: event-point/page
-title: index
+title: Register
 ---
 
 
-## Register
+Register content goes here
