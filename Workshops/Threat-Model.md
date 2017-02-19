@@ -6,7 +6,7 @@ type: workshop
 
 ## Threat Model
 
-Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md), Tony UV
+Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md), [Tony UV]((../Participants/Tony-UV.md))
 
 **Threat Modeling Workshop ideas**
 
