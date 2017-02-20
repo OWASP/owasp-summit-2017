@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/workshop
 title: Maturity Models tool
 type: workshop
 track: project-summit

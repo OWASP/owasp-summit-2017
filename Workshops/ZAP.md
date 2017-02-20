@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/workshop
 title: ZAP
 type: workshop
 track: project-summit

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/workshop
 title: AppSec Tools
 type: workshop
 ---

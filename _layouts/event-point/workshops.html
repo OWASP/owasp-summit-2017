@@ -23,7 +23,11 @@
                                                     <div class="hits-area">
                                                         <span class="date">Organizer(s):</span>
                                                         <span class="hit-right">
-                                                            ....
+                                                            {% if page.organizers != null %}
+                                                                {{ page.organizers }}
+                                                            {% else %}
+                                                                TBD
+                                                            {% endif %}
                                                         </span>
                                                     </div>
                                                 </div>

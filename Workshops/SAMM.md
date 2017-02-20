@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/workshop
 title: OwaspSAMM
 type: workshop
 track: project-summit

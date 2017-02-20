@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: event-point/workshop
 title: CISO
 type: workshop
+organizers: Ante Gulam
 ---
 
 ## CISO

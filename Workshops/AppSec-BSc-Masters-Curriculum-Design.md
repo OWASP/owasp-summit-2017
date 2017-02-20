@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/workshop
 title: Application Security BSc/Masters Curriculum Design
 type: workshop
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/workshop
 title: OWASP Projects Reviews
 type: workshop
 track: project-summit

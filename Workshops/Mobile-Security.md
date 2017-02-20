@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/workshop
 title: Mobile Security
 type: workshop
 track: project-summit

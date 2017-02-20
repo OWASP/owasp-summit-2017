@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/workshop
 title: Securing GitHub Integrations
 type: workshop
 ---
