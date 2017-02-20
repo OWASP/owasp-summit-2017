@@ -3,11 +3,12 @@ layout: event-point/workshop
 title: GitHub Organization Reboot
 type: workshop
 track: project-summit
+organizers: Bjoern Kimminich
 ---
 
 ## GitHub Organization Reboot
 
-Organizer(s): Bjoern Kimminich
+Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)
 
 ### Problem statement
 
@@ -27,7 +28,7 @@ The [OWASP GitHub organization](https://github.com/owasp) hosts some of the foun
 * Project leaders of OWASP Code or Tool projects
 * Contributors to OWASP Code or Tool projects
 * Software engineers/craftsmen
-* GitHub experts
+* GitHub powerusers
 
 ### Potential outcomes
 
