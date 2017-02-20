@@ -4,7 +4,7 @@ title: Bernhard Mueller
 type: participant
 time: vacation
 expenses: owasp
-job-title: Security Researcher of Everything
+job-title: Security Researcher
 image: https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
 linkedin:
 twitter: muellerberndt

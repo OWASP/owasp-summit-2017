@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: event-point/page
 title: Summit Site
 type: logistic
 ---
-
-
-## Summit Site
 
 This page contains details about how the [http://owaspsummit.org](http://owaspsummit.org) site works
 

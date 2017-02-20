@@ -1,11 +1,8 @@
 ---
-layout: participants-need-support
+layout: event-point/page
 title: Participants that need support
 type: logistic
 ---
-
-
-## Participants that need support
 
 Here is the current list of OWASP leaders (and others) that require funding support to participate in Summit (i.e. the travel and ticket costs)
 
@@ -14,3 +11,14 @@ The OWASP Summit team is committed to brining as many OWASP Leaders (and other c
 **Note:** To add your name to the list below add the property ```expenses: owasp``` to your page (see [Bernhard Mueller](https://github.com/OWASP/owasp-summit-2017/edit/master/Participants/Bernhard-Mueller.md) page for an example)
 
 ### Participants:
+
+
+<ul>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.title and page.expenses == 'owasp' %}
+                <li><a href="{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</ul>

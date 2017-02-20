@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: event-point/page
 title: OWASP Band
 type: logistic
 ---
-
-## OWASP Band
 
 Using the same model used in previous performances of the OWASP band (at multiple OWASP conferences and Summits), if you can play an instrument, sing or can do anything related to an musical performance, please add your name below.
 
