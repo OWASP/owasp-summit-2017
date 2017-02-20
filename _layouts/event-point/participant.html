@@ -10,6 +10,15 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <article class="lgx-card-single">
+                                <figure>
+                                    {% if page.image != null %}
+                                    <a class="profile-img" href="{{page.url}}"><img src="{{page.image}}" alt="speaker"/></a>
+                                    {% else %}
+                                    <a class="profile-img" href="{{page.url}}"><img src="http://placehold.it/400x400" alt="speaker"/></a>
+                                    {% endif %}
+                                    <br>
+                                    <br>
+                                </figure>
                                 <section>
                                     {{ content }}
                                 </section>
@@ -17,6 +26,9 @@
                         </div>
                     </div>
                 </div>
+                <br>
+                <br>
+                Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>
             </div>
         </div>
     </div>
