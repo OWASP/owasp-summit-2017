@@ -7,13 +7,15 @@ track: project-summit
 
 ## OWASP Bug Bounty
 
-Why:
+### Why:
+
 OWASP bug bounty program is the opportunity you are looking for to hack into defender libraries & ZAP
 
 Learn how we are trying to make web applications safe and how can you help us as bounty hunter to make them
 more secure
 
-When:
+### When:
+
 14 June, 2017
 
-https://www.owasp.org/index.php/Get_Started_with_OWASP_Bug_Bounty
+More details at [Get_Started_with_OWASP_Bug_Bounty](https://www.owasp.org/index.php/Get_Started_with_OWASP_Bug_Bounty)
