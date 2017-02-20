@@ -1,5 +1,5 @@
 ---
-layout: event-point/page
+layout: event-point/workshops
 title: Workshops
 ---
 
