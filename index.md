@@ -1,6 +1,6 @@
 ---
-layout: all-pages
-title:
+layout: event-point/index
+title: index
 ---
 
-You can read all content in [one page here](all-content.html)
+
