@@ -7,7 +7,7 @@ flight: 1000
 job-title:
 image: https://pbs.twimg.com/profile_images/789848592680783876/iVOr_MaR.jpg
 linkedin:
-twitter:deveshbhatt11
+twitter: deveshbhatt11
 facebook:
 ---
 
