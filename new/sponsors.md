@@ -31,7 +31,7 @@ If you are interested in one of the sponsorships packages below please contact [
 - 5 full ticket including accomodation and food		
 - name associated with villa
 - sponsor a project
-- swag/promotional material in people accomodations
+- swag/promotional material in people accommodations
 - logo posted on event website
 - logo included in printed summit guide
 - social media announcement
@@ -41,7 +41,7 @@ If you are interested in one of the sponsorships packages below please contact [
 
 - 4 full ticket including accomodation and food
 - sponsor an project
-- swag/promotional material in people accomodations
+- swag/promotional material in people accommodations
 - name right in project work
 - logo posted on event website
 - logo included in printed summit guide
@@ -51,7 +51,7 @@ If you are interested in one of the sponsorships packages below please contact [
 ### Silver sponsor: $3,500 - 10 available
 
 - 2 full ticket including accomodation and food
-- swag/promotional material in people accomodations
+- swag/promotional material in people accommodations
 - logo posted on event website
 - logo included in printed summit guide
 - social media announcement
