@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Geoff Hill
 type: participant
 job-title:

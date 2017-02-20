@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Daniel Kefer
 type: participant
 job-title:

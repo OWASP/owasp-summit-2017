@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Lucas Ferreira
 type: participant
 job-title:

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Nanne-Baars
 type: participant
 job-title:

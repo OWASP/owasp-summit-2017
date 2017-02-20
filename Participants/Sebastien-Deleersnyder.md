@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Sebastien Deleersnyder
 type: participant
 job-title:

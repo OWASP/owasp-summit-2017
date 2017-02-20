@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: David Rook
 type: participant
 job-title:

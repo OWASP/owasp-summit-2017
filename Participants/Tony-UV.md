@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Tony UV
 type: participant
 job-title:

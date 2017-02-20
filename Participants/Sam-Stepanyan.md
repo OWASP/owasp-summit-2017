@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Sam Stepanyan
 type: participant
 job-title:

@@ -18,9 +18,9 @@
                                 <div class="lgx-single-speaker lgx-single-speaker-sm">
                                     <figure>
                                         {% if page.image != null %}
-                                            <a class="profile-img" href="speaker-single.html"><img src="{{page.image}}" alt="speaker"/></a>
+                                            <a class="profile-img" href="{{page.url}}"><img src="{{page.image}}" alt="speaker"/></a>
                                         {% else %}
-                                            <a class="profile-img" href="speaker-single.html"><img src="http://placehold.it/400x400" alt="speaker"/></a>
+                                            <a class="profile-img" href="{{page.url}}"><img src="http://placehold.it/400x400" alt="speaker"/></a>
                                         {% endif %}
                                         <figcaption>
                                             {% if page.twitter != null %}

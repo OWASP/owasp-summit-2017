@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Ofer Maor
 type: participant
 job-title:

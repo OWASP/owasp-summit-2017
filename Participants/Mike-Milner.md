@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Mike Milner
 type: participant
 job-title:

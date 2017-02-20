@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Colin Domoney
 type: participant
 job-title: Veracode

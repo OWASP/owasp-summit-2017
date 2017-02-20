@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Bernhard Mueller
 type: participant
 time: vacation

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Achim Hoffmann
 type: participant
 job-title:
@@ -9,9 +9,10 @@ twitter:
 facebook:
 ---
 
-## [Achim Hoffmann](https://www.owasp.org/index.php/User:Achim)
+See bio at [Owasp personal page](https://www.owasp.org/index.php/User:Achim)
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
+
+### OWASP Involvement
 
 * [O-Saft](https://www.owasp.org/index.php/O-Saft) Project Leader
 * Administrating mail and mailing list for lists.owasp.org

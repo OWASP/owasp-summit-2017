@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Stefan Streichsbier
 type: participant
 job-title:

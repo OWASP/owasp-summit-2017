@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Bjoern Kimminich
 type: participant
 time: vacation

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Claudia Casanovas
 type: participant
 expenses: owasp

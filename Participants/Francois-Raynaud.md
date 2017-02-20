@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Francois Raynaud
 type: participant
 job-title: DevSecCon

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Avi Douglen
 type: participant
 expenses: owasp

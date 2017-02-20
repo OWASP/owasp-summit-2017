@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Talal Albacha
 type: participant
 job-title:

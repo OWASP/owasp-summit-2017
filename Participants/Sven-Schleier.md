@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Sven Schleier
 type: participant
 expenses: owasp

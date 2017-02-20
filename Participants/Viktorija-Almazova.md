@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Viktorija Almazova
 type: participant
 job-title:

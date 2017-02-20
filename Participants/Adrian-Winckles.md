@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Adrian Winckles
 type: participant
 time: work

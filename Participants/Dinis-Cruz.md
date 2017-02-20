@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Dinis Cruz
 type: participant
 job-title: Application Security

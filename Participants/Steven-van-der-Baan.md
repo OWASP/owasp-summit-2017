@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Steven van der Baan
 type: participant
 job-title:

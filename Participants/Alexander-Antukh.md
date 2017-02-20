@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/participant
 title: Alexander Antukh
 type: participant
 job-title:
