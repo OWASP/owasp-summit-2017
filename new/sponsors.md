@@ -5,7 +5,7 @@ title: Sponsors
 
 ### Platinum Sponsors:
 
-* <img src='https://cdn.evbuc.com/eventlogos/143560311/eventbritelogo.png' width='120'>
+* [<img src='https://cdn.evbuc.com/eventlogos/143560311/eventbritelogo.png' width='100'>](https://www.devseccon.com/) 
 * **OwaspSAMM Project** - 10k USD
 
 ### Gold Sponsors:
