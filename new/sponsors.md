@@ -5,12 +5,12 @@ title: Sponsors
 
 ### Platinum Sponsors:
 
-![](https://cdn.evbuc.com/eventlogos/143560311/eventbritelogo.png)
-
+* <img src='https://cdn.evbuc.com/eventlogos/143560311/eventbritelogo.png' width='180'>
+* <h2>OwaspSAMM Project</h2>
 
 ### Gold Sponsors:
 
-Comming soon
+* <h2>OWASP London Chapter</h2>
 
 ### Silver Sponsors:
 
