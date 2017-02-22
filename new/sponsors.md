@@ -6,11 +6,12 @@ title: Sponsors
 ### Platinum Sponsors:
 
 * <img src='https://cdn.evbuc.com/eventlogos/143560311/eventbritelogo.png' width='120'>
-* <h4>OwaspSAMM Project</h4>
+* **OwaspSAMM Project** - 10k USD
 
 ### Gold Sponsors:
 
-* <h5>OWASP London Chapter</h5>
+* **OWASP London Chapter** - 6.5k USD
+* **OWASP Dever Chapter** - 5.0k USD
 
 ### Silver Sponsors:
 
