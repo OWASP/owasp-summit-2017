@@ -12,6 +12,7 @@ title: Sponsors
 
 * **OWASP London Chapter** - 6.5k USD
 * **OWASP Dever Chapter** - 5.0k USD
+* [<img src='https://www.toreon.com/wp-content/uploads/2016/07/logo.png' width='100'>](https://www.toreon.com)
 
 ### Silver Sponsors:
 
