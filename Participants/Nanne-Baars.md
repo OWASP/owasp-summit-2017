@@ -3,7 +3,7 @@ layout: event-point/participant
 title: Nanne-Baars
 type: participant
 job-title: Developer
-image: https://github.com/nbaars/webgoat-gothenburg/blob/master/nanne-baars.png
+image: https://raw.githubusercontent.com/nbaars/webgoat-gothenburg/master/nanne-baars.png
 linkedin: https://nl.linkedin.com/in/nanne-baars-34252b127
 twitter: 
 facebook: 
