@@ -2,7 +2,9 @@
 layout: event-point/participant
 title: Achim Hoffmann
 type: participant
-job-title:
+time: vacation
+expenses: owasp
+job-title: O-Saft Project Leader
 image: 
 linkedin:
 twitter:
