@@ -12,4 +12,4 @@ facebook:
 ## Francois Raynaud
 
 * [LinkedIn](https://www.linkedin.com/in/francoisraynaud)
-* [Twitter](twitter.com/devseccon)
+* [Twitter](https://twitter.com/devseccon)
