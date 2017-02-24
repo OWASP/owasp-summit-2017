@@ -10,7 +10,7 @@ If you are interested in one of the sponsorships packages below please contact [
 
 ### Platinum sponsor: $10,000 (villa and project) - 2 available
 
-- 5 full ticket including accomodation and food		
+- 5 full tickets including accommodation and food		
 - name associated with villa
 - sponsor a project
 - swag/promotional material in people accomodations
@@ -21,7 +21,7 @@ If you are interested in one of the sponsorships packages below please contact [
 
 ### Gold sponsor: $7,000 (project) - 4 available
 
-- 4 full ticket including accomodation and food
+- 4 full tickets including accommodation and food
 - sponsor an project
 - swag/promotional material in people accomodations
 - name right in project work
@@ -32,7 +32,7 @@ If you are interested in one of the sponsorships packages below please contact [
 
 ### Silver sponsor: $3,500 - 10 available
 
-- 2 full ticket including accomodation and food
+- 2 full tickets including accommodation and food
 - swag/promotional material in people accomodations
 - logo posted on event website
 - logo included in printed summit guide
