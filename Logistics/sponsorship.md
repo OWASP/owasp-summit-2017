@@ -16,7 +16,7 @@ If you are interested in one of the sponsorships packages below please contact [
 - swag/promotional material in people accomodations
 - logo posted on event website
 - logo included in printed summit guide
-- social media announcement
+- social media announcement from the OWASP Summit twitter account
 - logo on tote bag
 
 ### Gold sponsor: $7,000 (project) - 4 available
@@ -27,7 +27,7 @@ If you are interested in one of the sponsorships packages below please contact [
 - name right in project work
 - logo posted on event website
 - logo included in printed summit guide
-- social media announcement
+- social media announcement from the OWASP Summit twitter account
 - logo on tote bag
 
 ### Silver sponsor: $3,500 - 10 available
@@ -36,13 +36,13 @@ If you are interested in one of the sponsorships packages below please contact [
 - swag/promotional material in people accomodations
 - logo posted on event website
 - logo included in printed summit guide
-- social media announcement
+- social media announcement from the OWASP Summit twitter account
 
 ### Other Sponsoring Opportunities:
 
-#### Drinks (display of company logo co-branded) - $500 
-- daily
-- end of summit party 
+#### Daily Drinks (display of company logo co-branded) - $500 
+
+#### End of Summit party (display of company logo co-branded) - $3,000
 
 #### Entertainment (display of company logo co-branded) - $1,000
 - clay piegon shooting
