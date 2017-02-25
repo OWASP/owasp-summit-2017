@@ -11,11 +11,11 @@ Organizer: [Kim Carter](../Participants/Kim-Carter.html)
 
 ### Introduction
 
-[NoadGoat](https://github.com/OWASP/NodeGoat) is a deliberately insecure NodeJS web application maintained by a small collection of OWASP leaders/members, designed to teach web application security and the importance of moving the finding and fixing of defects to [within the Development Teams Sprints](https://leanpub.com/holistic-infosec-for-web-developers/read#leanpub-auto-security-focussed-tdd), thus [significantly reducing costs](https://leanpub.com/holistic-infosec-for-web-developers/read#leanpub-auto-cheapest-place-to-deal-with-defects). NodeGoat comes with a [tutorial](https://nodegoat.herokuapp.com/tutorial) that walks the practicioner through what, where and how to fix the baked in OWASP Top 10 defects in a NodeJS context.
+[NoadGoat](https://github.com/OWASP/NodeGoat) is a deliberately insecure NodeJS web application maintained by a small collection of OWASP leaders/members, designed to teach web application security and the importance of moving the finding and fixing of defects to [within the Development Teams Sprints](https://leanpub.com/holistic-infosec-for-web-developers/read#leanpub-auto-security-focussed-tdd), thus [significantly reducing costs](https://leanpub.com/holistic-infosec-for-web-developers/read#leanpub-auto-cheapest-place-to-deal-with-defects). NodeGoat comes with a [tutorial](https://nodegoat.herokuapp.com/tutorial) that walks the practitioner through what, where and how to fix the baked in OWASP Top 10 defects in a NodeJS context.
 
 ### Ideas
 
-Where does the community get the most out of this project and where do we want to take it? I've got lots of ideas, because I'm constantly running both public and private [workshops](https://blog.binarymist.net/presentations-publications/) demonstrating the value that [Security Regression Testing](https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API) utilising NodeGoat and Zap API brings to orananisations, but input and bouncing ideas off of each other can only improve NodeGoat.
+Where does the community get the most out of this project and where do we want to take it? I've got lots of ideas, because I'm constantly running both public and private [workshops](https://blog.binarymist.net/presentations-publications/) demonstrating the value that [Security Regression Testing](https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API) utilising NodeGoat and Zap API brings to organisations, but input and bouncing ideas off of each other can only improve NodeGoat.
 
 ### Work to be done
 
