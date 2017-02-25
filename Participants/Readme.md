@@ -17,6 +17,7 @@ Add your name below (and create a page for your info) if you are planning to att
 * [Dinis Cruz](Dinis-Cruz.md)
 * [Viktorija Almazova](Viktorija-Almazova.md)
 * [Francois Raynaud](Francois-Raynaud.md)
+* [Kim Carter](Kim-Carter.md)
 * [Lucas Ferreira](Lucas-Ferreira.md)
 * [Mike Milner](Mike-Milner.md)
 * [Ofer Maor](Ofer-Maor.md)
