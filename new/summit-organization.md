@@ -11,9 +11,9 @@ If you want to help with the Summit organization or want to know more about what
 * [Summit Site](../Logistics/Summit-site.html)
 
 
-**GitHub Site** 
+**[GitHub](https://github.com/OWASP/owasp-summit-2017) Site** 
 
-Here are the main areas of the https://github.com/OWASP/owasp-summit-2017 site which is used to hold all information, details and data (including this site)
+Here are the main areas of the [https://github.com/OWASP/owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) site which is used to hold all information, details and data (including this site)
  
 * [Issues](https://github.com/OWASP/owasp-summit-2017/issues)
 * [Participants](https://github.com/OWASP/owasp-summit-2017/tree/master/Participants)
