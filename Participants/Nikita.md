@@ -13,6 +13,4 @@ facebook:
 
 ## Nikita
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
-My name is Nikita. I am an editor and have over a decade of experience working with various international media houses. 
-My work has been published in multiple publications.
+My name is Nikita Garia and I've joined as a Summit Editor. I have over a decade of experience working with various international media houses in the capacity of editor/writer. My work has been published in multiple publications through the years.
