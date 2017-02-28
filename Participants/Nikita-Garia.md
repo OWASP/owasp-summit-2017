@@ -1,9 +1,8 @@
 ---
 layout: event-point/participant
-title: Nikita
+title: Nikita Garia
 type: participant
 expenses: owasp
-flight: 1000
 job-title: Editor
 image: 
 linkedin:
