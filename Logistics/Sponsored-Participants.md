@@ -4,19 +4,30 @@ title: Sponsored Participant
 type: logistic
 ---
 
-In order to support OWASP Leaders and Contributors that want to come to the Summit 
+The OWASP Summit team is committed to bringing as many OWASP Leaders (and other contributors) to the Summit. 
 
 &nbsp;
+
+Most summit attendes are able to use their companies funds to cover the Summit expenses (ticket, travel and time). For the cases where that is not poassble (maybe because the company is not able to cover the expenses, the participant is an independently contractor or works for a start-up), there are a number of scenarious where the OWASP Foundation and the Summit team will be able to cover the ticket and travel costs.
+
+Here are the current options:
+
+1. an OWASP Chapter or Project that has funds sponsors an participant
+2. 
+
+If you are interested, the first step is to make sure you are part of the [Participants need support](Participants-need-support.html) list
+
+
+
 
 Here is the current list of OWASP leaders (and others) that require funding support to participate in Summit (i.e. the travel and ticket costs)
 
 &nbsp;
 
-The OWASP Summit team is committed to brining as many OWASP Leaders (and other contributors) to the Summit. So if you need support (maybe because your company is not able to cover the expenses or you are an contractor), please let us know asap.
 
 &nbsp;
 
-(see [Participants need support](Participants-need-support.html)) 
+
 the Summit Organization team decided to allocated $20k USD to the concept of 'Summit Editors' (the $20k USD are from [sponsors](../new/sponsors.html) funds)
 
 &nbsp;
