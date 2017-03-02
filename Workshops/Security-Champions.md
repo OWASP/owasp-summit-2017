@@ -1,7 +1,7 @@
 ---
 layout: event-point/workshop
-title: CISO
-type: Security Champions
+title: Security Champions
+type: workshop
 organizers: TBD
 ---
 
