@@ -22,8 +22,8 @@ If you are interested in going to the Summit and need support, add your name to 
 
 1. **Ask an OWASP Chapter or Project** (with funds) to sponsor you (here is the list of the [funds avaialble to chapters and projects](https://docs.google.com/a/owasp.org/spreadsheets/d/11acTOmtmBGq6-5CIGsjlEByU8POSGqda0r23VNnhEGQ/pub?hl=en_US&hl=en_US&output=html))
 2. **Apply to OWASP Foundation** for a sponsorship to participate in this event ([using this form](https://www.tfaforms.com/308703))
-3. **Become an [Summit Editor](Summit-Editor.html)** - An Summit Editor is somebody that is going to **work hard before the Summit**, helping with summit related tasks/activities, in exchange for an Summit Ticket and travel expenses
-4. **Become an [Workshop Admin](Workshop-Admin.html)** - An Workshop Admin is somebody that is going to **work hard during the Summit**, helping with workshop related tasks/activities, in exchange for an Summit Ticket and travel expenses. 
+3. **Become an [Summit Editor](Summit-Editor.html)** - An Summit Editor is somebody that is going to work hard **before the Summit**, helping with summit related tasks/activities, in exchange for an Summit Ticket and travel expenses
+4. **Become an [Workshop Admin](Workshop-Admin.html)** - An Workshop Admin is somebody that is going to work hard **during the Summit**, helping with workshop related tasks/activities, in exchange for an Summit Ticket and travel expenses. 
 
 
 
