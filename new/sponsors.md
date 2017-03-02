@@ -16,11 +16,11 @@ title: Sponsors
 
 ### Silver Sponsors:
 
-Comming soon
+Coming soon
 
 ### Other:
 
-Comming soon
+Coming soon
 
 ---
 
