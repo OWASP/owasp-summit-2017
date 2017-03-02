@@ -12,8 +12,8 @@ Most summit attendes are able to use their companies funds to cover the Summit e
 
 Here are the current options:
 
-1. an OWASP Chapter or Project that has funds sponsors an participant
-2. 
+1. An OWASP Chapter or Project that has funds sponsors an participant (here is the list of the [funds avaialble to chapters and projects](https://docs.google.com/a/owasp.org/spreadsheets/d/11acTOmtmBGq6-5CIGsjlEByU8POSGqda0r23VNnhEGQ/pub?hl=en_US&hl=en_US&output=html))
+2. Apply to OWASP Foundation for a sponsorship to participate in this event [using this form](https://www.tfaforms.com/308703)
 
 If you are interested, the first step is to make sure you are part of the [Participants need support](Participants-need-support.html) list
 
