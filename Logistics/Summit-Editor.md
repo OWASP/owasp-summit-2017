@@ -7,20 +7,20 @@ type: logistic
 In order to support OWASP Leaders and Contributors that want to come to the Summit (see [Participants need support](Participants-need-support.html)) 
 the Summit Organization team decided to allocated $20k USD to the concept of 'Summit Editors' (the $20k USD are from [sponsors](../new/sponsors.html) funds)
  
--- 
+.
 
 An Summit Editor is somebody that is going to work hard before the Summit, helping with summit related tasks/activities, in exchange for an 
 Summit Ticket and travel expenses.
  
---
+.
 
 This is a win-win situation, where the Summit gains more energy/focus and valuable members of the OWASP community are able to participante to the Summit.
  
---
+.
 
 In order to make the process fair, the following 'rules of engagement' are proposed:
  
---
+.
 
 - Work 4h to 8h per week on Summit tasks and activities
 - Proactively take ownership of pending tasks ([from here](https://github.com/OWASP/owasp-summit-2017/projects)) and work on it
