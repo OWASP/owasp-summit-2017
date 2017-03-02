@@ -11,7 +11,7 @@ If you want to help with the Summit organization or want to know more about what
 * [Summit Site](../Logistics/Summit-site.html)
 * Under development (please commenet)
   * [Summit Editor](../Logistics/Summit-Editor.html)
-  * [Workshop-Admin](../Logistics/Workshop-Admin.html)
+  * [Workshop Admin](../Logistics/Workshop-Admin.html)
 
 
 **[GitHub](https://github.com/OWASP/owasp-summit-2017) Site** 
