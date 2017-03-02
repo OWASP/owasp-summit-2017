@@ -80,8 +80,8 @@ If you are interested in one of the sponsorships packages below please contact [
 - sponsorship of dinner
 
 #### Villa company naming right
-- per day: 500$
-- for 5 days: 2500$
+- per day: $500
+- for 5 days: $2000
 
 #### Lanyard sponsorship co-branding - $1,000
 - logo on lanyard
@@ -89,10 +89,10 @@ If you are interested in one of the sponsorships packages below please contact [
 #### Badges sponsorship co-branding - $750
 - logo on badges
     
-#### Notepad sponsorship co-branding - 250$
+#### Notepad sponsorship co-branding - $250
 - supplied by sponsor
 - located in attendee bags
 
-#### Pens sponsorship co-branding - 250$
+#### Pens sponsorship co-branding - $250
 - supplied by sponsor
 - located in attendee bags
