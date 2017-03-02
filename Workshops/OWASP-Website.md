@@ -2,8 +2,7 @@
 layout: event-point/workshop
 title: OWASP-Website
 type: workshop
-project-summit
-organizers:
+track: project-summit
 ---
 
 (add details, why, what, who)
