@@ -6,7 +6,7 @@ type: logistic
 
 
 An Workshop Admin is somebody that is going to work hard during the Summit, helping with workshop related tasks/activities, in exchange for an Summit Ticket and travel expenses.
-
+.
 This is a win-win situation, where the Summit gains more energy/focus and valuable members of the OWASP community are able to participate on the Summit.
 
 In order to make the process fair, the following 'rules of engagement' are proposed:
