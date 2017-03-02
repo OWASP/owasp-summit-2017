@@ -30,7 +30,7 @@ In order to make the process fair, the following 'rules of engagement' are propo
     - Create/facilitate workshop report
     - Help remote participants
 
-.
+&nbsp;
 
 ### Selection priority
 
