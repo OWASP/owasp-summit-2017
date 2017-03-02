@@ -10,8 +10,8 @@ If you want to help with the Summit organization or want to know more about what
 * [Participants that need support](../Logistics/Participants-need-support.html)
 * [Summit Site](../Logistics/Summit-site.html)
 * Under development (please commenet)
-  * [../Logistics/Summit-Editor](Summit-Editor.html)
-  * [../Logistics/Workshop-Admin](Workshop-Admin.html)
+  * [Summit Editor](../Logistics/Summit-Editor.html)
+  * [Workshop-Admin](../Logistics/Workshop-Admin.html)
 
 
 **[GitHub](https://github.com/OWASP/owasp-summit-2017) Site** 
