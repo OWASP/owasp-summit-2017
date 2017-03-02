@@ -29,6 +29,7 @@ In order to make the process fair, the following 'rules of engagement' are propo
  
 
 ### Selection priority
+
   - Number of OWASP past contributions (by order of preference)
     - Owasp conferences
     - Owasp projects
