@@ -9,6 +9,9 @@ If you want to help with the Summit organization or want to know more about what
 * [OWASP Band](../Logistics/Owasp-Band.html)
 * [Participants that need support](../Logistics/Participants-need-support.html)
 * [Summit Site](../Logistics/Summit-site.html)
+* Under development (please commenet)
+  * [../Logistics/Summit-Editor](Summit-Editor.html)
+  * [../Logistics/Workshop-Admin](Workshop-Admin.html)
 
 
 **[GitHub](https://github.com/OWASP/owasp-summit-2017) Site** 
