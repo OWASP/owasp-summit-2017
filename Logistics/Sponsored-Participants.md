@@ -12,17 +12,16 @@ Most summit attendes are able to be sponsored by the company they work for to co
 
 &nbsp;
 
-Here are the current options:
+If you are interested in going to the Summit and need support, add your name to the [Participants need support](Participants-need-support.html) list and chose one of the options below:
 
 &nbsp;
 
-1. An OWASP Chapter or Project that has funds sponsors an participant (here is the list of the [funds avaialble to chapters and projects](https://docs.google.com/a/owasp.org/spreadsheets/d/11acTOmtmBGq6-5CIGsjlEByU8POSGqda0r23VNnhEGQ/pub?hl=en_US&hl=en_US&output=html))
-2. Apply to OWASP Foundation for a sponsorship to participate in this event [using this form](https://www.tfaforms.com/308703)
-3. Become an [Summit Editor](Summit-Editor.html) - An Summit Editor is somebody that is going to work hard before the Summit, helping with summit related tasks/activities, in exchange for an Summit Ticket and travel expenses
-4. Become an [Workshop Admin](Workshop-Admin.html) - An Workshop Admin is somebody that is going to work hard during the Summit, helping with workshop related tasks/activities, in exchange for an Summit Ticket and travel expenses. 
+1. **Ask an OWASP Chapter or Project** (with funds) to sponsor you (here is the list of the [funds avaialble to chapters and projects](https://docs.google.com/a/owasp.org/spreadsheets/d/11acTOmtmBGq6-5CIGsjlEByU8POSGqda0r23VNnhEGQ/pub?hl=en_US&hl=en_US&output=html))
+2. **Apply to OWASP Foundation** for a sponsorship to participate in this event [using this form](https://www.tfaforms.com/308703)
+3. **Become an [Summit Editor](Summit-Editor.html)** - An Summit Editor is somebody that is going to work hard before the Summit, helping with summit related tasks/activities, in exchange for an Summit Ticket and travel expenses
+4. **Become an [Workshop Admin](Workshop-Admin.html)** - An Workshop Admin is somebody that is going to work hard during the Summit, helping with workshop related tasks/activities, in exchange for an Summit Ticket and travel expenses. 
 
 
-If you are interested, the first step is to make sure you are part of the [Participants need support](Participants-need-support.html) list
 
 ### Funding rounds
 
