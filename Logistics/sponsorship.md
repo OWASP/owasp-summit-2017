@@ -13,7 +13,7 @@ If you are interested in one of the sponsorships packages below please contact [
 - 5 full tickets including accommodation and food		
 - name associated with villa
 - sponsor a project
-- swag/promotional material in people accomodations
+- swag/promotional material in people accommodations
 - logo posted on event website
 - logo included in printed summit guide
 - social media announcement from the OWASP Summit twitter account
@@ -22,8 +22,8 @@ If you are interested in one of the sponsorships packages below please contact [
 ### Gold sponsor: $7,000 (project) - 4 available
 
 - 4 full tickets including accommodation and food
-- sponsor an project
-- swag/promotional material in people accomodations
+- sponsor a project
+- swag/promotional material in people accommodations
 - name right in project work
 - logo posted on event website
 - logo included in printed summit guide
@@ -33,7 +33,7 @@ If you are interested in one of the sponsorships packages below please contact [
 ### Silver sponsor: $3,500 - 10 available
 
 - 2 full tickets including accommodation and food
-- swag/promotional material in people accomodations
+- swag/promotional material in people accommodations
 - logo posted on event website
 - logo included in printed summit guide
 - social media announcement from the OWASP Summit twitter account
@@ -45,7 +45,7 @@ If you are interested in one of the sponsorships packages below please contact [
 #### End of Summit party (display of company logo co-branded) - $3,000
 
 #### Entertainment (display of company logo co-branded) - $1,000
-- clay piegon shooting
+- clay pigeon shooting
 - tennis
 - bowling
 - ...
@@ -61,7 +61,7 @@ If you are interested in one of the sponsorships packages below please contact [
 
 #### Villa company naming right
 - per day: 500$
-- for 5 days: 2500$
+- for 5 days: 2000$
 
 #### Lanyard sponsorship co-branding - $1,000
 - logo on lanyard
