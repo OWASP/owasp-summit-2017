@@ -3,7 +3,7 @@ layout: event-point/workshop
 title: O-Saft
 type: workshop
 track: TBD
-organizers: [Achim Hoffmann](https://www.owasp.org/index.php/User:Achim)
+organizers: Achim Hoffmann
 ---
 
 ## O-Saft

@@ -3,7 +3,7 @@ layout: event-point/workshop
 title: GPG Infrastructure for OWASP
 type: workshop
 track: TBD
-organizers: [Achim Hoffmann](https://www.owasp.org/index.php/User:Achim)
+organizers: Achim Hoffmann
 ---
 
 ## GPG Infrastructure for OWASP
