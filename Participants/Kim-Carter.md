@@ -5,9 +5,7 @@ type: participant
 expenses: owasp
 job-title: Security focussed Technologist
 image: https://avatars0.githubusercontent.com/u/2862029
-linkedin:
 twitter: binarymist
-facebook:
 role: Workshop-Admin
 ---
 
@@ -23,7 +21,7 @@ The skills required for the following workshops appear to match my skill-set, an
 2. [AWS Lamba Security](http://owaspsummit.org/Workshops/AWS-Lambda-Security.html)
 3. [NextGen Security Scanners](http://owaspsummit.org/Workshops/NextGen-SecurityScanners.html)
 4. [ZAP](http://owaspsummit.org/Workshops/ZAP.html)
-5. [Threat Model][(http://owaspsummit.org/Workshops/Threat-Model.html)
+5. [Threat Model](http://owaspsummit.org/Workshops/Threat-Model.html)
 6. [Mobile Security](http://owaspsummit.org/Workshops/Mobile-Security.html)
 
 
