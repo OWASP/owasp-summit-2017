@@ -49,3 +49,18 @@ In order to make the process fair, the following 'rules of engagement' are propo
     - Owasp projects
     - Owasp chapter
   - Taking Admin tasks to be responsible
+
+
+### Current Summit Editors
+
+Here is the list of the current Summit Editors. Feel free to contact them for help with the site or Workshop's layout
+
+<ul>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.title and page.role == 'Summit-Editor' %}
+                <li><a href="{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</ul>

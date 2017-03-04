@@ -3,6 +3,8 @@ layout: event-point/participant
 title: Nikita Garia
 type: participant
 expenses: owasp
+flight: 1000
+role: Summit-Editor
 job-title: Editor
 image: 
 linkedin:
