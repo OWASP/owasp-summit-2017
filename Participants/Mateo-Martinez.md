@@ -4,6 +4,7 @@ title: Mateo Martinez
 type: participant
 time: vacation
 expenses: owasp
+role: Summit-Editor
 job-title: Uruguay Chapter Leader
 image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeMAAAAJDM4YTJiOGI0LWJkZDItNDliOC1iNzU4LWQ3Njk0ZmNhMWUxOQ.jpg
 linkedin: https://linkedin.com/in/mateomartinez
