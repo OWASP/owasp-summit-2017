@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Page Properties
-type:
+layout: event-point/page
+title: Jekyll Properties
+type: logistic
 ---
 
 This page describes the _properties_ in the raw pages. These properties are used for generating markup and references in the website at owaspsummit.org .
