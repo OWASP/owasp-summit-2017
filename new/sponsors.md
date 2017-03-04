@@ -20,7 +20,7 @@ Coming soon
 
 ### Other:
 
-Coming soon
+* **OWASP NYC Chapter** - 500 USD
 
 ---
 
