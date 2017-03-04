@@ -24,11 +24,14 @@ In order to make the process fair, the following 'rules of engagement' are propo
     - Help Workshop participants
     - make sure they have all that is needed
     - make sure participants are at the correct workshop
-    - Officially recognised as Workshop Admin and single point of contact for those workshops
+    - Officially recognized as Workshop Admin and single point of contact for those workshops
     - Print all relevant materials
     - Collect all workshop deliverables
     - Create/facilitate workshop report
     - Help remote participants
+- Workshop Admin can be anybody not necessarily technical or involved in the actual project    
+- Workshop Admin needs to define time required for each workshop
+- Workshop Admin can choose which workshop to support (provided when applying for role)
 
 &nbsp;
 
