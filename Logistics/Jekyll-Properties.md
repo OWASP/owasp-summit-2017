@@ -4,7 +4,7 @@ title: Page Properties
 type:
 ---
 
-This page descibes the _properties_ in the raw pages. Thes properties are used for generating markup and references in the website at owaspsummit.org .
+This page describes the _properties_ in the raw pages. These properties are used for generating markup and references in the website at owaspsummit.org .
 The general form of these properties looks like:  
 
     ---
@@ -15,20 +15,20 @@ The general form of these properties looks like:
 These _keyword_ and _value_ are described below.
 While keywords are always any of the listed constants below, values may either be a constant (shown in __bold__ below) or free text. Please note that value *cannot* contain other markdown.
 
-The most important use may be the individul pages for [Participants](Participants) and [Workshops](Workshops), so lets start with describing the properties used there first.
+The most important use may be the individual pages for [Participants](Participants) and [Workshops](Workshops), so lets start with describing the properties used there first.
 
 ## Participant Properties
 
-These properties are important for the participiant's individual page, see [Participants](Participants).
+These properties are important for the participant's individual page, see [Participants](Participants).
 
 * __layout: event-point/participant__
 * __type: participant__
 * __title:__ Your Name
 * __job-title:__ tile to be listed
-* __image:__ link to your image
-* __linkedin:__ your linkedin name
-* __twitter:__ your twitter name
-* __facebook:__ your facebook name
+* __image:__ link to your image (full url)
+* __linkedin:__ your linkedin name (just name not full url)
+* __twitter:__ your twitter handle (without the @ sign)
+* __facebook:__ your facebook name (just name not full url)
 
 Properties for special use:
 
@@ -41,7 +41,7 @@ These properties are important for the Workshop page, see [Workshops](Workshops)
 
 * __layout: event-point/workshop__
 * __type: workshop__
-* __title:__ Titel of workshop
+* __title:__ Title of workshop
 * __track:__ one of __workshop__ or __project-summit__ or __open-source-tools__
 * __organizers:__ Your Name
 

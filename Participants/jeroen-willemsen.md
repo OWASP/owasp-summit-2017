@@ -4,9 +4,8 @@ title: Jeroen Willemsen
 type: participant
 job-title: Developer / PSA
 image: https://avatars0.githubusercontent.com/u/1457214?v=3&s=460
-linkedin: https://www.linkedin.com/in/jeroen-willemsen-70493a6/
-twitter: @commjoenie
-facebook: 
+linkedin: jeroen-willemsen-70493a6/
+twitter: commjoenie
 ---
 
 ### Jeroen Willemsen
