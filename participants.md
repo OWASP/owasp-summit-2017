@@ -1,4 +1,0 @@
----
-layout: participants
-title: Participants
----

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event-point/page
 title: Photos
 type: logistic
 ---
