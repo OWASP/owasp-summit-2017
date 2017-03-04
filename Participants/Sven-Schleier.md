@@ -3,7 +3,7 @@ layout: event-point/participant
 title: Sven Schleier
 type: participant
 expenses: owasp
-job-title: OWASP Project Leader for Mobile Security stuff
+job-title: Project Leader for Mobile Security
 image: https://pbs.twimg.com/profile_images/1753684835/bsd_400x400.png
 linkedin: sven-schleier-98259194
 twitter: bsd_daemon
