@@ -5,13 +5,13 @@ type: workshop
 track: OWASP Projects
 ---
 
-The Summit will contain a number of Workshops focused on OWASP Projects
+The Summit will contain a number of Working-Sessions focused on OWASP Projects
 
 ### Participating
 
-If you are an active OWASP Project Leader or want to help leading this workshops, please register ASAP (and indicate if you [need expenses support](../Logistics/Participants-need-support.html)).
+If you are an active OWASP Project Leader or want to help leading this Working-Sessions, please register ASAP (and indicate if you [need expenses support](../Logistics/Participants-need-support.html)).
 
-### Current projects/workshops represented at the Summit:
+### Current projects/Working-Sessions represented at the Summit:
 
 <ul>
     <ol>

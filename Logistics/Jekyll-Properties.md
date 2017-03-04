@@ -15,7 +15,7 @@ The general form of these properties looks like:
 These _keyword_ and _value_ are described below.
 While keywords are always any of the listed constants below, values may either be a constant (shown in __bold__ below) or free text. Please note that value *cannot* contain other markdown.
 
-The most important use may be the individual pages for [Participants](Participants) and [Workshops](Workshops), so lets start with describing the properties used there first.
+The most important use may be the individual pages for [Participants](Participants) and [Working-Sessions](Working-Sessions), so lets start with describing the properties used there first.
 
 ## Participant Properties
 
@@ -37,7 +37,7 @@ Properties for special use:
 
 ## Workshop Properties
 
-These properties are important for the Workshop page, see [Workshops](Workshops).
+These properties are important for the Workshop page, see [Working-Sessions](Working-Sessions).
 
 * __layout: event-point/workshop__
 * __type: workshop__

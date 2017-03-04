@@ -11,4 +11,4 @@ facebook:
 
 (add info, links, blogs, twitter, bio, what would like to see at the summit)
 
-Organizing [CISO](../Workshops/CISO.html) Workshop
+Organizing [CISO](../Working-Sessions/CISO.html) Workshop

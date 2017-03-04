@@ -26,7 +26,7 @@ In order to make the process fair, the following 'rules of engagement' are propo
 - Proactively take ownership of pending tasks ([from here](https://github.com/OWASP/owasp-summit-2017/projects)) and work on it
 - Either:
 
-1. organise at least two workshops
+1. organise at least two Working-Sessions
  - update/create content
  - find participants, help with their questions, help with participants pages (we can help with direct contact and introductions)
  - focus on maximising Workshop potential

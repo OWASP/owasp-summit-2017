@@ -8,7 +8,7 @@ track: project-summit
 
 See https://github.com/owasp/Maturity-Models for more details on this project
 
-Workshops:
+Working-Sessions:
 
  - Sharing data collected
  - Improving visualizations and data mappings

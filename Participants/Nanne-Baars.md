@@ -14,4 +14,4 @@ facebook:
 * [OWASP WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) Project Leader
 * Twitter: [@OWASP_WebGoat](https://twitter.com/OWASP_WebGoat)
 
-Leading the [WebGoat](../Workshops/WebGoat.md)
+Leading the [WebGoat](../Working-Sessions/WebGoat.md)

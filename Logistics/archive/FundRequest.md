@@ -35,9 +35,9 @@ And, of course, we will involve you and the staff on any major steps that would 
 
 ##What do we get out of this, or what is our "ROI"?
 It all starts with getting the right people together working on the right content. 
-So our main goal is to organize workshops, sessions & sprints at the summit driven by both DevOps and AppSec people & principles.
+So our main goal is to organize Working-Sessions, sessions & sprints at the summit driven by both DevOps and AppSec people & principles.
 The first list and (active) collaboration is already starting here:
-https://github.com/OWASP/owasp-devseccon-summit/tree/master/Workshops.
+https://github.com/OWASP/owasp-devseccon-summit/tree/master/Working-Sessions.
 
 Our objective is to make a big impact and productivity boost on our projects and community by getting the main DevOps and AppSec people in one venue for 5 days 24/7 in "summit-mode". We are getting very positive feedback and people that indicated that they will come (see the Doodle here http://doodle.com/poll/e8d4p955rc8guuru - OVER 70 people indicated their interest).
 

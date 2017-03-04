@@ -25,6 +25,6 @@ title: Venue
 This is where synergy and serendipity is created 
 
 AppSec threads start at breakfast
-- …continue during workshops
+- …continue during Working-Sessions
 - … and keep going though dinner 
 - … and late night sessions (at villas)

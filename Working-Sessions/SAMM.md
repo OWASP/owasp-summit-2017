@@ -7,7 +7,7 @@ track: project-summit
 
 ## OwaspSAMM
 
-We will organise several SAMM workshops at the summit.
+We will organise several SAMM Working-Sessions at the summit.
 
 Main objectives are:
 
@@ -15,6 +15,6 @@ Main objectives are:
 
 2) assure SAMM is integrated with the other OWASP projects
 
-Workshops
+Working-Sessions
 
-1) using Maturity Models project on OSAMM data (see related [Maturity-Models](Maturity-Models.html) workshops
+1) using Maturity Models project on OSAMM data (see related [Maturity-Models](Maturity-Models.html) Working-Sessions

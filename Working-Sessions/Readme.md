@@ -1,6 +1,6 @@
-## Workshops
+## Working-Sessions
 
-Ideas for workshops to do:
+Ideas for Working-Sessions to do:
 
 - [AWS Lambda Security](AWS-Lambda-Security.md)
 - [Browser Security](Browser-security.md)

@@ -23,7 +23,7 @@ Here are the main areas of the [https://github.com/OWASP/owasp-summit-2017](http
  
 * [Issues](https://github.com/OWASP/owasp-summit-2017/issues)  
 * [Participants](https://github.com/OWASP/owasp-summit-2017/tree/master/Participants)
-* [Workshops](https://github.com/OWASP/owasp-summit-2017/tree/master/Workshops)
+* [Working-Sessions](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions)
 * [Logistics](https://github.com/OWASP/owasp-summit-2017/tree/master/Logistics)
 * [Weekly Meetings](https://github.com/OWASP/owasp-summit-2017/tree/master/Logistics/meetings)
 * [Budget](https://github.com/OWASP/owasp-summit-2017/tree/master/Budget)

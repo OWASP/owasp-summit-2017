@@ -18,10 +18,10 @@ I’ve approached my employer who can give me the time to attend but isn’t goi
 
 This is due to funding for me to go to AppSec Europe 2017 in Belfast in May with a team for the University Challenge
 
-What I would also like to propose is two ideas for Workshops/Themes
+What I would also like to propose is two ideas for Working-Sessions/Themes
 
- - [Software-Defined-Everything-(SDx)](../Workshops/Software-Defined-Everything-(SDx).html)
- - [Application Security BSc/Masters Curriculum Design)](../Workshops/AppSec-BSc-Masters-Curriculum-Design.html)
+ - [Software-Defined-Everything-(SDx)](../Working-Sessions/Software-Defined-Everything-(SDx).html)
+ - [Application Security BSc/Masters Curriculum Design)](../Working-Sessions/AppSec-BSc-Masters-Curriculum-Design.html)
  
 
 #### OWASP Contributions

@@ -15,7 +15,7 @@ Organizer: [Kim Carter](../Participants/Kim-Carter.html)
 
 ### Ideas
 
-Where does the community get the most out of this project and where do we want to take it? I've got lots of ideas, because I'm constantly running both public and private [workshops](https://blog.binarymist.net/presentations-publications/) demonstrating the value that [Security Regression Testing](https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API) utilising NodeGoat and Zap API brings to organisations, but input and bouncing ideas off of each other can only improve NodeGoat.
+Where does the community get the most out of this project and where do we want to take it? I've got lots of ideas, because I'm constantly running both public and private [Working-Sessions](https://blog.binarymist.net/presentations-publications/) demonstrating the value that [Security Regression Testing](https://github.com/binarymist/NodeGoat/wiki/Security-Regression-Testing-with-Zap-API) utilising NodeGoat and Zap API brings to organisations, but input and bouncing ideas off of each other can only improve NodeGoat.
 
 ### Work to be done
 

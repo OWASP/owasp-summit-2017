@@ -15,16 +15,16 @@ This is a win-win situation, where the Summit gains more energy/focus and valuab
 
 In order to make the process fair, the following 'rules of engagement' are proposed:
 
-- Help to run at least 6 workshops
+- Help to run at least 6 Working-Sessions
   - Before the Summit
     - Keep track of workshop details (ideally with some minor participation)
     - Create an Workshop Action plan
   - During the Summit
-    - Help running the workshops
+    - Help running the Working-Sessions
     - Help Workshop participants
     - make sure they have all that is needed
     - make sure participants are at the correct workshop
-    - Officially recognized as Workshop Admin and single point of contact for those workshops
+    - Officially recognized as Workshop Admin and single point of contact for those Working-Sessions
     - Print all relevant materials
     - Collect all workshop deliverables
     - Create/facilitate workshop report
