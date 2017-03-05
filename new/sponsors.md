@@ -20,7 +20,8 @@ Coming soon
 
 ### Other:
 
-* **OWASP NYC Chapter** - 500 USD
+* [<img src='https://pbs.twimg.com/profile_images/3092555674/d960504a911d151876e26addc4930fb0_400x400.png' width='100'>](https://www.owasp.org/index.php/NYC) - 500 USD
+
 
 ---
 
