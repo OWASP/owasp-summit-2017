@@ -6,7 +6,7 @@ time: vacation
 expenses: owasp
 job-title: Chapter Leader/Associate Consultant
 image:
-linkedin: in.linkedin.com/in/akshaysharmamsclis
+linkedin: akshaysharmamsclis
 twitter: 
 facebook: 
 ---
