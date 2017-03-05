@@ -10,7 +10,7 @@ The summit is being organized by 3 industry veterans with past track record at o
  
 * **Dinis Cruz** - Past OWASP Board Member, Created and lead the organization of the past two OWASP Summits (2008 and 2011), help with multiple OWASP Conferences organization, past leader of multiple OWASP Chapters, current leader of the OWASP O2 Platform Project and OWASP Maturity Models project
 
-* **Sebastien Deleersnyder** - Past OWASP Board Member, Belgian OWASP Chapter Leader, co-project leader of the OpenSAMM project, co-organizes the yearly BruCON conference in Ghent (Belgium), performed several presentations and trainings on Web Application, Mobile and Web Services Security. 
+* **Sebastien Deleersnyder** - Past OWASP Board Member, Belgian OWASP Chapter Leader, co-project leader of the OpenSAMM project, started the yearly BruCON conference in Ghent (Belgium), co-founder and managing partner application security at Toreon, performed several presentations and trainings on Web Application, Mobile and Web Services Security. 
 
 * **Francois Raynaud** Created and lead the organization of multiple DevSecCon conferences
 
