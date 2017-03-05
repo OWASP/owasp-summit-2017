@@ -5,7 +5,7 @@ type: participant
 time: vacation
 expenses: owasp
 job-title: Chapter Leader/Associate Consultant
-image:
+image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKbAAAAJDczMTY4YmJmLWJjMGItNDFmZS05OTIzLTBiZmEwYmYwNTMwMA.jpg
 linkedin: akshaysharmamsclis
 twitter: 
 facebook: 
