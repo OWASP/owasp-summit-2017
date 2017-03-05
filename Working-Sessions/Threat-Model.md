@@ -8,8 +8,10 @@ type: workshop
 
 Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md), [Tony UV](../Participants/Tony-UV.md)
 
-**Threat Modeling General Assembly Daily Meeting** (2 HRS)\
-Purpose of the GA discussion is to discuss goals of workshops and overarching mission behidn the Threat Modeling working sessions for the week.  First day will be a longer session and daily session will simply be an hour before break out sessions begin. Key goals for the week are the following:
+**Threat Modeling General Assembly Daily Meeting** (2 HRS)
+
+Purpose of the GA discussion is to discuss goals of workshops and overarching mission behind the Threat Modeling working sessions for the week.  First day will be a longer session and daily session will simply be an hour before break out sessions begin. Key goals for the week are the following:
+
 - pain of manual processes and how to optimise them
 - linking threat models and sub-threat models together
 - creating threat model templates for security patterns
@@ -25,6 +27,7 @@ Purpose of the GA discussion is to discuss goals of workshops and overarching mi
 
 
 **Threat Modeling Workshop Topics (DRAFT)**
+
 - Build threat modeling templates by app arch type or deployment model
 - Build web app threat modeling templates by industry type
 - Rework OWASP threat modeling page and create subpages on threat modeling methodologies that exist w/ details and artifacts
@@ -44,8 +47,9 @@ Purpose of the GA discussion is to discuss goals of workshops and overarching mi
 
 
 **Resources and links (please add more):**
-- [Current Wikipedia page on Threat Models] (https://en.wikipedia.org/wiki/Threat_model)
+
+- [Current Wikipedia page on Threat Models](https://en.wikipedia.org/wiki/Threat_model)
 - [Developer-Driven Threat Modeling](https://www.infoq.com/articles/developer-driven-threat-modeling)
-- [Process for Attack Simulation & Risk Analysis, Risk Centric Threat Modeling Methodology] (https://versprite.com/PASTA-abstract.pdf)
-- [STRIDE Threat Categorization Model] (https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
-- [Software Defined Network Threat Models] https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx
+- [Process for Attack Simulation & Risk Analysis, Risk Centric Threat Modeling Methodology](https://versprite.com/PASTA-abstract.pdf)
+- [STRIDE Threat Categorization Model](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
+- [Software Defined Network Threat Models]https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx
