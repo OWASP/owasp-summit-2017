@@ -52,4 +52,4 @@ Purpose of the GA discussion is to discuss goals of workshops and overarching mi
 - [Developer-Driven Threat Modeling](https://www.infoq.com/articles/developer-driven-threat-modeling)
 - [Process for Attack Simulation & Risk Analysis, Risk Centric Threat Modeling Methodology](https://versprite.com/PASTA-abstract.pdf)
 - [STRIDE Threat Categorization Model](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
-- [Software Defined Network Threat Models]https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx
+- [Software Defined Network Threat Models](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
