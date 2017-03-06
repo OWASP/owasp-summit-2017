@@ -11,7 +11,7 @@ organizers: Bjoern Kimminich
 Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)
 
 
-[OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project "OWASP Juice Shop Project") is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws. Juice Shop is written in Node.js, Express and AngularJS. The application contains more than 30 challenges of varying difficulty where the user is supposed to exploit the underlying vulnerabilities. Apart from the hacker and awareness training use case, pentesting proxies or security scanners can use Juice Shop as a "guinea pig"-application to check how well their tools cope with Javascript-heavy application frontends and REST APIs.
+> [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project "OWASP Juice Shop Project") is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws. Juice Shop is written in Node.js, Express and AngularJS. The application contains more than 30 challenges of varying difficulty where the user is supposed to exploit the underlying vulnerabilities. Apart from the hacker and awareness training use case, pentesting proxies or security scanners can use Juice Shop as a "guinea pig"-application to check how well their tools cope with Javascript-heavy application frontends and REST APIs.
 
 ### Challenge Hackathon
 
