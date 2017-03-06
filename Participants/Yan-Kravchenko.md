@@ -7,7 +7,7 @@ expenses: owasp
 job-title: CISO
 image: 
 linkedin:
-twitter:@yanfosec
+twitter: yanfosec
 facebook:
 ---
 
