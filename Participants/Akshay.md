@@ -4,10 +4,10 @@ title: Akshay
 type: participant
 time: vacation
 expenses: owasp
-job-title: Chapter Leader
+job-title: Bhopal Chapter Leader
 image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKbAAAAJDczMTY4YmJmLWJjMGItNDFmZS05OTIzLTBiZmEwYmYwNTMwMA.jpg
 linkedin: akshaysharmamsclis
-Chapter : https://www.owasp.org/index.php/Bhopal
+chapter-leader : Bhopal
 facebook: 
 ---
 
