@@ -33,7 +33,7 @@ Coming soon
 
 If you are interested in one of the sponsorships packages below please contact [Francois Raynaud](mailto:francois@devseccon.com) or [Kelly Santalucia](mailto:kelly.santalucia@owasp.org)
 
-### Platinum sponsor: $10,000 (villa and project) - 2 available
+### Platinum sponsor: $10,000 (villa and project)
 
 - 5 full tickets including accommodation and food		
 - name associated with villa
@@ -44,7 +44,7 @@ If you are interested in one of the sponsorships packages below please contact [
 - social media announcement
 - logo on tote bag
 
-### Gold sponsor: $7,000 (project) - 4 available
+### Gold sponsor: $7,000 (project)
 
 - 4 full tickets including accommodation and food
 - sponsor a project
@@ -55,7 +55,7 @@ If you are interested in one of the sponsorships packages below please contact [
 - social media announcement
 - logo on tote bag
 
-### Silver sponsor: $3,500 - 10 available
+### Silver sponsor: $3,500
 
 - 2 full tickets including accommodation and food
 - swag/promotional material in people accommodations

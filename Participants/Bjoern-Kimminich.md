@@ -2,6 +2,7 @@
 layout: event-point/participant
 title: Bjoern Kimminich
 type: participant
+role: Summit-Editor
 time: vacation
 expenses: owasp
 job-title: OWASP Juice Shop Project Leader
