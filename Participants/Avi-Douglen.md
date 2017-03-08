@@ -5,12 +5,10 @@ type: participant
 expenses: owasp
 job-title:
 image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkRAAAAJDkyZmFkMDRlLWMzZjAtNDk1Yy1hNDFiLTA2MTM2M2IzNzFhZA.jpg
-linkedin: https://www.linkedin.com/in/avidouglen/
-twitter: https://twitter.com/sec_tigger/
+linkedin: avidouglen
+twitter: sec_tigger
 facebook:
 ---
-
-## Avi Douglen
 
 I am looking forward to joining the Threat Modeling workshop, as I have a lot of varied experience in this area, including constrained environments and limited engagements, as well as a full-scope in-depth ongoing security team. This is also my current area of focus.   
 
