@@ -4,13 +4,10 @@ title: Alexander Antukh
 type: participant
 job-title:
 image: 
-linkedin:
-twitter:
+linkedin: antukh
+twitter: c0rdis
 facebook:
 ---
-
-
-## Alexander-Antukh
 
 http://linkedin.com/in/antukh
 http://antukh.com
