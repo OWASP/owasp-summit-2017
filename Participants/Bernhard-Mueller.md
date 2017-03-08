@@ -6,12 +6,10 @@ time: vacation
 expenses: owasp
 job-title: Security Researcher
 image: https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
-linkedin:
+linkedin: bernhardm
 twitter: muellerberndt
 facebook:
 ---
-
-## Bernhard Mueller
 
 [Sven Schleier](./Sven-Schleier.html) and I would like to do a [Mobile Security workshop](../Working-Sessions/Mobile-Security.html) around the OWASP Mobile Testing Guide Standard and Verification Standard. 
 The goal is to advance the guide & standard, including (but not limited to) the sections dealing with integration of security into the mobile app development process.  
