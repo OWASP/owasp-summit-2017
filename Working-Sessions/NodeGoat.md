@@ -3,6 +3,7 @@ layout: event-point/workshop
 title: NodeGoat
 type: workshop
 track: project-summit
+featured: yes
 ---
 
 ## NodeGoat

@@ -1,0 +1,21 @@
+<div class="col-sm-12 col-md-6">
+    <div class="lgx-card-single">
+        <div class="card-inner">
+            <div class="content">
+                <div class="text-area">
+                    <h3 class="title"><a href="{{page.url}}">{{page.title}}</a></h3>
+                    <div class="hits-area">
+                        <span class="date">Organizer(s):</span>
+                        <span class="hit-right">
+                            {% if page.organizers != null %}
+                                {{ page.organizers }}
+                            {% else %}
+                                TBD
+                            {% endif %}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

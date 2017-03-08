@@ -2,6 +2,8 @@
 layout: event-point/workshop
 title: Application Security BSc/Masters Curriculum Design
 type: workshop
+featured: yes
+organizers: Adrian-Winckles
 ---
 
 ## Application Security BSc/Masters Curriculum Design

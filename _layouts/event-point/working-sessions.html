@@ -2,39 +2,34 @@
 
 {% include event-point/menu.html %}
 
-
 <section>
-    <div class="lgx-blog lgx-blog-list">
+    <div class="lgx-speakers lgx-blog">
         <div class="lgx-inner">
             <div class="container">
-
-
                 <div class="blog-area">
                     <div class="row">
 
-                        {% for page in site.pages %}
-                            {% if page.title and page.type == 'workshop' %}
-                                <div class="col-sm-12 col-md-6">
-                                    <div class="lgx-card-single">
-                                        <div class="card-inner">
-                                            <div class="content">
-                                                <div class="text-area">
-                                                    <h3 class="title"><a href="{{page.url}}">{{page.title}}</a></h3>
-                                                    <div class="hits-area">
-                                                        <span class="date">Organizer(s):</span>
-                                                        <span class="hit-right">
-                                                            {% if page.organizers != null %}
-                                                                {{ page.organizers }}
-                                                            {% else %}
-                                                                TBD
-                                                            {% endif %}
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        
+                        <div class="col-xs-12">
+                            <h1>Featured</h1>    
+                        </div>                                
+                        
+                        {% for page in site.pages %}                            
+                            {% if page.title and page.type == 'workshop' and page.featured %}
+                                
+                                {% include event-point/workshop-card.html %}              
+                            {% endif %}
+                        {% endfor %}
+
+                        <div class="col-xs-12">
+                            <h1>Also happening</h1>    
+                        </div>                                
+                        
+                        {% for page in site.pages %}                            
+                            {{page.featured}} .
+                            {% if page.title and page.type == 'workshop' and page.featured == null %}
+                                *
+                                <!--{% include event-point/workshop-card.html %}              -->
                             {% endif %}
                         {% endfor %}
                     </div>
