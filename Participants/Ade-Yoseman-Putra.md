@@ -3,7 +3,7 @@ layout: event-point/participant
 title: Ade Yoseman Putra
 type: participant
 time: 
-expenses: 
+expenses: owasp
 job-title: Jakarta Chapter Leader
 image: 
 linkedin:
