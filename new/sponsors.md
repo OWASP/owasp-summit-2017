@@ -16,7 +16,7 @@ title: Sponsors
 
 ### Silver Sponsors:
 
-* [<img src='/assets/img/sponsors/XS_logo_RGB.jpg' width='100'>](https://xebia.com/security)
+* [<img src='/assets/img/sponsors/XS_logo_RGB.jpg' width='100'>](https://xebia.com/agile-software-security)
 
 ### Bronze Sponsors:
 
