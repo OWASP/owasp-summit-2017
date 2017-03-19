@@ -5,8 +5,8 @@ type: participant
 job-title: Systems and Network Security Specialist
 expenses: OWASP
 image: https://avatars0.githubusercontent.com/u/1558043
-linkedin: https://www.linkedin.com/in/magnologan/
-twitter: https://twitter.com/magnologan
+linkedin: magnologan
+twitter: magnologan
 role: Workshop Admin
 ---
 
