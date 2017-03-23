@@ -4,7 +4,7 @@ Ideas for Working-Sessions to do:
 
 - [AWS Lambda Security](AWS-Lambda-Security.md)
 - [Browser Security](Browser-security.md)
-- [Mobile Security](Mobile_Security.md)
+- [Mobile Security](Mobile-Security.md)
 - [NextGen Security Scanners](NextGen-SecurityScanners.md)
 - [NodeGoat](NodeGoat.md)
 - [Responsible Disclosure](Responsible-disclosure.md)
