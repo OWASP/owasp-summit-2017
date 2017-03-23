@@ -26,3 +26,4 @@ The tool needs some internal redesign and some improvements to bring the full po
 - implement fuzzing features using TLS-attacker
 - build a test suite, run automated tests
 - build a sophisticated knowledge database with search capabilities (probably using python NLTK)
+- is there a need for a GTK-based GUI (i.e. using yad)?
