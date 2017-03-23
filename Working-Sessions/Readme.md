@@ -13,6 +13,7 @@ Ideas for Working-Sessions to do:
 - [Threat-Model](Threat-Model.md)
 - [WebGoat](WebGoat.md)
 - [ZAP](ZAP.md)
+- [IAM for REST APIs](REST-IAM.md)
 
 ----
 
