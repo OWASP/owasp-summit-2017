@@ -2,26 +2,7 @@
     "use strict";
 
     $(document).ready(function() {
-
-
-        /*=========================================================================
-         ===  MENU SCROLL FIXED
-         ========================================================================== */
-        var s = $(".lgx-header");
-        var pos = s.position();
-
-        $(window).on('scroll', function () {
-            var windowpos = $(window).scrollTop();
-            if (windowpos >= pos.top) {
-                s.addClass("menu-onscroll");
-            } else {
-                s.removeClass("menu-onscroll");
-            }
-        });
-        /*=========================================================================
-         ===  MENU SCROLL FIXED END
-         ========================================================================== */
-
+        
 
 
         /*=========================================================================
@@ -112,7 +93,8 @@
          ===  SMOOTH SCROLL - REQUIRES JQUERY EASING PLUGIN
          ========================================================================== */
 
-        $( 'a.lgx-scroll' ).on( 'click', function(event) {
+//DC: The code below was causing a bug and a vulnerability (if 'href' had a jQuery payload)
+/*        $( 'a.lgx-scroll' ).on( 'click', function(event) {
             var $anchor = $(this);
             var topTo   = $( $anchor.attr('href') ).offset().top;
 
@@ -126,6 +108,7 @@
             event.preventDefault();
             return false;
         } );
+        */
 
         /*=========================================================================
          ===  SMOOTH SCROLL END
@@ -153,260 +136,6 @@
 
 
 
-        /*=========================================================================
-         ===  HOME PAGE Slider
-         ========================================================================== */
-        if ($("#lgx-main-slider").length) {
-            $("#lgx-main-slider").owlCarousel({
-                margin: 0,
-                items: 1,
-                loop: true,
-                autoplay:true,
-                dots: false,
-                navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
-                autoplayTimeout: 5000,
-                autoplaySpeed: 500,
-                nav: true,
-                addClassActive : true
-            });
-        }
-        /*=========================================================================
-         ===  HOME PAGE Slider END
-         ========================================================================== */
-
-
-
-
-        /*=========================================================================
-         ===  Content SLIDER
-         ========================================================================== */
-        if ($('#lgx-owlcontslider').length) {
-            $("#lgx-owlcontslider").owlCarousel({
-                margin: 0,
-                items: 1,
-                loop: true,
-                autoplay:true,
-                dots: false,
-                navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
-                autoplayTimeout: 4000,
-                autoplaySpeed: 500,
-                nav: true,
-                addClassActive : true
-            });
-        }
-        /*=========================================================================
-         ===  Content SLIDER END
-         ========================================================================== */
-
-
-
-
-        /*=========================================================================
-         ===  TESTIMONIAL SLIDER
-         ========================================================================== */
-        if ($('#lgx-owltestimonial').length) {
-            $("#lgx-owltestimonial").owlCarousel({
-                margin: 0,
-                items: 1,
-                loop: true,
-                autoplay:true,
-                dots: false,
-                navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
-                autoplayTimeout: 5000,
-                autoplaySpeed: 500,
-                nav: true,
-                addClassActive : true
-            });
-        }
-        /*=========================================================================
-         ===  TESTIMONIAL SLIDER END
-         ========================================================================== */
-
-
-
-
-
-        /*=========================================================================
-         ===  Typed Animation START
-         ========================================================================== */
-        if($('#lgx-typed-string').length){
-            $('#lgx-typed-string').typed({
-                strings: ["Business Conference 2019", "Digital Conference 2019","World Conference 2019"],
-                // typing speed
-                typeSpeed: 10,
-                // time before typing starts
-                startDelay: 0,
-                // backspacing speed
-                backSpeed: 0,
-                // shuffle the strings
-                shuffle: false,
-                // time before backspacing
-                backDelay: 500,
-                // loop
-                loop: true,
-                // false = infinite
-                loopCount: false,
-                // show cursor
-                showCursor: true,
-                // character for cursor
-                cursorChar: "|",
-                // either html or text
-                contentType: 'html'
-            });
-        }
-
-        /*=========================================================================
-         ===  Typed Animation END
-         ========================================================================== */
-
-
-
-        /*=========================================================================
-         ===  GOOGLE MAP
-         ========================================================================== */
-        if (typeof google != 'undefined') {
-            //for Default  map
-            if ($('.map-canvas-default').length) {
-                $(".map-canvas-default").googleMap({
-                    zoom: 8, // Initial zoom level (optiona
-                    coords: [40.7127, 74.0059], // Map center (optional)
-                    type: "ROADMAP", // Map type (optional),
-                    mouseZoom: false
-                });
-
-                //for marker
-                $(".map-canvas-default").addMarker({
-                    coords: [40.7127, 74.0059], // GPS coords
-                    title: 'Eventpoint',
-                    text: '121 King St, Melbourne VIC 3000, Australia',
-                    icon: lgx_path + '/website/assets/img/map/map-icon.png'
-                });
-            }
-
-            // FOR DARK MAP
-            if ($('.map-canvas-dark').length) {
-                $(".map-canvas-dark").googleMap({
-                    zoom: 8, // Initial zoom level (optiona
-                    coords: [40.7127, 74.0059], // Map center (optional)
-                    type: "HYBRID", // Map type (optional),
-                    mouseZoom: false
-                });
-
-                //for marker
-                $(".map-canvas-dark").addMarker({
-                    coords: [40.7127, 74.0059], // GPS coords
-                    title: 'Eventpoint',
-                    text: '121 King St, Melbourne VIC 3000, Australia',
-                    icon: lgx_path + '/website/assets/img/map/map-icon.png'
-                });
-            }
-        }
-
-
-        /*=========================================================================
-         ===  //GOOGLE MAP END
-         ========================================================================== */
-
-
-
-
-
-        /*=========================================================================
-         ===  Start Contact Form Validation And Ajax Submission
-         ========================================================================== */
-
-        var alertInterval;//store the timeout interval ID
-
-        //clear interval for alert message window
-        $('#lgx-form-modal').on('hide.bs.modal', function (ev) {
-            clearInterval(alertInterval);
-        });
-
-        var $contactForm = $('form.lgx-contactform');
-        $contactForm.validate({
-            submitHandler: function (form) {
-                //console.log(form);
-                var $form = $(form);
-                //console.log($form.serialize());
-                $.ajax({
-                    url: lgx_path + '/website/assets/php/contact.php',
-                    type: 'post',
-                    data: $form.serialize(),
-                    beforeSubmit: function (argument) {
-                        //ajax loading icon
-                    },
-                    success: function (ajaxResponse) {
-                        try {
-                            var ajaxResponse = $.parseJSON(ajaxResponse);
-                            if (ajaxResponse.error) {
-                                //for field error
-                                //console.log(ajaxResponse.error_field);
-                                for (var i = 0; i < ajaxResponse.error_field.length; i++) {
-                                    if ($('p#' + ajaxResponse.error_field[i] + '-error').length) {
-                                        $('p#' + ajaxResponse.error_field[i] + '-error').text(ajaxResponse.message[ajaxResponse.error_field[i]]);
-                                    } else {
-                                        $('#' + ajaxResponse.error_field[i]).after('<p id="' + ajaxResponse.error_field[i] + '-error" class="help-block">' + ajaxResponse.message[ajaxResponse.error_field[i]] + '</p>');
-                                    }
-                                }
-
-                            } else {
-                                $('.lgx-form-msg').removeClass('alert-danger').addClass('alert-success').text(ajaxResponse.message);
-                                $('#lgx-form-modal').modal('show');
-                                alertInterval = setInterval(function () {
-                                    $('#lgx-form-modal').modal('hide');
-                                }, 5000);
-                                $form[0].reset();
-                            }
-                        } catch (e) {
-                            $('.lgx-form-msg').removeClass('alert-success').addClass('alert-danger').text('Sorry, we are failed to contact with you. Please reload the page and try again.');
-                            $('#lgx-form-modal').modal('show');
-                            alertInterval = setInterval(function () {
-                                $('#lgx-form-modal').modal('hide');
-                            }, 5000);
-                        }
-                    },
-                    error: function (argument) {
-                        $('.lgx-form-msg').removeClass('alert-success').addClass('alert-danger').text('Sorry, we can not communicate with you. Please make sure you are connected with internet.');
-                        $('#lgx-form-modal').modal('show');
-                        alertInterval = setInterval(function () {
-                            $('#lgx-form-modal').modal('hide');
-                        }, 5000);
-                    },
-                    complete: function () {
-
-                    }
-                });
-
-                return false;
-            },
-            errorElement: 'p',
-            errorClass: 'help-block',
-            rules: {
-                'lgxname': {
-                    required: true,
-                    minlength: 3
-                },
-
-                'lgxemail': {
-                    required: true,
-                    email: true
-                },
-
-                'lgxsubject': {
-                    required: true,
-                    minlength: 5
-                },
-
-                'lgxmessage': {
-                    required: true,
-                    minlength: 5
-                }
-            }
-        });
-
-        /*=========================================================================
-         ===  Start Contact Form Validation And Ajax Submission END
-         ========================================================================== */
 
     });//DOM READY
 
