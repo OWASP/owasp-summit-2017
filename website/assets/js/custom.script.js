@@ -279,7 +279,7 @@
                     coords: [40.7127, 74.0059], // GPS coords
                     title: 'Eventpoint',
                     text: '121 King St, Melbourne VIC 3000, Australia',
-                    icon: lgx_path + '/assets/img/map/map-icon.png'
+                    icon: lgx_path + '/website/assets/img/map/map-icon.png'
                 });
             }
 
@@ -297,7 +297,7 @@
                     coords: [40.7127, 74.0059], // GPS coords
                     title: 'Eventpoint',
                     text: '121 King St, Melbourne VIC 3000, Australia',
-                    icon: lgx_path + '/assets/img/map/map-icon.png'
+                    icon: lgx_path + '/website/assets/img/map/map-icon.png'
                 });
             }
         }
@@ -329,7 +329,7 @@
                 var $form = $(form);
                 //console.log($form.serialize());
                 $.ajax({
-                    url: lgx_path + '/assets/php/contact.php',
+                    url: lgx_path + '/website/assets/php/contact.php',
                     type: 'post',
                     data: $form.serialize(),
                     beforeSubmit: function (argument) {

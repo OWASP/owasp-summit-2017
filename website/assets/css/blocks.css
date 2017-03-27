@@ -1,14 +1,14 @@
 body {  
   font-family: 'Roboto Slab', serif !important; 
-  background: url(/assets/img/blocks/header-background.png)  !important;
+  background: url(/website/assets/img/blocks/header-background.png)  !important;
 }
 
 .lgx-banner {
-    background: url(/assets/img/blocks/header-background.png)  !important;
+    background: url(/website/assets/img/blocks/header-background.png)  !important;
 }
 
 .lgx-inner {
-    background: url(/assets/img/blocks/header-background.png) !important    
+    background: url(/website/assets/img/blocks/header-background.png) !important
 }
 
 .lgx-scroll {
