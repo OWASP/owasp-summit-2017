@@ -1,11 +1,9 @@
 ---
 layout: event-point/workshop
-title: Cheatsheets
+title: IAM for REST APIs
 type: workshop
 track: project-summit
 ---
-
-## IAM for REST APIs
 
 ### Problem statement
 
