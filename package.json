@@ -1,0 +1,14 @@
+{
+  "name": "website",
+  "version": "0.0.5",
+  "description": "Summit 2017 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
+  }
+}

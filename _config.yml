@@ -2,3 +2,10 @@ name: Owasp Summit 2017
 markdown: kramdown
 includes_dir: website/_includes
 layouts_dir:  website/_layouts
+exclude:
+  - CNAME
+  - LICENSE
+  - Logistics/archive
+  - website/_temp_files
+  - website/node_modules
+  - README.md
