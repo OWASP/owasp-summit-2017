@@ -1,11 +1,22 @@
 browserSync = require('browser-sync').create();
 gulp        = require 'gulp'
 concat      = require 'gulp-concat'
-shell       = require 'gulp-shell'
+jade        = require 'gulp-jade'
 less        = require 'gulp-less'
 notify      = require 'gulp-notify'
+shell       = require 'gulp-shell'
 
-gulp.task 'build', shell.task(['jekyll build --incremental'])
+
+gulp.task 'build', [], shell.task(['jekyll build --incremental'])
+
+
+gulp.task 'jade', ()->
+    localsObject = {}
+
+    gulp.src('website/src/jade/**/*.jade')
+          .pipe(jade( locals: localsObject))
+          .pipe(gulp.dest('website'))
+
 
 gulp.task 'reload-page', ['build'], -> browserSync.reload()
 
@@ -19,7 +30,7 @@ gulp.task 'styles', ->
         #.pipe browserSync.reload(stream: true)          # this is not working
 
 
-gulp.task 'default'    , ['build'],->
+gulp.task 'default'    , ['styles', 'jade', 'build'],->
     browserSync.init
         online         : false                     # doesn't bind to public IP address
         port           : 9000                      # site will be available at http://localhost:9000/
@@ -34,3 +45,4 @@ gulp.task 'default'    , ['build'],->
     gulp.watch 'website/assets/css/**/*.css'  , ['reload-page']
 
     gulp.watch('website/src/less/**/*.less'   , ['styles']);
+    gulp.watch('website/src/jade/**/*.jade'   , ['jade']);

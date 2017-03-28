@@ -13,6 +13,7 @@
     "coffee-script": "^1.12.4",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
+    "gulp-jade": "^1.1.0",
     "gulp-less": "^3.3.0",
     "gulp-notify": "^3.0.0",
     "gulp-shell": "^0.6.3"
