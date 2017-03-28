@@ -5,7 +5,10 @@ layouts_dir:  website/_layouts
 exclude:
   - CNAME
   - LICENSE
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - params.json
+  - README.md
   - Logistics/archive
   - website/_temp_files
-  - website/node_modules
-  - README.md

@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.18.8"
+    "browser-sync": "^2.18.8",
+    "coffee-script": "^1.12.4",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3"
   }
 }

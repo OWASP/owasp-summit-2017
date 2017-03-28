@@ -4,3 +4,4 @@ _site
 *.iml
 _event_point_files/eventpoint_v1.1.0
 node_modules
+.jekyll-metadata
