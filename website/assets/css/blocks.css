@@ -1,38 +1,32 @@
-body {  
-  font-family: 'Roboto Slab', serif !important; 
-  background: url(/website/assets/img/blocks/header-background.png)  !important;
+body {
+  font-family: 'Roboto Slab', serif !important;
+  background: url(/website/assets/img/blocks/header-background.png) !important;
 }
-
 .lgx-banner {
-    background: url(/website/assets/img/blocks/header-background.png)  !important;
+  background: url(/website/assets/img/blocks/header-background.png) !important;
 }
-
 .lgx-inner {
-    background: url(/website/assets/img/blocks/header-background.png) !important
+  background: url(/website/assets/img/blocks/header-background.png) !important;
 }
-
 .lgx-scroll {
-    color:#333333 !important ;
-    font-family:'Oswald'!important ;
-    font-size: 16px !important;     
+  color: #333333 !important ;
+  font-family: 'Oswald' !important;
+  font-size: 16px !important;
 }
-
-.lgx-btn{
-    color: white !important;
-    background-color:#00549E !important ;
-    font-family:'Oswald'!important ;
-    font-size: 16px !important;     
+.lgx-btn {
+  color: white !important;
+  background-color: #00549E !important ;
+  font-family: 'Oswald' !important;
+  font-size: 16px !important;
 }
-
 .quote-title {
-    color:#87BB40 !important ;
-    font-family:'Oswald'!important ;
-    font-size: 26px !important;     
+  color: #87BB40 !important ;
+  font-family: 'Oswald' !important;
+  font-size: 26px !important;
 }
-
 .quote-text {
-    color:#333333 !important ;
-    font-family:'Roboto Slab'!important ;
-    font-size: 50px !important;     
-     line-height: 120%;
+  color: #333333 !important ;
+  font-family: 'Roboto Slab' !important;
+  font-size: 50px !important;
+  line-height: 120%;
 }
