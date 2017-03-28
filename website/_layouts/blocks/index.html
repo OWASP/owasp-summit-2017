@@ -1,9 +1,10 @@
-{% include blocks/header.html %}
-
-{% include blocks/menu.html %}  
-
-{% include blocks/logo-and-quote.html %}  
-
-
-
-
+<!DOCTYPE html>
+<html>
+  <head>{% include blocks/header.html %}</head>
+  <body>
+    <div class="lgx-container">
+      {% include blocks/menu.html %}
+      {% include blocks/logo-and-quote.html %}
+    </div>{% include blocks/footer.html %}
+  </body>
+</html>
