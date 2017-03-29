@@ -21,10 +21,9 @@ gulp.task 'pug', ()->
 gulp.task 'reload-page', ['build'], -> browserSync.reload()
 
 gulp.task 'styles', ->
-    gulp.src('website/assets/less/**/*.less')
+    gulp.src('website/src/less/**/*.less')
         .pipe(less())
         .on('error', notify.onError(message: 'LESS compile error: <%= error.message %>'))
-        #.pipe(minifyCSS(keepBreaks: false))
         .pipe(concat('blocks.css'))
         .pipe(gulp.dest('website/assets/css'))
         #.pipe browserSync.reload(stream: true)          # this is not working
