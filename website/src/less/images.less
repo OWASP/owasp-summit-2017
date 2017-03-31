@@ -1,12 +1,16 @@
+@imgpath: '/website/assets/img/blocks/';
+
 body {
   font-family: 'Roboto Slab', serif !important;
-  background: url(/website/assets/img/blocks/header-background.png)  !important;
+  background: url('@{imgpath}header-background.png')  !important;
 }
 
-.lgx-banner {
-  background: url(/website/assets/img/blocks/header-background.png)  !important;
+
+
+.icon (@icon) {
+  background: no-repeat url('@{imgpath}@{icon}');
 }
 
-.lgx-inner {
-  background: url(/website/assets/img/blocks/header-background.png) !important
+.img-summit-logo {
+  .icon('OWASP-Summit-2017-logo.png');
 }
