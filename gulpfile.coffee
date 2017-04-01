@@ -15,6 +15,7 @@ gulp.task 'pug', ()->
 
     gulp.src('website/src/pug/**/*.pug')
           .pipe(pug( locals: localsObject, pretty: true))
+          .on('error', notify.onError(message: 'Pug compile error: <%= error.message %>'))
           .pipe(gulp.dest('website'))
 
 

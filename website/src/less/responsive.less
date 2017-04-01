@@ -1,357 +1,357 @@
-
-@import "variables.less";
-
-/* ---------------------------------------------------------------------------
-    Customized by http://vaskar.me/
- ---------------------------------------------------------------------------
-    Min-Width: Refers to everything greater than or equal to the amount given.
-    Max-Width: Refers to everything less than or equal to the amount given.
- ---------------------------------------------------------------------------/*
-
-/* -----------------------------------------------------------------------
-    Large devices (large desktops, 1200px and up)
- ------------------------------------------------------------------------*/
-@media (min-width: 1200px) and (max-width: 1400px) {
-    /*.lgx-banner .lgx-inner {
-        padding: 25rem 0 20rem;
-    }*/
-  .lgx-banneranother .title {
-    font-size: 9rem;
-    letter-spacing: -3px;
-    line-height: 8rem;
-    span {
-      font-size: 11rem;
-      letter-spacing: -3px;
-      line-height: 11rem;
-    }
-  }
-}
-
-@media (min-width: @screen-lg-min) {
-    /************** 1200 GLOBAl USE***********/
-    .lg-text-center {
-        text-align: center;
-    }
-
-    /************** 1200 GLOBAl USE END***********/
-}
-
-
-/* -----------------------------------------------------------------------
-     Medium devices (desktops, UP TO 1199px~992px)
- ------------------------------------------------------------------------*/
-@media (max-width : @screen-md-max) {
-    /************** 1199 GLOBAl USE***********/
-    html {
-        font-size: 55%;
-    }
-
-    .md-text-center {
-        text-align: center;
-    }
-
-
-  //Schedule
-  .lgx-schedule .lgx-tab .lgx-single-tab .author .author-img {
-    width: 28%;
-    margin-right: 5%;
-    img {
-      max-width: 100%;
-    }
-  }
-  .lgx-schedule .lgx-tab .lgx-single-tab .author .author-info {
-    width: 67%;
-    margin-top: .5rem;
-  }
-  .lgx-schedule .lgx-tab .lgx-single-tab .time-area .time {
-    .font-size(26);
-  }
-  //Schedule End
-
-  .lgx-sponsors .sponsors-area .single a img {
-    max-width: 100%;
-  }
-
-
-  //Blog
-  .lgx-blog .lgx-card-single iframe {
-    min-height: 207px;
-  }
-  .lgx-blog-list blockquote {
-    margin: 0;
-    min-height: 213px;
-  }
-  //Blog End
-
-  .lgx-video .video-icon a img {
-    padding-top: 9px;
-  }
-
-
-
-    /************** 1199 GLOBAl USE END***********/
-
-}
-
-/* ----------------------------------------------------------------------
-     Small devices (tablets, UP TO 991px~768px)
- -----------------------------------------------------------------------*/
-@media (max-width : @screen-sm-max) {
-    /************** 991 GLOBAl USE***********/
-    html {
-        font-size: 53%;
-    }
-    .sm-text-center {
-        text-align: center;
-    }
-  .lgx-header .lgx-navbar .lgx-logo a img {
-    max-width: 140px;
-    margin-top: 4px;
-  }
-  .lgx-header .lgx-navbar .lgx-nav li a {
-    letter-spacing: 0;
-    padding-left: 7px;
-    padding-right: 7px;
-  }
-  .menu-onscroll .lgx-navbar .lgx-nav li .lgx-btn {
-    margin-top: 1.8rem;
-  }
-
-  .lgx-speakers .lgx-single-speaker {
-    min-height: 450px;
-  }
-
-
-  //Schedule
-  .lgx-schedule .lgx-tab .nav-pills li a {
-    padding: 1.2rem 1.2rem 0.8rem;
-  }
-  .lgx-schedule .lgx-tab .nav-pills .active::before {
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-top: 50px solid @brand-color;
-    left: 16%;
-  }
-  //Schedule End
-
-  .lgx-register .single {
-    margin: 0 1rem 2.6rem;
-  }
-
-  .lgx-photo-gallery .lgx-single {
-    width: 50%;
-  }
-
-  .lgx-sponsors .sponsors-area .single {
-    width: 32%;
-  }
-
-  //Blog
-  .lgx-blog .lgx-card-single .content .cat-icon {
-    display: none;
-  }
-  .lgx-blog .lgx-card-single .content .text-area {
-    width: 100%;
-  }
-  .lgx-blog .lgx-card-single {
-    padding: 1rem;
-  }
-  .lgx-blog .lgx-card-single .content .text-area .title {
-    line-height: 3.2rem;
-  }
-  .lgx-blog .lgx-card-single blockquote {
-    min-height: auto;
-  }
-  .lgx-blog .lgx-card-single iframe {
-    min-height: 200px;
-  }
-  .lgx-blog .lgx-card-single .content {
-    min-height: 118px;
-    padding: 0 1.6rem 3.6rem;
-  }
-  //Blog End
-
-  //Testimonials
-  .lgx-testimonials .lgx-owltestimonial .item .lgx-client-image img {
-    max-width: 150px;
-  }
-  //Testimonials End
-
-  .lgx-heading .heading {
-    line-height: 10rem;
-    position: static;
-  }
-  .lgx-heading .back-heading {
-    display: none;
-  }
-  .lgx-heading-area .text {
-    padding: 0 10%;
-  }
-  .lgx-heading {
-    margin-top: 0;
-  }
-
-}
-
-/* ---------------------------------------------------------------------
-    Extra small devices (phones, less UP TO 767px)
- ----------------------------------------------------------------------*/
-@media (max-width : @screen-xs-max) {
-    /************** 767 GLOBAl USE***********/
-    html {
-        font-size: 52%;
-    }
-
-    .xs-text-center{
-        text-align: center;
-    }
-    .xs-text-right {
-        text-align: right;
-    }
-
-    .xs-text-left {
-        text-align: left;
-    }
-    .xs-float-none {
-        float: none;
-    }
-
-    .sm-text-center {
-        text-align: center;
-    }
-
-    /*Typography*/
-    h1, .h1 {
-        .font-size(42);
-        line-height: 4.8rem;
-    }
-
-    h2, .h2 {
-        .font-size(42);
-        line-height: 4.8rem;
-    }
-
-    h3, .h3 {
-        font-size: 16px;
-        line-height: 2.4rem;
-        font-weight: 400;
-    }
-    .lgx-btn {
-        padding: 1rem 2.6rem;
-    }
-
-/*  .lgx-header {
-    .bg-rgba(@black-color, 0.90);
-  }*/
-  .lgx-header .lgx-navbar .lgx-nav {
-    float: left;
-  }
-  .navbar-default .navbar-toggle {
-    border-color: @brand-color;
-    span {
-    }
-  }
-  .navbar-default .navbar-toggle .icon-bar {
-    background-color: @brand-color;
-  }
-
-  .lgx-heading-area {
-    margin-bottom: 4.2rem;
-  }
-/* this was adding a while line before
-  .lgx-inner {
-    padding: 5rem 0 6.8rem;
-  }*/
-  .lgxmapcanvas {
-    min-height: 200px;
-  }
-  .breadcrumb {
-    margin-bottom: 0;
-  }
-
-  .lgx-blog-single .lgx-card-single footer .lgx-share ul li a {
-    font-size: 16px;
-    height: 45px;
-    width: 45px;
-    i {
-      line-height: 47px;
-    }
-  }
-
-  .lgx-speaker-single .speakers-content {
-    text-align: center;
-  }
-  .lgx-speaker-single .social ul li a {
-    font-size: 16px;
-    height: 45px;
-    width: 45px;
-    i {
-      line-height: 47px;
-    }
-  }
-  .lgx-speaker-single .speakers-content .title {
-    font-size: 2.6rem;
-  }
-  .lgx-speaker-single .speakers-content .subtitle {
-    font-size: 1.6rem;
-    line-height: 2.4rem;
-  }
-
-  //Banner
-  .lgx-banner .title {
-    font-size: 4.2rem;
-    line-height: 8rem;
-    margin: 0;
-  }
-  .lgx-banner .date {
-    font-size: 2rem;
-    line-height: 3rem;
-  }
-  /*.lgx-banner {
-    text-align: center;
-    .lgx-inner0 {
-      padding: 0rem 0rem 0rem;
-      //background: red !important;
-    }
-  }*/
-
-  .menu-onscroll .lgx-navbar {
-    background: transparent;
-  }
-  .lgx-header .lgx-navbar .lgx-nav li .lgx-btn {
-    margin-bottom: 16px;
-  }
-  .menu-onscroll .lgx-navbar .lgx-nav li a {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-  .owl-theme .owl-controls .owl-nav [class*=owl-] {
-    background: transparent;
-    opacity: .5;
-  }
-
-  .lgx-header {
-    top: 1px;
-  }
-  .menu-onscroll {
-    top: 0;
-  }
-
-
-
-
-    /************** 767 GLOBAl USE END***********/
-
-
-}/*767 END*/
-
-
-
-
-/*-----------------------------------------------------------------------------
-   EXAMPLE: We occasionally expand on these media queries to a narrower set of devices.
-*-------------------------------------------------------------------------------*/
-//@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {  }
-
-//@media (min-width: @screen-md-min) and (max-width: @screen-md-max) {  }
-
+//
+//@import "variables.less";
+//
+///* ---------------------------------------------------------------------------
+//    Customized by http://vaskar.me/
+// ---------------------------------------------------------------------------
+//    Min-Width: Refers to everything greater than or equal to the amount given.
+//    Max-Width: Refers to everything less than or equal to the amount given.
+// ---------------------------------------------------------------------------/*
+//
+///* -----------------------------------------------------------------------
+//    Large devices (large desktops, 1200px and up)
+// ------------------------------------------------------------------------*/
+//@media (min-width: 1200px) and (max-width: 1400px) {
+//    /*.lgx-banner .lgx-inner {
+//        padding: 25rem 0 20rem;
+//    }*/
+//  .lgx-banneranother .title {
+//    font-size: 9rem;
+//    letter-spacing: -3px;
+//    line-height: 8rem;
+//    span {
+//      font-size: 11rem;
+//      letter-spacing: -3px;
+//      line-height: 11rem;
+//    }
+//  }
+//}
+//
+//@media (min-width: @screen-lg-min) {
+//    /************** 1200 GLOBAl USE***********/
+//    .lg-text-center {
+//        text-align: center;
+//    }
+//
+//    /************** 1200 GLOBAl USE END***********/
+//}
+//
+//
+///* -----------------------------------------------------------------------
+//     Medium devices (desktops, UP TO 1199px~992px)
+// ------------------------------------------------------------------------*/
+////@media (max-width : @screen-md-max) {
+////    /************** 1199 GLOBAl USE***********/
+////    html {
+////        font-size: 55%;
+////    }
+////
+////    .md-text-center {
+////        text-align: center;
+////    }
+////
+////
+////  //Schedule
+////  .lgx-schedule .lgx-tab .lgx-single-tab .author .author-img {
+////    width: 28%;
+////    margin-right: 5%;
+////    img {
+////      max-width: 100%;
+////    }
+////  }
+////  .lgx-schedule .lgx-tab .lgx-single-tab .author .author-info {
+////    width: 67%;
+////    margin-top: .5rem;
+////  }
+////  .lgx-schedule .lgx-tab .lgx-single-tab .time-area .time {
+////    .font-size(26);
+////  }
+////  //Schedule End
+////
+////  .lgx-sponsors .sponsors-area .single a img {
+////    max-width: 100%;
+////  }
+////
+////
+////  //Blog
+////  .lgx-blog .lgx-card-single iframe {
+////    min-height: 207px;
+////  }
+////  .lgx-blog-list blockquote {
+////    margin: 0;
+////    min-height: 213px;
+////  }
+////  //Blog End
+////
+////  .lgx-video .video-icon a img {
+////    padding-top: 9px;
+////  }
+////
+////
+////
+////    /************** 1199 GLOBAl USE END***********/
+////
+////}
+//
+///* ----------------------------------------------------------------------
+//     Small devices (tablets, UP TO 991px~768px)
+// -----------------------------------------------------------------------*/
+//@media (max-width : @screen-sm-max) {
+//    /************** 991 GLOBAl USE***********/
+//    html {
+//        font-size: 53%;
+//    }
+//    .sm-text-center {
+//        text-align: center;
+//    }
+//  .lgx-header .lgx-navbar .lgx-logo a img {
+//    max-width: 140px;
+//    margin-top: 4px;
+//  }
+//  .lgx-header .lgx-navbar .lgx-nav li a {
+//    letter-spacing: 0;
+//    padding-left: 7px;
+//    padding-right: 7px;
+//  }
+//  .menu-onscroll .lgx-navbar .lgx-nav li .lgx-btn {
+//    margin-top: 1.8rem;
+//  }
+//
+//  .lgx-speakers .lgx-single-speaker {
+//    min-height: 450px;
+//  }
+//
+//
+//  //Schedule
+//  .lgx-schedule .lgx-tab .nav-pills li a {
+//    padding: 1.2rem 1.2rem 0.8rem;
+//  }
+//  .lgx-schedule .lgx-tab .nav-pills .active::before {
+//    border-left: 50px solid transparent;
+//    border-right: 50px solid transparent;
+//    border-top: 50px solid @brand-color;
+//    left: 16%;
+//  }
+//  //Schedule End
+//
+//  .lgx-register .single {
+//    margin: 0 1rem 2.6rem;
+//  }
+//
+//  .lgx-photo-gallery .lgx-single {
+//    width: 50%;
+//  }
+//
+//  .lgx-sponsors .sponsors-area .single {
+//    width: 32%;
+//  }
+//
+//  //Blog
+//  .lgx-blog .lgx-card-single .content .cat-icon {
+//    display: none;
+//  }
+//  .lgx-blog .lgx-card-single .content .text-area {
+//    width: 100%;
+//  }
+//  .lgx-blog .lgx-card-single {
+//    padding: 1rem;
+//  }
+//  .lgx-blog .lgx-card-single .content .text-area .title {
+//    line-height: 3.2rem;
+//  }
+//  .lgx-blog .lgx-card-single blockquote {
+//    min-height: auto;
+//  }
+//  .lgx-blog .lgx-card-single iframe {
+//    min-height: 200px;
+//  }
+//  .lgx-blog .lgx-card-single .content {
+//    min-height: 118px;
+//    padding: 0 1.6rem 3.6rem;
+//  }
+//  //Blog End
+//
+//  //Testimonials
+//  .lgx-testimonials .lgx-owltestimonial .item .lgx-client-image img {
+//    max-width: 150px;
+//  }
+//  //Testimonials End
+//
+//  .lgx-heading .heading {
+//    line-height: 10rem;
+//    position: static;
+//  }
+//  .lgx-heading .back-heading {
+//    display: none;
+//  }
+//  .lgx-heading-area .text {
+//    padding: 0 10%;
+//  }
+//  .lgx-heading {
+//    margin-top: 0;
+//  }
+//
+//}
+//
+///* ---------------------------------------------------------------------
+//    Extra small devices (phones, less UP TO 767px)
+// ----------------------------------------------------------------------*/
+//@media (max-width : @screen-xs-max) {
+//    /************** 767 GLOBAl USE***********/
+//    html {
+//        font-size: 52%;
+//    }
+//
+//    .xs-text-center{
+//        text-align: center;
+//    }
+//    .xs-text-right {
+//        text-align: right;
+//    }
+//
+//    .xs-text-left {
+//        text-align: left;
+//    }
+//    .xs-float-none {
+//        float: none;
+//    }
+//
+//    .sm-text-center {
+//        text-align: center;
+//    }
+//
+//    /*Typography*/
+//    h1, .h1 {
+//        .font-size(42);
+//        line-height: 4.8rem;
+//    }
+//
+//    h2, .h2 {
+//        .font-size(42);
+//        line-height: 4.8rem;
+//    }
+//
+//    h3, .h3 {
+//        font-size: 16px;
+//        line-height: 2.4rem;
+//        font-weight: 400;
+//    }
+//    .lgx-btn {
+//        padding: 1rem 2.6rem;
+//    }
+//
+///*  .lgx-header {
+//    .bg-rgba(@black-color, 0.90);
+//  }*/
+//  .lgx-header .lgx-navbar .lgx-nav {
+//    float: left;
+//  }
+//  .navbar-default .navbar-toggle {
+//    border-color: @brand-color;
+//    span {
+//    }
+//  }
+//  .navbar-default .navbar-toggle .icon-bar {
+//    background-color: @brand-color;
+//  }
+//
+//  .lgx-heading-area {
+//    margin-bottom: 4.2rem;
+//  }
+///* this was adding a while line before
+//  .lgx-inner {
+//    padding: 5rem 0 6.8rem;
+//  }*/
+//  .lgxmapcanvas {
+//    min-height: 200px;
+//  }
+//  .breadcrumb {
+//    margin-bottom: 0;
+//  }
+//
+//  .lgx-blog-single .lgx-card-single footer .lgx-share ul li a {
+//    font-size: 16px;
+//    height: 45px;
+//    width: 45px;
+//    i {
+//      line-height: 47px;
+//    }
+//  }
+//
+//  .lgx-speaker-single .speakers-content {
+//    text-align: center;
+//  }
+//  .lgx-speaker-single .social ul li a {
+//    font-size: 16px;
+//    height: 45px;
+//    width: 45px;
+//    i {
+//      line-height: 47px;
+//    }
+//  }
+//  .lgx-speaker-single .speakers-content .title {
+//    font-size: 2.6rem;
+//  }
+//  .lgx-speaker-single .speakers-content .subtitle {
+//    font-size: 1.6rem;
+//    line-height: 2.4rem;
+//  }
+//
+//  //Banner
+//  .lgx-banner .title {
+//    font-size: 4.2rem;
+//    line-height: 8rem;
+//    margin: 0;
+//  }
+//  .lgx-banner .date {
+//    font-size: 2rem;
+//    line-height: 3rem;
+//  }
+//  /*.lgx-banner {
+//    text-align: center;
+//    .lgx-inner0 {
+//      padding: 0rem 0rem 0rem;
+//      //background: red !important;
+//    }
+//  }*/
+//
+//  .menu-onscroll .lgx-navbar {
+//    background: transparent;
+//  }
+//  .lgx-header .lgx-navbar .lgx-nav li .lgx-btn {
+//    margin-bottom: 16px;
+//  }
+//  .menu-onscroll .lgx-navbar .lgx-nav li a {
+//    padding-top: 10px;
+//    padding-bottom: 10px;
+//  }
+//  .owl-theme .owl-controls .owl-nav [class*=owl-] {
+//    background: transparent;
+//    opacity: .5;
+//  }
+//
+//  .lgx-header {
+//    top: 1px;
+//  }
+//  .menu-onscroll {
+//    top: 0;
+//  }
+//
+//
+//
+//
+//    /************** 767 GLOBAl USE END***********/
+//
+//
+//}/*767 END*/
+//
+//
+//
+//
+///*-----------------------------------------------------------------------------
+//   EXAMPLE: We occasionally expand on these media queries to a narrower set of devices.
+//*-------------------------------------------------------------------------------*/
+////@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {  }
+//
+////@media (min-width: @screen-md-min) and (max-width: @screen-md-max) {  }
+//

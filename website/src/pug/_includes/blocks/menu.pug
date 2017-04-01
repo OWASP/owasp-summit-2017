@@ -1,12 +1,12 @@
 // HEADER
 
 header
-    #lgx-header.lgx-header
+    #lgx-header
         .lgx-header-inner
             .container
                 .row
                     .col-xs-12
-                        nav#menu-offscroll.navbar.navbar-default.lgx-navbar
+                        nav#menu-offscroll.navbar.navbar-default
                                 //nav.navbar.lgx-navbar.lgxcontainer
                                 .navbar-header
                                     button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
@@ -15,24 +15,25 @@ header
                                         span.icon-bar
                                         span.icon-bar
                                     .lgx-logo
-                                        a.lgx-scroll(href='/new/index.html')
-                                            img(src='/website/assets/img/owasp-logo-large.png', alt='Logo', width='50')
-                                .collapse.navbar-collapse
-                                    ul.nav.navbar-nav.lgx-nav
+                                        a(href='/new/index.html')
+                                            img(src='/website/assets/img/blocks/logo-small.png')
+                                .collapse.navbar-collapse.blocks-menu
+                                    ul.nav.navbar-nav
                                         li
-                                            a.lgx-scroll(href='/new/about.html') About
+                                            a(href='/new/about.html') About
                                         li
-                                            a.lgx-scroll(href='/new/working-sessions.html') Working Sessions
+                                            a(href='/new/working-sessions.html') Working Sessions
                                         li
-                                            a.lgx-scroll(href='/new/participants.html') Participants
+                                            a(href='/new/participants.html') Participants
                                         li
-                                            a.lgx-scroll(href='/new/venue.html') Venue
+                                            a(href='/new/venue.html') Venue
                                         li
-                                            a.lgx-scroll(href='/new/sponsors.html') Sponsors
+                                            a(href='/new/sponsors.html') Sponsors
                                         li
-                                            a.lgx-scroll(href='/new/summit-organization.html') Summit Organization
-                                        li
-                                            a.lgx-scroll.lgx-btn(href='/new/buy-ticket.html')
+                                            a(href='/new/summit-organization.html') Summit Organization
+                                        button.btn.btn-primary
+                                                a(href='/new/buy-ticket.html') Buy Ticket
+                                            //    a.lgx-scroll.lgx-btn(href='/new/buy-ticket.html')
                                                 span Buy Ticket
                             //.container
                                 //nav.navbar.navbar-default.lgx-navbar
@@ -63,3 +64,4 @@ header
                                                 li
                                                     a.lgx-scroll.lgx-btn(href='/new/buy-ticket.html')
                                                         span Buy Ticket
+
