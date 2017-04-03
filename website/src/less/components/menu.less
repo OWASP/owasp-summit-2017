@@ -1,31 +1,60 @@
 @import '../variables.less';
 
-@media(min-width:768px) and (max-width:991px)     // bootstrap medium
-{
+@media(min-width:768px) and (max-width:991px)  {    // bootstrap medium
   .container {
-    width: auto ;                                 // override bootstrap width change to 750px at this point
+    width: auto; // override bootstrap width change to 750px at this point
   }
+
+  //.navbar {
+  //  .font-size(12);
+  //}
+  //.btn {
+  //  .font-size(12);
+  //}
 }
 
+.set-sizes(@font-size, @img-size, @top-padding){
+  .navbar      {
+    li a       {   .font-size(@font-size);                  }
+    .btn       {   .font-size(@font-size);                  } }
+  img          {   width: ~"@{img-size}px";                 }
+  .navbar      {   padding-top     : ~"@{top-padding}px";   }
+  .blocks-menu {   padding-top     : ~"@{top-padding}px";   }
+}
+
+@media(min-width: 920px) {   .set-sizes(16, 120, 10);  }
+@media(max-width: 920px) {   .set-sizes(14, 110, 10);  }
+@media(max-width: 840px) {   .set-sizes(12, 100, 20);  }
+@media(max-width: 770px) {   .set-sizes(13,  90, 20);  }
+
+//@media (max-width: @screen-sm) {
+//  body{font-size: 14px;}
+//}
+
+//.navbar {
+//  .font-size(16);
+//}
+
+
 .navbar {
-  padding-top     : 20px;                         // small padding at the top of the navigation bar
+  //padding-top     : 10px;                         // small padding at the top of the navigation bar
   background-color: transparent;                  // show background image (instead of white)
-  img
-  {
-    width: 120px;
-  }
+  //img {
+  //  width: 120px;
+  //}
 }
 
 // this is the top right nav menu
 .blocks-menu {
   float: right;                           // align the menu to the right
   font-family   :'Oswald';
-  padding-top     : 10px;                 // extra padding for menu
+//  padding-top     : 10px;                 // extra padding for menu
 
   li a {
     text-transform: uppercase;            // make all text uppercase
     padding       : 9px 10px 0px 10px;    // align with buttom (top, right, bottom, left)
-    font-size     : 16px;
+    //.font-size(16);
+    //font-size     : 16px;
     color         : #333333;
   }
   button {
@@ -41,42 +70,42 @@
 }
 
 // we need this so that the menu colapses sooner (menu items were wrapping due to size of items shown on top menu
-@media (max-width: 921px) {
-  .navbar-header {
-    float: none;
-  }
-  .navbar-left,.navbar-right {
-    float: none !important;
-  }
-  .navbar-toggle {
-    display: block;
-  }
-  .navbar-collapse {
-    border-top: 1px solid transparent;
-    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
-  }
-  .navbar-fixed-top {
-    top: 0;
-    border-width: 0 0 1px;
-  }
-  .navbar-collapse.collapse {
-    display: none!important;
-  }
-  .navbar-nav {
-    float: none!important;
-    margin-top: 7.5px;
-  }
-  .navbar-nav>li {
-    float: none;
-  }
-  .navbar-nav>li>a {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-  .collapse.in{
-    display:block !important;
-  }
-}
+//@media (max-width: 921px) {
+//  .navbar-header {
+//    float: none;
+//  }
+//  .navbar-left,.navbar-right {
+//    float: none !important;
+//  }
+//  .navbar-toggle {
+//    display: block;
+//  }
+//  .navbar-collapse {
+//    border-top: 1px solid transparent;
+//    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+//  }
+//  .navbar-fixed-top {
+//    top: 0;
+//    border-width: 0 0 1px;
+//  }
+//  .navbar-collapse.collapse {
+//    display: none!important;
+//  }
+//  .navbar-nav {
+//    float: none!important;
+//    margin-top: 7.5px;
+//  }
+//  .navbar-nav>li {
+//    float: none;
+//  }
+//  .navbar-nav>li>a {
+//    padding-top: 10px;
+//    padding-bottom: 10px;
+//  }
+//  .collapse.in{
+//    display:block !important;
+//  }
+//}
 
 
 //

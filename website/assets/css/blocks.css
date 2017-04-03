@@ -1,14 +1,3 @@
-.quote-title {
-  color: #87BB40 !important ;
-  font-family: 'Oswald' !important;
-  font-size: 26px !important;
-}
-.quote-text {
-  color: #333333 !important ;
-  font-family: 'Roboto Slab' !important;
-  font-size: 50px !important;
-  line-height: 120%;
-}
 
 /* latin */
 @font-face {
@@ -28,19 +17,6 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 
-
-section {
-  padding-top: 150px;
-}
-.lgx-logo img {
-  max-width: 270px;
-  margin-top: 0;
-}
-
-body {
-  font-family: 'Roboto Slab', serif !important;
-  background: url('/website/assets/img/blocks/header-background.png') !important;
-}
 .img-summit-logo {
   background: no-repeat url('/website/assets/img/blocks/OWASP-Summit-2017-logo.png');
 }
@@ -53,27 +29,215 @@ body {
 
 
 
+
+body {
+  font-family: 'Roboto Slab', serif !important;
+  background: url('/website/assets/img/blocks/header-background.png') !important;
+  background-size: 1200px                                    !important;
+  min-width: 320px;
+}
+
+@media screen {
+  section {
+    padding-top: 150px;
+  }
+  .home-banner .quote-title {
+    font-size: 20px;
+    font-size: 2rem;
+  }
+  .home-banner .quote-text {
+    font-size: 40px;
+    font-size: 4rem;
+  }
+  .lgx-countdown-area {
+    font-size: 20px;
+    font-size: 2rem;
+  }
+}
+@media (max-width: 691px) {
+  section {
+    padding-top: 150px;
+  }
+  .home-banner .quote-title {
+    font-size: 15px;
+    font-size: 1.5rem;
+  }
+  .home-banner .quote-text {
+    font-size: 30px;
+    font-size: 3rem;
+  }
+  .lgx-countdown-area {
+    font-size: 15px;
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 691px) {
+  section {
+    padding-top: 100px;
+  }
+  .home-banner .quote-title {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+  .home-banner .quote-text {
+    font-size: 20px;
+    font-size: 2rem;
+  }
+  .lgx-countdown-area {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+}
+@media (max-width: 500px) {
+  section {
+    padding-top: 75px;
+  }
+  .home-banner .quote-title {
+    font-size: 10px;
+    font-size: 1rem;
+  }
+  .home-banner .quote-text {
+    font-size: 20px;
+    font-size: 2rem;
+  }
+  .lgx-countdown-area {
+    font-size: 10px;
+    font-size: 1rem;
+  }
+}
+.home-banner p {
+  margin: 0 0 0px;
+}
+.home-banner .quote-title {
+  color: #87BB40;
+  font-family: 'Oswald';
+}
+.home-banner .quote-text {
+  color: #333333 !important ;
+  font-family: 'Roboto Slab' !important;
+}
+.lgx-countdown-area {
+  margin-bottom: 1.6rem;
+}
+.lgx-countdown-area #lgx-countdown span {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  display: inline-block;
+  margin-right: 0rem;
+  letter-spacing: .16rem;
+}
+.lgx-countdown-area #lgx-countdown i {
+  font-family: 'Roboto Slab', serif;
+  color: #2e2841;
+  margin-right: 1rem;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  display: block;
+}
+.lgx-countdown-area #lgx-countdown .lgx-days {
+  color: #00549e;
+}
+.lgx-countdown-area #lgx-countdown .lgx-hr {
+  color: #ff8a00;
+}
+.lgx-countdown-area #lgx-countdown .lgx-min {
+  color: #00b9ff;
+}
+.lgx-countdown-area #lgx-countdown .lgx-sec {
+  color: #87bb40;
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
   .container {
-    width: auto ;
+    width: auto;
+  }
+}
+@media (min-width: 920px) {
+  .navbar li a {
+    font-size: 16px;
+    font-size: 1.6rem;
+  }
+  .navbar .btn {
+    font-size: 16px;
+    font-size: 1.6rem;
+  }
+  img {
+    width: 120px;
+  }
+  .navbar {
+    padding-top: 10px;
+  }
+  .blocks-menu {
+    padding-top: 10px;
+  }
+}
+@media (max-width: 920px) {
+  .navbar li a {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+  .navbar .btn {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+  img {
+    width: 110px;
+  }
+  .navbar {
+    padding-top: 10px;
+  }
+  .blocks-menu {
+    padding-top: 10px;
+  }
+}
+@media (max-width: 840px) {
+  .navbar li a {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+  .navbar .btn {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+  img {
+    width: 100px;
+  }
+  .navbar {
+    padding-top: 20px;
+  }
+  .blocks-menu {
+    padding-top: 20px;
+  }
+}
+@media (max-width: 770px) {
+  .navbar li a {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+  .navbar .btn {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+  img {
+    width: 90px;
+  }
+  .navbar {
+    padding-top: 20px;
+  }
+  .blocks-menu {
+    padding-top: 20px;
   }
 }
 .navbar {
-  padding-top: 20px;
   background-color: transparent;
-}
-.navbar img {
-  width: 120px;
 }
 .blocks-menu {
   float: right;
   font-family: 'Oswald';
-  padding-top: 10px;
 }
 .blocks-menu li a {
   text-transform: uppercase;
   padding: 9px 10px 0px 10px;
-  font-size: 16px;
   color: #333333;
 }
 .blocks-menu button {
@@ -82,41 +246,4 @@ body {
 .blocks-menu button a {
   color: white;
   text-transform: uppercase;
-}
-@media (max-width: 921px) {
-  .navbar-header {
-    float: none;
-  }
-  .navbar-left,
-  .navbar-right {
-    float: none !important;
-  }
-  .navbar-toggle {
-    display: block;
-  }
-  .navbar-collapse {
-    border-top: 1px solid transparent;
-    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
-  }
-  .navbar-fixed-top {
-    top: 0;
-    border-width: 0 0 1px;
-  }
-  .navbar-collapse.collapse {
-    display: none!important;
-  }
-  .navbar-nav {
-    float: none!important;
-    margin-top: 7.5px;
-  }
-  .navbar-nav > li {
-    float: none;
-  }
-  .navbar-nav > li > a {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-  .collapse.in {
-    display: block !important;
-  }
 }

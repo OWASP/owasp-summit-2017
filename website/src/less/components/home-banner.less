@@ -1,0 +1,65 @@
+@import '../variables.less';
+
+
+.set-sizes(@top-padding, @title, @text) {                          // set all sizes here
+  section             {   padding-top: ~"@{top-padding}px";   }
+  .home-banner        {
+    .quote-title      {   .font-size(@title);                 }
+    .quote-text       {   .font-size(@text);                  } }
+  .lgx-countdown-area { .font-size(@title)                    }
+}
+
+@media screen             {   .set-sizes(150, 20, 40);  }         // default size
+@media (max-width: 691px) {   .set-sizes(150, 15, 30);  }         // smaller sizes
+@media (max-width: 691px) {   .set-sizes(100, 13, 20);  }         // ... as the
+@media (max-width: 500px) {   .set-sizes(75 , 10, 20);  }         // ... screen changes
+
+.home-banner {
+  p {
+    margin: 0 0 0px;
+  }
+  .quote-title {
+    color:#87BB40;
+    font-family:'Oswald';
+  }
+
+  .quote-text {
+    color:#333333 !important ;
+    font-family:'Roboto Slab'!important ;
+  }
+}
+
+// Countdown
+.lgx-countdown-area {
+  margin-bottom: 1.6rem;
+  #lgx-countdown {
+    span {
+      text-align: center;
+      font-family: @lgx-heading-font;
+      display: inline-block;
+      margin-right: 0rem;
+      letter-spacing: .16rem;
+    }
+    i {
+      font-family: @lgx-base-font;
+      color: @black-color;
+      margin-right: 1rem;
+      text-transform: uppercase;
+      letter-spacing: normal;
+      display: block;
+    }
+    .lgx-days {
+      color: #00549e;
+    }
+    .lgx-hr {
+      color: #ff8a00;
+    }
+    .lgx-min {
+      color: #00b9ff;
+    }
+    .lgx-sec {
+      color: #87bb40;
+    }
+  }
+}
+

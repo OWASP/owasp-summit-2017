@@ -5,42 +5,42 @@
 
 
 
-        /*=========================================================================
-         ===  Circular CountDown
-         ========================================================================== */
-        if ( $('#circular-countdown').length ) {
-            $("#circular-countdown").TimeCircles({
-                "animation": "smooth",
-                "bg_width": 1.0,
-                "fg_width": 0.1,
-                "circle_bg_color": "#ddd",
-                "time": {
-                    "Days": {
-                        "text": "Days",
-                        "color": "#ff8a00",
-                        "show": true
-                    },
-                    "Hours": {
-                        "text": "Hours",
-                        "color": "#dc4e41",
-                        "show": true
-                    },
-                    "Minutes": {
-                        "text": "Minutes",
-                        "color": "#00b9ff",
-                        "show": true
-                    },
-                    "Seconds": {
-                        "text": "Seconds",
-                        "color": "#42bd41",
-                        "show": true
-                    }
-                }
-            });
-        }
-        /*=========================================================================
-         ===  Circular CountDown End
-         ========================================================================== */
+        // /*=========================================================================
+        //  ===  Circular CountDown
+        //  ========================================================================== */
+        // if ( $('#circular-countdown').length ) {
+        //     $("#circular-countdown").TimeCircles({
+        //         "animation": "smooth",
+        //         "bg_width": 1.0,
+        //         "fg_width": 0.1,
+        //         "circle_bg_color": "#ddd",
+        //         "time": {
+        //             "Days": {
+        //                 "text": "Days",
+        //                 "color": "#ff8a00",
+        //                 "show": true
+        //             },
+        //             "Hours": {
+        //                 "text": "Hours",
+        //                 "color": "#dc4e41",
+        //                 "show": true
+        //             },
+        //             "Minutes": {
+        //                 "text": "Minutes",
+        //                 "color": "#00b9ff",
+        //                 "show": true
+        //             },
+        //             "Seconds": {
+        //                 "text": "Seconds",
+        //                 "color": "#42bd41",
+        //                 "show": true
+        //             }
+        //         }
+        //     });
+        // }
+        // /*=========================================================================
+        //  ===  Circular CountDown End
+        //  ========================================================================== */
 
 
 
@@ -80,6 +80,12 @@
                     + '<span class="lgx-sec">%S <i> Seconds </i></span>'
                 ));
             });
+            // $('#lgx-countdown').html(
+            //     '<span class="lgx-days">%D <i> Daysaaaa </i></span> '
+            //     + '<span class="lgx-hr">%H <i> Hours </i></span> '
+            //     + '<span class="lgx-min">%M <i> Minutes </i></span> '
+            //     + '<span class="lgx-sec">%S <i> Seconds </i></span>'
+            // );
         }
 
         /*=========================================================================
