@@ -21,7 +21,7 @@ Main objectives for the 2017 SAMM Summit are:
 ## Working-Sessions
 1) Review and improve the 12 SAMM practices towards SAMM v2.0 draft (based on the notes of last year's summit and the SAMM calls)
 2) Update the SAMM model to take into account Agile and DevOps development and operation practices
-3) Include OWASP projects as resources for the SAMM practices in SAMM v2.0 (started online [here](https://www.owasp.org/index.php/Category:SAMM-Resources)
+3) Include OWASP projects as resources for the SAMM practices in SAMM v2.0 (started online [here](https://www.owasp.org/index.php/Category:SAMM-Resources))
 4) using Maturity Models project on OSAMM data (see related [Maturity-Models](Maturity-Models.html) Working-Sessions
 5) ... (add Working-Sessions here by editing the [GitHub page](https://github.com/OWASP/owasp-summit-2017/edit/master/Working-Sessions/SAMM.md))
 
