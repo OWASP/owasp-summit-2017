@@ -24,11 +24,6 @@
 .img-summit-logo {
   background: no-repeat url('/website/assets/img/blocks/OWASP-Summit-2017-logo.png');
 }
-.img-wasp {
-  padding-left: 20px;
-  background-size: 50px 50px;
-  background: no-repeat url('/website/assets/img/blocks/plus.png');
-}
 
 
 @media screen {
@@ -123,6 +118,174 @@ body h2 {
 }
 body p {
   color: #333333;
+}
+
+@media screen {
+  .get-your-ticket .ticket-box {
+    padding: 40px;
+    min-height: 480px;
+  }
+  .get-your-ticket .title {
+    font-size: 45px;
+    font-size: 4.5rem;
+  }
+  .get-your-ticket .ticket-type {
+    font-size: 26px;
+    font-size: 2.6rem;
+  }
+  .get-your-ticket .price {
+    font-size: 45px;
+    font-size: 4.5rem;
+  }
+  .get-your-ticket .currency {
+    font-size: 26px;
+    font-size: 2.6rem;
+  }
+  .get-your-ticket .ticket-duration {
+    font-size: 22px;
+    font-size: 2.2rem;
+  }
+  .get-your-ticket .glyphicon {
+    font-size: 15px;
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 950px) {
+  .get-your-ticket .ticket-box {
+    padding: 30px;
+    min-height: 420px;
+  }
+  .get-your-ticket .title {
+    font-size: 43px;
+    font-size: 4.3rem;
+  }
+  .get-your-ticket .ticket-type {
+    font-size: 22px;
+    font-size: 2.2rem;
+  }
+  .get-your-ticket .price {
+    font-size: 41px;
+    font-size: 4.1rem;
+  }
+  .get-your-ticket .currency {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+  .get-your-ticket .ticket-duration {
+    font-size: 20px;
+    font-size: 2rem;
+  }
+  .get-your-ticket .glyphicon {
+    font-size: 15px;
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 840px) {
+  .get-your-ticket .ticket-box {
+    padding: 20px;
+    min-height: 400px;
+  }
+  .get-your-ticket .title {
+    font-size: 41px;
+    font-size: 4.1rem;
+  }
+  .get-your-ticket .ticket-type {
+    font-size: 18px;
+    font-size: 1.8rem;
+  }
+  .get-your-ticket .price {
+    font-size: 37px;
+    font-size: 3.7rem;
+  }
+  .get-your-ticket .currency {
+    font-size: 22px;
+    font-size: 2.2rem;
+  }
+  .get-your-ticket .ticket-duration {
+    font-size: 17px;
+    font-size: 1.7rem;
+  }
+  .get-your-ticket .glyphicon {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+}
+@media (max-width: 500px) {
+  .get-your-ticket .ticket-box {
+    padding: 5px;
+    min-height: 340px;
+  }
+  .get-your-ticket .title {
+    font-size: 39px;
+    font-size: 3.9rem;
+  }
+  .get-your-ticket .ticket-type {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+  .get-your-ticket .price {
+    font-size: 33px;
+    font-size: 3.3rem;
+  }
+  .get-your-ticket .currency {
+    font-size: 20px;
+    font-size: 2rem;
+  }
+  .get-your-ticket .ticket-duration {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+  .get-your-ticket .glyphicon {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+}
+.get-your-ticket {
+  padding-top: 80px;
+  background: white;
+}
+.get-your-ticket .title {
+  font-family: 'Oswald';
+  color: #333333;
+  padding-bottom: 50px;
+}
+.get-your-ticket .ticket-box {
+  text-align: center;
+  color: white;
+}
+.get-your-ticket .green-box {
+  background-color: #87bb40;
+}
+.get-your-ticket .green-box .price {
+  color: #00549E;
+}
+.get-your-ticket .blue-box {
+  background-color: #00549E;
+}
+.get-your-ticket .blue-box .price {
+  color: #87bb40;
+}
+.get-your-ticket .ticket-type {
+  font-family: 'Oswald';
+  text-transform: uppercase;
+}
+.get-your-ticket .price {
+  font-family: 'Oswald';
+}
+.get-your-ticket .currency {
+  padding: 5px;
+}
+.get-your-ticket .ticket-duration {
+  padding-bottom: 40px;
+}
+.get-your-ticket .glyphicon-ok {
+  color: white;
+  padding-bottom: 20px;
+}
+.get-your-ticket .item {
+  color: white;
+  padding-left: 5px;
+  font-family: 'Roboto Slab';
 }
 
 @media screen {
@@ -348,30 +511,26 @@ body p {
   padding-top: 80px;
   padding-bottom: 80px;
 }
-.summit-intro .wasp-img img {
-  padding-top: 90px;
+.summit-intro .wasp-img {
+  padding-top: 50px;
   width: 150px;
 }
 @media (max-width: 500px) {
-  .summit-intro .wasp-img img {
-    width: 100px;
+  .summit-intro .wasp-img {
+    padding-top: 100px;
+    width: 110px;
   }
 }
 .summit-intro a {
   font-family: 'Oswald';
   color: #87BB40;
 }
-.summit-intro .plug-sign {
-  padding: 2px;
-  vertical-align: initial;
-  width: 10px;
-}
-.glyphicon {
+.summit-intro .glyphicon {
   color: #00549E;
   padding-right: 5px;
 }
 @media (max-width: 650px) {
-  .glyphicon {
+  .summit-intro .glyphicon {
     display: none;
   }
 }

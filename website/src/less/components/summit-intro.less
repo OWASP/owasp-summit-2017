@@ -4,41 +4,30 @@
 .summit-intro {
   background: white;
   .intro-text {
-    padding-top   : 80px;
+    padding-top: 80px;
     padding-bottom: 80px;
   }
 
   .wasp-img {
-    img {
-      padding-top: 90px;
-      width: 150px;
-    }
+
+    padding-top: 50px;
+    width: 150px;
+
     @media (max-width: 500px) {
-      img {
-        width: 100px;
-      }
+      padding-top: 100px;
+      width: 110px;
     }
   }
   a {
-    font-family     : 'Oswald';
+    font-family: 'Oswald';
     color: #87BB40;
   }
-  .plug-sign {
-    padding:2px;
-    //float: center;
-    vertical-align: initial;
-    width:10px;
 
+  .glyphicon {
+    color: #00549E;
+    padding-right: 5px;
+    @media (max-width: 650px) {
+      display: none;
+    }
   }
 }
-
-.glyphicon {
-  color: #00549E;
-  padding-right:5px;
-  @media (max-width: 650px) {
-    display: none;
-  }
-}
-//.wrapper { position:relative; overflow:hidden; }
-//.box { float:left; } //Note: 'float:right' would work too
-//.box > img { width:100%; }
