@@ -14,14 +14,15 @@
   }
 }
 
-@media screen            {   .set-sizes(40, 480, 45, 26, 45, 26, 22, 15);  }
-@media(max-width: 950px) {   .set-sizes(30, 420, 43, 22, 41, 24, 20, 15);  }
-@media(max-width: 840px) {   .set-sizes(20, 400, 41, 18, 37, 22, 17, 13);  }
-@media(max-width: 500px) {   .set-sizes( 5, 340, 39, 14, 33, 20, 14, 12);  }
+@media screen            {   .set-sizes(40, 455, 45, 26, 45, 26, 22, 15);  }
+@media(max-width: 950px) {   .set-sizes(30, 440, 43, 22, 41, 24, 20, 15);  }
+@media(max-width: 840px) {   .set-sizes(20, 420, 41, 18, 37, 22, 17, 13);  }
+@media(max-width: 550px) {   .set-sizes( 5, 350, 39, 14, 33, 20, 14, 12);  }
 
 .get-your-ticket {
-  padding-top   : 80px;
-  background    : white;
+  padding-top     : 80px;
+  padding-bottom  : 80px;
+  background      : white;
 
   .title {
     font-family:'Oswald';
@@ -35,12 +36,14 @@
     color         : white;
   }
   .green-box {
-    background-color: #87bb40;
-    .price   { color: #00549E;  }
+    background-color                : #87BB40;
+    .price       { color            : #00549E;  }
+    .btn-primary { background-color : #00549E;  }   // change color of bootstrap button
   }
-  .blue-box  {
-    background-color: #00549E;
-    .price   { color: #87bb40; }
+  .blue-box {
+    background-color                : #00549E;
+    .price       { color            : #87BB40; }
+    .btn-primary { background-color : #87BB40;  }   // change color of bootstrap button
   }
 
   .ticket-type {
@@ -65,5 +68,14 @@
     color         : white;
     padding-left  : 5px;
     font-family   : 'Roboto Slab';
+  }
+  .buy-ticket {
+    font-family     :'Oswald';
+    padding-bottom  : 20px;
+    text-align      : center;
+    a {
+      text-transform: uppercase;
+      color         : white;
+    }
   }
 }

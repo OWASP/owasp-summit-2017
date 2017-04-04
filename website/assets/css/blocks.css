@@ -120,10 +120,28 @@ body p {
   color: #333333;
 }
 
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #333333;
+}
+.footer h2 {
+  font-family: 'Oswald';
+  color: #EAEAEA;
+}
+.footer p {
+  color: #EAEAEA;
+}
+.footer img {
+  padding-right: 10px;
+  padding-bottom: 10px;
+  width: 60px;
+}
+
 @media screen {
   .get-your-ticket .ticket-box {
     padding: 40px;
-    min-height: 480px;
+    min-height: 455px;
   }
   .get-your-ticket .title {
     font-size: 45px;
@@ -153,7 +171,7 @@ body p {
 @media (max-width: 950px) {
   .get-your-ticket .ticket-box {
     padding: 30px;
-    min-height: 420px;
+    min-height: 440px;
   }
   .get-your-ticket .title {
     font-size: 43px;
@@ -183,7 +201,7 @@ body p {
 @media (max-width: 840px) {
   .get-your-ticket .ticket-box {
     padding: 20px;
-    min-height: 400px;
+    min-height: 420px;
   }
   .get-your-ticket .title {
     font-size: 41px;
@@ -210,10 +228,10 @@ body p {
     font-size: 1.3rem;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 550px) {
   .get-your-ticket .ticket-box {
     padding: 5px;
-    min-height: 340px;
+    min-height: 350px;
   }
   .get-your-ticket .title {
     font-size: 39px;
@@ -242,6 +260,7 @@ body p {
 }
 .get-your-ticket {
   padding-top: 80px;
+  padding-bottom: 80px;
   background: white;
 }
 .get-your-ticket .title {
@@ -254,16 +273,22 @@ body p {
   color: white;
 }
 .get-your-ticket .green-box {
-  background-color: #87bb40;
+  background-color: #87BB40;
 }
 .get-your-ticket .green-box .price {
   color: #00549E;
+}
+.get-your-ticket .green-box .btn-primary {
+  background-color: #00549E;
 }
 .get-your-ticket .blue-box {
   background-color: #00549E;
 }
 .get-your-ticket .blue-box .price {
-  color: #87bb40;
+  color: #87BB40;
+}
+.get-your-ticket .blue-box .btn-primary {
+  background-color: #87BB40;
 }
 .get-your-ticket .ticket-type {
   font-family: 'Oswald';
@@ -286,6 +311,15 @@ body p {
   color: white;
   padding-left: 5px;
   font-family: 'Roboto Slab';
+}
+.get-your-ticket .buy-ticket {
+  font-family: 'Oswald';
+  padding-bottom: 20px;
+  text-align: center;
+}
+.get-your-ticket .buy-ticket a {
+  text-transform: uppercase;
+  color: white;
 }
 
 @media screen {
