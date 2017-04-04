@@ -1,4 +1,8 @@
 
+.img-responsive {
+  width: 100%;
+}
+
 /* latin */
 @font-face {
   font-family: 'Roboto Slab';
@@ -20,12 +24,85 @@
 .img-summit-logo {
   background: no-repeat url('/website/assets/img/blocks/OWASP-Summit-2017-logo.png');
 }
+.img-wasp {
+  padding-left: 20px;
+  background-size: 50px 50px;
+  background: no-repeat url('/website/assets/img/blocks/plus.png');
+}
 
 
-
-
-
-
+@media screen {
+  h1 {
+    font-size: 45px;
+    font-size: 4.5rem;
+  }
+  h2 {
+    font-size: 22px;
+    font-size: 2.2rem;
+  }
+  p {
+    font-size: 16px;
+    font-size: 1.6rem;
+  }
+  a {
+    font-size: 16px;
+    font-size: 1.6rem;
+  }
+}
+@media (max-width: 900px) {
+  h1 {
+    font-size: 43px;
+    font-size: 4.3rem;
+  }
+  h2 {
+    font-size: 22px;
+    font-size: 2.2rem;
+  }
+  p {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+  a {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+}
+@media (max-width: 691px) {
+  h1 {
+    font-size: 41px;
+    font-size: 4.1rem;
+  }
+  h2 {
+    font-size: 20px;
+    font-size: 2rem;
+  }
+  p {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+  a {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+}
+@media (max-width: 500px) {
+  h1 {
+    font-size: 39px;
+    font-size: 3.9rem;
+  }
+  h2 {
+    font-size: 18px;
+    font-size: 1.8rem;
+  }
+  p {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+  a {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+}
 
 
 
@@ -36,10 +113,22 @@ body {
   background-size: 1200px                                    !important;
   min-width: 320px;
 }
+body h1 {
+  font-family: 'Oswald';
+  color: #00549E;
+}
+body h2 {
+  font-family: 'Oswald';
+  color: #00549E;
+}
+body p {
+  color: #333333;
+}
 
 @media screen {
   section {
     padding-top: 150px;
+    padding-bottom: 150px;
   }
   .home-banner .quote-title {
     font-size: 20px;
@@ -57,6 +146,7 @@ body {
 @media (max-width: 691px) {
   section {
     padding-top: 150px;
+    padding-bottom: 150px;
   }
   .home-banner .quote-title {
     font-size: 15px;
@@ -74,6 +164,7 @@ body {
 @media (max-width: 691px) {
   section {
     padding-top: 100px;
+    padding-bottom: 100px;
   }
   .home-banner .quote-title {
     font-size: 13px;
@@ -91,6 +182,7 @@ body {
 @media (max-width: 500px) {
   section {
     padding-top: 75px;
+    padding-bottom: 75px;
   }
   .home-banner .quote-title {
     font-size: 10px;
@@ -105,7 +197,7 @@ body {
     font-size: 1rem;
   }
 }
-.home-banner p {
+.home-banner pa p {
   margin: 0 0 0px;
 }
 .home-banner .quote-title {
@@ -209,7 +301,7 @@ body {
     padding-top: 20px;
   }
 }
-@media (max-width: 770px) {
+@media (max-width: 760px) {
   .navbar li a {
     font-size: 13px;
     font-size: 1.3rem;
@@ -230,6 +322,7 @@ body {
 }
 .navbar {
   background-color: transparent;
+  border-color: transparent;
 }
 .blocks-menu {
   float: right;
@@ -247,3 +340,42 @@ body {
   color: white;
   text-transform: uppercase;
 }
+
+.summit-intro {
+  background: white;
+}
+.summit-intro .intro-text {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.summit-intro .wasp-img img {
+  padding-top: 90px;
+  width: 150px;
+}
+@media (max-width: 500px) {
+  .summit-intro .wasp-img img {
+    width: 100px;
+  }
+}
+.summit-intro a {
+  font-family: 'Oswald';
+  color: #87BB40;
+}
+.summit-intro .plug-sign {
+  padding: 2px;
+  vertical-align: initial;
+  width: 10px;
+}
+.glyphicon {
+  color: #00549E;
+  padding-right: 5px;
+}
+@media (max-width: 650px) {
+  .glyphicon {
+    display: none;
+  }
+}
+
+
+
+

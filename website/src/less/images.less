@@ -1,10 +1,25 @@
-@imgpath: '/website/assets/img/blocks/';
+@img-path: '/website/assets/img/blocks/';
 
 
-.icon (@icon) {
-  background: no-repeat url('@{imgpath}@{icon}');
+.icon (@img-name) {
+  background: no-repeat url('@{img-path}@{img-name}');
 }
 
 .img-summit-logo {
   .icon('OWASP-Summit-2017-logo.png');
+}
+
+
+.img-wasp {
+  //before {
+  //  content: "\2601";
+  //}
+  padding-left:20px;
+  //background-position: -80px -96px;
+  background-size: 50px 50px;
+  //display: inline-block;
+  .icon('plus.png');
+
+  //height:10px;
+  //padding: 10px;
 }

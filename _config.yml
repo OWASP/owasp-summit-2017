@@ -1,5 +1,6 @@
 name: Owasp Summit 2017
 markdown: kramdown
+data_dir: website/_data
 includes_dir: website/_includes
 layouts_dir:  website/_layouts
 exclude:

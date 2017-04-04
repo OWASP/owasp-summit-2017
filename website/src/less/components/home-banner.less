@@ -2,11 +2,12 @@
 
 
 .set-sizes(@top-padding, @title, @text) {                          // set all sizes here
-  section             {   padding-top: ~"@{top-padding}px";   }
+  section             {   padding-top: ~"@{top-padding}px";
+                          padding-bottom: ~"@{top-padding}px";  }
   .home-banner        {
     .quote-title      {   .font-size(@title);                 }
     .quote-text       {   .font-size(@text);                  } }
-  .lgx-countdown-area { .font-size(@title)                    }
+  .lgx-countdown-area {   .font-size(@title)                    }
 }
 
 @media screen             {   .set-sizes(150, 20, 40);  }         // default size
@@ -15,6 +16,7 @@
 @media (max-width: 500px) {   .set-sizes(75 , 10, 20);  }         // ... screen changes
 
 .home-banner {
+  pa
   p {
     margin: 0 0 0px;
   }
