@@ -24,39 +24,38 @@ Add Workshop on SOC/DevSecOps - Francois
 Improve the Threat Modeling call - Dinis - done
 send email to past summit mailing lists (Dinis) - done seba
 create discount code for supported/sponsored people (Seba) - done
+Figure out how to support the first batch of owasp leaders that need support (http://owaspsummit.org/Logistics/Participants-need-support.html) - done
 
 open actions:
 -------------
-recover mailing list previous owasp summits (seba - requested to Kate) - ongoing
+recover mailing list previous owasp summits (seba - requested to Kate) - ongoing - #156
 Crosscheck github with registered people (with logos of companies?). (Seba)
-Figure out how to support the first batch of owasp leaders that need support (http://owaspsummit.org/Logistics/Participants-need-support.html) - done
-create a mailing list of registered participants (Seba)
-link all these actions to github issues (summit editor - Nicki?)
+create a mailing list of registered participants (Seba) - #157
+link all these actions to github issues (summit editor - Nicki?) - Done by Seba
 update home page with registration text #141
-budget check to calculate impact of making the price incl VAT.
-check with venue what the charged VAT is and check with Alison what can be recovered? (Seba)
-include regonline fee as a cost (check with Kate) (Seba)
-ask gary to have a spot to promote the summit at the conference (Seba)
-add more details to OWASP Projects Reviews (Dinis)
-add more details to OWASP SAMM (Seba)
-add more detail to mobile security (Francois)
-resend tweetdeck invite to francois (Seba)
-invite summit editors for the next calls (Seba)
+budget check to calculate impact of making the price incl VAT. - #158
+check with venue what the charged VAT is and check with Alison what can be recovered? (Seba) - #159
+include regonline fee as a cost (check with Kate) (Seba) - #160
+ask gary to have a spot to promote the summit at the conference (Seba) - #161
+add more details to OWASP Projects Reviews (Dinis) - 162
+add more details to OWASP SAMM (Seba) - 140
+add more detail to mobile security (Francois) - #163
+resend tweetdeck invite to francois (Seba) - #164
+invite summit editors for the next calls (Seba) - #165
 
 follow-up actions points:
 -------------------------
-contact participants to register (Seba)
-create one line description per workshop (editors)
-invite editors for the next summit calls (seba)
-reply to lisa with summary of ideas (dinis/francois)
-followup on getting access to the mailing lists (Johanna)
+contact participants to register (Seba) - #166
+create one line description per workshop (editors) - #167
+reply to lisa with summary of ideas (dinis/francois) -??
+followup on getting access to the mailing lists (Johanna)- done
 create summit flyers for the chapter meetings / appseceu - A5 
-(Dinis: content - Lisa: layout - seba: ask to input in appseceu brochure)
-create updated powerpoint deck - 5/6 slides (Dinis)
-testing guide villa - Matteo (Dinis)
+(Dinis: content - Lisa: layout - seba: ask to input in appseceu brochure) - 168
+create updated powerpoint deck - 5/6 slides (Dinis) - #169
+testing guide villa - Matteo (Dinis) - #170
 promote "featured" working sessions during the next couple of weeks (Dinis/Lisa) - SAMM, mobile security, TM, Testing Guide, ...
-and use our own channels to promote these ....
-updating the sponsorship page (who still needs support) - Dinis
+and use our own channels to promote these .... - #171
+updating the sponsorship page (who still needs support) - Dinis - ??
 
 
 
