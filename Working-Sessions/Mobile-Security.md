@@ -3,6 +3,8 @@ layout: event-point/workshop
 title: Mobile Security
 type: workshop
 track: project-summit
+status: featured
+description: Work on Mobile Application Security Verification Standard (MASVS) , Mobile Security Testing Guide (MSTG), Hacking-Playground 
 ---
 
 ## Mobile Security

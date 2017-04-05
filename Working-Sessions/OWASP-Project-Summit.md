@@ -3,6 +3,8 @@ layout: event-point/workshop
 title: OWASP Project Summit
 type: workshop
 track: OWASP Projects
+status: featured
+description: The Summit will contain a number of Working-Sessions focused on OWASP Projects
 ---
 
 The Summit will contain a number of Working-Sessions focused on OWASP Projects

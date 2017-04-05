@@ -2,6 +2,8 @@
 layout: event-point/workshop
 title: Application Security BSc/Masters Curriculum Design
 type: workshop
+status: featured
+description: Part of OWASP's main purpose is to "Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software" and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next geenration as well especially with the acknowledged skill shortge in the whole sector that exists.
 ---
 
 ## Application Security BSc/Masters Curriculum Design
