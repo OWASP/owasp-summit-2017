@@ -19,7 +19,7 @@
     .btn       {   .font-size(@font-size);                  } }
   img          {   width: ~"@{img-size}px";                 }
   .navbar      {   padding-top     : ~"@{top-padding}px";   }
-  .blocks-menu {   padding-top     : ~"@{top-padding}px";   }
+  //.blocks-menu {   padding-top     : ~"@{top-padding}px";   }
 }
 
 @media(min-width: 920px) {   .set-sizes(16, 120, 10);  }
@@ -27,19 +27,16 @@
 @media(max-width: 840px) {   .set-sizes(12, 100, 20);  }
 @media(max-width: 760px) {   .set-sizes(13,  90, 20);  }
 
-//@media (max-width: @screen-sm) {
-//  body{font-size: 14px;}
-//}
-
-//.navbar {
-//  .font-size(16);
-//}
-
 
 .navbar {
 
   background-color: transparent;                  // show background image (instead of white)
   border-color: transparent;                      // remove border
+}
+.navbar-header {
+  button {
+    margin: 0px;
+  }
 }
 
 // this is the top right nav menu

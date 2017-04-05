@@ -45,19 +45,19 @@
 
 
 
-        /*=========================================================================
-         ===  // SITE PATH
-         ========================================================================== */
-        var lgx_path = window.location.protocol + '//' + window.location.host;
-        var pathArray = window.location.pathname.split('/');
-        for (var i = 1; i < (pathArray.length - 1); i++) {
-            lgx_path += '/';
-            lgx_path += pathArray[i];
-        }
-
-        /*=========================================================================
-         ===  // SITE PATH END
-         ========================================================================== */
+        // /*=========================================================================
+        //  ===  // SITE PATH
+        //  ========================================================================== */
+        // var lgx_path = window.location.protocol + '//' + window.location.host;
+        // var pathArray = window.location.pathname.split('/');
+        // for (var i = 1; i < (pathArray.length - 1); i++) {
+        //     lgx_path += '/';
+        //     lgx_path += pathArray[i];
+        // }
+        //
+        // /*=========================================================================
+        //  ===  // SITE PATH END
+        //  ========================================================================== */
 
 
 
@@ -122,20 +122,20 @@
 
 
 
-        /*=========================================================================
-         ===  magnific popup
-         ========================================================================== */
-        $('#lgx-photo-gallery').magnificPopup({
-            delegate: 'a', // child items selector, by clicking on it popup will open
-            type: 'image',
-            gallery: {
-                enabled: true
-            },
-            image: {
-                titleSrc: 'title'
-            }
-            // other options
-        });
+        // /*=========================================================================
+        //  ===  magnific popup
+        //  ========================================================================== */
+        // $('#lgx-photo-gallery').magnificPopup({
+        //     delegate: 'a', // child items selector, by clicking on it popup will open
+        //     type: 'image',
+        //     gallery: {
+        //         enabled: true
+        //     },
+        //     image: {
+        //         titleSrc: 'title'
+        //     }
+        //     // other options
+        // });
         /*=========================================================================
          ===  magnific popup END
          ========================================================================== */

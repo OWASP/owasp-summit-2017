@@ -1,0 +1,8 @@
+doctype html
+html
+    head
+        | {% include blocks/header.html             %}
+    body
+        | {% include blocks/menu.html               %}
+        block content
+        | {% include blocks/footer.html             %}

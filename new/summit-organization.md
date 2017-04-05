@@ -3,6 +3,8 @@ layout: event-point/page
 title: Summit Organization
 ---
 
+New design: Go [here](/website) to see the preview of the new version of this site
+
 If you want to help with the Summit organization or want to know more about what is happening behind the scenes, here are some links for you:
 
 * [Open Tasks](../Logistics/Open-Tasks.html)

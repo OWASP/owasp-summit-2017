@@ -1,4 +1,4 @@
 ---
-layout: blocks/working-sessions
-title: Working Sessions
+layout   : blocks/page-component
+component: blocks/all-ws.html
 ---

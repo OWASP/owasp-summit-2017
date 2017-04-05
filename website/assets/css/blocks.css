@@ -551,9 +551,6 @@ body p {
   .navbar {
     padding-top: 10px;
   }
-  .blocks-menu {
-    padding-top: 10px;
-  }
 }
 @media (max-width: 920px) {
   .navbar li a {
@@ -568,9 +565,6 @@ body p {
     width: 110px;
   }
   .navbar {
-    padding-top: 10px;
-  }
-  .blocks-menu {
     padding-top: 10px;
   }
 }
@@ -589,9 +583,6 @@ body p {
   .navbar {
     padding-top: 20px;
   }
-  .blocks-menu {
-    padding-top: 20px;
-  }
 }
 @media (max-width: 760px) {
   .navbar li a {
@@ -608,13 +599,13 @@ body p {
   .navbar {
     padding-top: 20px;
   }
-  .blocks-menu {
-    padding-top: 20px;
-  }
 }
 .navbar {
   background-color: transparent;
   border-color: transparent;
+}
+.navbar-header button {
+  margin: 0px;
 }
 .blocks-menu {
   float: right;

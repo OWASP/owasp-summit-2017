@@ -41,6 +41,7 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
         server         : baseDir: '_site/'
 
     gulp.watch 'new/**/*.md'                  , ['reload-page']
+    gulp.watch 'website/**/*.md'              , ['reload-page']
     gulp.watch 'website/_data/**/*'           , ['reload-page']
     #gulp.watch 'website/content/**/*.md'  , ['pug', 'reload-page']
     gulp.watch 'website/components/**/*.md'   , ['reload-page']
