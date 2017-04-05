@@ -154,6 +154,23 @@ body p {
   color: #333333;
   text-transform: uppercase;
 }
+.featured-ws .btn-primary {
+  background-color: #87BB40;
+  border-color: #87BB40;
+  color: white;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  padding-right: 15px;
+}
+.featured-ws .btn-primary .plus-sign {
+  font-size: 30px;
+  font-size: 3rem;
+  padding-right: 5px;
+  padding-top: 25px;
+  line-height: 0;
+  position: relative;
+  top: 6px;
+}
 .ws-box {
   padding: .8rem;
   display: block;
@@ -178,13 +195,6 @@ body p {
 }
 .ws-box:hover .ws-title {
   color: #00549E;
-}
-.ws-box .btn-primary {
-  color: red;
-  font-family: 'Oswald';
-  font-size: 2px;
-  text-transform: uppercase;
-  background-color: red;
 }
 .ws-title {
   padding-top: 10px;
