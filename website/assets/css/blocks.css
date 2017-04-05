@@ -120,6 +120,90 @@ body p {
   color: #333333;
 }
 
+@media screen {
+  .ws-description {
+    min-height: 100px;
+  }
+}
+@media (max-width: 1200px) {
+  .ws-description {
+    min-height: 160px;
+  }
+}
+@media (max-width: 890px) {
+  .ws-description {
+    min-height: 185px;
+  }
+}
+@media (max-width: 768px) {
+  .ws-description {
+    min-height: 140px;
+  }
+}
+@media (max-width: 510px) {
+  .ws-description {
+    min-height: 180px;
+  }
+}
+.featured-ws {
+  background-color: #F9F9F9;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.featured-ws h1 {
+  color: #333333;
+  text-transform: uppercase;
+}
+.ws-box {
+  padding: .8rem;
+  display: block;
+  background: #fff;
+  overflow: hidden;
+  border-radius: 4px;
+  border: 5px solid transparent;
+  background-clip: padding-box;
+  box-shadow: 0 0 2px rgba(221, 221, 221, 0.75);
+  margin-bottom: 30px;
+  -webkit-box-shadow: 0 0 2px rgba(221, 221, 221, 0.75);
+  -moz-box-shadow: 0 0 2px rgba(221, 221, 221, 0.75);
+  -webkit-background-clip: padding-box;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  -moz-transition: all 0.2s ease-in-out 0s;
+  -ms-transition: all 0.2s ease-in-out 0s;
+  -o-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+}
+.ws-box:hover {
+  border-color: #87BB40;
+}
+.ws-box:hover .ws-title {
+  color: #00549E;
+}
+.ws-box .btn-primary {
+  color: red;
+  font-family: 'Oswald';
+  font-size: 2px;
+  text-transform: uppercase;
+  background-color: red;
+}
+.ws-title {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Oswald';
+  color: #333333;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-size: 2.4rem;
+  line-height: 0.8;
+  min-height: 60px;
+}
+.ws-description {
+  font-family: 'Roboto Slab';
+  color: #333333;
+  font-size: 14px;
+  font-size: 1.4rem;
+}
+
 .footer {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -259,7 +343,7 @@ body p {
   }
 }
 .get-your-ticket {
-  padding-top: 80px;
+  padding-top: 20px;
   padding-bottom: 80px;
   background: white;
 }
@@ -267,6 +351,7 @@ body p {
   font-family: 'Oswald';
   color: #333333;
   padding-bottom: 50px;
+  text-transform: uppercase;
 }
 .get-your-ticket .ticket-box {
   text-align: center;
@@ -540,10 +625,15 @@ body p {
 
 .summit-intro {
   background: white;
+  padding-bottom: 40px;
 }
 .summit-intro .intro-text {
   padding-top: 80px;
   padding-bottom: 80px;
+}
+.summit-intro h1 {
+  color: #333333;
+  text-transform: uppercase;
 }
 .summit-intro .wasp-img {
   padding-top: 50px;

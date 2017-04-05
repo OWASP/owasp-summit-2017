@@ -1,0 +1,39 @@
+.featured-ws
+    .container
+        .row
+            .col-xs-0.col-sm-1
+            .col-xs-12.col-sm-10
+                h1 Featured Working Sessions
+            .col-xs-0.col-sm-1
+        .row
+            .col-xs-0.col-sm-1
+            .col-xs-12.col-sm-10
+                .row
+                    | {% for page in site.pages %}
+                    |   {% if page.title and page.type == 'workshop' and page.status == 'featured' %}
+                    .col-xs-6.col-sm-4
+                        .ws-box
+                            .ws-title
+                                a(href="{{page.url}}") {{page.title | truncate: 45 }}
+                            .ws-description  {{page.description | truncate: 180 }}
+                    |   {% endif %}
+                    | {% endfor %}
+                    //.col-xs-6.col-sm-6
+                    //    .ws-box
+                    //        .ws-title  ws title
+                    //        .ws-intro  ws intro ws intro ws intro ws intro ws intro
+                    //.col-xs-6.col-sm-6
+                    //    .ws-box
+                    //        .ws-title  ws title
+                    //        .ws-intro  ws intro ws intro ws intro ws intro ws intro
+                    //.col-xs-6.col-sm-6
+                    //    .ws-box
+                    //        .ws-title  ws title
+                    //        .ws-intro  ws intro ws intro ws intro ws intro ws intro
+            .col-xs-0.col-sm-1
+        .row
+            .col-xs-0.col-sm-1
+            .col-xs-12.col-sm-10
+                a.btn.btn-primary
+                    .glyphicon.glyphicon-plus.button-text See all working sessions
+            .col-xs-0.col-sm-1
