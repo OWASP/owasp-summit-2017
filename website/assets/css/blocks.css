@@ -102,6 +102,10 @@
 
 
 
+
+
+
+
 @media screen {
   .about-past-summit img {
     padding: 0px;
@@ -203,8 +207,18 @@ body h2 {
   font-family: 'Oswald';
   color: #00549E;
 }
+body h3 {
+  font-family: 'Oswald';
+  color: #00549E;
+}
+body h4 {
+  color: #00549E;
+}
 body p {
   color: #333333;
+}
+body .page-content {
+  background: white;
 }
 
 @media screen {
@@ -711,6 +725,80 @@ body p {
   text-transform: uppercase;
 }
 
+@media screen {
+  .card .card-top {
+    min-height: 130px;
+    padding-top: 25px;
+    font-size: 25px;
+    font-size: 2.5rem;
+  }
+}
+@media (max-width: 890px) {
+  .card .card-top {
+    min-height: 120px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-size: 2rem;
+  }
+}
+@media (max-width: 650px) {
+  .card .card-top {
+    min-height: 90px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-size: 2rem;
+  }
+}
+@media (max-width: 510px) {
+  .card .card-top {
+    min-height: 80px;
+    padding-top: 20px;
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+}
+.sponsors {
+  background: #f9f9f9;
+}
+.sponsors h1 {
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+.sponsors h2 {
+  text-transform: uppercase;
+}
+.sponsors .container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.sponsors .card {
+  background-color: white;
+}
+.sponsors .card .card-top {
+  vertical-align: center;
+  text-align: center;
+  font-family: 'Oswald';
+}
+.sponsors .card .card-top img {
+  width: 90%;
+}
+.sponsors .card .card-block {
+  background: #88b949;
+  backgound-color: #88b949;
+  color: white;
+  text-align: center;
+}
+.sponsorship-options {
+  background: white;
+}
+.sponsorship-options h1 {
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+.sponsorship-options h2 {
+  text-transform: uppercase;
+}
+
 .summit-intro {
   background: white;
   padding-bottom: 40px;
@@ -746,7 +834,3 @@ body p {
     display: none;
   }
 }
-
-
-
-

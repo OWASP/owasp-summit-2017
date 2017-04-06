@@ -2,6 +2,8 @@
 <html>
   <head>{% include blocks/header.html             %}</head>
   <body>{% include blocks/menu.html               %}
-    <div class="container">{{ content }}</div>{% include blocks/footer.html             %}
+    <div class="page-content">
+      <div class="container">{{ content }}</div>
+    </div>{% include blocks/footer.html             %}
   </body>
 </html>
