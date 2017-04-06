@@ -721,6 +721,58 @@ body .page-content {
   text-transform: uppercase;
 }
 
+@media screen {
+  .participants .card {
+    min-height: 280px;
+  }
+  .participants .participant-name {
+    font-size: 18px;
+    font-size: 1.8rem;
+  }
+  .participants .participant-title {
+    font-size: 15px;
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 890px) {
+  .participants .card {
+    min-height: 280px;
+  }
+  .participants .participant-name {
+    font-size: 16px;
+    font-size: 1.6rem;
+  }
+  .participants .participant-title {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+}
+@media (max-width: 768px) {
+  .participants .card {
+    min-height: 255px;
+  }
+  .participants .participant-name {
+    font-size: 15px;
+    font-size: 1.5rem;
+  }
+  .participants .participant-title {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+}
+@media (max-width: 450px) {
+  .participants .card {
+    min-height: 225px;
+  }
+  .participants .participant-name {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+  .participants .participant-title {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+}
 .participants {
   background: #f9f9f9;
   padding-top: 20px;
@@ -736,6 +788,15 @@ body .page-content {
   border-radius: 0.5em;
   border-color: #f2f2f2;
   margin-bottom: 20px;
+}
+.participants .card:hover {
+  background-color: #87BB40;
+}
+.participants .card:hover .participant-name {
+  color: white;
+}
+.participants .card:hover .participant-title {
+  color: white;
 }
 .participants .card .card-top {
   padding-bottom: 0px;
@@ -755,13 +816,13 @@ body .page-content {
 .participants .participant-name {
   font-family: 'Oswald';
   color: #333333;
-  font-size: 18px;
-  font-size: 1.8rem;
 }
 .participants .participant-title {
+  padding: 4px;
   color: #00549E;
-  font-size: 14px;
-  font-size: 1.4rem;
+}
+.participants a:link {
+  text-decoration: none;
 }
 
 @media screen {
@@ -828,7 +889,7 @@ body .page-content {
   text-align: center;
 }
 .sponsorship-options {
-  background: white;
+  background: #f9f9f9;
 }
 .sponsorship-options h1 {
   padding-bottom: 20px;

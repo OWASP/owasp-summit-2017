@@ -1,20 +1,27 @@
 
 <div class="participants">
   <div class="container">
-    <h1>Participants</h1><b>This is the current list of Summit attendees.</b>
-    <p>To add your name to this repo please fork the repo and use these pages.</p>
+    <h1>Participants</h1>
+    <p><b>This is the current list of Summit attendees.</b></p>
+    <p>To add your name to this repo please fork the repo and use<a href="https://github.com/OWASP/owasp-summit-2017/tree/master/Participants" target="_blank">&#32these pages.</a></p><br/>
     <div class="row">
        {% for page in site.pages %}
          {% if page.title and page.type == 'participant' %}
-      <div class="col-xs-3 col-sm-2">
-        <div class="card">
-          <div class="card-top"><a href="{{page.url}}">{% if page.image != null %}<img src="{{page.image}}" class="img-fluid"/>
-              <!--<a class="profile-img" href="{{page.url}}"><img src="{{page.image}}" alt="speaker" _style="height:150px;width:150px"/></a>-->{% else %}<img src="http://placehold.it/400x400" class="img-fluid"/>
-              <!--<a class="profile-img" href="{{page.url}}"><img src="http://placehold.it/400x400" alt="speaker"/></a>-->{% endif %}</a></div>
-          <div class="card-block">
-            <p class="participant-name">{{page.title}}</p>
-            <p class="participant-title">{{page.job-title}}</p>
-          </div>
+      <div class="col-xs-4 col-sm-2">
+        <div class="card"><a href="{{page.url}}">
+            <div class="card-top">{% if page.image != null %}<img src="{{page.image}}" class="img-fluid"/>
+              <!--<a class="profile-img" href="{{page.url}}"><img src="{{page.image}}" alt="speaker" _style="height:150px;width:150px"/></a>-->{% else %}<img src="/website/assets/img/blocks/400x400.png" class="img-fluid"/>
+              <!--<a class="profile-img" href="{{page.url}}"><img src="http://placehold.it/400x400" alt="speaker"/></a>-->{% endif %}
+            </div></a>
+          <div class="card-block"><a href="{{page.url}}">
+              <p class="participant-name">{{page.title}}</p>
+              <p class="participant-title">
+                {% if page.job-title != null %}
+                {{page.job-title}}
+                {% else %}
+                ...
+                {% endif %}
+              </p></a></div>
         </div>
       </div>{%    endif  %}
       {%    endfor %}
