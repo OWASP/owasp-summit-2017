@@ -5,7 +5,7 @@ type: participant
 time: vacation
 expenses: owasp
 job-title: Bhopal Chapter Leader
-role: summit-editor
+role: Summit-Editor
 image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKbAAAAJDczMTY4YmJmLWJjMGItNDFmZS05OTIzLTBiZmEwYmYwNTMwMA.jpg
 linkedin: akshaysharmamsclis
 chapter-leader: Bhopal
