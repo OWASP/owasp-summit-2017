@@ -1,8 +1,4 @@
 ---
-layout   : blocks/page-content
+layout   : blocks/page-component
+component: blocks/about.html
 ---
-
-
-# About
- 
-about content

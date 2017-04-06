@@ -1,0 +1,75 @@
+.set-sizes(@img-padding, @top-padding) {
+  .about-past-summit {
+    img {
+      padding: ~"@{img-padding}px";
+      // width:auto;
+    }
+    .past-summit {
+      padding-top: ~"@{top-padding}px";
+    }
+  }
+}
+
+@media screen             {   .set-sizes(0 , 80); }
+@media(max-width: 890px ) {   .set-sizes(20, 60); }
+@media(max-width: 768px ) {   .set-sizes(10, 20); }
+@media(max-width: 510px ) {   .set-sizes(0 , 0 ); }
+
+
+.about-main-section {
+  background-color: white;
+  padding-bottom:50px;
+  .top-text {
+    padding-top   : 50px;
+    padding-bottom: 50px;
+  }
+
+  img { width           : 200px;    }
+  h2  { text-transform  : uppercase;}
+
+  .why-attend  {
+    .row {
+      padding-top: 15px;
+    }
+  }
+  .plus-col {
+    padding-top:7px;
+    width: 45px;        // makes the cell that hosts the image to have the same width (and not grow/shrink dynamically)
+  }
+  .plus-box {
+    width     : 30px;
+
+  }
+  .border-at-bottom {
+    border-bottom: 1px solid;
+    border-color : #EAEAEA;
+  }
+}
+
+.help-spread-word {
+  padding-top: 50px;
+}
+.about-past-summit {
+  background-color: #f9f9f9;
+}
+
+.about {
+  a  {
+    font-family: 'Oswald';
+    color: #87BB40;
+  }
+
+  .glyphicon {
+    color: #00549E;
+    padding-right: 5px;
+    @media (max-width: 650px) {
+      display: none;
+    }
+  }
+}
+.about-past-summit {
+
+  h2 {  text-transform  : uppercase;}
+  padding-top:30px;
+  padding-bottom:50px;
+}

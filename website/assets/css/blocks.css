@@ -102,6 +102,93 @@
 
 
 
+@media screen {
+  .about-past-summit img {
+    padding: 0px;
+  }
+  .about-past-summit .past-summit {
+    padding-top: 80px;
+  }
+}
+@media (max-width: 890px) {
+  .about-past-summit img {
+    padding: 20px;
+  }
+  .about-past-summit .past-summit {
+    padding-top: 60px;
+  }
+}
+@media (max-width: 768px) {
+  .about-past-summit img {
+    padding: 10px;
+  }
+  .about-past-summit .past-summit {
+    padding-top: 20px;
+  }
+}
+@media (max-width: 510px) {
+  .about-past-summit img {
+    padding: 0px;
+  }
+  .about-past-summit .past-summit {
+    padding-top: 0px;
+  }
+}
+.about-main-section {
+  background-color: white;
+  padding-bottom: 50px;
+}
+.about-main-section .top-text {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.about-main-section img {
+  width: 200px;
+}
+.about-main-section h2 {
+  text-transform: uppercase;
+}
+.about-main-section .why-attend .row {
+  padding-top: 15px;
+}
+.about-main-section .plus-col {
+  padding-top: 7px;
+  width: 45px;
+}
+.about-main-section .plus-box {
+  width: 30px;
+}
+.about-main-section .border-at-bottom {
+  border-bottom: 1px solid;
+  border-color: #EAEAEA;
+}
+.help-spread-word {
+  padding-top: 50px;
+}
+.about-past-summit {
+  background-color: #f9f9f9;
+}
+.about a {
+  font-family: 'Oswald';
+  color: #87BB40;
+}
+.about .glyphicon {
+  color: #00549E;
+  padding-right: 5px;
+}
+@media (max-width: 650px) {
+  .about .glyphicon {
+    display: none;
+  }
+}
+.about-past-summit {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.about-past-summit h2 {
+  text-transform: uppercase;
+}
+
 body {
   font-family: 'Roboto Slab', serif !important;
   background: url('/website/assets/img/blocks/header-background.png') !important;
