@@ -1,0 +1,26 @@
+.participants
+    .container
+        h1 Participants
+
+        b This is the current list of Summit attendees.
+        p To add your name to this repo please fork the repo and use these pages.
+
+        .row
+            |  {% for page in site.pages %}
+            |    {% if page.title and page.type == 'participant' %}
+            .col-xs-3.col-sm-2
+                .card
+                    .card-top
+                        a(href='{{page.url}}')
+                            | {% if page.image != null %}
+                            img.img-fluid(src='{{page.image}}')
+                            //<a class="profile-img" href="{{page.url}}"><img src="{{page.image}}" alt="speaker" _style="height:150px;width:150px"/></a>
+                            | {% else %}
+                            img.img-fluid(src='http://placehold.it/400x400')
+                            //<a class="profile-img" href="{{page.url}}"><img src="http://placehold.it/400x400" alt="speaker"/></a>
+                            | {% endif %}
+                    .card-block
+                        p.participant-name {{page.title}}
+                        p.participant-title {{page.job-title}}
+            | {%    endif  %}
+            | {%    endfor %}

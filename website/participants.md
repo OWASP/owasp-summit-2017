@@ -1,8 +1,4 @@
 ---
-layout   : blocks/page-content
+layout   : blocks/page-component
+component: blocks/participants.html
 ---
-
-
-# Participants
- 
-participants content

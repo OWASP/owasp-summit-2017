@@ -102,10 +102,6 @@
 
 
 
-
-
-
-
 @media screen {
   .about-past-summit img {
     padding: 0px;
@@ -725,6 +721,49 @@ body .page-content {
   text-transform: uppercase;
 }
 
+.participants {
+  background: #f9f9f9;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.participants h1 {
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+.participants .card {
+  background-color: white;
+  border: 1px solid;
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+  margin-bottom: 20px;
+}
+.participants .card .card-top {
+  padding-bottom: 0px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-family: 'Oswald';
+}
+.participants .card .card-top img {
+  width: 90%;
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+}
+.participants .card .card-block {
+  color: white;
+  text-align: center;
+}
+.participants .participant-name {
+  font-family: 'Oswald';
+  color: #333333;
+  font-size: 18px;
+  font-size: 1.8rem;
+}
+.participants .participant-title {
+  color: #00549E;
+  font-size: 14px;
+  font-size: 1.4rem;
+}
+
 @media screen {
   .card .card-top {
     min-height: 130px;
@@ -834,3 +873,7 @@ body .page-content {
     display: none;
   }
 }
+
+
+
+
