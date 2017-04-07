@@ -5,8 +5,6 @@ type: workshop
 track: project-summit
 ---
 
-# OWASP Bug Bounty
-
 #### Why
 
 OWASP bug bounty program is the opportunity you are looking for to hack into defender libraries & ZAP

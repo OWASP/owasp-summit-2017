@@ -6,8 +6,6 @@ track: project-summit
 organizers: Bjoern Kimminich
 ---
 
-# Juice Shop
-
 Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)
 
 > [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project "OWASP Juice Shop Project")

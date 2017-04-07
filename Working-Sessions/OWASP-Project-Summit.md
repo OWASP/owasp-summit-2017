@@ -7,8 +7,6 @@ status: featured
 description: The Summit will contain a number of Working-Sessions focused on OWASP Projects
 ---
 
-# OWASP Project Summit
-
 The Summit will contain a number of Working-Sessions focused on OWASP Projects
 
 ### Participating

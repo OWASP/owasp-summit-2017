@@ -4,7 +4,9 @@
   <body>{% include blocks/menu.html               %}
     <div class="page-content">
       <div class="container">
-        <h1>{{ page.title }}</h1>{{ content }}
+        <h1>{{ page.title }}</h1>{{ content }}<br>
+        <hr>
+        <p>Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a></p>
       </div>
     </div>{% include blocks/footer.html             %}
   </body>

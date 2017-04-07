@@ -5,8 +5,6 @@ type: workshop
 track: project-summit
 ---
 
-# OWASP Cheatsheets
-
 (add details, why, what, who)
 
 * Bring together Cheatsheets creators and users 

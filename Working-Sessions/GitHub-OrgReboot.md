@@ -8,8 +8,6 @@ status: featured
 description: The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them. 
 ---
 
-# GitHub Organization Reboot
-
 Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)
 
 > The [OWASP GitHub organization](https://github.com/owasp) hosts some

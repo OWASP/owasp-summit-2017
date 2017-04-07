@@ -6,8 +6,6 @@ track: TBD
 organizers: Achim Hoffmann
 ---
 
-# GPG Infrastructure for OWASP
-
 ### Objective
 
 OWASP generates, delivers and hosts a bunch of dokuments and tools which are widely accepted for their high quality. But there is no mechanism to mark these projects (project - in OWASP speek) tamper-proof.

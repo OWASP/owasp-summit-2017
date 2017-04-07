@@ -5,8 +5,6 @@ type: workshop
 track: project-summit
 ---
 
-# Maturity Models tool
-
 See https://github.com/owasp/Maturity-Models for more details on this project
 
 Working-Sessions:

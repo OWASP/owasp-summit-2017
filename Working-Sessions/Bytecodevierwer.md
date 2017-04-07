@@ -5,8 +5,6 @@ type: workshop
 track: open-source-tools
 ---
 
-# Bytecodeviewer
-
 Category: Mobile Penetration Testing (Android)
 
 ### Why

@@ -6,8 +6,6 @@ track: TBD
 organizers: Achim Hoffmann
 ---
 
-# O-Saft
-
 [OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related konfigurations, behaviours and vulnerabilities.
 It's a standalone tool and can be used in closed and very restricted environments.
 

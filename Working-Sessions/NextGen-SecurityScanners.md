@@ -4,8 +4,6 @@ title: NextGen Security Scanners
 type: workshop
 ---
 
-# NextGen Security Scanners
-
 ### Problem statement
 
 Today's security scanners were built for yesterday's web applications, based on server-side rendering concepts. They often fail or at least lack functionality when it comes to modern web applications using rich Javascript clients.
