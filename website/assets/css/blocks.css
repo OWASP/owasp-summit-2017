@@ -220,28 +220,43 @@ body .page-content {
 }
 
 @media screen {
+  .ws-title {
+    min-height: 60px;
+  }
   .ws-description {
     min-height: 100px;
   }
 }
 @media (max-width: 1200px) {
+  .ws-title {
+    min-height: 60px;
+  }
   .ws-description {
     min-height: 160px;
   }
 }
 @media (max-width: 890px) {
+  .ws-title {
+    min-height: 60px;
+  }
   .ws-description {
     min-height: 185px;
   }
 }
 @media (max-width: 768px) {
+  .ws-title {
+    min-height: 60px;
+  }
   .ws-description {
     min-height: 140px;
   }
 }
 @media (max-width: 510px) {
+  .ws-title {
+    min-height: 80px;
+  }
   .ws-description {
-    min-height: 180px;
+    min-height: 220px;
   }
 }
 .featured-ws {
@@ -303,7 +318,6 @@ body .page-content {
   font-size: 24px;
   font-size: 2.4rem;
   line-height: 0.8;
-  min-height: 60px;
 }
 .ws-description {
   font-family: 'Roboto Slab';
