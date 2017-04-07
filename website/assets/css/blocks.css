@@ -853,6 +853,13 @@ body .page-content {
   text-decoration: none;
 }
 
+.search {
+  background-color: #f9f9f9;
+}
+.search .gsc-search-button-v2 {
+  display: none;
+}
+
 @media screen {
   .card .card-top {
     min-height: 130px;
