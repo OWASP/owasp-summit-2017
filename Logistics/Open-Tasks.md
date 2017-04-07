@@ -1,5 +1,5 @@
 ---
-layout: event-point/page
+layout: blocks/page-content
 title: Open tasks 
 type: logistic
 ---

@@ -49,5 +49,6 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
     gulp.watch('website/src/less/**/*.less'   , ['styles']);
     gulp.watch('website/src/pug/**/*.pug'     , ['pug']);
 
-    gulp.watch 'Working-Sessions/**/*.md'     , ['reload-page']
+    gulp.watch 'Logistics/**/*.md'            , ['reload-page']
     gulp.watch 'Participants/**/*.md'         , ['reload-page']
+    gulp.watch 'Working-Sessions/**/*.md'     , ['reload-page']

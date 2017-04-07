@@ -1,5 +1,5 @@
 ---
-layout: event-point/page
+layout: blocks/page-content
 title: OWASP Band
 type: logistic
 ---

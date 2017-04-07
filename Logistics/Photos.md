@@ -1,5 +1,5 @@
 ---
-layout: event-point/page
+layout: blocks/page-content
 title: Photos
 type: logistic
 ---

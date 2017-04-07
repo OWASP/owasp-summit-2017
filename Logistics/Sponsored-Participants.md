@@ -1,5 +1,5 @@
 ---
-layout: event-point/page
+layout: blocks/page-content
 title: Sponsored Participant
 type: logistic
 ---

@@ -1,5 +1,5 @@
 ---
-layout: event-point/page
+layout: blocks/page-content
 title: Summit Site
 type: logistic
 ---
@@ -15,6 +15,10 @@ This works great because GitHub has [native support for jekyll](https://help.git
 The [http://owaspsummit.org](http://owaspsummit.org) site is rebuild within seconds of a Git Push or Merge (into master branch of [owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) repository)
 
 You can also easily run the site locally (good when making large set of changes) using: ```jekyll serve```. This will generate the site into the ```_site``` folder (ignored by git) which can be browsed locally at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
+
+### Stats
+
+Google Analytics is enabled. Real time stats are [here](https://analytics.google.com/analytics/web/#realtime/rt-overview/a97001849w142890191p147496227/) (if you would like to have access, just ask one of the Summit organization team members)
 
 ### Help needed!!!
 

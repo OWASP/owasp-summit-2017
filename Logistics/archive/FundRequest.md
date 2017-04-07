@@ -1,5 +1,5 @@
 ---
-layout: event-point/page
+layout: blocks/page-content
 title: 50K USD seed funds
 type: archive
 ---
