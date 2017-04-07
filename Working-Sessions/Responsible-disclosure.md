@@ -4,7 +4,6 @@ title: Responsible Disclosure
 type: workshop
 ---
 
-(add details, why, what, who)
 Responsible disclosure is a great way to have multiple eyes with different methodologies test your assets.
 
 ### Questions to ask
@@ -19,11 +18,10 @@ Responsible disclosure is a great way to have multiple eyes with different metho
 6. Success stories
 7. Future of responsible disclosure
 
-### Participants
+### Participants (invited)
 We would like to invite the following people:
 * Casey Ellis (BugCrowd Founder)
 * Frans Rosen (Renowned bounty hunter)
-
 
 as well as:
 
