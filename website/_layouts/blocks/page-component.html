@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>{% include blocks/header.html             %}</head>
-  <body>{% include blocks/menu.html               %}{% include {{ page.component }}    %}{% include blocks/footer.html             %}</body>
+  <body>{% include blocks/menu.html               %}{% include {{ page.component }}    %}{% include blocks/footer.html             %}
+    {% include blocks/google-analytics.html   %}
+  </body>
 </html>
