@@ -4,7 +4,7 @@ title: Browser Security
 type: workshop
 ---
 
-## Browser Security
+# Browser Security
 
 _(add details, why, what, who)_
 

@@ -5,7 +5,7 @@ type: workshop
 organizers: Ante Gulam
 ---
 
-## CISO
+# CISO
 
 Organizer(s): [Ante Gulam](../Participants/Ante-Gulam.html) [Francois Raynaud](../Participants/Francois-Raynaud.html) 
 

@@ -4,7 +4,7 @@ title: Securing GitHub Integrations
 type: workshop
 ---
 
-## Securing GitHub Integrations
+# Securing GitHub Integrations
 
 As more and more services are integrated with GitHub, companies public and private repos are being exposed to a much wider set of attackers and threats.
 

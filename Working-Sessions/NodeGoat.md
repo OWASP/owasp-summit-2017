@@ -5,7 +5,7 @@ type: workshop
 track: project-summit
 ---
 
-## NodeGoat
+# NodeGoat
 
 Organizer: [Kim Carter](../Participants/Kim-Carter.html)
 

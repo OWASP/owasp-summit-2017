@@ -5,7 +5,7 @@ type: workshop
 track: project-summit
 ---
 
-## OwaspSAMM
+# OwaspSAMM
 
 We organise several [OWASP SAMM](https://www.owasp.org/index.php/OWASP_SAMM_Project) Working-Sessions as part of the OWASP summit.
 

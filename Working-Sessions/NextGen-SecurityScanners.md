@@ -4,7 +4,7 @@ title: NextGen Security Scanners
 type: workshop
 ---
 
-## NextGen Security Scanners
+# NextGen Security Scanners
 
 ### Problem statement
 

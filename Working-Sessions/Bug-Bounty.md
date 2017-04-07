@@ -5,7 +5,7 @@ type: workshop
 track: project-summit
 ---
 
-## OWASP Bug Bounty
+# OWASP Bug Bounty
 
 #### Why
 

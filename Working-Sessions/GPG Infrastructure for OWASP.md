@@ -6,7 +6,7 @@ track: TBD
 organizers: Achim Hoffmann
 ---
 
-## GPG Infrastructure for OWASP
+# GPG Infrastructure for OWASP
 
 ### Objective
 

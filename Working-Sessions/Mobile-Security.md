@@ -7,7 +7,7 @@ status: featured
 description: Work on Mobile Application Security Verification Standard (MASVS) , Mobile Security Testing Guide (MSTG), Hacking-Playground 
 ---
 
-## Mobile Security
+# Mobile Security
 
 Organizer(s): [Bernhard Mueller](../Participants/Bernhard-Mueller.html) , [Sven Schleier](../Participants/Sven-Schleier.html)
 

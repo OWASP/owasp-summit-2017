@@ -5,6 +5,6 @@ type: workshop
 organizers: TBD
 ---
 
-## Security Champions
+# Security Champions
 
 (add details, why, what, who)

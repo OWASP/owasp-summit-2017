@@ -4,7 +4,7 @@ title: Software Defined Everything (SDx)
 type: workshop
 ---
 
-## Software Defined Everything (SDx)
+# Software Defined Everything (SDx)
 
 Organizer(s): [Adrian-Winckles](../Participants/Adrian-Winckles.html)
 

@@ -5,7 +5,7 @@ type: workshop
 track: project-summit
 ---
 
-## WebGoat
+# WebGoat
 
 ### Introduction
 

@@ -6,7 +6,7 @@ track: project-summit
 organizers: Bjoern Kimminich
 ---
 
-## Juice Shop
+# Juice Shop
 
 Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)
 

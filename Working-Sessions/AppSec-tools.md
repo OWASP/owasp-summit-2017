@@ -5,7 +5,7 @@ title: AppSec Tools
 type: workshop
 ---
 
-## AppSec Tools
+# AppSec Tools
 
 ### Objective
 

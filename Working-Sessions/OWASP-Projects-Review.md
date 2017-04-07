@@ -5,7 +5,7 @@ type: workshop
 track: project-summit
 ---
 
-## OWASP Projects Reviews
+# OWASP Projects Reviews
 
 (add details, why, what, who)
 

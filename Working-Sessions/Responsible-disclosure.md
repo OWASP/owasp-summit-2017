@@ -4,7 +4,7 @@ title: Responsible Disclosure
 type: workshop
 ---
 
-## Responsible Disclosure
+# Responsible Disclosure
 
 (add details, why, what, who)
 Responsible disclosure is a great way to have multiple eyes with different methodologies test your assets.
