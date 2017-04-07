@@ -4,6 +4,9 @@ block content
     .page-content
         .container
             h1 {{ page.title }}
+            | {% if page.image != null %}
+            img.participant(src='{{ page.image }}')
+            | {% endif %}
             | {{ content }}
             br
             hr
