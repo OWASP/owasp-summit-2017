@@ -531,8 +531,8 @@ body .page-content {
 
 @media screen {
   section {
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
   .home-banner .quote-title {
     font-size: 20px;
@@ -549,8 +549,8 @@ body .page-content {
 }
 @media (max-width: 691px) {
   section {
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
   .home-banner .quote-title {
     font-size: 15px;
