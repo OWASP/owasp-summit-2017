@@ -253,10 +253,10 @@ body .page-content {
 }
 @media (max-width: 510px) {
   .ws-title {
-    min-height: 80px;
+    min-height: 90px;
   }
   .ws-description {
-    min-height: 220px;
+    min-height: 240px;
   }
 }
 .featured-ws {
