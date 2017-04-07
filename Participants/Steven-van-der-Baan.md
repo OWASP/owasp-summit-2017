@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Steven van der Baan
 type: participant
 job-title:

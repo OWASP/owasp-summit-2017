@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Kim Carter
 type: participant
 expenses: owasp

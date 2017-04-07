@@ -1,5 +1,5 @@
 ---
-layout: event-point/participants
+layout: blocks/page-contents
 title: Participants
 ---
 

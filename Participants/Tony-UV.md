@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Tony UV
 type: participant
 job-title:

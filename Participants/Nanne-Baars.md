@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Nanne-Baars
 type: participant
 job-title: Developer

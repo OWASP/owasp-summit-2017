@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Ante Gulam
 type: participant
 job-title: CSO / CISO / AppSec Evangelist

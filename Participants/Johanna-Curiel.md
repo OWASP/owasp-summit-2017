@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Johanna Curiel
 type: participant
 expenses: owasp

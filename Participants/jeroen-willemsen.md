@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Jeroen Willemsen
 type: participant
 job-title: Developer / PSA

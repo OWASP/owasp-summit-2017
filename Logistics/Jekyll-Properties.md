@@ -21,7 +21,7 @@ The most important use may be the individual pages for [Participants](Participan
 
 These properties are important for the participant's individual page, see [Participants](Participants).
 
-* __layout: event-point/participant__
+* __layout: blocks/page-content__
 * __type: participant__
 * __title:__ Your Name
 * __job-title:__ tile to be listed
@@ -52,7 +52,7 @@ General properties used in all pages.
 
 * __layout__:
 
-  valid values are: __default__, __event-point/page__, __event-point/participant__, __blocks/page-content__, __event-point/index__, __event-point/register__
+  valid values are: __default__, __event-point/page__, __blocks/page-content__, __blocks/page-content__, __event-point/index__, __event-point/register__
 
 * __title__
 

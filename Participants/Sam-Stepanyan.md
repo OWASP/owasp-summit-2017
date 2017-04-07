@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Sam Stepanyan
 type: participant
 job-title:

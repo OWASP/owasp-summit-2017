@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Stefan Streichsbier
 type: participant
 job-title:

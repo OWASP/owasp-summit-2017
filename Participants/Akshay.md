@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Akshay Sharma
 type: participant
 time: vacation

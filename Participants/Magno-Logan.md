@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Magno Logan
 type: participant
 job-title: Systems and Network Security Specialist

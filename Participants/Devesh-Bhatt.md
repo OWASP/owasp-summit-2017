@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Devesh Bhatt
 type: participant
 expenses: owasp

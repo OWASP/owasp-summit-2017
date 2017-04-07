@@ -1,5 +1,5 @@
 ---
-layout: event-point/participant
+layout: blocks/page-content
 title: Colin Domoney
 type: participant
 job-title: Veracode
