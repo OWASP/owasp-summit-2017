@@ -1,5 +1,6 @@
 ---
-layout: event-point/workshop
+layout: blocks/page-content
+#layout: blocks/page-content
 title: AWS Lambda Security
 type: workshop
 ---

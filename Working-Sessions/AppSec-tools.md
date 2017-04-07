@@ -1,5 +1,6 @@
 ---
-layout: event-point/workshop
+#layout: event-point/workshop
+layout: blocks/page-content
 title: AppSec Tools
 type: workshop
 ---

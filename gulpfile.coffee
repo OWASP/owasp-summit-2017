@@ -43,10 +43,11 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
     gulp.watch 'new/**/*.md'                  , ['reload-page']
     gulp.watch 'website/**/*.md'              , ['reload-page']
     gulp.watch 'website/_data/**/*'           , ['reload-page']
-    #gulp.watch 'website/content/**/*.md'  , ['pug', 'reload-page']
-    gulp.watch 'website/components/**/*.md'   , ['reload-page']
     gulp.watch 'website/**/*.html'            , ['reload-page']
     gulp.watch 'website/assets/css/**/*.css'  , ['reload-page']
 
     gulp.watch('website/src/less/**/*.less'   , ['styles']);
     gulp.watch('website/src/pug/**/*.pug'     , ['pug']);
+
+    gulp.watch 'Working-Sessions/**/*.md'     , ['reload-page']
+    gulp.watch 'Participants/**/*.md'         , ['reload-page']

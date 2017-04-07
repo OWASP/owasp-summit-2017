@@ -1,5 +1,5 @@
 ---
-layout: event-point/workshop
+layout: blocks/page-content
 title: Securing GitHub Integrations
 type: workshop
 ---

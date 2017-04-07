@@ -1,5 +1,5 @@
 ---
-layout: event-point/workshop
+layout: blocks/page-content
 title: Reverse Engineering APK's with Bytecodeviewer
 type: workshop
 track: open-source-tools

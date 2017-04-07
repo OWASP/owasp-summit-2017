@@ -39,7 +39,7 @@ Properties for special use:
 
 These properties are important for the Workshop page, see [Working-Sessions](Working-Sessions).
 
-* __layout: event-point/workshop__
+* __layout: blocks/page-content__
 * __type: workshop__
 * __title:__ Title of workshop
 * __track:__ one of __workshop__ or __project-summit__ or __open-source-tools__
@@ -52,7 +52,7 @@ General properties used in all pages.
 
 * __layout__:
 
-  valid values are: __default__, __event-point/page__, __event-point/participant__, __event-point/workshop__, __event-point/index__, __event-point/register__
+  valid values are: __default__, __event-point/page__, __event-point/participant__, __blocks/page-content__, __event-point/index__, __event-point/register__
 
 * __title__
 

@@ -1,5 +1,5 @@
 ---
-layout: event-point/workshop
+layout: blocks/page-content
 title: GPG Infrastructure for OWASP
 type: workshop
 track: TBD

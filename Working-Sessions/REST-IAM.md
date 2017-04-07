@@ -1,5 +1,5 @@
 ---
-layout: event-point/workshop
+layout: blocks/page-content
 title: IAM for REST APIs
 type: workshop
 track: project-summit

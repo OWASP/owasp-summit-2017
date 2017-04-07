@@ -1,5 +1,5 @@
 ---
-layout: event-point/workshop
+layout: blocks/page-content
 title: Juice Shop
 type: workshop
 track: project-summit

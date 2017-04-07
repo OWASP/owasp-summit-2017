@@ -1,5 +1,5 @@
 ---
-layout: event-point/workshop
+layout: blocks/page-content
 title: Testing Guide v5
 type: workshop
 track: project-summit
