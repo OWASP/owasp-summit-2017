@@ -1,13 +1,13 @@
 .featured-ws
     .container
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0
+            .col-xs-12
                 h1 Featured Working Sessions
-            .col-xs-0.col-sm-1
+            .col-xs-0
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0
+            .col-xs-12
                 .row
                     | {% for page in site.pages %}
                     |   {% if page.title and page.type == 'workshop' and page.status == 'featured' %}
@@ -18,16 +18,16 @@
                             .ws-description  {{page.description | truncate: 180 }}
                     |   {% endif %}
                     | {% endfor %}
-            .col-xs-0.col-sm-1
+            .col-xs-0
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0
+            .col-xs-12
                 h1 Other Working Sessions
-            .col-xs-0.col-sm-1
+            .col-xs-0
 
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0
+            .col-xs-12
                 .row
                     | {% for page in site.pages %}
                     |   {% if page.title and page.type == 'workshop' and page.status != 'featured' %}
@@ -35,7 +35,11 @@
                         .ws-box
                             .ws-title
                                 a(href="{{page.url}}") {{page.title | truncate: 45 }}
+                            | {% if page.description != null %}
                             .ws-description  {{page.description | truncate: 180 }}
+                            | {% else %}
+                            .ws-description  {{page.content | strip_html | truncate: 180 }}
+                            | {% endif %}
                     |   {% endif %}
                     | {% endfor %}
-            .col-xs-0.col-sm-1
+            .col-xs-0

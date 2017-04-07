@@ -1,6 +1,6 @@
 ---
-layout   : blocks/page-content
-#component: blocks/venue.html
+layout   : blocks/page-component
+component: blocks/venue.html
 title    : Working Sessions
 ---
 

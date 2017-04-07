@@ -139,7 +139,6 @@
   padding-bottom: 50px;
 }
 .about-main-section .top-text {
-  padding-top: 50px;
   padding-bottom: 50px;
 }
 .about-main-section img {
@@ -197,11 +196,14 @@ body {
 }
 body h1 {
   font-family: 'Oswald';
-  color: #00549E;
+  color: #333333;
+  padding-bottom: 20px;
+  text-transform: uppercase;
 }
 body h2 {
   font-family: 'Oswald';
   color: #00549E;
+  text-transform: uppercase;
 }
 body h3 {
   font-family: 'Oswald';
@@ -244,7 +246,6 @@ body .page-content {
 }
 .featured-ws {
   background-color: #F9F9F9;
-  padding-top: 20px;
   padding-bottom: 20px;
 }
 .featured-ws h1 {
@@ -860,15 +861,10 @@ body .page-content {
 .sponsors {
   background: #f9f9f9;
 }
-.sponsors h1 {
-  padding-bottom: 20px;
-  text-transform: uppercase;
-}
 .sponsors h2 {
   text-transform: uppercase;
 }
 .sponsors .container {
-  padding-top: 50px;
   padding-bottom: 50px;
 }
 .sponsors .card {
@@ -933,6 +929,81 @@ body .page-content {
   .summit-intro .glyphicon {
     display: none;
   }
+}
+
+.summit-organization {
+  background: white;
+}
+.summit-organization img {
+  width: 70%;
+}
+.summit-organization a {
+  color: #87BB40;
+  font-weight: bold;
+}
+.summit-organization li {
+  padding-top: 10px;
+}
+.summit-organization .contact-us {
+  padding-bottom: 20px;
+  background-color: #00549E;
+}
+.summit-organization .contact-us h2 {
+  color: white  ;
+  padding: 20px;
+}
+.summit-organization .contact-us p {
+  color: white  ;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.venue {
+  background: white;
+  padding-bottom: 50px;
+}
+.venue h1 {
+  color: #333333;
+}
+.venue .large-text {
+  font-size: 130%;
+}
+.venue img {
+  width: 90%;
+}
+.venue a {
+  background-color: #87BB40;
+  border-color: #87BB40;
+  text-font: 'Oswald';
+}
+.getting-there {
+  background: #F9F9F9;
+  padding-bottom: 50px;
+}
+.getting-there .title {
+  font-size: 140%;
+  color: #333333;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+.getting-there .subtitle {
+  font-size: 120%;
+  color: #333333;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+.getting-there p {
+  color: #333333;
+}
+.getting-there a {
+  color: #87BB40;
+  font-weight: bold;
+}
+.getting-there .small {
+  font-size: 70%;
+}
+.google-map {
+  background-color: #323232;
 }
 
 
