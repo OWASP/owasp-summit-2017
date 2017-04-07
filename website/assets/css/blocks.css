@@ -738,15 +738,15 @@ body .page-content {
 
 @media screen {
   .participants .card {
-    min-height: 280px;
+    min-height: 290px;
   }
   .participants .participant-name {
     font-size: 18px;
     font-size: 1.8rem;
   }
   .participants .participant-title {
-    font-size: 15px;
-    font-size: 1.5rem;
+    font-size: 14px;
+    font-size: 1.4rem;
   }
 }
 @media (max-width: 890px) {
@@ -758,11 +758,24 @@ body .page-content {
     font-size: 1.6rem;
   }
   .participants .participant-title {
-    font-size: 14px;
-    font-size: 1.4rem;
+    font-size: 13px;
+    font-size: 1.3rem;
   }
 }
 @media (max-width: 768px) {
+  .participants .card {
+    min-height: 315px;
+  }
+  .participants .participant-name {
+    font-size: 15px;
+    font-size: 1.5rem;
+  }
+  .participants .participant-title {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+}
+@media (max-width: 560px) {
   .participants .card {
     min-height: 255px;
   }
@@ -771,8 +784,8 @@ body .page-content {
     font-size: 1.5rem;
   }
   .participants .participant-title {
-    font-size: 13px;
-    font-size: 1.3rem;
+    font-size: 12px;
+    font-size: 1.2rem;
   }
 }
 @media (max-width: 450px) {
@@ -784,8 +797,8 @@ body .page-content {
     font-size: 1.3rem;
   }
   .participants .participant-title {
-    font-size: 12px;
-    font-size: 1.2rem;
+    font-size: 11px;
+    font-size: 1.1rem;
   }
 }
 .participants {
