@@ -1,6 +1,7 @@
 ---
-layout: event-point/index
-title: index
+#layout: event-point/index
+layout: blocks/index
+title: OWASP Summit 2017
 ---
 
 
