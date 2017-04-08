@@ -1,7 +1,7 @@
 ---
 layout: blocks/page-content
 title: Simon Bennetts
-type: participant
+type: participant-remote
 job-title: OWASP ZAP Project Leader
 image: https://avatars3.githubusercontent.com/u/1081115
 linkedin: psiinon

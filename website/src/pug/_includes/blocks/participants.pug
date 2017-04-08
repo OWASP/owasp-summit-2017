@@ -1,3 +1,5 @@
+include ./participant.jade
+
 .participants
     .container
         h1 Participants
@@ -8,27 +10,21 @@
             a(href='https://github.com/OWASP/owasp-summit-2017/tree/master/Participants' target="_blank") &#32these pages.
         br
         .row
-            |  {% for page in site.pages %}
-            |    {% if page.title and page.type == 'participant' %}
+            | {% for page in site.pages %}
+            | {%   if page.title and page.type == 'participant' %}
             .col-xs-4.col-sm-2
-                .card
-                    a(href='{{page.url}}')
-                        .card-top
-                            | {% if page.image != null %}
-                            img.img-fluid(src='{{page.image}}')
-                            //<a class="profile-img" href="{{page.url}}"><img src="{{page.image}}" alt="speaker" _style="height:150px;width:150px"/></a>
-                            | {% else %}
-                            img.img-fluid(src='/website/assets/img/blocks/400x400.png')
-                            //<a class="profile-img" href="{{page.url}}"><img src="http://placehold.it/400x400" alt="speaker"/></a>
-                            | {% endif %}
-                    .card-block
-                        a(href='{{page.url}}')
-                            p.participant-name {{page.title}}
-                            p.participant-title
-                                |{% if page.job-title != null %}
-                                | {{page.job-title}}
-                                | {% else %}
-                                | ...
-                                | {% endif %}
-            | {%    endif  %}
-            | {%    endfor %}
+                +participant()
+            | {%   endif  %}
+            | {% endfor %}
+
+        h1 Remote Participants
+
+        p This is the current list of remote attendees (who will participate via Google Hangouts)
+
+        .row
+            | {% for page in site.pages %}
+            | {%   if page.title and page.type == 'participant-remote' %}
+            .col-xs-4.col-sm-2
+                +participant()
+            | {%   endif  %}
+            | {% endfor %}
