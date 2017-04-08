@@ -8,7 +8,3 @@ linkedin: antukh
 twitter: c0rdis
 facebook:
 ---
-
-http://linkedin.com/in/antukh
-http://antukh.com
-https://twitter.com/c0rdis
