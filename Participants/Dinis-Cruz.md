@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Dinis Cruz
 type: participant
 job-title: CISO PhotoBox Group

@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Ade Yoseman Putra
 type: participant
 time: 

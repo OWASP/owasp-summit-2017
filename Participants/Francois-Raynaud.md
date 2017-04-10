@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Francois Raynaud
 type: participant
 job-title: DevSecOps leader

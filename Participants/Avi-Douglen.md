@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Avi Douglen
 type: participant
 expenses: owasp

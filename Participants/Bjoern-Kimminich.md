@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Bjoern Kimminich
 type: participant
 role: Summit-Editor

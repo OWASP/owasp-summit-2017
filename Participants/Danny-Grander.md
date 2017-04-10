@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Danny Grander
 type: participant
 job-title: Co-Founder & Security at Snyk

@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Kuai Hinojosa
 type: participant
 job-title: Global Lead Engineer

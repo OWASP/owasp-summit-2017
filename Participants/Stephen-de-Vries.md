@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Stephen de Vries
 type: participant
 job-title: Founder and CTO of Continuum Security 

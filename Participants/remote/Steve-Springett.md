@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Steve Springett
 type: participant-remote
 job-title: OWASP Dependency-Check Core Team/Leader, OWASP Dependency-Track Project Leader
