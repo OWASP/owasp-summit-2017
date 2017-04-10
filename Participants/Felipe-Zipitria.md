@@ -6,7 +6,7 @@ time: vacation
 expenses: owasp
 role: Summit-Editor
 job-title: Uruguay Chapter Leader
-image: https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/2/000/001/0fd/200b5e9.jpg
+image: https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
 linkedin: https://www.linkedin.com/in/felipezipitria/
 twitter: 
 facebook:
