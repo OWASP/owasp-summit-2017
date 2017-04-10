@@ -12,7 +12,7 @@ twitter: bsd_daemon
 
 ## Sven Schleier
 
-Organises with ./Bernhard-Mueller.html the [Mobile Security workshop](../Working-Sessions/Mobile-Security.html) around the OWASP Mobile Testing Guide Standard and Verification Standard. 
+Organises with ./Bernhard-Mueller.html the [Mobile Security workshop](http://owaspsummit.org/Working-Sessions/Mobile-Security/) around the OWASP Mobile Testing Guide Standard and Verification Standard. 
 
 * One of the project leaders of Mobile Security Testing Guide, https://github.com/OWASP/owasp-mstg
 * One of the project leaders of Mobile Application Security Verification Standard (MASVS), https://github.com/OWASP/owasp-masvs
