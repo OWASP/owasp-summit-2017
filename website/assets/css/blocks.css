@@ -19,7 +19,6 @@
   /*src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(https://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37Zogp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');*/
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
-/* latin */
 @font-face {
   font-family: 'Oswald';
   font-style: normal;
@@ -105,8 +104,6 @@
     font-size: 1.2rem;
   }
 }
-
-
 
 
 @media screen {
