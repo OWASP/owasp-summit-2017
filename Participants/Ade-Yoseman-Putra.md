@@ -17,3 +17,5 @@ Project volunteer of [OWASP Juice Shop UI v2.21.1 Indonesia Translator] (https:/
 
 Presenter of blackhat asia singapore 2017 [talk about owasp & help promote Owasp Seraphimdroid project]
 (https://www.blackhat.com/asia-17/arsenal.html#ade-yoseman-putra)
+
+I will need flights and accommodation provided by OWASP because i m just work as self employed - please let us know soon if this will be possible
