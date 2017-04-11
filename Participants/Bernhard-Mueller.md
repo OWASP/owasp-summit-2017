@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Bernhard Mueller
 type: participant
 time: vacation

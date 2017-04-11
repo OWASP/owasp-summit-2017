@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/page-participant
 title: Sebastien Deleersnyder
 type: participant
 job-title:
