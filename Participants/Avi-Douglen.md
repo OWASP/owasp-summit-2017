@@ -16,6 +16,5 @@ I am also happy to work on the Cheatsheets (these have already made some of my h
 
 
 * [OWASP Israel](https://www.owasp.org/index.php/Israel) Chapter Leader, and Organizer of [AppSec Israel](https://www.owasp.org/index.php/AppSec_Israel_2016)
-* Twitter: [@sec_tigger](https://twitter.com/sec_tigger) / [@OWASP_IL](https://twitter.com/OWASP_IL)
-* [LinkedIn](https://www.linkedin.com/in/avidouglen/)
+
 
