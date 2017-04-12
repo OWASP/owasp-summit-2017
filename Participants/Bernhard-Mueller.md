@@ -17,5 +17,4 @@ The goal is to advance the guide & standard, including (but not limited to) the 
 We'd need flights and accommodation provided by OWASP as our company won't sponsor the trip - please let us know soon if this will be possible, as we'll need to announce & prepare the workshop.
 
 * [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide) Project Leader
-* [LinkedIn](https://www.linkedin.com/in/bernhardm/)
-* Twitter: [@muellerberndt](https://twitter.com/muellerberndt)
+
