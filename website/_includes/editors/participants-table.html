@@ -35,7 +35,7 @@
         {% when 'draft' %}
         <div class="label label-primary">{{ page.status }}</div>{% when 'done' %}
         <div class="label label-success">done</div>{% when 'empty' %}
-        <div class="label label-danger">done</div>{% else %}
+        <div class="label label-danger">empty</div>{% else %}
         <div class="label label-warning">{{ page.status }}</div>{% endcase %}
       </td>
       <td><a href="{{ page.url }}" target="_blank">view</a><a href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}" target="_blank">edit</a></td>
@@ -62,7 +62,7 @@
         {% when 'draft' %}
         <div class="label label-primary">{{ page.status }}</div>{% when 'done' %}
         <div class="label label-success">done</div>{% when 'empty' %}
-        <div class="label label-danger">done</div>{% else %}
+        <div class="label label-danger">empty</div>{% else %}
         <div class="label label-warning">{{ page.status }}</div>{% endcase %}
       </td>
       <td><a href="{{ page.url }}" target="_blank">view</a><a href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}" target="_blank">edit</a></td>

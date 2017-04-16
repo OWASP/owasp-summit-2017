@@ -7,7 +7,7 @@ mixin status
     | {% when 'done' %}
     .label.label-success done
     | {% when 'empty' %}
-    .label.label-danger done
+    .label.label-danger empty
     | {% else %}
     .label.label-warning {{ page.status }}
     | {% endcase %}
