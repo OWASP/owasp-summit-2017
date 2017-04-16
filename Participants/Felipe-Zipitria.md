@@ -10,6 +10,7 @@ image: https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTIt
 linkedin: https://www.linkedin.com/in/felipezipitria/
 twitter: 
 facebook:
+status: fix-linkedin
 ---
 
 ## Felipe Zipitria

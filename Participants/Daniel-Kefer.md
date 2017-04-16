@@ -7,6 +7,7 @@ image:
 linkedin: kefer
 twitter: DKefer
 facebook:
+status: empty
 ---
 
 https://www.linkedin.com/in/kefer

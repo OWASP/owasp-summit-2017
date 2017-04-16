@@ -7,6 +7,7 @@ image: https://pbs.twimg.com/profile_images/670381024057106433/NEc-r_gO_400x400.
 linkedin:
 twitter: ante_gulam
 facebook:
+status: empty
 ---
 
 (add info, links, blogs, twitter, bio, what would like to see at the summit)

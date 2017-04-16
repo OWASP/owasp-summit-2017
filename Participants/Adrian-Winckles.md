@@ -10,6 +10,7 @@ image: https://pbs.twimg.com/profile_images/589462457015476224/-f9sW6zr_400x400.
 linkedin: adrian-winckles-2582ab3
 twitter: botflowking
 facebook:
+status: update-content
 ---
 
 I’ve approached my employer who can give me the time to attend but isn’t going to be able to cover the accomodation cost but will cover travel. 

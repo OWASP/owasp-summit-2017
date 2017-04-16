@@ -8,6 +8,7 @@ image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkRAAAAJDky
 linkedin: avidouglen
 twitter: sec_tigger
 facebook:
+status: update-content
 ---
 
 I am looking forward to joining the Threat Modeling workshop, as I have a lot of varied experience in this area, including constrained environments and limited engagements, as well as a full-scope in-depth ongoing security team. This is also my current area of focus.   

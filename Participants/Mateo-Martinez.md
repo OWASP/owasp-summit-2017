@@ -10,6 +10,7 @@ image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeMAAAAJDM4
 linkedin: https://linkedin.com/in/mateomartinez
 twitter: MateoMartinezOK
 facebook:
+status: fix-linkedin
 ---
 
 ## Mateo Martinez

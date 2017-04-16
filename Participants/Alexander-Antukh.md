@@ -7,4 +7,5 @@ image:
 linkedin: antukh
 twitter: c0rdis
 facebook:
+status: empty
 ---

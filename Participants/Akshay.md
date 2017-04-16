@@ -10,6 +10,7 @@ image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKbAAAAJDcz
 linkedin: akshaysharmamsclis
 chapter-leader: Bhopal
 facebook: 
+status: improve-bio
 ---
 
 I would like to attend OWASP Summit, to get into the environment and discuss a new project with other OWASP Project leaders.

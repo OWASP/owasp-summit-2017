@@ -1,4 +1,4 @@
-h1 Participant's table
+
 
 mixin status
     | {% case page.status %}
@@ -6,12 +6,15 @@ mixin status
     .label.label-primary {{ page.status }}
     | {% when 'done' %}
     .label.label-success done
+    | {% when 'empty' %}
+    .label.label-danger done
     | {% else %}
-    .label.label-danger no-status
+    .label.label-warning {{ page.status }}
     | {% endcase %}
 
 .participants-table
-    .container
+        //.container
+        h1 Participant's table
         h2 Metadata view
         p Here are all participants metadata. Summit Editors should make sure that all all participants have mapped their contact information and content
         table.table.table-striped
@@ -24,6 +27,7 @@ mixin status
                 th twitter
                 th linkedin
                 th facebook
+                th content
                 th status
                 th actions
             | {% assign participants = site.pages | where: 'type', 'participant' %}
@@ -43,6 +47,7 @@ mixin status
                     a(href='https://twitter/u/{{ page.linkedin }}' target='_blank') {{ page.linkedin }}
                 td
                     a(href='https://twitter/com/{{ page.facebook }}' target='_blank') {{ page.facebook }}
+                td.text-center {{ page.content | strip_html | number_of_words}}
                 td.text-center
                     + status
                 td

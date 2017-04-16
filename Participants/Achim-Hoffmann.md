@@ -9,6 +9,7 @@ image:
 linkedin:
 twitter:
 facebook:
+status: needs-image
 ---
 
 See bio at [Owasp personal page](https://www.owasp.org/index.php/User:Achim)

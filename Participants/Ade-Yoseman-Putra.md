@@ -9,6 +9,7 @@ image:
 linkedin:
 twitter: OwaspJakarta
 facebook:
+status: broken-links
 ---
 
 See bio at [Owasp personal page](https://www.owasp.org/index.php/Ade_Yoseman_Putra) 
