@@ -8,6 +8,7 @@ job-title: SSDL Leader
 linkedin: hkparekh
 twitter: 
 facebook:
+status: empty
 ---
 
 [ I am one of the core contributors for OpenSAMM 2.0. I would like to attend OWASP summit so that I can participate in OpenSAMM 2.0 discussions.
