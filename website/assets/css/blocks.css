@@ -106,6 +106,26 @@
 }
 
 
+.participants-table {
+  background: #eaeaea;
+}
+.participants-table table tr td {
+  padding: 2px;
+}
+.participants-table table tr td img {
+  width: 15px;
+}
+.participants-table table tr td a {
+  padding-left: 5px;
+}
+.participants-table table th {
+  font-family: 'Oswald';
+  color: #333333;
+  padding: 20px;
+  text-transform: uppercase;
+  text-align: left;
+}
+
 @media screen {
   .about-past-summit img {
     padding: 0px;
@@ -190,37 +210,6 @@
 }
 .about-past-summit h2 {
   text-transform: uppercase;
-}
-
-body {
-  font-family: 'Roboto Slab', serif !important;
-  background: url('/website/assets/img/blocks/header-background.png') !important;
-  background-size: 1200px                                    !important;
-  min-width: 320px;
-}
-body h1 {
-  font-family: 'Oswald';
-  color: #333333;
-  padding-bottom: 20px;
-  text-transform: uppercase;
-}
-body h2 {
-  font-family: 'Oswald';
-  color: #00549E;
-  text-transform: uppercase;
-}
-body h3 {
-  font-family: 'Oswald';
-  color: #00549E;
-}
-body h4 {
-  color: #00549E;
-}
-body p {
-  color: #333333;
-}
-body .page-content {
-  background: white;
 }
 
 @media screen {
@@ -328,24 +317,6 @@ body .page-content {
   color: #333333;
   font-size: 14px;
   font-size: 1.4rem;
-}
-
-.footer {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: #333333;
-}
-.footer h2 {
-  font-family: 'Oswald';
-  color: #EAEAEA;
-}
-.footer p {
-  color: #EAEAEA;
-}
-.footer img {
-  padding-right: 10px;
-  padding-bottom: 10px;
-  width: 60px;
 }
 
 @media screen {
@@ -645,99 +616,6 @@ body .page-content {
 }
 .lgx-countdown-area #lgx-countdown .lgx-sec {
   color: #87bb40;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .container {
-    width: auto;
-  }
-}
-@media (min-width: 920px) {
-  .navbar li a {
-    font-size: 16px;
-    font-size: 1.6rem;
-  }
-  .navbar .btn {
-    font-size: 16px;
-    font-size: 1.6rem;
-  }
-  img {
-    width: 120px;
-  }
-  .navbar {
-    padding-top: 10px;
-  }
-}
-@media (max-width: 920px) {
-  .navbar li a {
-    font-size: 14px;
-    font-size: 1.4rem;
-  }
-  .navbar .btn {
-    font-size: 14px;
-    font-size: 1.4rem;
-  }
-  img {
-    width: 110px;
-  }
-  .navbar {
-    padding-top: 10px;
-  }
-}
-@media (max-width: 840px) {
-  .navbar li a {
-    font-size: 12px;
-    font-size: 1.2rem;
-  }
-  .navbar .btn {
-    font-size: 12px;
-    font-size: 1.2rem;
-  }
-  img {
-    width: 100px;
-  }
-  .navbar {
-    padding-top: 20px;
-  }
-}
-@media (max-width: 760px) {
-  .navbar li a {
-    font-size: 13px;
-    font-size: 1.3rem;
-  }
-  .navbar .btn {
-    font-size: 13px;
-    font-size: 1.3rem;
-  }
-  img {
-    width: 90px;
-  }
-  .navbar {
-    padding-top: 20px;
-  }
-}
-.navbar {
-  background-color: transparent;
-  border-color: transparent;
-}
-.navbar-header button {
-  margin: 0px;
-}
-.blocks-menu {
-  float: right;
-  font-family: 'Oswald';
-}
-.blocks-menu li a {
-  text-transform: uppercase;
-  padding: 9px 10px 0px 10px;
-  color: #333333;
-}
-.blocks-menu button {
-  background: #00549E;
-}
-.blocks-menu button a {
-  color: white;
-  text-transform: uppercase;
 }
 
 @media screen {
@@ -1047,3 +925,145 @@ body .page-content {
 
 
 
+
+body {
+  font-family: 'Roboto Slab', serif !important;
+  background: url('/website/assets/img/blocks/header-background.png') !important;
+  background-size: 1200px                                    !important;
+  min-width: 320px;
+}
+body h1 {
+  font-family: 'Oswald';
+  color: #333333;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+body h2 {
+  font-family: 'Oswald';
+  color: #00549E;
+  text-transform: uppercase;
+}
+body h3 {
+  font-family: 'Oswald';
+  color: #00549E;
+}
+body h4 {
+  color: #00549E;
+}
+body p {
+  color: #333333;
+}
+body .page-content {
+  background: white;
+}
+
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #333333;
+}
+.footer h2 {
+  font-family: 'Oswald';
+  color: #EAEAEA;
+}
+.footer p {
+  color: #EAEAEA;
+}
+.footer img {
+  padding-right: 10px;
+  padding-bottom: 10px;
+  width: 60px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .container {
+    width: auto;
+  }
+}
+@media (min-width: 920px) {
+  .navbar li a {
+    font-size: 16px;
+    font-size: 1.6rem;
+  }
+  .navbar .btn {
+    font-size: 16px;
+    font-size: 1.6rem;
+  }
+  img {
+    width: 120px;
+  }
+  .navbar {
+    padding-top: 10px;
+  }
+}
+@media (max-width: 920px) {
+  .navbar li a {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+  .navbar .btn {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+  img {
+    width: 110px;
+  }
+  .navbar {
+    padding-top: 10px;
+  }
+}
+@media (max-width: 840px) {
+  .navbar li a {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+  .navbar .btn {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+  img {
+    width: 100px;
+  }
+  .navbar {
+    padding-top: 20px;
+  }
+}
+@media (max-width: 760px) {
+  .navbar li a {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+  .navbar .btn {
+    font-size: 13px;
+    font-size: 1.3rem;
+  }
+  img {
+    width: 90px;
+  }
+  .navbar {
+    padding-top: 20px;
+  }
+}
+.navbar {
+  background-color: transparent;
+  border-color: transparent;
+}
+.navbar-header button {
+  margin: 0px;
+}
+.blocks-menu {
+  float: right;
+  font-family: 'Oswald';
+}
+.blocks-menu li a {
+  text-transform: uppercase;
+  padding: 9px 10px 0px 10px;
+  color: #333333;
+}
+.blocks-menu button {
+  background: #00549E;
+}
+.blocks-menu button a {
+  color: white;
+  text-transform: uppercase;
+}
