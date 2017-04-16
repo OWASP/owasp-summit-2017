@@ -1,9 +1,9 @@
 doctype html
 html
     head
-        | {% include blocks/header.html             %}
+        | {% include page/header.html             %}
     body
-        | {% include blocks/menu.html               %}
+        | {% include page/menu.html               %}
         block content
-        | {% include blocks/footer.html             %}
-        | {% include blocks/google-analytics.html   %}
+        | {% include page/footer.html             %}
+        | {% include page/google-analytics.html   %}

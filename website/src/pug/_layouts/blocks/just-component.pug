@@ -3,4 +3,4 @@ html
     head
         | {% include page/header.html %}
     body
-        | {{content}}
+        | {% include {{ page.component }}    %}

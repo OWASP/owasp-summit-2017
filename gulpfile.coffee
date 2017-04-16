@@ -40,7 +40,8 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
         startPath      : '/new/about.html'         # first page that loads up
         server         : baseDir: '_site/'
 
-    gulp.watch 'new/**/*.md'                  , ['reload-page']
+    # gulp.watch 'new/**/*.md'                  , ['reload-page']
+    gulp.watch 'pages/**/*.md'                , ['reload-page']
     gulp.watch 'website/**/*.md'              , ['reload-page']
     gulp.watch 'website/_data/**/*'           , ['reload-page']
     gulp.watch 'website/**/*.html'            , ['reload-page']

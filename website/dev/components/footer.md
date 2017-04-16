@@ -2,7 +2,7 @@
 layout: blocks/component
 ---
 
-{% include blocks/footer.html %}
+{% include page/footer.html %}
 
 
  
