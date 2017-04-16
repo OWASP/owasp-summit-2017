@@ -27,5 +27,4 @@ What I would also like to propose is two ideas for Working-Sessions/Themes
 * [OWASP Cambridge Chapter Leader](https://www.owasp.org/index.php/Cambridge)
 * OWASP European Board Member
 * [OWASP AppSec Europe 2014 Chair](https://2014.appsec.eu)
-* [LinkedIn](https://www.linkedin.com/in/adrian-winckles-2582ab3)
-* [Twitter](twitter.com/botflowking)
+
