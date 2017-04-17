@@ -7,6 +7,7 @@ image: https://pbs.twimg.com/profile_images/2150492060/P7310595_400x400.JPG
 linkedin:
 twitter: vdbaan
 facebook:
+status: empty
 ---
 
 ## Steven van der Baan
