@@ -7,6 +7,7 @@ image: https://pbs.twimg.com/profile_images/425208323093176320/AQr7Ot7l_400x400.
 linkedin:
 twitter: sebadele
 facebook:
+status: empty
 ---
 
 ## Sebastien Deleersnyder
