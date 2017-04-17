@@ -9,6 +9,7 @@ image: https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.
 linkedin: bernhardm
 twitter: muellerberndt
 facebook:
+status: update-role
 ---
 
 [Sven Schleier](./Sven-Schleier.html) and I would like to do a [Mobile Security workshop](../Working-Sessions/Mobile-Security.html) around the OWASP Mobile Testing Guide Standard and Verification Standard. 
