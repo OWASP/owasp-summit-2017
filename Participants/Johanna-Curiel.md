@@ -8,6 +8,7 @@ image:
 linkedin:
 twitter:
 facebook:
+status: empty
 ---
 
 ## Johanna Curiel
