@@ -7,6 +7,7 @@ image: https://pbs.twimg.com/profile_images/54846161/pic_of_me_200x200.jpg
 linkedin:
 twitter: stephendv
 facebook:
+status: empty
 ---
 
 (add info, links, blogs, twitter, bio, what would like to see at the summit)
