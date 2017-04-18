@@ -1,14 +1,17 @@
 mixin status
-    | {% case page.status %}
-    | {% when 'draft' %}
-    .label.label-primary {{ page.status }}
-    | {% when 'done' %}
-    .label.label-success done
-    | {% when 'empty' %}
-    .label.label-danger empty
-    | {% else %}
-    .label.label-warning {{ page.status }}
-    | {% endcase %}
+    | {% assign page_status = page.status | split: ',' %}
+    | {% for status in page_status %}
+    |   {% case status %}
+    |       {% when 'draft' %}
+    .label.label-primary {{ status }}
+    |       {% when 'done' %}
+    .label.label-success {{ status }}
+    |       {% when 'empty' %}
+    .label.label-danger {{ status }}
+    |       {% else %}
+    .label.label-warning {{ status }}
+    |   {% endcase %}
+    | {% endfor %}
 
 mixin actions
     a(href='{{ page.url }}' target='_blank') view
@@ -52,8 +55,8 @@ mixin actions
             td
                 a(href='https://twitter/com/{{ page.facebook }}' target='_blank') {{ page.facebook }}
             td.text-center {{ page.content | strip_html | number_of_words}}
-            td.text-center
-                + status
+            td.text-center.status-label
+                +status
             td
                 a(href='{{ page.url }}' target='_blank') view
                 a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit

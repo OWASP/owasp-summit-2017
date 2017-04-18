@@ -8,6 +8,6 @@ Here are a number of pages that are designed to help Summit Website editors with
 ...
 {% assign sorted_pages = (site.pages | sort: 'url') %}
 
-{% for page in sorted_pages  %}{% if page.url contains 'editors' and page.hide != true %}
+{% for page in sorted_pages  %}{% if page.url contains 'pages/editors' and page.hide != true %}
 - <a href="{{ page.url}}">{{page.title}}
   {% endif %}{% endfor %}

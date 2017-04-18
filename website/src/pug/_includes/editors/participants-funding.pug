@@ -1,25 +1,64 @@
 mixin table-header
     thead
+        th #
         th name (title)
-        th role
-        th Who (funded)
-        th flight (cost)
-        th ticket (cost)
-        th Amount (funded)
-        th Required (funds)
+        //th role
+        th project-leader
+        th chapter-leader
+        th time covered by
+        th Travel from
+        th flight cost
+        th ticket cost
+        th Required funds
+        | {% if funded  == true %}
+        th Amount funded
+        th Who funded
+        | {% endif %}
         th (subtotal)
 
 mixin table-row
     | {% assign total_amount = total_amount | plus: page.funded-amount %}
+    | {% assign index        = index        | plus: 1                  %}
     tr
+        td {{ index }}
         td.text-left {{ page.title     }}
-        td  {{ page.role               }}
-        td  {{ page.funded-who         }}
+        //td  {{ page.role               }}
+        td  {{ page.project-leader     }}
+        td  {{ page.chapter-leader     }}
+        td  {{ page.time               }}
+        td  {{ page.travel-from        }}
         td ${{ page.flight-cost        }}
         td ${{ page.ticket-cost        }}
-        td ${{ page.funded-amount      }}
         td ${{ page.required-funds     }}
+        | {% if funded  == true %}
+        td ${{ page.funded-amount      }}
+        td  {{ page.funded-who         }}
+        | {% endif %}
         td ${{ total_amount            }}
+
+mixin total_amount
+    tr
+        td
+        td
+        td
+        td
+        td
+        td
+        td
+        td
+        | {% if funded  == true %}
+        td
+        td
+        td
+            h4 Total funded:
+        td
+            h4 ${{ total_amount }}
+        | {% else %}
+        td
+            h4 Total required:
+        td
+            h4 ${{ total_amount }}
+        | {% endif %}
 
 .participants-table
 
@@ -29,32 +68,35 @@ mixin table-row
     | {% assign participants = site.pages | where: 'expenses', 'owasp'  %}
 
     h3 Participants currently funded
-    | {% assign total_amount = 0 %}
+    | {% assign total_amount = 0    %}
+    | {% assign index        = 0    %}
+    | {% assign funded       = true %}
     table.table.table-striped.text-center
         +table-header
         | {% for page in participants %}
-        | {% if page.role == 'Summit-Editor' %}
+        | {% if page.funded  == true %}
+        +table-row
+        | {% endif  %}
+        | {% endfor %}
+        +total_amount
+
+    | {% assign total_amount = 0 %}
+    | {% assign index        = 0 %}
+    | {% assign funded       = false %}
+    h3 Participants that need funding
+    table.table.table-striped.text-center
+        +table-header
+        | {% for page in participants %}
+        | {% if page.funded  != true %}
         +table-row
         | {% endif %}
         | {% endfor %}
-        tr
-            td
-            td
-            td
-            td
-            td
-            td
-            td
-                h4 Total funded:
-            td
-                h4 ${{ total_amount }}
+        +total_amount
 
-
-    h3 Participants that need funding
-    ul
-        | {% for page in participants%}
-        | {% if page.role != 'Summit-Editor' %}
-
-        li {{ page.title }}
-        | {% endif %}
-        | {% endfor %}
+    //ul
+    //    | {% for page in participants%}
+    //    | {% if page.role != 'Summit-Editor' %}
+    //
+    //    li {{ page.title }}
+    //    | {% endif %}
+    //    | {% endfor %}

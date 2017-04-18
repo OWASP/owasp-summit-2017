@@ -1,16 +1,22 @@
 ---
-layout: blocks/page-participant
-title: Felipe Zipitria
-type: participant
-time: vacation
-expenses: owasp
-role: Summit-Editor
-job-title: Uruguay Chapter Leader
-image: https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
-linkedin: https://www.linkedin.com/in/felipezipitria/
-twitter: 
-facebook:
-status: fix-linkedin
+layout          : blocks/page-participant
+title           : Felipe Zipitria
+type            : participant
+time            : vacation
+travel-from     : Uruguay
+expenses        : owasp
+funded          : yes
+funded-who      : Summit Editor Fund
+flight-cost     : 1000
+ticket-cost     : 1500
+funded-amount   : 2500
+required-funds  : 2500
+role            : Summit-Editor
+chapter-leader  : Uruguay
+job-title       : Uruguay Chapter Leader
+image           : https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
+linkedin        : https://www.linkedin.com/in/felipezipitria/
+status          : fix-linkedin
 ---
 
 ## Felipe Zipitria

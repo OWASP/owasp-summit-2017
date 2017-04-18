@@ -1,16 +1,23 @@
 ---
-layout: blocks/page-participant
-title: Mateo Martinez
-type: participant
-time: vacation
-expenses: owasp
-role: Summit-Editor
-job-title: Uruguay Chapter Leader
-image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeMAAAAJDM4YTJiOGI0LWJkZDItNDliOC1iNzU4LWQ3Njk0ZmNhMWUxOQ.jpg
-linkedin: https://linkedin.com/in/mateomartinez
-twitter: MateoMartinezOK
-facebook:
-status: fix-linkedin
+layout          : blocks/page-participant
+title           : Mateo Martinez
+type            : participant
+time            : vacation
+travel-from     : Uruguay
+expenses        : owasp
+funded          : yes
+funded-who      : Summit Editor Fund
+flight-cost     : 1000
+ticket-cost     : 1500
+funded-amount   : 2500
+required-funds  : 2500
+role            : Summit-Editor
+chapter-leader  : Uruguay
+job-title       : Uruguay Chapter Leader
+image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeMAAAAJDM4YTJiOGI0LWJkZDItNDliOC1iNzU4LWQ3Njk0ZmNhMWUxOQ.jpg
+linkedin        : https://linkedin.com/in/mateomartinez
+twitter         : MateoMartinezOK
+status          : fix-linkedin
 ---
 
 ## Mateo Martinez

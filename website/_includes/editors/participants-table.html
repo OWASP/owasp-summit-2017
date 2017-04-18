@@ -27,13 +27,16 @@
       <td><a href="https://twitter/u/{{ page.linkedin }}" target="_blank">{{ page.linkedin }}</a></td>
       <td><a href="https://twitter/com/{{ page.facebook }}" target="_blank">{{ page.facebook }}</a></td>
       <td class="text-center">{{ page.content | strip_html | number_of_words}}</td>
-      <td class="text-center">
-        {% case page.status %}
-        {% when 'draft' %}
-        <div class="label label-primary">{{ page.status }}</div>{% when 'done' %}
-        <div class="label label-success">done</div>{% when 'empty' %}
-        <div class="label label-danger">empty</div>{% else %}
-        <div class="label label-warning">{{ page.status }}</div>{% endcase %}
+      <td class="text-center status-label">
+        {% assign page_status = page.status | split: ',' %}
+        {% for status in page_status %}
+          {% case status %}
+              {% when 'draft' %}
+        <div class="label label-primary">{{ status }}</div>      {% when 'done' %}
+        <div class="label label-success">{{ status }}</div>      {% when 'empty' %}
+        <div class="label label-danger">{{ status }}</div>      {% else %}
+        <div class="label label-warning">{{ status }}</div>  {% endcase %}
+        {% endfor %}
       </td>
       <td><a href="{{ page.url }}" target="_blank">view</a><a href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}" target="_blank">edit</a></td>
     </tr>{% endfor %}
@@ -55,12 +58,15 @@
       <td><a href="{{ page.url }}" target="_blank">view</a><a href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}" target="_blank">edit</a>
       </td>
       <td>
-        {% case page.status %}
-        {% when 'draft' %}
-        <div class="label label-primary">{{ page.status }}</div>{% when 'done' %}
-        <div class="label label-success">done</div>{% when 'empty' %}
-        <div class="label label-danger">empty</div>{% else %}
-        <div class="label label-warning">{{ page.status }}</div>{% endcase %}
+        {% assign page_status = page.status | split: ',' %}
+        {% for status in page_status %}
+          {% case status %}
+              {% when 'draft' %}
+        <div class="label label-primary">{{ status }}</div>      {% when 'done' %}
+        <div class="label label-success">{{ status }}</div>      {% when 'empty' %}
+        <div class="label label-danger">{{ status }}</div>      {% else %}
+        <div class="label label-warning">{{ status }}</div>  {% endcase %}
+        {% endfor %}
       </td>
       <td>{{ page.content }}</td>
     </tr>{% endfor %}

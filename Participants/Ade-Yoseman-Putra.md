@@ -1,15 +1,19 @@
 ---
-layout: blocks/page-participant
-title: Ade Yoseman Putra
-type: participant
-time: 
-expenses: owasp
-job-title: Jakarta Chapter Leader
-image: 
-linkedin:
-twitter: OwaspJakarta
-facebook:
-status: broken-links
+layout          : blocks/page-participant
+title           : Ade Yoseman Putra
+type            : participant
+time            :
+expenses        : owasp
+funded          : yes
+funded-who      : OWASP Community fund
+travel-from     : Jakarta
+flight-cost     : 1000
+ticket-cost     : 1500
+funded-amount   : 2000
+required-funds  : 2500
+job-title       : Jakarta Chapter Leader
+twitter         : OwaspJakarta
+status          : broken-links
 ---
 
 See bio at [Owasp personal page](https://www.owasp.org/index.php/Ade_Yoseman_Putra) 
