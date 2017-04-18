@@ -1,0 +1,50 @@
+
+<div class="participants-table">
+  <h1>Participant's Funding<a href="/pages/editors">Back to Editor's pages</a></h1>{% assign participants = site.pages | where: 'expenses', 'owasp'  %}
+  <h3>Participants currently funded</h3>{% assign total_amount = 0 %}
+  <table class="table table-striped text-center">
+    <thead>
+      <th>name (title)</th>
+      <th>role</th>
+      <th>Who (funded)</th>
+      <th>flight (cost)</th>
+      <th>ticket (cost)</th>
+      <th>Amount (funded)</th>
+      <th>Required (funds)</th>
+      <th>(subtotal)</th>
+    </thead>{% for page in participants %}
+    {% if page.role == 'Summit-Editor' %}{% assign total_amount = total_amount | plus: page.funded-amount %}
+    <tr>
+      <td class="text-left">{{ page.title     }}</td>
+      <td> {{ page.role               }}</td>
+      <td> {{ page.funded-who         }}</td>
+      <td>${{ page.flight-cost        }}</td>
+      <td>${{ page.ticket-cost        }}</td>
+      <td>${{ page.funded-amount      }}</td>
+      <td>${{ page.required-funds     }}</td>
+      <td>${{ total_amount            }}</td>
+    </tr>{% endif %}
+    {% endfor %}
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <h4>Total funded:</h4>
+      </td>
+      <td>
+        <h4>${{ total_amount }}</h4>
+      </td>
+    </tr>
+  </table>
+  <h3>Participants that need funding</h3>
+  <ul>
+    {% for page in participants%}
+    {% if page.role != 'Summit-Editor' %}
+    <li>{{ page.title }}</li>{% endif %}
+    {% endfor %}
+  </ul>
+</div>

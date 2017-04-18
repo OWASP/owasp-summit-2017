@@ -1,15 +1,18 @@
 ---
-layout: blocks/page-participant
-title: Devesh Bhatt
-type: participant
-expenses: owasp
-flight: 1000
-role: Summit-Editor
-job-title:
-image: https://pbs.twimg.com/profile_images/789848592680783876/iVOr_MaR.jpg
-linkedin:
-twitter: deveshbhatt11
-facebook:
+layout        : blocks/page-participant
+title         : Devesh Bhatt
+type          : participant
+expenses      : owasp
+funded        : yes
+funded-who    : Summit Editor Fund
+flight-cost   : 1000
+ticket-cost   : 1500
+funded-amount : 2500
+required-funds: 2500
+role          : Summit-Editor
+job-title     :
+image         : https://pbs.twimg.com/profile_images/789848592680783876/iVOr_MaR.jpg
+twitter       : deveshbhatt11
 ---
 
 ## Devesh Bhatt

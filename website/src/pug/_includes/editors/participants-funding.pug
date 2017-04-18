@@ -1,0 +1,60 @@
+mixin table-header
+    thead
+        th name (title)
+        th role
+        th Who (funded)
+        th flight (cost)
+        th ticket (cost)
+        th Amount (funded)
+        th Required (funds)
+        th (subtotal)
+
+mixin table-row
+    | {% assign total_amount = total_amount | plus: page.funded-amount %}
+    tr
+        td.text-left {{ page.title     }}
+        td  {{ page.role               }}
+        td  {{ page.funded-who         }}
+        td ${{ page.flight-cost        }}
+        td ${{ page.ticket-cost        }}
+        td ${{ page.funded-amount      }}
+        td ${{ page.required-funds     }}
+        td ${{ total_amount            }}
+
+.participants-table
+
+    h1 Participant's Funding
+        a(href='/pages/editors') Back to Editor's pages
+
+    | {% assign participants = site.pages | where: 'expenses', 'owasp'  %}
+
+    h3 Participants currently funded
+    | {% assign total_amount = 0 %}
+    table.table.table-striped.text-center
+        +table-header
+        | {% for page in participants %}
+        | {% if page.role == 'Summit-Editor' %}
+        +table-row
+        | {% endif %}
+        | {% endfor %}
+        tr
+            td
+            td
+            td
+            td
+            td
+            td
+            td
+                h4 Total funded:
+            td
+                h4 ${{ total_amount }}
+
+
+    h3 Participants that need funding
+    ul
+        | {% for page in participants%}
+        | {% if page.role != 'Summit-Editor' %}
+
+        li {{ page.title }}
+        | {% endif %}
+        | {% endfor %}

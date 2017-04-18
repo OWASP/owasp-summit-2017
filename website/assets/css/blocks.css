@@ -902,10 +902,6 @@
   background-color: #323232;
 }
 
-
-
-
-
 .participants-table {
   background: #eaeaea;
   padding: 10px;
@@ -929,6 +925,10 @@
   text-transform: uppercase;
   text-align: center;
 }
+
+
+
+
 
 body {
   font-family: 'Roboto Slab', serif !important;
