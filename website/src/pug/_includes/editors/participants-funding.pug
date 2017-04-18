@@ -17,7 +17,11 @@ mixin table-header
         th (subtotal)
 
 mixin table-row
-    | {% assign total_amount = total_amount | plus: page.funded-amount %}
+    | {% if funded  == true %}
+    |   {% assign total_amount = total_amount | plus: page.funded-amount %}
+    | {% else %}
+    |   {% assign total_amount = total_amount | plus: page.required-funds %}
+    | {% endif %}
     | {% assign index        = index        | plus: 1                  %}
     tr
         td {{ index }}

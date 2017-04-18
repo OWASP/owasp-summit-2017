@@ -3,7 +3,16 @@ layout: blocks/page-participant
 title: Bernhard Mueller
 type: participant
 time: vacation
-expenses: owasp
+travel-from     : ????
+expenses        : owasp
+funded          : no
+funded-who      : tbd
+flight-cost     : ????
+ticket-cost     : 1500
+funded-amount   : ????
+required-funds  : 1500
+project-leader  : ????
+chapter-leader  : ????
 job-title: Security Researcher
 image: https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
 linkedin: bernhardm

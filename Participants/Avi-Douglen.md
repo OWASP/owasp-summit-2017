@@ -2,7 +2,16 @@
 layout: blocks/page-participant
 title: Avi Douglen
 type: participant
-expenses: owasp
+travel-from     : ????
+expenses        : owasp
+funded          : no
+funded-who      : tbd
+flight-cost     : ????
+ticket-cost     : 1500
+funded-amount   : ????
+required-funds  : 1500
+project-leader  : ????
+chapter-leader  : ????
 job-title:
 image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkRAAAAJDkyZmFkMDRlLWMzZjAtNDk1Yy1hNDFiLTA2MTM2M2IzNzFhZA.jpg
 linkedin: avidouglen

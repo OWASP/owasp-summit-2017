@@ -2,7 +2,16 @@
 layout: blocks/page-participant
 title: Hardik Parekh
 type: participant
-time: vacation
+travel-from     : ????
+expenses        : owasp
+funded          : no
+funded-who      : tbd
+flight-cost     : ????
+ticket-cost     : 1500
+funded-amount   : ????
+required-funds  : 1500
+project-leader  : ????
+chapter-leader  : ????
 expenses: owasp
 job-title: SSDL Leader
 linkedin: hkparekh
