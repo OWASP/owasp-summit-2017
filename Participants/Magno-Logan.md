@@ -3,7 +3,7 @@ layout: blocks/page-participant
 title: Magno Logan
 type: participant
 job-title: Systems and Network Security Specialist
-expenses: OWASP
+expenses: owasp
 image: https://avatars0.githubusercontent.com/u/1558043
 linkedin: magnologan
 twitter: magnologan
