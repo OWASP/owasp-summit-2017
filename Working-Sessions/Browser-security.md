@@ -2,6 +2,7 @@
 layout: blocks/page-content
 title: Browser Security
 type: workshop
+technology: Browsers
 ---
 
 _(add details, why, what, who)_

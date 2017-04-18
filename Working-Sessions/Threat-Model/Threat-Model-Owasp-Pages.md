@@ -1,8 +1,8 @@
 ---
 layout: blocks/page-content
 title: Threat Model Owasp Pages
-#type: workshop
-track: project-summit
+type: workshop
+track: Threat Modeling
 ---
 
 - Rework OWASP threat modeling page and create subpages on threat modeling methodologies that exist w/ details and artifacts

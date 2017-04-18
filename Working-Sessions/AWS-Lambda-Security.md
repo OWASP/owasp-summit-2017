@@ -1,8 +1,8 @@
 ---
 layout: blocks/page-content
-#layout: blocks/page-content
 title: AWS Lambda Security
 type: workshop
+status: draft
 ---
 
 _(add details, why, what, who)_

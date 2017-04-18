@@ -3,6 +3,7 @@
 layout: blocks/page-content
 title: AppSec Tools
 type: workshop
+technology: AWS
 ---
 
 ### Objective

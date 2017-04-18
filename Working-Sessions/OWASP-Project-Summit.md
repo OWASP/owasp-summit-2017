@@ -18,7 +18,7 @@ If you are an active OWASP Project Leader or want to help leading this Working-S
 <ul>
     <ol>
         {% for page in site.pages %}
-            {% if page.title and page.track == 'project-summit' %}
+            {% if page.track == 'project-summit' or page.owasp-project   %}
                 <li><a href="{{page.url}}">{{page.title}}</a></li>
             {% endif %}
         {% endfor %}

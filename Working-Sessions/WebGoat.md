@@ -3,6 +3,7 @@ layout: blocks/page-content
 title: Webgoat
 type: workshop
 track: project-summit
+technology: Java
 ---
 
 ### Introduction

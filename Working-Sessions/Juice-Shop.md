@@ -4,6 +4,7 @@ title: Juice Shop
 type: workshop
 track: project-summit
 organizers: Bjoern Kimminich
+technology: Node
 ---
 
 Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)

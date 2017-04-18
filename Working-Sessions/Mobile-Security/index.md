@@ -2,7 +2,8 @@
 layout: blocks/page-content
 title: Mobile Security Track
 type: workshop
-track: project-summit
+track: Mobile Security
+technology: Mobile
 status: featured
 description: Work on Mobile Application Security Verification Standard (MASVS) , Mobile Security Testing Guide (MSTG), Hacking-Playground 
 ---

@@ -2,7 +2,9 @@
 layout: blocks/page-content
 title: Mobile Application Security Verification Standard (MASVS)
 type: workshop
-track: project-summit
+track: Mobile Security
+owasp-project: yes
+technology: Mobile
 ---
 
 * Working on MASVS - https://github.com/OWASP/owasp-masvs

@@ -2,7 +2,10 @@
 layout: blocks/page-content
 title: Maturity Models tool
 type: workshop
-track: project-summit
+track: OwaspSAMM
+technology: Node
+owasp-project: yes
+status: draft
 ---
 
 See https://github.com/owasp/Maturity-Models for more details on this project

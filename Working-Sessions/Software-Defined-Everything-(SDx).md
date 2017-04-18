@@ -2,6 +2,7 @@
 layout: blocks/page-content
 title: Software Defined Everything (SDx)
 type: workshop
+track: Education
 ---
 
 Organizer(s): [Adrian-Winckles](../Participants/Adrian-Winckles.html)

@@ -1,8 +1,8 @@
 ---
 layout: blocks/page-content
 title: Threat Modeling Cheat Sheet
-#type: workshop
-track: project-summit
+type: workshop
+track: Threat Modeling
 ---
 
 - Threat Modeling Cheat Sheet

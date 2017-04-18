@@ -1,8 +1,8 @@
 ---
 layout: blocks/page-content
 title: Threat Modeling Templates
-#type: workshop
-track: project-summit
+type: workshop
+track: Threat Modeling
 ---
 
 - Build threat modeling templates by app arch type or deployment model

@@ -2,7 +2,8 @@
 layout: blocks/page-content
 title: Mobile Education
 type: workshop
-track: project-summit
+track: Mobile Security
+technology: Mobile
 ---
 
 * Work on curriculum/study material for mobile education purpose in trainings and Working-Sessions.
