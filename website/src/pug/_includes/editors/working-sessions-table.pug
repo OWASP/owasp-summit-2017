@@ -10,6 +10,11 @@ mixin status
     .label.label-warning {{ page.status }}
     | {% endcase %}
 
+mixin actions
+    a(href='{{ page.url }}' target='_blank') view
+    a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+
+
 .participants-table
     | {% assign workshops = site.pages | where: 'type', 'workshop' %}
 
@@ -21,6 +26,8 @@ mixin status
         thead
             th #
             th name (title)
+            th track
+            th technologies
             th # words
             th status
             th actions
@@ -29,7 +36,8 @@ mixin status
             td.text-center {{ forloop.index }}
             td
                 b {{ page.title }}
-
+            td {{ page.track }}
+            td {{ page.technology }}
             td.text-center {{ page.content | strip_html | number_of_words}}
             td.text-center
                 + status
@@ -47,20 +55,20 @@ mixin status
     table.table.table-striped
         thead
             th name (title)
-            th content
-            th status
             th actions
+            th status
+            th content
+
 
         | {% for page in workshops %}
         tr
             td
                 h3 {{ page.title }}
-            td {{ page.content }}
+            td
+                +actions
             td
                 +status
-            td
-                a(href='{{ page.url }}' target='_blank') view
-                a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+            td {{ page.content }}
 
 
         | {% endfor %}
