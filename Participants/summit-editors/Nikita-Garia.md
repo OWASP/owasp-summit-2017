@@ -8,8 +8,8 @@ funded        : yes
 funded-who    : Summit Editor Fund
 flight-cost   : 1000
 ticket-cost   : 0 (will stay with Devesh)
-funded-amount : 1000
-required-funds: 1000
+funded-amount : 1200 (with Visa)
+required-funds: 1200
 role          : Summit-Editor
 job-title     : Editor
 ---
