@@ -10,7 +10,7 @@ funded          : yes
 funded-who      : Summit Editor Fund
 flight-cost     : 250
 ticket-cost     : 1500
-funded-amount   : 1500
+funded-amount   : 1750
 required-funds  : 1750
 project-leader  : OWASP Juice Shop
 job-title       : OWASP Juice Shop Project Leader
