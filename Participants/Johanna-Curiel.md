@@ -17,7 +17,7 @@ image:
 linkedin:
 twitter:
 facebook:
-status: need-bio
+status: empty
 ---
 
 ## Johanna Curiel

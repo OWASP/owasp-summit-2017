@@ -18,6 +18,7 @@ image:
 linkedin:
 twitter: yanfosec
 facebook:
+status: empty
 ---
 
 ### OWASP Involvement

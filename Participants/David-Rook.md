@@ -7,6 +7,7 @@ image: https://pbs.twimg.com/profile_images/745937762386317312/EqDgkbDM_400x400.
 linkedin:
 twitter: davidrook
 facebook:
+status: empty
 ---
 
 ## David Rook

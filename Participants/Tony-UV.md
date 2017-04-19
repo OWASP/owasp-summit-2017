@@ -7,6 +7,7 @@ image: https://pbs.twimg.com/profile_images/378800000261671870/b1add9442c0a2690c
 linkedin:
 twitter: t0nyuv
 facebook:
+status: empty
 ---
 
 ## Tony UV

@@ -7,6 +7,7 @@ image:
 linkedin:
 twitter:
 facebook:
+status: empty
 ---
 
 ## Lucas Ferreira
