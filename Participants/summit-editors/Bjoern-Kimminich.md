@@ -4,11 +4,11 @@ title           : Bjoern Kimminich
 type            : participant
 role            : Summit-Editor
 time            : vacation
-travel-from     : ????
+travel-from     : Hamburg
 expenses        : owasp
 funded          : yes
 funded-who      : Summit Editor Fund
-flight-cost     : ???
+flight-cost     : 250
 ticket-cost     : 1500
 funded-amount   : 1500
 required-funds  : 1500
