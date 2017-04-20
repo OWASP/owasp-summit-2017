@@ -4,14 +4,14 @@ title           : Bjoern Kimminich
 type            : participant
 role            : Summit-Editor
 time            : vacation
-travel-from     : ????
+travel-from     : Hamburg
 expenses        : owasp
 funded          : yes
 funded-who      : Summit Editor Fund
-flight-cost     : ???
+flight-cost     : 250
 ticket-cost     : 1500
-funded-amount   : 1500
-required-funds  : 1500
+funded-amount   : 1750
+required-funds  : 1750
 project-leader  : OWASP Juice Shop
 job-title       : OWASP Juice Shop Project Leader
 image           : https://pbs.twimg.com/profile_images/791646959090200576/hHp8iliO_400x400.jpg
