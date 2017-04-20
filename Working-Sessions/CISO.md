@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: CISO
 type: workshop
 organizers: Ante Gulam

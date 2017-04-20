@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: IAM for REST APIs
 type: workshop
 track: project-summit

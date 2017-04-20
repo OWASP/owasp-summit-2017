@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Software Defined Everything (SDx)
 type: workshop
 track: Education

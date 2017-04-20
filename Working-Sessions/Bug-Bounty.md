@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: OWASP Bug Bounty
 type: workshop
 track: project-summit

@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: OWASP Project Summit
 type: workshop
 track: OWASP Projects

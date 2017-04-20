@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Lightweight Threat Modeling Process
 type: workshop
 track: Threat Modeling

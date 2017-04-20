@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Reverse Engineering APK's with Bytecodeviewer
 type: workshop
 track: open-source-tools

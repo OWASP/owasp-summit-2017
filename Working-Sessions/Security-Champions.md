@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Security Champions
 type: workshop
 organizers: TBD

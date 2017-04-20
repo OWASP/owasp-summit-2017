@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: NodeGoat
 type: workshop
 track: project-summit

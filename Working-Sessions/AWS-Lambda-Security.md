@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: AWS Lambda Security
 type: workshop
 status: draft

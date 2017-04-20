@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Mobile Security Testing Guide (MSTG)
 type: workshop
 track: Mobile Security

@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Mobile Application Security Verification Standard (MASVS)
 type: workshop
 track: Mobile Security

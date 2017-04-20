@@ -1,6 +1,6 @@
 ---
 #layout: event-point/workshop
-layout: blocks/page-content
+layout: blocks/working-session
 title: AppSec Tools
 type: workshop
 technology: AWS

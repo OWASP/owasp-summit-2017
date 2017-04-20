@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Threat Modeling Templates
 type: workshop
 track: Threat Modeling

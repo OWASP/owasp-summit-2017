@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Mobile Hacking Playground
 type: workshop
 track: Mobile Security

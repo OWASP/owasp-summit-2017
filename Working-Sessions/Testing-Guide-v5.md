@@ -1,5 +1,5 @@
 ---
-layout: blocks/page-content
+layout: blocks/working-session
 title: Testing Guide v5
 type: workshop
 track: project-summit

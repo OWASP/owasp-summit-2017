@@ -1,6 +1,5 @@
 ---
-#layout: event-point/workshop
-layout: blocks/page-content
+layout: blocks/working-session
 title: Application Security BSc/Masters Curriculum Design
 type: workshop
 status: featured
