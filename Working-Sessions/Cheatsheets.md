@@ -3,9 +3,8 @@ layout: blocks/working-session
 title: Cheatsheets
 type: workshop
 track: project-summit
+status: more-content
 ---
-
-(add details, why, what, who)
 
 * Bring together Cheatsheets creators and users 
 * Workshop ideas:

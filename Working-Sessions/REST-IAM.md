@@ -4,6 +4,7 @@ title: IAM for REST APIs
 type: workshop
 track: project-summit
 technology: REST
+status: done
 ---
 
 ### Problem statement

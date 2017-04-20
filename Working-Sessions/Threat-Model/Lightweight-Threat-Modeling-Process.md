@@ -3,6 +3,7 @@ layout: blocks/working-session
 title: Lightweight Threat Modeling Process
 type: workshop
 track: Threat Modeling
+status: draft
 ---
 
 - Build a lightweight threat modeling process with artifacts (e.g. - RACI, DFDs, etc.) for Agile and/or DevOps environments

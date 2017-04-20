@@ -5,6 +5,7 @@ type: workshop
 track: project-summit
 organizers: Bjoern Kimminich
 technology: Node
+status: done
 ---
 
 Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)

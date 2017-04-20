@@ -3,6 +3,7 @@ layout: blocks/working-session
 title: Software Defined Everything (SDx)
 type: workshop
 track: Education
+status: done
 ---
 
 Organizer(s): [Adrian-Winckles](../Participants/Adrian-Winckles.html)

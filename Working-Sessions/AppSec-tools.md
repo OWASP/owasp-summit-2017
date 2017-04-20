@@ -4,6 +4,7 @@ layout: blocks/working-session
 title: AppSec Tools
 type: workshop
 technology: AWS
+status: draft
 ---
 
 ### Objective

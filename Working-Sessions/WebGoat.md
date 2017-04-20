@@ -4,6 +4,7 @@ title: Webgoat
 type: workshop
 track: project-summit
 technology: Java
+status: done
 ---
 
 ### Introduction

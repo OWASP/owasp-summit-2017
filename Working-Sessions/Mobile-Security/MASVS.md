@@ -5,6 +5,7 @@ type: workshop
 track: Mobile Security
 owasp-project: yes
 technology: Mobile
+status: draft
 ---
 
 * Working on MASVS - https://github.com/OWASP/owasp-masvs

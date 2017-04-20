@@ -4,6 +4,7 @@ title: Mobile Education
 type: workshop
 track: Mobile Security
 technology: Mobile
+status: draft
 ---
 
 * Work on curriculum/study material for mobile education purpose in trainings and Working-Sessions.

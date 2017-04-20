@@ -5,6 +5,7 @@ type: workshop
 track: OWASP Projects
 status: featured
 description: The Summit will contain a number of Working-Sessions focused on OWASP Projects
+#status: done
 ---
 
 The Summit will contain a number of Working-Sessions focused on OWASP Projects

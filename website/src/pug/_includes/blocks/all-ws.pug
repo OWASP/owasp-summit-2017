@@ -32,7 +32,7 @@
             .col-xs-12
                 .row
                     | {% for page in site.pages %}
-                    |   {% if page.title and page.type == 'workshop' and page.status != 'featured' %}
+                    |   {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status != 'draft'  %}
                     .col-xs-6.col-sm-4
                         .ws-box
                             .ws-title
@@ -56,7 +56,7 @@
                     | {% for page in site.pages %}
                     |   {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status == 'draft' %}
                     li
-                        a(href="{{page.url}}") {{page.title | truncate: 45 }}
+                        a(href="{{page.url}}") {{page.title }}
                     |   {% endif %}
                     | {% endfor %}
             .col-xs-0

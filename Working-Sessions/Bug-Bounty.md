@@ -3,6 +3,7 @@ layout: blocks/working-session
 title: OWASP Bug Bounty
 type: workshop
 track: project-summit
+status: more-content
 ---
 
 #### Why

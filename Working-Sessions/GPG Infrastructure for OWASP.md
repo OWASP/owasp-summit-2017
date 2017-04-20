@@ -2,8 +2,9 @@
 layout: blocks/working-session
 title: GPG Infrastructure for OWASP
 type: workshop
-track: TBD
+track: OWASP
 organizers: Achim Hoffmann
+status: done
 ---
 
 ### Objective

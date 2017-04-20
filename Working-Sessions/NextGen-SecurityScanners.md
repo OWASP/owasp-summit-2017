@@ -2,6 +2,7 @@
 layout: blocks/working-session
 title: NextGen Security Scanners
 type: workshop
+status: done
 ---
 
 ### Problem statement

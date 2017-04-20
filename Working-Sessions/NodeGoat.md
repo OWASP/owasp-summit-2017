@@ -3,6 +3,7 @@ layout: blocks/working-session
 title: NodeGoat
 type: workshop
 track: project-summit
+status: done
 ---
 
 Organizer: [Kim Carter](../Participants/Kim-Carter.html)

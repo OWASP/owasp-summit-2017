@@ -4,6 +4,7 @@ title: ZAP
 type: workshop
 track: project-summit
 technology: Java
+status: more-content
 ---
 
 Organizer: [Simon Bennetts](../Participants/Simon-Bennetts.html)

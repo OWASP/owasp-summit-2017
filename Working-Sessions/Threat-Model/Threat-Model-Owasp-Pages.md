@@ -3,6 +3,7 @@ layout: blocks/working-session
 title: Threat Model Owasp Pages
 type: workshop
 track: Threat Modeling
+status: draft
 ---
 
 - Rework OWASP threat modeling page and create subpages on threat modeling methodologies that exist w/ details and artifacts
