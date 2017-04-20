@@ -4,6 +4,7 @@
             .col-xs-0
             .col-xs-12
                 h1 Featured Working Sessions
+                p Here are this week's Featured Working Sessions.
             .col-xs-0
         .row
             .col-xs-0
@@ -22,7 +23,8 @@
         .row
             .col-xs-0
             .col-xs-12
-                h1 Other Working Sessions
+                h1 Working Sessions
+                p Here are the other Working Sessions that we will occur at the Summit which have reached a good level of thinking and maturity (see list of draft Working Sessions below)
             .col-xs-0
 
         .row
@@ -40,6 +42,21 @@
                             | {% else %}
                             .ws-description  {{page.content | strip_html | truncate: 180 }}
                             | {% endif %}
+                    |   {% endif %}
+                    | {% endfor %}
+            .col-xs-0
+
+        .row
+            .col-xs-0
+            .col-xs-12
+                h1 Draft Working Sessions
+                p Here are the working sessions that are currently being worked on, but need more content and help. If you want to be involved please make the changes on GitHub and send a Pull Request with your ideas.
+                p If you feel that there is missing working session that we NEED to have at the Summit, please create it.
+                ul
+                    | {% for page in site.pages %}
+                    |   {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status == 'draft' %}
+                    li
+                        a(href="{{page.url}}") {{page.title | truncate: 45 }}
                     |   {% endif %}
                     | {% endfor %}
             .col-xs-0
