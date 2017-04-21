@@ -9,10 +9,10 @@ mixin participant()
                 | {% endif %}
         .card-block
             a(href='{{page.url}}')
-                p.participant-name {{page.title}}
+                p.participant-name {{ page.title | truncate: 40 }}
                 p.participant-title
                     | {% if page.job-title != null %}
-                    | {{page.job-title}}
+                    | {{page.job-title | truncate: 30}}
                     | {% else %}
                     | ...
                     | {% endif %}

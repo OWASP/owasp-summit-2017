@@ -11,10 +11,10 @@
         <div class="card"><a href="{{page.url}}">
             <div class="card-top">{% if page.image != null %}<img src="{{page.image}}" class="img-fluid"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" class="img-fluid"/>{% endif %}</div></a>
           <div class="card-block"><a href="{{page.url}}">
-              <p class="participant-name">{{page.title}}</p>
+              <p class="participant-name">{{ page.title | truncate: 40 }}</p>
               <p class="participant-title">
                 {% if page.job-title != null %}
-                {{page.job-title}}
+                {{page.job-title | truncate: 30}}
                 {% else %}
                 ...
                 {% endif %}
@@ -32,10 +32,10 @@
         <div class="card"><a href="{{page.url}}">
             <div class="card-top">{% if page.image != null %}<img src="{{page.image}}" class="img-fluid"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" class="img-fluid"/>{% endif %}</div></a>
           <div class="card-block"><a href="{{page.url}}">
-              <p class="participant-name">{{page.title}}</p>
+              <p class="participant-name">{{ page.title | truncate: 40 }}</p>
               <p class="participant-title">
                 {% if page.job-title != null %}
-                {{page.job-title}}
+                {{page.job-title | truncate: 30}}
                 {% else %}
                 ...
                 {% endif %}
