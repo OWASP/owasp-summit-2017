@@ -8,16 +8,16 @@ track        :
 status       : draft
 ---
 
-...intro text...
+Closing the circle
 
 ## Why
 
-...why text...
+This stream is designed to allow members to understand the full data and threat lifecycle, how to manage them and communicate them to all levels, from Board members to Developers.
 
 ## What
 
-...what text...
+Systems, processes, ideas and tips to push this through your company.
 
 ## Who
 
-... who (target audience ...
+Security Architects, CISO and people who are looking at the bigger picture.
