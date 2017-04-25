@@ -1,9 +1,9 @@
 ---
 layout       : blocks/working-session
-title        : title-goes-here
+title        : Threat and Vulnerability Management
 type         : workshop
 owasp-project: no
-organizers   :
+organizers   : Don Gibson
 track        :
 status       : draft
 ---
