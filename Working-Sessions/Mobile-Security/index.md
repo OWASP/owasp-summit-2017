@@ -1,11 +1,12 @@
 ---
-layout     : blocks/track
-title      : Mobile Security
-type       : track
-technology : Mobile
-status     : featured
-description: Working Sessions related to Mobile Security
-organizers : Bernhard Mueller,Sven Schleier
+layout      : blocks/track
+title       : Mobile Security
+type        : track
+technology  : Mobile
+status      : featured
+description : Working Sessions related to Mobile Security
+organizers  : Bernhard Mueller,Sven Schleier
+participants: Bolot Kerimbaev
 ---
 
 
