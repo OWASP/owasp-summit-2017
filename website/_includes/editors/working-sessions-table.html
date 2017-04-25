@@ -17,8 +17,8 @@
     </thead>{% for page in workshops%}
     <tr>
       <td class="text-center">{{ forloop.index }}</td>
-      <td><b>{{ page.title }}</b></td>
-      <td>{{ page.track }}</td>
+      <td><a href="{{page.url}}" target="_blank">{{ page.title }}</a></td>
+      <td><a href="/Working-Sessions/{{ page.track | replace: ' ', '-'}}" target="_blank">{{ page.track }}</a></td>
       <td>{{ page.technology }}</td>
       <td>{{ page.organizers }}</td>
       <td>{{ page.participants }}</td>

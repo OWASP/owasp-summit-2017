@@ -918,6 +918,7 @@
 }
 .participants-table table tr td a {
   padding-left: 5px;
+  font-size: 100%;
 }
 .participants-table table tr td .label {
   padding: 2.5px;

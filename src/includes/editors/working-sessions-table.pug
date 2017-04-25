@@ -37,8 +37,9 @@ mixin actions
         tr
             td.text-center {{ forloop.index }}
             td
-                b {{ page.title }}
-            td {{ page.track }}
+                a(href='{{page.url}}' target='_blank') {{ page.title }}
+            td
+                a(href="/Working-Sessions/{{ page.track | replace: ' ', '-'}}" target='_blank') {{ page.track }}
             td {{ page.technology }}
             td {{ page.organizers }}
             td {{ page.participants }}

@@ -1,9 +1,11 @@
 ---
-layout  : blocks/working-session
-title   : AWS Lambda Security
-type    : workshop
-track   : Tools
-status  : draft
+layout      : blocks/working-session
+title       : AWS Lambda Security
+type        : workshop
+track       : Tools
+status      : draft
+organizers  :
+participants: Dinis Cruz
 ---
 
 _(add details, why, what, who)_

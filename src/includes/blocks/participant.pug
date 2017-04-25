@@ -1,17 +1,24 @@
-h1 {{ page.title }}
-| {% if page.image != null %}
-img.participant(src='{{ page.image }}')
-| {% endif %}
 
-| {{ content }}
-
-h2 contact details
-ul
+mixin add-participations
+    | {% assign user  = page.title  %}
+    h2 Working Sessions Participations
+    ul
+        | {% for page in site.pages %}
+        |   {% if  page.participants contains user or page.organizers contains user %}
+        li
+            a(href="{{page.link}}") {{ page.title }}
+            | {% if page.organizers contains user %}
+            span &#32 (organizing)
+            | {% endif %}
+        |   {% endif %}
+        | {% endfor %}
+mixin add-twitter
     | {% if page.twitter != null %}
     li
         a(href='https://twitter.com/{{ page.twitter }}' target='_blank') Twitter
     | {% endif %}
 
+mixin add-linkedin
     | {% if page.linkedin-company-beta != null %}
     li
         a(href="https://www.linkedin.com/company-beta/{{ page.linkedin-company-beta }}" target="_blank") LinkedIn
@@ -23,10 +30,27 @@ ul
         a(href="https://linkedin.com/in/{{page.linkedin}}" target="_blank") LinkedIn
     | {% endif %}
 
+mixin add-facebook
     | {% if page.facebook != null %}
     li
         a(href="https://facebook.com/{{page.facebook}}" target="_blank") Facebook
     |{% endif %}
+
+
+h1 {{ page.title }}
+| {% if page.image != null %}
+img.participant(src='{{ page.image }}')
+| {% endif %}
+
+| {{ content }}
+
++ add-participations
+
+h2 contact details
+ul
+    + add-twitter
+    + add-linkedin
+    + add-facebook
 br
 hr
 p Back to list of <a href='/website/participants.html'>all Participants</a>

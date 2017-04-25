@@ -1,14 +1,19 @@
 
 <h1>{{ page.title }}</h1>{% if page.image != null %}<img src="{{ page.image }}" class="participant"/>{% endif %}
-{{ content }}
+{{ content }}{% assign user  = page.title  %}
+<h2>Working Sessions Participations</h2>
+<ul>
+  {% for page in site.pages %}
+    {% if  page.participants contains user or page.organizers contains user %}
+  <li><a href="{{page.link}}">{{ page.title }}</a>{% if page.organizers contains user %}<span>&#32 (organizing)</span>{% endif %}</li>  {% endif %}
+  {% endfor %}
+</ul>
 <h2>contact details</h2>
 <ul>{% if page.twitter != null %}
-  <li><a href="https://twitter.com/{{ page.twitter }}" target="_blank">Twitter</a></li>{% endif %}
-  {% if page.linkedin-company-beta != null %}
+  <li><a href="https://twitter.com/{{ page.twitter }}" target="_blank">Twitter</a></li>{% endif %}{% if page.linkedin-company-beta != null %}
   <li><a href="https://www.linkedin.com/company-beta/{{ page.linkedin-company-beta }}" target="_blank">LinkedIn</a></li>{% endif %}
   {% if page.linkedin != null %}
-  <li><a href="https://linkedin.com/in/{{page.linkedin}}" target="_blank">LinkedIn</a></li>{% endif %}
-  {% if page.facebook != null %}
+  <li><a href="https://linkedin.com/in/{{page.linkedin}}" target="_blank">LinkedIn</a></li>{% endif %}{% if page.facebook != null %}
   <li><a href="https://facebook.com/{{page.facebook}}" target="_blank">Facebook</a></li>{% endif %}
 </ul><br/>
 <hr/>
