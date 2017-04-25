@@ -1,8 +1,11 @@
 .working-session
     .container
         h1 {{ page.title }}
-        | {% if page.track != null %}
-        h4 Track: {{ page.track }}
+        h4 {% if page.track      != null %} Track       : {{ page.track      }} {% endif %}
+        h4 {% if page.organizers != null %} Organizer(s): {{ page.organizers }}  {% endif %}
+        | {% if page.owasp-project      %}
+        h4 Part of the &#32
+            a(href='/Working-Sessions/OWASP-Project-Summit.html') OWASP Project Summit
         | {% endif %}
         hr
         | {{ content }}
