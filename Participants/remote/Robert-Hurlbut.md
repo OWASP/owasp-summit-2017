@@ -11,7 +11,7 @@ funded-who : self
 status     : empty
 ---
 
-Robert is an independent software security consultant and trainer. Robert will be working with the [Threat-Modeling session](../Working-Sessions/Threat-Modeling.html) (remotely).
+Robert is an independent software security consultant and trainer. Robert will be working with the [Threat-Model session](../Working-Sessions/Threat-Model/) (remotely).
 
 * Twitter: [@roberthurlbut](https://twitter.com/roberthurlbut)
 * LinkedIn: [roberthurlbut](https://www.linkedin.com/in/roberthurlbut/)
