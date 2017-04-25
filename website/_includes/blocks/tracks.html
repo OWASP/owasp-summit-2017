@@ -1,6 +1,6 @@
 
 <!--.featured-ws.container
--->
+-->{% assign tracks = site.pages | where: 'type', 'track'  %}
 <div class="row">
   <div class="col-xs-0"></div>
   <div class="col-xs-12">
@@ -12,15 +12,12 @@
 <div class="row">
   <div class="col-xs-0"></div>
   <div class="col-xs-12">
-    <div class="row">
-      {% for page in site.pages %}
-        {% if page.title and page.type == 'track' and page.status == 'featured' %}
+    <div class="row">{% for page in tracks %}
       <div class="col-xs-6 col-sm-4">
         <div class="ws-box">
           <div class="ws-title"><a href="{{page.url}}">{{page.title | truncate: 45 }}</a></div>
         </div>
-      </div>  {% endif %}
-      {% endfor %}
+      </div>{% endfor %}
     </div>
   </div>
   <div class="col-xs-0"></div>

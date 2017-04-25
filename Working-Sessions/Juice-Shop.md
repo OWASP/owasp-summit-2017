@@ -1,11 +1,12 @@
 ---
-layout: blocks/working-session
-title: Juice Shop
-type: workshop
-track: project-summit
-organizers: Bjoern Kimminich
-technology: Node
-status: done
+layout      : blocks/working-session
+title       : Juice Shop
+type        : workshop
+track       : project-summit
+organizers  : Bjoern Kimminich
+technology  : Node
+description : OWASP Juice Shop Project is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
+status      : featured
 ---
 
 Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)

@@ -2,7 +2,7 @@
 layout: blocks/working-session
 title: Threat Model Owasp Pages
 type: workshop
-track: Threat Modeling
+track: Threat Model
 status: draft
 ---
 
@@ -12,9 +12,3 @@ status: draft
     - Risk rating methods
   - As SUB-Workshop to refactoring the OWASP TM page, build a complete how to for security centric threat models
   - Using TM methodologies in other phases of the sSDL (e.g. as external pentester)
-
-
-
-----
-Back to [Threat Model Track](index.html)
-

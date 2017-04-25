@@ -1,30 +1,15 @@
 ---
-layout      : blocks/working-session
-title       : Threat Model Track
-type        : workshop
+layout      : blocks/track
+title       : Threat Model
+type        : track
 status      : featured
-description : Purpose of the GA discussion is to discuss goals of workshops and overarching mission behind the Threat Modeling working sessions for the week.  First day will be a longer session and daily session will simply be an hour before break out sessions begin. Key goals for the week are the following
-track       : Threat Modeling
+description : Working Sessions related to Threat Modeling Security
+organizers  : Geoff Hill, Tony UV
 ---
-
-Organizer(s): [Geoff Hill](../../Participants/Geoff-Hill.md), [Tony UV](../../Participants/Tony-UV.md)
 
 ### Summary
 
 Work on multiple Threat Modeling topics and improve existing materials.
-
-### Related Working sessions
-
-* [Threat Modeling Templates](Threat-Modeling-Templates.html)
-* [Lightweight Threat Modeling Process](Lightweight-Threat-Modeling-Process.html)
-* [Threat Model OWASP Pages](Threat-Model-Owasp-Pages.html)
-* [Threat Modeling Cheat Sheet](Threat-Modeling-Cheat-Sheet.html)
-* [Threat Modeling Schema](Threat-Modeling-Schema.html)
-* [Threat Model Daily Meeting](Threat-Model-Daily-Meeting.html)
-
-
-
-
 
 ### Key goals for the week are the following:
 

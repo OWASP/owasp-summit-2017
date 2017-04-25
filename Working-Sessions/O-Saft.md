@@ -1,10 +1,11 @@
 ---
-layout: blocks/working-session
-title: O-Saft
-type: workshop
-track: TBD
-organizers: Achim Hoffmann
-technology: SSL
+layout       : blocks/working-session
+title        : O-Saft
+type         : workshop
+track        : TBD
+organizers   : Achim Hoffmann
+technology   : SSL
+owasp-project: yes
 status: done
 ---
 

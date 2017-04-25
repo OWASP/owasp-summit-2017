@@ -10,8 +10,6 @@ facebook: https://www.facebook.com/seba.deleersnyder
 status: empty
 ---
 
-## Sebastien Deleersnyder
-
 Summit co-organizer
 Organizer and participant of the OWASP SAMM Working Sessions
 Participant in the Threat Modeling Working Sessions

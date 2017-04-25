@@ -2,7 +2,7 @@
 layout: blocks/working-session
 title: Lightweight Threat Modeling Process
 type: workshop
-track: Threat Modeling
+track: Threat Model
 status: draft
 ---
 
@@ -12,8 +12,3 @@ status: draft
 - Build a *application component* library to compliment other libraries(attack, threat, weakness, etc) used as part of threat models
 - Review current threat (not attack) libraries or categorizations (like STRIDE) and build a threat library that encapsulates threats seen today to leverage in app threat models.
 - We need a countermeasure library.  Help build this and define a schema for this.  Leverage other OWASP content ideally (e.g. - cheat sheets, SKF mitigation guidance, etc.)
-
-
-
-----
-Back to [Threat Model Track](index.html)

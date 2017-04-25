@@ -1,22 +1,29 @@
+mixin show-organizer
+    | {% if page.organizers != null %}
+    h4 Organizer(s): {{ page.organizers }}
+    | {% endif %}
+
 mixin show-track
     | {% if page.track      != null %}
     p  Track: &#32
         a(href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}") {{ page.track }}
     | {% endif %}
 
+mixin show-owasp-project
+    | {% if page.owasp-project      %}
+    p Part of the &#32
+        a(href='/Working-Sessions/Project-Summit') OWASP Project Summit
+    | {% endif %}
+
 .working-session
     .container
         h1 {{ page.title }}
-        +show-track
-
-        h4 {% if page.organizers != null %} Organizer(s): {{ page.organizers }}  {% endif %}
-        | {% if page.owasp-project      %}
-        p Part of the &#32
-            a(href='/Working-Sessions/OWASP-Project-Summit.html') OWASP Project Summit
-        | {% endif %}
+        + show-organizer
+        + show-track
+        + show-owasp-project
         hr
         | {{ content }}
         br
         hr
-        p Back to list of <a href='/website/working-sessions.html'>all Working Sessions</a>
+        p Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a>
         p Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>

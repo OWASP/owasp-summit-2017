@@ -1,3 +1,4 @@
+| {% assign tracks_ws = site.pages | where: 'track', page.title  %}
 .working-session
     .container
         h1 {{ page.title }}  (Track)
@@ -5,13 +6,13 @@
         p {{ page.description }}
         h3 Working sessions in this Track
         ul
-            | {% for page in site.pages %} {% if page.track == 'Mobile Security' and page.type == 'workshop'%}
+            | {% for page in tracks_ws %}
             li
                 a(href='{{ page.url }}') {{ page.title }}
-            | {% endif %}{% endfor %}
+            | {% endfor %}
         hr
         | {{ content }}
         br
         hr
-        p Back to list of <a href='/website/working-sessions.html'>all Working Sessions</a>
+        p Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a>
         p Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>

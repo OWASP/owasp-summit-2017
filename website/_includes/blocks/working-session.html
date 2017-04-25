@@ -1,13 +1,13 @@
 
 <div class="working-session">
   <div class="container">
-    <h1>{{ page.title }}</h1>{% if page.track      != null %}
-    <p> Track: &#32<a href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}">{{ page.track }}</a></p>{% endif %}
-    <h4>{% if page.organizers != null %} Organizer(s): {{ page.organizers }}  {% endif %}</h4>{% if page.owasp-project      %}
-    <p>Part of the &#32<a href="/Working-Sessions/OWASP-Project-Summit.html">OWASP Project Summit</a></p>{% endif %}
+    <h1>{{ page.title }}</h1>{% if page.organizers != null %}
+    <h4>Organizer(s): {{ page.organizers }}</h4>{% endif %}{% if page.track      != null %}
+    <p> Track: &#32<a href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}">{{ page.track }}</a></p>{% endif %}{% if page.owasp-project      %}
+    <p>Part of the &#32<a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a></p>{% endif %}
     <hr/>{{ content }}<br/>
     <hr/>
-    <p>Back to list of <a href='/website/working-sessions.html'>all Working Sessions</a></p>
+    <p>Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a></p>
     <p>Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a></p>
   </div>
 </div>
