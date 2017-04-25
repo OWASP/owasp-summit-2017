@@ -1,9 +1,11 @@
 ---
-layout: blocks/working-session
-title: DevSecOps vs SecDevOps
-type: workshop
-track: DevSecOps
-status: done
+layout      : blocks/working-session
+title       : DevSecOps vs SecDevOps
+type        : workshop
+track       : DevSecOps
+status      : done
+organizers  :
+participants:
 ---
 
 Light hearted round table discussion on this very important topic in our community.

@@ -3,9 +3,10 @@ layout       : blocks/working-session
 title        : Threat and Vulnerability Management
 type         : workshop
 owasp-project: no
-organizers   : Don Gibson
-track        :
+track        : DevSecOps
 status       : draft
+organizers   : Don Gibson
+participants:
 ---
 
 Closing the circle
