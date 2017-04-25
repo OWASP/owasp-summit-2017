@@ -1,13 +1,35 @@
 mixin show-organizers
     | {% if page.organizers != null %}
+    | {% assign organizers = page.organizers | split: ',' %}
     b Organizer(s): &#32
-    | {{ page.organizers }}
+    | {% for organizer in organizers %}
+    |   {% assign match = site.pages | where: 'title', organizer %}
+    |   {% if match[0] %}
+    a(href='{{match[0].url}}') {{ match[0].title }}
+    |   {% else %}
+    span {{ organizer }}
+    |   {% endif %}
+    |   {% if forloop.last != true %}
+    span ,
+    |   {% endif %}
+    | {% endfor %}
     | {% endif %}
 
 mixin show-participants
     | {% if page.participants != null %}
+    | {% assign participants = page.participants | split: ',' %}
     b Participants(s): &#32
-    | {{ page.participants }}
+    | {% for participant in participants %}
+    |   {% assign match = site.pages | where: 'title', participant %}
+    |   {% if match[0] %}
+    a(href='{{match[0].url}}') {{ match[0].title }}
+    |   {% else %}
+    span {{ participant }}
+    |   {% endif %}
+    |   {% if forloop.last != true %}
+    span ,
+    |   {% endif %}
+    | {% endfor %}
     | {% endif %}
 
 | {% assign tracks_ws = site.pages | where: 'track', page.title  %}

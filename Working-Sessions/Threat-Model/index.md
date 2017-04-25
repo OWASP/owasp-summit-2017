@@ -4,8 +4,8 @@ title        : Threat Model
 type         : track
 status       : featured
 description  : Working Sessions related to Threat Modeling Security
-organizers   : Geoff Hill, Tony UV
-participants : Dinis Cruz, Robert Hurlbut , Stephen de Vries, Adam Shostack
+organizers   : Geoff Hill,Tony UV
+participants : Dinis Cruz,Robert Hurlbut,Stephen de Vries, Adam Shostack
 ---
 
 ### Summary
