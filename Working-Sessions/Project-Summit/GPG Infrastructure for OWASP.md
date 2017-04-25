@@ -1,10 +1,12 @@
 ---
-layout: blocks/working-session
-title: GPG Infrastructure for OWASP
-type: workshop
-track: OWASP
-organizers: Achim Hoffmann
-status: done
+layout      : blocks/working-session
+title       : GPG Infrastructure for OWASP
+type        : workshop
+track       : Project Summit
+status      : done
+organizers  : Achim Hoffmann
+organizers  : Bjoern Kimminich
+participants:
 ---
 
 ### Objective

@@ -1,12 +1,12 @@
 ---
-layout: blocks/working-session
-title: NodeGoat
-type: workshop
-track: project-summit
-status: done
+layout      : blocks/working-session
+title       : NodeGoat
+type        : workshop
+track       : Project Summit
+status      : done
+organizers  : Kim Carter
+participants:
 ---
-
-Organizer: [Kim Carter](../Participants/Kim-Carter.html)
 
 ### Introduction
 

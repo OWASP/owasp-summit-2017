@@ -1,10 +1,12 @@
 ---
-layout: blocks/working-session
-title: IAM for REST APIs
-type: workshop
-track: project-summit
-technology: REST
-status: done
+layout      : blocks/working-session
+title       : IAM for REST APIs
+type        : workshop
+track       : Project Summit
+technology  : REST
+status      : done
+organizers  :
+participants:
 ---
 
 ### Problem statement

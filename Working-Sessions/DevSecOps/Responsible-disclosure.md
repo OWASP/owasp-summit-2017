@@ -1,8 +1,11 @@
 ---
-layout: blocks/working-session
-title: Responsible Disclosure
-type: workshop
-status: more-content
+layout      : blocks/working-session
+title       : Responsible Disclosure
+type        : workshop
+status      : more-content
+track       : DevSecOps
+organizers  :
+participants:
 ---
 
 Responsible disclosure is a great way to have multiple eyes with different methodologies test your assets.

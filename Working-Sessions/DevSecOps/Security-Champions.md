@@ -1,10 +1,11 @@
 ---
 layout      : blocks/working-session
-title       : CISO
+title       : Security Champions
 type        : workshop
+track       : DevSecOps
 status      : draft
-organizers  : Ante Gulam
-participants: Dinis Cruz
+organizers  :
+participants:
 ---
 
 (add details, why, what, who)

@@ -9,6 +9,8 @@
       <th>name (title)</th>
       <th>track</th>
       <th>technologies</th>
+      <th>organizers</th>
+      <th>participants</th>
       <th># words</th>
       <th>status</th>
       <th>actions</th>
@@ -18,6 +20,8 @@
       <td><b>{{ page.title }}</b></td>
       <td>{{ page.track }}</td>
       <td>{{ page.technology }}</td>
+      <td>{{ page.organizers }}</td>
+      <td>{{ page.participants }}</td>
       <td class="text-center">{{ page.content | strip_html | number_of_words}}</td>
       <td class="text-center">
         {% case page.status %}

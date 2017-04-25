@@ -1,9 +1,11 @@
 ---
-layout: blocks/working-session
-title: Browser Security
-type: workshop
-technology: Browsers
-status: draft
+layout      : blocks/working-session
+title       : Browser Security
+type        : workshop
+technology  : Browsers
+status      : draft
+organizers  :
+participants:
 ---
 
 _(add details, why, what, who)_

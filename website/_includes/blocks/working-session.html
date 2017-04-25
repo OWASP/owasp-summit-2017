@@ -3,7 +3,8 @@
   <div class="container">
     <h1>{{ page.title }}</h1>{% if page.organizers != null %}
     <h4>Organizer(s): {{ page.organizers }}</h4>{% endif %}{% if page.track      != null %}
-    <p> Track: &#32<a href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}">{{ page.track }}</a></p>{% endif %}{% if page.owasp-project      %}
+    <p> Track: &#32<a href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}">{{ page.track }}</a></p>{% endif %}{% if page.participants != null %}<b>Participants(s): &#32</b>{{ page.participants }}
+    {% endif %}{% if page.owasp-project      %}
     <p>Part of the &#32<a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a></p>{% endif %}
     <hr/>{{ content }}<br/>
     <hr/>

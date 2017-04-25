@@ -1,8 +1,9 @@
 ---
-layout: blocks/working-session
-title: NextGen Security Scanners
-type: workshop
-status: done
+layout  : blocks/working-session
+title   : NextGen Security Scanners
+type    : workshop
+track   : Tools
+status  : done
 ---
 
 ### Problem statement

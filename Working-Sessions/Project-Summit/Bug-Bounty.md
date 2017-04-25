@@ -1,9 +1,11 @@
 ---
-layout: blocks/working-session
-title: OWASP Bug Bounty
-type: workshop
-track: project-summit
-status: more-content
+layout       : blocks/working-session
+title        : OWASP Bug Bounty
+type         : workshop
+track        : Project Summit
+status       : more-content
+organizers   :
+participants :
 ---
 
 #### Why

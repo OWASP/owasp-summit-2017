@@ -4,7 +4,7 @@ title        : OWASP Game Security Framework
 type         : workshop
 owasp-project: yes
 organizers   : Daniel Miessler
-track        :
+track        : Project Summit
 status       : needs-content
 ---
 

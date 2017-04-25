@@ -1,13 +1,13 @@
 ---
-layout: blocks/working-session
-title: ZAP
-type: workshop
-track: project-summit
-technology: Java
-status: more-content
+layout      : blocks/working-session
+title       : ZAP
+type        : workshop
+track       : Project Summit
+technology  : Java
+status      : more-content
+organizers  : Simon Bennetts
+participants:
 ---
-
-Organizer: [Simon Bennetts](../Participants/Simon-Bennetts.html)
 
 [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) is one of the world’s most popular free security tools and is probably the best known OWASP project after the Top Ten.
 

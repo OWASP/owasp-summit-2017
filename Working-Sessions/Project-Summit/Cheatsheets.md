@@ -1,9 +1,11 @@
 ---
-layout: blocks/working-session
-title: Cheatsheets
-type: workshop
-track: project-summit
-status: more-content
+layout       : blocks/working-session
+title        : Cheatsheets
+type         : workshop
+track        : Project Summit
+status       : more-content
+organizers   :
+participants :
 ---
 
 * Bring together Cheatsheets creators and users 

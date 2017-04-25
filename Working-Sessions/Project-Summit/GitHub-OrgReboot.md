@@ -1,15 +1,13 @@
 ---
-layout: blocks/working-session
-title: GitHub Organization Reboot
-type: workshop
-track: OWASP
-organizers: Bjoern Kimminich
-status: featured
+layout      : blocks/working-session
+title       : GitHub Organization Reboot
+type        : workshop
+track       : Project Summit
+status      : featured
 description: The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them.
-#status: done
+organizers  : Bjoern Kimminich
+participants:
 ---
-
-Organizer(s): [Bjoern Kimminich](../Participants/Bjoern-Kimminich.html)
 
 > The [OWASP GitHub organization](https://github.com/owasp) hosts some
 > of the foundation's greatest projects. Unfortunately there is lots of

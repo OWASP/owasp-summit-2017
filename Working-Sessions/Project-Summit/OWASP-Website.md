@@ -1,10 +1,11 @@
 ---
-layout: blocks/working-session
-title: OWASP-Website
-track: OWASP
-type: workshop
-track: project-summit
-status: draft
+layout      : blocks/working-session
+title       : OWASP-Website
+type        : workshop
+track       : Project Summit
+status      : draft
+organizers  :
+participants:
 ---
 
 (add details, why, what, who)

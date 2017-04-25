@@ -1,10 +1,11 @@
 ---
-layout      : blocks/track
-title       : Threat Model
-type        : track
-status      : featured
-description : Working Sessions related to Threat Modeling Security
-organizers  : Geoff Hill, Tony UV
+layout       : blocks/track
+title        : Threat Model
+type         : track
+status       : featured
+description  : Working Sessions related to Threat Modeling Security
+organizers   : Geoff Hill, Tony UV
+participants : Dinis Cruz
 ---
 
 ### Summary

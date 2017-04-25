@@ -1,10 +1,10 @@
 ---
-#layout: event-point/workshop
-layout: blocks/working-session
-title: AppSec Tools
-type: workshop
-technology: AWS
-status: draft
+layout    : blocks/working-session
+title     : Best practices in using SAST, DAST, IAST and RASP Tools
+type      : workshop
+track     : Tools
+technology:
+status    : draft
 ---
 
 ### Objective

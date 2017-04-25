@@ -1,8 +1,9 @@
 ---
-layout: blocks/working-session
-title: AWS Lambda Security
-type: workshop
-status: draft
+layout  : blocks/working-session
+title   : AWS Lambda Security
+type    : workshop
+track   : Tools
+status  : draft
 ---
 
 _(add details, why, what, who)_
