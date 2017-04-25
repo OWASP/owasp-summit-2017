@@ -13,11 +13,15 @@ gulp.task 'build', [], shell.task(['jekyll build --incremental'])
 gulp.task 'pug', ()->
     localsObject = {}
 
-    gulp.src('website/src/pug/**/*.pug')
-          .pipe(pug( locals: localsObject, pretty: true))
-          .on('error', notify.onError(message: 'Pug compile error: <%= error.message %>'))
-          .pipe(gulp.dest('website'))
+    pug_Compile = (source_Folder, target_Folder)=>
 
+        gulp.src(source_Folder)
+              .pipe(pug( locals: localsObject, pretty: true))
+              .on('error', notify.onError(message: 'Pug compile error: <%= error.message %>'))
+              .pipe(gulp.dest(target_Folder))
+
+    pug_Compile('src/includes/**/*.pug', 'website/_includes')
+    pug_Compile('src/layouts/**/*.pug' , 'website/_layouts')
 
 gulp.task 'reload-page', ['build'], -> browserSync.reload()
 
@@ -47,8 +51,8 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
     gulp.watch 'website/**/*.html'            , ['reload-page']
     gulp.watch 'website/assets/css/**/*.css'  , ['reload-page']
 
-    gulp.watch('website/src/less/**/*.less'   , ['styles']);
-    gulp.watch('website/src/pug/**/*.pug'     , ['pug']);
+    gulp.watch 'src/less/**/*.less'           , ['styles'     ]
+    gulp.watch 'src/**/*.pug'                 , ['pug'        ]
 
     gulp.watch 'Logistics/**/*.md'            , ['reload-page']
     gulp.watch 'Participants/**/*.md'         , ['reload-page']
