@@ -1,5 +1,5 @@
 ---
 layout   : blocks/page-component
-component: users/tracks.html
+component: blocks/tracks.html
 title    : Working Sessions
 ---

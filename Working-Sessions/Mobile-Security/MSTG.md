@@ -1,10 +1,12 @@
 ---
-layout: blocks/working-session
-title: Mobile Security Testing Guide (MSTG)
-type: workshop
-track: Mobile Security
-owasp-project: yes
-technology: Mobile
+layout          : blocks/working-session
+title           : Mobile Security Testing Guide (MSTG)
+type            : workshop
+track           : Mobile Security
+owasp-project   : yes
+technology      : Mobile
+status          : featured
+description     : During the last few months the Mobile Security Testing Guide has made huge steps forward and several parts of the MSTG have now already a draft version
 ---
 
 During the last few months the Mobile Security Testing Guide has made huge steps forward and several parts of the MSTG have now already a draft version. Please have a look at the [GitBook](https://b-mueller.gitbooks.io/owasp-mobile-security-testing-guide/content/) and the [GitHub repo](https://github.com/OWASP/owasp-mstg).

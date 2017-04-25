@@ -1,0 +1,21 @@
+//.featured-ws
+    .container
+.row
+    .col-xs-0
+    .col-xs-12
+        h1 Tracks
+        p Here are the current Tracks (with multiple Working Sessions)
+    .col-xs-0
+.row
+    .col-xs-0
+    .col-xs-12
+        .row
+            | {% for page in site.pages %}
+            |   {% if page.title and page.type == 'track' and page.status == 'featured' %}
+            .col-xs-6.col-sm-4
+                .ws-box
+                    .ws-title
+                        a(href="{{page.url}}") {{page.title | truncate: 45 }}
+            |   {% endif %}
+            | {% endfor %}
+    .col-xs-0

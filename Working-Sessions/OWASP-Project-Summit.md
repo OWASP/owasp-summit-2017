@@ -2,7 +2,7 @@
 layout: blocks/working-session
 title: OWASP Project Summit
 type: workshop
-track: OWASP Projects
+#track: OWASP Projects
 status: featured
 description: The Summit will contain a number of Working-Sessions focused on OWASP Projects
 #status: done

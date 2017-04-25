@@ -1,10 +1,10 @@
 ---
-layout: blocks/working-session
-title: Threat Model Track
-type: workshop
-status: featured
-description: Purpose of the GA discussion is to discuss goals of workshops and overarching mission behind the Threat Modeling working sessions for the week.  First day will be a longer session and daily session will simply be an hour before break out sessions begin. Key goals for the week are the following
-track: Threat Modeling
+layout      : blocks/working-session
+title       : Threat Model Track
+type        : workshop
+status      : featured
+description : Purpose of the GA discussion is to discuss goals of workshops and overarching mission behind the Threat Modeling working sessions for the week.  First day will be a longer session and daily session will simply be an hour before break out sessions begin. Key goals for the week are the following
+track       : Threat Modeling
 ---
 
 Organizer(s): [Geoff Hill](../../Participants/Geoff-Hill.md), [Tony UV](../../Participants/Tony-UV.md)
