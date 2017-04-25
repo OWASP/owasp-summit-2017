@@ -2,12 +2,13 @@
 <div class="working-session">
   <div class="container">
     <h1>{{ page.title }}  (Track)</h1>
-    <h4>{% if page.organizers != null %} Organizer(s): {{ page.organizers }}  {% endif %}</h4>
     <p>{{ page.description }}</p>
     <h3>Working sessions in this Track</h3>
     <ul>{% for page in tracks_ws %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
-    </ul>
+    </ul>{% if page.organizers != null %}<b>Organizer(s): &#32</b>{{ page.organizers }}
+    {% endif %}<br/>{% if page.participants != null %}<b>Participants(s): &#32</b>{{ page.participants }}
+    {% endif %}
     <hr/>{{ content }}<br/>
     <hr/>
     <p>Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a></p>

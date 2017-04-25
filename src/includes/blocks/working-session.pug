@@ -1,4 +1,4 @@
-mixin show-organizer
+mixin show-organizers
     | {% if page.organizers != null %}
     h4 Organizer(s): {{ page.organizers }}
     | {% endif %}
@@ -18,7 +18,7 @@ mixin show-owasp-project
 .working-session
     .container
         h1 {{ page.title }}
-        + show-organizer
+        + show-organizers
         + show-track
         + show-owasp-project
         hr

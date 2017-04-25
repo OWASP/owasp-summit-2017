@@ -4,6 +4,8 @@ title        : OwaspSAMM
 type         : track
 owasp-project: yes
 description  : Working Sessions related to the Owasp SAMM Project
+organizers   : Sebastien Deleersnyder
+participants : Dinis Cruz
 status       : done
 ---
 

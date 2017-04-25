@@ -1,8 +1,19 @@
+mixin show-organizers
+    | {% if page.organizers != null %}
+    b Organizer(s): &#32
+    | {{ page.organizers }}
+    | {% endif %}
+
+mixin show-participants
+    | {% if page.participants != null %}
+    b Participants(s): &#32
+    | {{ page.participants }}
+    | {% endif %}
+
 | {% assign tracks_ws = site.pages | where: 'track', page.title  %}
 .working-session
     .container
         h1 {{ page.title }}  (Track)
-        h4 {% if page.organizers != null %} Organizer(s): {{ page.organizers }}  {% endif %}
         p {{ page.description }}
         h3 Working sessions in this Track
         ul
@@ -10,6 +21,9 @@
             li
                 a(href='{{ page.url }}') {{ page.title }}
             | {% endfor %}
+        + show-organizers
+        br
+        + show-participants
         hr
         | {{ content }}
         br
