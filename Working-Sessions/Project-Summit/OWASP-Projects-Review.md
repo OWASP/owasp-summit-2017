@@ -4,7 +4,7 @@ title        : OWASP Projects Reviews
 type         : workshop
 track        : Project Summit
 status       : draft
-organizers   : Claudia Casanovas, Johanna Curiel
+organizers   : Claudia Casanovas,Johanna Curiel
 participants :
 ---
 

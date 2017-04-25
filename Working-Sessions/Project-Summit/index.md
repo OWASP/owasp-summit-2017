@@ -4,7 +4,7 @@ title       : Owasp Project's Summit
 type        : track
 description : The Summit will contain a number of Working-Sessions focused on OWASP Projects
 #status     : done
-organizers  : Claudia Casanovas, Johanna Curiel
+organizers  : Claudia Casanovas,Johanna Curiel
 ---
 
 The Summit will contain a number of Working-Sessions focused on OWASP Projects

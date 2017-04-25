@@ -5,7 +5,7 @@ type       : track
 technology : Mobile
 status     : featured
 description: Working Sessions related to Mobile Security
-organizers : Bernhard Mueller, Sven Schleier
+organizers : Bernhard Mueller,Sven Schleier
 ---
 
 
