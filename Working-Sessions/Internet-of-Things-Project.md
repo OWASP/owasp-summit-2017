@@ -1,9 +1,9 @@
 ---
 layout: blocks/working-session
-title: title-goes-here
+title: OWASP Internet of Things Project
 type: workshop
-owasp-project:no
-organizers:
+owasp-project: yes
+organizers: Daniel Miessler
 track:
 status: draft
 ---
