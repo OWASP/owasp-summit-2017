@@ -2,13 +2,16 @@
 layout     : blocks/page-participant
 title      : Robert Hurlbut
 type       : participant-remote
-job-title  : ...
-image      :
-linkedin   :
-twiter     :
+job-title  : Independent Software Security Consultant and Trainer
+image      : https://pbs.twimg.com/profile_images/814591366143610880/CKVLcioK.jpg
+linkedin   : roberthurlbut
+twiter     : roberthurlbut
 facebook   :
 funded-who : self
 status     : empty
 ---
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
+Robert is an independent software security consultant and trainer. Robert will be working with the [Threat-Model session](../Working-Sessions/Threat-Model/) (remotely).
+
+* Twitter: [@roberthurlbut](https://twitter.com/roberthurlbut)
+* LinkedIn: [roberthurlbut](https://www.linkedin.com/in/roberthurlbut/)
