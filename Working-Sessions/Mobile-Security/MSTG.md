@@ -23,6 +23,3 @@ In order to be able to schedule work during the summit and create work groups we
 If you do not have time during the summit but are interested to help, you can start immediately by assigning issues to yourself and creating pull requests. We can potentially also loop you in remotely during the submit.
 
 Let's work on the testing guide and fix mobile application security!
-
-----
-Back to [Mobile Security Track](index.html)

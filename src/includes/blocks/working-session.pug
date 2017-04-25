@@ -1,10 +1,17 @@
+mixin show-track
+    | {% if page.track      != null %}
+    p  Track: &#32
+        a(href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}") {{ page.track }}
+    | {% endif %}
+
 .working-session
     .container
         h1 {{ page.title }}
-        h4 {% if page.track      != null %} Track       : {{ page.track      }} {% endif %}
+        +show-track
+
         h4 {% if page.organizers != null %} Organizer(s): {{ page.organizers }}  {% endif %}
         | {% if page.owasp-project      %}
-        h4 Part of the &#32
+        p Part of the &#32
             a(href='/Working-Sessions/OWASP-Project-Summit.html') OWASP Project Summit
         | {% endif %}
         hr

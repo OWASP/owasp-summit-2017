@@ -10,7 +10,3 @@ status: draft
 
 * Working on MASVS - https://github.com/OWASP/owasp-masvs
 * MASVS Review and Editing
-
-
-----
-Back to [Mobile Security Track](index.html)
