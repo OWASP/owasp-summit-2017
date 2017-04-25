@@ -302,7 +302,7 @@
 @media screen {
   .get-your-ticket .ticket-box {
     padding: 40px;
-    min-height: 455px;
+    min-height: 490px;
   }
   .get-your-ticket .title {
     font-size: 45px;
@@ -332,7 +332,7 @@
 @media (max-width: 950px) {
   .get-your-ticket .ticket-box {
     padding: 30px;
-    min-height: 440px;
+    min-height: 460px;
   }
   .get-your-ticket .title {
     font-size: 43px;
@@ -392,7 +392,7 @@
 @media (max-width: 550px) {
   .get-your-ticket .ticket-box {
     padding: 5px;
-    min-height: 350px;
+    min-height: 385px;
   }
   .get-your-ticket .title {
     font-size: 39px;
