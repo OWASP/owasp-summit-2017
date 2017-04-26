@@ -7,7 +7,7 @@ technology    : Node
 owasp-project : yes
 status        : draft
 organizers    : Dinis Cruz
-participants  :
+participants  : Sebastien Deleersnyder
 ---
 
 See https://github.com/owasp/Maturity-Models for more details on this project

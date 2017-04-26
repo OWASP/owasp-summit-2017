@@ -5,8 +5,7 @@ type        : workshop
 track       : Project Summit
 status      : done
 organizers  : Achim Hoffmann
-organizers  : Bjoern Kimminich
-participants:
+participants: Bjoern Kimminich
 ---
 
 ### Objective
