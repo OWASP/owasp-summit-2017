@@ -4,7 +4,7 @@ title        : Owasp Top 10 2017
 type         : workshop
 owasp-project: yes
 track        : Project Summit
-status       : draft
+status       : improved-content
 organizers   :
 participants :
 ---
