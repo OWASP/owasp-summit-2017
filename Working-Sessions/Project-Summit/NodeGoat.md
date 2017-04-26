@@ -3,8 +3,9 @@ layout      : blocks/working-session
 title       : NodeGoat
 type        : workshop
 track       : Project Summit
-status      : done
+status      : featured
 organizers  : Kim Carter
+description : NodeGoat is a deliberately insecure NodeJS web application maintained by a small collection of OWASP leaders/members, designed to teach web application security and the importance of moving the finding and fixing of defects to within the Development Teams Sprints.
 participants:
 ---
 
