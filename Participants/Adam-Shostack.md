@@ -5,11 +5,12 @@ type           : participant
 time           : ???
 travel-from    : Seattle
 expenses       : owasp
-funded         : no
-flight-cost    : 3000
-ticket-cost    : 3000
-funded-amount  : ????
-required-funds : 4000 (USD)
+funded         : yes
+funded-who     : OWASP Belgium Chapter
+flight-cost    : 2500
+ticket-cost    : 1500
+funded-amount  : 4000
+required-funds : 4000
 job-title      : Consultant
 image          :
 linkedin       : https://www.linkedin.com/in/shostack/
