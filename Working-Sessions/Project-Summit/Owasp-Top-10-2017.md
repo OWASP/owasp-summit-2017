@@ -6,7 +6,7 @@ owasp-project: yes
 track        : Project Summit
 status       : improved-content
 organizers   :
-participants :
+participants : Bjoern Kimminich
 ---
 
 Working Session to collaborate on the implications of the new OWASP Top 10
