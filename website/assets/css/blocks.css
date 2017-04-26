@@ -106,6 +106,38 @@
 }
 
 
+.participants-table {
+  background: #eaeaea;
+  padding: 10px;
+}
+.participants-table h1 a {
+  padding: 20px;
+}
+.participants-table table tr td {
+  padding: 2px;
+}
+.participants-table table tr td img {
+  width: 15px;
+}
+.participants-table table tr td a {
+  padding-left: 5px;
+  font-size: 100%;
+}
+.participants-table table tr td .label {
+  padding: 2.5px;
+}
+.participants-table table th {
+  font-family: 'Oswald';
+  color: #333333;
+  padding: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+
+
+
 @media screen {
   .about-past-summit img {
     padding: 0px;
@@ -901,38 +933,6 @@
 .google-map {
   background-color: #323232;
 }
-
-
-.participants-table {
-  background: #eaeaea;
-  padding: 10px;
-}
-.participants-table h1 a {
-  padding: 20px;
-}
-.participants-table table tr td {
-  padding: 2px;
-}
-.participants-table table tr td img {
-  width: 15px;
-}
-.participants-table table tr td a {
-  padding-left: 5px;
-  font-size: 100%;
-}
-.participants-table table tr td .label {
-  padding: 2.5px;
-}
-.participants-table table th {
-  font-family: 'Oswald';
-  color: #333333;
-  padding: 20px;
-  text-transform: uppercase;
-  text-align: center;
-}
-
-
-
 
 
 body {
