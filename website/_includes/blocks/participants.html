@@ -2,8 +2,9 @@
 <div class="participants">
   <div class="container">
     <h1>Participants</h1>
-    <p><b>This is the current list of Summit attendees.</b></p>
-    <p>To add your name to this repo please fork the repo and use<a href="https://github.com/OWASP/owasp-summit-2017/tree/master/Participants" target="_blank">&#32these pages.</a></p><br/>
+    <p>To add your name to this repo please fork the repo and use<a href="https://github.com/OWASP/owasp-summit-2017/tree/master/Participants" target="_blank">&#32these pages.</a></p>
+    <p>If you want to participate remotely, see <a href='/website/participants-remote.html'>this page</a>.</p>
+    <h4>Current list of Summit attendees</h4><br/>
     <div class="row">
       {% for page in site.pages %}
       {%   if page.title and page.type == 'participant' %}
@@ -24,7 +25,7 @@
       {% endfor %}
     </div>
     <h1>Remote Participants</h1>
-    <p>This is the current list of remote attendees (see the <a href='/website/participants-remote.html'>Remote Participants</a> for more details and instructions on how to register)</p>
+    <p>This is the current list of remote attendees (see the <a href='/website/participants-remote.html'>Remote Participants</a> page for more details and instructions on how to register)</p>
     <div class="row">
       {% for page in site.pages %}
       {%   if page.title and page.type == 'participant-remote' %}

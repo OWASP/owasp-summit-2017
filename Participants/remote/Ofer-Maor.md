@@ -1,13 +1,13 @@
 ---
-layout: blocks/page-participant
-title: Ofer Maor
-type: participant
+layout   : blocks/page-participant
+title    : Ofer Maor
+type     : participant-remote
 job-title:
-image: 
-linkedin:
-twitter:
-facebook:
-status: empty
+image    :
+linkedin :
+twitter  :
+facebook :
+status   : empty
 ---
 
 ## Ofer Maor
