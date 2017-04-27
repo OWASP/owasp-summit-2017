@@ -3,7 +3,7 @@ layout      : blocks/working-session
 title       : DevSecOps vs SecDevOps
 type        : workshop
 track       : DevSecOps
-status      : done
+status      : need-organizer
 organizers  :
 participants:
 ---

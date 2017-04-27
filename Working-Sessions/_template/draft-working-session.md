@@ -6,6 +6,7 @@ owasp-project: no
 organizers   :
 track        :
 status       : draft
+participants :
 ---
 
 ...intro text...
