@@ -13,5 +13,3 @@ status: empty
 ## Tony UV
 
 _(add info, links, blogs, twitter, bio, what would like to see at the summit)_
-
-Top help organizing the [Threat Model Workshop](../Working-Sessions/Threat-Model.md)

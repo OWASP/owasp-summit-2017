@@ -1,8 +1,8 @@
 
 <div class="participants">
-  <div class="container">
-    <h1>Remote Participants</h1>
-    <p>This is the current list of remote attendees (who will participate via Google Hangouts)</p>
+  <div class="container">{{ content }}
+    <hr/>
+    <h4>Current list of remote participants</h4>
     <div class="row">
       {% for page in site.pages %}
       {%   if page.title and page.type == 'participant-remote' %}
