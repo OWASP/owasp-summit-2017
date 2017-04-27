@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : DGPR and DPO AppSec implications
+title        : GDPR and DPO AppSec implications
 type         : workshop
 track        : DevSecOps
 status       : need-organizer
@@ -11,7 +11,7 @@ participants : Dinis Cruz
 
 ## Why
 
-GDRP is a major EU Regulation which will affect every company that does business with the EU (which is just about every major company worldwide)
+GDPR is a major EU Regulation which will affect every company that does business with the EU (which is just about every major company worldwide)
 
 Part of GDPR is the role or DPO (Data Protection Officer), a wider definition of PII data (like IP Addresses) and the need to report breaches/incidents within a short time period.
 
