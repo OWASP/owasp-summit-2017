@@ -23,6 +23,7 @@ hot topics that need further discussion and debated.
 - Is this new version too much 'tool-vendor driven' or does it strike a good balance?
 - What is the impact for companies and tool vendors?
 - What is the best way to use this new version?
+- List areas where the Top 10 should be used, and explicitly list where it shouldn't
 
 - .... What else should it be covered in these Working Session?....
 
