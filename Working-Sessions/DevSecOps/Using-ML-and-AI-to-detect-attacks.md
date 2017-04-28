@@ -4,7 +4,7 @@ title        : Using ML and AI to detect Attacks
 type         : workshop
 owasp-project: no
 organizers   :
-track        :
+track        : DevSecOps
 status       : draft
 participants :
 ---
