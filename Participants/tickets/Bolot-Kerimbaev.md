@@ -8,7 +8,7 @@ linkedin   :
 twiter     : bolot
 facebook   :
 funded-who : self
-status     : empty
+status     : done
 ---
 
 I'm the author of the upcoming Big Nerd Ranch Android Security for Developers course.
