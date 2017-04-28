@@ -3,9 +3,10 @@ layout       : blocks/working-session
 title        : Draft SAMM2 - the "DevOps release"
 type         : workshop
 owasp-project: no
-organizers   : Sebastien Deleersnyder
 track        : OwaspSAMM
 status       : draft
+organizers   : Sebastien Deleersnyder
+participants : Marc Rimbau
 ---
 
 Draft SAMM2, the "DevOps release"

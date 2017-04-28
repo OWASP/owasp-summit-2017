@@ -6,7 +6,7 @@ track       : Project Summit
 technology  : Java
 status      : more-content
 organizers  : Simon Bennetts
-participants:
+participants: Marc Rimbau
 ---
 
 [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) is one of the world’s most popular free security tools and is probably the best known OWASP project after the Top Ten.

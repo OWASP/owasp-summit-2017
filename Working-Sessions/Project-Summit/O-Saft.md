@@ -8,7 +8,7 @@ technology   : SSL
 owasp-project: yes
 status       : done
 organizers   :
-participants :
+participants : Marc Rimbau
 ---
 
 [OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related konfigurations, behaviours and vulnerabilities.

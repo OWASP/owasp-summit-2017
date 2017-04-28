@@ -1,11 +1,13 @@
 ---
-layout: blocks/working-session
-title: Mobile Application Security Verification Standard (MASVS)
-type: workshop
-track: Mobile Security
+layout       : blocks/working-session
+title        : Mobile Application Security Verification Standard (MASVS)
+type         : workshop
+track        : Mobile Security
 owasp-project: yes
-technology: Mobile
-status: draft
+technology   : Mobile
+status       : draft
+organizers   :
+participants : Marc Rimbau
 ---
 
 * Working on MASVS - https://github.com/OWASP/owasp-masvs

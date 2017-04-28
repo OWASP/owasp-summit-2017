@@ -5,7 +5,7 @@ type        : workshop
 track       : Project Summit
 status      : done
 organizers  : Ade Yoseman Putra
-participants:
+participants: Marc Rimbau
 ---
 
 ### Problem statement

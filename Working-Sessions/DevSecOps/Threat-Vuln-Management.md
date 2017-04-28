@@ -6,7 +6,7 @@ owasp-project: no
 track        : DevSecOps
 status       : draft
 organizers   : Don Gibson
-participants : Francois Raynaud,Dinis Cruz
+participants : Francois Raynaud,Dinis Cruz,Marc Rimbau
 ---
 
 Closing the circle

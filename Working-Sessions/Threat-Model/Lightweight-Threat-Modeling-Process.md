@@ -1,9 +1,11 @@
 ---
-layout: blocks/working-session
-title: Lightweight Threat Modeling Process
-type: workshop
-track: Threat Model
-status: draft
+layout      : blocks/working-session
+title       : Lightweight Threat Modeling Process
+type        : workshop
+track       : Threat Model
+status      : draft
+organizers  :
+participants: Marc Rimbau
 ---
 
 - Build a lightweight threat modeling process with artifacts (e.g. - RACI, DFDs, etc.) for Agile and/or DevOps environments

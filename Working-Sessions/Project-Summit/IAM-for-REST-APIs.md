@@ -6,7 +6,7 @@ track       : Project Summit
 technology  : REST
 status      : done
 organizers  :
-participants:
+participants: Marc Rimbau,Dinis Cruz
 ---
 
 ### Problem statement

@@ -5,7 +5,7 @@ type    : workshop
 track   : Tools
 status  : done
 organizers  :
-participants: Bjoern Kimminich
+participants: Bjoern Kimminich,Marc Rimbau
 ---
 
 ### Problem statement

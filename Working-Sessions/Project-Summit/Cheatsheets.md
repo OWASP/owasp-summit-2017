@@ -5,7 +5,7 @@ type         : workshop
 track        : Project Summit
 status       : more-content
 organizers   :
-participants :
+participants : Marc Rimbau
 ---
 
 * Bring together Cheatsheets creators and users 

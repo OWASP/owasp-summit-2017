@@ -1,10 +1,12 @@
 ---
-layout    : blocks/working-session
-title     : Best practices in using SAST, DAST, IAST and RASP Tools
-type      : workshop
-track     : Tools
-technology:
-status    : draft
+layout      : blocks/working-session
+title       : Best practices in using SAST, DAST, IAST and RASP Tools
+type        : workshop
+track       : Tools
+technology  :
+status      : draft
+organizers  :
+participants: Marc Rimbau
 ---
 
 ### Objective
