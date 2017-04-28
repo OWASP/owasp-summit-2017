@@ -24,8 +24,7 @@ hot topics that need further discussion and debated.
 - What is the impact for companies and tool vendors?
 - What is the best way to use this new version?
 - List areas where the Top 10 should be used, and explicitly list where it shouldn't
-
-- .... What else should it be covered in these Working Session?....
+- _.... What else should it be covered in this Working Session?...._
 
 ## Who
 
