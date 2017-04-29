@@ -38,7 +38,7 @@ mixin show-track
     | {% endif %}
 
 mixin show-owasp-project
-    | {% if page.owasp-project      %}
+    | {% if page.owasp-project and page.track != 'Project Summit' %}
     p Part of the &#32
         a(href='/Working-Sessions/Project-Summit') OWASP Project Summit
     | {% endif %}

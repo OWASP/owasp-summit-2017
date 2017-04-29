@@ -16,7 +16,7 @@
       {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span>{{ participant }}</span>  {% endif %}
       {% if forloop.last != true %}<span>,</span>  {% endif %}
     {% endfor %}
-    {% endif %}{% if page.owasp-project      %}
+    {% endif %}{% if page.owasp-project and page.track != 'Project Summit' %}
     <p>Part of the &#32<a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a></p>{% endif %}
     <hr/>{{ content }}<br/>
     <hr/>
