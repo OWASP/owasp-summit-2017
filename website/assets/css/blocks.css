@@ -935,7 +935,11 @@
   text-align: center;
 }
 .participants-table table .large-column {
-  min-width: 100px;
+  min-width: 120px;
+}
+.participants-table textarea {
+  width: 100%;
+  height: 50px;
 }
 
 
