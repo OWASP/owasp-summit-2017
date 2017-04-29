@@ -1,6 +1,7 @@
 ---
 layout      : blocks/page-participant
 title       : Jason Li
+company     : Aspect Security
 type        : participant
 job-title   :
 image       :
@@ -8,7 +9,6 @@ linkedin    :
 twitter     :
 facebook    :
 status      : empty
-funded-who  : Aspect Security
 ticket      : 24h
 ---
 

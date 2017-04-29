@@ -1,7 +1,7 @@
 
 <div class="participants-table">{% assign participants = site.pages | where: 'type', 'participant' %}
   <h1>Participant's Contacts<a href="/pages/for-editors">Back to Editor's pages</a></h1>
-  <p>Here are all participants metadata. Summit Editors should make sure that all all participants have mapped their contact information and content</p>
+  <p>Here are all participants contacts. Summit Editors should make sure that all all participants have mapped their contact information and content</p>
   <table class="table table-striped">
     <thead>
       <th>#</th>
@@ -31,7 +31,13 @@
         {% endfor %}
       </td>
       <td class="text-center"><img src="{{ page.image }}"/></td>
-      <td>{{ page.email }}</td>
+      <td>
+        {% if page.email != null %}
+        {{ page.email }}
+        {% else %}
+        {{ site.data.emails[page.title] }}
+        {% endif %}
+      </td>
       <td><a href="https://twitter/com/{{ page.twitter }}" target="_blank">{{ page.twitter }}</a></td>
       <td><a href="https://twitter/u/{{ page.linkedin }}" target="_blank">{{ page.linkedin }}</a></td>
       <td><a href="https://twitter/com/{{ page.facebook }}" target="_blank">{{ page.facebook }}</a></td>
