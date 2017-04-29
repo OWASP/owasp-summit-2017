@@ -910,14 +910,18 @@
 .participants-table h1 a {
   padding: 20px;
 }
+.participants-table table {
+  font-size: 10px;
+}
 .participants-table table tr td {
+  border-right: 1px dotted #A0A0A0;
   padding: 2px;
 }
 .participants-table table tr td img {
   width: 15px;
 }
 .participants-table table tr td a {
-  padding-left: 5px;
+  padding-left: 3px;
   font-size: 100%;
 }
 .participants-table table tr td .label {
@@ -929,6 +933,9 @@
   padding: 20px;
   text-transform: uppercase;
   text-align: center;
+}
+.participants-table table .large-column {
+  min-width: 100px;
 }
 
 

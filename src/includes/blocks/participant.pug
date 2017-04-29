@@ -13,6 +13,11 @@ mixin add-participations
         |   {% endif %}
         | {% endfor %}
 
+mixin add-email
+    | {% if page.email != null %}
+    li
+        a(href='mailto:{{ page.email }}' target='_blank') Email
+    | {% endif %}
 mixin add-twitter
     | {% if page.twitter != null %}
     li
@@ -54,6 +59,7 @@ img.participant(src='{{ page.image }}')
 
 h2 contact details
 ul
+    + add-email
     + add-website
     + add-twitter
     + add-linkedin

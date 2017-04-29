@@ -2,7 +2,8 @@
 layout   : blocks/page-participant
 title    : Dinis Cruz
 type     : participant
-job-title: CISO PhotoBox Group
+job-title: CISO
+company  : PhotoBox Group
 image    : https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
 email    : dinis.cruz@owasp.org
 linkedin : diniscruz

@@ -13,6 +13,7 @@ funded-amount   : tbd
 required-funds  : 1500
 project-leader  : ????
 chapter-leader  : ????
+owasp-other     : OWASP AppSec Brazil
 image           :
 linkedin        :
 twitter         :
