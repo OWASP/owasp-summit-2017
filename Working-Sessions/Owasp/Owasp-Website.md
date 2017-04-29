@@ -1,6 +1,6 @@
 ---
 layout      : blocks/working-session
-title       : OWASP-Website
+title       : Owasp-Website
 type        : workshop
 track       : Project Summit
 status      : draft

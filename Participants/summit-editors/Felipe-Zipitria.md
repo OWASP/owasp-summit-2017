@@ -15,7 +15,7 @@ role            : Summit-Editor
 chapter-leader  : Uruguay
 job-title       : Uruguay Chapter Leader
 image           : https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
-linkedin        : https://www.linkedin.com/in/felipezipitria/
+linkedin        : felipezipitria
 status          : fix-linkedin
 ---
 
