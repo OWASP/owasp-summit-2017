@@ -7,4 +7,6 @@ image       : https://pbs.twimg.com/profile_images/3572405688/7828b1fa574753d9ff
 linkedin    : talalbasha
 twitter     : talal_basha1982
 facebook    :
+funded-who  : self
+ticket      : 8h - Friday
 ---

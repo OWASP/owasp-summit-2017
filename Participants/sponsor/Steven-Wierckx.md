@@ -7,7 +7,8 @@ image      :
 linkedin   : steven-wierckx-4b133b1a
 twiter     : ihackforfun
 facebook   :
-funded-who : self
+funded-who : sponsor
+ticket     : 24h
 status     : empty
 ---
 
