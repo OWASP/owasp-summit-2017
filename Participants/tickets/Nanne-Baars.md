@@ -1,18 +1,12 @@
 ---
-layout     : blocks/page-participant
-title      : Nanne-Baars
-type       : participant
-job-title  : Developer
-image      : https://raw.githubusercontent.com/nbaars/webgoat-gothenburg/master/nanne-baars.png
-linkedin   : https://nl.linkedin.com/in/nanne-baars-34252b127
-twitter    :
-funded-who : sponsor
-facebook   :
+layout       : blocks/page-participant
+title        : Nanne Baars
+type         : participant
+job-title    : Developer
+image        : https://raw.githubusercontent.com/nbaars/webgoat-gothenburg/master/nanne-baars.png
+linkedin     : nanne-baars-34252b127
+twitter      : OWASP_WebGoat
+funded-who   : sponsor
+owasp-project: WebGoat
+facebook     :
 ---
-
-### Nanne-Baars
-
-* [OWASP WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) Project Leader
-* Twitter: [@OWASP_WebGoat](https://twitter.com/OWASP_WebGoat)
-
-Leading the [WebGoat](../Working-Sessions/WebGoat.md)

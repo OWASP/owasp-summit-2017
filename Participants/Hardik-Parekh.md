@@ -1,7 +1,7 @@
 ---
-layout: blocks/page-participant
-title: Hardik Parekh
-type: participant
+layout          : blocks/page-participant
+title           : Hardik Parekh
+type            : participant
 travel-from     : ????
 expenses        : owasp
 funded          : no
@@ -12,12 +12,13 @@ funded-amount   : ????
 required-funds  : 1500
 project-leader  : ????
 chapter-leader  : ????
-expenses: owasp
-job-title: SSDL Leader
-linkedin: hkparekh
-twitter: 
-facebook:
-status: empty
+owasp-other     : OwaspSAMM contributor
+expenses        : owasp
+job-title       : SSDL Leader
+linkedin        : hkparekh
+twitter         :
+facebook        :
+status          : empty
 ---
 
 [ I am one of the core contributors for OpenSAMM 2.0. I would like to attend OWASP summit so that I can participate in OpenSAMM 2.0 discussions.
