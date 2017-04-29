@@ -9,7 +9,8 @@
   {% endfor %}
 </ul>
 <h2>contact details</h2>
-<ul>{% if page.twitter != null %}
+<ul>{% if page.website != null %}
+  <li><a href="{{page.website}}" target="_blank">Website</a></li>{% endif %}{% if page.twitter != null %}
   <li><a href="https://twitter.com/{{ page.twitter }}" target="_blank">Twitter</a></li>{% endif %}{% if page.linkedin-company-beta != null %}
   <li><a href="https://www.linkedin.com/company-beta/{{ page.linkedin-company-beta }}" target="_blank">LinkedIn</a></li>{% endif %}
   {% if page.linkedin != null %}

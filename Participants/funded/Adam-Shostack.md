@@ -15,7 +15,7 @@ job-title      : Consultant
 image          :
 linkedin       : shostack
 twiter         :
-blog           : https://adam.shostack.org
+website        : https://adam.shostack.org
 status         : done
 ---
 

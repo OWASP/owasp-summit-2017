@@ -12,6 +12,7 @@ mixin add-participations
             | {% endif %}
         |   {% endif %}
         | {% endfor %}
+
 mixin add-twitter
     | {% if page.twitter != null %}
     li
@@ -36,6 +37,11 @@ mixin add-facebook
         a(href="https://facebook.com/{{page.facebook}}" target="_blank") Facebook
     |{% endif %}
 
+mixin add-website
+    | {% if page.website != null %}
+    li
+        a(href="{{page.website}}" target="_blank") Website
+    |{% endif %}
 
 h1 {{ page.title }}
 | {% if page.image != null %}
@@ -48,6 +54,7 @@ img.participant(src='{{ page.image }}')
 
 h2 contact details
 ul
+    + add-website
     + add-twitter
     + add-linkedin
     + add-facebook
