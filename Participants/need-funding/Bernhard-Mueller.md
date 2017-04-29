@@ -1,8 +1,8 @@
 ---
-layout: blocks/page-participant
-title: Bernhard Mueller
-type: participant
-time: vacation
+layout          : blocks/page-participant
+title           : Bernhard Mueller
+type            : participant
+time            : vacation
 travel-from     : ????
 expenses        : owasp
 funded          : no
@@ -13,12 +13,12 @@ funded-amount   : ????
 required-funds  : 1500
 project-leader  : ????
 chapter-leader  : ????
-job-title: Security Researcher
-image: https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
-linkedin: bernhardm
-twitter: muellerberndt
-facebook:
-status: update-role
+job-title       : Security Researcher
+image           : https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
+linkedin        : bernhardm
+twitter         : muellerberndt
+facebook        :
+status          : update-role
 ---
 
 [Sven Schleier](./Sven-Schleier.html) and I would like to do a [Mobile Security workshop](../Working-Sessions/Mobile-Security.html) around the OWASP Mobile Testing Guide Standard and Verification Standard. 
