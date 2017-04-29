@@ -11,7 +11,7 @@ flight-cost     : ????
 ticket-cost     : 1500
 funded-amount   : ????
 required-funds  : 1500
-project-leader  : ????
+project-leader  : O-Saft
 chapter-leader  : ????
 job-title       : O-Saft Project Leader
 image           : 

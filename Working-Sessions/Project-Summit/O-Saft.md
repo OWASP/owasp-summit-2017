@@ -7,7 +7,7 @@ organizers   : Achim Hoffmann
 technology   : SSL
 owasp-project: yes
 status       : done
-organizers   :
+organizers   : Achim Hoffmann
 participants : Marc Rimbau
 ---
 
