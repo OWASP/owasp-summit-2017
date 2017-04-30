@@ -6,7 +6,7 @@ owasp-project: yes
 track        : Project Summit
 status       : improved-content
 organizers   :
-participants : Bjoern Kimminich,Marc Rimbau
+participants : Bjoern Kimminich,Marc Rimbau,Brian Glas
 ---
 
 Working Session to collaborate on the implications of the new OWASP Top 10

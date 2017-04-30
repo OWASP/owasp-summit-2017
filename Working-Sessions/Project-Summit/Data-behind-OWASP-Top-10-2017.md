@@ -7,7 +7,7 @@ track        : Project Summit
 related-to   : Owasp Top 10 2017
 status       : improve-content
 organizers   :
-participants :
+participants : Brian Glas
 ---
 
 Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
