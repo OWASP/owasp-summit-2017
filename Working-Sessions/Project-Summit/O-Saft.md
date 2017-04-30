@@ -4,14 +4,14 @@ title        : O-Saft
 type         : workshop
 track        : Project Summit
 organizers   : Achim Hoffmann
-technology   : SSL
+technology   : TLS
 owasp-project: yes
 status       : done
 organizers   : Achim Hoffmann
 participants : Marc Rimbau
 ---
 
-[OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related konfigurations, behaviours and vulnerabilities.
+[OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related configurations, behaviours and vulnerabilities.
 It's a standalone tool and can be used in closed and very restricted environments.
 
 
