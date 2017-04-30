@@ -6,7 +6,7 @@ owasp-project: no
 track        : OwaspSAMM
 status       : draft
 organizers   : Sebastien Deleersnyder
-participants : Marc Rimbau
+participants : Marc Rimbau,Felipe Zipitria
 ---
 
 Update the SAMM model to take into account Agile and DevOps development and operation practices.
