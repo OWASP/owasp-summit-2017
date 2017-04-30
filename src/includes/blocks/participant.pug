@@ -8,7 +8,7 @@ mixin add-participations
         li
             a(href="{{page.url}}") {{ page.title }}
             | {% if page.organizers contains user %}
-            span &#32 (organizing)
+            span &#32; (organizing)
             | {% endif %}
         |   {% endif %}
         | {% endfor %}
