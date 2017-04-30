@@ -8,14 +8,14 @@
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
     </ul>
     {% if page.organizers != null %}
-    {% assign organizers = page.organizers | split: ',' %}<b>Organizer(s): &#32</b>{% for organizer in organizers %}
+    {% assign organizers = page.organizers | split: ',' %}<b>Organizer(s): &#32;</b>{% for organizer in organizers %}
       {% assign match = site.pages | where: 'title', organizer %}
       {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span>{{ organizer }}</span>  {% endif %}
       {% if forloop.last != true %}<span>,</span>  {% endif %}
     {% endfor %}
     {% endif %}<br/>
     {% if page.participants != null %}
-    {% assign participants = page.participants | split: ',' %}<b>Participants(s): &#32</b>{% for participant in participants %}
+    {% assign participants = page.participants | split: ',' %}<b>Participants(s): &#32;</b>{% for participant in participants %}
       {% assign match = site.pages | where: 'title', participant %}
       {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span>{{ participant }}</span>  {% endif %}
       {% if forloop.last != true %}<span>,</span>  {% endif %}

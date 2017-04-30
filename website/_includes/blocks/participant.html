@@ -5,7 +5,7 @@
 <ul>
   {% for page in site.pages %}
     {% if  page.participants contains user or page.organizers contains user %}
-  <li><a href="{{page.url}}">{{ page.title }}</a>{% if page.organizers contains user %}<span>&#32 (organizing)</span>{% endif %}</li>  {% endif %}
+  <li><a href="{{page.url}}">{{ page.title }}</a>{% if page.organizers contains user %}<span>&#32; (organizing)</span>{% endif %}</li>  {% endif %}
   {% endfor %}
 </ul>
 <h2>contact details</h2>
