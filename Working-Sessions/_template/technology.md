@@ -1,8 +1,7 @@
 ---
-layout       : blocks/track
+layout       : blocks/technology
 title        : ....
 type         : technology
-technology   :
 description  : ....
 organizers   : ....
 participants :
