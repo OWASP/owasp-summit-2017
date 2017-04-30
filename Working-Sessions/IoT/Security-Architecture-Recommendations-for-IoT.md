@@ -1,12 +1,12 @@
 ---
 layout       : blocks/working-session
-title        : OWASP Internet of Things Project
+title        : Security Architecture Recommendations for IoT
 type         : workshop
-owasp-project: yes
-track        : Project Summit
-status       : draft
+owasp-project: no
 technology   : IoT
-organizers   : Daniel Miessler
+track        :
+status       : draft
+organizers   :
 participants :
 ---
 

@@ -32,3 +32,7 @@ Analyse the problem of secure administration of IoT devices and propose solution
  - risk managers
  - cryptographers
  - PKI enthusiasts.
+
+## References and Comments
+
+ - _"TLS is a poor suggestion for IoT, and I personally wouldn't advise creating recommendations toward using it. Better recs in near future."_ - see [twitter thread](https://twitter.com/DonAndrewBailey/status/858719418813120512) for more comments

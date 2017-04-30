@@ -96,10 +96,10 @@ mixin show-email-list
         a(href='/pages/for-editors') Back to Editor's pages
 
     | {% assign participants = site.pages | where: 'expenses', 'owasp'  %}
-    | {% assign emails       = "" %}
-    | {% assign total_amount = 0    %}
-    | {% assign index        = 0    %}
-    | {% assign funded       = true %}
+    | {% assign emails       = ""    %}
+    | {% assign total_amount = 0     %}
+    | {% assign index        = 0     %}
+    | {% assign funded       = false %}
 
     h3 Participants that need funding
     table.table.table-striped.text-center
@@ -114,10 +114,11 @@ mixin show-email-list
 
     + show-emails
 
+    | {% assign emails       = ""    %}
     | {% assign total_amount = 0     %}
     | {% assign index        = 0     %}
-    | {% assign funded       = false %}
-    | {% assign emails       = ""    %}
+    | {% assign funded       = true  %}
+
 
     h3 Participants currently funded
     table.table.table-striped.text-center
