@@ -1,7 +1,7 @@
 ---
 layout       : blocks/technology
 title        : Node
-type         : workshop
+type         : technology
 technology   :
 description  : 
 organizers   :

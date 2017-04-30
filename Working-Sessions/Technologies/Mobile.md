@@ -1,9 +1,9 @@
 ---
 layout       : blocks/technology
-title        : SOC
+title        : Mobile
 type         : technology
 technology   :
-description  : SOC (Security Operations Center) is a key part of the Security capabilities.
+description  :
 organizers   :
 participants :
 ---

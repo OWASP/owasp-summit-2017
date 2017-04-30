@@ -19,8 +19,17 @@
       <td><a href="{{page.url}}" target="_blank">{{ page.title }}</a></td>
       <td><a href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}" target="_blank">edit</a></td>
       <td><a href="/Working-Sessions/{{ page.track | replace: ' ', '-'}}" target="_blank">{{ page.track }}</a></td>
-      <td>{{ page.technology }}</td>
-      <td>{{ page.organizers }}</td>
+      <td>
+        {% if page.technology != null %}
+          {% assign technologies = page.technology | split: ',' %}
+          {% for technology in technologies %}
+          {% assign match = site.pages | where: 'title', technology %}
+          {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span class="no-technology">{{ technology }}</span>  {% endif %}
+          {% if forloop.last != true %}<span>,</span>  {% endif %}
+          {% endfor %}
+        {% endif %}
+      </td>
+      <td class="no-technology">{{ page.organizers }}</td>
       <td>{{ page.participants }}</td>
       <td class="text-center">{{ page.content | strip_html | number_of_words}}</td>
       <td class="text-center">

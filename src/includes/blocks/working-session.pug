@@ -64,11 +64,12 @@ mixin show-owasp-project
 .working-session
     .container
         h1 {{ page.title }}
-        + show-track
-        + show-technology
-        + show-organizers
-        + show-participants
-        + show-owasp-project
+        .ws-metadata
+            + show-track
+            + show-technology
+            + show-organizers
+            + show-participants
+            + show-owasp-project
         hr
         | {{ content }}
         br

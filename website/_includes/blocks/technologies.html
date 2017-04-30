@@ -1,0 +1,21 @@
+
+<!--.featured-ws.container
+-->{% assign technologies = site.pages | where: 'type', 'technology'  %}
+<div class="row">
+  <div class="col-xs-0"></div>
+  <div class="col-xs-12">
+    <h2>Technology Tracks</h2>
+  </div>
+  <div class="col-xs-0"></div>
+</div>
+<div class="row">
+  <div class="col-xs-0"></div>
+  <div class="col-xs-12">
+    <div class="row">
+      <ul>{% for technology in technologies %}
+        <li><a href="{{technology.url}}">{{technology.title }}</a></li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="col-xs-0"></div>
+</div>
