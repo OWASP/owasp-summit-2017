@@ -3,9 +3,9 @@ mixin participant()
         a(href='{{page.url}}')
             .card-top
                 | {% if page.image != null %}
-                img.img-fluid(src='{{page.image}}')
+                img.img-fluid(src='{{page.image}}' alt='{{page.title | truncate: 40}}')
                 | {% else %}
-                img.img-fluid(src='/website/assets/img/blocks/400x400.png')
+                img.img-fluid(src='/website/assets/img/blocks/400x400.png' alt='400x400 placeholder')
                 | {% endif %}
         .card-block
             a(href='{{page.url}}')

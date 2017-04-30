@@ -30,7 +30,7 @@
     {% assign index        = index        | plus: 1                  %}
     <tr>
       <td>{{ index }}</td>
-      <td class="text-left large-column"><a href="page.url">{{ page.title     }}</a></td>
+      <td class="text-left large-column"><a href="{{page.url}}">{{ page.title     }}</a></td>
       <td> {{ page.project-leader     }}</td>
       <td> {{ page.chapter-leader     }}</td>
       <td> {{ page.time               }}</td>
@@ -109,7 +109,7 @@
     {% assign index        = index        | plus: 1                  %}
     <tr>
       <td>{{ index }}</td>
-      <td class="text-left large-column"><a href="page.url">{{ page.title     }}</a></td>
+      <td class="text-left large-column"><a href="{{page.url}}">{{ page.title     }}</a></td>
       <td> {{ page.project-leader     }}</td>
       <td> {{ page.chapter-leader     }}</td>
       <td> {{ page.time               }}</td>
