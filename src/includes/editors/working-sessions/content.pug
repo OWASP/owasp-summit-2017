@@ -1,0 +1,45 @@
+mixin status
+    | {% case page.status %}
+    | {% when 'draft' %}
+    .label.label-primary {{ page.status }}
+    | {% when 'done' %}
+    .label.label-success done
+    | {% when 'empty' %}
+    .label.label-danger empty
+    | {% else %}
+    .label.label-warning {{ page.status }}
+    | {% endcase %}
+
+mixin actions
+    a(href='{{ page.url }}' target='_blank') view
+    a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+
+
+.participants-table
+    | {% assign workshops = site.pages | where: 'type', 'workshop' %}
+
+    h1 Working Session's - Content
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p Here are all Working Sessions content. Summit editors should make sure each Working Session has a good description of his current industry profile and areas that they want to focus at the Summit
+
+    table.table.table-striped
+        thead
+            th name (title)
+            th actions
+            th status
+            th content
+
+
+        | {% for page in workshops %}
+        tr
+            td
+                h3 {{ page.title }}
+            td
+                +actions
+            td
+                +status
+            td {{ page.content }}
+
+
+        | {% endfor %}

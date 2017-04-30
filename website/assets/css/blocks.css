@@ -902,6 +902,9 @@
   background-color: #323232;
 }
 
+.working-session .ws-metadata p {
+  margin: 0px;
+}
 
 .participants-table {
   background: #eaeaea;
@@ -926,6 +929,9 @@
 }
 .participants-table table tr td .label {
   padding: 2.5px;
+}
+.participants-table table tr td .no-technology {
+  color: red;
 }
 .participants-table table th {
   font-family: 'Oswald';

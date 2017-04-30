@@ -1,36 +1,54 @@
 mixin show-organizers
     | {% if page.organizers != null %}
     | {% assign organizers = page.organizers | split: ',' %}
-    b Organizer(s): &#32
-    | {% for organizer in organizers %}
-    |   {% assign match = site.pages | where: 'title', organizer %}
-    |   {% if match[0] %}
-    a(href='{{match[0].url}}') {{ match[0].title }}
-    |   {% else %}
-    span {{ organizer }}
-    |   {% endif %}
-    |   {% if forloop.last != true %}
-    span ,
-    |   {% endif %}
-    | {% endfor %}
-    | {% endif %}
+    p Organizer(s): &#32
+        | {% for organizer in organizers %}
+        |   {% assign match = site.pages | where: 'title', organizer %}
+        |   {% if match[0] %}
+        a(href='{{match[0].url}}') {{ match[0].title }}
+        |   {% else %}
+        span {{ organizer }}
+        |   {% endif %}
+        |   {% if forloop.last != true %}
+        span ,
+        |   {% endif %}
+        | {% endfor %}
+        | {% endif %}
 
 mixin show-participants
     | {% if page.participants != null %}
     | {% assign participants = page.participants | split: ',' %}
-    b Participants(s): &#32
-    | {% for participant in participants %}
-    |   {% assign match = site.pages | where: 'title', participant %}
-    |   {% if match[0] %}
-    a(href='{{match[0].url}}') {{ match[0].title }}
-    |   {% else %}
-    span {{ participant }}
-    |   {% endif %}
-    |   {% if forloop.last != true %}
-    span ,
-    |   {% endif %}
-    | {% endfor %}
+    p Participants(s): &#32
+        | {% for participant in participants %}
+        |   {% assign match = site.pages | where: 'title', participant %}
+        |   {% if match[0] %}
+        a(href='{{match[0].url}}') {{ match[0].title }}
+        |   {% else %}
+        span {{ participant }}
+        |   {% endif %}
+        |   {% if forloop.last != true %}
+        span ,
+        |   {% endif %}
+        | {% endfor %}
+        | {% endif %}
+
+mixin show-technology
+    | {% if page.technology != null %}
+    | {% assign technologies = page.technology | split: ',' %}
+    p Technology: &#32
+        | {% for technology in technologies %}
+        |   {% assign match = site.pages | where: 'title', technology %}
+        |   {% if match[0] %}
+        a(href='{{match[0].url}}') {{ match[0].title }}
+        |   {% else %}
+        span  {{ technology }}
+        |   {% endif %}
+        |   {% if forloop.last != true %}
+        span ,
+        |   {% endif %}
+        | {% endfor %}
     | {% endif %}
+
 mixin show-track
     | {% if page.track      != null %}
     p  Track: &#32
@@ -46,10 +64,12 @@ mixin show-owasp-project
 .working-session
     .container
         h1 {{ page.title }}
-        + show-organizers
-        + show-track
-        + show-participants
-        + show-owasp-project
+        .ws-metadata
+            + show-track
+            + show-technology
+            + show-organizers
+            + show-participants
+            + show-owasp-project
         hr
         | {{ content }}
         br
