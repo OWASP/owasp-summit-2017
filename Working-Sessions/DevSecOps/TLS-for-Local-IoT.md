@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : SSL for Local IoT
+title        : TLS for Local IoT
 type         : workshop
 owasp-project: no
 track        : DevSecOps
@@ -24,4 +24,11 @@ Analyse the problem of secure administration of IoT devices and propose solution
 
 ## Who
 
-IoT: vendors, security consultants, security architects, penetration testers, risk managers, cryptographers, PKI enthusiasts.
+ - IoT:
+   - vendors,
+   - security consultants,
+   - security architects
+ - penetration testers
+ - risk managers
+ - cryptographers
+ - PKI enthusiasts.
