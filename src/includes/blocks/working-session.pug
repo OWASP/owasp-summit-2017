@@ -1,7 +1,7 @@
 mixin show-organizers
     | {% if page.organizers != null %}
     | {% assign organizers = page.organizers | split: ',' %}
-    p Organizer(s): &#32
+    p Organizer(s): &#32;
         | {% for organizer in organizers %}
         |   {% assign match = site.pages | where: 'title', organizer %}
         |   {% if match[0] %}
@@ -18,7 +18,7 @@ mixin show-organizers
 mixin show-participants
     | {% if page.participants != null %}
     | {% assign participants = page.participants | split: ',' %}
-    p Participants(s): &#32
+    p Participants(s): &#32;
         | {% for participant in participants %}
         |   {% assign match = site.pages | where: 'title', participant %}
         |   {% if match[0] %}
@@ -35,7 +35,7 @@ mixin show-participants
 mixin show-technology
     | {% if page.technology != null %}
     | {% assign technologies = page.technology | split: ',' %}
-    p Technology: &#32
+    p Technology: &#32;
         | {% for technology in technologies %}
         |   {% assign match = site.pages | where: 'title', technology %}
         |   {% if match[0] %}
@@ -51,13 +51,13 @@ mixin show-technology
 
 mixin show-track
     | {% if page.track      != null %}
-    p  Track: &#32
+    p Track: &#32;
         a(href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}") {{ page.track }}
     | {% endif %}
 
 mixin show-owasp-project
     | {% if page.owasp-project and page.track != 'Project Summit' %}
-    p Part of the &#32
+    p Part of the &#32;
         a(href='/Working-Sessions/Project-Summit') OWASP Project Summit
     | {% endif %}
 
