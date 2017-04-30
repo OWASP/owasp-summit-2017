@@ -6,7 +6,7 @@ track       : Tools
 technology  :
 status      : draft
 organizers  :
-participants: Marc Rimbau
+participants: Marc Rimbau,Felipe Zipitria
 ---
 
 ### Objective

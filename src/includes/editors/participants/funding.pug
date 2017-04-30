@@ -26,7 +26,7 @@ mixin table-row
     tr
         td {{ index }}
         td.text-left.large-column
-            a(href='page.url') {{ page.title     }}
+            a(href='{{page.url}}') {{ page.title     }}
         td  {{ page.project-leader     }}
         td  {{ page.chapter-leader     }}
         td  {{ page.time               }}

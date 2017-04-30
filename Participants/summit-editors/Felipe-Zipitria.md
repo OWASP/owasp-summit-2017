@@ -14,7 +14,7 @@ required-funds  : 2500
 role            : Summit-Editor
 chapter-leader  : Uruguay
 job-title       : Uruguay Chapter Leader
-image           : https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
+image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
 linkedin        : felipezipitria
 status          : fix-linkedin
 ---
