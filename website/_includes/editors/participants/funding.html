@@ -1,10 +1,10 @@
 
 <div class="participants-table">
   <h1>Participant's Funding<a href="/pages/for-editors">Back to Editor's pages</a></h1>{% assign participants = site.pages | where: 'expenses', 'owasp'  %}
-  {% assign emails       = "" %}
-  {% assign total_amount = 0    %}
-  {% assign index        = 0    %}
-  {% assign funded       = true %}
+  {% assign emails       = ""    %}
+  {% assign total_amount = 0     %}
+  {% assign index        = 0     %}
+  {% assign funded       = false %}
   <h3>Participants that need funding</h3>
   <table class="table table-striped text-center">
     <thead>
@@ -79,10 +79,10 @@
       </td>{% endif %}
     </tr>
   </table>{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% assign total_amount = 0     %}
+  <textarea>{{emails}}</textarea>{% endif %}{% assign emails       = ""    %}
+  {% assign total_amount = 0     %}
   {% assign index        = 0     %}
-  {% assign funded       = false %}
-  {% assign emails       = ""    %}
+  {% assign funded       = true  %}
   <h3>Participants currently funded</h3>
   <table class="table table-striped text-center">
     <thead>
