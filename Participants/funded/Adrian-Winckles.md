@@ -27,8 +27,8 @@ This is due to funding for me to go to AppSec Europe 2017 in Belfast in May with
 
 What I would also like to propose is two ideas for Working-Sessions/Themes
 
- - [Software-Defined-Everything-(SDx)](../Working-Sessions/Software-Defined-Everything-(SDx).html)
- - [Application Security BSc/Masters Curriculum Design)](../Working-Sessions/AppSec-BSc-Masters-Curriculum-Design.html)
+ - [Software-Defined-Everything-(SDx)](/Working-Sessions/Education/Software-Defined-Everything-(SDx).html)
+ - [Application Security BSc/Masters Curriculum Design)](/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html)
  
 
 #### OWASP Contributions

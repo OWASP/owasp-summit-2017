@@ -10,7 +10,7 @@ facebook: TutamanticSec
 status: empty
 ---
 
-Top help organizing the [Threat Model Workshop](../Working-Sessions/Threat-Model.html)
+Top help organizing the [Threat Model Workshop](/Working-Sessions/Threat-Model/)
 
 email: geoff.hill@tutamantic.com
 mobile: 07 858 955 963

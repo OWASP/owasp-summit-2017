@@ -24,5 +24,5 @@ I would like to attend OWASP Summit, to get into the environment and discuss a n
 
 I need flights and accommodation provided by OWASP as my company which is a startup won't sponsor the trip
 
-* [LinkedIn](in.linkedin.com/in/akshaysharmamsclis)
+* [LinkedIn](//in.linkedin.com/in/akshaysharmamsclis)
 * [OWASP Chapter](https://www.owasp.org/index.php/Bhopal)
