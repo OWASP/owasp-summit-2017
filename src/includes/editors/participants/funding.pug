@@ -97,28 +97,10 @@ mixin show-email-list
 
     | {% assign participants = site.pages | where: 'expenses', 'owasp'  %}
     | {% assign emails       = "" %}
-    h3 Participants currently funded
     | {% assign total_amount = 0    %}
     | {% assign index        = 0    %}
     | {% assign funded       = true %}
-    table.table.table-striped.text-center
-        + table-header
-        | {% for page in participants %}
-        |   {% if page.funded  == true %}
-        + table-row
-        + add-email
-        |   {% endif  %}
-        | {% endfor %}
-        + total_amount
 
-    + show-emails
-
-
-    hr
-    | {% assign total_amount = 0 %}
-    | {% assign index        = 0 %}
-    | {% assign funded       = false %}
-    | {% assign emails       = "" %}
     h3 Participants that need funding
     table.table.table-striped.text-center
         +table-header
@@ -131,6 +113,25 @@ mixin show-email-list
         +total_amount
 
     + show-emails
+
+    | {% assign total_amount = 0     %}
+    | {% assign index        = 0     %}
+    | {% assign funded       = false %}
+    | {% assign emails       = ""    %}
+
+    h3 Participants currently funded
+    table.table.table-striped.text-center
+        + table-header
+        | {% for page in participants %}
+        |   {% if page.funded  == true %}
+        + table-row
+        + add-email
+        |   {% endif  %}
+        | {% endfor %}
+        + total_amount
+
+    + show-emails
+
 
 
     | {% if jekyll.environment == 'development' %}
