@@ -1,7 +1,7 @@
 mixin show-organizers
     | {% if page.organizers != null %}
     | {% assign organizers = page.organizers | split: ',' %}
-    b Organizer(s): &#32
+    b Organizer(s): &#32;
     | {% for organizer in organizers %}
     |   {% assign match = site.pages | where: 'title', organizer %}
     |   {% if match[0] %}
@@ -18,7 +18,7 @@ mixin show-organizers
 mixin show-participants
     | {% if page.participants != null %}
     | {% assign participants = page.participants | split: ',' %}
-    b Participants(s): &#32
+    b Participants(s): &#32;
     | {% for participant in participants %}
     |   {% assign match = site.pages | where: 'title', participant %}
     |   {% if match[0] %}

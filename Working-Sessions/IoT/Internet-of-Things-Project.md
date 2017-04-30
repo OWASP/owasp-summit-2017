@@ -14,7 +14,7 @@ The OWASP Internet of Things Project is designed to help manufacturers, develope
 
 The project looks to define a structure for various IoT sub-projects such as Attack Surface Areas, Testing Guides and Top Vulnerabilities.
 
-<img src='https://www.owasp.org/images/thumb/d/d6/Iot-project.png/800px-Iot-project.png' style='width:380px'/>
+<img src='https://www.owasp.org/images/thumb/d/d6/Iot-project.png/800px-Iot-project.png' style='width:380px' alt='Iot project'/>
 
 ### Resources from Owasp.org
 - [IoT Attack Surface Areas](https://www.owasp.org/index.php/IoT_Attack_Surface_Areas)

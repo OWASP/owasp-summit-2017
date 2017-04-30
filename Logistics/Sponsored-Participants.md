@@ -29,4 +29,4 @@ If you are interested in going to the Summit and need support, add your name to 
 
 ### Funding rounds
 
-* the Summit Organization team decided to allocated $20k USD to the concept of 'Summit Editors' (the $20k USD are from [sponsors](../new/sponsors.html) funds)
+* the Summit Organization team decided to allocated $20k USD to the concept of 'Summit Editors' (the $20k USD are from [sponsors](../website/sponsors.html) funds)

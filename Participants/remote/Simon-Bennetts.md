@@ -8,7 +8,7 @@ linkedin    : psiinon
 twitter     : psiinon
 ---
 
-Simon is the [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) Project Leader and will be running the [ZAP session](../Working-Sessions/ZAP.html) (remotely).
+Simon is the [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) Project Leader and will be running the [ZAP session](/Working-Sessions/Project-Summit/ZAP.html) (remotely).
 
 * Twitter: [@psiinon](https://twitter.com/psiinon)
 * LinkedIn: [psiinon](https://www.linkedin.com/in/psiinon/)
