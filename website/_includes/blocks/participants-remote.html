@@ -8,7 +8,7 @@
       {%   if page.title and page.type == 'participant-remote' %}
       <div class="col-xs-4 col-sm-2">
         <div class="card"><a href="{{page.url}}">
-            <div class="card-top">{% if page.image != null %}<img src="{{page.image}}" class="img-fluid"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" class="img-fluid"/>{% endif %}</div></a>
+            <div class="card-top">{% if page.image != null %}<img src="{{page.image}}" alt="{{page.title | truncate: 40}}" class="img-fluid"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" alt="400x400 placeholder" class="img-fluid"/>{% endif %}</div></a>
           <div class="card-block"><a href="{{page.url}}">
               <p class="participant-name">{{ page.title | truncate: 40 }}</p>
               <p class="participant-title">
