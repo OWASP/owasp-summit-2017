@@ -6,7 +6,7 @@ owasp-project: no
 track        : DevSecOps
 status       : draft
 organizers   : kevsheldrake
-technology   : TLS
+technology   : TLS,IoT
 participants :
 ---
 
