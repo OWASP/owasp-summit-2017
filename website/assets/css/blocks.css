@@ -902,6 +902,9 @@
   background-color: #323232;
 }
 
+.working-session p {
+  margin: 0px;
+}
 
 .participants-table {
   background: #eaeaea;

@@ -1,0 +1,68 @@
+mixin show-working-sessions
+    | {% if page.organizers != null %}
+    | {% assign asd = page.organizers | split: ',' %}
+    b Organizer(s): &#32
+    | {% for organizer in organizers %}
+    |   {% assign match = site.pages | where: 'title', organizer %}
+    |   {% if match[0] %}
+    a(href='{{match[0].url}}') {{ match[0].title }}
+    |   {% else %}
+    span {{ organizer }}
+    |   {% endif %}
+    |   {% if forloop.last != true %}
+    span ,
+    |   {% endif %}
+    | {% endfor %}
+    | {% endif %}
+
+mixin show-participants
+    | {% if page.participants != null %}
+    | {% assign participants = page.participants | split: ',' %}
+    b Participants(s): &#32
+    | {% for participant in participants %}
+    |   {% assign match = site.pages | where: 'title', participant %}
+    |   {% if match[0] %}
+    a(href='{{match[0].url}}') {{ match[0].title }}
+    |   {% else %}
+    span {{ participant }}
+    |   {% endif %}
+    |   {% if forloop.last != true %}
+    span ,
+    |   {% endif %}
+    | {% endfor %}
+    | {% endif %}
+
+| {% assign working-sessions = site.pages | where: 'type', 'workshop'  %}
+.working-session
+    .container
+        h1 {{ page.title }}  (Technology)
+        p {{ page.description }}
+        h3 Working Sessions related to {{ page.title }}
+        ul
+            | {% for working-session in working-sessions %}
+            |   {% if working-session.technology != null %}
+            |     {% assign technologies = working-session.technology | split: ',' %}
+            |     {% for technology in technologies %}
+            |       {% if technology == page.title %}
+            li
+                a(href='{{ working-session.url }}') {{ working-session.title }}
+            |       {% endif %}
+            |     {% endfor %}
+            |   {% endif %}
+            | {% endfor %}
+
+        //h3 Working sessions related to this technology
+        ul
+            | {% for page in tracks_ws %}
+            li
+                a(href='{{ page.url }}') {{ page.title }}
+            | {% endfor %}
+        + show-working-sessions
+        br
+        //+ show-participants
+        hr
+        | {{ content }}
+        br
+        hr
+        p Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a>
+        p Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>

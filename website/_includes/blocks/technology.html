@@ -1,0 +1,35 @@
+{% assign working-sessions = site.pages | where: 'type', 'workshop'  %}
+<div class="working-session">
+  <div class="container">
+    <h1>{{ page.title }}  (Technology)</h1>
+    <p>{{ page.description }}</p>
+    <h3>Working Sessions related to {{ page.title }}</h3>
+    <ul>
+      {% for working-session in working-sessions %}
+        {% if working-session.technology != null %}
+          {% assign technologies = working-session.technology | split: ',' %}
+          {% for technology in technologies %}
+            {% if technology == page.title %}
+      <li><a href="{{ working-session.url }}">{{ working-session.title }}</a></li>      {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <!--h3 Working sessions related to this technology-->
+    <ul>{% for page in tracks_ws %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+    </ul>
+    {% if page.organizers != null %}
+    {% assign asd = page.organizers | split: ',' %}<b>Organizer(s): &#32</b>{% for organizer in organizers %}
+      {% assign match = site.pages | where: 'title', organizer %}
+      {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span>{{ organizer }}</span>  {% endif %}
+      {% if forloop.last != true %}<span>,</span>  {% endif %}
+    {% endfor %}
+    {% endif %}<br/>
+    <!--+ show-participants-->
+    <hr/>{{ content }}<br/>
+    <hr/>
+    <p>Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a></p>
+    <p>Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a></p>
+  </div>
+</div>

@@ -7,7 +7,7 @@ technology   : Java
 status       : more-content
 track        : Project Summit
 owasp-project: yes
-organizers   :
+organizers   : Steve Springett
 participants :
 ---
 
