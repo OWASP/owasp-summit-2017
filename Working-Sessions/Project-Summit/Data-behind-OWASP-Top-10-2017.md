@@ -46,7 +46,3 @@ _(in order resources where found)_
  - [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/behind-the-the-owasp-top-10-2017-rc1-df43236f79ff)
  - [OWASP Top 10 A7 Controversy](https://twitter.com/i/moments/856939400772673543) (twitter moment)
  - [Musings on the OWASP Top 10 2017 RC1](https://nvisium.com/blog/2017/04/18/musings-on-the-owasp-top-10-2017-rc1)
-
-## Related Working Session(s)
-
- - [OWASP TOP 10 2017](/Working-Sessions/Project-Summit/Owasp-Top-10-2017.html)

@@ -1,11 +1,10 @@
 
 <div class="participants-table">
-  <h1>Participant's Funding<a href="/pages/for-editors">Back to Editor's pages</a></h1>{% assign participants = site.pages | where: 'expenses', 'owasp'  %}
-  {% assign emails       = ""    %}
+  <h1>Participant's Funding<a href="/pages/for-editors">Back to Editor's pages</a></h1>
+  <h3>Participants that need funding</h3>{% assign participants = site.pages | where: 'expenses', 'owasp' | where_exp: 'item', 'item.funded != true' %}
+  {% assign funded       = false %}
   {% assign total_amount = 0     %}
   {% assign index        = 0     %}
-  {% assign funded       = false %}
-  <h3>Participants that need funding</h3>
   <table class="table table-striped text-center">
     <thead>
       <th>#</th>
@@ -22,7 +21,6 @@
       <th>Who funded</th>{% endif %}
       <th>(subtotal)</th>
     </thead>{% for page in participants %}
-      {% if page.funded  != true %}
     {% if funded  == true %}
       {% assign total_amount = total_amount | plus: page.funded-amount %}
     {% else %}
@@ -42,18 +40,7 @@
       <td>${{ page.funded-amount      }}</td>
       <td class="large-column"> {{ page.funded-who         }}</td>{% endif %}
       <td>${{ total_amount            }}</td>
-    </tr>
-    {% if jekyll.environment == 'development' %}
-      {% if page.email != null %}
-          {% assign emails = emails | append: page.email %}
-      {% else %}
-          {% assign emails = emails | append: site.data.emails[page.title] %}
-      {% endif %}
-      {% if forloop.last != true %}
-          {% assign emails = emails | append: ' , ' %}
-      {% endif %}
-    {% endif %}  {% endif %}
-    {% endfor %}
+    </tr>{% endfor %}
     <tr>
       <td></td>
       <td></td>
@@ -78,11 +65,10 @@
         <h5>${{ total_amount }}</h5>
       </td>{% endif %}
     </tr>
-  </table>{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% assign emails       = ""    %}
+  </table>{% assign participants = site.pages | where: 'expenses', 'owasp' | where_exp: 'item', 'item.funded == true' %}
+  {% assign funded       = true  %}
   {% assign total_amount = 0     %}
   {% assign index        = 0     %}
-  {% assign funded       = true  %}
   <h3>Participants currently funded</h3>
   <table class="table table-striped text-center">
     <thead>
@@ -100,7 +86,6 @@
       <th>Who funded</th>{% endif %}
       <th>(subtotal)</th>
     </thead>{% for page in participants %}
-      {% if page.funded  == true %}
     {% if funded  == true %}
       {% assign total_amount = total_amount | plus: page.funded-amount %}
     {% else %}
@@ -120,18 +105,7 @@
       <td>${{ page.funded-amount      }}</td>
       <td class="large-column"> {{ page.funded-who         }}</td>{% endif %}
       <td>${{ total_amount            }}</td>
-    </tr>
-    {% if jekyll.environment == 'development' %}
-      {% if page.email != null %}
-          {% assign emails = emails | append: page.email %}
-      {% else %}
-          {% assign emails = emails | append: site.data.emails[page.title] %}
-      {% endif %}
-      {% if forloop.last != true %}
-          {% assign emails = emails | append: ' , ' %}
-      {% endif %}
-    {% endif %}  {% endif  %}
-    {% endfor %}
+    </tr>{% endfor %}
     <tr>
       <td></td>
       <td></td>
@@ -156,46 +130,5 @@
         <h5>${{ total_amount }}</h5>
       </td>{% endif %}
     </tr>
-  </table>{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% if jekyll.environment == 'development' %}
-  <h1>Other Email's Lists</h1>{% assign list-title  = "All Participants" %}
-  {% assign list-pages  = site.pages | where: 'type', 'participant' %}{% assign emails       = "" %}
-  <h3>{{ list-title }}</h3>{% for page in list-pages %}
-  {% if jekyll.environment == 'development' %}
-    {% if page.email != null %}
-        {% assign emails = emails | append: page.email %}
-    {% else %}
-        {% assign emails = emails | append: site.data.emails[page.title] %}
-    {% endif %}
-    {% if forloop.last != true %}
-        {% assign emails = emails | append: ' , ' %}
-    {% endif %}
-  {% endif %}{% endfor %}{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% assign list-title  = "All Participants (remote)" %}
-  {% assign list-pages  = site.pages | where: 'type', 'participant-remote' %}{% assign emails       = "" %}
-  <h3>{{ list-title }}</h3>{% for page in list-pages %}
-  {% if jekyll.environment == 'development' %}
-    {% if page.email != null %}
-        {% assign emails = emails | append: page.email %}
-    {% else %}
-        {% assign emails = emails | append: site.data.emails[page.title] %}
-    {% endif %}
-    {% if forloop.last != true %}
-        {% assign emails = emails | append: ' , ' %}
-    {% endif %}
-  {% endif %}{% endfor %}{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% assign list-title  = "Summit Editors" %}
-  {% assign list-pages  = site.pages | where: 'role', 'Summit-Editor' %}{% assign emails       = "" %}
-  <h3>{{ list-title }}</h3>{% for page in list-pages %}
-  {% if jekyll.environment == 'development' %}
-    {% if page.email != null %}
-        {% assign emails = emails | append: page.email %}
-    {% else %}
-        {% assign emails = emails | append: site.data.emails[page.title] %}
-    {% endif %}
-    {% if forloop.last != true %}
-        {% assign emails = emails | append: ' , ' %}
-    {% endif %}
-  {% endif %}{% endfor %}{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% endif %}
+  </table>
 </div>

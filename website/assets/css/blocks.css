@@ -933,6 +933,9 @@
 .participants-table table tr td .no-technology {
   color: red;
 }
+.participants-table table tr td li {
+  list-style: none;
+}
 .participants-table table th {
   font-family: 'Oswald';
   color: #333333;

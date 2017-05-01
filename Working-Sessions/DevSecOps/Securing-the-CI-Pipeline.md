@@ -1,17 +1,17 @@
 ---
 layout       : blocks/working-session
-title        : title-goes-here
+title        : Securing the CI Pipeline
 type         : workshop
 owasp-project: no
-track        :
-technology   :
-related-to   :
+track        : DevSecOps
+technology   : CI
+related-to   : Integrating Security Tools in the SDL
 status       : draft
 participants :
 organizers   :
 ---
 
-...intro text...
+A key element of DevOps is the securing of the CI Pipeline.
 
 ## Why
 

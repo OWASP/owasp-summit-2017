@@ -1,7 +1,8 @@
 
 <div class="participants-table">
-  <h1>Email's lists...<a href="/pages/for-editors">Back to Editor's pages</a></h1>{% assign participants = site.pages | where: 'expenses', 'owasp'  %}
-  {% assign list-title  = "Participants that need funding" %}
+  <h1>Email's lists<a href="/pages/for-editors">Back to Editor's pages</a></h1>
+  <p>Multiple email lists of participants (to help email communications)</p>{% assign participants = site.pages | where: 'expenses', 'owasp'  %}
+  {% assign list-title  = "Need funding" %}
   {% assign list-pages  = participants | where_exp: 'item', 'item.funded != true' %}{% assign emails       = "" %}
   <h3>{{ list-title }}</h3>{% for page in list-pages %}
   {% if jekyll.environment == 'development' %}
@@ -13,8 +14,8 @@
     {% if forloop.last != true %}
         {% assign emails = emails | append: ' , ' %}
     {% endif %}
-  {% endif %}{% endfor %}{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% assign list-title  = "Participants currently funded" %}
+  {% endif %}{% endfor %}<b>{{ emails | split: ',' | size }} participants</b>
+  <textarea>{{emails}}</textarea>{% assign list-title  = "Currently funded (by owasp)" %}
   {% assign list-pages  = participants | where: 'funded', 'true' %}{% assign emails       = "" %}
   <h3>{{ list-title }}</h3>{% for page in list-pages %}
   {% if jekyll.environment == 'development' %}
@@ -26,8 +27,8 @@
     {% if forloop.last != true %}
         {% assign emails = emails | append: ' , ' %}
     {% endif %}
-  {% endif %}{% endfor %}{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% assign list-title  = "All Participants" %}
+  {% endif %}{% endfor %}<b>{{ emails | split: ',' | size }} participants</b>
+  <textarea>{{emails}}</textarea>{% assign list-title  = "All Participants" %}
   {% assign list-pages  = site.pages | where: 'type', 'participant' %}{% assign emails       = "" %}
   <h3>{{ list-title }}</h3>{% for page in list-pages %}
   {% if jekyll.environment == 'development' %}
@@ -39,8 +40,8 @@
     {% if forloop.last != true %}
         {% assign emails = emails | append: ' , ' %}
     {% endif %}
-  {% endif %}{% endfor %}{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% assign list-title  = "All Participants (remote)" %}
+  {% endif %}{% endfor %}<b>{{ emails | split: ',' | size }} participants</b>
+  <textarea>{{emails}}</textarea>{% assign list-title  = "All Participants (remote)" %}
   {% assign list-pages  = site.pages | where: 'type', 'participant-remote' %}{% assign emails       = "" %}
   <h3>{{ list-title }}</h3>{% for page in list-pages %}
   {% if jekyll.environment == 'development' %}
@@ -52,8 +53,8 @@
     {% if forloop.last != true %}
         {% assign emails = emails | append: ' , ' %}
     {% endif %}
-  {% endif %}{% endfor %}{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}{% assign list-title  = "Summit Editors" %}
+  {% endif %}{% endfor %}<b>{{ emails | split: ',' | size }} participants</b>
+  <textarea>{{emails}}</textarea>{% assign list-title  = "Summit Editors" %}
   {% assign list-pages  = site.pages | where: 'role', 'Summit-Editor' %}{% assign emails       = "" %}
   <h3>{{ list-title }}</h3>{% for page in list-pages %}
   {% if jekyll.environment == 'development' %}
@@ -65,6 +66,6 @@
     {% if forloop.last != true %}
         {% assign emails = emails | append: ' , ' %}
     {% endif %}
-  {% endif %}{% endfor %}{% if jekyll.environment == 'development' %}
-  <textarea>{{emails}}</textarea>{% endif %}
+  {% endif %}{% endfor %}<b>{{ emails | split: ',' | size }} participants</b>
+  <textarea>{{emails}}</textarea>
 </div>
