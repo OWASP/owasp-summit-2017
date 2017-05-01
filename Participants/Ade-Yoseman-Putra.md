@@ -12,7 +12,7 @@ ticket-cost     : 1500
 funded-amount   : 2000
 required-funds  : 2500
 job-title       : Jakarta Chapter Leader & Owasp Risk Rating Management Project Leader
-email:ade.putra@owasp.org
+email           : ade.putra@owasp.org
 twitter         : OwaspJakarta
 status          : broken-links
 ---
