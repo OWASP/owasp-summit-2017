@@ -6,7 +6,7 @@ owasp-project: no
 track        : Project Summit
 related-to   : Owasp Top 10 2017
 status       : improve-content
-organizers   :
+organizers   : Dave Wichers
 participants : Brian Glas
 ---
 

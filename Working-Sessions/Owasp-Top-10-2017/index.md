@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: yes
 track        : Project Summit
 status       : improved-content
-organizers   :
+organizers   : Dave Wichers
 participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria
 ---
 
