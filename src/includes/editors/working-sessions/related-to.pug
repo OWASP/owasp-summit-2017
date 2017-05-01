@@ -53,10 +53,13 @@ mixin add-related-to
 .participants-table
     | {% assign workshops = site.pages | where: 'type', 'workshop' %}
 
-    h1 Working Session's - Metadata
+    h1 Working Session's - Related to
         a(href='/pages/for-editors') Back to Editor's pages
 
-    p Here are all Working Session's metadata. Summit Editors should make sure that all all Working Sessions have mapped their contact information and content
+    p Here are all Working Session's related to mappings.
+    p.
+        This is a key factor in making the navigation between tracks and Working sessions to happen as smooth as possible
+        (and to allow Working Sessions to be 'discovered' via serendipity)
     table.table.table-striped
         thead
             th #
