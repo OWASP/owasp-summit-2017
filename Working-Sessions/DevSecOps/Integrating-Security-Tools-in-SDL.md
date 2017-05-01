@@ -5,7 +5,7 @@ type          : workshop
 owasp-project : no
 track         : DevSecOps
 technology    :
-related-to    : A comparison of strength and weaknesses of specific FOSS tools;
+related-to    : A comparison of strength and weaknesses of specific FOSS tools
 status        : draft
 participants  :
 organizers    :

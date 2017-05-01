@@ -2,9 +2,10 @@
 layout       : blocks/working-session
 title        : GDPR and DPO AppSec implications
 type         : workshop
-track        : DevSecOps
-status       : need-organizer
+track        : CISO
 technology   : GDPR
+related-to   :
+status       : need-organizer
 organizers   :
 participants : Dinis Cruz
 ---

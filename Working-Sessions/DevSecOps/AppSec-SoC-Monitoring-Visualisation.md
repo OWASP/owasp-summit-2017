@@ -4,6 +4,7 @@ title        : AppSec SOC Monitoring Visualisation
 type         : workshop
 track        : DevSecOps
 technology   : SOC,GDPR
+related-to   : CISO
 status       : need-organizer
 organizers   :
 participants : Dinis Cruz

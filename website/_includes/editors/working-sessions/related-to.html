@@ -43,9 +43,9 @@
         {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
         {% assign related-to = page.related-to    %}
         {%  for working-session in match  %}
-              {% assign related-to = related-to | append: ";" | append: working-session.title %}
+              {% assign related-to = related-to | append: "," | append: working-session.title %}
         {%  endfor                        %}
-        {% assign working-sessions = related-to  | split: ';' %}
+        {% assign working-sessions = related-to  | split: ',' %}
         {% for working-session in working-sessions  %}
         {%     if working-session != ''    %}
         {%         assign match = site.pages | where: 'title', working-session %}

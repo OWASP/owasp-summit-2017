@@ -3,10 +3,6 @@
   <div class="container">
     <h1>{{ page.title }}  (Track)</h1>
     <p>{{ page.description }}</p>
-    <h3>Working sessions in this Track</h3>
-    <ul>{% for page in tracks_ws %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
-    </ul>
     {% if page.organizers != null %}
     {% assign organizers = page.organizers | split: ',' %}<b>Organizer(s): &#32;</b>{% for organizer in organizers %}
       {% assign match = site.pages | where: 'title', organizer %}
@@ -21,7 +17,28 @@
       {% if forloop.last != true %}<span>,</span>  {% endif %}
     {% endfor %}
     {% endif %}
-    <hr/>{{ content }}<br/>
+    <h3>Working sessions in this Track</h3>
+    <ul>{% for page in tracks_ws %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+    </ul>
+    {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
+    {% assign related-to = page.related-to    %}
+    {%  for working-session in match  %}
+          {% assign related-to = related-to | append: "," | append: working-session.title %}
+    {%    endfor                      %}
+    {% if related-to != null %}
+    <h3>Related Working Session(s)</h3>
+    <ul>
+      {%    assign working-sessions = related-to | split: ',' %}
+      {%    for working-session in working-sessions  %}
+      {%        if working-session != ''    %}
+      {%            assign match = site.pages | where: 'title', working-session %}
+      {%            if match[0]             %}
+      <li><a href="{{match[0].url}}">{{ match[0].title }}</a></li>{%            else                    %}
+      <li> {{ working-session }}</li>{%            endif                   %}
+      {%        endif                       %}
+      {%    endfor                          %}
+    </ul>{% endif                                  %}{{ content }}<br/>
     <hr/>
     <p>Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a></p>
     <p>Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a></p>
