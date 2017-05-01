@@ -15,6 +15,7 @@ project-leader  : ????
 chapter-leader  : ????
 job-title: CISO
 image: 
+email           : yan.kravchenko@owasp.org
 linkedin:
 twitter: yanfosec
 facebook:
