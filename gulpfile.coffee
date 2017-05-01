@@ -41,7 +41,7 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
         open           : false                     # use to not open a new browser window every time we start gulp
         logConnections : true
         #logLevel       : 'debug'
-        startPath      : '/new/about.html'         # first page that loads up
+        startPath      : '/website/'         # first page that loads up
         server         : baseDir: '_site/'
 
     # gulp.watch 'new/**/*.md'                  , ['reload-page']

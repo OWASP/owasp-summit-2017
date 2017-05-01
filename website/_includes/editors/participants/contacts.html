@@ -14,7 +14,7 @@
       <th>linkedin</th>
       <th>facebook</th>
       <th>website</th>
-    </thead>{% for page in participants%}
+    </thead>{% for page in participants %}
     <tr>
       <td class="text-center">{{ forloop.index }}</td>
       <td><a href="{{ page.url }}" target="_blank">{{ page.title }}</a></td>
@@ -38,9 +38,9 @@
         {{ site.data.emails[page.title] }}
         {% endif %}
       </td>
-      <td><a href="https://twitter/com/{{ page.twitter }}" target="_blank">{{ page.twitter }}</a></td>
-      <td><a href="https://twitter/u/{{ page.linkedin }}" target="_blank">{{ page.linkedin }}</a></td>
-      <td><a href="https://twitter/com/{{ page.facebook }}" target="_blank">{{ page.facebook }}</a></td>
+      <td><a href="https://twitter.com/{{ page.twitter }}" target="_blank">{{ page.twitter }}</a></td>
+      <td><a href="https://www.linkedin.com/in/{{ page.linkedin }}" target="_blank">{{ page.linkedin }}</a></td>
+      <td><a href="https://facebook.com/{{ page.facebook }}" target="_blank">{{ page.facebook }}</a></td>
       <td><a href="{{ page.website }}" target="_blank">{{ page.website }}</a></td>
     </tr>{% endfor %}
   </table>

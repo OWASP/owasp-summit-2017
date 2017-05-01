@@ -39,7 +39,7 @@ mixin email
             th linkedin
             th facebook
             th website
-        | {% for page in participants%}
+        | {% for page in participants %}
         tr
             td.text-center {{ forloop.index }}
             td
@@ -54,11 +54,11 @@ mixin email
             td
                 + email
             td
-                a(href='https://twitter/com/{{ page.twitter }}' target='_blank') {{ page.twitter }}
+                a(href='https://twitter.com/{{ page.twitter }}' target='_blank') {{ page.twitter }}
             td
-                a(href='https://twitter/u/{{ page.linkedin }}' target='_blank') {{ page.linkedin }}
+                a(href='https://www.linkedin.com/in/{{ page.linkedin }}' target='_blank') {{ page.linkedin }}
             td
-                a(href='https://twitter/com/{{ page.facebook }}' target='_blank') {{ page.facebook }}
+                a(href='https://facebook.com/{{ page.facebook }}' target='_blank') {{ page.facebook }}
             td
                 a(href='{{ page.website }}' target='_blank') {{ page.website }}
 
