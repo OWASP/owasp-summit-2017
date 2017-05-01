@@ -4,13 +4,13 @@ title       : Application Security BSc/Masters Curriculum Design
 type        : workshop
 status      : featured
 track       : Education
-description: Part of OWASP's main purpose is to "Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software" and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next genration as well especially with the acknowledged skill shortage in the whole sector that exists.
+description: Part of OWASP's main purpose is to "Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software" and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next generation as well especially with the acknowledged skill shortage in the whole sector that exists.
 organizers  : Adrian Winckles,Felipe Zipitria
 participants:
 
 ---
 
-Part of OWASP's main purpose is to _"Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software"_ and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next genration as well especially with the acknowledged skill shortage in the whole sector that exists.
+Part of OWASP's main purpose is to _"Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software"_ and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next generation as well especially with the acknowledged skill shortage in the whole sector that exists.
 
 A common problem with many security education programmes (whether we say cyber or infosec) or even traditonal computer science programs is that they do not address application security adequately or in some cases at all.  In some regions there have been the starting motions of trying to address this deficit.  In the Uk for example ISC2 and the BCS are working on an initiative to embed security firmly within the Computer Science curriculum especially secure coding techniques and OWASP (through myself) are slso championing this initiative.
 
