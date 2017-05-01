@@ -4,8 +4,8 @@ title        : Creating AppSec Teams
 type         : workshop
 owasp-project: no
 track        : Education
-technology   : Education
-related-to   : Recruiting AppSec Talent,Security Champions,Creating AppSec Talent,CISO
+technology   :
+related-to   : Recruiting AppSec Talent,Security Champions,CISO
 status       : draft
 organizers   : Dinis Cruz
 participants :

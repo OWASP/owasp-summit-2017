@@ -2,8 +2,8 @@
 layout       : blocks/working-session
 title        : Recruiting AppSec Talent
 type         : workshop
-track        :
-technology   : Education
+track        : Education
+technology   :
 related-to   :
 status       : need-organizer
 participants :

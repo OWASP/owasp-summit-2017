@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: no
 track        : CISO
 technology   :
-related-to   : Cyber Insurance,Creating AppSec Talent (next 100k professionals)
+related-to   : Cyber Insurance,Education
 status       : need-organizer
 participants :
 organizers   :

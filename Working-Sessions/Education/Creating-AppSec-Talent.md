@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: no
 track        : Education
 technology   :
-related-to   : Recruiting AppSec Talent,Security Champions
+related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
 status       : draft
 participants :
 organizers   :
