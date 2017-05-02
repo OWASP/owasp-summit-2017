@@ -10,7 +10,7 @@ organizers   :
 participants :
 ---
 
-"Threat modelling is virtually non existent in IoT." (see this [Twitter threat](https://twitter.com/cybergibbons/status/858746049523052544))
+"Threat modeling is virtually non existent in IoT." (see this [Twitter threat](https://twitter.com/cybergibbons/status/858746049523052544))
 
 > todo: Add details below
 

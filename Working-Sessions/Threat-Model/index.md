@@ -35,4 +35,4 @@ Work on multiple Threat Modeling topics and improve existing materials.
 - [Process for Attack Simulation & Risk Analysis, Risk Centric Threat Modeling Methodology](https://versprite.com/PASTA-abstract.pdf)
 - [STRIDE Threat Categorization Model](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
 - [Software Defined Network Threat Models](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
-- [Application Threat Modelling (OWASP)](https://www.owasp.org/index.php/Application_Threat_Modeling)
+- [Application Threat Modeling (OWASP)](https://www.owasp.org/index.php/Application_Threat_Modeling)
