@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Owasp Top 10 2017
+title        : Implications of Owasp Top 10 2017
 type         : workshop
 owasp-project: yes
 track        : Project Summit
