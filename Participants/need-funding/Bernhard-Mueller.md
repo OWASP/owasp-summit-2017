@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : Bernhard Mueller
 type            : participant
 time            : vacation
-travel-from     : ????
+travel-from     :
 expenses        : owasp
 funded          : no
 funded-who      :

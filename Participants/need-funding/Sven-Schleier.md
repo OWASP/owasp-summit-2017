@@ -2,7 +2,7 @@
 layout          : blocks/page-participant
 title           : Sven Schleier
 type            : participant
-travel-from     : 
+travel-from     :
 expenses        : owasp
 funded          : no
 funded-who      : tbd

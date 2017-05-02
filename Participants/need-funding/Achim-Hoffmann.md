@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : Achim Hoffmann
 type            : participant
 time            : vacation
-travel-from     : ????
+travel-from     :
 expenses        : owasp
 funded          : no
 funded-who      : tbd
