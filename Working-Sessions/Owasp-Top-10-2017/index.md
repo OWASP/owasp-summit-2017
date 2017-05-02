@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: yes
 track        : Project Summit
 status       : improved-content
-organizers   :
+organizers   : Dave Wichers
 participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria
 ---
 
@@ -31,7 +31,3 @@ hot topics that need further discussion and debated.
 - Security Professionals
 - AppSec teams
 - Tool vendors
-
-## Related Working Session(s)
-
- - [Data behind Owasp Top 10 2017](/Working-Sessions/Project-Summit/Data-behind-OWASP-Top-10-2017.html)

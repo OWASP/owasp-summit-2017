@@ -3,10 +3,12 @@ layout       : blocks/working-session
 title        : title-goes-here
 type         : workshop
 owasp-project: no
-organizers   :
 track        :
+technology   :
+related-to   :
 status       : draft
 participants :
+organizers   :
 ---
 
 ...intro text...
@@ -21,4 +23,4 @@ participants :
 
 ## Who
 
-... who (target audience ...
+... target audience ...

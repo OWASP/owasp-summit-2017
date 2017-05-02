@@ -27,3 +27,7 @@ participants :
 ## Who
 
 ... who (target audience ...
+
+## References
+
+- [Threat Modeling & IoT](https://adam.shostack.org/blog/2017/05/threat-modeling-iot/)

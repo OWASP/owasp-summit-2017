@@ -14,10 +14,12 @@ required-funds  : 2500
 job-title       : Bhopal Chapter Leader
 role            : Summit-Editor
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKbAAAAJDczMTY4YmJmLWJjMGItNDFmZS05OTIzLTBiZmEwYmYwNTMwMA.jpg
+email           : akshay.sharma@owasp.org
 linkedin        : akshaysharmamsclis
 chapter-leader  : Bhopal 
 project-leader  :
 status          : improve-bio
+working-sessions:
 ---
 
 I would like to attend OWASP Summit, to get into the environment and discuss a new project with other OWASP Project leaders.

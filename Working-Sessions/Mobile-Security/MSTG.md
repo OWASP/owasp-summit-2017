@@ -5,7 +5,7 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : featured
+status          : done
 description     : During the last few months the Mobile Security Testing Guide has made huge steps forward and several parts of the MSTG have now already a draft version
 ---
 

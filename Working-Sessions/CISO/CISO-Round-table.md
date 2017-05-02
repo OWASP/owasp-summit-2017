@@ -1,12 +1,13 @@
 ---
 layout      : blocks/working-session
-title       : CISO
+title       : CISO Round table
 type        : workshop
-status      : draft
+track       : CISO
+status      : featured
+description : Round-table of CISO (and future CISOs) to share ideas on what is going on at this level
 organizers  : Ante Gulam
-participants: Dinis Cruz,Mateo Martinez
+participants: Dinis Cruz,Mateo Martinez,Yan Kravchenko
 ---
-
 
 Round-table of CISO (and future CISOs) to share ideas on what is going on at this level
 
