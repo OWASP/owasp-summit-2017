@@ -1,14 +1,15 @@
 ---
 layout       : blocks/working-session
-title        : title-goes-here
+title        : Benchmark Project
 type         : workshop
-owasp-project: no
-track        :
+owasp-project: yes
+track        : Project Summit
 technology   :
 related-to   :
 status       : draft
-organizers   :
+organizers   : Dave Wichers
 participants :
+
 ---
 
 ...intro text...
