@@ -4,7 +4,7 @@ title        : Data behind Owasp Top 10 2017
 type         : workshop
 owasp-project: no
 track        : Project Summit
-related-to   : Owasp Top 10 2017
+related-to   : Implications of Owasp Top 10 2017
 status       : improve-content
 organizers   : Dave Wichers
 participants : Brian Glas
