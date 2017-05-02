@@ -5,7 +5,7 @@ type        : workshop
 track       : Project Summit
 technology  : REST
 status      : done
-organizers  :
+organizers  : Johan Peeters
 participants: Marc Rimbau,Dinis Cruz
 ---
 

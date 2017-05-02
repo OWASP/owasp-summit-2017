@@ -1,0 +1,48 @@
+
+<div class="participants-table">{% assign workshops = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.organizers == null'%}
+  <h1>Working Session's - With NO Organizers<a href="/pages/for-editors">Back to Editor's pages</a></h1>
+  <p>
+    These Working Sessions current have NO organizer and the content still needs some work. if you are interested in this topic,
+    please sign-up as one of the organizers! This could be a great career opportunity to show your talent, skills and professionalism.
+  </p>
+  <table class="table table-striped">
+    <thead>
+      <th>#</th>
+      <th>name (title)</th>
+      <th></th>
+      <th>track</th>
+      <th>technologies</th>
+      <th>organizers</th>
+      <th>participants</th>
+      <th># words</th>
+      <th>status</th>
+    </thead>{% for page in workshops%}
+    <tr>
+      <td class="text-center">{{ forloop.index }}</td>
+      <td><a href="{{page.url}}" target="_blank">{{ page.title }}</a></td>
+      <td><a href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}" target="_blank">edit</a></td>
+      <td><a href="/Working-Sessions/{{ page.track | replace: ' ', '-'}}" target="_blank">{{ page.track }}</a></td>
+      <td>
+        {% if page.technology != null %}
+          {% assign technologies = page.technology | split: ',' %}
+          {% for technology in technologies %}
+          {% assign match = site.pages | where: 'title', technology %}
+          {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span class="no-technology">{{ technology }}</span>  {% endif %}
+          {% if forloop.last != true %}<span>,</span>  {% endif %}
+          {% endfor %}
+        {% endif %}
+      </td>
+      <td class="no-technology">{{ page.organizers }}</td>
+      <td>{{ page.participants }}</td>
+      <td class="text-center">{{ page.content | strip_html | number_of_words}}</td>
+      <td class="text-center">
+        {% case page.status %}
+        {% when 'draft' %}
+        <div class="label label-primary">{{ page.status }}</div>{% when 'done' %}
+        <div class="label label-success">done</div>{% when 'empty' %}
+        <div class="label label-danger">empty</div>{% else %}
+        <div class="label label-warning">{{ page.status }}</div>{% endcase %}
+      </td>
+    </tr>{% endfor %}
+  </table>
+</div>
