@@ -2,16 +2,16 @@
 layout: blocks/page-participant
 title: Daniel Miessler
 type: participant
-travel-from     : ????
+travel-from     :
 expenses        : owasp
 funded          : no
-funded-who      : tbd
-flight-cost     : ????
+funded-who      :
+flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   : ????
-required-funds  : 1500
-project-leader  : ????
-chapter-leader  : ????
+funded-amount   :
+required-funds  : 2500
+project-leader  :
+chapter-leader  :
 job-title:
 image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeEAAAAJDRjM2MzY2RkLThiY2UtNGIzYi1hMDk5LWFkY2ViZDRjMTAxMg.jpg
 linkedin: danielmiessler

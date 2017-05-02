@@ -46,7 +46,6 @@ mixin add-technologies
             th
             th track
             th technologies
-            th organizers
             th participants
             th # words
             th status
@@ -61,7 +60,6 @@ mixin add-technologies
                 a(href="/Working-Sessions/{{ page.track | replace: ' ', '-'}}" target='_blank') {{ page.track }}
             td
                 + add-technologies
-            td.no-technology {{ page.organizers }}
             td {{ page.participants }}
             td.text-center {{ page.content | strip_html | number_of_words}}
             td.text-center

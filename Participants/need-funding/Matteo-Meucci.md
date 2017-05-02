@@ -7,10 +7,10 @@ travel-from     : Italy
 expenses        : owasp
 funded          : no
 funded-who      : tbd
-flight-cost     : ????
+flight-cost     : 500
 ticket-cost     : 1500
-funded-amount   : ????
-required-funds  : 1500
+funded-amount   :
+required-funds  : 2000
 project-leader  : OWASP Testing Guide
 chapter-leader  : ????
 job-title: CEO of Minded Security

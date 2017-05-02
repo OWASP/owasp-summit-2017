@@ -11,8 +11,8 @@ flight-cost     : 0
 ticket-cost     : 1500
 funded-amount   : tbd
 required-funds  : 1500
-project-leader  : no
-chapter-leader  : no
+project-leader  :
+chapter-leader  :
 owasp-other     : OWASP AppSec Brazil
 image           : https://pbs.twimg.com/profile_images/1094240037/avatar.southpark.gif
 linkedin        : ferreira

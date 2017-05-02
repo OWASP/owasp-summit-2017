@@ -2,18 +2,18 @@
 layout: blocks/page-participant
 title: Kim Carter
 type: participant
-travel-from     : ????
+travel-from     :
 expenses        : owasp
 funded          : no
-funded-who      : tbd
-flight-cost     : ????
+funded-who      :
+flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   : ????
-required-funds  : 1500
-project-leader  : ????
-chapter-leader  : ????
-job-title: Security focussed Technologist
-image: https://avatars0.githubusercontent.com/u/2862029
+funded-amount   :
+required-funds  : 2500
+project-leader  :
+chapter-leader  :
+job-title       : Security focussed Technologist
+image           : https://avatars0.githubusercontent.com/u/2862029
 twitter: binarymist
 role: Workshop-Admin
 ---

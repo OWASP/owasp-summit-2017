@@ -7,12 +7,12 @@ travel-from     : ????
 expenses        : owasp
 funded          : no
 funded-who      : tbd
-flight-cost     : ????
+flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   : ????
-required-funds  : 1500
+funded-amount   :
+required-funds  : 2500
 project-leader  : O-Saft
-chapter-leader  : ????
+chapter-leader  :
 job-title       : O-Saft Project Leader
 image           : 
 email    : achim@owasp.org

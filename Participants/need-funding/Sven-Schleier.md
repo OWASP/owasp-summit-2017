@@ -2,16 +2,16 @@
 layout          : blocks/page-participant
 title           : Sven Schleier
 type            : participant
-travel-from     : ????
+travel-from     : 
 expenses        : owasp
 funded          : no
 funded-who      : tbd
-flight-cost     : ????
+flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   : ????
-required-funds  : 1500
+funded-amount   :
+required-funds  : 2500
 project-leader  : Mobile Security Testing Guide, MASVS, Mobile Hacking Playground
-chapter-leader  : ????
+chapter-leader  :
 job-title       : Project Leader for Mobile Security
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsFAAAAJGRkYzMyOWFhLTgyNTctNGZmNC1iZDU3LWY5YzMwZTIzZDZkOA.jpg
 #image          : https://pbs.twimg.com/profile_images/848871453906747392/XbBDTeib.jpg

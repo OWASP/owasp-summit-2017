@@ -7,10 +7,10 @@ travel-from     : Minneapolis
 expenses        : owasp
 funded          : no
 funded-who      :
-flight-cost     : ????
+flight-cost     : 1500
 ticket-cost     : 1500
 funded-amount   :
-required-funds  : 1500
+required-funds  : 3000
 project-leader  :
 chapter-leader  :
 job-title       : CISO

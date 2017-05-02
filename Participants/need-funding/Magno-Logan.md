@@ -3,7 +3,15 @@ layout: blocks/page-participant
 title: Magno Logan
 type: participant
 job-title: Systems and Network Security Specialist
-expenses: owasp
+expenses        : owasp
+funded          : no
+funded-who      : tbd
+flight-cost     : 0
+ticket-cost     : 1500
+funded-amount   : tbd
+required-funds  : 1500
+project-leader  :
+chapter-leader  :
 image: https://avatars0.githubusercontent.com/u/1558043
 linkedin: magnologan
 twitter: magnologan
