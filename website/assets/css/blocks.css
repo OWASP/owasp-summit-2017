@@ -902,6 +902,9 @@
   background-color: #323232;
 }
 
+.working-session h1 {
+  text-transform: none;
+}
 .working-session .ws-metadata p {
   margin: 0px;
 }

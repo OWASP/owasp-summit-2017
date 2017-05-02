@@ -19,6 +19,7 @@ linkedin        : akshaysharmamsclis
 chapter-leader  : Bhopal 
 project-leader  :
 status          : improve-bio
+working-sessions:
 ---
 
 I would like to attend OWASP Summit, to get into the environment and discuss a new project with other OWASP Project leaders.

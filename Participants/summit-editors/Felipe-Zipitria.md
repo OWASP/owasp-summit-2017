@@ -17,6 +17,7 @@ job-title       : Uruguay Chapter Leader
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
 linkedin        : felipezipitria
 status          : fix-linkedin
+working-sessions: Maturity Models tool,Include OWASP projects as resources for the SAMM practices
 ---
 
 ## Felipe Zipitria

@@ -25,17 +25,24 @@
         {% endfor %}
         {% endif %}
       </p>
-      {% if page.participants != null %}
-      {% assign participants = page.participants | split: ',' %}
+      {% assign ws-participants = "" %}
+      {% assign all-participants = site.pages | where: 'type', 'participant' %}
+      {% for participant in all-participants %}
+      {%    if  participant.working-sessions contains page.title %}
+      {%        assign ws-participants = ws-participants | append: participant.title  | append: ',' %}
+      {%    endif %}
+      {% endfor %}
+      {% assign ws-participants = ws-participants | append: page.participants %}
+      {% if ws-participants != "" %}
+      {%    assign participants = ws-participants | split: ',' %}
       <p>
         Participants(s): &#32;
         {% for participant in participants %}
-          {% assign match = site.pages | where: 'title', participant %}
-          {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span>{{ participant }}</span>  {% endif %}
-          {% if forloop.last != true %}<span>,</span>  {% endif %}
+        {%    assign match = site.pages | where: 'title', participant %}
+        {%    if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>{%    else %}<span>{{ participant }}</span>{%    endif %}
+        {%    if forloop.last != true %}<span>,</span>{%    endif %}
         {% endfor %}
-        {% endif %}
-      </p>{% if page.owasp-project and page.track != 'Project Summit' %}
+      </p>{% endif %}{% if page.owasp-project and page.track != 'Project Summit' %}
       <p>Part of the &#32;<a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a></p>{% endif %}
     </div>
     <hr/>{{ content }}
