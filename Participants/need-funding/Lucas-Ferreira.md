@@ -16,7 +16,7 @@ chapter-leader  : no
 owasp-other     : OWASP AppSec Brazil
 image           : https://pbs.twimg.com/profile_images/1094240037/avatar.southpark.gif
 linkedin        : ferreira
-twitter         : lucassapa
+twitter         : lucassapao
 facebook        : 
 website         : https://www.owasp.org/index.php/User:Sapao
 status          : empty
