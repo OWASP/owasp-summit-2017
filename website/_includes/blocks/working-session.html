@@ -23,8 +23,7 @@
           {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span>{{ organizer }}</span>  {% endif %}
           {% if forloop.last != true %}<span>,</span>  {% endif %}
         {% endfor %}
-        {% endif %}
-      </p>
+      </p>{% endif %}
       {% assign ws-participants = "" %}
       {% assign all-participants = site.pages | where: 'type', 'participant' %}
       {% for participant in all-participants %}
