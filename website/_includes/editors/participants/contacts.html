@@ -30,7 +30,8 @@
         <div class="label label-warning">{{ status }}</div>  {% endcase %}
         {% endfor %}
       </td>
-      <td class="text-center"><img src="{{ page.image }}" alt="{{ page.title }}"/></td>
+      <td class="text-center">{% if page.image != null %}<img src="{{ page.image }}" alt="{{ page.title }}"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" alt="Placeholder 400x400"/>{% endif %}
+      </td>
       <td>
         {% if page.email != null %}
         {{ page.email }}
