@@ -13,6 +13,13 @@ mixin status
     |   {% endcase %}
     | {% endfor %}
 
+mixin image
+    | {% if page.image != null %}
+    img(src='{{ page.image }}' alt='{{ page.title }}')
+    | {% else %}
+    img(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
+    | {% endif %}
+
 mixin email
     | {% if page.email != null %}
     | {{ page.email }}
@@ -50,7 +57,7 @@ mixin email
                 + status
 
             td.text-center
-                img(src='{{ page.image }}' alt='{{ page.title }}')
+                + image
             td
                 + email
             td
