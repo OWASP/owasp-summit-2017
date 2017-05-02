@@ -16,12 +16,14 @@ chapter-leader  : Uruguay
 job-title       : Uruguay Chapter Leader
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
 linkedin        : felipezipitria
-status          : fix-linkedin
+status          : done
 working-sessions: Maturity Models tool,Include OWASP projects as resources for the SAMM practices
 ---
 
 ## Felipe Zipitria
 
-I want to participate in several meetings of owasp project. As I work in a University, I'm very interested in the Application Security BSc/Masters Curriculum Design. There are other Workshops that I think I could make contributions.
+Felipe is a Msc. in Computer Security from University of the Republic (Uruguay). He has been working as a System Administrator for 20 years, and as a Security Consultant for 10+ years. He has been teaching Computer Security Fundamentals to pregraduate students and Web Application Security for postgraduates at the local public University.
 
-I will need flights and accommodation provided by OWASP as my University won't sponsor the trip - please let us know soon if this will be possible.
+He will be attending the many workshops Education and DevSecOps tracks.
+
+I will need flights and accommodation provided by OWASP as my University isn't sponsoring the trip.
