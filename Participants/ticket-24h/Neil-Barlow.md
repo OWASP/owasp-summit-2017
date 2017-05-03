@@ -7,7 +7,8 @@ image           : https://pbs.twimg.com/profile_images/628682294648307712/Vv0Yk1
 linkedin        : neilbarlow
 twiter          : ArdMhacha24
 facebook        :
-funded-who      : self
+ticket          : 24h
 status          : need-content
 working-sessions: CISO,CISO Round table
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
