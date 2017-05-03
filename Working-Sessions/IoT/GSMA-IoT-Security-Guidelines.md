@@ -12,7 +12,8 @@ participants  :
 ---
 
 > The goal of the Internet of Things Security Guidelines document set is to provide the implementer of an IoT technology or service with a set of design guidelines for building a secure product. To accomplish this task, this document will serve as an overarching model for interpreting what aspects of a technology or service are relevant to implementer. Once these aspects, or components, are identified, the implementer can evaluate the risks associated with each component, and determine how to manage them
-(from [IoT Security Guidelines Overview](http://www.gsma.com/iot/iot-security-guidelines-overview-document/) page
+
+_(from [IoT Security Guidelines Overview](http://www.gsma.com/iot/iot-security-guidelines-overview-document/ page)_
 
 ## Why
 
