@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : ELK Security Dashboard
+title        : ELK Security Dashboards
 type         : workshop
 owasp-project: no
 track        : DevSecOps
@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : draft
 organizers   : Dicky Stafford
-participants :
+participants : Neil Barlow,Fraser Scott
 
 ---
 
