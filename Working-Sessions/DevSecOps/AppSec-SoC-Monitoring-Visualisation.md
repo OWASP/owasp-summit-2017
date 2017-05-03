@@ -5,8 +5,8 @@ type         : workshop
 track        : DevSecOps
 technology   : SOC,GDPR
 related-to   : CISO
-status       : need-organizer
-organizers   :
+status       : done
+organizers   : Mateo Martinez
 participants : Dinis Cruz
 ---
 
