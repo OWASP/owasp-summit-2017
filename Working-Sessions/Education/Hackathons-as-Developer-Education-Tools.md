@@ -1,6 +1,6 @@
 ---
 layout         : blocks/working-session
-title          : Developer-Education using Hackathons
+title          : Hackathons as Developer Education Tools
 type           : workshop
 owasp-project  : no
 track          : Education
