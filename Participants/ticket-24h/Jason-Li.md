@@ -3,15 +3,14 @@ layout          : blocks/page-participant
 title           : Jason Li
 company         : Aspect Security
 type            : participant
-job-title       :
+job-title       : Security Consultant
 image           : https://pbs.twimg.com/profile_images/834046053917790209/cZl865e9_400x400.jpg
 linkedin        :
+email           : jason.li@owasp.org
 twitter         : OWASPguy
 facebook        :
-status          : empty
+status          : needs-content
 ticket          : 24h
 # add below a comma delimited list of the Working Sessions you would like to attend (use the session's title)
-working-sessions:
+working-sessions: Lightweight Threat Modeling Process, Threat Modeling Schema, Threat Modeling Templates, Threat Modeling Cheat Sheet, Data behind Owasp Top 10 2017, Implications of Owasp Top 10 2017, Writing Security Tests, Testing Guide v5, Cheatsheets, NextGen Security Scanners, OWASP Risk Rating Management Project
 ---
-
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
