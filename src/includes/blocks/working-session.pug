@@ -70,7 +70,10 @@ mixin show-owasp-project
         a(href='/Working-Sessions/Project-Summit') OWASP Project Summit
     | {% endif %}
 
-
+mixin show-when-day
+    | {% if page.when-day %}
+    p When: {{ page.when-day }}
+    | {% endif %}
 
 mixin show-related-to
     | {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
@@ -105,6 +108,7 @@ mixin show-related-to
             + show-organizers
             + show-participants
             + show-owasp-project
+            + show-when-day
         hr
         | {{ content }}
         + show-related-to

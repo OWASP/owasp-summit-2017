@@ -42,7 +42,8 @@
         {%    if forloop.last != true %}<span>,</span>{%    endif %}
         {% endfor %}
       </p>{% endif %}{% if page.owasp-project and page.track != 'Project Summit' %}
-      <p>Part of the &#32;<a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a></p>{% endif %}
+      <p>Part of the &#32;<a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a></p>{% endif %}{% if page.when-day %}
+      <p>When: {{ page.when-day }}</p>{% endif %}
     </div>
     <hr/>{{ content }}
     {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}

@@ -3,13 +3,14 @@ layout       : blocks/working-session
 title        : Using ML and AI to detect Attacks
 type         : workshop
 owasp-project: no
-organizers   :
 track        : DevSecOps
-status       : draft
+status       : review-content
+organizers   : Talal Albacha
+when-day     : Friday
 participants :
 ---
 
-Machine Learning (ML) and Artificial Inteligence (AI) are reaching mainstream and provide a great opportunity for defenders.
+Machine Learning (ML) and Artificial Intelligence (AI) are reaching mainstream and provide a great opportunity for defenders.
 
 ## Why
 
