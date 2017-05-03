@@ -2,7 +2,6 @@
 layout       : blocks/working-session
 title        : Security Architecture Recommendations for IoT
 type         : workshop
-owasp-project: no
 technology   : IoT
 track        :
 status       : draft
@@ -22,4 +21,4 @@ participants :
 
 ## Who
 
-... who (target audience ...
+... (target audience) ...

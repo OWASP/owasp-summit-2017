@@ -2,9 +2,8 @@
 layout       : blocks/working-session
 title        : TLS for Local IoT
 type         : workshop
-owasp-project: no
 track        : DevSecOps
-status       : draft
+status       : done
 organizers   : kevsheldrake
 technology   : TLS,IoT
 participants :
