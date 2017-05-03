@@ -7,7 +7,7 @@ type: logistic
 Using the same model used in previous performances of the OWASP band (at multiple OWASP conferences and Summits), if you can play an instrument, sing or can do anything related to an musical performance, please add your name below.
 
 * [Dinis Cruz](../Participants/Dinis-Cruz.html) - Drums and Guitar
-* [Steven van der Baan](../Participants/Steven-van-der-Baan.html) - Bass
+* [Steven van der Baan](../Participants/need-funding/Steven-van-der-Baan.html) - Bass
 
 
 ### Set list
