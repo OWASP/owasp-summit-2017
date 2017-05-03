@@ -13,11 +13,11 @@ funded-amount   : 2500
 required-funds  : 2500
 role            : Summit-Editor
 chapter-leader  : Uruguay
-job-title       : Uruguay Chapter Leader
+job-title       : Researcher / IT / Chapter Leader
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
 linkedin        : felipezipitria
 status          : done
-working-sessions: Maturity Models tool,Include OWASP projects as resources for the SAMM practices
+working-sessions: Securing the CI Pipeline,Writing Security Tests
 ---
 
 ## Felipe Zipitria
