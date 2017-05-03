@@ -41,6 +41,6 @@ that is driven by marketing and has very little accountability for the effective
  - [Infosec Warranties and Guarantees](http://blog.jeremiahgrossman.com/2017/02/infosec-warranties-and-guarantees.html) - list of companies
  - [An Insiders Guide To Cyber Insurance And Security Guarantees](https://www.blackhat.com/docs/us-16/materials/us-16-Grossman-An-Insiders-Guide-To-Cyber-Insurance-And-Security-Guarantees.pdf) - presentation
  - [Geekonomics: The Real Cost of Insecure Software](https://www.amazon.com/Geekonomics-Real-Insecure-Software-paperback/dp/0321735978) - book
- - [BBC Click - 29/04/2017](www.bbc.co.uk/programmes/b08p1nts) - BBC Click investigates a company claiming to offer 'absolute security' and discovers all is not what it seems.
+ - [BBC Click - 29/04/2017](https://www.bbc.co.uk/programmes/b08p1nts) - BBC Click investigates a company claiming to offer 'absolute security' and discovers all is not what it seems.
  - [OWASP Security Labeling System Project](https://www.owasp.org/index.php/OWASP_Security_Labeling_System_Project)
  - [Market for Lemons](https://en.wikipedia.org/wiki/The_Market_for_Lemons)

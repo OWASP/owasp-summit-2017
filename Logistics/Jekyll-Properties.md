@@ -15,11 +15,11 @@ The general form of these properties looks like:
 These _keyword_ and _value_ are described below.
 While keywords are always any of the listed constants below, values may either be a constant (shown in __bold__ below) or free text. Please note that value *cannot* contain other markdown.
 
-The most important use may be the individual pages for [Participants/](Participants) and [Working-Sessions/](Working-Sessions), so lets start with describing the properties used there first.
+The most important use may be the individual pages for [Participants](../Participants/index.html) and [Working-Sessions](../Working-Sessions/index.html), so lets start with describing the properties used there first.
 
 ## Participant Properties
 
-These properties are important for the participant's individual page, see [Participants/](Participants).
+These properties are important for the participant's individual page, see [Participants](../Participants/index.html).
 
 * __layout: blocks/page-content__
 * __type: participant__
@@ -37,7 +37,7 @@ Properties for special use:
 
 ## Workshop Properties
 
-These properties are important for the Workshop page, see [Working-Sessions/](Working-Sessions).
+These properties are important for the Workshop page, see [Working-Sessions](../Working-Sessions/index.html).
 
 * __layout: blocks/page-content__
 * __type: workshop__

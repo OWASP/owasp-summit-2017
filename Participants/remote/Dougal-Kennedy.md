@@ -14,6 +14,6 @@ status     : empty
 Dougal is team lead of the Verizon Application Certification program, which certifies the web or mobile application is secure based on quarterly pen tests and a review of processes and procedures.
 
 Dougal wants to work on: 
-* [Testing Guide v5](../../Working-Sessions/Testing-Guide-v5.html)
-* [Mobile Security Testing Guide (MSTG) session](../../Working-Sessions/MSTG.html)
-* [Reverse Engineering APK's with Bytecodeviewer](../../Working-Sessions/Bytecodevierwer.html)
+* [Testing Guide v5](../../Working-Sessions/Project-Summit/Testing-Guide-v5.html)
+* [Mobile Security Testing Guide (MSTG) session](../../Working-Sessions/Mobile-Security/MSTG.html)
+* [Reverse Engineering APK's with Bytecodeviewer](../../Working-Sessions/Tools/Bytecodevierwer.html)
