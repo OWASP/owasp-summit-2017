@@ -2,13 +2,12 @@
 layout       : blocks/working-session
 title        : Netflix Resilience Engineering
 type         : workshop
-owasp-project: no
-track        :
+track        : DevSecOps
 technology   :
-related-to   :
+related-to   : Netflix Security Automation
 status       : draft
 organizers   :
-participants :
+participants : Neil Barlow,Dicky Stafford,Fraser Scott
 ---
 
 ...intro text...
@@ -24,3 +23,8 @@ participants :
 ## Who
 
 ... target audience ...
+
+## References
+
+ - https://medium.com/netflix-techblog/introducing-hystrix-for-resilience-engineering-13531c1ab362
+ - https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
