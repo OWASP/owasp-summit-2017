@@ -6,7 +6,7 @@ owasp-project: yes
 track        : Project Summit
 status       : improved-content
 organizers   : Dave Wichers
-participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria
+participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria,Mateo Martinez
 ---
 
 Working Session to collaborate on the implications of the new OWASP Top 10
