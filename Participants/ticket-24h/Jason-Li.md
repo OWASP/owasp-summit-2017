@@ -11,6 +11,5 @@ twitter         : OWASPguy
 facebook        :
 status          : needs-content
 ticket          : 24h
-# add below a comma delimited list of the Working Sessions you would like to attend (use the session's title)
-working-sessions: Lightweight Threat Modeling Process, Threat Modeling Schema, Threat Modeling Templates, Threat Modeling Cheat Sheet, Data behind Owasp Top 10 2017, Implications of Owasp Top 10 2017, Writing Security Tests, Testing Guide v5, Cheatsheets, NextGen Security Scanners, OWASP Risk Rating Management Project
+working-sessions: Lightweight Threat Modeling Process,Threat Modeling Schema,Threat Modeling Templates,Threat Modeling Cheat Sheet,Data behind Owasp Top 10 2017,Implications of Owasp Top 10 2017,Writing Security Tests,Testing Guide v5,Cheatsheets,NextGen Security Scanners,OWASP Risk Rating Management Project
 ---

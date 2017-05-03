@@ -2,8 +2,8 @@
 layout       : blocks/working-session
 title        : Create CheatSheet Writing Security Unit Tests
 type         : workshop
-owasp-project: no
-track        :
+track        : Project Summit
+related-to   : Writing Security Tests,Cheatsheets
 technology   :
 related-to   :
 status       : draft
