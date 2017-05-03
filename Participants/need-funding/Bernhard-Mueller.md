@@ -15,6 +15,7 @@ project-leader  :
 chapter-leader  :
 job-title       : Security Researcher
 image           : https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
+email           : bernhard@vantagepoint.sg
 linkedin        : bernhardm
 twitter         : muellerberndt
 facebook        :

@@ -16,6 +16,7 @@ project-leader	: ????
 chapter-leader	: Israel
 job-title		: Israel Chapter Chairman
 image			: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkRAAAAJDkyZmFkMDRlLWMzZjAtNDk1Yy1hNDFiLTA2MTM2M2IzNzFhZA.jpg
+email       : avi.douglen@owasp.org
 linkedin		: avidouglen
 twitter			: sec_tigger
 facebook		:

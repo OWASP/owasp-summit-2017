@@ -6,7 +6,7 @@ owasp-project: no
 track        : OwaspSAMM
 status       : draft
 organizers   : Sebastien Deleersnyder
-participants : Marc Rimbau
+participants : Marc Rimbau, Mateo Martinez
 ---
 
 Draft SAMM2, the "DevOps release"

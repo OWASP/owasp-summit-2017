@@ -4,21 +4,21 @@ title        : Owasp Student Chapters
 type         : workshop
 owasp-project: yes
 track        :
-status       : draft
+status       : done
 organizers   : Mateo Martinez
 participants :
 ---
 
-...intro text...
+Discuss about Student Chapter needs and current status. Support from local chapters and OWASP members. We need to talk about a Student Chapter Leader Handbook.
 
 ## Why
 
-...why text...
+The Student Chapter community is growing and we need to define a direction and a workgroup.
 
 ## What
 
-...what text...
+Discuss about project future and about handbook content
 
 ## Who
 
-... who (target audience ...
+Chapter Leaders, Project Leaders
