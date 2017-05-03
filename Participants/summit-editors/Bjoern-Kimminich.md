@@ -15,6 +15,7 @@ required-funds  : 1750
 project-leader  : OWASP Juice Shop
 job-title       : OWASP Juice Shop Project Leader
 image           : https://pbs.twimg.com/profile_images/791646959090200576/hHp8iliO_400x400.jpg
+email           : bjoern.kimminich@owasp.org
 linkedin        : bkimminich
 twitter         : bkimminich
 facebook        : bjoern.kimminich
