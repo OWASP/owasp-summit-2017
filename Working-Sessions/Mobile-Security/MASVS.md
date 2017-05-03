@@ -6,7 +6,7 @@ track        : Mobile Security
 owasp-project: yes
 technology   : Mobile
 status       : draft
-organizers   :
+organizers   : Bernhard Mueller,Sven Schleier
 participants : Marc Rimbau
 ---
 
