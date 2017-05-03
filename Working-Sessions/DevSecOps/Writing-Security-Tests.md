@@ -30,6 +30,6 @@ Security Tests are a special type of tests which confirm (via passing tests) tha
 
 ## References
 
- - [Writing Software Security Test Cases](www.qasec.com/2007/01/writing-software-security-test-cases.html)
+ - [Writing Software Security Test Cases](https://www.qasec.com/2007/01/writing-software-security-test-cases.html)
  - [Turning TDD upside down - For bugs, always start with a passing test](http://blog.diniscruz.com/2016/09/presentation-turning-tdd-upside-down.html)
- - [Presentation - "Surrogate dependencies (poc in node js) v1.0](blog.diniscruz.com/2016/09/presentation-surrogate-dependencies-in.html)
+ - [Presentation - "Surrogate dependencies (poc in node js) v1.0](http://blog.diniscruz.com/2016/09/presentation-surrogate-dependencies-in.html)
