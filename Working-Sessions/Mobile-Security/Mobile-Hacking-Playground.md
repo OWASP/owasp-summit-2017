@@ -4,6 +4,7 @@ title: Mobile Hacking Playground
 type: workshop
 track: Mobile Security
 technology: Mobile
+organizers  : Sven Schleier
 status: draft
 ---
 
