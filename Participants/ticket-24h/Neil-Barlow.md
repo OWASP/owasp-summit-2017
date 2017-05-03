@@ -9,5 +9,5 @@ twiter          : ArdMhacha24
 facebook        :
 funded-who      : self
 status          : need-content
-working-sessions: CISO,CISO-Round-table
+working-sessions: CISO,CISO Round table
 ---
