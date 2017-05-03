@@ -1,13 +1,12 @@
 ---
-layout: blocks/page-participant
-title: Irene Michlin
-type: participant
-job-title: Principal Security Consultant
-image: empty 
-linkedin-company-beta: empty
-twitter: IreneMichlin
-facebook: empty
-status: empty
+layout      : blocks/page-participant
+title       : Irene Michlin
+type        : participant
+job-title   : Principal Security Consultant
+image       : https://pbs.twimg.com/profile_images/378800000615497173/81960bcd8231a4fbd9c590c5c18f8e63_400x400.jpeg
+twitter     : IreneMichlin
+facebook    :
+status      :
 ---
 
 [Threat Model Workshop](/Working-Sessions/Threat-Model/)
