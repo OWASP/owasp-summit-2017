@@ -13,7 +13,7 @@ participants :
 
 ## Why
 
-Security Tests are a special type of tests which confirm (via passing tests) that security issues either exist of have been fixed
+Security Tests are a special type of tests which confirm (via passing tests) that security issues either exist or have been fixed.
 
 ## What
 
