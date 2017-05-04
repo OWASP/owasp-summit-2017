@@ -2,19 +2,18 @@
 layout       : blocks/working-session
 title        : SAMM Metrics for Enterprise
 type         : workshop
-owasp-project: openSAMM
 track        : CISO
 technology   :
-related-to   : Appsec Metrics
-status       : need-organizer
+related-to   : OwaspSAMM,Appsec Metrics
+status       : done
 organizers   : Yan Kravchenko
-participants : Yan Kravchenko
+participants :
 
 ---
 
 ## Why
 
-OpenSAMM is not geared for this out of the box, but can be leveraged very effectively to help large organizations manage application portfolios.  
+OwaspSAMM is not geared for this out of the box, but can be leveraged very effectively to help large organizations manage application portfolios.
 
 ## What
 
