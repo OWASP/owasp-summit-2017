@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Cheatsheets
+title        : Cheat Sheets
 type         : workshop
 track        : Project Summit
 status       : more-content
