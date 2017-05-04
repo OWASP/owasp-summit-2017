@@ -17,6 +17,7 @@ image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAA
 #image          : https://pbs.twimg.com/profile_images/848871453906747392/XbBDTeib.jpg
 linkedin        : sven-schleier-98259194
 twitter         : bsd_daemon
+status          : done
 ---
 
 ## Sven Schleier

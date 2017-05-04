@@ -17,6 +17,7 @@ job-title       : CEO of Minded Security
 image           : https://pbs.twimg.com/profile_images/620209707102392320/NTIZjxXt.jpg
 linkedin        : adrian-winckles-2582ab3
 twitter         : matteo_meucci
+status          : done
 facebook:
 ---
 
