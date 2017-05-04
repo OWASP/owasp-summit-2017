@@ -7,8 +7,8 @@ track        : CISO
 technology   :
 related-to   : Cyber Insurance,Education
 status       : need-organizer
-participants :
-organizers   :
+participants : Yan Kravchenko
+organizers   : Yan Kravchenko
 ---
 
 ## Why
