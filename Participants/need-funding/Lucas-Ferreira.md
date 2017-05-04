@@ -2,6 +2,7 @@
 layout          : blocks/page-participant
 title           : Lucas Ferreira
 type            : participant
+time            : vacation
 job-title       : Unit Head
 travel-from     : Vienna
 expenses        : owasp
@@ -11,8 +12,8 @@ flight-cost     : 0
 ticket-cost     : 1500
 funded-amount   : tbd
 required-funds  : 1500
-project-leader  :
-chapter-leader  :
+project-leader  : not anymore
+chapter-leader  : not anymore
 owasp-other     : OWASP AppSec Brazil
 image           : https://pbs.twimg.com/profile_images/1094240037/avatar.southpark.gif
 linkedin        : ferreira
