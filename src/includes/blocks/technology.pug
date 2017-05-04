@@ -3,7 +3,7 @@
     .container
         h1 {{ page.title }}  (Technology)
         p {{ page.description }}
-        p {{ content }}
+        {{ content }}
         h3 Working Sessions related to {{ page.title }}
         ul
             | {% for working-session in working-sessions %}

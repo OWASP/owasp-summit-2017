@@ -16,11 +16,9 @@ If you are an active OWASP Project Leader or want to help leading this Working-S
 ### Current projects/Working-Sessions represented at the Summit:
 
 <ul>
-    <ol>
-        {% for page in site.pages %}
-            {% if page.track == 'Project Summit' or page.owasp-project   %}
-                <li><a href="{{page.url}}">{{page.title}}</a></li>
-            {% endif %}
-        {% endfor %}
-    </ol>
+    {% for page in site.pages %}
+        {% if page.track == 'Project Summit' or page.owasp-project   %}
+            <li><a href="{{page.url}}">{{page.title}}</a></li>
+        {% endif %}
+    {% endfor %}
 </ul>

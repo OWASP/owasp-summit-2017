@@ -8,4 +8,4 @@ organizers   :
 participants :
 ---
 
-See [wikipedia page](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) for more details
+See [wikipedia page](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) for more details.
