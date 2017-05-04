@@ -7,8 +7,8 @@ track        : CISO
 technology   :
 related-to   :
 status       : needs-organizer
-participants :
-organizers   :
+participants : Yan Kravchenko
+organizers   : Yan Kravchenko
 ---
 
 ## Why
