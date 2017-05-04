@@ -8,7 +8,7 @@ technology   :
 related-to   : Cyber Insurance,CISO,InfoSec Warranties and Guarantees
 status       : need-organizer
 participants :
-organizers   :
+organizers   : Lucas Ferreira
 ---
 
 ## Why
