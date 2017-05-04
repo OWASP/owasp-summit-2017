@@ -12,7 +12,7 @@ participants:
 
 Part of OWASP's main purpose is to _"Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software"_ and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next generation as well especially with the acknowledged skill shortage in the whole sector that exists.
 
-A common problem with many security education programmes (whether we say cyber or infosec) or even traditonal computer science programs is that they do not address application security adequately or in some cases at all.  In some regions there have been the starting motions of trying to address this deficit.  In the Uk for example ISC2 and the BCS are working on an initiative to embed security firmly within the Computer Science curriculum especially secure coding techniques and OWASP (through myself) are slso championing this initiative.
+A common problem with many security education programmes (whether we say cyber or infosec) or even traditional computer science programs is that they do not address application security adequately or in some cases at all.  In some regions there have been the starting motions of trying to address this deficit.  In the UK for example ISC2 and the BCS are working on an initiative to embed security firmly within the Computer Science curriculum especially secure coding techniques and OWASP (through myself) are slso championing this initiative.
 
 There is an opportunity for OWASP to pull together its respected myriad of expertise, projects and dedicated volunteers to engage in these types of education programmes and initiatives by having an educational strategy for undergrad/Postgrad which is an open "Standard" template which can be adopted and adapted by a diversity of educational partners and organisations.  It also gives a useful starting point or reference document when we can help engage with other professional bodies.
 
@@ -29,7 +29,7 @@ There is an opportunity for OWASP to pull together its respected myriad of exper
 - OWASP Project Leaders with projects which have an educational element (which is probably all)
 - Application Security Trainers 
 - Academic's involved in AppSec and InfoSec (trying to avoid the Cyber word)
-- Any employer involved in recruituing graduates into application security related roles
-- Other organisations/professioanl bodies with a vested interest in application security educational programmes.
+- Any employer involved in recruiting graduates into application security related roles
+- Other organisations/professional bodies with a vested interest in application security educational programmes.
 
 
