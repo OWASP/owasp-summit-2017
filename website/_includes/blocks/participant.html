@@ -1,5 +1,6 @@
 
-<h1>{{ page.title }}</h1>{% if page.image != null %}<img src="{{ page.image }}" alt="{{ page.title }}" class="participant"/>{% endif %}
+<h1>{{ page.title }}</h1>
+<h3>{{page.job-title }}</h3>{% if page.image != null %}<img src="{{ page.image }}" alt="{{ page.title }}" class="participant"/>{% endif %}
 {{ content }}
 {% assign user              = page.title  %}
 {% assign working-sessions  = page.working-sessions  %}

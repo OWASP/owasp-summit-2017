@@ -56,9 +56,12 @@ mixin add-website
     |{% endif %}
 
 h1 {{ page.title }}
+h3 {{page.job-title }}
+
 | {% if page.image != null %}
 img.participant(src='{{ page.image }}' alt='{{ page.title }}')
 | {% endif %}
+
 
 | {{ content }}
 
