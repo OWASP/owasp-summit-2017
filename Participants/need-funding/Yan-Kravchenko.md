@@ -20,7 +20,7 @@ linkedin        : yankravchenko
 twitter         : yanfosec
 facebook        :
 website         : https://about.me/yan.kravchenko
-status          : empty
+status          : done
 ---
 
 Yan Kravchenko, CISSP, CSSLP, CISA, CISM has 20 years of experience in the IT / Information Security industry.  Over the past 3 years Yan has been developing ways to leverage OWASP SAMM to help measure application metrics portfolios for maturiy and security weaknesses.  A part of the process is the concept of risk correlation that allows alighing applications against multiple risk measures, creating more realistic and useful metrics data.  

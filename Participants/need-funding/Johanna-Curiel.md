@@ -12,12 +12,12 @@ funded-amount   :
 required-funds  : 2500
 project-leader  :
 chapter-leader  :
-job-title:
-image: 
-linkedin:
-twitter:
-facebook:
-status: empty
+job-title       :
+image           :
+linkedin        :
+twitter         :
+facebook        :
+status          : empty
 ---
 
 ## Johanna Curiel

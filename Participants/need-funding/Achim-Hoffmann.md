@@ -15,15 +15,13 @@ project-leader  : O-Saft
 chapter-leader  :
 job-title       : O-Saft Project Leader
 image           : 
-email    : achim@owasp.org
+email           : achim@owasp.org
 linkedin        :
 twitter         :
 facebook        :
-status: needs-image, needs-contact
+website         : https://www.owasp.org/index.php/User:Achim
+status          : needs-image
 ---
-
-See bio at [Owasp personal page](https://www.owasp.org/index.php/User:Achim)
-
 
 ### OWASP Involvement
 

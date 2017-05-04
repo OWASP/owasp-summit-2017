@@ -19,7 +19,7 @@ email           : bernhard@vantagepoint.sg
 linkedin        : bernhardm
 twitter         : muellerberndt
 facebook        :
-status          : update-role
+status          : done
 ---
 
 [Sven Schleier](/Participants/need-funding/Sven-Schleier.html) and I would like to do a [Mobile Security workshop](/Working-Sessions/Mobile-Security/index.html) around the OWASP Mobile Testing Guide Standard and Verification Standard. 
