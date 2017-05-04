@@ -7,8 +7,8 @@ track        : CISO
 technology   :
 related-to   : InfoSec Warranties and Guarantees
 status       : need-organizer
-organizers   :
-participants : Dinis Cruz
+organizers   : Yan Kravchenko
+participants : Dinis Cruz, Yan Kravchenko
 
 ---
 
