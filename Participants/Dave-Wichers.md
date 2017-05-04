@@ -4,10 +4,10 @@ title      : Dave Wichers
 type       : participant
 job-title  : OWASP Top 10 and OWASP Benchmark Projects Lead
 image      : https://pbs.twimg.com/profile_images/2670576625/adcfaf60fdafb383c11d88fc3adbbb69.jpeg
-linkedin   : https://www.linkedin.com/in/wichers/
-twitter    : https://twitter.com/wichers
+linkedin   : wichers
+twitter    : wichers
 facebook   :
-status     : empty
+status     : done
 ---
 
 Cofounder of the OWASP Foundation, long time OWASP Contributor, currently leading the Top 10 and Benchmark projects:
