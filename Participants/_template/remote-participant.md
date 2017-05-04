@@ -1,10 +1,10 @@
 ---
 layout     : blocks/page-participant
-title      : ....
+title      : Anuruddha Hewawasam
 type       : participant-remote
-job-title  : ...
-image      :
-linkedin   :
+job-title  : Information Security Engineer
+image      : https://goo.gl/kCVswI
+linkedin   : www.linkedin.com/in/anuruddhahewawasam
 twiter     :
 facebook   :
 funded-who : self
