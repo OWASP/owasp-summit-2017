@@ -23,7 +23,7 @@ Main objectives for the 2017 SAMM Summit are:
 
 
 ## Participants
-* [Seba Deleersnyder](../../Participants/funded/Sebastien-Deleersnyder.html)
+* [Seba Deleersnyder](../../Participants/sponsor/Sebastien-Deleersnyder.html)
 * ... (add your name here by editing the [GitHub page](https://github.com/OWASP/owasp-summit-2017/edit/master/Working-Sessions/OwaspSAMM/index.md))
 
 ## Previous SAMM summits:
