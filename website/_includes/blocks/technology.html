@@ -2,7 +2,10 @@
 <div class="working-session">
   <div class="container">
     <h1>{{ page.title }}  (Technology)</h1>
-    <p>{{ page.description }}</p>{{ content }}
+    <p>
+      {{ page.description }}
+      {{ content }}
+    </p>
     <h3>Working Sessions related to {{ page.title }}</h3>
     <ul>
       {% for working-session in working-sessions %}
