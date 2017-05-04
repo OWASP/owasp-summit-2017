@@ -6,7 +6,7 @@ job-title       : Unit Head
 travel-from     : Vienna
 expenses        : owasp
 funded          : no
-funded-who      : tbd
+funded-who      :
 flight-cost     : 0
 ticket-cost     : 1500
 funded-amount   : tbd
@@ -19,12 +19,10 @@ linkedin        : ferreira
 twitter         : lucassapao
 facebook        : 
 website         : https://www.owasp.org/index.php/User:Sapao
-status          : empty
+status          : done
 ---
 
-## Lucas Ferreira
-
-# How I got involved in OWASP
+#### How I got involved in OWASP
 
 In 2008, OWASP was organizing the EU Summit in Portugal and issued a Call for Training Providers, seeking trainings to be delivered at the Summit. I had recently finished preparing a "Secure Programming in Java" training in Portuguese and was working with some friends to organize training sessions in Brazil.
 

@@ -7,7 +7,7 @@ time            : vacation
 travel-from     : USA
 expenses        : owasp
 funded          : no
-funded-who      : tbd
+funded-who      :
 flight-cost     : 1000
 ticket-cost     : 1500
 funded-amount   :
@@ -16,6 +16,7 @@ project-leader  :
 chapter-leader  :
 image           : https://www.owasp.org/images/thumb/0/06/Kuai_hinojosa.jpeg/200px-Kuai_hinojosa.jpeg.png
 linkedin        :
+status          : more-content
 twitter         :
 ---
 

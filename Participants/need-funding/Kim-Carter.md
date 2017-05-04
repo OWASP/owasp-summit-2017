@@ -1,7 +1,7 @@
 ---
-layout: blocks/page-participant
-title: Kim Carter
-type: participant
+layout          : blocks/page-participant
+title           : Kim Carter
+type            : participant
 travel-from     :
 expenses        : owasp
 funded          : no
@@ -14,8 +14,9 @@ project-leader  :
 chapter-leader  :
 job-title       : Security focussed Technologist
 image           : https://avatars0.githubusercontent.com/u/2862029
-twitter: binarymist
-role: Workshop-Admin
+twitter         : binarymist
+status          : done
+role            : Workshop-Admin
 ---
 
 ## Kim Carter

@@ -1,8 +1,8 @@
 ---
-layout: blocks/page-participant
-title: Magno Logan
-type: participant
-job-title: Systems and Network Security Specialist
+layout          : blocks/page-participant
+title           : Magno Logan
+type            : participant
+job-title       : Systems and Network Security Specialist
 expenses        : owasp
 funded          : no
 funded-who      : tbd
@@ -12,13 +12,13 @@ funded-amount   : tbd
 required-funds  : 1500
 project-leader  :
 chapter-leader  :
-image: https://avatars0.githubusercontent.com/u/1558043
-linkedin: magnologan
-twitter: magnologan
-role: Workshop Admin
+owasp-other     :
+image           : https://avatars0.githubusercontent.com/u/1558043
+linkedin        : magnologan
+twitter         : magnologan
+status          : done
+role            : Workshop Admin
 ---
-
-## Magno Logan
 
 Magno (Logan) Rodrigues is a Systems and Network Security Specialist at TecBan. He was the founder of the OWASP Paraíba Chapter in 2011 and currently leads the OWASP São Paulo Chapter, in Brazil. He already spoke at many conferences in Brazil such as the GTS, ENSOL, BSidesSP, OWASP App Sec Latam, ECD, BHack and Just4Meeting in Portugal. He was also the organizer of the OWASP Paraíba Day in 2012 and the JampaSec Security Conference in 2015. Postgraduate in Information Security from FATEC João Pessoa, he studied Security and Computer Forensics in New York, USA. Graduated in Internet Systems Technology from IFPB. His specialties are Web Application Security, Secure Development and Web Malware. He has the following certifications: CompTIA Security+, EXIN ISFS - ISO 27002 and EXIN Secure Programming.
 

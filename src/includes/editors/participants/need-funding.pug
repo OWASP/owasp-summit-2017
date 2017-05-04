@@ -5,6 +5,7 @@ mixin table-header
         //th role
         th project-leader
         th chapter-leader
+        th owasp-other
         th time covered by
         th Travel from
         th flight cost
@@ -29,6 +30,7 @@ mixin table-row
             a(href='{{page.url}}') {{ page.title     }}
         td  {{ page.project-leader     }}
         td  {{ page.chapter-leader     }}
+        td  {{ page.owasp-other        }}
         td  {{ page.time               }}
         td  {{ page.travel-from        }}
         td ${{ page.flight-cost        }}
@@ -42,6 +44,7 @@ mixin table-row
 
 mixin total_amount
     tr
+        td
         td
         td
         td
@@ -68,6 +71,21 @@ mixin data-reset
     | {% assign total_amount = 0     %}
     | {% assign index        = 0     %}
 
+mixin status
+    | {% assign page_status = page.status | split: ',' %}
+    | {% for status in page_status %}
+    |   {% case status %}
+    |       {% when 'draft' %}
+    .label.label-primary {{ status }}
+    |       {% when 'done' %}
+    .label.label-success {{ status }}
+    |       {% when 'empty' %}
+    .label.label-danger {{ status }}
+    |       {% else %}
+    .label.label-warning {{ status }}
+    |   {% endcase %}
+    | {% endfor %}
+
 .participants-table
 
     h1 Participant's Funding
@@ -75,10 +93,10 @@ mixin data-reset
 
     h3 Participants that need funding
 
-
     | {% assign participants = site.pages | where: 'expenses', 'owasp' | where_exp: 'item', 'item.funded != true' %}
     | {% assign funded       = false %}
     + data-reset
+
     table.table.table-striped.text-center
         +table-header
         | {% for page in participants %}
@@ -86,15 +104,21 @@ mixin data-reset
         | {% endfor %}
         +total_amount
 
+.participants-table
 
-    | {% assign participants = site.pages | where: 'expenses', 'owasp' | where_exp: 'item', 'item.funded == true' %}
-    | {% assign funded       = true  %}
-    + data-reset
+    h4 Participant's Content
 
-    h3 Participants currently funded
-    table.table.table-striped.text-center
-        + table-header
+    table.table.table-striped
+        thead
+            th name (title)
+            th status
+            th content
         | {% for page in participants %}
-        + table-row
+        tr
+            td
+                h3 {{ page.title }}
+            td.text-center
+                +status
+            td {{ page.content }}
+
         | {% endfor %}
-        + total_amount
