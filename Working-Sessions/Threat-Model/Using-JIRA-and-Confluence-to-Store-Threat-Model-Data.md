@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Using JIRA and Confluence to Store Threat Model Data
 type         : workshop
 owasp-project: no
-track        :
+track        : Threat Model
 technology   :
 related-to   :
 status       : draft

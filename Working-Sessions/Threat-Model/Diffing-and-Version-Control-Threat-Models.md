@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Diffing and Version Control Threat Models
 type         : workshop
 owasp-project: no
-track        :
+track        : Threat Model
 technology   :
 related-to   :
 status       : draft

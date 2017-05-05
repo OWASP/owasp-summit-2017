@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Threat Modeling pure Javascript Applications
 type         : workshop
 owasp-project: no
-track        :
+track        : Threat Model
 technology   :
 related-to   :
 status       : draft
