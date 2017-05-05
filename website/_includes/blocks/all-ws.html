@@ -1,0 +1,73 @@
+
+<div class="featured-ws">
+  <div class="container">
+    {% include blocks/tracks.html %}
+    {% include blocks/technologies.html %}
+    <div class="row">
+      <div class="col-xs-0"></div>
+      <div class="col-xs-12">
+        <h1>Featured Working Sessions</h1>
+        <p>Here are this week's Featured Working Sessions.</p>
+      </div>
+      <div class="col-xs-0"></div>
+    </div>
+    <div class="row">
+      <div class="col-xs-0"></div>
+      <div class="col-xs-12">
+        <div class="row">
+          {% for page in site.pages %}
+            {% if page.title and page.type == 'workshop' and page.status == 'featured' %}
+          <div class="col-xs-6 col-sm-4">
+            <div class="ws-box">
+              <div class="ws-title"><a href="{{page.url}}">{{page.title | truncate: 45 }}</a></div>
+              <div class="ws-description"> {{page.description | truncate: 180 }}</div>
+            </div>
+          </div>  {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      <div class="col-xs-0"></div>
+    </div>
+    <div class="row">
+      <div class="col-xs-0"></div>
+      <div class="col-xs-12">
+        <h1>Working Sessions</h1>
+        <p>Here are the other Working Sessions that we will occur at the Summit which have reached a good level of thinking and maturity (see list of draft Working Sessions below)</p>
+      </div>
+      <div class="col-xs-0"></div>
+    </div>
+    <div class="row">
+      <div class="col-xs-0"></div>
+      <div class="col-xs-12">
+        <div class="row">
+          {% for page in site.pages %}
+            {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status != 'draft'  %}
+          <div class="col-xs-6 col-sm-4">
+            <div class="ws-box">
+              <div class="ws-title"><a href="{{page.url}}">{{page.title | truncate: 45 }}</a></div>{% if page.description != null %}
+              <div class="ws-description"> {{page.description | truncate: 180 }}</div>{% else %}
+              <div class="ws-description"> {{page.content | strip_html | truncate: 180 }}</div>{% endif %}
+            </div>
+          </div>  {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      <div class="col-xs-0"></div>
+    </div>
+    <div class="row">
+      <div class="col-xs-0"></div>
+      <div class="col-xs-12">
+        <h1>Draft Working Sessions</h1>
+        <p>Here are the working sessions that are currently being worked on, but need more content and help. If you want to be involved please make the changes on GitHub and send a Pull Request with your ideas.</p>
+        <p>If you feel that there is missing working session that we NEED to have at the Summit, please create it.</p>
+        <ul>
+          {% for page in site.pages %}
+            {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status == 'draft' %}
+          <li><a href="{{page.url}}">{{page.title }}</a></li>  {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-xs-0"></div>
+    </div>
+  </div>
+</div>

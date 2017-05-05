@@ -1,0 +1,50 @@
+@import '../variables.less';
+
+@media(min-width:768px) and (max-width:991px)  {    // bootstrap medium
+  .container {
+    width: auto; // override bootstrap width change to 750px at this point
+  }
+}
+
+.set-sizes(@font-size, @img-size, @top-padding){
+  .navbar      {
+    li a       {   .font-size(@font-size);              }
+    .btn       {   .font-size(@font-size);              } }
+  img          {   width: ~"@{img-size}px";             }
+  .navbar      {   padding-top : ~"@{top-padding}px";   }
+}
+
+@media(min-width: 920px) {   .set-sizes(16, 120, 10);  }
+@media(max-width: 920px) {   .set-sizes(14, 110, 10);  }
+@media(max-width: 840px) {   .set-sizes(12, 100, 20);  }
+@media(max-width: 760px) {   .set-sizes(13,  90, 20);  }
+
+
+.navbar {
+  background-color: transparent;                  // show background image (instead of white)
+  border-color: transparent;                      // remove border
+}
+.navbar-header {
+  button {
+    margin: 0px;
+  }
+}
+
+// this is the top right nav menu
+.blocks-menu {
+  float: right;                           // align the menu to the right
+  font-family   :'Oswald';
+
+  li a {
+    text-transform: uppercase;            // make all text uppercase
+    padding       : 9px 10px 0px 10px;    // align with buttom (top, right, bottom, left)
+    color         : #333333;
+  }
+  button {
+    background     :#00549E;
+    a {
+      color: white;
+      text-transform: uppercase;
+    }
+  }
+}

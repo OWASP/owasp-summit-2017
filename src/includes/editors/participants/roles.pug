@@ -1,0 +1,55 @@
+mixin status
+    | {% assign page_status = page.status | split: ',' %}
+    | {% for status in page_status %}
+    |   {% case status %}
+    |       {% when 'draft' %}
+    .label.label-primary {{ status }}
+    |       {% when 'done' %}
+    .label.label-success {{ status }}
+    |       {% when 'empty' %}
+    .label.label-danger {{ status }}
+    |       {% else %}
+    .label.label-warning {{ status }}
+    |   {% endcase %}
+    | {% endfor %}
+
+
+
+.participants-table
+    | {% assign participants = site.pages | where: 'type', 'participant' %}
+
+    h1 Participant's Roles
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p Here are all participants metadata. Summit Editors should make sure that all all participants have mapped their contact information and content
+    table.table.table-striped
+        thead
+            th #
+            th.large-column name (title)
+            th
+            th status
+            th job-title
+            th company
+            th role
+            th project-leader
+            th chapter-leader
+            th owasp-other
+
+        | {% for page in participants%}
+        tr
+            td.text-center {{ forloop.index }}
+            td
+                a(href='{{ page.url }}' target='_blank') {{ page.title }}
+            td
+                a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+            td.text-center.status-label
+                +status
+            td {{ page.job-title        }}
+            td {{ page.company          }}
+            td {{ page.role             }}
+            td {{ page.project-leader   }}
+            td {{ page.chapter-leader   }}
+            td {{ page.owasp-other      }}
+
+
+        | {% endfor %}

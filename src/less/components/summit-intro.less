@@ -1,0 +1,40 @@
+@import '../variables.less';
+
+
+.summit-intro {
+  background: white;
+  padding-bottom: 40px;
+
+  .intro-text {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  h1 {
+    color: #333333;
+    text-transform: uppercase;
+  }
+
+  .wasp-img {
+
+    padding-top: 50px;
+    width: 150px;
+
+    @media (max-width: 500px) {
+      padding-top: 100px;
+      width: 110px;
+    }
+  }
+  a {
+    font-family: 'Oswald';
+    color: #87BB40;
+  }
+
+  .glyphicon {
+    color: #00549E;
+    padding-right: 5px;
+    @media (max-width: 650px) {
+      display: none;
+    }
+  }
+}

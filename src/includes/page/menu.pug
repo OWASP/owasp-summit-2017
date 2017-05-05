@@ -1,0 +1,31 @@
+// HEADER
+
+header
+    .container
+        .row
+            .col-xs-12
+                nav#menu-offscroll.navbar.navbar-default
+                        .navbar-header
+                            button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+                                span.sr-only Toggle navigation
+                                span.icon-bar
+                                span.icon-bar
+                                span.icon-bar
+                            a(href='/website')
+                                img(src='/website/assets/img/blocks/logo-small.png' alt='owasp summit small logo')
+                        .collapse.navbar-collapse.blocks-menu
+                            ul.nav.navbar-nav
+                                li
+                                    a(href='{{ site.data.links.about            }}') About
+                                li
+                                    a(href='{{ site.data.links.working-sessions }}') Working Sessions
+                                li
+                                    a(href='{{ site.data.links.participants     }}') Participants
+                                li
+                                    a(href='{{ site.data.links.venue            }}') Venue
+                                li
+                                    a(href='{{ site.data.links.sponsors         }}') Sponsors
+                                li
+                                    a(href='{{ site.data.links.summit-organization }}') Summit Organization
+                                button.btn.btn-primary
+                                    a(href='{{ site.data.links.buy-ticket       }}') Buy Ticket

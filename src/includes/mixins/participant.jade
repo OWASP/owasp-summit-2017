@@ -1,0 +1,18 @@
+mixin participant()
+    .card
+        a(href='{{page.url}}')
+            .card-top
+                | {% if page.image != null %}
+                img.img-fluid(src='{{page.image}}' alt='{{page.title | truncate: 40}}')
+                | {% else %}
+                img.img-fluid(src='/website/assets/img/blocks/400x400.png' alt='400x400 placeholder')
+                | {% endif %}
+        .card-block
+            a(href='{{page.url}}')
+                p.participant-name {{ page.title | truncate: 40 }}
+                p.participant-title
+                    | {% if page.job-title != null %}
+                    | {{page.job-title | truncate: 30}}
+                    | {% else %}
+                    | ...
+                    | {% endif %}

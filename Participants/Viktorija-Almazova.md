@@ -1,7 +1,13 @@
 ---
-layout: default
-title: Viktorija Almazova
-type: participant
+layout      : blocks/page-participant
+title       : Viktorija Almazova
+type        : participant
+company     :
+job-title   :
+image       :
+linkedin    :
+twitter     : texnokot
+facebook    :
 ---
 
 ## Viktorija Almazova

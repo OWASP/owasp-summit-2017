@@ -1,0 +1,80 @@
+
+mixin add-participations
+    | {% assign user              = page.title  %}
+    | {% assign working-sessions  = page.working-sessions  %}
+    h2 Working Sessions Participations
+    ul
+        | {% for page in site.pages %}
+        | {%    if page.participants contains user or page.organizers contains user %}
+        li
+            a(href="{{page.url}}") {{ page.title }}
+            | {%    if page.organizers contains user %}
+            span &#32; (organizing)
+            | {%    endif %}
+        |{%     endif %}
+        |{%     if  working-sessions contains page.title  %}
+        li
+            a(href="{{page.url}}") {{ page.title }}
+        | {%    endif %}
+        | {% endfor %}
+        | {% assign working-sessions = page.working-sessions| split: ',' %}
+
+
+mixin add-email
+    | {% if page.email != null %}
+    li
+        a(href='mailto:{{ page.email }}' target='_blank') Email
+    | {% endif %}
+mixin add-twitter
+    | {% if page.twitter != null %}
+    li
+        a(href='https://twitter.com/{{ page.twitter }}' target='_blank') Twitter
+    | {% endif %}
+
+mixin add-linkedin
+    | {% if page.linkedin-company-beta != null %}
+    li
+        a(href="https://www.linkedin.com/company-beta/{{ page.linkedin-company-beta }}" target="_blank") LinkedIn
+    | {% endif %}
+
+
+    | {% if page.linkedin != null %}
+    li
+        a(href="https://linkedin.com/in/{{page.linkedin}}" target="_blank") LinkedIn
+    | {% endif %}
+
+mixin add-facebook
+    | {% if page.facebook != null %}
+    li
+        a(href="https://facebook.com/{{page.facebook}}" target="_blank") Facebook
+    |{% endif %}
+
+mixin add-website
+    | {% if page.website != null %}
+    li
+        a(href="{{page.website}}" target="_blank") Website
+    |{% endif %}
+
+h1 {{ page.title }}
+h3 {{page.job-title }}
+
+| {% if page.image != null %}
+img.participant(src='{{ page.image }}' alt='{{ page.title }}')
+| {% endif %}
+
+
+| {{ content }}
+
++ add-participations
+
+h2 contact details
+ul
+    + add-email
+    + add-website
+    + add-twitter
+    + add-linkedin
+    + add-facebook
+br
+hr
+p Back to list of <a href='/website/participants.html'>all Participants</a>
+p Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>

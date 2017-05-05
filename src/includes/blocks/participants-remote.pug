@@ -1,0 +1,17 @@
+include ../mixins/participant
+
+.participants
+    .container
+        | {{ content }}
+
+        hr
+
+        h4 Current list of remote participants
+
+        .row
+            | {% for page in site.pages %}
+            | {%   if page.title and page.type == 'participant-remote' %}
+            .col-xs-4.col-sm-2
+                +participant()
+            | {%   endif  %}
+            | {% endfor %}

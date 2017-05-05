@@ -1,6 +1,7 @@
 ---
-layout: all-pages
-title:
+#layout: event-point/index
+layout: blocks/index
+title: OWASP Summit 2017
 ---
 
-You can read all content in [one page here](all-content.html)
+

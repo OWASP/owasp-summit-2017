@@ -1,0 +1,185 @@
+.lgx-speakers {
+  background: @body-bg-deep;
+  .speakers-btn-area {
+    text-align: center;
+  }
+  .lgx-single-speaker {
+    background: @white-color;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 4.2rem;
+      -webkit-transition: all .3s ease-in-out 0s;
+      -moz-transition: all .3s ease-in-out 0s;
+      -o-transition: all .3s ease-in-out 0s;
+      transition: all .3s ease-in-out 0s;
+    figure {
+      position: relative;
+      -webkit-box-shadow: 0 0px 10px rgba(0,0,0,.25);
+      -moz-box-shadow: 0 0px 10px rgba(0,0,0,.25);
+      box-shadow: 0 0px 10px rgba(0,0,0,.25);
+      border-radius: 4px;
+
+      a.profile-img {
+        border-radius: 4px;
+        img {
+          border-radius: 4px;
+        }
+      }
+      figcaption {
+        .bg-rgba(@white-color, 0.7);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        color: @white-color;
+        border-radius: 0 0 4px 4px;
+        opacity: 0;
+        padding: .8rem 0;
+          -webkit-transition: all .3s ease-in-out .3s;
+          -moz-transition: all .3s ease-in-out .3s;
+          -o-transition: all .3s ease-in-out .3s;
+          transition: all .3s ease-in-out .3s;
+        a {
+          .font-size(26);
+          color: @brand-color;
+          padding: 0 .3rem;
+        }
+      }
+    }
+    .speaker-info {
+      padding: 1.6rem 0 1.5rem 0;
+      text-align: center;
+      .title {
+        .font-size(26);
+        font-weight: 700;
+        text-transform: uppercase;
+        margin: 0;
+        letter-spacing: .08rem;
+        a {
+          font-size: inherit;
+        }
+      }
+      .subtitle {
+        .font-size(16);
+        font-weight: 400;
+        font-style: italic;
+        margin: 0;
+        color: @brand-color;
+      }
+    }
+    &:hover {
+      background: @brand-color;
+      figure {
+        figcaption {
+          opacity: 1;
+          -webkit-animation-name: fadeInUp;
+          animation-name: fadeInUp;
+          -webkit-transform-origin: center;
+          transform-origin: center;
+          animation-duration: 400ms;
+          animation-timing-function: linear;
+          a i {
+            -webkit-animation-name: zoomIn;
+            animation-name: zoomIn;
+            -webkit-transform-origin: center;
+            transform-origin: center;
+            animation-duration: 500ms;
+            animation-timing-function: linear;
+          }
+        }
+      }
+      .speaker-info {
+        .title {
+          a {
+            color: @white-color;
+          }
+        }
+        .subtitle {
+          color: @white-color;
+        }
+      }
+    }
+  }
+  .lgx-single-speaker-sm {
+    padding: 8px;
+    figure figcaption a {
+      .font-size(18);
+    }
+    .speaker-info .title {
+      .font-size(18)
+    }
+  }
+}
+
+.lgx-speaker-single {
+  .lgx-inner {
+    background: @body-bg-deep;
+  }
+  .lgx-single-speaker {
+    min-height: 100% !important;
+  }
+  p {
+    margin-bottom: 1.6rem;
+  }
+  .speakers-content {
+    .title {
+      .font-size(42);
+      font-weight: 700;
+      margin: 0;
+      text-transform: uppercase;
+    }
+    .subtitle {
+      font-family: @lgx-base-font;
+      .font-size(26);
+      font-weight: 400;
+      color: @brand-color;
+      margin-top: 0;
+    }
+  }
+  .social {
+    margin-bottom: 4.2rem;
+    ul {
+      li {
+        background: @white-color;
+        padding: 5px;
+        border-radius: 50%;
+        text-align: center;
+        -webkit-transition: all .3s ease-in-out 0s;
+        -moz-transition: all .3s ease-in-out 0s;
+        -o-transition: all .3s ease-in-out 0s;
+        transition: all .3s ease-in-out 0s;
+        a {
+          background: @white-color;
+          width: 50px;
+          height: 50px;
+          display: inline-block;
+          border-radius: 50%;
+          font-size: 26px;
+
+          -webkit-box-shadow: 0 0px 10px rgba(0,0,0,.25);
+          -moz-box-shadow: 0 0px 10px rgba(0,0,0,.25);
+          box-shadow: 0 0px 10px rgba(0,0,0,.25);
+          i {
+            font-size: inherit;
+            line-height: 53px;
+          }
+        }
+        &:hover {
+          background: @brand-color;
+          a {
+            color: @brand-color2;
+            i {
+              -webkit-animation-name: zoomIn;
+              animation-name: zoomIn;
+              -webkit-transform-origin: center;
+              transform-origin: center;
+              animation-duration: 600ms;
+              animation-timing-function: linear;
+            }
+          }
+        }
+      }
+    }
+  }
+}

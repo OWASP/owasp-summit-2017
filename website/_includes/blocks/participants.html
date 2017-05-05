@@ -1,0 +1,49 @@
+
+<div class="participants">
+  <div class="container">
+    <h1>Participants</h1>
+    <p>To add your name to this repo please fork the repo and use<a href="https://github.com/OWASP/owasp-summit-2017/tree/master/Participants" target="_blank">&#32; these pages.</a></p>
+    <p>If you want to participate remotely, see <a href='/website/participants-remote.html'>this page</a>.</p>
+    <h4>Current list of Summit attendees</h4><br/>
+    <div class="row">
+      {% for page in site.pages %}
+      {%   if page.title and page.type == 'participant' %}
+      <div class="col-xs-4 col-sm-2">
+        <div class="card"><a href="{{page.url}}">
+            <div class="card-top">{% if page.image != null %}<img src="{{page.image}}" alt="{{page.title | truncate: 40}}" class="img-fluid"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" alt="400x400 placeholder" class="img-fluid"/>{% endif %}</div></a>
+          <div class="card-block"><a href="{{page.url}}">
+              <p class="participant-name">{{ page.title | truncate: 40 }}</p>
+              <p class="participant-title">
+                {% if page.job-title != null %}
+                {{page.job-title | truncate: 30}}
+                {% else %}
+                ...
+                {% endif %}
+              </p></a></div>
+        </div>
+      </div>{%   endif  %}
+      {% endfor %}
+    </div>
+    <h1>Remote Participants</h1>
+    <p>This is the current list of remote attendees (see the <a href='/website/participants-remote.html'>Remote Participants</a> page for more details and instructions on how to register)</p>
+    <div class="row">
+      {% for page in site.pages %}
+      {%   if page.title and page.type == 'participant-remote' %}
+      <div class="col-xs-4 col-sm-2">
+        <div class="card"><a href="{{page.url}}">
+            <div class="card-top">{% if page.image != null %}<img src="{{page.image}}" alt="{{page.title | truncate: 40}}" class="img-fluid"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" alt="400x400 placeholder" class="img-fluid"/>{% endif %}</div></a>
+          <div class="card-block"><a href="{{page.url}}">
+              <p class="participant-name">{{ page.title | truncate: 40 }}</p>
+              <p class="participant-title">
+                {% if page.job-title != null %}
+                {{page.job-title | truncate: 30}}
+                {% else %}
+                ...
+                {% endif %}
+              </p></a></div>
+        </div>
+      </div>{%   endif  %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

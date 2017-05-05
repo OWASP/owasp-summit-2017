@@ -1,0 +1,66 @@
+.featured-ws
+    .container
+
+        | {% include blocks/tracks.html %}
+        | {% include blocks/technologies.html %}
+
+        .row
+            .col-xs-0
+            .col-xs-12
+                h1 Featured Working Sessions
+                p Here are this week's Featured Working Sessions.
+            .col-xs-0
+        .row
+            .col-xs-0
+            .col-xs-12
+                .row
+                    | {% for page in site.pages %}
+                    |   {% if page.title and page.type == 'workshop' and page.status == 'featured' %}
+                    .col-xs-6.col-sm-4
+                        .ws-box
+                            .ws-title
+                                a(href="{{page.url}}") {{page.title | truncate: 45 }}
+                            .ws-description  {{page.description | truncate: 180 }}
+                    |   {% endif %}
+                    | {% endfor %}
+            .col-xs-0
+        .row
+            .col-xs-0
+            .col-xs-12
+                h1 Working Sessions
+                p Here are the other Working Sessions that we will occur at the Summit which have reached a good level of thinking and maturity (see list of draft Working Sessions below)
+            .col-xs-0
+
+        .row
+            .col-xs-0
+            .col-xs-12
+                .row
+                    | {% for page in site.pages %}
+                    |   {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status != 'draft'  %}
+                    .col-xs-6.col-sm-4
+                        .ws-box
+                            .ws-title
+                                a(href="{{page.url}}") {{page.title | truncate: 45 }}
+                            | {% if page.description != null %}
+                            .ws-description  {{page.description | truncate: 180 }}
+                            | {% else %}
+                            .ws-description  {{page.content | strip_html | truncate: 180 }}
+                            | {% endif %}
+                    |   {% endif %}
+                    | {% endfor %}
+            .col-xs-0
+
+        .row
+            .col-xs-0
+            .col-xs-12
+                h1 Draft Working Sessions
+                p Here are the working sessions that are currently being worked on, but need more content and help. If you want to be involved please make the changes on GitHub and send a Pull Request with your ideas.
+                p If you feel that there is missing working session that we NEED to have at the Summit, please create it.
+                ul
+                    | {% for page in site.pages %}
+                    |   {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status == 'draft' %}
+                    li
+                        a(href="{{page.url}}") {{page.title }}
+                    |   {% endif %}
+                    | {% endfor %}
+            .col-xs-0

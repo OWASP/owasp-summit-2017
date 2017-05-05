@@ -1,9 +1,16 @@
 ---
-layout: default
-title: Francois Raynaud
-type: participant
+layout      : blocks/page-participant
+title       : Francois Raynaud
+type        : participant
+job-title   : DevSecOps leader
+image       : https://pbs.twimg.com/profile_images/743515700787044352/9buHsI0a_400x400.jpg
+linkedin    :
+twitter     : F_Raynaud
+facebook    :
+status: draft
 ---
 
-## Francois Raynaud
+... add more more details...
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
+* [LinkedIn](https://www.linkedin.com/in/francoisraynaud)
+* [Twitter](https://twitter.com/devseccon)

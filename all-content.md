@@ -1,4 +1,0 @@
----
-layout: all-content
-title:
----

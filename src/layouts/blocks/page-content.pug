@@ -1,0 +1,13 @@
+extends page-template
+
+block content
+    .page-content
+        .container
+            h1 {{ page.title }}
+            | {% if page.image != null %}
+            img.participant(src='{{ page.image }}' alt='{{ page.title }}')
+            | {% endif %}
+            | {{ content }}
+            br
+            hr
+            p Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>

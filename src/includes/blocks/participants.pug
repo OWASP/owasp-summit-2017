@@ -1,0 +1,29 @@
+include ../mixins/participant
+
+.participants
+    .container
+        h1 Participants
+        p To add your name to this repo please fork the repo and use
+            a(href='https://github.com/OWASP/owasp-summit-2017/tree/master/Participants' target="_blank") &#32; these pages.
+        p If you want to participate remotely, see <a href='/website/participants-remote.html'>this page</a>.
+        h4 Current list of Summit attendees
+        br
+        .row
+            | {% for page in site.pages %}
+            | {%   if page.title and page.type == 'participant' %}
+            .col-xs-4.col-sm-2
+                +participant()
+            | {%   endif  %}
+            | {% endfor %}
+
+        h1 Remote Participants
+
+        p This is the current list of remote attendees (see the <a href='/website/participants-remote.html'>Remote Participants</a> page for more details and instructions on how to register)
+
+        .row
+            | {% for page in site.pages %}
+            | {%   if page.title and page.type == 'participant-remote' %}
+            .col-xs-4.col-sm-2
+                +participant()
+            | {%   endif  %}
+            | {% endfor %}

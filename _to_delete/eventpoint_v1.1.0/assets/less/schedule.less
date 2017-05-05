@@ -1,0 +1,216 @@
+.lgx-schedule {
+  .lgx-inner {
+    background: url('http://placehold.it/1920x544') bottom center no-repeat;
+    -webkit-background-size: auto auto, cover;
+    -o-background-size: auto auto, cover;
+    -moz-background-size: auto auto, cover;
+    background-size: auto auto, cover;
+  }
+  .lgx-tab {
+    text-align: center;
+    .nav-pills {
+      text-align: center;
+      display: inline-block;
+      margin-bottom: 2.6rem;
+      li {
+        background: @body-bg-deep;
+        padding: 5px;
+        border-radius: 4px;
+        margin: 0 .4rem;
+        a {
+          background: @white-color;
+          padding: 1.2rem 3rem .8rem;
+          border-radius: 4px;
+          -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+          -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+          box-shadow: 0 4px 10px rgba(0,0,0,.25);
+          h3 {
+            .font-size(26);
+            line-height: 2.6rem;
+            color: @black-color;
+            text-transform: uppercase;
+            margin: 0;
+            span {
+              color: @brand-color;
+            }
+          }
+          p {
+            font-style: italic;
+            margin: 0;
+            span {
+              color: @brand-color;
+              font-weight: 700;
+            }
+          }
+        }
+        /*&:hover {
+          a {
+            h3, p {
+              -webkit-animation-name: fadeIn;
+              animation-name: fadeIn;
+              -webkit-transform-origin: center;
+              transform-origin: center;
+              animation-duration: 400ms;
+              animation-timing-function: linear;
+            }
+          }
+        }*/
+      }
+      .active {
+        background: @brand-color;
+        position:relative;
+        -moz-box-shadow: 3px 4px 15px rgba(52,61,71,.49);
+        -webkit-box-shadow: 3px 4px 15px rgba(52,61,71,.49);
+        -o-box-shadow: 3px 4px 15px rgba(52,61,71,.49);
+        -ms-box-shadow: 3px 4px 15px rgba(52,61,71,.49);
+        box-shadow: 3px 4px 15px rgba(52,61,71,.49);
+        &:before {
+          position: absolute;
+          content: '';
+          width: 0;
+          height: 0;
+          border-left: 60px solid transparent;
+          border-right: 60px solid transparent;
+          border-top: 60px solid @brand-color;
+          top: 50%;
+          left: 22%;
+        }
+        a {
+          h3 {
+
+          }
+        }
+      }
+    }
+
+    .lgx-tab-content {
+      -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+      -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+      box-shadow: 0 4px 10px rgba(0,0,0,.25);
+    }
+    .lgx-single-tab {
+      &:nth-of-type(even) {
+        .bg-rgba(@body-bg-deep, .5);
+      }
+      .bg-rgba(@white-color, .4);
+      border-radius: 4px;
+      padding: 2rem 1.6rem;
+      .time-area {
+        text-align: center;
+        .time {
+          font-family: @lgx-heading-font;
+          .font-size(42);
+          text-align: right;
+          line-height: 5rem;
+          text-transform: uppercase;
+          display: inline-block;
+          span {
+            display: block;
+            color: @brand-color;
+            .font-size(26);
+            opacity: .7;
+          }
+        }
+      }
+      .author {
+        .author-img, .author-info{
+          width: 50%;
+          float: left;
+        }
+        .author-img {
+          max-width: 100px;
+          margin-right: 1.3rem;
+          img {
+            max-width: 100px;
+            border-radius: 50%;
+
+          }
+        }
+        .author-info {
+          text-align: left;
+          margin-top: 2rem;
+          .name {
+            font-family: @lgx-heading-font;
+            text-transform: uppercase;
+            color: @black-color;
+            margin: 0;
+            a {
+              color: inherit;
+            }
+          }
+          .author-title {
+            color: @brand-color;
+            margin: 0;
+          }
+        }
+      }
+      .schedule-info {
+        text-align: left;
+        .title {
+          color: @black-color;
+          margin-top: 0;
+          margin-bottom: .5rem;
+          a {
+            color: inherit;
+          }
+        }
+      }
+      &:hover {
+        .bg-rgba(@brand-color, 1);
+        color: @white-color;
+        border-radius: 0;
+        &:first-child {
+          border-radius: 4px 4px 0 0;
+        }
+        &:last-child {
+          border-radius: 0 0 4px 4px;
+        }
+        p {
+          color: @white-color;
+        }
+        .time-area {
+          .time {
+            span {
+              color: @white-color;
+            }
+          }
+        }
+        .author {
+          .author-img {
+            img {
+              -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+              -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+              box-shadow: 0 4px 10px rgba(0,0,0,.25);
+              -webkit-animation-name: zoomIn;
+              animation-name: zoomIn;
+              -webkit-transform-origin: center;
+              transform-origin: center;
+              animation-duration: 400ms;
+              animation-timing-function: linear;
+            }
+          }
+          .author-info {
+            .name {
+              color: @white-color;
+              a {
+                color: inherit;
+              }
+            }
+            .author-title {
+              color: @white-color;
+            }
+          }
+        }
+        .schedule-info {
+          text-align: left;
+          .title {
+            color: @white-color;
+            a {
+              color: inherit;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,20 +1,10 @@
----
-layout: default
-title: Readme
-type: content
----
-
 ## Owasp Summit 2017
 
 Welcome to the home page of the Owasp Summit 2017
 
 Registration is open [On RegOnline](https://www.regonline.com/owaspsummit2017) 
 
-### Other sites
-
-* [Wiki page at Owasp.org](https://www.owasp.org/index.php?title=Owasp-Summit-2017)
 * [Slack channel](https://owasp.slack.com/archives/owasp-summit)
-* Todo - twitter 
 
 **Owasp Summit 2017, England, 12-16 June 2017**
 OWASP is organizing a new Summit in 2017 focused on the collaboration between Developers and Application Security.
@@ -24,7 +14,7 @@ This is not a conference with uni-directional presentations, this is a working s
 * Threat Modeling, Mobile Security, IoT
 * Risk & Governance, Privacy & CTO/CISO requirements
 * Secure Design, Bug-bounties
-* [Browser Security](./Workshops/Browser-security.md), AI for Attack & Defence
+* [Browser Security](./Working-Sessions/Browser-security.md), AI for Attack & Defence
 * DDoS, Cyber Warfare, AppSec Standards;
 
 .. and of course, working sessions on popular OWASP projects (lead by its leaders) such as:

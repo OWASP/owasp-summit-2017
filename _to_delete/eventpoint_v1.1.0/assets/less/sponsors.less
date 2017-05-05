@@ -1,0 +1,71 @@
+.lgx-sponsors {
+  background: url('http://placehold.it/1920x1187') center center no-repeat;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  .lgx-inner-bg {
+    .bg-rgba(@brand-color, 0.5);
+  }
+  .lgx-inner {
+    .bg-rgba(@white-color, 0.85);
+  }
+  .sponsors-btn-area {
+    text-align: center;
+    margin-top: 1.6rem;
+  }
+  .sponsored-heading {
+    .font-size(26);
+    font-weight: 700;
+    color: @brand-color;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 4.2rem 0 2.6rem 0;
+    display: block;
+  }
+  .first-heading {
+    margin-top: 0;
+  }
+  .sponsors-area {
+    text-align: center;
+    .single {
+      background: @white-color;
+      margin: 0 .5%;
+      padding: 5px;
+      border-radius: 4px;
+      width: 23%;
+      display: inline-block;
+      margin-bottom: 2.6rem;
+        -webkit-transition: all .3s ease-in-out 0s;
+        -moz-transition: all .3s ease-in-out 0s;
+        -o-transition: all .3s ease-in-out 0s;
+        transition: all .3s ease-in-out 0s;
+      a {
+        background: @white-color;
+        display: block;
+        padding: 1.5rem 1rem;
+        border-radius: 4px;
+        -webkit-box-shadow: 0 0px 10px rgba(0,0,0,.25);
+        -moz-box-shadow: 0 0px 10px rgba(0,0,0,.25);
+        box-shadow: 0 0px 10px rgba(0,0,0,.25);
+        text-align: center;
+        img {
+          max-width: 180px;
+        }
+      }
+      &:hover {
+        background: @brand-color;
+        a {
+          img {
+            -webkit-animation-name: zoomIn;
+            animation-name: zoomIn;
+            -webkit-transform-origin: center;
+            transform-origin: center;
+            animation-duration: 400ms;
+            animation-timing-function: linear;
+          }
+        }
+      }
+    }
+  }
+}

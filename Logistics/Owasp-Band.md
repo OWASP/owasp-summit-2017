@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: blocks/page-content
 title: OWASP Band
 type: logistic
 ---
 
-## OWASP Band
-
 Using the same model used in previous performances of the OWASP band (at multiple OWASP conferences and Summits), if you can play an instrument, sing or can do anything related to an musical performance, please add your name below.
 
-* [Dinis Cruz](../Participants/Dinis-Cruz.md) - Drums and Guitar
-* [Steven van der Baan](../Participants/Steven-van-der-Baan.md) - Bass
+* [Dinis Cruz](../Participants/Dinis-Cruz.html) - Drums and Guitar
+* [Steven van der Baan](../Participants/need-funding/Steven-van-der-Baan.html) - Bass
 
 
 ### Set list
@@ -22,8 +20,8 @@ Using the same model used in previous performances of the OWASP band (at multipl
 
 (where was this?)
 
-![](https://cloud.githubusercontent.com/assets/656739/19942716/97fc3f4e-a12c-11e6-8a22-badffca70a92.png)
+![Owasp Band](https://cloud.githubusercontent.com/assets/656739/19942716/97fc3f4e-a12c-11e6-8a22-badffca70a92.png) 
 
 #### OWASP Summit 2011 (Lisbon)
 
-![](https://lh3.googleusercontent.com/X0Cu9r1oMMVKQMdi3_RgRiek4YQ_FT9NVymBdC9mpiFQ4RJ4m07a1vbQAcD13uhOdyR2XZnf9ICMEg=w5120-h3200-rw-no)
+![Owasp Band by Ofer Maor](https://lh3.googleusercontent.com/X0Cu9r1oMMVKQMdi3_RgRiek4YQ_FT9NVymBdC9mpiFQ4RJ4m07a1vbQAcD13uhOdyR2XZnf9ICMEg=w5120-h3200-rw-no)

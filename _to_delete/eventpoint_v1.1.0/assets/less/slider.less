@@ -1,0 +1,555 @@
+.lgx-slider {
+  color: @white-color;
+  position: relative;
+  p {
+    color: @white-color;
+    opacity: .7;
+  }
+  .lgx-inner {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+  .lgx-item-center {
+    text-align: center;
+    .text {
+      margin: 0 auto;
+    }
+  }
+  .lgx-item-left {
+    text-align: left;
+    .banner-btn {
+      .lgx-btn {
+        margin-right: .5rem;
+      }
+    }
+  }
+  .lgx-item-right {
+    text-align: right;
+    .text {
+      float: right;
+    }
+    .banner-btn {
+      float: right;
+    }
+  }
+  .owl-controls .owl-nav [class*=owl-]{
+    height: 60px;
+    width: 60px;
+    background: @brand-color;
+    color: @white-color;
+    border-radius: 50%;
+    -webkit-box-shadow: 1px 2px 10px rgba(52,61,71,.3);
+    -moz-box-shadow: 1px 2px 10px rgba(52,61,71,.3);
+    box-shadow: 1px 2px 10px rgba(52,61,71,.3);
+    &:hover {
+      background: @white-color;
+      color: @brand-color;
+    }
+  }
+  .owl-prev, .owl-next {
+    position: absolute;
+    top: 45%;
+    opacity: 0;
+    i {
+      font-size: 40px;
+      line-height: 49px;
+    }
+  }
+
+  .owl-prev {
+    left: 0;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+  }
+  .owl-next {
+    right: 0;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+  }
+
+  &:hover {
+    .owl-prev, .owl-next {
+      opacity: 1;
+    }
+    .owl-prev {
+      left: 15px;
+    }
+    .owl-next {
+      right: 15px;
+    }
+  }
+
+  .lgx-brand {
+    background: transparent;
+    padding-top: 2rem;
+    padding-bottom: 10px;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s linear;
+
+    .lgx-logo {
+      max-width: 180px;
+      -webkit-transition: all 0.3s ease;
+      transition: all 0.3s linear;
+    }
+  }
+
+  .slider-text-single {
+    figure {
+      position: relative;
+      figcaption {
+        background: -moz-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%, rgba(220, 78, 65, 0.8) 200%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left right, color-stop(0%,rgba(46, 52, 57, 0.8)), color-stop(100%,rgba(220, 78, 65, 0.95))); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* IE10+ */
+        background: linear-gradient(to right,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(46, 52, 57, 0.9)', endColorstr='rgba(220, 78, 65, 0.9)',GradientType=0 ); /* IE6-9 */
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        .lgx-container {
+          max-width: 1170px;
+          display: block;
+          margin: 0 auto;
+          height: 100%;
+          padding-left: 20px;
+          padding-right: 20px;
+          .lgx-hover-link {
+            width: 100%;
+            height: 100%;
+            display: table;
+            .lgx-vertical {
+              display: table-cell;
+              vertical-align: middle;
+              .lgx-btn {
+                margin-top: 3.2rem;
+                display: inline-block;
+              }
+              .title {
+                color: @white-color;
+                .font-size(68);
+                line-height: 8rem;
+                font-weight: 400;
+                margin: 0;
+                font-style: italic;
+                font-family: @lgx-base-font;
+              }
+              .subtitle {
+                .font-size(68);
+                font-family: @lgx-heading-font;
+                font-weight: 400;
+                margin: 0;
+                color: @white-color;
+                opacity: .8;
+                text-transform: uppercase;
+                margin-bottom: 1.6rem;
+              }
+              .text {
+                width: 70%;
+              }
+
+
+              .lgx-subtitle {
+                font-family: @lgx-base-font;
+                .font-size(42);
+                font-weight: 400;
+                font-style: italic;
+                margin: 0;
+                span {
+                  color: @brand-color2;
+                  font-weight: 700;
+                }
+              }
+              .lgx-title {
+                .font-size(68);
+                font-weight: 700;
+                margin: 0 0 1rem;
+                text-transform: uppercase;
+                span {
+                  color: @brand-color2;
+                }
+              }
+              .date {
+                font-family: @lgx-base-font;
+                .font-size(26);
+                text-transform: uppercase;
+                font-weight: 700;
+                font-style: italic;
+                margin-top: 0;
+                span {
+                  color: @brand-color;
+                }
+              }
+              .text {
+                padding: 0 10%;
+                margin-bottom: 3rem;
+              }
+              .banner-btn {
+                .lgx-btn {
+                  margin: 0 .8rem;
+                  padding: 1.2rem 3rem;
+                }
+              }
+
+
+            }
+          }
+        }
+        &:before {
+          content: "";
+          position: absolute;
+          .bg-rgba(@black-color, .2);
+          top: -38px;
+          left: 0;
+          width: 100%;
+          height: 20%;
+          -webkit-filter: blur(30px); /* Chrome, Safari, Opera */
+          filter: blur(30px);
+        }
+
+      }
+    }
+  }
+
+  // Countdown
+  .lgx-countdown-area {
+    margin-bottom: 1.6rem;
+    #lgx-countdown {
+      span {
+        text-align: center;
+        font-family: @lgx-heading-font;
+        .font-size(42);
+        font-weight: 700;
+        display: inline-block;
+        margin-right: 2rem;
+        letter-spacing: .16rem;
+      }
+      i {
+        font-family: @lgx-base-font;
+        .font-size(16);
+        color: @white-color;
+        margin-right: 1rem;
+        text-transform: uppercase;
+        font-weight: 400;
+        letter-spacing: normal;
+        display: block;
+      }
+      .lgx-days {
+        color: #fff200;
+      }
+      .lgx-hr {
+        color: #ff8a00;
+      }
+      .lgx-min {
+        color: #00b9ff;
+      }
+      .lgx-sec {
+        color: #8dc63f;
+      }
+    }
+  }
+  // Countdown
+
+
+
+  .owl-theme .owl-controls {
+    margin-top: 0;
+    text-align: center;
+  }
+
+}
+
+
+/*-----------------------------------------*/
+/* FOR CONTENT SLIDER
+-------------------------------------------*/
+.lgx-contentslider {
+  background: url('http://placehold.it/1920x861') top center no-repeat fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  color: @white-color;
+  .lgx-inner {
+    background: -moz-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%, rgba(220, 78, 65, 0.8) 200%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left right, color-stop(0%,rgba(46, 52, 57, 0.8)), color-stop(100%,rgba(220, 78, 65, 0.95))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* IE10+ */
+    background: linear-gradient(to right,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(46, 52, 57, 0.9)', endColorstr='rgba(220, 78, 65, 0.9)',GradientType=0 ); /* IE6-9 */
+  }
+  .lgx-owlcontslider {
+    .owl-controls {
+      text-align: left;
+      .owl-nav [class*=owl-] {
+        .bg-rgba(@black-color, 0.9);
+        color: @brand-color2;
+        font-size: 26px;
+        margin: 5px;
+        padding: 10px 18px;
+        display: inline-block;
+        cursor: pointer;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        opacity: 0;
+        -webkit-transition: all .3s ease-in-out 0s;
+        -moz-transition: all .3s ease-in-out 0s;
+        -o-transition: all .3s ease-in-out 0s;
+        transition: all .3s ease-in-out 0s;
+        -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+        -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+        box-shadow: 0 4px 10px rgba(0,0,0,.25);
+        &:hover {
+          .bg-rgba(@brand-color2, 1);
+          color: @white-color;
+        }
+      }
+    }
+    &:hover {
+      .owl-controls {
+        .owl-nav [class*=owl-] {
+          opacity: 1;
+          -webkit-animation-name: zoomIn;
+          animation-name: zoomIn;
+          -webkit-transform-origin: center;
+          transform-origin: center;
+          animation-duration: 500ms;
+          animation-timing-function: linear;
+        }
+      }
+    }
+  }
+}
+
+
+//ANIMATION EFFECT
+#lgx-main-slider,
+#lgx-owlcontslider {
+  .active {
+
+    //SLIDER ITEM ONE ANIMATION
+    .lgx-fadeInLeft-img {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: .3s;
+
+      -webkit-animation-name: fadeInLeft;
+      animation-name: fadeInLeft;
+
+    }
+
+    .lgx-fadeInLeft-one {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: .9s;
+
+      -webkit-animation-name: fadeInLeft;
+      animation-name: fadeInLeft;
+
+    }
+
+    .lgx-fadeInLeft-two {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 1.5s;
+
+      -webkit-animation-name: fadeInLeft;
+      animation-name: fadeInLeft;
+
+    }
+    .lgx-fadeInLeft-three {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 2.1s;
+
+      -webkit-animation-name: fadeInLeft;
+      animation-name: fadeInLeft;
+
+    }
+
+    .lgx-fadeInLeft-four {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 2.7s;
+
+      -webkit-animation-name: fadeInLeft;
+      animation-name: fadeInLeft;
+
+    }
+    //SLIDER ITEM ONE ANIMATION END
+
+
+    //SLIDER ITEM TWO ANIMATION
+    .lgx-zoomIn-img {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: .3s;
+
+      -webkit-animation-name: fadeInRight;
+      animation-name: fadeInRight;
+    }
+
+    .lgx-zoomIn-one {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: .9s;
+
+
+      -webkit-animation-name: zoomIn;
+      animation-name: zoomIn;
+
+    }
+
+    .lgx-zoomIn-two {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 1.5s;
+
+
+      -webkit-animation-name: zoomIn;
+      animation-name: zoomIn;
+
+    }
+    .lgx-zoomIn-three {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 2.1s;
+
+      -webkit-animation-name: zoomIn;
+      animation-name: zoomIn;
+
+    }
+
+    .lgx-fadeInRight-four {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 2.7s;
+
+
+      -webkit-animation-name: zoomIn;
+      animation-name: zoomIn;
+
+    }
+    //SLIDER ITEM TWO ANIMATION END
+
+
+    //SLIDER ITEM THREE ANIMATION
+
+    .lgx-fadeInU-img {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: .3s;
+
+      -webkit-animation-name: fadeInRight;
+      animation-name: fadeInRight;
+    }
+
+    .lgx-zoomInUp-one {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: .9s;
+
+      -webkit-animation-name: fadeInRight;
+      animation-name: fadeInRight;
+
+    }
+
+    .lgx-zoomInUp-two {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 1.5s;
+
+      -webkit-animation-name: fadeInRight;
+      animation-name: fadeInRight;
+
+    }
+    .lgx-zoomInUp-three {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 2.1s;
+
+      -webkit-animation-name: fadeInRight;
+      animation-name: fadeInRight;
+
+    }
+
+    .lgx-zoomInUp-four {
+
+      -webkit-animation-duration: .3s;
+      animation-duration: .3s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-delay: 2.1s;
+
+      -webkit-animation-name: fadeInRight;
+      animation-name: fadeInRight;
+
+    }
+    //SLIDER ITEM THREE ANIMATION END
+  }
+}
+
+#lgx-main-slider .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+
+

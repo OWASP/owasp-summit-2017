@@ -1,0 +1,24 @@
+---
+layout       : blocks/working-session
+title        : Draft SAMM2 - the "DevOps release"
+type         : workshop
+owasp-project: no
+track        : OwaspSAMM
+status       : draft
+organizers   : Sebastien Deleersnyder
+participants : Marc Rimbau, Mateo Martinez
+---
+
+Draft SAMM2, the "DevOps release"
+
+## Why
+
+...why text...
+
+## What
+
+...what text...
+
+## Who
+
+... who (target audience ...
