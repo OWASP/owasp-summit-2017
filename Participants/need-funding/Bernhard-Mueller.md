@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : Bernhard Mueller
 type            : participant
 time            : vacation
-travel-from     :
+travel-from     : Singapore
 expenses        : owasp
 funded          : no
 funded-who      :
@@ -11,7 +11,7 @@ flight-cost     : 1000
 ticket-cost     : 1500
 funded-amount   :
 required-funds  : 2500
-project-leader  :
+project-leader  : The OWASP Mobile Security Testing Guide
 chapter-leader  :
 job-title       : Security Researcher
 image           : https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
@@ -22,10 +22,22 @@ facebook        :
 status          : done
 ---
 
-[Sven Schleier](/Participants/need-funding/Sven-Schleier.html) and I would like to do a [Mobile Security workshop](/Working-Sessions/Mobile-Security/index.html) around the OWASP Mobile Testing Guide Standard and Verification Standard. 
-The goal is to advance the guide & standard, including (but not limited to) the sections dealing with integration of security into the mobile app development process.  
+I am planning a [mobile application security workshop](/Working-Sessions/Mobile-Security/index.html) to together with [Sven Schleier](/Participants/need-funding/Sven-Schleier.html) with the goal of advancing the [Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg). This guide is part of the documents developed in the Mobile Security Testing project. Our vision:
 
-We'd need flights and accommodation provided by OWASP as our company won't sponsor the trip - please let us know soon if this will be possible, as we'll need to announce & prepare the workshop.
+**Define the industry standard for mobile application security.**
 
-* [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide) Project Leader
+## The Mobile Security Testing Guide (MSTG)
 
+The MSTG is a comprehensive guide for iOS and Android mobile security testers. We aim to build the ultimate learning resource and reference guide for mobile app reversers with the following content:
+
+- Mobile platform internals
+- Security testing in the SDLC
+- Static and dynamic security testing
+- Mobile app reverse engineering and tampering
+- Assessing mobile software protections
+
+The MSTG is a work-in-progress. Currently, we hope to be "feature-complete" in Q3 2017. A book version of the current master branch is available on Gitbook.
+
+## What We Need Funding For
+
+Funding goes into flights and accommodation.
