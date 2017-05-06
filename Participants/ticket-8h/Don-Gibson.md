@@ -1,25 +1,17 @@
 ---
 layout          : blocks/page-participant
-title           : Tobias Gondrom
+title           : Don Gibson
 type            : participant
-time            : ???
-travel-from     : ???
-expenses        : owasp
-funded          : no
-funded-who      : ???
-flight-cost     : ???
-ticket-cost     : 1500
-funded-amount   : ????
-required-funds  : 1500
-job-title       :
-image           :
+job-title       : Security Architect
+company         :
+travel-from     :
+image           : United Kingdom
 linkedin        :
 twiter          :
 facebook        :
-project-leader  :
-chapter-leader  :
-owasp-other     :
+funded-who      : self
 status          : empty
+ticket          : 5x8h
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

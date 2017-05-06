@@ -1,10 +1,10 @@
 ---
 layout        : blocks/page-participant
-title         : Ingo Hanke
-type          : participant
-job-title     : ...
-image         :
-linkedin      :
+title           : Ingo Hanke
+type            : participant
+job-title       :
+image           :
+linkedin        :
 twitter         :
 facebook        :
 website         : https://www.owasp.org/index.php/User:Ingo_Hanke

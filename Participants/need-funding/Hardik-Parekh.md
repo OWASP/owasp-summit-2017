@@ -2,7 +2,7 @@
 layout          : blocks/page-participant
 title           : Hardik Parekh
 type            : participant
-travel-from     :
+travel-from     : United States
 expenses        : owasp
 funded          : no
 funded-who      :
@@ -18,6 +18,7 @@ job-title       : SSDL Leader
 linkedin        : hkparekh
 twitter         :
 facebook        :
+ticket          : 5x24
 status          : done
 ---
 

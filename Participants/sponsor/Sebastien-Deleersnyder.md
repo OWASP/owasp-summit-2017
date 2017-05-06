@@ -7,10 +7,11 @@ job-title   : Co-founder & managing partner application security at Toreon
 image       : https://pbs.twimg.com/profile_images/425208323093176320/AQr7Ot7l_400x400.png
 linkedin    : sebadele
 twitter     : sebadele
-#facebook    : 
 funded-who  : sponsor
-ticket      : 24h
-status      : needs-content
+ticket      : 5x24h
+status      : done
+working-sessions:
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
 Summit co-organizer
