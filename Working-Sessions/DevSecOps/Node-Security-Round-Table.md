@@ -17,7 +17,7 @@ Node Security is a very important topic today
 
 Node Security awareness and understanding is quite low
 
-Static Analsyis is quite weak. Dependency management is more mature
+Static Analysis is quite weak. Dependency management is more mature
 
 ## What
 
