@@ -12,17 +12,15 @@ ticket-cost     : 1500
 funded-amount   : TBD
 required-funds  : 3000
 job-title       :
-image           :
+image           : https://pbs.twimg.com/profile_images/794956497310646272/ncqspvG7_400x400.jpg
 linkedin        :
-twiter          :
+twiter          : marcomorana
 facebook        :
+website         : https://www.owasp.org/index.php/Marco_Morana
 project-leader  :
 chapter-leader  :
 owasp-other     :
-status          : empty
-working-sessions:
+status          : done
+working-sessions: Threat Model,CISO Survey
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
-threat modelling, ciso guide and survey updates
-
-bio:https://www.owasp.org/index.php/Marco_Morana
-twitter: @marcomorana
+---
