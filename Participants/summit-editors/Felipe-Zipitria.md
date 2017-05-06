@@ -17,7 +17,7 @@ job-title       : Researcher / IT / Chapter Leader
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
 linkedin        : felipezipitria
 status          : done
-working-sessions: Securing the CI Pipeline,Writing Security Tests
+working-sessions: Securing the CI Pipeline,Writing Security Tests,Owasp Latam Region,Owasp Student Chapters
 ---
 
 ## Felipe Zipitria
