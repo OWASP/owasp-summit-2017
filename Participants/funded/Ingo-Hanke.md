@@ -13,6 +13,8 @@ expenses      : owasp
 funded        : yes
 flight-cost   : 450
 ticket-cost   : 1500
+required-funds: 1950
+funded-amount : 1950
 funded-who    : OWASP German Chapter
 email         : ingo.hanke@owasp.org
 status        : done
