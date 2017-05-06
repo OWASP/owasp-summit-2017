@@ -7,11 +7,11 @@ image         :
 linkedin      :
 twitter       :
 facebook      :
-time          : ???
+time          :
 travel-from   : Germany
 expenses      : owasp
 funded        : yes
-flight-cost   : 500
+flight-cost   : 450
 ticket-cost   : 1500
 funded-who    : OWASP German Chapter
 email         : ingo.hanke@owasp.org

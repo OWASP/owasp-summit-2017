@@ -3,14 +3,14 @@ layout          : blocks/page-participant
 title           : Achim Hoffmann
 type            : participant
 time            : vacation
-travel-from     :
+travel-from     : Germany
 expenses        : owasp
-funded          : no
-funded-who      : tbd
-flight-cost     : 1000
+funded          : yes
+funded-who      : OWASP German Chapter
+flight-cost     : 450
 ticket-cost     : 1500
-funded-amount   :
-required-funds  : 2500
+funded-amount   : 1950
+required-funds  : 1950
 project-leader  : O-Saft
 chapter-leader  :
 job-title       : O-Saft Project Leader
