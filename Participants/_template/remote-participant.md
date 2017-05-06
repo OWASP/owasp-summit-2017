@@ -1,17 +1,19 @@
 ---
 layout          : blocks/page-participant
-title           : Anuruddha Hewawasam
+title           : ...
 type            : participant-remote
-job-title       : Information Security Engineer, TechCERT
-image           : https://goo.gl/kCVswI
-linkedin        : www.linkedin.com/in/anuruddhahewawasam
+job-title       :
+image           :
+linkedin        :
 twiter          :
 facebook        :
 website         :
 email           :
+project-leader  :
+chapter-leader  :
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-Anuruddha is a passionate Information Security Professional and he is beginner contributor for some of the OWASP projects. He is keenly  interested in Mobile Security track of this summit.
+<!-- put more details about participant here -->

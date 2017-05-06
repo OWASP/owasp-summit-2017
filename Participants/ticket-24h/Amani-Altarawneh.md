@@ -1,18 +1,16 @@
 ---
 layout          : blocks/page-participant
-title           : ....
+title           : Amani Altarawneh
 type            : participant
-job-title       :
+job-title       : Phd Student - Research Assistant
 company         :
-travel-from     :
+travel-from     : United States
 image           :
 linkedin        :
 twiter          :
 facebook        :
 website         :
 email           :
-project-leader  :
-chapter-leader  :
 funded-who      :
 ticket          : 5x24h
 status          : empty

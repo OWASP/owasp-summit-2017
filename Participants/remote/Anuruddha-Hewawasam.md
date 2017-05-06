@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : Anuruddha Hewawasam
 type            : participant-remote
 job-title       : Information Security Engineer, TechCERT
-image           : https://goo.gl/kCVswI
+image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAfhAAAAJDhhNDM2NWU4LWI0MGMtNGNiOS04YjYwLTc4MzI3MjE4NDg3Zg.jpg
 linkedin        : anuruddhahewawasam
 twiter          :
 facebook        :

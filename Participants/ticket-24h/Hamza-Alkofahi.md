@@ -1,18 +1,16 @@
 ---
 layout          : blocks/page-participant
-title           : ....
+title           : Hamza Alkofahi
 type            : participant
-job-title       :
-company         :
-travel-from     :
+job-title       : Phd Student - Research Assistant
+company         : Auburn University
+travel-from     : United States
 image           :
 linkedin        :
 twiter          :
 facebook        :
 website         :
 email           :
-project-leader  :
-chapter-leader  :
 funded-who      :
 ticket          : 5x24h
 status          : empty

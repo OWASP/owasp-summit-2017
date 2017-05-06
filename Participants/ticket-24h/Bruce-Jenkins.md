@@ -1,9 +1,9 @@
 ---
 layout          : blocks/page-participant
-title           : ....
+title           : Bruce Jenkins
 type            : participant
-job-title       :
-company         :
+job-title       : Fortify Security Lead
+company         : Hewlett Packard Enterprise
 travel-from     :
 image           :
 linkedin        :

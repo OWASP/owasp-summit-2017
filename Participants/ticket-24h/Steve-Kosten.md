@@ -1,8 +1,8 @@
 ---
 layout          : blocks/page-participant
-title           : ....
+title           : Steve Kosten
 type            : participant
-job-title       :
+job-title       : Denver Chapter Leader
 company         :
 travel-from     :
 image           :
@@ -12,7 +12,7 @@ facebook        :
 website         :
 email           :
 project-leader  :
-chapter-leader  :
+chapter-leader  : Denver
 funded-who      :
 ticket          : 5x24h
 status          : empty
