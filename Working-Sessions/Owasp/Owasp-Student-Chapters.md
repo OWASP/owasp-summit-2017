@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Owasp Student Chapters
 type         : workshop
 owasp-project: yes
-track        :
+track        : Owasp
 status       : done
 organizers   : Mateo Martinez
 participants :

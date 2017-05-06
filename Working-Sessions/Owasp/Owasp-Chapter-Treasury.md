@@ -1,9 +1,9 @@
 ---
 layout       : blocks/working-session
 title        : Owasp Chapter Treasury
-type         : workshop
+type         : Owasp
 organizers   :
-track        :
+track        : Owasp
 status       : done
 organizers   : Ingo Hanke
 participants :

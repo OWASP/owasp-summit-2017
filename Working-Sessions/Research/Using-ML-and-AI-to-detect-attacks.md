@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Using ML and AI to detect Attacks
 type         : workshop
 owasp-project: no
-track        : DevSecOps
+track        : Research
 status       : review-content
 organizers   : Talal Albacha
 when-day     : Friday
