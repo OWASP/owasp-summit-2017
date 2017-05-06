@@ -1,8 +1,8 @@
 ---
-layout: blocks/page-participant
-title: Daniel Miessler
-type: participant
-travel-from     :
+layout          : blocks/page-participant
+title           : Daniel Miessler
+type            : participant
+travel-from     : San Francisco
 expenses        : owasp
 funded          : no
 funded-who      :
@@ -17,7 +17,10 @@ image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAA
 linkedin        : danielmiessler
 twitter         : danielmiessler
 facebook        :
+ticket          : 5x8h
 status          : done
+working-sessions:
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
 I would like to lead a workshop around [The OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project), and [The OWASP Game Security Framework](https://www.owasp.org/index.php/OWASP_Game_Security_Framework_Project).
