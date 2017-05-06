@@ -18,7 +18,7 @@ job-title       : SSDL Leader
 linkedin        : hkparekh
 twitter         :
 facebook        :
-ticket          : 5x24
+ticket          : 5x24h
 status          : done
 ---
 

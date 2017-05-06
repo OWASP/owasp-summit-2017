@@ -10,6 +10,6 @@ email           : jason.li@owasp.org
 twitter         : OWASPguy
 facebook        :
 status          : needs-content
-ticket          : 24h
+ticket          : 5x24h
 working-sessions: Lightweight Threat Modeling Process,Threat Modeling Schema,Threat Modeling Templates,Threat Modeling Cheat Sheet,Data behind Owasp Top 10 2017,Implications of Owasp Top 10 2017,Writing Security Tests,Testing Guide v5,Cheatsheets,NextGen Security Scanners,OWASP Risk Rating Management Project
 ---

@@ -1,18 +1,19 @@
 ---
 layout          : blocks/page-participant
-title           : Sam Stepanyan
+title           : Fraser Scott
+company         : Capital One
 type            : participant
 job-title       :
-company         :
+company         : Capital One
 travel-from     :
-image           : https://pbs.twimg.com/profile_images/378800000437753670/d6cc27b09d6eaf9a5256fbbe9df61300_400x400.jpeg
+image           :
 linkedin        :
-twitter         : securestep9
+twiter          :
 facebook        :
-working sessions:
+ticket          : 5x24h
+status          : empty
+working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
-
-## Sam Stepanyan
 
 <!-- put more details about participant here -->

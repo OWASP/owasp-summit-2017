@@ -1,18 +1,21 @@
 ---
 layout          : blocks/page-participant
-title           : Sam Stepanyan
+title           : Mike Milner
 type            : participant
-job-title       :
-company         :
-travel-from     :
-image           : https://pbs.twimg.com/profile_images/378800000437753670/d6cc27b09d6eaf9a5256fbbe9df61300_400x400.jpeg
+job-title       : CTO
+company         : Immunio
+travel-from     : Canada
+image           : https://pbs.twimg.com/profile_images/802226331551313920/3NfWy8qB_400x400.jpg
 linkedin        :
-twitter         : securestep9
+twitter         : secretmike
 facebook        :
+status          : empty
+ticket          : 5x24h
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-## Sam Stepanyan
+## Mike Milner
+@
 
 <!-- put more details about participant here -->

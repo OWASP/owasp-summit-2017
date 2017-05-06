@@ -1,18 +1,18 @@
 ---
-layout        : blocks/page-participant
-title         : Nikita Garia
-type          : participant
-travel-from   : Bangalore
-expenses      : owasp
-funded        : yes
-funded-who    : Summit Editor Fund
-flight-cost   : 1000
-ticket-cost   : 0 (will stay with Devesh)
-funded-amount : 1200 (with Visa)
-required-funds: 1200
-role          : Summit-Editor
-job-title     : Editor
-ticket        : 5x24h
+layout          : blocks/page-participant
+title           : Nikita Garia
+type            : participant
+travel-from     : Bangalore
+expenses        : owasp
+funded          : yes
+funded-who      : Summit Editor Fund
+flight-cost     : 1000
+ticket-cost     : 0 (will stay with Devesh)
+funded-amount   : 1200 (with Visa)
+required-funds  : 1200
+role            : Summit-Editor
+job-title       : Editor
+ticket          : 5x24h
 ---
 
 ## Nikita Garia

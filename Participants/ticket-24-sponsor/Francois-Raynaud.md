@@ -1,18 +1,18 @@
 ---
 layout          : blocks/page-participant
-title           : Johan Peeters
+title           : Francois Raynaud
 type            : participant
-job-title       :
+job-title       : DevSecOps leader
 company         :
-travel-from     : Belgium
-image           : https://avatars3.githubusercontent.com/u/969231?v=3&s=200
-linkedin        :
-twiter          :
+travel-from     :
+image           : https://pbs.twimg.com/profile_images/743515700787044352/9buHsI0a_400x400.jpg
+linkedin        : francoisraynaud
+twitter         : F_Raynaud
 facebook        :
-email           : yo@johanpeeters.com
-website         : http://www.johanpeeters.com
 status          : need-content
 ticket          : 5x24h
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
+
+* [Twitter](https://twitter.com/devseccon)
