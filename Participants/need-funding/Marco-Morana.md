@@ -2,15 +2,15 @@
 layout          : blocks/page-participant
 title           : Marco Morana
 type            : participant
-time            : ???
-travel-from     : ???
+time            : 2 days
+travel-from     : Tampa, Florida, USA
 expenses        : owasp
 funded          : no
-funded-who      : ???
-flight-cost     : ???
+funded-who      : TBD
+flight-cost     : 1500
 ticket-cost     : 1500
-funded-amount   : ????
-required-funds  : 1500
+funded-amount   : TBD
+required-funds  : 3000
 job-title       :
 image           :
 linkedin        :
@@ -22,6 +22,7 @@ owasp-other     :
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
----
+threat modelling, ciso guide and survey updates
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
+bio:https://www.owasp.org/index.php/Marco_Morana
+twitter: @marcomorana
