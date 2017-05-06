@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : ....
+title           : Tobias Gondrom
 type            : participant
 time            : ???
 travel-from     : ???

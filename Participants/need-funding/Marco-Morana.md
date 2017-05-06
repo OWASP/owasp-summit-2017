@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : ....
+title           : Marco Morana
 type            : participant
 time            : ???
 travel-from     : ???

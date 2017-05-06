@@ -4,12 +4,12 @@ title           : Anuruddha Hewawasam
 type            : participant-remote
 job-title       : Information Security Engineer, TechCERT
 image           : https://goo.gl/kCVswI
-linkedin        : www.linkedin.com/in/anuruddhahewawasam
+linkedin        : anuruddhahewawasam
 twiter          :
 facebook        :
 website         :
 email           :
-status          : empty
+status          : done
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
