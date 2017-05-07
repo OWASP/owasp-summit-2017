@@ -2,7 +2,8 @@
 layout       : blocks/working-session
 title        : OWASP Bug Bounty
 type         : workshop
-track        : Project Summit
+owasp-project: yes
+track        : Security Crowdsourcing
 status       : more-content
 organizers   :
 participants :
