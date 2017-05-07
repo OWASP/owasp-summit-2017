@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Sebastein Gioria
+title           : Sebastien Gioria
 type            : participant
 time            :
 expenses        : owasp

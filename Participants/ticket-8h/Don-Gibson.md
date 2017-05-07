@@ -4,8 +4,8 @@ title           : Don Gibson
 type            : participant
 job-title       : Security Architect
 company         :
-travel-from     :
-image           : United Kingdom
+travel-from     : United Kingdom
+image           :
 linkedin        :
 twiter          :
 facebook        :

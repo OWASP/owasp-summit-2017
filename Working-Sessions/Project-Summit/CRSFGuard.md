@@ -1,13 +1,13 @@
 ---
 layout       : blocks/working-session
-title        : CRSFGuard Project
+title        : CRSFGuard
 type         : workshop
 owasp-project: yes
 track        :
 technology   :
 related-to   :
 status       : draft
-organizers   : Azzeddine Ramrami,Sebastein Gioria
+organizers   : Azzeddine Ramrami,Sebastien Gioria
 participants :
 ---
 
