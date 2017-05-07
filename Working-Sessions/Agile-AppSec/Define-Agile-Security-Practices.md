@@ -6,7 +6,7 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   : Integrating Security into an Spotify Model
-status       : draft
+status       : review-content
 organizers   : David Clarke
 participants : Ante Gulam
 ---
