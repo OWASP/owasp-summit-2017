@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : ....
+title           : Azzeddine Ramrami
 type            : participant
 time            :
 expenses        : owasp
@@ -8,14 +8,14 @@ funded          : no
 funded-who      :
 flight-cost     :
 ticket-cost     : 1500
-funded-amount   :
+funded-amount   : 1200 (CRSFGuard Project)
 required-funds  : 1500
 job-title       :
 company         :
 travel-from     :
-image           :
-linkedin        :
-twiter          :
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/034/332/28e320d.jpg
+linkedin        : azzeddine-ramrami-107b7a5/
+twiter          : doukkalli
 facebook        :
 project-leader  :
 chapter-leader  :

@@ -6,7 +6,7 @@ job-title       : Systems and Network Security Specialist
 travel-from     : Brazil
 expenses        : owasp
 funded          : no
-funded-who      : tbd
+funded-who      :
 flight-cost     : 0
 ticket-cost     : 1500
 funded-amount   : 1000 (Owasp Outreach Funds)

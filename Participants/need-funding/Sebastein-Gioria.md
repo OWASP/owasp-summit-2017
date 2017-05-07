@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : ....
+title           : Sebastein Gioria
 type            : participant
 time            :
 expenses        : owasp
@@ -8,17 +8,18 @@ funded          : no
 funded-who      :
 flight-cost     :
 ticket-cost     : 1500
-funded-amount   :
+funded-amount   : 1200 (CRSFGuard Project)
 required-funds  : 1500
 job-title       :
 company         :
 travel-from     :
-image           :
-linkedin        :
-twiter          :
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/011/238/1ab3358.jpg
+linkedin        : gioria
+twiter          : SPoint
 facebook        :
+website         : http://blog.gioria.org
 project-leader  :
-chapter-leader  :
+chapter-leader  : French
 owasp-other     :
 status          : empty
 working-sessions:

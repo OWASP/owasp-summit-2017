@@ -5,7 +5,7 @@ type            : participant
 job-title       : Head of Product Security
 company         : Opera Software
 travel-from     : Poland
-image           : https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAiSAAAAJDI3ZTY5MmYzLTI1ZDktNDViNy05YTc2LTJkM2YyNTU4YTg2NQ.jpg
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgrAAAAJGRlNDgwNTI5LWZiNTQtNGNmNy05NWYyLTcxOGM2ODhhODZjZQ.jpg
 email           : alexander.antukh@owasp.org
 linkedin        : antukh
 twitter         : c0rdis
