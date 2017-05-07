@@ -4,7 +4,7 @@ title        : Securing Legacy Applications
 type         : workshop
 owasp-project: no
 track        : DevSecOps
-technology   :
+technology   : SAST
 related-to   : Cyber Insurance,CISO,InfoSec Warranties and Guarantees
 status       : need-organizer
 participants :
@@ -24,6 +24,7 @@ The big elephant in the room are the hundreds/thousands applications that exist 
  - Who should own maintain these applications
  - Can these applications be used an an opportunity to implement DevOps practices
  - How to insure these applications
+ - How SAST technology tends to be very effective in legacy applications
 
 ## Who
 
