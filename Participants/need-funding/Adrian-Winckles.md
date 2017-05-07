@@ -5,7 +5,7 @@ type            : participant
 time            : work
 travel-from     : Cambridge
 expenses        : owasp
-funded          : yes
+funded          : no
 funded-who      : OWASP Community Fund
 flight-cost     : 0
 ticket-cost     : 1500

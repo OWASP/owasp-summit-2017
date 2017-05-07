@@ -6,7 +6,7 @@ time            :
 expenses        : owasp
 funded          : no
 funded-who      :
-flight-cost     :
+flight-cost     : (tbd)
 ticket-cost     : 1500
 funded-amount   : 1200 (CRSFGuard Project)
 required-funds  : 1500

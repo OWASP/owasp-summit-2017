@@ -7,7 +7,7 @@ travel-from     : Brazil
 expenses        : owasp
 funded          : no
 funded-who      :
-flight-cost     : 0
+flight-cost     : (tbd)
 ticket-cost     : 1500
 funded-amount   : 1000 (Owasp Outreach Funds)
 required-funds  : 1500

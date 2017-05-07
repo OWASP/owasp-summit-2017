@@ -2,14 +2,14 @@
 layout          : blocks/page-participant
 title           : Tobias Gondrom
 type            : participant
-time            : ???
-travel-from     : ???
+time            :
+travel-from     :
 expenses        : owasp
 funded          : no
-funded-who      : ???
-flight-cost     : ???
+funded-who      :
+flight-cost     : (tbd)
 ticket-cost     : 1500
-funded-amount   : ????
+funded-amount   : 0
 required-funds  : 1500
 job-title       :
 image           :

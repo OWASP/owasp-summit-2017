@@ -8,7 +8,7 @@ funded          : no
 funded-who      :
 flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   :
+funded-amount   : 0
 required-funds  : 2500
 project-leader  :
 chapter-leader  :
