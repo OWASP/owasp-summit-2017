@@ -6,7 +6,7 @@ owasp-project: no
 track        : DevSecOps
 technology   : CI,SAST
 related-to   : Integrating Security Tools in the SDL,CISO
-status       : draft,need-organizer
+status       : draft
 participants :
 organizers   :
 ---

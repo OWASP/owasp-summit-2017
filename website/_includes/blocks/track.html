@@ -1,4 +1,5 @@
-{% assign tracks_ws = site.pages | where: 'track', page.title  %}
+{% assign tracks_ws_ok    = site.pages | where: 'track', page.title  | where_exp: 'item' , 'item.status != "draft"'%}
+{% assign tracks_ws_draft = site.pages | where: 'track', page.title  | where_exp: 'item' , 'item.status == "draft"'%}
 <div class="working-session">
   <div class="container">
     <h1>{{ page.title }}  (Track)</h1>
@@ -18,9 +19,12 @@
     {% endfor %}
     {% endif %}
     <h3>Working sessions in this Track</h3>
-    <ul>{% for page in tracks_ws %}
+    <ul>{% for page in tracks_ws_ok %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
-    </ul>
+    </ul>{% if tracks_ws_draft.size > 0 %}<b>In draft status (i.e. need content):</b>
+    <ul>{% for page in tracks_ws_draft %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+    </ul>{% endif %}
     {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
     {% assign related-to = page.related-to    %}
     {%  for working-session in match  %}
