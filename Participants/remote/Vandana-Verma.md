@@ -7,5 +7,5 @@ image           : https://pbs.twimg.com/profile_images/543837812286427136/Ys6BHS
 linkedin        : vandana-verma
 twiter          : InfosecVandana
 email           : vandana.infosec@gmail.com
-working-sessions: MSTG,MASVS,Women in Cyber,Creating AppSec Talent.Creating AppSec Teams,Recruiting AppSec Talent,Netflix Security Automation,Netflix Resilience Engineering
+working-sessions: Mobile Application Security Verification Standard (MASVS),Mobile Security Testing Guide (MSTG),Women in Cyber,Creating AppSec Talent,Creating AppSec Teams,Recruiting AppSec Talent,Netflix Security Automation,Netflix Resilience Engineering
 ---
