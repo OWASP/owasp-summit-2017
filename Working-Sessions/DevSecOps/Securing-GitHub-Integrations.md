@@ -2,8 +2,8 @@
 layout      : blocks/working-session
 title       : Securing GitHub Integrations
 type        : workshop
-status      : more-content
 track       : DevSecOps
+status      : review-content
 organizers  :
 participants:
 ---

@@ -12,3 +12,15 @@ participants : Marc Rimbau, Jeroen Willemsen
 
 * Working on MASVS - https://github.com/OWASP/owasp-masvs
 * MASVS Review and Editing
+
+## Why
+
+...why text...
+
+## What
+
+...what text...
+
+## Who
+
+... (target audience) ...

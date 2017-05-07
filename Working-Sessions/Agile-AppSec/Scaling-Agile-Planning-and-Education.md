@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Scaling Agile Planning and Education.md
 type         : workshop
 owasp-project: no
-track        : aaaa-Agile AppSec
+track        : Agile AppSec
 technology   :
 related-to   :
 status       : draft

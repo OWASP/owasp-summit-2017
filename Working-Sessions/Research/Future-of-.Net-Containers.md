@@ -5,7 +5,7 @@ type         : workshop
 track        : Research
 technology   : .Net,Docker
 related-to   :
-status       : draft
+status       : review-content
 organizers   :
 participants : PhotoBox
 ---

@@ -6,7 +6,7 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   :
-status       : draft
+status       : review-content
 organizers   :
 participants : Dinis Cruz
 ---

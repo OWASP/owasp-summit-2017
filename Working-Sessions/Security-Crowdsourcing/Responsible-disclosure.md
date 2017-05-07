@@ -3,7 +3,7 @@ layout      : blocks/working-session
 title       : Responsible Disclosure
 type        : workshop
 status      : more-content
-track       : DevSecOps
+track       : Security Crowdsourcing
 organizers  :
 participants:
 ---

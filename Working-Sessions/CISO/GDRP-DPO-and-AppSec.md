@@ -5,7 +5,7 @@ type         : workshop
 track        : CISO
 technology   : GDPR
 related-to   :
-status       : need-organizer
+status       : review-content
 organizers   :
 participants : Dinis Cruz
 ---

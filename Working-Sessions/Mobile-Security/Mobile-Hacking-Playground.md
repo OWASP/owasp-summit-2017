@@ -1,11 +1,26 @@
 ---
-layout: blocks/working-session
-title: Mobile Hacking Playground
-type: workshop
-track: Mobile Security
-technology: Mobile
+layout      : blocks/working-session
+title       : Mobile Hacking Playground
+type        : workshop
+track       : Mobile Security
+technology  : Mobile
 organizers  : Sven Schleier
-status: draft
+status      : draft
 ---
 
 * Work on Mobile Hacking Playground, https://github.com/OWASP/OMTG-Hacking-Playground
+
+
+...intro text...
+
+## Why
+
+...why text...
+
+## What
+
+...what text...
+
+## Who
+
+... (target audience) ...

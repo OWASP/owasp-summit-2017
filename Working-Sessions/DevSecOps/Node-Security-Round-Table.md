@@ -6,7 +6,7 @@ owasp-project: no
 track        : DevSecOps
 technology   :
 related-to   :
-status       : draft
+status       : review-content
 organizers   :
 participants :
 ---

@@ -6,7 +6,7 @@ owasp-project: no
 track        : DevSecOps
 technology   : SAST
 related-to   : Cyber Insurance,CISO,InfoSec Warranties and Guarantees
-status       : need-organizer
+status       : review-content
 participants :
 organizers   : Lucas Ferreira
 ---

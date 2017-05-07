@@ -21,9 +21,13 @@
     <h3>Working sessions in this Track</h3>
     <ul>{% for page in tracks_ws_ok %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
-    </ul>{% if tracks_ws_draft.size > 0 %}<b>In draft status (i.e. need content):</b>
-    <ul>{% for page in tracks_ws_draft %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+    </ul>{% if tracks_ws_draft.size > 0 %}
+    <ul>
+      <li><b>In draft status (i.e. need content):</b>
+        <ul>{% for page in tracks_ws_draft %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+        </ul>
+      </li>
     </ul>{% endif %}
     {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
     {% assign related-to = page.related-to    %}

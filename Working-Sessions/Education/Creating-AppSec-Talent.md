@@ -6,7 +6,7 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
-status       : draft
+status       : review-content
 participants :
 organizers   :
 ---

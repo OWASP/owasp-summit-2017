@@ -6,7 +6,7 @@ owasp-project: yes
 track        : CISO
 technology   :
 related-to   : CISO Survey
-status       : draft
+status       : review-content
 organizers   : Marco Morana
 participants :
 ---

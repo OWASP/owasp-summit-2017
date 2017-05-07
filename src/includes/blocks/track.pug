@@ -73,12 +73,14 @@ mixin show-related-to
                 a(href='{{ page.url }}') {{ page.title }}
             | {% endfor %}
         | {% if tracks_ws_draft.size > 0 %}
-        b In draft status (i.e. need content):
         ul
-            | {% for page in tracks_ws_draft %}
             li
-                a(href='{{ page.url }}') {{ page.title }}
-            | {% endfor %}
+                b In draft status (i.e. need content):
+                ul
+                    | {% for page in tracks_ws_draft %}
+                    li
+                        a(href='{{ page.url }}') {{ page.title }}
+                    | {% endfor %}
         | {% endif %}
         + show-related-to
 

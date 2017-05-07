@@ -6,7 +6,7 @@ owasp-project: no
 track        : Research
 technology   :
 related-to   : Threat Model
-status       : draft
+status       : review-content
 organizers   :
 participants : PhotoBox
 ---

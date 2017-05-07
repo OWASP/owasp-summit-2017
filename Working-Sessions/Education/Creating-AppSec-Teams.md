@@ -6,7 +6,7 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,CISO
-status       : draft
+status       : review-content
 organizers   : Dinis Cruz
 participants :
 ---
