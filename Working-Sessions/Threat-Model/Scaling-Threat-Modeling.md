@@ -7,7 +7,7 @@ technology   :
 related-to   :
 status       : draft
 organizers   :
-participants :
+participants :Geoff Hill
 ---
 
 ...intro text...
