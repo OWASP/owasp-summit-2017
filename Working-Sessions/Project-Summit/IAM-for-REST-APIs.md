@@ -6,7 +6,7 @@ track       : Project Summit
 technology  : REST
 status      : done
 organizers  : Johan Peeters
-participants: Marc Rimbau,Dinis Cruz
+participants: Marc Rimbau,Dinis Cruz,Bjoern Kimminich
 ---
 
 ### Problem statement
