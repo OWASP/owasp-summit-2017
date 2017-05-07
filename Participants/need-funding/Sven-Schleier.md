@@ -8,7 +8,7 @@ funded          : no
 funded-who      : tbd
 flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   :
+funded-amount   : 1000 (Owasp Outreach Funds)
 required-funds  : 2500
 project-leader  : Mobile Security Testing Guide, MASVS, Mobile Hacking Playground
 chapter-leader  :

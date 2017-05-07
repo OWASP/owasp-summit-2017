@@ -9,12 +9,12 @@ funded          : yes
 funded-who      : OWASP Community Fund
 flight-cost     : 0
 ticket-cost     : 1500
-funded-amount   : 1500
+funded-amount   : 1000 (Owasp Outreach Funds)
 required-funds  : 1500
 project-leader  : 
 chapter-leader  : Cambridge
 time            : ARU
-job-title       : ....
+job-title       :
 image           : https://pbs.twimg.com/profile_images/589462457015476224/-f9sW6zr_400x400.jpg
 email           : Adrian.Winckles@owasp.org
 linkedin        : adrian-winckles-2582ab3

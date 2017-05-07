@@ -4,12 +4,12 @@ title           : Ade Yoseman Putra
 type            : participant
 time            : Vacation
 expenses        : owasp
-funded          : yes
+funded          : no
 funded-who      : OWASP Community fund
 travel-from     : Jakarta
 flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   : 2000
+funded-amount   : 1000 (Owasp Outreach Funds)
 required-funds  : 2500
 job-title       : Jakarta Chapter Leader & Owasp Risk Rating Management Project Leader
 email           : ade.putra@owasp.org
