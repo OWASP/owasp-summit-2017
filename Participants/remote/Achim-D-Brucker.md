@@ -4,8 +4,8 @@ title           : Achim D. Brucker
 type            : participant-remote
 job-title       :
 image           : https://www.brucker.ch/images/adb.png
-linkedin        : https://de.linkedin.com/in/adbrucker
-twiter          : @adbrucker 
+linkedin        : adbrucker
+twiter          : adbrucker
 facebook        :
 website         : https://www.brucker.ch
 email           : adbrucker@0x5f.org
