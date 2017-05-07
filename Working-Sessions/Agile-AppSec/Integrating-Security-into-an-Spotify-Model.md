@@ -11,19 +11,32 @@ organizers   : David Clarke
 participants : Ante Gulam
 ---
 
-The Spotify Model has been widely adopted by multiple companies, but to integrate Agile Security Practices into it.
-
 ## Why
 
-...why text...
+The Spotify Model has been widely adopted by multiple companies, but to integrate Agile Security Practices into it.
+
+We need companies that have tried, failed and succeeded to integrate security into an Spotify Model to share their experiences
+
+The Spotify model of Squads, Tribes and Guilds (using multiple Agile methodogies) presents the oportunity to define global practices and
+activities that can be replicated across multiple teams (and geographical locations and cultures)
 
 ## What
 
-...what text...
+ - What are the security activities that can be integrated into the Spotify Model?
+ - What worked?
+ - Does it make sense to Integrate Security into an Spotify Model?
+ - What are the best practices?
+ - How should these practices be measured?
 
 ## Who
 
-... target audience ...
+The target audience for this Working Session is:
+
+- Security professionals
+- CISO's
+- Agile practitioners
+- DevSecOps
+- SecDevOps
 
 ## References
 

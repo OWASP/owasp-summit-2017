@@ -13,14 +13,23 @@ participants : Ante Gulam
 
 ## Why
 
-The idea of using Agile in Security Practices/Activites is one that makes a lot of sense. But what does it mean.
+The idea of using Agile in Security Practices/Activites is one that makes a lot of sense. But what does it mean?
 
-This Working Session will aim to define those Practices in easy to use and scalable
+This Working Session will aim to define those Practices in easy to use and scalable formats (and documentation).
 
 ## What
 
-...what text...
+ - What are 'Agile Security Practices'?
+ - How can they be measured
+ - Who is already doing it? (and are they called 'Agile Security Practices')
+ - Can a focused and pragmatic list of 'Agile Security Practices' be defined? (and if so, what is it?)
 
 ## Who
 
-... target audience ...
+The target audience for this Working Session is:
+
+- Security professionals
+- CISO's
+- Agile practitioners
+- DevSecOps
+- SecDevOps
