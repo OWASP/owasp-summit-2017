@@ -4,12 +4,12 @@ title           : Azzeddine Ramrami
 type            : participant
 time            :
 expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : (tbd)
+funded          : yes
+funded-who      : CRSFGuard Project
+flight-cost     : 900
 ticket-cost     : 1500
-funded-amount   : 1200 (CRSFGuard Project)
-required-funds  : 1500
+funded-amount   : 2400
+required-funds  : 2400
 job-title       :
 company         :
 travel-from     :

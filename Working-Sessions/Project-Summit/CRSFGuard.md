@@ -7,7 +7,7 @@ track        :
 technology   :
 related-to   :
 status       : draft
-organizers   : Azzeddine Ramrami,Sebastien Gioria
+organizers   : Azzeddine Ramrami
 participants :
 ---
 
