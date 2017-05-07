@@ -3,7 +3,7 @@ layout      : blocks/working-session
 title       : Best practices in using SAST, DAST, IAST and RASP Tools
 type        : workshop
 track       : Tools
-technology  :
+technology  : SAST
 status      : draft
 organizers  :
 participants: Marc Rimbau,Felipe Zipitria
