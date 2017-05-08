@@ -10,6 +10,8 @@ organizers      : Bernhard Mueller,Sven Schleier
 participants    : Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau
 ---
 
+<img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right"/>
+
 During the last few months the Mobile Security Testing Guide has made huge steps forward and several parts of the MSTG have now already a draft version. Please have a look at the [GitBook](https://b-mueller.gitbooks.io/owasp-mobile-security-testing-guide/content/) and the [GitHub repo](https://github.com/OWASP/owasp-mstg). As we want to push things forward in order to have a first draft of the Mobile Security Testing Guide (MSTG) at the end of Q2, Bernhard and Sven will be holding a mobile security workshop during the OWASP Summit.
 
 ## Key Tasks
@@ -28,13 +30,22 @@ The main tasks of the five days workshop are:
 
 ### Mobile App Security Testing
 
+#### General
+
+* [Security Testing in the Application Development Lifecycle](Document/0x07-Security-Testing-SDLC.md)
+* [Testing Tools](Document/0x08-Testing-Tools.md)
+
+#### Android 
+
 - [Android Security Testing Basics](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)
 - [Testing Data Storage](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md)
 - [Testing Cryptography](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05e-Testing-Cryptography.md)
 - [Testing Authentication and Session Management](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05f-Testing-Authentication.md)
 - [Testing Network Communication](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05g-Testing-Network-Communication.md)
 - [Testing Platform Interaction](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05h-Testing-Platform-Interaction.md)
-- [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/
+- [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/)
+
+#### iOS 
 
 - [iOS Security Testing Basics](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md)
 - [Testing Data Storage](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md)
@@ -44,10 +55,7 @@ The main tasks of the five days workshop are:
 - [Testing Platform Interaction](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06h-Testing-Platform-Interaction.md)
 - [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06i-Testing-Code-Quality-and-Build-Settings.md)
 
-* [Security Testing in the Application Development Lifecycle](Document/0x07-Security-Testing-SDLC.md)
-* [Testing Tools](Document/0x08-Testing-Tools.md)
-
-### Mobile App Reverse Engineering, Cracking and Anti-Reverse-Engineering
+### Reverse Engineering, Cracking and Anti-Reverse-Engineering
 
 - [Android Reverse Engineering](Document/0x05c-Reverse-Engineering-and-Tampering.md) and 
 - [Android Anti-Reversing Defenses](Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md)
