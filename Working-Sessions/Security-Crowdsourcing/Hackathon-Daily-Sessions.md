@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Security Crowdsourcing the SDL Pracitices
+title        : Hackathon Daily Sessions
 type         : workshop
 owasp-project: no
 track        : Security Crowdsourcing

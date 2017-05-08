@@ -1,9 +1,9 @@
 ---
 layout       : blocks/working-session
-title        : Hackathon Daily Sessions
+title        : Role of Security Certification
 type         : workshop
 owasp-project: no
-track        : Security Crowdsourcing
+track        : Education
 technology   :
 related-to   :
 status       : draft

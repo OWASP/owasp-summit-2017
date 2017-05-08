@@ -1,9 +1,9 @@
 ---
 layout       : blocks/working-session
-title        : Role of Security Certification
+title        : Security Crowdsourcing the SDL Pracitices
 type         : workshop
 owasp-project: no
-track        :
+track        : Security Crowdsourcing
 technology   :
 related-to   :
 status       : draft
