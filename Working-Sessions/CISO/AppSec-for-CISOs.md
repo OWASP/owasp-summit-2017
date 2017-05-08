@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : AppSec for CISOs
 type         : workshop
 owasp-project: no
-track        :
+track        : CISO
 technology   :
 related-to   :
 status       : draft
