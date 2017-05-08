@@ -38,7 +38,11 @@ The MASVS is a standard for mobile app security. It can be used by mobile softwa
 </td></tr>
 </table>
 
-### Questions to answer
+### Working Sessions
+
+Working sessions are organized along the different sections of the OWASP MSTG. Depending on the number of participants, we'll split into teams that focus on individual sections of the guide.
+
+
 
 Answering the following questions will help us to improve the quality and the practicability of the MSTG:
 
