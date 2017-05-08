@@ -16,6 +16,19 @@ The [http://owaspsummit.org](http://owaspsummit.org) site is rebuild within seco
 
 You can also easily run the site locally (good when making large set of changes) using: ```jekyll serve```. This will generate the site into the ```_site``` folder (ignored by git) which can be browsed locally at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
+The easiest way for start your contribution is to [for yor own copy](https://github.com/OWASP/owasp-summit-2017#fork-destination-box) of this repository. After cloning your repo locally, use the official docker image to run jekyll, e.g.:
+
+```bash
+git clone https://github.com/<your username>/owasp-summit-2017 owasp-summit-2017
+cd owasp-summit-2017
+sudo docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll:Z -it -p 127.0.0.1:4000:4000 jekyll/builder:pages jekyll serve
+```
+You can also help checking for errors using [htmlproofer](https://github.com/gjtorikian/html-proofer):
+```bash
+sudo docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll:Z -it -p 127.0.0.1:4000:4000 jekyll/builder:pages htmlproofer ./_site --only-4xx --check-favicon --check-html
+```
+After you're satisfied with your changes, commit your changes and create a new pull request! That's it!
+
 ### Stats
 
 Google Analytics is enabled. Real time stats are [here](https://analytics.google.com/analytics/web/#realtime/rt-overview/a97001849w142890191p147496227/) (if you would like to have access, just ask one of the Summit organization team members)
