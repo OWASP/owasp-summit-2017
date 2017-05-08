@@ -2,7 +2,6 @@
 <div class="participants-table">
   <h1>Participant's Funding<a href="/pages/for-editors">Back to Editor's pages</a></h1>
   <h3>Participants that need funding</h3>{% assign participants = site.pages | where: 'expenses', 'owasp' | where_exp: 'item', 'item.funded != true' %}
-  {% assign funded       = false %}
   {% assign total_amount = 0     %}
   {% assign index        = 0     %}
   <table class="table table-striped text-center">
@@ -17,16 +16,11 @@
       <th>Travel from</th>
       <th>flight cost</th>
       <th>ticket cost</th>
-      <th>Required funds</th>{% if funded  == true %}
+      <th>Required funds</th>
       <th>Amount funded</th>
-      <th>Who funded</th>{% endif %}
       <th>(subtotal)</th>
     </thead>{% for page in participants %}
-    {% if funded  == true %}
-      {% assign total_amount = total_amount | plus: page.funded-amount %}
-    {% else %}
-      {% assign total_amount = total_amount | plus: page.required-funds %}
-    {% endif %}
+    {% assign total_amount = total_amount | plus: page.required-funds | minus: page.funded-amount%}
     {% assign index        = index        | plus: 1                  %}
     <tr>
       <td>{{ index }}</td>
@@ -38,9 +32,8 @@
       <td> {{ page.travel-from        }}</td>
       <td>${{ page.flight-cost        }}</td>
       <td>${{ page.ticket-cost        }}</td>
-      <td>${{ page.required-funds     }}</td>{% if funded  == true %}
+      <td>${{ page.required-funds     }}</td>
       <td>${{ page.funded-amount      }}</td>
-      <td class="large-column"> {{ page.funded-who         }}</td>{% endif %}
       <td>${{ total_amount            }}</td>
     </tr>{% endfor %}
     <tr>
@@ -50,21 +43,14 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>{% if funded  == true %}
       <td></td>
       <td></td>
-      <td>
-        <h5>Total funded:</h5>
-      </td>
-      <td>
-        <h5>${{ total_amount }}</h5>
-      </td>{% else %}
       <td>
         <h5>Total required:</h5>
       </td>
       <td>
         <h5>${{ total_amount }}</h5>
-      </td>{% endif %}
+      </td>
     </tr>
   </table>
 </div>

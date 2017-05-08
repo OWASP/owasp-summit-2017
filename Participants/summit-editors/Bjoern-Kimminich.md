@@ -19,6 +19,9 @@ email           : bjoern.kimminich@owasp.org
 linkedin        : bkimminich
 twitter         : bkimminich
 facebook        : bjoern.kimminich
+ticket          : 5x24h
+working-sessions:
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
 * [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) Project Leader

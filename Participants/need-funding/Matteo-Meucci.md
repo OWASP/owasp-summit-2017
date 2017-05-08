@@ -9,7 +9,7 @@ funded          : no
 funded-who      :
 flight-cost     : 500
 ticket-cost     : 1500
-funded-amount   :
+funded-amount   : 0
 required-funds  : 2000
 project-leader  : OWASP Testing Guide
 chapter-leader  :

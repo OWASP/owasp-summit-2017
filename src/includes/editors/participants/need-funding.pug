@@ -11,18 +11,11 @@ mixin table-header
         th flight cost
         th ticket cost
         th Required funds
-        | {% if funded  == true %}
         th Amount funded
-        th Who funded
-        | {% endif %}
         th (subtotal)
 
 mixin table-row
-    | {% if funded  == true %}
-    |   {% assign total_amount = total_amount | plus: page.funded-amount %}
-    | {% else %}
-    |   {% assign total_amount = total_amount | plus: page.required-funds %}
-    | {% endif %}
+    | {% assign total_amount = total_amount | plus: page.required-funds | minus: page.funded-amount%}
     | {% assign index        = index        | plus: 1                  %}
     tr
         td {{ index }}
@@ -36,10 +29,7 @@ mixin table-row
         td ${{ page.flight-cost        }}
         td ${{ page.ticket-cost        }}
         td ${{ page.required-funds     }}
-        | {% if funded  == true %}
         td ${{ page.funded-amount      }}
-        td.large-column  {{ page.funded-who         }}
-        | {% endif %}
         td ${{ total_amount            }}
 
 mixin total_amount
@@ -52,19 +42,11 @@ mixin total_amount
         td
         td
         td
-        | {% if funded  == true %}
         td
-        td
-        td
-            h5 Total funded:
-        td
-            h5 ${{ total_amount }}
-        | {% else %}
         td
             h5 Total required:
         td
             h5 ${{ total_amount }}
-        | {% endif %}
 
 mixin data-reset
     | {% assign total_amount = 0     %}
@@ -100,7 +82,6 @@ mixin image
     h3 Participants that need funding
 
     | {% assign participants = site.pages | where: 'expenses', 'owasp' | where_exp: 'item', 'item.funded != true' %}
-    | {% assign funded       = false %}
     + data-reset
 
     table.table.table-striped.text-center

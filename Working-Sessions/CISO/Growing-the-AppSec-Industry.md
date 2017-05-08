@@ -6,7 +6,7 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   : Cyber Insurance,Education
-status       :
+status       : review-content
 organizers   : Yan Kravchenko
 participants :
 ---

@@ -6,7 +6,7 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   : InfoSec Warranties and Guarantees
-status       :
+status       : review-content
 organizers   : Yan Kravchenko
 participants : Dinis Cruz
 

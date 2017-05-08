@@ -4,9 +4,9 @@ title        : Security Guidance and Feedback in IDE
 type         : workshop
 owasp-project: no
 track        : DevSecOps
-technology   : IDE
+technology   : IDE,SAST
 related-to   : Scaling Static Analysis Reviews and Deployments
-status       : draft
+status       : review-content
 participants :
 organizers   :
 ---

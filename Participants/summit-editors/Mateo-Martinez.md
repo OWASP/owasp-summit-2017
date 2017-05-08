@@ -18,4 +18,7 @@ image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAA
 linkedin        : mateomartinez
 twitter         : MateoMartinezOK
 status          : done
+ticket          : 5x24h
+working-sessions:
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

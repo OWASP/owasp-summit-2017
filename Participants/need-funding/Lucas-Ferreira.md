@@ -10,7 +10,7 @@ funded          : no
 funded-who      :
 flight-cost     : 0
 ticket-cost     : 1500
-funded-amount   : tbd
+funded-amount   : 0
 required-funds  : 1500
 project-leader  : not anymore
 chapter-leader  : not anymore

@@ -4,9 +4,9 @@ title        : Securing the CI Pipeline
 type         : workshop
 owasp-project: no
 track        : DevSecOps
-technology   : CI
+technology   : CI,SAST
 related-to   : Integrating Security Tools in the SDL,CISO
-status       : draft,need-organizer
+status       : draft
 participants :
 organizers   :
 ---

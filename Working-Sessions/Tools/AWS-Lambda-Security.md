@@ -8,15 +8,22 @@ organizers  :
 participants: Dinis Cruz
 ---
 
-_(add details, why, what, who)_
 
-**Questions to answer:**
+## Why
 
-* How to do security reviews on code running on [AWS Lambda](https://aws.amazon.com/lambda)?
-* How to add Security to is DevOps practices?
-* How to detect malicious functions?
-* What features are missing?
-* Are users aware of existing features?
+...why text...
+
+## What
+
+ -  How to do security reviews on code running on [AWS Lambda](https://aws.amazon.com/lambda)?
+ - How to add Security to is DevOps practices?
+ - How to detect malicious functions?
+ - What features are missing?
+ - Are users aware of existing features?
+
+## Who
+
+... target audience ...
 
 **To Invite:**
 

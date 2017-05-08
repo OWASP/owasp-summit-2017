@@ -1,14 +1,15 @@
 ---
-layout     : blocks/page-participant
-title      : Paolo Perego
-type       : participant-remote
-job-title  : Application Security Quarterback
-image      : https://avatars3.githubusercontent.com/u/143166?v=3&s=460
-linkedin   : thesp0nge
-twiter     : thesp0nge
-facebook   : CodiceInsicuro
-funded-who : self
-status     : empty
+layout          : blocks/page-participant
+title           : Paolo Perego
+type            : participant-remote
+job-title       : Application Security Quarterback
+image           : https://avatars3.githubusercontent.com/u/143166?v=3&s=460
+linkedin        : thesp0nge
+twiter          : thesp0nge
+facebook        : CodiceInsicuro
+status          : done
+working sessions:
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
 Paolo is an Application Security guy playing as a Quarterback in an Italian

@@ -56,7 +56,8 @@ mixin show-related-to
         | {%    endfor                          %}
     | {% endif                                  %}
 
-| {% assign tracks_ws = site.pages | where: 'track', page.title  %}
+| {% assign tracks_ws_ok    = site.pages | where: 'track', page.title  | where_exp: 'item' , 'item.status != "draft"'%}
+| {% assign tracks_ws_draft = site.pages | where: 'track', page.title  | where_exp: 'item' , 'item.status == "draft"'%}
 .working-session
     .container
         h1 {{ page.title }}  (Track)
@@ -67,10 +68,20 @@ mixin show-related-to
 
         h3 Working sessions in this Track
         ul
-            | {% for page in tracks_ws %}
+            | {% for page in tracks_ws_ok %}
             li
                 a(href='{{ page.url }}') {{ page.title }}
             | {% endfor %}
+        | {% if tracks_ws_draft.size > 0 %}
+        ul
+            li
+                b In draft status (i.e. need content):
+                ul
+                    | {% for page in tracks_ws_draft %}
+                    li
+                        a(href='{{ page.url }}') {{ page.title }}
+                    | {% endfor %}
+        | {% endif %}
         + show-related-to
 
         | {{ content }}

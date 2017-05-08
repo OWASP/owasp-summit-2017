@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Owasp Latam Region
 type         : workshop
 owasp-project: yes
-track        :
+track        : Owasp
 status       : more-content
 organizers   : Mateo Martinez
 participants :

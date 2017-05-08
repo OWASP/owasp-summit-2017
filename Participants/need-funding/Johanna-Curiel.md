@@ -8,7 +8,7 @@ funded          : no
 funded-who      :
 flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   :
+funded-amount   : 0
 required-funds  : 2500
 project-leader  :
 chapter-leader  :
@@ -22,4 +22,4 @@ status          : empty
 
 ## Johanna Curiel
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
+<!-- put more details about participant here -->

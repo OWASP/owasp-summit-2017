@@ -4,7 +4,7 @@ title         : Integrating Security Tools in the SDL
 type          : workshop
 owasp-project : no
 track         : DevSecOps
-technology    :
+technology    : SAST
 related-to    : A comparison of strength and weaknesses of specific FOSS tools
 status        : draft
 participants  :

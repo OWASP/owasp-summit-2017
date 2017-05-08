@@ -6,7 +6,7 @@ owasp-project: no
 track        : Tools
 technology   : SAST
 related-to   : Securing the CI Pipeline,Integrating Security Tools in the SDL
-status       : draft
+status       : review-content
 participants :
 organizers   :
 ---

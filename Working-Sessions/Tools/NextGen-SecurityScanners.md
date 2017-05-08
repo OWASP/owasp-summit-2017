@@ -1,9 +1,9 @@
 ---
-layout  : blocks/working-session
-title   : NextGen Security Scanners
-type    : workshop
-track   : Tools
-status  : done
+layout      : blocks/working-session
+title       : NextGen Security Scanners
+type        : workshop
+track       : Tools
+status      : done
 organizers  :
 participants: Bjoern Kimminich,Marc Rimbau
 ---
