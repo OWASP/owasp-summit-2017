@@ -5,7 +5,7 @@ type            : participant
 job-title       : Security Architect
 company         :
 travel-from     : United Kingdom
-image           :
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/128/1c1/204156c.jpg
 linkedin        : don-gibson-a47b731
 twiter          :
 facebook        :
