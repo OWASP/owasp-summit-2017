@@ -8,7 +8,7 @@ technology   :
 related-to   : CISO Survey
 status       : review-content
 organizers   : Marco Morana
-participants :
+participants : Don Gibson
 ---
 
 [https://www.owasp.org/index.php/Application_Security_Guide_For_CISOs](http://owaspsummit.org/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html)

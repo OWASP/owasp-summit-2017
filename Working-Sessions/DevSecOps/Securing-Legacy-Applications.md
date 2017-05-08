@@ -7,7 +7,7 @@ track        : DevSecOps
 technology   : SAST
 related-to   : Cyber Insurance,CISO,InfoSec Warranties and Guarantees
 status       : review-content
-participants :
+participants : Don Gibson
 organizers   : Lucas Ferreira
 ---
 

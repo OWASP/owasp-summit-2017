@@ -2,13 +2,13 @@
 layout          : blocks/page-participant
 title           : David Campbell
 type            : participant-remote
-timezone        :
-job-title       :
-image           :
-linkedin        :
-twiter          :
+timezone        : GMT -7
+job-title       : VP of IT, CISO
+image           : https://sendgrid.com/wp-content/uploads/2016/05/DavidCampbell-400-fa2e36320c3be4b755dd13737e175e5a.jpg
+linkedin        : https://www.linkedin.com/in/campbelldavid
+twiter          : https://twitter.com/alchemydc
 website         :
-working-sessions:
+working-sessions: 
 status          : done
 ---
 
