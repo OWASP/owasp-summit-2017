@@ -7,7 +7,7 @@ technology   : SOC,GDPR
 related-to   : CISO
 status       : done
 organizers   : Mateo Martinez
-participants : Dinis Cruz,Francois Raynaud
+participants : Dinis Cruz,Francois Raynaud, Don Gibson
 ---
 
 ## Why
@@ -36,6 +36,7 @@ In addition to providing high value actionable information, a good SOC will allo
     - Business logic exploitation
     - Data extraction
  - How does SOC help with GDPR requirements
+ What to actually look for - tricks, tips and ideas.
 
 ## Who
 
