@@ -10,8 +10,8 @@ facebook        :
 website         :
 email           :
 status          : done
-working-sessions:
+working-sessions:Mobile Security Testing Guide (MSTG),Mobile Application Security Verification Standard (MASVS),Application Security Verification Standard,Implications of OWASP Top 10 2017,Security Book Club,OWASP Risk Rating Management Project
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-Anuruddha is a passionate Information Security Professional and he is beginner contributor for some of the OWASP projects. He is keenly  interested in Mobile Security track of this summit.
+Anuruddha is a passionate Information Security Professional and he is beginner contributor for some of the OWASP projects. He is keenly  interested in Mobile Security and Resarch tracks of this summit.
