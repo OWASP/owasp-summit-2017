@@ -23,7 +23,7 @@ This project produces two key documents: A *security standard* for mobile apps, 
 ##### The Mobile Security Testing Guide (MSTG)
 
 <table><tr><td>
-<img width="150px"  src="https://www.owasp.org/images/e/e5/Mstg-mini-2.jpg" align="left"/>
+<img width="300px"  src="https://www.owasp.org/images/e/e5/Mstg-mini-2.jpg" align="left"/>
 </td><td>
 The MSTG is comprehensive guide for iOS and Android mobile security testers. It covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
 </td></tr>
@@ -32,7 +32,7 @@ The MSTG is comprehensive guide for iOS and Android mobile security testers. It 
 ##### The Mobile App Security Verification Standard (MASVS)
 
 <table><tr><td>
-<img width="150px" src="https://www.owasp.org/images/7/7b/Masvs-sample-mini.jpg" align="left"/>
+<img width="300px" src="https://www.owasp.org/images/7/7b/Masvs-sample-mini.jpg" align="left"/>
 </td><td>
 The MASVS is a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results. The latest release is version 0.9.3.
 </td></tr>
