@@ -39,11 +39,4 @@ The MASVS is a standard for mobile app security. It can be used by mobile softwa
 
 ### Working Sessions
 
-Working sessions are organized along the different sections of the OWASP MSTG. Depending on the number of participants, we'll split into teams that focus on individual sections of the guide.
-
-### Participant Candidates
-
-* Mobile Developers
-* iOS/Android security researchers
-* Representatives from Android / Apple iOS
-* Representatives from Mobile Frameworks
+We will hold a single working session focused on producing content for the OWASP MSTG, as well as proof-reading and editing of the existing content. The goal is to make as much progress on the guide as humanly possible. Depending on the number of participants, we'll split into sub-groups that work on different subsections or topic areas. See the working session page for more information.
