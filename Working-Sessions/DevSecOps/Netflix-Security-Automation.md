@@ -7,7 +7,7 @@ technology   :
 related-to   :
 status       : draft
 organizers   :
-participants : Neil Barlow,Dicky Stafford,Fraser Scott
+participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud
 ---
 
 ...intro text...
