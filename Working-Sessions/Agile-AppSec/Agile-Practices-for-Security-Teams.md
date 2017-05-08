@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Scaling Agile Planning and Education
+title        : Agile Practices for Security Teams
 type         : workshop
 owasp-project: no
 track        : Agile AppSec
