@@ -7,7 +7,7 @@ technology   : GDPR
 related-to   :
 status       : review-content
 organizers   :
-participants : Dinis Cruz
+participants : Dinis Cruz,Francois Raynaud
 ---
 
 ## Why

@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : draft
 organizers   :
-participants :
+participants : Don Gibson
 ---
 
 ...intro text...

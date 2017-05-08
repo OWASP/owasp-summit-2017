@@ -6,7 +6,7 @@ technology  : Mobile
 status      : featured
 description : Working Sessions related to Mobile Security
 organizers  : Bernhard Mueller,Sven Schleier
-participants: Bolot Kerimbaev
+participants: Bolot Kerimbaev, Kuai Hinojosa
 ---
 
 

@@ -7,7 +7,7 @@ technology   : SOC,GDPR
 related-to   : CISO
 status       : done
 organizers   : Mateo Martinez
-participants : Dinis Cruz Don Gibson
+participants : Dinis Cruz,Francois Raynaud, Don Gibson
 ---
 
 ## Why
