@@ -18,7 +18,7 @@ During the last few months the Mobile Security Testing Guide has made huge steps
 
 The main tasks of the five days workshop are:
 
-* Produce content to close the majority of open issues our GitHub project;
+- Writing original content, such as describing testing processes and writing test cases.
 * Proofreading and technical editing to improve the overall quality of the MSTG.
 
 ## High-Level Topics
@@ -57,11 +57,20 @@ The main tasks of the five days workshop are:
 
 ### Reverse Engineering, Cracking and Anti-Reverse-Engineering
 
+- Contribute reverse engineering write-ups to describe specific processes, tools and techniques
+- Help us figure out resiliency testing processes and obfuscation metrics
+- Solving crackmes and contributing a tutorial to the guide (preferable a technique that's not already documented. Check the TOC first).
+- Writing and adding new crackmes along with solutions (should also describe something not already in the guide. Cracking white-boxes, dynamic analysis using an emulator / introspection, etc. etc.).
+
+The following sections in the MSTG deal with reverse engineering:
+
 - [Android Reverse Engineering](Document/0x05c-Reverse-Engineering-and-Tampering.md) and 
 - [Android Anti-Reversing Defenses](Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md)
 - [iOS Reverse Engineering](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md)
 - [iOS Anti-Reversing Defenses](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06j-Testing-Resiliency-Against-Reverse-Engineering.md)
 - [Assessing Anti-Reverse Engineering Schemes](Document/0x07b-Assessing-Anti-Reverse-Engineering-Schemes.md)
+
+## Project Dashboard
 
 As preparation for the workshop, open tasks were converted into issues and organized as a [GitHub project](https://github.com/OWASP/owasp-mstg/projects/1). Thanks again to Romuald for taking the initiative. This project will be the basis for our ongoing work, but also for the OWASP Summit in particular.
 
