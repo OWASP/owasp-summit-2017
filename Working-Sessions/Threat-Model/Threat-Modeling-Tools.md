@@ -8,19 +8,24 @@ technology   :
 related-to   :
 status       : draft
 organizers   :
-participants :
+participants : Geoff Hill
 ---
 
-...intro text...
+Discovery session on what tools exist currently and what their benefits and weaknesses are.
 
 ## Why
 
-...why text...
+It would be good to have a grasp of the overall amount of possible tools to enable more effective modelling.
 
 ## What
 
-...what text...
+1. What do we want from our threat modelling tools?
+2. What complexity do we want?
+3. What kind of integration do we want with other systems?
 
 ## Who
 
-... target audience ...
+... architects
+... security SMEs
+... SCRUM masters
+... security champions

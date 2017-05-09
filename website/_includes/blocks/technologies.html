@@ -7,15 +7,16 @@
     <h2>Topics / Technologies</h2>
   </div>
   <div class="col-xs-0"></div>
-</div>
+</div><br/>
 <div class="row">
   <div class="col-xs-0"></div>
   <div class="col-xs-12">
     <div class="row">
-      <ul>{% for technology in technologies %}
-        <li><a href="{{technology.url}}">{{technology.title }}</a></li>{% endfor %}
-      </ul>
+      <!--ul-->{% for technology in technologies %}
+      <div class="col-xs-2 col-sm-1">
+        <!--li--><a href="{{technology.url}}">{{technology.title }}</a>
+      </div>{% endfor %}
     </div>
   </div>
   <div class="col-xs-0"></div>
-</div>
+</div><br/>
