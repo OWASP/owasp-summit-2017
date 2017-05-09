@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: no
 track        : Project Summit
 related-to   : Implications of Owasp Top 10 2017
-status       : improve-content
+status       : featured
 organizers   : Dave Wichers
 participants : Brian Glas
 ---

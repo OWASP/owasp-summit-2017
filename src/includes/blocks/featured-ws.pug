@@ -1,13 +1,13 @@
 .featured-ws
     .container
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0.col-sm-0
+            .col-xs-12.col-sm-12
                 h1 Featured Working Sessions
             .col-xs-0.col-sm-1
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0.col-sm-0
+            .col-xs-12.col-sm-12
                 .row
                     | {% for page in site.pages %}
                     |   {% if page.title and page.type == 'workshop' and page.status == 'featured' %}
@@ -18,11 +18,11 @@
                             .ws-description  {{page.description | truncate: 180 }}
                     |   {% endif %}
                     | {% endfor %}
-            .col-xs-0.col-sm-1
+            .col-xs-0.col-sm-0
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0.col-sm-0
+            .col-xs-12.col-sm-12
                 a.btn.btn-primary(href='{{ site.data.links.working-sessions}}')
                     span.plus-sign +
                     span See all working sessions
-            .col-xs-0.col-sm-1
+            .col-xs-0.col-sm-0
