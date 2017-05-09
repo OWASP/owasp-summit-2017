@@ -1,5 +1,5 @@
 
-
+---
 layout          :blocks/page-participant
 title           :Nishi Kumar
 type            :participant
@@ -24,3 +24,45 @@ twitter         :
 facebook        :
 status          : done
 ---
+
+I will be participating and willing to be conntributing in these working sessions.
+-Threat Modeling 
+-OwaspSAMM 
+-DevSecOps
+-Education
+-Mobile Security-Tools 
+
+## What We Need Funding For
+Funding goes into flights and accommodation.
+
+
+
+-Lead of the Secure Development Practices program and Application security program at FIS
+-Responsible for Application security oversight and governance of 2000+ software products and applications across the enterprise
+-OWASP Project Lead and contributor 
+-Led the effort developing Secure Coding Policies, Standards and Guidelines
+-Designed state of the art Threat Modeling Methodology to review security architecture of applications 
+-Audit support, Identity and Access management and Risk management experience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
