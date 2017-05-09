@@ -7,7 +7,7 @@ owasp-project   : yes
 technology      : Mobile
 status          : done
 organizers      : Bernhard Mueller,Sven Schleier
-participants    : Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau
+participants    : Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau,  Kuai Hinojosa
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right"/>
