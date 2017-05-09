@@ -5,7 +5,7 @@ type        : workshop
 track       : DevSecOps
 status      : need-organizer
 organizers  :
-participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria
+participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria,Avi Douglen
 ---
 
 Light hearted round table discussion on this very important topic in our community.

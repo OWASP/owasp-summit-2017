@@ -5,7 +5,7 @@ type        : workshop
 track       : Threat Model
 status      : draft
 organizers  : Geoff Hill
-participants: Marc Rimbau,Felipe Zipitria
+participants: Marc Rimbau,Felipe Zipitria,Avi Douglen
 ---
 
 - Build a lightweight threat modeling process with artifacts (e.g. - RACI, DFDs, etc.) for Agile and/or DevOps environments
