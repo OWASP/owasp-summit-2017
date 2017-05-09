@@ -14,6 +14,12 @@ participants    : Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau
 
 During the last few months the Mobile Security Testing Guide has made huge steps forward and several parts of the MSTG have now already a draft version. Please have a look at the [GitBook](https://b-mueller.gitbooks.io/owasp-mobile-security-testing-guide/content/) and the [GitHub repo](https://github.com/OWASP/owasp-mstg). As we want to push things forward in order to have a first draft of the Mobile Security Testing Guide (MSTG) at the end of Q2, Bernhard and Sven will be holding a mobile security workshop during the OWASP Summit.
 
+## Workshop Goals
+
+Our ambitious goal is to complete the mobile security testing guide. To achieve this, we'll need to *at least* close the 126 "missing content" tickets listed on the [project dashboard](https://github.com/OWASP/owasp-mstg/projects/1) and produce an estimated 200 book-sized pages of content. This sounds like a lot - however, if we can gather 10 people for this working session, this amounts to 4 pages of content per person/day which is achievable. 
+
+On top of completing the content, we want to apply a basic level of proof-reading, review and editing to get the guide into Beta-stage.
+
 ## Key Tasks
 
 The main tasks of the five days workshop are:
@@ -21,9 +27,15 @@ The main tasks of the five days workshop are:
 - Writing original content, such as describing testing processes and writing test cases.
 * Proofreading and technical editing to improve the overall quality of the MSTG.
 
+Work will be split between working groups based on mobile OS and topic (see below).
+
 ## High-Level Topics
 
 ### Mobile Operating Systems
+
+The mobile OS overview chapters descrobe mobile operating system basics as well as concepts important for security testing.
+
+Relevant chapters:
 
 - [Android Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05a-Platform-Overview.md)
 - [iOS Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06a-Platform-Overview.md)
@@ -32,10 +44,14 @@ The main tasks of the five days workshop are:
 
 #### General
 
+Relevant chapters:
+
 * [Security Testing in the Application Development Lifecycle](Document/0x07-Security-Testing-SDLC.md)
 * [Testing Tools](Document/0x08-Testing-Tools.md)
 
 #### Android 
+
+Relevant chapters:
 
 - [Android Security Testing Basics](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)
 - [Testing Data Storage](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md)
@@ -46,6 +62,8 @@ The main tasks of the five days workshop are:
 - [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/)
 
 #### iOS 
+
+Relevant chapters:
 
 - [iOS Security Testing Basics](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md)
 - [Testing Data Storage](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md)
