@@ -5,6 +5,7 @@ type            : participant
 job-title       : Founder and CTO of Continuum Security
 Company         :
 image           : https://pbs.twimg.com/profile_images/54846161/pic_of_me_200x200.jpg
+email           : stephen@continuumsecurity.net
 linkedin        :
 twitter         : stephendv
 facebook        :
