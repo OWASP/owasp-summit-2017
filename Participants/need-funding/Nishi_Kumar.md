@@ -1,4 +1,3 @@
-
 ---
 layout          :blocks/page-participant
 title           :Nishi Kumar
@@ -34,8 +33,6 @@ I will be participating and willing to be conntributing in these working session
 
 ## What We Need Funding For
 Funding goes into flights and accommodation.
-
-
 
 -Lead of the Secure Development Practices program and Application security program at FIS
 -Responsible for Application security oversight and governance of 2000+ software products and applications across the enterprise
