@@ -6,7 +6,7 @@ track        : Education
 technology   :
 related-to   :
 status       : need-organizer
-participants :
+participants : Avi Douglen
 organizers   :
 ---
 
