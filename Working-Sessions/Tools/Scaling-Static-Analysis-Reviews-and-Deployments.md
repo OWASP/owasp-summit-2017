@@ -7,7 +7,7 @@ track        : Tools
 technology   : SAST
 related-to   : Securing the CI Pipeline,Integrating Security Tools in the SDL
 status       : review-content
-participants :
+participants : Avi Douglen
 organizers   :
 ---
 
