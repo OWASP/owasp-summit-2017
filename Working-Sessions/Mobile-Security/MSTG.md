@@ -33,7 +33,7 @@ Work will be split between working groups based on mobile OS and topic (see belo
 
 ### Mobile Operating Systems
 
-The mobile OS overview chapters descrobe mobile operating system basics as well as concepts important for security testing.
+Mobile operating system basics as well as concepts important for security testing.
 
 Relevant chapters:
 
@@ -46,8 +46,9 @@ Relevant chapters:
 
 Relevant chapters:
 
-* [Security Testing in the Application Development Lifecycle](Document/0x07-Security-Testing-SDLC.md)
-* [Testing Tools](Document/0x08-Testing-Tools.md)
+- [Testing Processes and Techniques](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x04-Testing-Processes-and-Techniques.md)
+- [Security Testing in the Application Development Lifecycle](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x07-Security-Testing-SDLC.md)
+- [Testing Tools](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x08-Testing-Tools.md)
 
 #### Android 
 
@@ -74,6 +75,8 @@ Relevant chapters:
 - [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06i-Testing-Code-Quality-and-Build-Settings.md)
 
 ### Reverse Engineering, Cracking and Anti-Reverse-Engineering
+
+Everything related to mobile reversing, anti-reversing and cracking. Participants can help in the following ways:
 
 - Contribute reverse engineering write-ups to describe specific processes, tools and techniques
 - Help us figure out resiliency testing processes and obfuscation metrics
