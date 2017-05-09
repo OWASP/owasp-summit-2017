@@ -1,14 +1,14 @@
 ---
 layout       : blocks/working-session
-title        : BDD for Cloud Security
+title        : AppSec for CISOs
 type         : workshop
 owasp-project: no
-track        : DevSecOps
+track        : CISO
 technology   :
 related-to   :
 status       : draft
 organizers   :
-participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud
+participants :
 ---
 
 ...intro text...

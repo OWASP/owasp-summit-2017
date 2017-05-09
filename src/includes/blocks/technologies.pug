@@ -6,13 +6,17 @@
     .col-xs-12
         h2 Topics / Technologies
     .col-xs-0
+br
 .row
     .col-xs-0
     .col-xs-12
         .row
-            ul
+                //ul
                 | {% for technology in technologies %}
-                li
+                .col-xs-2.col-sm-1
+                    //li
                     a(href="{{technology.url}}") {{technology.title }}
                 | {% endfor %}
     .col-xs-0
+br
+
