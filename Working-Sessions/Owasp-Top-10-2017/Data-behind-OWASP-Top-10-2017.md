@@ -2,6 +2,7 @@
 layout       : blocks/working-session
 title        : Data behind Owasp Top 10 2017
 type         : workshop
+description  : Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
 owasp-project: no
 track        : Project Summit
 related-to   : Implications of Owasp Top 10 2017
