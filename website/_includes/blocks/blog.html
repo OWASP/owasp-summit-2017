@@ -1,0 +1,28 @@
+
+<div class="blog">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-0"></div>
+      <div class="col-xs-12">
+        <h1>Blog</h1>
+        <p>Summit blog with latest news, thinking and participant's posts.</p>
+      </div>
+      <div class="col-xs-0"></div>
+    </div>{% for page in site.posts %}
+    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3><span>{{page.post-date}}</span>
+    <p>{{ page.excerpt }}</p>{% endfor %}
+  </div>
+  <div class="row">
+    <div class="col-xs-0"></div>
+    <div class="col-xs-12">
+      <div class="row">{% for page in tracks %}
+        <div class="col-xs-4 col-sm-2">
+          <div class="ws-box">
+            <div class="ws-title"><a href="{{page.url}}">{{page.title | truncate: 45 }}</a></div>
+          </div>
+        </div>{% endfor %}
+      </div>
+    </div>
+    <div class="col-xs-0"></div>
+  </div>
+</div>

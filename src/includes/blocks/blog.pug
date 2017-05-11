@@ -1,0 +1,28 @@
+.blog
+    .container
+        .row
+            .col-xs-0
+            .col-xs-12
+                h1 Blog
+                p Summit blog with latest news, thinking and participant's posts.
+            .col-xs-0
+
+        | {% for page in site.posts %}
+        h3
+            a(href='{{ page.url }}') {{ page.title }}
+        span {{page.post-date}}
+        p {{ page.excerpt }}
+        | {% endfor %}
+
+
+    .row
+        .col-xs-0
+        .col-xs-12
+            .row
+                | {% for page in tracks %}
+                .col-xs-4.col-sm-2
+                    .ws-box
+                        .ws-title
+                            a(href="{{page.url}}") {{page.title | truncate: 45 }}
+                | {% endfor %}
+        .col-xs-0
