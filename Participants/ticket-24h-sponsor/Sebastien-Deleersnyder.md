@@ -5,6 +5,7 @@ type            : participant
 company         : Toreon
 job-title       : Co-founder & managing partner application security at Toreon
 image           : https://pbs.twimg.com/profile_images/425208323093176320/AQr7Ot7l_400x400.png
+email           : seba@owasp.org
 linkedin        : sebadele
 twitter         : sebadele
 funded-who      : sponsor
