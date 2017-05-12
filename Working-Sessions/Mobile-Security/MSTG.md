@@ -12,11 +12,9 @@ participants    : Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau,  Kuai Hinojosa
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right"/>
 
-During the last few months the Mobile Security Testing Guide has made huge steps forward and several parts of the MSTG have now already a draft version. Please have a look at the [GitBook](https://b-mueller.gitbooks.io/owasp-mobile-security-testing-guide/content/) and the [GitHub repo](https://github.com/OWASP/owasp-mstg). As we want to push things forward in order to have a first draft of the Mobile Security Testing Guide (MSTG) at the end of Q2, Bernhard and Sven will be holding a mobile security workshop during the OWASP Summit.
+During the last few months the Mobile Security Testing Guide (MSTG) has made some huge steps forward, but there's stil a lot to be done. Bernhard and Sven will be holding a mobile security working session during the OWASP Summit with the goal of complering the mobile security testing guide. 
 
-## Workshop Goals
-
-Our ambitious goal is to complete the mobile security testing guide. To achieve this, we'll need to *at least* close the 126 "missing content" tickets listed on the [project dashboard](https://github.com/OWASP/owasp-mstg/projects/1) and produce an estimated 200 book-sized pages of content. This sounds like a lot - however, if we can gather 10 people for this working session, this amounts to 4 pages of content per person/day which is achievable. 
+To achieve this, we'll need to *at least* close the 126 "missing content" tickets listed on the [project dashboard](https://github.com/OWASP/owasp-mstg/projects/1) and produce an estimated 200 book-sized pages of content. This sounds like a lot - however, if we can gather 10 people for this working session, this amounts to four pages of content per person/day which is achievable. 
 
 On top of completing the content, we want to apply a basic level of proof-reading, review and editing to get the guide into Beta-stage.
 
@@ -97,6 +95,6 @@ As preparation for the workshop, open tasks were converted into issues and organ
 
 In order to be able to schedule work during the summit and create work groups we need to know who will be attending the OWASP Summit and how much time you can/will spend for the mobile workshop. Please put your name as one of the participants and reach out directly to Sven via Slack, [see here](https://github.com/OWASP/owasp-mstg#contributions-feature-requests-and-feedback) on how to contact us via Slack .
 
-If you do not have time during the summit but are interested to help, you can start immediately by assigning issues to yourself and creating pull requests. We can potentially also loop you in remotely during the submit.
+If you do not have time during the summit but are interested to help, you can start immediately by assigning issues to yourself and creating pull requests. We can potentially also loop you in remotely during the submit. Have a look at the [GitBook](https://b-mueller.gitbooks.io/owasp-mobile-security-testing-guide/content/) and the [GitHub repo](https://github.com/OWASP/owasp-mstg).
 
 Let's work on the testing guide and fix mobile application security!
