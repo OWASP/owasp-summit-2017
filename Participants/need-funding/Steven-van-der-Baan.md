@@ -15,6 +15,7 @@ project-leader  : Development Guide, CTF
 chapter-leader  : Cambridge
 job-title       : Security Consultant
 image           : https://pbs.twimg.com/profile_images/2150492060/P7310595_400x400.JPG
+email           : steven@vdbaan.net
 linkedin        : vdbaan
 twitter         : vdbaan
 facebook        :
