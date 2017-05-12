@@ -8,24 +8,24 @@ author      : Dinis Cruz
 
 In 30 days (12 June) Owasp will host its [2017 Global Summit](http://owaspsummit.org) in [London](owaspsummit.org/website/venue.html) where hundreds of [participants](http://owaspsummit.org/website/participants.html) will join forces in [Working Sessions](owaspsummit.org/website/working-sessions.html) focused on solving hard Application and Cyber Security problems.
 
-This is not a conference with uni-directional presentations. Using the same model as the past two OWASP Summits in Portugal, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively. Every thoroughly prepared working session is geared towards a specific application security challenge and will be focused on actionable outcomes.
+This is not a conference with unidirectional presentations. Using the same model as the past two OWASP Summits in Portugal, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively. Every thoroughly prepared working session is geared towards a specific application security challenge and will be focused on actionable outcomes.
 
-With participants flying from all other world and from major security/development teams, service/product providers and research organizations, this is the place to be to learn and collaborate with industry pears (and even competitors).
+With participants flying from all over the world and from major security/development teams, service/product providers and research organizations, this is the place to be to learn and collaborate with industry peers (and even competitors).
 
-The event is split over the following tracks, each for focusing on a specific set of challenges:
+The event is split over the following tracks, each focusing on a specific set of challenges:
 
   - [Threat Modeling](/Working-Sessions/Threat-Model/) - This is one of the strongest tracks, with most of the core Threat Modeling talent in the world joining forces and collaborating
   - [OwaspSAMM](/Working-Sessions/OwaspSAMM/) - This is another track where we have the main contributors and users of this Owasp project participating at the Summit
-  - [DevSecOps](/Working-Sessions/DevSecOps/) - This track has been generating quite a lot of buzz on participants, since it is addressing real pain points and problems that companies have today
-  - [Education](/Working-Sessions/DevSecOps/) - Always strong in OWASP, this Track ranges from University master degree to how to create the next generation of AppSec professionals
- - [Mobile Security](http://localhost:9000/Working-Sessions/Mobile-Security/) - Another track where the key Owasp leaders of Mobile related Owasp projects are participating
-  - [CISO](/Working-Sessions/Education/) - This reaching a wide audience of CISOs and covering a wide range of CISO related topics
+  - [DevSecOps](/Working-Sessions/DevSecOps/) - This track has been generating quite a buzz among participants, since it is addressing real pain points and problems that companies face today
+  - [Education](/Working-Sessions/DevSecOps/) - Always strong in OWASP, this track ranges from University master degree to how to create the next generation of AppSec professionals
+ - [Mobile Security](http://localhost:9000/Working-Sessions/Mobile-Security/) - Another track where the key Owasp leaders of Mobile-related Owasp projects are participating
+  - [CISO](/Working-Sessions/Education/) - This track reaches a wide audience of CISOs and covers a wide range of CISO-related topics
   - [Research](/Working-Sessions/Research/) - This track covers really important and interesting research topics (it's important to look at the future and work on the next generation of Application Security)
-  - [Agile AppSec](/Working-Sessions/Agile-AppSec/) - This is a Track driven by a couple participants that really care about Agile and want to find better ways to integrate it with AppSec practices
-  - [Security Crowdsourcing](/Working-Sessions/Security-Crowdsourcing/) - This is a Track that is focused on scaling AppSec activities via internal and external crowdsourcing    
-  - [Owasp Project's Summit](/Working-Sessions/Project-Summit/) - last but not least, this track has 31x Working Sessions directly related to an Owasp Project (with most having the Project Leader participating)
+  - [Agile AppSec](/Working-Sessions/Agile-AppSec/) - This is a track driven by a couple participants who really care about Agile and want to find better ways to integrate it with AppSec practices
+  - [Security Crowdsourcing](/Working-Sessions/Security-Crowdsourcing/) - This is a track that is focused on scaling AppSec activities via internal and external crowdsourcing    
+  - [Owasp Project's Summit](/Working-Sessions/Project-Summit/) - Last but not least, this track has 31x Working Sessions directly related to an Owasp Project (with most having the Project Leader participating)
 
-Each track's Working Session will be expected to deliver something tangible and usable by the Owasp community (whitepaper, documentation, play-books, code, action-plans, books, decisions, etc... ) and all Participants are expected to participate actively in Working Sessions (as an organizer or contributor).
+Each track's Working Session will be expected to deliver something tangible and usable by the Owasp community (whitepaper, documentation, play-books, code, action-plans, books, decisions, etc.) and all Participants are expected to participate actively in Working Sessions (as an organizer or contributor).
 
 Owasp Summit's Schedules are different from normal conferences, since they are focused on maximizing the Participant's time and Working Sessions they want to be actively involved. The current Schedule is under development and will be released in the next weeks.
 
@@ -45,7 +45,7 @@ Here are some of the Working Sessions that will be worked on at the Summit:
   - [Software Defined Everything (SDx)](/Working-Sessions/Education/Software-Defined-Everything-(SDx).html)
 
 
-In order to attract as much talent as possible to the Summit, the [Summit Tickets](/website/buy-ticket.html) were kept at a low price. An 5x 8h daily ticket costs £400 (i.e. without accommodation) and an 5x 24h daily ticket costs £1,200 (i.e. with 4 night accommodation), with a 10% discount (for 5 to 9 tickets) and a 20% discount (for 10+ tickets). 1x daily 8h tickets are also available at £100 and 24h tickets at £300.
+In order to attract as much talent as possible to the Summit, the [Summit Tickets](/website/buy-ticket.html) were kept at a low price. A 5x 8h daily ticket costs £400 (i.e. without accommodation) and a 5x 24h daily ticket costs £1,200 (i.e. with 4-night accommodation), with a 10% discount (for 5 to 9 tickets) and a 20% discount (for 10+ tickets). 1x daily 8h tickets are also available at £100 and 24h tickets at £300.
 
 A key factor of the Owasp Summit's high level productivity and collaboration is the Lodge/Villa accommodation model, where participants will stay, and be literally involved in AppSec/Security conversations and debates from morning till dusk (a number of daily and evening Working Sessions will occur in the Lodges)
 
