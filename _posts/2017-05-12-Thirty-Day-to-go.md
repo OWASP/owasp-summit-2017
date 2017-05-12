@@ -1,7 +1,6 @@
 ---
-#layout      : blocks/page-component
-#component   : blocks/blog-post.html
-#layout      : blocks/page-content
+layout      : blocks/page-component
+component   : blocks/blog-post.html
 title       : 30 days to go for the Owasp Summit 2017
 post-date   : May 08
 author      : Dinis Cruz
