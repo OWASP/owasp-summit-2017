@@ -7,10 +7,10 @@ company         :
 travel-from     : Belgium
 image           : https://avatars3.githubusercontent.com/u/969231?v=3&s=200
 linkedin        :
-twiter          :
+twitter         : YoPeeters
 facebook        :
 email           : yo@johanpeeters.com
-website         : http://www.johanpeeters.com
+website         : https://www.johanpeeters.com
 status          : need-content
 ticket          : 5x24h
 working sessions:
