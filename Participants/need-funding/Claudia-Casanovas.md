@@ -14,6 +14,7 @@ project-leader  :
 chapter-leader  :
 job-title       :
 image           :
+email           : Claudia.Aviles-Casanovas@owasp.org
 linkedin        :
 twitter         :
 facebook        :

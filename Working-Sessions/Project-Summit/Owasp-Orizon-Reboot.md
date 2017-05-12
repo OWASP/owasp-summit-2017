@@ -12,9 +12,17 @@ participants :
 
 ### Introdution
 
-The Owasp Orizon Project is an open source tool to perform some static analysis
-over a source codebase. It's is focused over security and it supports multiple
-programming languages
+Owasp Orizon is a source code static analyzer tool designed to spot security
+issues in Java applications.
+
+Owasp Orizon mission is to provide people an opensource tool, helping them in reviewing:
+
+* single Java classes
+* Java standalone tools packed in JAR files
+* web applications packed in EAR / WAR files
+* Android APK applications
+
+### Some story
 
 It was a dark and stormy night in Milan, Italy. It was 2006 and I felt the need
 of something helping me in reviewing other people java source code. So Owasp
