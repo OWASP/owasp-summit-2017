@@ -8,19 +8,26 @@ technology   :
 related-to   :
 status       : draft
 organizers   :
-participants :
+participants : Robert Hurlbut
 ---
 
 Single most common question I get from Developers
 
 ## Why
 
-...why text...
+In order to run, you need to learn to walk. 
+For an organization / group to understand and use Threat Modeling, they need to know where to start.
 
 ## What
 
-...what text...
+1. What are some guidelines could we provide to help teams get started?
+2. What tools do they need?
+3. What people should be involved? 
 
 ## Who
 
-... target audience ...
+... developers
+... architects
+... security SMEs
+... SCRUM masters
+... security champions
