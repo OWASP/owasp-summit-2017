@@ -18,7 +18,7 @@ The event is split over the following tracks, each focusing on a specific set of
   - [OwaspSAMM](/Working-Sessions/OwaspSAMM/) - This is another track where we have the main contributors and users of this Owasp project participating at the Summit
   - [DevSecOps](/Working-Sessions/DevSecOps/) - This track has been generating quite a buzz among participants, since it is addressing real pain points and problems that companies face today
   - [Education](/Working-Sessions/DevSecOps/) - Always strong in OWASP, this track ranges from University master degree to how to create the next generation of AppSec professionals
- - [Mobile Security](http://localhost:9000/Working-Sessions/Mobile-Security/) - Another track where the key Owasp leaders of Mobile-related Owasp projects are participating
+ - [Mobile Security](/Working-Sessions/Mobile-Security/) - Another track where the key Owasp leaders of Mobile-related Owasp projects are participating
   - [CISO](/Working-Sessions/Education/) - This track reaches a wide audience of CISOs and covers a wide range of CISO-related topics
   - [Research](/Working-Sessions/Research/) - This track covers really important and interesting research topics (it's important to look at the future and work on the next generation of Application Security)
   - [Agile AppSec](/Working-Sessions/Agile-AppSec/) - This is a track driven by a couple participants who really care about Agile and want to find better ways to integrate it with AppSec practices
@@ -34,7 +34,7 @@ Here are some of the Working Sessions that will be worked on at the Summit:
   - [Application Security BSc/Masters Curriculum Design](/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html) , [Creating AppSec Teams](/Working-Sessions/Education/Creating-AppSec-Teams.html)
   - [Threat Modeling Cheat Sheet](Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html)
   - [Responsible Disclosure](/Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html)
-  - [Using ML and AI to detect Attacks](http://localhost:9000/Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html)
+  - [Using ML and AI to detect Attacks](/Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html)
   - [Agile Practices for Security Teams](/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html) , [Integrating Security into a Portfolio Kanban](/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html) , [Using Security Risks to Measure Agile Practices](/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html)
   - [Scaling Static Analysis Reviews and Deployments](/Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html) , [NextGen Security Scanners](/Working-Sessions/Tools/NextGen-SecurityScanners.html)
   - [GDPR and DPO AppSec implications](/Working-Sessions/CISO/), [Cyber Insurance](/Working-Sessions/CISO/) , [InfoSec Warranties and Guarantees](/Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html)
