@@ -18,14 +18,14 @@ The event is split over the following tracks, each for focusing on a specific se
   - [OwaspSAMM](/Working-Sessions/OwaspSAMM/) - This is another track where we have the main contributors and users of this Owasp project participating at the Summit
   - [DevSecOps](/Working-Sessions/DevSecOps/) - This track has been generating quite a lot of buzz on participants, since it is addressing real pain points and problems that companies have today
   - [Education](/Working-Sessions/DevSecOps/) - Always strong in OWASP, this Track ranges from University master degree to how to create the next generation of AppSec professionals
-  [Mobile Security](http://localhost:9000/Working-Sessions/Mobile-Security/) - Another track where the key Owasp leaders of Mobile related Owasp projects are participating
+ - [Mobile Security](http://localhost:9000/Working-Sessions/Mobile-Security/) - Another track where the key Owasp leaders of Mobile related Owasp projects are participating
   - [CISO](/Working-Sessions/Education/) - This reaching a wide audience of CISOs and covering a wide range of CISO related topics
   - [Research](/Working-Sessions/Research/) - This track covers really important and interesting research topics (it's important to look at the future and work on the next generation of Application Security)
   - [Agile AppSec](/Working-Sessions/Agile-AppSec/) - This is a Track driven by a couple participants that really care about Agile and want to find better ways to integrate it with AppSec practices
   - [Security Crowdsourcing](/Working-Sessions/Security-Crowdsourcing/) - This is a Track that is focused on scaling AppSec activities via internal and external crowdsourcing    
   - [Owasp Project's Summit](/Working-Sessions/Project-Summit/) - last but not least, this track has 31x Working Sessions directly related to an Owasp Project (with most having the Project Leader participating)
 
-Each track's Working Session will be expected to deliver something tangible and usable by the Owasp community (whitepaper, documentation, play-books, code, action-plans, books, decisions, etc... ) and all Participants are expected to participate activity in Working Sessions (as an organizer or contributor).
+Each track's Working Session will be expected to deliver something tangible and usable by the Owasp community (whitepaper, documentation, play-books, code, action-plans, books, decisions, etc... ) and all Participants are expected to participate actively in Working Sessions (as an organizer or contributor).
 
 Owasp Summit's Schedules are different from normal conferences, since they are focused on maximizing the Participant's time and Working Sessions they want to be actively involved. The current Schedule is under development and will be released in the next weeks.
 
