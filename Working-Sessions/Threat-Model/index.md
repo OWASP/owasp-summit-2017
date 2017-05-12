@@ -36,4 +36,5 @@ Work on multiple Threat Modeling topics and improve existing materials.
 - [STRIDE Threat Categorization Model](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
 - [Software Defined Network Threat Models](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
 - [Application Threat Modeling (OWASP)](https://www.owasp.org/index.php/Application_Threat_Modeling)
-- [Tactical Threat Modeling (SAFECode)](https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)
+- [Tactical Threat Modeling (SAFECode Whitepaper)](https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)
+- [Threat Modeling 101 (SAFECode Video)](https://training.safecode.org/course/threat_modeling_101)
