@@ -24,8 +24,6 @@ The project looks to define a structure for various IoT sub-projects such as Att
 - [IoT Framework Assessment](https://www.owasp.org/index.php/IoT_Framework_Assessment)
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
 
-> todo: add details on the Summit's Workshop objectives and developers for this project
-
 ## Why
 
 The purpose of the Internet of Things Security project is to create concise, transparent, and usable resources for various people who are purchasing, deploying, creating, testing, and otherwise interacting with IoT technologies.
