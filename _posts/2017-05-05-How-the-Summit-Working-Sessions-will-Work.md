@@ -1,7 +1,7 @@
 ---
 layout      : blocks/page-component
 component   : blocks/blog-post.html
-title       : How the Summit's Working Sessions with work and Summit's Scheadule
+title       : How the Summit's Working Sessions with work and Summit's Schedule
 post-date   : May 05
 author      : Dinis Cruz
 ---
