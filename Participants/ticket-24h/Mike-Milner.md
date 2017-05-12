@@ -6,6 +6,7 @@ job-title       : CTO
 company         : Immunio
 travel-from     : Canada
 image           : https://pbs.twimg.com/profile_images/802226331551313920/3NfWy8qB_400x400.jpg
+email           : mike@immun.io
 linkedin        :
 twitter         : secretmike
 facebook        :

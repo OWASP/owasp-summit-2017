@@ -106,6 +106,69 @@
 }
 
 
+.participants-content {
+  background: #eaeaea;
+}
+.participants-content img {
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+}
+.participants-content table th {
+  font-family: 'Oswald';
+  color: #333333;
+  padding: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.participants-content table tr {
+  font-size: 14px;
+}
+
+.participants-table {
+  background: #eaeaea;
+  padding: 10px;
+}
+.participants-table h1 a {
+  padding: 20px;
+}
+.participants-table table {
+  font-size: 10px;
+}
+.participants-table table tr td {
+  border-right: 1px dotted #A0A0A0;
+  padding: 2px;
+}
+.participants-table table tr td img {
+  width: 15px;
+}
+.participants-table table tr td a {
+  padding-left: 3px;
+  font-size: 100%;
+}
+.participants-table table tr td .label {
+  padding: 2.5px;
+}
+.participants-table table tr td .no-technology {
+  color: red;
+}
+.participants-table table tr td li {
+  list-style: none;
+}
+.participants-table table th {
+  font-family: 'Oswald';
+  color: #333333;
+  padding: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.participants-table table .large-column {
+  min-width: 120px;
+}
+.participants-table textarea {
+  width: 100%;
+  height: 50px;
+}
+
 @media screen {
   .about-past-summit img {
     padding: 0px;
@@ -190,6 +253,43 @@
 }
 .about-past-summit h2 {
   text-transform: uppercase;
+}
+
+.blog {
+  background-color: #eaeaea;
+  padding-bottom: 50px;
+}
+.blog h3 {
+  margin: 0px;
+}
+.blog .author a {
+  color: #87BB40;
+  margin: 0px;
+}
+.blog .card-top .date {
+  font-size: 70%;
+}
+.blog .card {
+  background-color: #efefef;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.247059) 0px 0px 5px;
+  border-radius: 1%;
+}
+.blog .card-top {
+  padding: 10px 10px 0px 10px;
+}
+.blog .card-block {
+  padding: 10px 10px 10px 10px;
+}
+.blog img {
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+}
+.blog-post h3 {
+  font-size: 220%;
+}
+.blog-post h4 {
+  color: #87BB40;
 }
 
 @media screen {
@@ -912,69 +1012,6 @@
   font-size: 100%;
 }
 
-.participants-content {
-  background: #eaeaea;
-}
-.participants-content img {
-  border-radius: 0.5em;
-  border-color: #f2f2f2;
-}
-.participants-content table th {
-  font-family: 'Oswald';
-  color: #333333;
-  padding: 20px;
-  text-transform: uppercase;
-  text-align: center;
-}
-.participants-content table tr {
-  font-size: 14px;
-}
-
-.participants-table {
-  background: #eaeaea;
-  padding: 10px;
-}
-.participants-table h1 a {
-  padding: 20px;
-}
-.participants-table table {
-  font-size: 10px;
-}
-.participants-table table tr td {
-  border-right: 1px dotted #A0A0A0;
-  padding: 2px;
-}
-.participants-table table tr td img {
-  width: 15px;
-}
-.participants-table table tr td a {
-  padding-left: 3px;
-  font-size: 100%;
-}
-.participants-table table tr td .label {
-  padding: 2.5px;
-}
-.participants-table table tr td .no-technology {
-  color: red;
-}
-.participants-table table tr td li {
-  list-style: none;
-}
-.participants-table table th {
-  font-family: 'Oswald';
-  color: #333333;
-  padding: 20px;
-  text-transform: uppercase;
-  text-align: center;
-}
-.participants-table table .large-column {
-  min-width: 120px;
-}
-.participants-table textarea {
-  width: 100%;
-  height: 50px;
-}
-
 
 
 
@@ -1105,6 +1142,7 @@ body .page-content {
   margin: 0px;
 }
 .blocks-menu {
+  background: #eaeaea;
   float: right;
   font-family: 'Oswald';
 }

@@ -6,6 +6,7 @@ job-title       :
 company         :
 travel-from     :
 image           : https://pbs.twimg.com/profile_images/826669550875746304/7G7nBcNt_400x400.jpg
+email           : stefan.streichsbier@owasp.org
 linkedin        :
 twitter         : s_streichsbier
 facebook        :

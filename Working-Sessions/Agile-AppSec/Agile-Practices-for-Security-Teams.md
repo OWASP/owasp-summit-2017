@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : review-content
 organizers   : David Clarke
-participants : Ante Gulam
+participants : Ante Gulam,Avi Douglen
 ---
 
 ## Why

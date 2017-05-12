@@ -8,7 +8,7 @@ technology   : TDD
 related-to   : Testing Guide v5
 status       : better-content
 organizers   : Dinis Cruz
-participants : Robert Morschel
+participants : Robert Morschel,Avi Douglen
 ---
 
 ## Why

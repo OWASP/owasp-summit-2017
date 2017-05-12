@@ -1,7 +1,7 @@
 ---
 layout       : blocks/working-session
 title        : Owasp Chapter Treasury
-type         : Owasp
+type         : workshop
 organizers   :
 track        : Owasp
 status       : done

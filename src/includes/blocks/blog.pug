@@ -1,0 +1,39 @@
+mixin add-title
+    .title
+        a(href='{{ page.url }}')
+            h3 {{ page.title }}
+
+
+mixin add-author
+    |   {% assign match = site.pages | where: 'title', page.author %}
+    |   {% if match[0] %}
+    .author
+        a(href='{{match[0].url}}') {{ match[0].title }}
+    |   {% else %}
+    .author {{ page.author }}
+    |   {% endif %}
+    .date
+        | {{ page.date | date: "%-d %B" }}
+
+
+mixin add-snippet
+    | {{ page.content | strip_html | truncate: 250}}
+
+.blog
+    .container
+        .row
+            .col-xs-0
+            .col-xs-12
+                h1 Blog
+                p Summit blog with latest news, thinking and participant's posts.
+            .col-xs-0
+        | {% for page in site.posts                         %}
+        .row
+            .col-xs-12.col-sm-12
+                .card
+                    .card-top
+                        + add-title
+                        + add-author
+                    .card-block
+                        + add-snippet
+        | {% endfor                                        %}
