@@ -7,19 +7,24 @@ technology   :
 related-to   :
 status       : draft
 organizers   :
-participants :
+participants : Robert Hurlbut
 ---
 
-...intro text...
+Scaling Threat Modeling in the Enterprise
 
 ## Why
 
-...why text...
+Threat Modeling, in order to be most effective, needs to scale throughout an enterprise.
 
 ## What
 
-...what text...
+1. What are some guidelines to scale out threat modeling?
+2. Who should be involved?
+3. What are the check points (i.e. how do you evaluate the threat models created by many teams)?
 
 ## Who
 
-... target audience ...
+... Managers
+... Security Champions
+... CISOs
+... CTOs
