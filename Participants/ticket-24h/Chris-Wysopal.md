@@ -15,7 +15,7 @@ project-leader  :
 chapter-leader  :
 funded-who      :
 when-day        : wed,thu,fri
-ticket          :
+ticket          : 2x24h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
