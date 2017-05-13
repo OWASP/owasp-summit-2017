@@ -1,6 +1,6 @@
 ---
 layout      : blocks/working-session
-title       : Owasp Project's Summit
+title       : Owasp Projects
 type        : track
 description : The Summit will contain a number of Working-Sessions focused on OWASP Projects
 #status     : done

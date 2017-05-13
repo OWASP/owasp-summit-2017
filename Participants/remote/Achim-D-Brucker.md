@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : Achim D. Brucker
 type            : participant-remote
 job-title       :
-image           : https://www.brucker.ch/images/adb.png
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/063/260/3d64d19.jpg
 linkedin        : adbrucker
 twiter          : adbrucker
 facebook        :
