@@ -4,20 +4,20 @@ title: Johanna Curiel
 type: participant
 travel-from     :
 expenses        : owasp
-funded          : no
+funded          : yes
 funded-who      :
-flight-cost     : 1000
-ticket-cost     : 1500
-funded-amount   : 0
-required-funds  : 2500
-project-leader  :
+flight-cost     : 
+ticket-cost     : 
+funded-amount   : 
+required-funds  : 
+project-leader  : OWASP Board Member / OWASP Bug Bounty Projectleader
 chapter-leader  :
-job-title       :
-image           :
+job-title       : Security Engineer
+image           : http://m.aceshowbiz.com/webimages/still/girl_with_the_dragon_tattoo08.jpg
 linkedin        :
 twitter         :
 facebook        :
-status          : empty
+status          : done
 ---
 
 ## Johanna Curiel
