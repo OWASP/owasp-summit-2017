@@ -28,7 +28,7 @@ When that happens, it is very important that very clean workflows (aka playbooks
  - Security teams
 
 ## References
-
+ - [OWASP Anti-Ransomware Guide Project](https://www.owasp.org/index.php/OWASP_Anti-Ransomware_Guide_Project)
  - [NHS cyber-attack: GPs and hospitals hit by ransomware](http://www.bbc.co.uk/news/health-39899646) (BBC news)
  - [Ransomware is Here: Fundamentals Everyone Needs to Know](https://www.slideshare.net/jeremiahgrossman/ransomware-is-here-fundamentals-everyone-needs-to-know) (presentation)
  - [What the Kidnapping & Ransom Economy Teaches Us About Ransomware](https://www.slideshare.net/jeremiahgrossman/what-the-kidnapping-ransom-economy-teaches-us-about-ransomware-75940725) (presentation)
