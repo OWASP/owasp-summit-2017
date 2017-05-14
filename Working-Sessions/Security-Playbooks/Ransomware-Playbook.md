@@ -12,11 +12,11 @@ participants :
 
 ## Why
 
-Given the scale of the Ransomware market ($209 Million paid in 2016) and the scale of its operations (50% of organizations
-    have responded to an Ransomware campaign) and increased used of technology (exploits used to propagate), it is just a matter
-    of time, before a security team is tasked with dealing with an Ransomware incident.
+Given the scale of the Ransomware market ($209 million paid in 2016) and the scale of its operations (50% of organizations
+    have responded to a Ransomware campaign) and increased used of technology (exploits used to propagate), it is just a matter
+    of time, before a security team is tasked with dealing with a Ransomware incident.
 
-When that happens, it is very important that very clean workflows (aka playbooks) exist, so that the that the team's response
+When that happens, it is very important that very clean workflows (aka playbooks) exist, so that the team's response
     is consistent, focused and repeatable.
 
 ## What
