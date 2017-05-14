@@ -2,21 +2,21 @@
 layout          : blocks/page-participant
 title           : Viktor Lindström
 type            : participant
-job-title       :
-company         :
+job-title       : IT Security Specialist
+company         : Volvo Cars Corporation
 travel-from     : Sweden
-image           :
-linkedin        :
-twiter          :
+image           : https://owaspgbgday.se/wp-content/uploads/2016/11/Viktor-229x300.jpg
+linkedin        : viktor-lindström-a9310a5a
+twiter          : ViktorLindstr_m
 facebook        :
 website         :
-email           :
+email           : viktor.lindstrom@owasp.org 
 project-leader  :
-chapter-leader  :
+chapter-leader  :  
 funded-who      :
 ticket          : 5x24h
 status          : empty
-working-sessions:
+working-sessions: OwaspSAMM Working, Threat Modeling
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
