@@ -11,6 +11,6 @@ author      : Dinis Cruz
 </a>
 
 While at AppSec EU in Belfast [Seba](Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html) recorded
- a quick interview with Mark Miller which runs the [Owasp 24/7 Podcast](https://soundcloud.com/owasp-podcast)
+ a quick interview with Mark Miller who runs the [OWASP 24/7 Podcast](https://soundcloud.com/owasp-podcast)
 
-You can list to it at [https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-owasp-summit-2017](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-owasp-summit-2017)
+You can listen to it at [https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-owasp-summit-2017](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-owasp-summit-2017)
