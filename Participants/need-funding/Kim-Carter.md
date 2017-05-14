@@ -5,10 +5,10 @@ type            : participant
 travel-from     :
 expenses        : owasp
 funded          : no
-funded-who      :
+funded-who      : Summit Budget
 flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   : 0
+funded-amount   : 1250 (Summit Budget)
 required-funds  : 2500
 project-leader  :
 chapter-leader  :
