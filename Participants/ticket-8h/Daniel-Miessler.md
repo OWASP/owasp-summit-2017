@@ -4,11 +4,11 @@ title           : Daniel Miessler
 type            : participant
 travel-from     : San Francisco
 expenses        : owasp
-funded          : no
-funded-who      :
+funded          : yes
+funded-who      : Summit Budget
 flight-cost     : 1000
 ticket-cost     : 1500
-funded-amount   : 0
+funded-amount   : 2500
 required-funds  : 2500
 project-leader  :
 chapter-leader  :

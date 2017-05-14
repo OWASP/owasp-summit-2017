@@ -4,11 +4,11 @@ title           : Hardik Parekh
 type            : participant
 travel-from     : United States
 expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : 1000
-ticket-cost     : 1500
-funded-amount   : 0
+funded          : yes
+funded-who      : Summit Budget,SAMM
+flight-cost     : 1000 (Summit Budget)
+ticket-cost     : 1500 (SAMM)
+funded-amount   : 2500
 required-funds  : 2500
 project-leader  :
 chapter-leader  :

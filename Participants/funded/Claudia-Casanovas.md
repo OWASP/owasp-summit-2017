@@ -4,12 +4,12 @@ title: Claudia Casanovas
 type: participant
 travel-from     :
 expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : 1000
+funded          : yes
+funded-who      : Owasp Foundation
+flight-cost     : 0
 ticket-cost     : 1500
 funded-amount   : 0
-required-funds  : 2500
+required-funds  : 1500
 project-leader  :
 chapter-leader  :
 job-title       :

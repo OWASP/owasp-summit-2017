@@ -5,11 +5,11 @@ type            : participant
 time            : vacation
 travel-from     : Cambridge
 expenses        : owasp
-funded          : no
-funded-who      :
+funded          : yes
+funded-who      : Summit Budget
 flight-cost     : 0
 ticket-cost     : 1500
-funded-amount   : 0
+funded-amount   : 1500
 required-funds  : 1500
 project-leader  : Development Guide, CTF
 chapter-leader  : Cambridge

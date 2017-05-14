@@ -5,10 +5,10 @@ type: participant
 travel-from     :
 expenses        : owasp
 funded          : yes
-funded-who      :
+funded-who      : Owasp Foundation
 flight-cost     : 
-ticket-cost     : 
-funded-amount   : 
+ticket-cost     : 1500
+funded-amount   : 1500
 required-funds  : 
 project-leader  : OWASP Board Member / OWASP Bug Bounty Projectleader
 chapter-leader  :

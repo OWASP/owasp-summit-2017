@@ -5,21 +5,23 @@ type            : participant
 time            : vacation
 travel-from     : Minneapolis
 expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : 1500
-ticket-cost     : 1500
+funded          : yes
+funded-who      : Summit Budget,SAMM
+flight-cost     : 1500 (Summit Budget)
+ticket-cost     : 1500 (SAMM)
 funded-amount   : 0
 required-funds  : 3000
 project-leader  :
 chapter-leader  :
 job-title       : CISO
+company         : Atomic Data
 image           :
 email           : yan.kravchenko@owasp.org
 linkedin        : yankravchenko
 twitter         : yanfosec
 facebook        :
 website         : https://about.me/yan.kravchenko
+ticket          : 5x24
 status          : done
 ---
 
