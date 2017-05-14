@@ -6,7 +6,7 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : review-content
-organizers   : Dave Wichers
+organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
 participants :
 ---
 

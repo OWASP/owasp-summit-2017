@@ -10,10 +10,10 @@ flight-cost     :
 ticket-cost     : 1500
 funded-amount   : 1500
 required-funds  : 
-project-leader  : OWASP Board Member / OWASP Bug Bounty Projectleader
+project-leader  : OWASP Board Member / OWASP Bug Bounty Project leader
 chapter-leader  :
 job-title       : Security Engineer
-image           : http://m.aceshowbiz.com/webimages/still/girl_with_the_dragon_tattoo08.jpg
+image           : https://pbs.twimg.com/media/CZ5k6N1WAAAsYZU.jpg:small
 linkedin        :
 twitter         :
 facebook        :
@@ -23,3 +23,4 @@ status          : done
 ## Johanna Curiel
 
 <!-- put more details about participant here -->
+Owasp Global Board Member

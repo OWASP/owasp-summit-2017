@@ -13,7 +13,7 @@ participants :
 ## Why
 
 Responding to Security Incidents should not be an improvised or non-scripted activity. It is key that workflows and action-plans
-    have been created in advanced, so that the team's response is consistent, focused and repeatable.
+    are created in advance, so that the team's response is consistent, focused and repeatable.
 
 ## What
 
