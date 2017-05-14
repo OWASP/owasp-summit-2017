@@ -44,3 +44,4 @@ Threat Connect also looks interesting:
  - [Playbook Series: Enrich Security Events with External Threat Intelligence](https://blog.phantom.us/2016/10/13/playbook-series-enrich-security-events-with-external-threat-intelligence/)
  - [ThreatConnect Playbook Actions: Be More Efficient and Gain Control with Automated Actions](https://threatconnect.com/blog/threatconnect-playbook-actions/)
  - [Playbooks](https://blog.phantom.us/category/playbooks/) related posts in Phantom's website
+ - [COPS - Collaborative Open Playbook Standard](https://github.com/demisto/COPS)
