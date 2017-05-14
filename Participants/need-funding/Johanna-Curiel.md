@@ -10,7 +10,7 @@ flight-cost     :
 ticket-cost     : 
 funded-amount   : 
 required-funds  : 
-project-leader  : OWASP Board Member / OWASP Bug Bounty Projectleader
+project-leader  : OWASP Board Member / OWASP Bug Bounty Project leader
 chapter-leader  :
 job-title       : Security Engineer
 image           : https://pbs.twimg.com/media/CZ5k6N1WAAAsYZU.jpg:small
