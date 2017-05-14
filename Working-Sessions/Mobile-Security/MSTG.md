@@ -12,22 +12,17 @@ participants    : Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau,  Kuai Hinojosa
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right"/>
 
-During the last few months the Mobile Security Testing Guide has made [a lot of progress](https://github.com/OWASP/owasp-mstg). As we want to push things forward in order to have a first draft of the Mobile Security Testing Guide (MSTG) at the end of Q2, Bernhard and Sven are organizing a working session at the OWASP Summit.
+## Why
 
-## Workshop Goals
+As of today, no widely accepted standard for mobile app security exists. The goal of our project is to rectify this situaton. In addition to a [mobile appsec security standard](https://github.com/OWASP/owasp-masvs), we are producing a comprehensive [testing guide](https://github.com/OWASP/owasp-mstg) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results. We aim to release the guide in the form of a free ebook and potentially a printed book bu the end of this year.
 
-Our ambitious goal is to complete the mobile security testing guide. To achieve this, we'll need to *at least* close the 126 "missing content" tickets listed on the [project dashboard](https://github.com/OWASP/owasp-mstg/projects/1) and produce an estimated 200 book-sized pages of content. This sounds like a lot - however, if we can gather 10 people for this working session, this amounts to 4 pages of content per person/day which is achievable. 
+## What
 
-On top of completing the content, we want to apply a basic level of proof-reading, review and editing to get the guide ready for beta release.
 
-## Tasks
-
-The main tasks of the five days workshop are:
+The objective of this working session is to complete a first draft of the Mobile Security Testing Guide (MSTG). Tasks include:
 
 - Write original content, such as describing testing processes and writing test cases.
 * Proofreading and technical editing to improve the overall quality of the MSTG.
-
-## High-Level Topics
 
 Participants may join working groups organized along the main topics covered in the guide. Work will be split between working groups based on mobile OS and topic as listed below.
 
@@ -97,12 +92,18 @@ Associated chapters in the MSTG:
 - [iOS Anti-Reversing Defenses](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06j-Testing-Resiliency-Against-Reverse-Engineering.md)
 - [Assessing Anti-Reverse Engineering Schemes](Document/0x07b-Assessing-Anti-Reverse-Engineering-Schemes.md)
 
-## Project Dashboard
+### Project Dashboard
 
 As preparation for the workshop, open tasks were converted into issues and organized as a [GitHub project](https://github.com/OWASP/owasp-mstg/projects/1). Thanks again to Romuald for taking the initiative. This project will be the basis for our ongoing work, but also for the OWASP Summit in particular.
 
 In order to be able to schedule work during the summit and create work groups we need to know who will be attending the OWASP Summit and how much time you can/will spend for the mobile workshop. Please [add yourself as a participant](https://github.com/OWASP/owasp-summit-2017/blob/master/Working-Sessions/Mobile-Security/MSTG.md) and reach out directly to Sven via Slack, [see here](https://github.com/OWASP/owasp-mstg#contributions-feature-requests-and-feedback) on how to contact us via Slack .
 
 If you do not have time during the summit but are interested to help, you can start immediately by assigning issues to yourself and creating pull requests. We can potentially also loop you in remotely during the submit.
+
+## Outcome
+
+Our ambitious goal is to complete the mobile security testing guide. To achieve this, we'll need to *at least* close the 126 "missing content" tickets listed on the [project dashboard](https://github.com/OWASP/owasp-mstg/projects/1) and produce an estimated 200 book-sized pages of content. This sounds like a lot - however, if we can gather 10 people for this working session, this amounts to 4 pages of content per person/day which is achievable. 
+
+On top of completing the content, we want to apply a basic level of proof-reading, review and editing to get the guide ready for beta release.
 
 Let's work on the testing guide and fix mobile application security!
