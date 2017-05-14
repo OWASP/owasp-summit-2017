@@ -1,25 +1,27 @@
 ---
-layout          : blocks/page-participant
-title           : Bernhard Mueller
-type            : participant
-time            : vacation
-travel-from     : Singapore
-expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : 1000
-ticket-cost     : 1500
-funded-amount   : 1000 (Owasp Outreach Funds)
-required-funds  : 2500
-project-leader  : The OWASP Mobile Security Testing Guide
-chapter-leader  :
-job-title       : Security Researcher
-image           : https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
-email           : bernhard@vantagepoint.sg
-linkedin        : bernhardm
-twitter         : muellerberndt
-facebook        :
-status          : done
+layout           : blocks/page-participant
+title            : Bernhard Mueller
+type             : participant
+time             : vacation
+travel-from      : Singapore
+expenses         : owasp
+funded           : yes
+funded-who       : Summit Budget,OWASP Outreach Funds
+flight-cost      : 1000 (Owasp Outreach Funds)
+ticket-cost      : 1500 (Summit Budget)
+funded-amount    : 2500
+required-funds   : 2500
+project-leader   : The OWASP Mobile Security Testing Guide
+chapter-leader   :
+job-title        : Security Researcher
+image            : https://pbs.twimg.com/profile_images/738251917688610816/1_MzP-c2_400x400.jpg
+email            : bernhard@vantagepoint.sg
+linkedin         : bernhardm
+twitter          : muellerberndt
+facebook         :
+status           : done
+working-sessions :
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
 I am planning a [mobile application security workshop](/Working-Sessions/Mobile-Security/index.html) to together with [Sven Schleier](/Participants/need-funding/Sven-Schleier.html) with the goal of advancing the [Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg). This guide is part of the documents developed in the Mobile Security Testing project. Our vision:

@@ -3,7 +3,7 @@ layout      : blocks/working-session
 title       : GitHub Organization Reboot
 type        : workshop
 track       : Project Summit
-status      : featured
+status      : done
 description: The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them.
 organizers  : Bjoern Kimminich
 participants:

@@ -5,7 +5,7 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : done
+status          : featured
 organizers      : Bernhard Mueller, Sven Schleier
 participants    : Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau,  Kuai Hinojosa
 ---
