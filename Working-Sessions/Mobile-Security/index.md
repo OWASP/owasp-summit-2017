@@ -42,4 +42,4 @@ This document has already undergone several revisions and is relatively mature. 
 
 ### Working Sessions
 
-We will hold a single working session focused on producing content for the OWASP MSTG, as well as proof-reading and editing of the existing content. The goal is to make as much progress on the guide as humanly possible. Depending on the number of participants, we'll split into sub-groups that work on different subsections or topic areas. See the working session page for more information.
+To keep things simple, we are organizing a [single working session](http://owaspsummit.org/Working-Sessions/Mobile-Security/MSTG.html) focused on producing content for the OWASP MSTG, as well as proof-reading and editing of the existing content. The goal is to make as much progress on the guide as humanly possible. Depending on the number of participants, we'll split into sub-groups that work on different subsections or topic areas. See the [working session page](http://owaspsummit.org/Working-Sessions/Mobile-Security/MSTG.html) for more information.
