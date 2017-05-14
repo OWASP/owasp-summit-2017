@@ -31,28 +31,38 @@ Work will be split between working groups based on mobile OS and topic (see belo
 
 ## High-Level Topics
 
+Participants may join working groups organized along the main topics covered in the guide. The key areas in the Mobile Testing Guide are:
+
 ### Mobile Operating Systems
 
-Mobile operating system basics as well as concepts important for security testing.
+Mobile operating system basics as well as concepts important for security testing. Participants can help in the following ways:
 
-Relevant chapters:
+- Complete the existing content. Describe OS aspects/features of Android and iOS that are relevant for security testers: App signing, exploit mitigation, KeyStore/KeyChain, and others.
+
+Associated chapters in the MSTG:
 
 - [Android Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05a-Platform-Overview.md)
 - [iOS Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06a-Platform-Overview.md)
 
 ### Mobile App Security Testing
 
-#### General
+High-level testing methodology, including scoping, test setup and reporting. Basic technical processes such as setting up a web proxy, API monitoring using existing tools, et cetera.
 
-Relevant chapters:
+Participants can help in the following ways:
+
+- Describe the high-level, non-technical testing methdology. We don't have any content in this area yet!
+- Write about basic, technical securty testing processes on iOS. The iOS part is currently lagging behind the Android part.
+- Review and improve the existing content.
+
+Associated chapters in the MSTG:
+
+#### General / OS-independent
 
 - [Testing Processes and Techniques](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x04-Testing-Processes-and-Techniques.md)
 - [Security Testing in the Application Development Lifecycle](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x07-Security-Testing-SDLC.md)
 - [Testing Tools](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x08-Testing-Tools.md)
 
 #### Android 
-
-Relevant chapters:
 
 - [Android Security Testing Basics](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)
 - [Testing Data Storage](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md)
@@ -63,8 +73,6 @@ Relevant chapters:
 - [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/)
 
 #### iOS 
-
-Relevant chapters:
 
 - [iOS Security Testing Basics](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md)
 - [Testing Data Storage](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md)
@@ -83,7 +91,7 @@ Everything related to mobile reversing, anti-reversing and cracking. Participant
 - Solving crackmes and contributing a tutorial to the guide (preferable a technique that's not already documented. Check the TOC first).
 - Writing and adding new crackmes along with solutions (should also describe something not already in the guide. Cracking white-boxes, dynamic analysis using an emulator / introspection, etc. etc.).
 
-The following sections in the MSTG deal with reverse engineering:
+Associated chapters in the MSTG:
 
 - [Android Reverse Engineering](Document/0x05c-Reverse-Engineering-and-Tampering.md) and 
 - [Android Anti-Reversing Defenses](Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md)
