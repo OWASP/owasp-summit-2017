@@ -11,9 +11,6 @@ twiter          :
 facebook        :
 website         :
 email           :
-project-leader  :
-chapter-leader  :
-funded-who      :
 ticket          :
 status          : empty
 working-sessions:
