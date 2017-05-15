@@ -18,7 +18,7 @@ https://www.owasp.org/index.php/Top_10_2017-A10-Underprotected_APIs
 
 ## Why
 
-The new Owasp Top 2017 introduces this new category, this Working Session presents to opportunity to challenge or support it.
+The new Owasp Top 2017 introduces this new category; this Working Session presents an opportunity to challenge or support it.
 
 ## What
 
