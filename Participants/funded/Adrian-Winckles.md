@@ -6,10 +6,10 @@ time            : work
 travel-from     : Cambridge
 expenses        : owasp
 funded          : no
-funded-who      : OWASP Community Fund
+funded-who      : Owasp Outreach Funds
 flight-cost     : 0
 ticket-cost     : 1500
-funded-amount   : 1000 (Owasp Outreach Funds)
+funded-amount   : 1500
 required-funds  : 1500
 project-leader  : 
 chapter-leader  : Cambridge
