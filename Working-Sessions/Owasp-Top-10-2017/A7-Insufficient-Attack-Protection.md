@@ -16,11 +16,11 @@ https://www.owasp.org/index.php/Top_10_2017-A7-Insufficient_Attack_Protection
 
 ## Why
 
-The new Owasp Top 2017 introduces this new category, this Working Session presents to opportunity to challenge or support it.
+The new Owasp Top 2017 introduces this new category; this Working Session presents an opportunity to challenge or support it.
 
 ## What
 
- - Review data behind this new Category
+ - Review data behind this new category
  - Review current description and text
  - What are the pros and cons of this category
  - Is this category important enough to be added to the new Top 10?
