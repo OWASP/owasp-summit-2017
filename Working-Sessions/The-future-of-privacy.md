@@ -7,7 +7,7 @@ organizers   :
 track        :
 status       : done
 organizers   : Ingo Hanke
-participants :
+participants : Akshay Sharma
 ---
 
 Is there a future for privacy?
@@ -41,7 +41,7 @@ Potential outcomes
 - Concept of a campaign and compliance of OWASP community and foundation, road map
 
 Participants:
-- everyone who cares about privacy.
+- Everyone who cares about privacy.
 
 References:
-(1) OWASP Summit 2011 Working Session "Privacy" (https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073)
+(1) OWASP Summit 2011 Working Session "Privacy" ( https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073 )
