@@ -1,22 +1,20 @@
 ---
 layout          : blocks/page-participant
-title           : Tobias Gondrom
+title           : ....
 type            : participant
-time            :
-travel-from     :
-funded-who      :
-flight-cost     : (tbd)
-ticket-cost     : 1500
-funded-amount   : 0
-required-funds  : 1500
 job-title       :
+company         :
+travel-from     :
 image           :
 linkedin        :
 twiter          :
 facebook        :
+website         :
+email           :
 project-leader  :
 chapter-leader  :
-owasp-other     :
+funded-who      :
+ticket          :
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
