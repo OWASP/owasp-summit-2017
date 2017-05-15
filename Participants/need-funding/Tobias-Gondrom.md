@@ -4,8 +4,6 @@ title           : Tobias Gondrom
 type            : participant
 time            :
 travel-from     :
-expenses        : owasp
-funded          : no
 funded-who      :
 flight-cost     : (tbd)
 ticket-cost     : 1500
