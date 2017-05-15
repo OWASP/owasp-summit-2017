@@ -6,7 +6,7 @@ track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
 status          : featured
-description     : As of today, no widely accepted standard for mobile app security exists. The goal of our project is to rectify this situaton. In addition to a [mobile appsec security standard](https://github.com/OWASP/owasp-masvs), we are producing a comprehensive [testing guide](https://github.com/OWASP/owasp-mstg) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results. We aim to release the guide in the form of a free ebook and potentially a printed book bu the end of this year.
+description     : As of today, no widely accepted standard for mobile app security exists. In this working session, we develop a mobile app security standard and testing guide to be released by the end of this year.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : Bolot Kerimbaev,Jeroen Willemsen,Marc Rimbau,Kuai Hinojosa
 ---
@@ -15,7 +15,7 @@ participants    : Bolot Kerimbaev,Jeroen Willemsen,Marc Rimbau,Kuai Hinojosa
 
 ## Why
 
-As of today, no widely accepted standard for mobile app security exists. The goal of our project is to rectify this situaton. In addition to a [mobile appsec security standard](https://github.com/OWASP/owasp-masvs), we are producing a comprehensive [testing guide](https://github.com/OWASP/owasp-mstg) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results. We aim to release the guide in the form of a free ebook and potentially a printed book bu the end of this year.
+As of today, no widely accepted standard for mobile app security exists. The goal of our project is to rectify this situation. In addition to a [mobile appsec security standard](https://github.com/OWASP/owasp-masvs), we are producing a comprehensive [testing guide](https://github.com/OWASP/owasp-mstg) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results. We aim to release the guide in the form of a free ebook and potentially a printed book by the end of this year.
 
 ## What
 
