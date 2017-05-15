@@ -4,7 +4,7 @@ Welcome to the home page of the Owasp Summit 2017
 
 Registration is open [On RegOnline](https://www.regonline.com/owaspsummit2017) 
 
-* [Slack channel](https://owasp.slack.com/archives/owasp-summit)
+* [Slack channel](https://owasp.slack.com/archives/owasp-summit-2017)
 
 **Owasp Summit 2017, England, 12-16 June 2017**
 OWASP is organizing a new Summit in 2017 focused on the collaboration between Developers and Application Security.
