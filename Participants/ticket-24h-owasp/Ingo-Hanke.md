@@ -2,7 +2,7 @@
 layout        : blocks/page-participant
 title           : Ingo Hanke
 type            : participant
-job-title       :
+job-title       : Information Security Consultant, Software Architect
 image           :
 linkedin        :
 twitter         :
