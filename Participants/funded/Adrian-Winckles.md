@@ -5,7 +5,7 @@ type            : participant
 time            : work
 travel-from     : Cambridge
 expenses        : owasp
-funded          : no
+funded          : yes
 funded-who      : Owasp Outreach Funds
 flight-cost     : 0
 ticket-cost     : 1500
