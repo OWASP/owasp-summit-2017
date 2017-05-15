@@ -15,7 +15,7 @@ project-leader  :
 chapter-leader  :
 job-title       : CISO
 company         : Atomic Data
-image           :
+image           : http://atomicdata.com/sites/default/files/staff_images/Yan%20Kravchenko%20Photo%20for%20Website%20resized.jpeg
 email           : yan.kravchenko@owasp.org
 linkedin        : yankravchenko
 twitter         : yanfosec
