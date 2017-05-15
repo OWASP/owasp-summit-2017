@@ -8,7 +8,7 @@ technology   : TLS
 owasp-project: yes
 status       : done
 organizers   : Achim Hoffmann
-participants : Marc Rimbau
+participants : Marc Rimbau, Ingo Hanke
 ---
 
 [OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related configurations, behaviours and vulnerabilities.
