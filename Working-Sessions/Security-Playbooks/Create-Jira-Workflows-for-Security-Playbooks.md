@@ -7,7 +7,7 @@ technology   : Jira
 related-to   :
 status       : review-content
 organizers   :
-participants :
+participants : Irene Michlin
 ---
 
 ## Why
@@ -17,7 +17,7 @@ Playbooks contain specific workflows which need to be executed in a particular s
 Jira is a widely used tool by developers and security teams, which means that if Jira Workflows of Security Playbooks exist,
   we will have a scalable and easy to deploy solution for using the playbooks.
 
-Jira Workflows also have the advantage of providing Kanbam boards and dashboards (important for management reporting).
+Jira Workflows also have the advantage of providing Kanban boards and dashboards (important for management reporting).
 
 ## What
 
