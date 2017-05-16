@@ -2,7 +2,7 @@
 layout			: blocks/page-participant
 title			: Avi Douglen
 type			: participant
-role			: Workshop-Admin
+role			: 
 time			: vacation
 travel-from		: Israel
 expenses		: owasp
@@ -25,9 +25,10 @@ working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-I am looking forward to contributing to the Threat Modeling workshops, as I have a lot of varied experience in this area, including constrained environments, paranoid cultures (ala defense and military), limited engagements, and full-scope in-depth ongoing security teams. This is also my current area of research. The OWASP SAMM session also is interesting.   
+I am looking forward to contributing to the Threat Modeling workshops, as I have a lot of varied experience in this area, including constrained environments, paranoid cultures (ala defense and military), limited engagements, and full-scope in-depth ongoing security teams. This is also my current area of research. 
 
-I am also happy to work on the Cheatsheets (these have already made some of my high-school students cry from joy :-) ), as well as AppSec tools or GitHub Working-Sessions. 
+I am also interested in the SAST sessions, as well as OWASPSAMM.
+
 
 
 * [OWASP Israel](https://www.owasp.org/index.php/Israel) Chapter Leader, and Organizer of [AppSec Israel](https://www.owasp.org/index.php/AppSec_Israel_2016)
