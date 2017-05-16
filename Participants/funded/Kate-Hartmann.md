@@ -1,8 +1,8 @@
 ---
 layout          : blocks/page-participant
-title           : Claudia Casanovas
+title           : Kate Hartmann
 type            : participant
-travel-from     :
+travel-from     : United States
 expenses        : owasp
 funded          : yes
 funded-who      : Summit Budget
@@ -14,7 +14,7 @@ project-leader  :
 chapter-leader  :
 job-title       :
 image           :
-email           : Claudia.Aviles-Casanovas@owasp.org
+email           : kate.hartmann@owasp.org
 linkedin        :
 twitter         :
 facebook        :

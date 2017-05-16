@@ -42,6 +42,7 @@ mixin email
             th status
             th image
             th email
+            th company
             th twitter
             th linkedin
             th facebook
@@ -60,6 +61,8 @@ mixin email
                 + image
             td
                 + email
+            td
+                | {{ page.company }}
             td
                 a(href='https://twitter.com/{{ page.twitter }}' target='_blank') {{ page.twitter }}
             td
