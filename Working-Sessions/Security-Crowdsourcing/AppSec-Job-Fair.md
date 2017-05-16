@@ -6,7 +6,7 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   : Recruiting AppSec Talent,Role of Security Certification,Crowdsourcing Security Knowledge
-status       : draft
+status       : review-content
 organizers   :
 participants : Ross Tanner
 ---
