@@ -18,24 +18,29 @@ The project looks to define a structure for various IoT sub-projects such as Att
 
 ### Resources from Owasp.org
 - [IoT Attack Surface Areas](https://www.owasp.org/index.php/IoT_Attack_Surface_Areas)
-- [IoT Testing Guides](https://www.owasp.org/index.php/IoT_Testing_Guides)
-- [IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance)
+- [](https://www.owasp.org/index.php/IoT_Testing_Guides)
+- [](https://www.owasp.org/index.php/IoT_Security_Guidance)
 - [Principles of IoT Security](https://www.owasp.org/index.php/Principles_of_IoT_Security)
 - [IoT Framework Assessment](https://www.owasp.org/index.php/IoT_Framework_Assessment)
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
 
-
-
-> todo: add details on the Summit's Workshop objectives and developers for this project
-
 ## Why
 
-...why text...
+The purpose of the Internet of Things Security project is to create concise, transparent, and usable resources for various people who are purchasing, deploying, creating, testing, and otherwise interacting with IoT technologies.
 
-## What
+## What 
 
-...what text...
+This session will be about the various sub-projects in the project, including:
+
+- Attack Surfaces
+- Top Vulnerabilities
+- ICS/SCADA
+- Medical Devices
+- IoT Testing Guide
+- The structure of the project
+- Recommendations for additional sub-projects
+- and more…
 
 ## Who
 
-... who (target audience) ...
+The ideal participants here are people with some sort of experience with IoT, either from the building, deploying, or testing worlds. We're looking for people with ideas around improving the existing sub-projects, taking on one of the sub-projects, starting a new one, or any combination of these.
