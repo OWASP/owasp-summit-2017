@@ -31,7 +31,7 @@ design and implement a whole bunch of these (and hopefully also entirely
 new) challenges and bundle them in the _OWASP Summit Challenge Pack
 2017_ for production release at the final day of the summit!
 
-![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
+![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_50px.png)
 
 We will also look into planned functional enhancements of the
 [Juice Shop CTF-extension](https://www.npmjs.com/package/juice-shop-ctf-cli)
