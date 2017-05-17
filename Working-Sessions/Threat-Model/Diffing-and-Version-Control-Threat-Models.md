@@ -7,6 +7,7 @@ track        : Threat Model
 technology   :
 related-to   :
 status       : draft
+when-day     : Fri
 organizers   :
 participants :
 ---

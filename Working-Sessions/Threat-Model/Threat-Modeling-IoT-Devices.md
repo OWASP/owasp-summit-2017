@@ -6,6 +6,7 @@ owasp-project: no
 technology   : IoT
 track        : Threat Model
 status       : draft
+when-day     : Thu
 organizers   :
 participants :
 ---

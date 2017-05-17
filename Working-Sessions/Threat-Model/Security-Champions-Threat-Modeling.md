@@ -5,7 +5,8 @@ type         : workshop
 track        : Threat Model
 technology   :
 related-to   :
-status       : draft
+status       : review-content
+when-day     : Wed
 organizers   :
 participants : Robert Hurlbut
 ---

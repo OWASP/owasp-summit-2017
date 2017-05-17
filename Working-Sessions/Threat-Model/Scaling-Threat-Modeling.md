@@ -5,7 +5,8 @@ type         : workshop
 track        : Threat Model
 technology   :
 related-to   :
-status       : draft
+status       : review-content
+when-day     : Wed
 organizers   :
 participants : Robert Hurlbut
 ---
@@ -24,7 +25,7 @@ Threat Modeling, in order to be most effective, needs to scale throughout an ent
 
 ## Who
 
-... Managers
-... Security Champions
-... CISOs
-... CTOs
+ -  Managers
+ -  Security Champions
+ -  CISOs
+ -  CTOs

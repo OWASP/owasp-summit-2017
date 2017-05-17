@@ -1,0 +1,90 @@
+
+{% assign workshops-in-track      = site.pages | where: 'type', 'workshop' | where: 'track', page.track %}
+{% assign workshops-scheduled     = workshops-in-track | where_exp: 'item', 'item.when-day != null' %}
+{% assign workshops-not-scheduled = workshops-in-track | where_exp: 'item', 'item.when-day == null'%}
+<div class="working-session">
+  <div class="container">
+    <h1>Schedule for {{ page.track }} track</h1>
+    <p>Here is the current DRAFT schedule for the {{ page.track }} Working Session.</p>
+    <h3>Scheduled Working Sessions</h3>
+    <p>
+      These Working Sessions are currently in a state where they will be scheduled to run in the
+      {{ page.track }} track room.
+    </p>
+    <p>
+      Note that the day might change (based on key participant's availability
+      (onsite and remote) and participation on other Track's Working Sessions)
+    </p>
+    <table class="table table-striped">
+      <thead>
+        <th class="text-center">
+          <h4>Monday</h4>
+        </th>
+        <th class="text-center">
+          <h4>Tuesday</h4>
+        </th>
+        <th class="text-center">
+          <h4>Wednesday</h4>
+        </th>
+        <th class="text-center">
+          <h4>Thursday</h4>
+        </th>
+        <th class="text-center">
+          <h4>Friday</h4>
+        </th>
+      </thead>
+      <tr>
+        <td>{% assign day = 'Mon'  %}
+          <ul>
+            {% for page in workshops-scheduled      %}
+            {%  if page.when-day == day   %}
+            <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif                   %}
+            {% endfor                     %}
+          </ul>
+        </td>
+        <td>{% assign day = 'Tue'  %}
+          <ul>
+            {% for page in workshops-scheduled      %}
+            {%  if page.when-day == day   %}
+            <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif                   %}
+            {% endfor                     %}
+          </ul>
+        </td>
+        <td>{% assign day = 'Wed'  %}
+          <ul>
+            {% for page in workshops-scheduled      %}
+            {%  if page.when-day == day   %}
+            <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif                   %}
+            {% endfor                     %}
+          </ul>
+        </td>
+        <td>{% assign day = 'Thu'  %}
+          <ul>
+            {% for page in workshops-scheduled      %}
+            {%  if page.when-day == day   %}
+            <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif                   %}
+            {% endfor                     %}
+          </ul>
+        </td>
+        <td>{% assign day = 'Fri'  %}
+          <ul>
+            {% for page in workshops-scheduled      %}
+            {%  if page.when-day == day   %}
+            <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif                   %}
+            {% endfor                     %}
+          </ul>
+        </td>
+      </tr>
+    </table>
+    <h3>Not Scheduled Working Sessions</h3>
+    <p>These Working Sessions are currently NOT scheduled to occur in one of the main Rooms.</p>
+    <p>  This doesn't mean that they will NOT happen.</p>
+    <p>
+      <Participants>will be able to work on this</Participants>
+      <Working>Session (or others created during the Summit) at specific locations and times.</Working>
+    </p>
+    <ul>{% for page in workshops-not-scheduled      %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+    </ul>
+  </div>
+</div>

@@ -4,6 +4,7 @@ title       : Lightweight Threat Modeling Process
 type        : workshop
 track       : Threat Model
 status      : draft
+when-day    : Tue
 organizers  : Geoff Hill
 participants: Marc Rimbau,Felipe Zipitria,Avi Douglen, Stephen de Vries
 ---
