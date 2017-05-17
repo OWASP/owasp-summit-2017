@@ -1,5 +1,4 @@
 ---
-
 layout      : blocks/working-session
 title       : Juice Shop
 type        : workshop
