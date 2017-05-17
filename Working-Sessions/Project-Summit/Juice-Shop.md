@@ -39,7 +39,7 @@ and its improved integration with [CTFd](https://ctfd.io/). Ideas for
 the CTF-extension are currently gathered as
 [_enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement).
 
-![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_50px.png)
+![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
 
 #### Potential outcome
 
