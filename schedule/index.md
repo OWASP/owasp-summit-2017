@@ -8,5 +8,5 @@ title   : Jekyll Properties
 
 Here are the first drafts of the Tracks individual schedules
 
-* [/schedule/Threat-Model.html](Threat Model)
+* [Threat Model](/schedule/Threat-Model.html)
 * Owasp Top 10 2017
