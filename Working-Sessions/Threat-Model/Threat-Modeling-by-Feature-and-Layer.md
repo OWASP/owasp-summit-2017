@@ -8,7 +8,7 @@ related-to   :
 status       : draft
 when-day     : Thu
 organizers   :
-participants :
+participants :Geoff Hill
 ---
 
 ...intro text...
