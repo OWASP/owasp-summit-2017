@@ -37,3 +37,4 @@ The new Owasp Top 2017 introduces this new category; this Working Session presen
 
  - [Abusing OWASP with 'Insufficient Attack Protection'](http://www.skeletonscribe.net/2017/04/abusing-owasp.html)
  - https://twitter.com/securestep9/status/863005880161382400
+ - http://lists.owasp.org/pipermail/owasp-topten/2017-April/001422.html
