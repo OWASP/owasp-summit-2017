@@ -5,6 +5,7 @@ type         : workshop
 owasp-project: yes
 track        : Security Crowdsourcing
 status       : more-content
+when-day     : Wed
 organizers   :
 participants :
 ---
@@ -15,10 +16,6 @@ OWASP bug bounty program is the opportunity you are looking for to hack into def
 
 Learn how we are trying to make web applications safe and how can you help us as bounty hunter to make them
 more secure
-
-#### When
-
-Projected to occur on: 14 June, 2017
 
 #### More details
 

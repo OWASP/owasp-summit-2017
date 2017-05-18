@@ -7,6 +7,7 @@ track        : Security Crowdsourcing
 technology   :
 related-to   :
 status       : review-content
+when-day     : Tue
 organizers   :
 participants :
 ---

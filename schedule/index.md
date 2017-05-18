@@ -13,7 +13,13 @@ from 10 till 5
 * [CISO](./tracks/CISO.html)
 * [Education](./tracks/Education.html)
 * [Threat Model](./tracks/Threat-Model.html)
+* [Owasp Projects](./tracks/Owasp-Projects.html)
 * [Owasp Top 10 2017](./tracks/Owasp-Top-10-2017.html)
+* [OwaspSAMM](./tracks/OwaspSAMM.html)
+* [Research](./tracks/Research.html)
+* [Threat Model](./tracks/Threat-Model.html)
+* [Security-Crowdsourcing](./tracks/Security-Crowdsourcing.html)
+
 
 These are early drafts, if you are only going to be attending the Summit for a couple days then make
 sure that your Participant page has the ```when-day:``` field correctly set. Please contact the Summit team ASAP if you spot

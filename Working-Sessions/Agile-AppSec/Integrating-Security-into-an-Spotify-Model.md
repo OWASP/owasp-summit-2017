@@ -7,6 +7,7 @@ track        : Agile AppSec
 technology   :
 related-to   :
 status       : review-content
+when-day     : Thu
 organizers   : David Clarke
 participants : Ante Gulam
 ---

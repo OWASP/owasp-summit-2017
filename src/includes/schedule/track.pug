@@ -14,9 +14,6 @@ mixin show-day
 .schedule
     .container
         h1 Schedule for {{ page.title }} track
-        p
-            a(href='/schedule') Back to schedule list
-        hr
         p Here is the current DRAFT schedule for the {{ page.title }} Working Session.
         h3 Scheduled Working Sessions
         p.
@@ -71,5 +68,7 @@ mixin show-day
             | {% endfor %}
 
         hr
+        p
+            a(href="/Working-Sessions/{{ page.title | replace: ' ', '-'}}") Back to {{ page.title }} track details
         p
             a(href='/schedule') Back to schedule list

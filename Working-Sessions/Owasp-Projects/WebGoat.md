@@ -1,12 +1,13 @@
 ---
-layout      : blocks/working-session
-title       : Webgoat
-type        : workshop
-track       : Project Summit
-technology  : Java
-status      : done
-organizers  : Nanne Baars
-participants:
+layout       : blocks/working-session
+title        : Webgoat
+type         : workshop
+track        : Project Summit
+technology   : Java
+status       : done
+when-day     : Wed
+organizers   : Nanne Baars
+participants :
 ---
 
 ### Introduction

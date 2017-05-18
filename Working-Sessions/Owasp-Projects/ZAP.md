@@ -5,6 +5,7 @@ type        : workshop
 track       : Project Summit
 technology  : Java
 status      : more-content
+when-day    : Wed
 organizers  : Simon Bennetts
 participants: Marc Rimbau, Mateo Martinez
 ---

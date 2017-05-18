@@ -5,8 +5,6 @@
 <div class="schedule">
   <div class="container">
     <h1>Schedule for {{ page.title }} track</h1>
-    <p><a href="/schedule">Back to schedule list</a></p>
-    <hr/>
     <p>Here is the current DRAFT schedule for the {{ page.title }} Working Session.</p>
     <h3>Scheduled Working Sessions</h3>
     <p>
@@ -89,6 +87,7 @@
       <li><a href="{{ page.url }}">{{ page.title }}</a>{% if page.status == 'draft' %}<span>&#32; (draft)</span>{% endif %}</li>{% endfor %}
     </ul>
     <hr/>
+    <p><a href="/Working-Sessions/{{ page.title | replace: ' ', '-'}}">Back to {{ page.title }} track details</a></p>
     <p><a href="/schedule">Back to schedule list</a></p>
   </div>
 </div>

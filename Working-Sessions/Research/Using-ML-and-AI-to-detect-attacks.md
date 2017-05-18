@@ -6,6 +6,7 @@ owasp-project: no
 track        : Research
 status       : review-content
 organizers   : Talal Albacha
+when-day     : Wed
 when-day     : Friday
 participants :
 ---

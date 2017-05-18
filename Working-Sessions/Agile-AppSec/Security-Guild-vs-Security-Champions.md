@@ -7,6 +7,7 @@ track        : Agile AppSec
 technology   :
 related-to   : Integrating Security into an Spotify Model,Security Champions,CISO
 status       : review-content
+when-day     : Mon
 organizers   : David Clarke
 participants : Ante Gulam
 ---
