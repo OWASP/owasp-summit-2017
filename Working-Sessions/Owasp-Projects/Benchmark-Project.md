@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Benchmark Project
 type         : workshop
 owasp-project: yes
-track        : Project Summit
+track        : Owasp Projects
 technology   :
 related-to   :
 status       : draft

@@ -15,7 +15,7 @@ job-title       :
 image           : https://pbs.twimg.com/profile_images/789848592680783876/iVOr_MaR.jpg
 twitter         : deveshbhatt11
 ticket          : 5x24h
-working-sessions: Threat Modeling IoT Devices,Security Crowdsourcing
+working-sessions: Threat Modeling IoT Devices,Security Crowdsourcing,CISO
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : GitHub Organization Reboot
 type         : workshop
-track        : Project Summit
+track        : Owasp Projects
 status       : done
 description  : The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them.
 when-day     : Mon

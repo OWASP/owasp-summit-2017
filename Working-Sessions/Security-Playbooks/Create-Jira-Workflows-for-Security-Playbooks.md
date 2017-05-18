@@ -6,6 +6,7 @@ track        : Security Playbooks
 technology   : Jira
 related-to   :
 status       : review-content
+when-day     : Mon
 organizers   :
 participants : Irene Michlin
 ---

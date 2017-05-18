@@ -2,11 +2,12 @@
 layout       : blocks/working-session
 title        : O-Saft
 type         : workshop
-track        : Project Summit
+track        : Owasp Projects
 organizers   : Achim Hoffmann
 technology   : TLS
 owasp-project: yes
 status       : done
+when-day     : Fri
 organizers   : Achim Hoffmann
 participants : Marc Rimbau, Ingo Hanke
 ---

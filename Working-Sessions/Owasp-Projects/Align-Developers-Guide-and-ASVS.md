@@ -3,10 +3,11 @@ layout       : blocks/working-session
 title        : Align Developers Guide and ASVS
 type         : workshop
 owasp-project: no
-track        : Project Summit
+track        : Owasp Projects
 technology   :
 related-to   :
 status       : draft
+when-day     :
 organizers   : Steven van der Baan
 participants :
 

@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : Cheat Sheets
 type         : workshop
-track        : Project Summit
+track        : Owasp Projects
 status       : more-content
 when-day     : Mon
 organizers   :

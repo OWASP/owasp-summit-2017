@@ -2,8 +2,9 @@
 layout      : blocks/working-session
 title       : OWASP Risk Rating Management Project
 type        : workshop
-track       : Project Summit
+track       : Owasp Projects
 status      : done
+when-day    : Tue
 organizers  : Ade Yoseman Putra
 participants: Marc Rimbau
 ---

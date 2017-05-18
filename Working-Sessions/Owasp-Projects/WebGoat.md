@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : Webgoat
 type         : workshop
-track        : Project Summit
+track        : Owasp Projects
 technology   : Java
 status       : done
 when-day     : Wed

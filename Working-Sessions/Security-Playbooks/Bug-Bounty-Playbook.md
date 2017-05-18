@@ -6,6 +6,7 @@ track        : Security Playbooks
 technology   :
 related-to   :
 status       : review-content
+when-day     : Fri
 organizers   :
 participants :
 ---

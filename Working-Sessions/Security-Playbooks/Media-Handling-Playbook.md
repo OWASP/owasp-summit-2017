@@ -6,6 +6,7 @@ track        : Security Playbooks
 technology   : GDPR
 related-to   :
 status       : review-content
+when-day     : Wed
 organizers   :
 participants :
 ---
