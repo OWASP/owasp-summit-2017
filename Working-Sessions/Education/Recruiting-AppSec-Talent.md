@@ -6,6 +6,7 @@ track        : Education
 technology   :
 related-to   :
 status       : review-content
+when-day     : Wed
 participants : 
 organizers   : Avi Douglen
 ---

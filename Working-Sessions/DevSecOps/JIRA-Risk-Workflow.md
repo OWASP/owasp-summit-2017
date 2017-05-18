@@ -5,6 +5,7 @@ type         : workshop
 owasp-project: no
 track        :
 status       : draft
+when-day     : Wed
 organizers   : Dinis Cruz
 participants :
 ---

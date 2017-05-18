@@ -7,6 +7,7 @@ track        : Security Crowdsourcing
 technology   :
 related-to   :
 status       : draft
+when-day     : Evening
 organizers   :
 participants :
 ---

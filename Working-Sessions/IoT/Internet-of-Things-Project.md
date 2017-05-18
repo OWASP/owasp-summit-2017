@@ -4,8 +4,9 @@ title        : OWASP Internet of Things Project
 type         : workshop
 owasp-project: yes
 track        : Project Summit
-status       : draft
 technology   : IoT
+status       : draft
+when-day     : Thu
 organizers   : Daniel Miessler
 participants :
 ---

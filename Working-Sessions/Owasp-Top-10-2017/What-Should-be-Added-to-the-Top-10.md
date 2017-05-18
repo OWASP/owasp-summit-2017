@@ -6,6 +6,7 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : review-content
+when-day     : Tue
 organizers   :
 participants :
 ---

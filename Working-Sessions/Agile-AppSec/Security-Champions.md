@@ -1,12 +1,13 @@
 ---
-layout      : blocks/working-session
-title       : Security Champions
-type        : workshop
-track       : Agile AppSec
-related-to  : Threat-Model,SecDevOps,CISO
-status      : review-content
-organizers  :
-participants:
+layout       : blocks/working-session
+title        : Security Champions
+type         : workshop
+track        : Agile AppSec
+related-to   : Threat-Model,DevSecOps,CISO
+status       : review-content
+when-day     : Tue
+organizers   :
+participants :
 ---
 
 Security Champions are a key element of an AppSec team, since they create an cross-functional team focused on Application Security

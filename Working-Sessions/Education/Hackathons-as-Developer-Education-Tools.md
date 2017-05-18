@@ -7,6 +7,7 @@ track          : Education
 technology     :
 related-to     :
 status         : draft
+when-day       : Evening
 organizers     :
 participants   :
 ---

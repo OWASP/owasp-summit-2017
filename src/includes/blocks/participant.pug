@@ -1,10 +1,11 @@
 
-mixin add-participations
-    | {% assign user              = page.title  %}
-    | {% assign working-sessions  = page.working-sessions  %}
-    h2 Working Sessions Participations
+mixin add-participations-on-day
+    | {% if day != null %}
+    | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}
+    b {{ day }}
+    | {% endif %}
     ul
-        | {% for page in site.pages %}
+        | {% for page in day-working-sessions  %}
         | {%    if page.participants contains user or page.organizers contains user %}
         li
             a(href="{{page.url}}") {{ page.title }}
@@ -19,6 +20,35 @@ mixin add-participations
         | {% endfor %}
         | {% assign working-sessions = page.working-sessions| split: ',' %}
 
+mixin add-participations
+    | {% assign user              = page.title  %}
+    | {% assign working-sessions  = page.working-sessions  %}
+    h2 Working Sessions Schedule
+    ul
+        li
+            | {% assign day = 'Mon' %}
+            + add-participations-on-day
+        li
+            | {% assign day = 'Tue' %}
+            + add-participations-on-day
+        li
+            | {% assign day = 'Wed' %}
+            + add-participations-on-day
+        li
+            | {% assign day = 'Thu' %}
+            + add-participations-on-day
+        li
+            | {% assign day = 'Fri' %}
+            + add-participations-on-day
+        li
+            | {% assign day = 'Evening' %}
+            + add-participations-on-day
+        li
+            b
+                i (not scheduled)
+            | {% assign day = null %}
+            | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.when-day == null' %}
+            + add-participations-on-day
 
 mixin add-email
     | {% if page.email != null %}
@@ -57,6 +87,9 @@ mixin add-website
 
 h1 {{ page.title }}
 h3 {{page.job-title }}
+    | {% if page.company != null %}
+    | &#32;, {{ page.company }}
+    | {% endif                   %}
 
 | {% if page.image != null %}
 img.participant(src='{{ page.image }}' alt='{{ page.title }}')

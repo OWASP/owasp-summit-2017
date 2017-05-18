@@ -1,15 +1,17 @@
 
-{% assign workshops-in-track      = site.pages | where: 'type', 'workshop' | where: 'track', page.track %}
+{% assign workshops-in-track      = site.pages | where: 'type', 'workshop' | where: 'track', page.title %}
 {% assign workshops-scheduled     = workshops-in-track | where_exp: 'item', 'item.when-day != null' %}
 {% assign workshops-not-scheduled = workshops-in-track | where_exp: 'item', 'item.when-day == null'%}
-<div class="working-session">
+<div class="schedule">
   <div class="container">
-    <h1>Schedule for {{ page.track }} track</h1>
-    <p>Here is the current DRAFT schedule for the {{ page.track }} Working Session.</p>
+    <h1>Schedule for {{ page.title }} track</h1>
+    <p><a href="/schedule">Back to schedule list</a></p>
+    <hr/>
+    <p>Here is the current DRAFT schedule for the {{ page.title }} Working Session.</p>
     <h3>Scheduled Working Sessions</h3>
     <p>
       These Working Sessions are currently in a state where they will be scheduled to run in the
-      {{ page.track }} track room.
+      {{ page.title }} track room.
     </p>
     <p>
       Note that the day might change (based on key participant's availability
@@ -84,7 +86,9 @@
       Working Session (or others created during the Summit) at specific locations and times.
     </p>
     <ul>{% for page in workshops-not-scheduled      %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a>{% if page.status == 'draft' %}<span>&#32; (draft)</span>{% endif %}</li>{% endfor %}
     </ul>
+    <hr/>
+    <p><a href="/schedule">Back to schedule list</a></p>
   </div>
 </div>
