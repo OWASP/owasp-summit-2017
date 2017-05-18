@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Thu
 organizers   : David Clarke
-participants : Ante Gulam
+participants : Ante Gulam,Francois Raynaud
 ---
 
 Integrating security into the sales channels is of extreme importance to every organisation that has a strong sales driven component. In most of the cases the ability to oversee the current sales streams which are involving various different products is quite limited and requires information security professionals an additional effort and process re-engineering in order to get that ability. 
