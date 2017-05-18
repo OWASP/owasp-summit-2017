@@ -9,7 +9,7 @@ related-to   :
 status       : draft
 when-day     : Thu
 organizers   : Dicky Stafford
-participants : Neil Barlow,Fraser Scott,Ante Gulam
+participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud
 
 ---
 
