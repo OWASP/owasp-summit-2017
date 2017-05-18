@@ -2,7 +2,6 @@
 {% assign workshops               = site.pages | where: 'type', 'workshop' %}
 {% assign workshops-scheduled     = workshops | where_exp: 'item', 'item.when-day != null' %}
 {% assign workshops-not-scheduled = workshops | where_exp: 'item', 'item.when-day == null'%}
-<pre>{{ workshops.size }}</pre>
 <div class="page-content">
   <div class="container">
     <div class="schedule">
@@ -29,47 +28,57 @@
         <tr>
           <td>{% assign day = 'Mon'  %}
             <ul>
-              {% for page in workshops-scheduled      %}
-              {%  if page.when-day == day   %}<a href="{{page.url}}">{{ page.title }}</a>
-              <!--.track &#32; ({{ page.track}})-->
-              <hr/>{%    endif                   %}
-              {% endfor                     %}
+              {% assign index = 0                       %}
+              {% for page in workshops-scheduled        %}
+              {%  if page.when-day == day               %}
+              {% assign index = index | plus: 1         %}<a href="{{page.url}}">{{ page.title }}</a>
+              <hr/>{%    endif                               %}
+              {% endfor                                 %}
+              {{ index }} Working Sessions
             </ul>
           </td>
           <td>{% assign day = 'Tue'  %}
             <ul>
-              {% for page in workshops-scheduled      %}
-              {%  if page.when-day == day   %}<a href="{{page.url}}">{{ page.title }}</a>
-              <!--.track &#32; ({{ page.track}})-->
-              <hr/>{%    endif                   %}
-              {% endfor                     %}
+              {% assign index = 0                       %}
+              {% for page in workshops-scheduled        %}
+              {%  if page.when-day == day               %}
+              {% assign index = index | plus: 1         %}<a href="{{page.url}}">{{ page.title }}</a>
+              <hr/>{%    endif                               %}
+              {% endfor                                 %}
+              {{ index }} Working Sessions
             </ul>
           </td>
           <td>{% assign day = 'Wed'  %}
             <ul>
-              {% for page in workshops-scheduled      %}
-              {%  if page.when-day == day   %}<a href="{{page.url}}">{{ page.title }}</a>
-              <!--.track &#32; ({{ page.track}})-->
-              <hr/>{%    endif                   %}
-              {% endfor                     %}
+              {% assign index = 0                       %}
+              {% for page in workshops-scheduled        %}
+              {%  if page.when-day == day               %}
+              {% assign index = index | plus: 1         %}<a href="{{page.url}}">{{ page.title }}</a>
+              <hr/>{%    endif                               %}
+              {% endfor                                 %}
+              {{ index }} Working Sessions
             </ul>
           </td>
           <td>{% assign day = 'Thu'  %}
             <ul>
-              {% for page in workshops-scheduled      %}
-              {%  if page.when-day == day   %}<a href="{{page.url}}">{{ page.title }}</a>
-              <!--.track &#32; ({{ page.track}})-->
-              <hr/>{%    endif                   %}
-              {% endfor                     %}
+              {% assign index = 0                       %}
+              {% for page in workshops-scheduled        %}
+              {%  if page.when-day == day               %}
+              {% assign index = index | plus: 1         %}<a href="{{page.url}}">{{ page.title }}</a>
+              <hr/>{%    endif                               %}
+              {% endfor                                 %}
+              {{ index }} Working Sessions
             </ul>
           </td>
           <td>{% assign day = 'Fri'  %}
             <ul>
-              {% for page in workshops-scheduled      %}
-              {%  if page.when-day == day   %}<a href="{{page.url}}">{{ page.title }}</a>
-              <!--.track &#32; ({{ page.track}})-->
-              <hr/>{%    endif                   %}
-              {% endfor                     %}
+              {% assign index = 0                       %}
+              {% for page in workshops-scheduled        %}
+              {%  if page.when-day == day               %}
+              {% assign index = index | plus: 1         %}<a href="{{page.url}}">{{ page.title }}</a>
+              <hr/>{%    endif                               %}
+              {% endfor                                 %}
+              {{ index }} Working Sessions
             </ul>
           </td>
         </tr>

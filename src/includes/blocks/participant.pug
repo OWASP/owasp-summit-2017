@@ -88,7 +88,7 @@ mixin add-website
 h1 {{ page.title }}
 h3 {{page.job-title }}
     | {% if page.company != null %}
-    | {{ page.company }}
+    | &#32;, {{ page.company }}
     | {% endif                   %}
 
 | {% if page.image != null %}

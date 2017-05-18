@@ -3,7 +3,7 @@
 <h3>
   {{page.job-title }}
   {% if page.company != null %}
-  {{ page.company }}
+  &#32;, {{ page.company }}
   {% endif                   %}
 </h3>{% if page.image != null %}<img src="{{ page.image }}" alt="{{ page.title }}" class="participant"/>{% endif %}
 {{ content }}

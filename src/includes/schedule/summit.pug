@@ -4,18 +4,16 @@
 
 mixin show-day
     ul
-        | {% for page in workshops-scheduled      %}
-        | {%  if page.when-day == day   %}
-
+        | {% assign index = 0                       %}
+        | {% for page in workshops-scheduled        %}
+        | {%  if page.when-day == day               %}
+        | {% assign index = index | plus: 1         %}
         a(href="{{page.url}}") {{ page.title }}
-        //.track &#32; ({{ page.track}})
         hr
+        | {%    endif                               %}
+        | {% endfor                                 %}
+        | {{ index }} Working Sessions
 
-        | {%    endif                   %}
-        | {% endfor                     %}
-
-
-pre {{ workshops.size }}
 .page-content
     .container
         .schedule
