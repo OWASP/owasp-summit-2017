@@ -7,7 +7,7 @@ track        : Owasp Top 10 2017
 status       : review-content
 when-day     : Tue
 organizers   : Dave Wichers
-participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria,Mateo Martinez
+participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria,Mateo Martinez,Francois Raynaud
 ---
 
 Working Session to collaborate on the implications of the new OWASP Top 10
