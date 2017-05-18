@@ -5,23 +5,11 @@ type         : workshop
 owasp-project: no
 track        : Security Crowdsourcing
 technology   :
-related-to   :
+related-to   : Juice Shop
 status       : draft
 when-day     : Evening
 organizers   :
 participants :
 ---
 
-...intro text...
-
-## Why
-
-...why text...
-
-## What
-
-...what text...
-
-## Who
-
-... target audience ...
+The following related working session(s) contain a _hands-on_ work aspect. Some sessions might even be held as a _Hackathon_ session entirely.
