@@ -4,8 +4,8 @@ title        : Threat Model
 type         : track
 status       : featured
 description  : Working Sessions related to Threat Modeling Security
-organizers   : Geoff Hill,Tony UV
-participants : Robert Hurlbut,Stephen de Vries,Adam Shostack,Sebastien Deleersnyder,Steven Wierckx,Francois Raynaud,Marc Rimbau,Dinis Cruz,Robert Morschel,Avi Douglen,Irene Michlin
+organizers   : Tony UV,Steven Wierckx
+participants : Robert Hurlbut,Stephen de Vries,Adam Shostack,Sebastien Deleersnyder,Francois Raynaud,Marc Rimbau,Dinis Cruz,Robert Morschel,Avi Douglen,Irene Michlin,Geoff Hill
 ---
 
 ### Summary
