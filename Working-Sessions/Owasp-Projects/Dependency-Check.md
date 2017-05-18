@@ -5,7 +5,7 @@ type         : workshop
 organizers   : Steve Springett
 technology   : Java
 status       : more-content
-track        : Project Summit
+track        : Owasp Projects
 owasp-project: yes
 when-day     : Mon
 organizers   : Steve Springett

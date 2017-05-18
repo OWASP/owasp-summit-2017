@@ -2,8 +2,9 @@
 layout       : blocks/working-session
 title        : OWASP Projects Reviews
 type         : workshop
-track        : Project Summit
+track        : Owasp Projects
 status       : draft
+when-day     : Tue
 organizers   : Claudia Casanovas,Johanna Curiel
 participants :
 ---

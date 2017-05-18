@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : Juice Shop
 type         : workshop
-track        : Project Summit
+track        : Owasp Projects
 technology   : Node
 description  : OWASP Juice Shop Project is an intentionally insecure webapp for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 status       : featured

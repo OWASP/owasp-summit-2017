@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : IAM for REST APIs
 type         : workshop
-track        : Project Summit
+track        : Owasp Projects
 technology   : REST
 status       : done
 when-day     : Fri

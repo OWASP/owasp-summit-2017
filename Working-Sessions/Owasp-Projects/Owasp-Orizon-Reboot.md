@@ -2,11 +2,12 @@
 layout       : blocks/working-session
 title        : Owasp Orizon Reboot
 type         : workshop
-organizers   : Paolo Perego
 technology   : Java
 status       : more-content
-track        : Project Summit
+track        : Owasp Projects
 owasp-project: yes
+when-day     : Wed
+organizers   : Paolo Perego
 participants :
 ---
 

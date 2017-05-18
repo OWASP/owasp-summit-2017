@@ -1,13 +1,13 @@
 ---
-layout      : blocks/working-session
-title       : ZAP
-type        : workshop
-track       : Project Summit
-technology  : Java
-status      : more-content
-when-day    : Wed
-organizers  : Simon Bennetts
-participants: Marc Rimbau, Mateo Martinez
+layout       : blocks/working-session
+title        : ZAP
+type         : workshop
+track        : Owasp Projects
+technology   : Java
+status       : more-content
+when-day     : Wed
+organizers   : Simon Bennetts
+participants : Marc Rimbau, Mateo Martinez
 ---
 
 [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) is one of the world’s most popular free security tools and is probably the best known OWASP project after the Top Ten.

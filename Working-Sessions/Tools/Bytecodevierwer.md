@@ -1,10 +1,13 @@
 ---
-layout        : blocks/working-session
-title         : Reverse Engineering APK's with Bytecodeviewer
-type          : workshop
-track         : Tools
-technology    : Mobile
-status        : done
+layout       : blocks/working-session
+title        : Reverse Engineering APK's with Bytecodeviewer
+type         : workshop
+track        : Tools
+technology   : Mobile
+when-day     : Tue
+status       : done
+organizers   : Johanna Curiel
+participants :
 ---
 
 Category: Mobile Penetration Testing (Android)
