@@ -10,9 +10,9 @@ linkedin        : grander
 twitter         : grander
 facebook        :
 ticket          : 5x8h
-working-sessions:
+working-sessions: Node Security Round Table, Securing GitHub Integrations, Integrating Security Tools in the SDL, Securing the CI Pipeline, Threat and Vulnerability Management, GraphQL Security Review, Using ML and AI to detect Attacks, NodeGoat, Maturity Models tool
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
-Node Security Round Table, Securing GitHub Integrations, Integrating Security Tools in the SDL, Securing the CI Pipeline, Threat and Vulnerability Management, GraphQL Security Review, Using ML and AI to detect Attacks, NodeGoat, Maturity Models tool
+
 ---
 
 <!-- put more details about participant here -->

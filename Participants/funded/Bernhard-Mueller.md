@@ -24,7 +24,7 @@ working-sessions :
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-I am planning a [mobile application security workshop](/Working-Sessions/Mobile-Security/index.html) to together with [Sven Schleier](/Participants/need-funding/Sven-Schleier.html) with the goal of advancing the [Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg). This guide is part of the documents developed in the Mobile Security Testing project. Our vision:
+I am planning a [mobile application security workshop](/Working-Sessions/Mobile-Security/index.html) to together with [Sven Schleier](/Participants/funded/Sven-Schleier.html) with the goal of advancing the [Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg). This guide is part of the documents developed in the Mobile Security Testing project. Our vision:
 
 **Define the industry standard for mobile application security.**
 
