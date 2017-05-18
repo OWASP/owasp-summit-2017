@@ -7,17 +7,14 @@ travel-from     : Hamburg
 expenses        : owasp
 funded          : yes
 funded-who      : Owasp Outreach Funds
-flight-cost     : 250
+flight-cost     : 400
 ticket-cost     : 1500
 funded-amount   : 1750
 required-funds  : 1750
-project-leader  : 
-chapter-leader  : 
 time            : vacation
 job-title       : DevOps-Security Consultant
 image           : http://timo-pagel.de/assets/img/header-bg.jpg
 email           : Timo.Pagel@owasp.org
-linkedin        : 
-twitter         : 
 ticket     	: 5x24
+working-session	: Application Security BSc/Masters Curriculum Design, Juice Shop, Draft SAMM2 - the "DevOps release", Update SAMM model to take into account Agile and DevOps, Docker Security, Scaling Static Analysis Reviews and Deployments
 ---
