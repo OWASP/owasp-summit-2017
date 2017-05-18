@@ -9,8 +9,8 @@ funded          : yes
 funded-who      : Owasp Outreach Funds
 flight-cost     : 400
 ticket-cost     : 1500
-funded-amount   : 1750
-required-funds  : 1750
+funded-amount   : 1900
+required-funds  : 1900
 time            : vacation
 job-title       : DevOps-Security Consultant
 image           : http://timo-pagel.de/assets/img/header-bg.jpg
