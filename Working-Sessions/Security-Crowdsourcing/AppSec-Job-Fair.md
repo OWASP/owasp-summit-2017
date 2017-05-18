@@ -14,20 +14,19 @@ participants : Ross Tanner
 
 ## Why
 
-A number of Summit Participants will be looking for new challenges and opportunities in 2017. This Working Session
- (most likely to happen in one of the evenings) will be a place for companies and recruiters to bring their
- interesting job opportunities and share them with the participants (in an anonymous format, or not).
+ Many Summit participants will be looking for new challenges and opportunities in 2017. This Working Session
+ (most likely to be scheduled during the evenings) will be a forum for companies and recruiters to present
+ interesting job opportunities and discuss them with the participants (In private, or within a group setting).
 
-This will also be a good place to have good conversions about what kind of security careers and opportunities
- are out there, and what kind of skills are in high demand.
+This session will also be a great place to have thoughtful conversations about different kinds of security careers, top skills in high demand, and the newest opportunities within the field.  
 
 ## What
 
- - companies and recruiters to present job opportunities
- - informal conversions about the current state of the job market
- - explore the concept of working 2 days a week on a specific project (while employed by another company)
+ - Companies and recruiters will present job opportunities
+ - Informal conversations about the current state of the job market
+ - Explore the concept of working 2 days a week on a specific project (while employed by another company)
 
 ## Who
 
- - companies and recruiters looking for talent
- - talent looking for new opportunities
+ - Companies and recruiters looking for talent
+ - Talent looking for new opportunities

@@ -6,7 +6,7 @@ post-date   : May 08
 author      : Dinis Cruz
 ---
 
-In 30 days (12 June) Owasp will host its [2017 Global Summit](http://owaspsummit.org) in [London](owaspsummit.org/website/venue.html) where hundreds of [participants](http://owaspsummit.org/website/participants.html) will join forces in [Working Sessions](owaspsummit.org/website/working-sessions.html) focused on solving hard Application and Cyber Security problems.
+In 30 days (12 June) Owasp will host its [2017 Global Summit](http://owaspsummit.org) in [London](http://owaspsummit.org/website/venue.html) where hundreds of [participants](http://owaspsummit.org/website/participants.html) will join forces in [Working Sessions](http://owaspsummit.org/website/working-sessions.html) focused on solving hard Application and Cyber Security problems.
 
 This is not a conference with unidirectional presentations. Using the same model as the past two OWASP Summits in Portugal, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively. Every thoroughly prepared working session is geared towards a specific application security challenge and will be focused on actionable outcomes.
 
@@ -32,7 +32,7 @@ Owasp Summit's Schedules are different from normal conferences, since they are f
 Here are some of the Working Sessions that will be worked on at the Summit:
 
   - [Application Security BSc/Masters Curriculum Design](/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html) , [Creating AppSec Teams](/Working-Sessions/Education/Creating-AppSec-Teams.html)
-  - [Threat Modeling Cheat Sheet](Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html)
+  - [Threat Modeling Cheat Sheet](/Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html)
   - [Responsible Disclosure](/Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html)
   - [Using ML and AI to detect Attacks](/Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html)
   - [Agile Practices for Security Teams](/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html) , [Integrating Security into a Portfolio Kanban](/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html) , [Using Security Risks to Measure Agile Practices](/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html)
