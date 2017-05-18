@@ -7,6 +7,7 @@ track        : DevSecOps
 technology   : IDE,SAST
 related-to   : Scaling Static Analysis Reviews and Deployments
 status       : review-content
+when-day     : Wed
 participants :
 organizers   :
 ---

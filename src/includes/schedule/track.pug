@@ -1,4 +1,4 @@
-| {% assign workshops-in-track      = site.pages | where: 'type', 'workshop' | where: 'track', page.track %}
+| {% assign workshops-in-track      = site.pages | where: 'type', 'workshop' | where: 'track', page.title %}
 | {% assign workshops-scheduled     = workshops-in-track | where_exp: 'item', 'item.when-day != null' %}
 | {% assign workshops-not-scheduled = workshops-in-track | where_exp: 'item', 'item.when-day == null'%}
 
@@ -11,15 +11,17 @@ mixin show-day
         | {%    endif                   %}
         | {% endfor                     %}
 
-.working-session
+.schedule
     .container
-        h1 Schedule for {{ page.track }} track
-
-        p Here is the current DRAFT schedule for the {{ page.track }} Working Session.
+        h1 Schedule for {{ page.title }} track
+        p
+            a(href='/schedule') Back to schedule list
+        hr
+        p Here is the current DRAFT schedule for the {{ page.title }} Working Session.
         h3 Scheduled Working Sessions
         p.
             These Working Sessions are currently in a state where they will be scheduled to run in the
-            {{ page.track }} track room.
+            {{ page.title }} track room.
         p.
             Note that the day might change (based on key participant's availability
             (onsite and remote) and participation on other Track's Working Sessions)
@@ -63,4 +65,11 @@ mixin show-day
             | {% for page in workshops-not-scheduled      %}
             li
                 a(href="{{ page.url }}") {{ page.title }}
+                | {% if page.status == 'draft' %}
+                span &#32; (draft)
+                | {% endif %}
             | {% endfor %}
+
+        hr
+        p
+            a(href='/schedule') Back to schedule list

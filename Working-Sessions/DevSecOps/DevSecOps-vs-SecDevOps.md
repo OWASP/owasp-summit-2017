@@ -4,6 +4,7 @@ title       : DevSecOps vs SecDevOps
 type        : workshop
 track       : DevSecOps
 status      : need-organizer
+when-day    : Evening
 organizers  :
 participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria,Avi Douglen
 ---

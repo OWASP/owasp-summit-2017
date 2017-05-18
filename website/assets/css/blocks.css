@@ -752,6 +752,21 @@
   text-decoration: none;
 }
 
+.schedule {
+  background-color: #f9f9f9;
+}
+.schedule table td a {
+  font-size: 80%;
+}
+.schedule table td .track {
+  font-size: 80%;
+}
+.schedule table td hr {
+  border-color: #ededed;
+  padding: 0px;
+  margin: 0px;
+}
+
 .search {
   background-color: #f9f9f9;
 }

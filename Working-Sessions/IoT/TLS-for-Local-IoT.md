@@ -3,9 +3,10 @@ layout       : blocks/working-session
 title        : TLS for Local IoT
 type         : workshop
 track        : DevSecOps
-status       : done
-organizers   : kevsheldrake
 technology   : TLS,IoT
+status       : done
+when-day     : Wed
+organizers   : kevsheldrake
 participants :
 ---
 

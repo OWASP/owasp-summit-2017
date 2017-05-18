@@ -7,6 +7,7 @@ track        : Agile AppSec
 technology   :
 related-to   : JIRA Risk Workflow
 status       : review-content
+when-day     : Tue
 organizers   : David Clarke
 participants : Ante Gulam
 ---
