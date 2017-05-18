@@ -4,7 +4,7 @@ title        : NextGen Security Scanners
 type         : workshop
 track        : Tools
 status       : done
-when-day     : Tue
+when-day     : Thu
 organizers   :
 participants : Bjoern Kimminich,Marc Rimbau
 ---

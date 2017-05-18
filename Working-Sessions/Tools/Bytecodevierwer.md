@@ -4,7 +4,7 @@ title        : Reverse Engineering APK's with Bytecodeviewer
 type         : workshop
 track        : Tools
 technology   : Mobile
-when-day     : Tue
+when-day     : Thu
 status       : done
 organizers   : Johanna Curiel
 participants :

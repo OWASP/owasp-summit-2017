@@ -6,7 +6,7 @@ track        : Security Playbooks
 technology   : SOC
 related-to   :
 status       : review-content
-when-day     : Tue
+when-day     : Wed
 organizers   :
 participants :
 ---
