@@ -7,7 +7,7 @@ technology   : TLS,IoT
 status       : done
 when-day     : Wed
 organizers   : kevsheldrake
-participants :
+participants : Francois Raynaud
 ---
 
 The Internet of Things is not going away. Devices are typically low-powered, networked and require secure administration. SSL/TLS typically only works securely on the wider Internet due to the requirement for trustable end-point identification to bootstrap the trust model. This working session is to analyse the problem and propose solutions.

@@ -7,7 +7,7 @@ track        : Owasp Top 10 2017
 status       : featured
 when-day     : Mon
 organizers   : Dave Wichers,Johanna Curiel,Claudia Casanovas
-participants : Brian Glas,Ingo Hanke
+participants : Brian Glas,Ingo Hanke,Francois Raynaud
 ---
 
 Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
