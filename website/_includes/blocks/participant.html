@@ -13,9 +13,9 @@
 <ul>
   <li>{% assign day = 'Mon' %}
     {% if day != null %}
-    {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
+    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
     <ul>
-      {% for page in working-sessions  %}
+      {% for page in day-working-sessions  %}
       {%    if page.participants contains user or page.organizers contains user %}
       <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
       {%     if  working-sessions contains page.title  %}
@@ -26,9 +26,9 @@
   </li>
   <li>{% assign day = 'Tue' %}
     {% if day != null %}
-    {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
+    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
     <ul>
-      {% for page in working-sessions  %}
+      {% for page in day-working-sessions  %}
       {%    if page.participants contains user or page.organizers contains user %}
       <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
       {%     if  working-sessions contains page.title  %}
@@ -39,9 +39,9 @@
   </li>
   <li>{% assign day = 'Wed' %}
     {% if day != null %}
-    {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
+    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
     <ul>
-      {% for page in working-sessions  %}
+      {% for page in day-working-sessions  %}
       {%    if page.participants contains user or page.organizers contains user %}
       <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
       {%     if  working-sessions contains page.title  %}
@@ -52,9 +52,9 @@
   </li>
   <li>{% assign day = 'Thu' %}
     {% if day != null %}
-    {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
+    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
     <ul>
-      {% for page in working-sessions  %}
+      {% for page in day-working-sessions  %}
       {%    if page.participants contains user or page.organizers contains user %}
       <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
       {%     if  working-sessions contains page.title  %}
@@ -65,9 +65,9 @@
   </li>
   <li>{% assign day = 'Fri' %}
     {% if day != null %}
-    {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
+    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
     <ul>
-      {% for page in working-sessions  %}
+      {% for page in day-working-sessions  %}
       {%    if page.participants contains user or page.organizers contains user %}
       <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
       {%     if  working-sessions contains page.title  %}
@@ -78,9 +78,9 @@
   </li>
   <li>{% assign day = 'Evening' %}
     {% if day != null %}
-    {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
+    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
     <ul>
-      {% for page in working-sessions  %}
+      {% for page in day-working-sessions  %}
       {%    if page.participants contains user or page.organizers contains user %}
       <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
       {%     if  working-sessions contains page.title  %}
@@ -90,11 +90,11 @@
     </ul>
   </li>
   <li><b><i>(not scheduled)</i></b>{% assign day = null %}
-    {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.when-day == null' %}
+    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.when-day == null' %}
     {% if day != null %}
-    {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
+    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
     <ul>
-      {% for page in working-sessions  %}
+      {% for page in day-working-sessions  %}
       {%    if page.participants contains user or page.organizers contains user %}
       <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
       {%     if  working-sessions contains page.title  %}

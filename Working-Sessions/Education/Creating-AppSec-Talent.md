@@ -7,6 +7,7 @@ track        : Education
 technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
 status       : review-content
+when-day     : Tue
 participants :
 organizers   :
 ---

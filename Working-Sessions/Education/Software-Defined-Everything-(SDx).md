@@ -1,11 +1,12 @@
 ---
-layout      : blocks/working-session
-title       : Software Defined Everything (SDx)
-type        : workshop
-track       : Education
-status      : done
-organizers  : Adrian Winckles
-participants:
+layout       : blocks/working-session
+title        : Software Defined Everything (SDx)
+type         : workshop
+track        : Education
+status       : done
+when-day     : Wed
+organizers   : Adrian Winckles
+participants :
 ---
 
 The much touted value of SD(x) is the ability to open up the API so that the application (client/server or peer to peer) can communicate directly with SDN or SDDC based controllers and provision their own storage, end to end service. et al.  Now that the intelligence has been taken out of individual network devices and the API potentially opened up for network aware application development, the software developer is truly king.  However, this is also true for a would be attacker. Self provisioning via an API without proper security is something new to the land of networking. Proper considerations, design and testing must be integral.

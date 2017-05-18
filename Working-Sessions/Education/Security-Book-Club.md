@@ -7,6 +7,7 @@ track        : Education
 technology   :
 related-to   :
 status       : review-content
+when-day     : Evening
 organizers   :
 participants : Dinis Cruz
 ---

@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Security Champions
 type         : workshop
 track        : Agile AppSec
-related-to   : Threat-Model,SecDevOps,CISO
+related-to   : Threat-Model,DevSecOps,CISO
 status       : review-content
 when-day     : Tue
 organizers   :

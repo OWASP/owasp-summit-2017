@@ -1,11 +1,11 @@
 
 mixin add-participations-on-day
     | {% if day != null %}
-    | {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}
+    | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}
     b {{ day }}
     | {% endif %}
     ul
-        | {% for page in working-sessions  %}
+        | {% for page in day-working-sessions  %}
         | {%    if page.participants contains user or page.organizers contains user %}
         li
             a(href="{{page.url}}") {{ page.title }}
@@ -47,7 +47,7 @@ mixin add-participations
             b
                 i (not scheduled)
             | {% assign day = null %}
-            | {%    assign working-sessions = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.when-day == null' %}
+            | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.when-day == null' %}
             + add-participations-on-day
 
 mixin add-email
