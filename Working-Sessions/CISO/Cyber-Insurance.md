@@ -7,6 +7,7 @@ track        : CISO
 technology   :
 related-to   : InfoSec Warranties and Guarantees
 status       : review-content
+when-day     : Wed
 organizers   : Yan Kravchenko
 participants : Dinis Cruz
 

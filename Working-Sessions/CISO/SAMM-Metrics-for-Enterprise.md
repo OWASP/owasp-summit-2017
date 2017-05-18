@@ -6,6 +6,7 @@ track        : CISO
 technology   :
 related-to   : OwaspSAMM,Appsec Metrics
 status       : done
+when-day     : Mon
 organizers   : Yan Kravchenko
 participants :
 

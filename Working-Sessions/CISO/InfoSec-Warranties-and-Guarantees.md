@@ -7,6 +7,7 @@ track        : CISO
 technology   :
 related-to   :
 status       : review-content
+when-day     : Wed
 organizers   : Yan Kravchenko
 participants :
 ---

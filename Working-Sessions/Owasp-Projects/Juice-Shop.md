@@ -1,13 +1,14 @@
 ---
-layout      : blocks/working-session
-title       : Juice Shop
-type        : workshop
-track       : Project Summit
-technology  : Node
-description : OWASP Juice Shop Project is an intentionally insecure webapp for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-status      : featured
-organizers  : Bjoern Kimminich
-participants: Dinis Cruz, Ingo Hanke
+layout       : blocks/working-session
+title        : Juice Shop
+type         : workshop
+track        : Project Summit
+technology   : Node
+description  : OWASP Juice Shop Project is an intentionally insecure webapp for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
+status       : featured
+organizers   : Bjoern Kimminich
+when-day     : Mon
+participants : Dinis Cruz, Ingo Hanke
 ---
 
 > [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project "OWASP Juice Shop Project")

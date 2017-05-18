@@ -5,6 +5,7 @@ type        : workshop
 track       : CISO
 status      : featured
 description : Round-table of CISO (and future CISOs) to share ideas on what is going on at this level
+when-day    : Wed
 organizers  : Ante Gulam
 participants: Dinis Cruz,Mateo Martinez,Yan Kravchenko, Ingo Hanke
 ---

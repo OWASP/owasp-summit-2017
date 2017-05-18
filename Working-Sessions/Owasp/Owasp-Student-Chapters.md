@@ -5,6 +5,7 @@ type         : workshop
 owasp-project: yes
 track        : Owasp
 status       : done
+when-day     : Thu
 organizers   : Mateo Martinez
 participants :
 ---

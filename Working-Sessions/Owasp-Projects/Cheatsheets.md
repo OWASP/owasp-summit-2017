@@ -4,6 +4,7 @@ title        : Cheat Sheets
 type         : workshop
 track        : Project Summit
 status       : more-content
+when-day     : Mon
 organizers   :
 participants : Marc Rimbau
 ---

@@ -6,6 +6,7 @@ track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
 status          : featured
+when-day        : Tue
 description     : As of today, no widely accepted standard for mobile app security exists. In this working session, we develop a mobile app security standard and testing guide to be released by the end of this year.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : Bolot Kerimbaev,Jeroen Willemsen,Marc Rimbau,Kuai Hinojosa

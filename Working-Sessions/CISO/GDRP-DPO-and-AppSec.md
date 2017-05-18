@@ -6,6 +6,7 @@ track        : CISO
 technology   : GDPR
 related-to   :
 status       : review-content
+when-day     : Mon
 organizers   :
 participants : Dinis Cruz,Francois Raynaud
 ---

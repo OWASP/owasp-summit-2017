@@ -4,6 +4,7 @@ title       : GPG Infrastructure for OWASP
 type        : workshop
 track       : Owasp
 status      : done
+when-day    : Thu
 organizers  : Achim Hoffmann
 participants: Bjoern Kimminich
 ---

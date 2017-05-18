@@ -7,6 +7,7 @@ track        : CISO
 technology   :
 related-to   : CISO Survey
 status       : review-content
+when-day     : Wed
 organizers   : Marco Morana
 participants : Don Gibson, Ingo Hanke, Avi Douglen
 ---

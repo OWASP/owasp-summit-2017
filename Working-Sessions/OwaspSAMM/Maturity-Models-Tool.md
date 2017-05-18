@@ -6,6 +6,7 @@ track         : OwaspSAMM
 technology    : Node
 owasp-project : yes
 status        : draft
+when-day      : Thu
 organizers    : Dinis Cruz
 participants  : Sebastien Deleersnyder,Marc Rimbau
 ---

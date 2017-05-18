@@ -6,6 +6,7 @@ owasp-project: yes
 track        : CISO
 technology   :
 status       : draft
+when-day     : Mon
 organizers   : Ante Gulam
 participants : Dinis Cruz
 ---

@@ -1,12 +1,13 @@
 ---
-layout      : blocks/working-session
-title       : IAM for REST APIs
-type        : workshop
-track       : Project Summit
-technology  : REST
-status      : done
-organizers  : Johan Peeters
-participants: Marc Rimbau,Dinis Cruz,Bjoern Kimminich
+layout       : blocks/working-session
+title        : IAM for REST APIs
+type         : workshop
+track        : Project Summit
+technology   : REST
+status       : done
+when-day     : Fri
+organizers   : Johan Peeters
+participants : Marc Rimbau,Dinis Cruz,Bjoern Kimminich
 ---
 
 ### Problem statement

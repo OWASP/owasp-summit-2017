@@ -5,6 +5,7 @@ type         : workshop
 organizers   :
 track        : Owasp
 status       : done
+when-day     : Thu
 organizers   : Ingo Hanke
 participants :
 ---

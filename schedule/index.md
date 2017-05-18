@@ -10,6 +10,7 @@ from 10 till 5
 
 * [Agile-AppSec](./tracks/Agile-AppSec.html)
 * [DevSecOps](./tracks/DevSecOps.html)
+* [CISO](./tracks/CISO.html)
 * [Education](./tracks/Education.html)
 * [Threat Model](./tracks/Threat-Model.html)
 * [Owasp Top 10 2017](./tracks/Owasp-Top-10-2017.html)
