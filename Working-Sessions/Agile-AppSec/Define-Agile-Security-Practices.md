@@ -9,7 +9,7 @@ related-to   : Integrating Security into an Spotify Model
 status       : review-content
 when-day     : Mon
 organizers   : David Clarke
-participants : Ante Gulam
+participants : Ante Gulam, Irene Michlin
 ---
 
 ## Why

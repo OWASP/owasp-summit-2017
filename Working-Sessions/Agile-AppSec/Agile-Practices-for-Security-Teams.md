@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Tue
 organizers   : David Clarke
-participants : Ante Gulam,Avi Douglen
+participants : Ante Gulam,Avi Douglen,Irene Michlin
 ---
 
 ## Why

@@ -7,7 +7,7 @@ track        : OwaspSAMM
 status       : draft
 when-day     : Tue
 organizers   : Sebastien Deleersnyder
-participants : Marc Rimbau, Mateo Martinez, Yan Kravchenko
+participants : Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel
 ---
 
 Draft SAMM2, the "DevOps release"
