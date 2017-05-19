@@ -3,9 +3,9 @@ layout      : blocks/working-session
 title       : DevSecOps vs SecDevOps
 type        : workshop
 track       : DevSecOps
-status      : need-organizer
+status      : draft
 when-day    : Evening
-organizers  :
+organizers  : Francois Raynaud
 participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria,Avi Douglen
 ---
 
