@@ -42,7 +42,7 @@ the CTF-extension are currently gathered as
 
 ![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
 
-#### Potential outcome
+### Potential outcome
 
 * Several new challenges for OWASP Juice Shop
 * Functional enhancements to place the challenges in, e.g. the

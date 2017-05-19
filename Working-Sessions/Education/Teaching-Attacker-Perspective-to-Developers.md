@@ -20,7 +20,7 @@ participants   :
 > break~~**broke something themselves**, can they appreciate all the
 > secure coding guidelines _as help_ and not see it as _an impediment_.
 
-## Context
+### Context
 
 In this working session we can share our experience with various tools
 and services used in practical developer security trainings.
@@ -33,10 +33,12 @@ and services used in practical developer security trainings.
 - Open sources tools (like WebGoat, Security Shepherd, Juice Shop)
 - Are vendor demo applications (like AltoroMutual) an option?
 
-## Potential Outcome
+### Potential Outcome
 
 - Recommendation for a _Learning Path_ guiding developers through
   various hands-on sessions in an appropriate order (e.g. with
   increasing difficulty)
 - _Best Practices_ for developer focussed security trainings
 - Developer training _Antipatterns_ and _Pitfalls_
+
+### Participant Candidates
