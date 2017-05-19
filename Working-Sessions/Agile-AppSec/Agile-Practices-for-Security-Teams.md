@@ -18,7 +18,9 @@ Agile practices have been around for quite some time now and lot of organisation
 
 ## What
 
-- Agile and it's practices
+Agile allows teams to continuously adapt and respond to change in an
+unpredictable environment.
+
 - Security adoption of Agile
 - Architecting security for early delivery
 - Situational awareness in Agile environments
