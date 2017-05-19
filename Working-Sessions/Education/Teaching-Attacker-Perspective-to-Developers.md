@@ -5,7 +5,7 @@ type           : workshop
 owasp-project  : no
 track          : Education
 technology     :
-related-to     : Juice Shop,NodeGoat,WebGoat
+related-to     : Juice Shop,NodeGoat,Webgoat
 status         : done
 when-day       : Evening
 organizers     : Bjoern Kimminich
