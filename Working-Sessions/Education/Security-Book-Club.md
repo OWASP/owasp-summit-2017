@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Evening
 organizers   :
-participants : Dinis Cruz
+participants : Dinis Cruz,Bjoern Kimminich
 ---
 
 Books are the best wat to learn
