@@ -12,7 +12,8 @@ organizers   :
 participants : Irene Michlin
 ---
 
-...intro text...
+Threat model should be a living artefact that evolves with the project, but how to achieve it with the available tools?
+We need some best practices that teams can adapt, if we want threat modelling to become a wide-spread practice.
 
 ## Why
 
