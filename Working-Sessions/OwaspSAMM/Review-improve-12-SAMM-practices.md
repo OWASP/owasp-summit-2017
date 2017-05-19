@@ -7,7 +7,7 @@ track         : OwaspSAMM
 status        : draft
 when-day      : Thu
 organizers    : Sebastien Deleersnyder
-participants  :
+participants  : Yan Kravchenko
 ---
 
 Review and improve the 12 SAMM practices towards SAMM v2.0 draft (based on the notes of last year's summit and the SAMM calls)
