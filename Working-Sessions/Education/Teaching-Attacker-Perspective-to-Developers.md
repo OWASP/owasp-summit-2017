@@ -6,7 +6,7 @@ owasp-project  : no
 track          : Education
 technology     :
 related-to     : Juice Shop,NodeGoat,WebGoat
-status         : draft
+status         : done
 when-day       : Evening
 organizers     : Bjoern Kimminich
 participants   :
