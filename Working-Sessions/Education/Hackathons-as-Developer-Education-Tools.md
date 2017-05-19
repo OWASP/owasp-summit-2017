@@ -5,11 +5,11 @@ type           : workshop
 owasp-project  : no
 track          : Education
 technology     :
-related-to     :
+related-to     : Juice Shop
 status         : draft
 when-day       : Evening
 organizers     :
-participants   :
+participants   : Bjoern Kimminich
 ---
 
 ...intro text...

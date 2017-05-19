@@ -9,7 +9,7 @@ related-to   : Cyber Insurance,CISO,InfoSec Warranties and Guarantees
 status       : review-content
 when-day     : Thu
 participants : Don Gibson
-organizers   : Lucas Ferreira
+organizers   : Lucas Ferreira,Bjoern Kimminich
 ---
 
 ## Why
