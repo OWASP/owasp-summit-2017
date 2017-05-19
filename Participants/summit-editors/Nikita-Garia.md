@@ -13,6 +13,8 @@ required-funds  : 1200
 role            : Summit-Editor
 job-title       : Editor
 ticket          : 5x24h
+working-sessions: Security Champions
+
 ---
 
 ## Nikita Garia
