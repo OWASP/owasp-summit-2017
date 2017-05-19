@@ -8,7 +8,7 @@ related-to   :
 status       : review-content
 when-day     : Wed
 organizers   :
-participants : Robert Hurlbut
+participants : Robert Hurlbut,Irene Michlin
 ---
 
 Scaling Threat Modeling in the Enterprise
