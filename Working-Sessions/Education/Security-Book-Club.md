@@ -12,7 +12,7 @@ organizers   :
 participants : Dinis Cruz,Bjoern Kimminich
 ---
 
-Books are the best wat to learn
+Books are the best way to learn
 
 ## Why
 
