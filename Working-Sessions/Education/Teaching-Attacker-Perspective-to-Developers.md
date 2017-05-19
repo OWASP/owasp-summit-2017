@@ -1,6 +1,6 @@
 ---
 layout         : blocks/working-session
-title          : Teaching the Attacker perspective to Developers
+title          : Teaching Attacker perspective to Developers
 type           : workshop
 owasp-project  : no
 track          : Education
@@ -17,8 +17,8 @@ participants   :
 > pentesters, it is still a valuable approach to teach them the
 > _Attackers Perspective_ and let them loose practical hacking exercises
 > or vulnerable applications. Only when they ~~saw something
-> break~~broke something themselves, will they can appreciate all the
-> secure coding guidelines as help and not an impediment.
+> break~~**broke something themselves**, can they appreciate all the
+> secure coding guidelines _as help_ and not see it as _an impediment_.
 
 ## Context
 
