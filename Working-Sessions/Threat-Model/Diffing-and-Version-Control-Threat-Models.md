@@ -9,7 +9,7 @@ related-to   :
 status       : draft
 when-day     : Fri
 organizers   :
-participants :
+participants : Irene Michlin
 ---
 
 ...intro text...
