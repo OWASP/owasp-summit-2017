@@ -7,7 +7,7 @@ track         : OwaspSAMM
 status        : draft
 when-day      : Tue
 organizers    : Sebastien Deleersnyder
-participants  : Marc Rimbau,Felipe Zipitria
+participants  : Marc Rimbau,Felipe Zipitria, Timo Pagel
 ---
 
 Update the SAMM model to take into account Agile and DevOps development and operation practices.

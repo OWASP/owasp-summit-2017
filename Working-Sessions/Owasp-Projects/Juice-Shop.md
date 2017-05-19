@@ -8,7 +8,7 @@ description  : OWASP Juice Shop Project is an intentionally insecure webapp for 
 status       : featured
 organizers   : Bjoern Kimminich
 when-day     : Mon
-participants : Dinis Cruz, Ingo Hanke, Ade Yoseman Putra
+participants : Dinis Cruz, Ingo Hanke, Ade Yoseman Putra, Timo Pagel
 ---
 
 > [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project "OWASP Juice Shop Project")
