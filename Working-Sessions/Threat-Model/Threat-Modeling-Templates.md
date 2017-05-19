@@ -8,7 +8,7 @@ description : OWASP Threat Modeling Templates will provide templates for address
 status      : featured
 when-day    : Tue
 organizers  : Tony UV
-participants: Dinis Cruz,Jason Li, Avi Douglen
+participants: Dinis Cruz,Jason Li,Avi Douglen,Irene Michlin
 ---
 
 Templates will cover a broad range of types that include the following (ideally, 5 will be created by end of week). The below mentioned may also expand to include combinations of client side applications to expose server side applications (e.g. - mobile-web API, IoT-to web API, etc.).  Sample list of templates to develop inlude the following:
