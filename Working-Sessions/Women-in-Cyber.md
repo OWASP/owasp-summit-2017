@@ -2,17 +2,14 @@
 layout       : blocks/working-session
 title        : Women in Cyber
 type         : workshop
-owasp-project: no
 track        :
-technology   : internet of things (IOT), Woman in cyber security
+technology   : IoT
 layout       : blocks/working-session
-title        : Women in Cyber
-type         : workshop
-owasp-project: no
 track        :
 technology   :
 related-to   : 
 status       : Done
+when-day     : Thu
 organizers   :
 participants : Neil Barlow,ade yoseman putra,Francois Raynaud,Lisa Raynaud
 ---
@@ -34,5 +31,15 @@ The low number of women in cyber security, and ways that we might encourage more
 ## What
 
  I believe that women and others from a broad range of backgrounds, can help re-formulate some of the fundamental principles of cyber security, so we can answer in a meaningful way some of the big questions such as ‘What is it that information security enables organisations and people to do?’;’What are the values we hold dear that information security supports?’; ‘What freedoms can we create through cyber security?.’
+
 ## Who
-IT security professionals, devops professionals, developers, managers, social scientists, creative designers, psychologists, philosophers, organisational and learning specialists and educators.
+ - IT security professionals
+ - devops professionals
+ - developers
+ - managers
+ - social scientists
+ - creative designers
+ - psychologists
+ - philosophers
+ - organisational and learning specialists
+ - educators.

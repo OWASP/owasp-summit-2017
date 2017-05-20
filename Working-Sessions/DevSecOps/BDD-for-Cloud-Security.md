@@ -6,7 +6,8 @@ owasp-project: no
 track        : DevSecOps
 technology   :
 related-to   :
-status       : draft
+status       : review-content
+when-day     : Tue
 organizers   :
 participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Stephen de Vries
 ---
