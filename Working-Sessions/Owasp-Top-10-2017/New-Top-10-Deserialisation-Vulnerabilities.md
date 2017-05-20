@@ -2,8 +2,7 @@
 layout       : blocks/working-session
 title        : New Top 10 - Deserialisation Vulnerabilities
 type         : workshop
-owasp-project: no
-track        :
+track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : draft
