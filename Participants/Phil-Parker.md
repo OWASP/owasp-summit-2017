@@ -10,7 +10,7 @@ email           : pparker@equalexperts.com
 linkedin        : parkerphil
 twitter         : parker0phil
 role            : Participant
-ticket          : 8h
+ticket          :
 ---
 
 ## Phil Parker
