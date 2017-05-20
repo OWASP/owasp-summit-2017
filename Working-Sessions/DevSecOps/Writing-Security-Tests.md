@@ -23,6 +23,8 @@ Security Tests are a special type of tests which confirm (via passing tests) tha
  - Transforming integration and e2e tests into security tests
  - running tests against production
  - instrumenting code to inject payloads
+ - Running tests in parallel with builds or in-line
+ - Inserting error handling into tests so that tests differentiate between an internal error and test failure
 
 ## Who
 
