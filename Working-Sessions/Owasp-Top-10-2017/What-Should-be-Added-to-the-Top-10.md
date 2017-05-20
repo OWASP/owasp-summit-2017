@@ -8,7 +8,7 @@ related-to   : OWASP Proactive Controls
 status       : review-content
 when-day     : Tue
 organizers   :
-participants :
+participants : Katy Anton
 ---
 
 ## Why
