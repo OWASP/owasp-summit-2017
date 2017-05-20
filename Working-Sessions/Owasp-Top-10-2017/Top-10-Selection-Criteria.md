@@ -6,7 +6,7 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : review-content
-when-day     : may
+when-day     : Mon
 organizers   : Dave Wichers,Josh Grossman
 participants :
 ---
