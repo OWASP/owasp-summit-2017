@@ -2,8 +2,7 @@
 layout       : blocks/working-session
 title        : OWASP Proactive Controls
 type         : workshop
-owasp-project: no
-track        :
+track        : Owasp Projects
 technology   :
 related-to   :
 status       : draft
