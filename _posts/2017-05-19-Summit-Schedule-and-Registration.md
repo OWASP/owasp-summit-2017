@@ -1,5 +1,5 @@
 ---
-#layout      : blocks/page-component
+layout      : blocks/page-component
 component   : blocks/blog-post.html
 title       : First Summit Schedule and Working Sessions Registration
 post-date   : May 19
