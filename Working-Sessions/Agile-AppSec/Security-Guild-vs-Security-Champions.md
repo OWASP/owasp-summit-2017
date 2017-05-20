@@ -9,7 +9,7 @@ related-to   : Integrating Security into an Spotify Model,Security Champions,CIS
 status       : review-content
 when-day     : Mon
 organizers   : David Clarke
-participants : Ante Gulam,Francois Raynaud
+participants : Ante Gulam,Francois Raynaud,Bjoern Kimminich
 ---
 
 When creating horizontal security teams (across multiple teams/squads) there are two models that have gained some traction: Security Guilds and Security Champions

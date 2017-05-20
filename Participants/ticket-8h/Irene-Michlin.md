@@ -15,7 +15,8 @@ working-sessions: Threat Model
 ---
 
 Ex developer and technical lead
-
 Security consultant, helping companies with secure development, threat modeling, architecture reviews.
 
 Innovative software and secure development practices are not a contradiction.
+
+My main interests at the Summit: threat modelling, agile appsec. If time allows, also devsecops and opensamm. 

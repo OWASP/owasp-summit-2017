@@ -8,7 +8,7 @@ technology    :
 related-to    :
 status        : draft
 organizers    :
-participants  :
+participants  : Timo Pagel
 ---
 
 ...intro text...

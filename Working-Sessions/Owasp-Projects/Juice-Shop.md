@@ -8,7 +8,7 @@ description  : OWASP Juice Shop Project is an intentionally insecure webapp for 
 status       : featured
 organizers   : Bjoern Kimminich
 when-day     : Mon
-participants : Dinis Cruz, Ingo Hanke, Ade Yoseman Putra
+participants : Dinis Cruz,Ingo Hanke,Ade Yoseman Putra,Timo Pagel, Francois Raynaud
 ---
 
 > [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project "OWASP Juice Shop Project")
@@ -42,7 +42,7 @@ the CTF-extension are currently gathered as
 
 ![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
 
-#### Potential outcome
+### Potential outcome
 
 * Several new challenges for OWASP Juice Shop
 * Functional enhancements to place the challenges in, e.g. the

@@ -8,7 +8,7 @@ description : OWASP cheat sheet will provide prescriptive guidance on threat mod
 status      : improve-content
 when-day    : Tue
 organizers  : Tony UV
-participants: Dinis Cruz,Avi Douglen,Francois Raynaud
+participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin
 ---
 
  - Splitting up threat models integration into domain-agnostic and domain-specific
