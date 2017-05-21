@@ -26,7 +26,6 @@ Also important are the code/scripts that support the automation of these Playboo
  - Define common playbook format
  - Create plan for how it will be used on the Playbook Working Sessions
 
-
 ## Who
 
  - 'Security Playbooks' Track organisers and participants
