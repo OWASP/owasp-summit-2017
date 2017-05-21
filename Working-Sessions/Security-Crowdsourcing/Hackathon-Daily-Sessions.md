@@ -8,7 +8,7 @@ technology   :
 related-to   : Juice Shop
 status       : draft
 when-day     : Evening
-organizers   :
+organizers   : Leon Juranic
 participants :
 ---
 
