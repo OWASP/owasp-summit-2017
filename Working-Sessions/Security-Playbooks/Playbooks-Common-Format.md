@@ -4,7 +4,7 @@ title        : Playbooks Common Format
 type         : workshop
 track        : Security Playbooks
 technology   :
-related-to   :
+related-to   : Threat Modeling Diagramming Techniques
 status       : improve-content
 when-day     : Mon
 organizers   :
