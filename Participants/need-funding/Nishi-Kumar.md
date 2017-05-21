@@ -2,24 +2,24 @@
 layout          : blocks/page-participant
 title           : Nishi Kumar
 type            : participant
-time            : working
-travel-from     : Austin
-expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : 1000
-ticket-cost     : 1500
-funded-amount   : 1000
+time            : working
+travel-from     : Austin
+expenses        : owasp
+funded          : no
+funded-who      :
+flight-cost     : 1000
+ticket-cost     : 1500
+funded-amount   : 1000
 required-funds  : 2500
 project-leader  : The OWASP CBT Project
 chapter-leader  :
-job-title       : IT Security Architect Consultant
-image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhUAAAAJDk1MDAxZjhhLWU4YjYtNGNlOS04MTEwLTZlNTRkOThmODQzZQ.jpg
-email           : nishi.kumar@owasp.org
-linkedin        : NishiKumar
-twitter         :
-facebook        :
-status          : done
+job-title       : IT Security Architect Consultant
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhUAAAAJDk1MDAxZjhhLWU4YjYtNGNlOS04MTEwLTZlNTRkOThmODQzZQ.jpg
+email           : nishi.kumar@owasp.org
+linkedin        : NishiKumar
+twitter         :
+facebook        :
+status          : done
 ---
 
 I will be participating and willing to be contributing in these working sessions.
