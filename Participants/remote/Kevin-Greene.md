@@ -1,7 +1,7 @@
 ---
 layout           : blocks/page-participant
 title            : Kevin Greene
-type             : participant
+type             : participant-remote
 job-title        : R&D Program Manager (Software Assurance)
 company          : U.S. Department of Homeland Security
 travel-from      : United States
