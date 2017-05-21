@@ -4,7 +4,7 @@ title        : Netflix Resilience Engineering
 type         : workshop
 track        : DevSecOps
 technology   :
-related-to   : Netflix Security Automation,SRE-Security-Activities
+related-to   : Netflix Security Automation,SRE Security Activities
 status       : draft
 organizers   :
 participants : Neil Barlow,Dicky Stafford,Fraser Scott
