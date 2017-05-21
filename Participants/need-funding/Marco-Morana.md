@@ -12,7 +12,7 @@ ticket-cost     : 1500
 funded-amount   : 1500 (Summit Budget)
 required-funds  : 3000
 job-title       :
-image           : https://pbs.twimg.com/profile_images/794956497310646272/ncqspvG7_400x400.jpg
+image           : 
 linkedin        :
 twiter          : marcomorana
 facebook        :
