@@ -5,7 +5,8 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : draft
+status       : improve-content
+when-day     : Mon
 organizers   :
 participants :
 ---
