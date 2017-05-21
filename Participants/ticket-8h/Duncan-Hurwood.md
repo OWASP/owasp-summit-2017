@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Duncan Hurwood duncanhurwood@outlook.com
+title           : Duncan Hurwood
 type            : participant
 job-title       :
 company         :
