@@ -42,4 +42,5 @@ Radical Candor is a good example of such framework
  - https://www.youtube.com/watch?v=4yODalLQ2lM
  - https://www.amazon.co.uk/d/Books/Radical-Candor-Kickass-Without-Humanity/1250103509
  - http://www.kimmalonescott.com/
- - "Radical Candor used in Leadership team Workshop" (from twitter)[https://twitter.com/DinisCruz/status/862605331154784256]
+ - https://twitter.com/candor
+ - "Radical Candor used in Leadership team Workshop" (from [twitter](https://twitter.com/DinisCruz/status/862605331154784256))
