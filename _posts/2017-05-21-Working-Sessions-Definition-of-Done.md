@@ -1,5 +1,5 @@
 ---
-#layout      : blocks/page-component
+layout      : blocks/page-component
 component   : blocks/blog-post.html
 title       : Working Session's Definition of Done
 post-date   : May 21
