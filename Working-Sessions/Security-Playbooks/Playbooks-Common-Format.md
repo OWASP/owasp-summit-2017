@@ -8,7 +8,7 @@ related-to   : Threat Modeling Diagramming Techniques
 status       : improve-content
 when-day     : Mon
 organizers   :
-participants :
+participants : Yan Kravchenko
 ---
 
 ## Why
