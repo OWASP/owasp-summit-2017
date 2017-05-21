@@ -43,6 +43,7 @@ See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/beh
 ## References:
 
  - ["Owasp top 10 2017 RC - Comments, observations and ideas"](https://www.slideshare.net/DinisCruz/owasp-top-10-2017-rc-comments-observations-and-ideas) Slideshare presentation (see screenshots of Jeff's response)
+ - [The OWASP Top 10 — Response to the controversy from Jeff Williams](https://medium.com/@JoshCGrossman/the-owasp-top-10-response-to-the-controversy-from-jeff-williams-d080f33ae1f)
  - [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/behind-the-the-owasp-top-10-2017-rc1-df43236f79ff)
  - https://twitter.com/ethicalhack3r/status/862938371685048320
  - https://twitter.com/contrastsec/status/861609657126838274
