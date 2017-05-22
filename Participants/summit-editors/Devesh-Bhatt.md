@@ -12,7 +12,7 @@ ticket-cost     : 0 (will buy ticket)
 funded-amount   : 1200 (with Visa)
 required-funds  : 1200
 role            : Summit-Editor
-job-title       :
+job-title       : Security Researcher
 image           : https://pbs.twimg.com/profile_images/789848592680783876/iVOr_MaR.jpg
 twitter         : deveshbhatt11
 ticket          : 5x24h
