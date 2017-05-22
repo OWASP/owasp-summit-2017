@@ -12,10 +12,10 @@ facebook         :
 website          : https://www.lafosse.com/rosstanner
 email            : ross.tanner@lafosse.com
 ticket           :
-when-day         : Tues, Weds, Thurs (one of them)
+when-day         : Tues
 status           : empty
 working-sessions : Creating AppSec Talent,Creating AppSec Teams,Growing the AppSec Industry,Recruiting AppSec Talent,Security Champions
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-<!-- put more details about participant here -->
+Ross currently runs the Information Security & Risk team at La Fosse Associates - the IT, Digital & Business Change recruitment firm. Having placed a number of OWASP members previously, Ross understands the value of building relationships within this community. Given the continuing rise for technically minded Information Security professionals, from the CISO level through to more junior/hands positions, Ross is keen to share feedback on how to position yourself best in the market, what to look for, and what to avoid. Tap me on the shoulder and say hi!
