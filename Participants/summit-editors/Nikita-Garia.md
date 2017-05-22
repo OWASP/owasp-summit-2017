@@ -13,7 +13,7 @@ required-funds  : 1200
 role            : Summit-Editor
 job-title       : Editor
 ticket          : 5x24h
-working-sessions: Women in Cyber, Recruiting AppSec Talent
+working-sessions: Women in Cyber,Recruiting AppSec Talent
 
 
 ---
