@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Fabien Thalgott fabien.thalgott@toreon.com
+title           : Fabien Thalgott
 type            : participant
 job-title       : Application Security Consultant
 company         : Toreon
