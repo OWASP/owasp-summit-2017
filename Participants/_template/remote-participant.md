@@ -1,14 +1,14 @@
 ---
 layout          : blocks/page-participant
-title           : ...
+title           : Security Geek
 type            : participant-remote
-job-title       :
+job-title       : Security Geek
 image           :
 linkedin        :
-twiter          :
+twiter          : actionlamb
 facebook        :
 website         :
-email           :
+email           : binarysteve@gmail.com
 project-leader  :
 chapter-leader  :
 when-day        :
