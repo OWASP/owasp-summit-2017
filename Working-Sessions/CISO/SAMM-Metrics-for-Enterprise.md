@@ -8,7 +8,7 @@ related-to   : OwaspSAMM,Appsec Metrics
 status       : done
 when-day     : Mon
 organizers   : Yan Kravchenko
-participants :
+participants : Robert Morschel
 
 ---
 
