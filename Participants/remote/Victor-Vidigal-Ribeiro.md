@@ -12,7 +12,9 @@ email           : victorvidigal@gmail.com
 project-leader  :
 chapter-leader  :
 status          : done
-working-sessions: 
+working-sessions: Data behind Owasp Top 10 2017,Define Agile Security Practices,Juice Shop,Threat Model Diagramming Techniques,Threat Modeling Tools,Agile Practices for Security Teams,Integrating Security into a Portfolio Kanban,Testing Guide v5,Threat Modeling Where do I Start?,ZAP,Writing Security Tests,Scaling Static Analysis reviews and Deployments
+---
+
 - Monday
 Data behind Owasp Top 10 2017, Define Agile Security Practices, Juice Shop, Threat Model Diagramming Techniques, Threat Modeling Tools,
 - Tuesday
@@ -21,7 +23,5 @@ Agile Practices for Security Teams, Integrating Security into a Portfolio Kanban
 ZAP, Writing Security Tests
 - Friday
 Scaling Static Analysis reviews and Deployments
-
----
 
 I am a Doctoral student at Federal University of Rio de Janeiro, Brazil. I'm working how testing strategies can be mixed for the verification (reviews and testing) the security of software systems.
