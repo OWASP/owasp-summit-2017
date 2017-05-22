@@ -3,12 +3,13 @@ layout   : blocks/page-content
 title    : FAQ
 ---
 
-### Which nights of accommodation are included in the summit ticket + accommodation - 5 days code? I wanted to know if Sunday night is included so that I can arrive on Sunday.
+#### Which nights of accommodation are included in the summit ticket + accommodation - 5 days code? I wanted to know if Sunday night is included so that I can arrive on Sunday.
 
 The 24h-5day tickets cover catering/lodging from Monday morning until Friday evening (exact hours to be verified).
 This does not include Sunday night.
 
-###I have a non UK VAT number, can you apply the reverse charge VAT mechanism?
+####  I have a non UK VAT number, can you apply the reverse charge VAT mechanism?
+
 OWASP charges UK VAT (value added tax) of 19% on all Tickets, which can be claimed back from your national tax authorities.
 Where a General Rule service is supplied from a supplier in one Member State to a customer in another Member State, the invoice
 from the supplier is free of VAT and the customer accounts for the VAT due in their Member State by applying the reverse charge.
