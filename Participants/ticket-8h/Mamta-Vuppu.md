@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Mamta Vuppu :mamtanaidu@gmail.com
+title           : Mamta Vuppu
 type            : participant
 job-title       :
 company         :
