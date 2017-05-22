@@ -8,7 +8,7 @@ linkedin        : anuruddhahewawasam
 twiter          :
 facebook        :
 website         :
-email           :
+email           : anuruddha@techcert.lk
 status          : done
 working-sessions: Mobile Security Testing Guide (MSTG),Mobile Application Security Verification Standard (MASVS),Application Security Verification Standard,Implications of OWASP Top 10 2017,Security Book Club,OWASP Risk Rating Management Project, Data Behind OWASP TOP 10 2017, Reverse Engineering APK's with BYTECODEVIEWER, OWASP Bug Bounty, Writing Security Tests, ZAP, Ransomeware Playbook
 ---
