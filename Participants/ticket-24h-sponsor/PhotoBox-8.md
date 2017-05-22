@@ -1,4 +1,4 @@
-PhotoBox-7.md---
+---
 layout          : blocks/page-participant
 title           : PhotoBox (8th)
 type            : participant
