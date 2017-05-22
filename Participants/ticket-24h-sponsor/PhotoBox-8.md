@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : PhotoBox (8th)
 type            : participant
 job-title       :
-company         : PhotoBox
+company         : PhotoBox Group
 travel-from     :
 image           :
 linkedin        :
