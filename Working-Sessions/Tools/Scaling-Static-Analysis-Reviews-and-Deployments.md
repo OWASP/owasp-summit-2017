@@ -8,7 +8,7 @@ technology   : SAST
 related-to   : Securing the CI Pipeline,Integrating Security Tools in the SDL
 status       : review-content
 when-day     : Fri
-participants : Avi Douglen
+participants : Avi Douglen, Robert Morschel
 organizers   :
 ---
 

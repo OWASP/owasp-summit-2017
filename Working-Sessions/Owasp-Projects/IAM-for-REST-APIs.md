@@ -7,7 +7,7 @@ technology   : REST
 status       : done
 when-day     : Fri
 organizers   : Johan Peeters
-participants : Marc Rimbau,Dinis Cruz,Bjoern Kimminich
+participants : Marc Rimbau,Dinis Cruz,Bjoern Kimminich, Robert Morschel
 ---
 
 ### Problem statement

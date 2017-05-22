@@ -9,7 +9,7 @@ related-to   : JIRA Risk Workflow
 status       : review-content
 when-day     : Tue
 organizers   : David Clarke
-participants : Ante Gulam, Irene Michlin
+participants : Ante Gulam, Irene Michlin, Robert Morschel
 ---
 
 ## Why

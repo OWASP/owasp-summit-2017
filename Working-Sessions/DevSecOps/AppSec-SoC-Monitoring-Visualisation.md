@@ -8,7 +8,7 @@ related-to   : CISO
 status       : done
 when-day     : Thu
 organizers   : Mateo Martinez
-participants : Dinis Cruz,Francois Raynaud, Don Gibson
+participants : Dinis Cruz,Francois Raynaud, Don Gibson, Robert Morschel
 ---
 
 ## Why
