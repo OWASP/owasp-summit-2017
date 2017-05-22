@@ -13,7 +13,7 @@ website          : https://continuousassurance.org/
 email            :
 ticket           :
 status           : add-details
-working-sessions :
+working-sessions :Is the Owasp Top 10 Data Collection Open
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
