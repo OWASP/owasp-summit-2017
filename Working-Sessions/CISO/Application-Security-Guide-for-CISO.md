@@ -9,7 +9,7 @@ related-to   : CISO Survey
 status       : review-content
 when-day     : Wed
 organizers   : Marco Morana
-participants : Don Gibson, Ingo Hanke, Avi Douglen, Yan Kravchenko
+participants : Don Gibson, Ingo Hanke, Avi Douglen, Yan Kravchenko, Robert Morschel
 ---
 
 [https://www.owasp.org/index.php/Application_Security_Guide_For_CISOs](http://owaspsummit.org/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html)
