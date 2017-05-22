@@ -1,6 +1,6 @@
----
+PhotoBox-7.md---
 layout          : blocks/page-participant
-title           : PhotoBox (4th)
+title           : PhotoBox (12th)
 type            : participant
 job-title       :
 company         : PhotoBox
@@ -13,7 +13,7 @@ website         :
 email           :
 project-leader  :
 chapter-leader  :
-ticket          : 5x24h
+ticket          : 5x8h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)

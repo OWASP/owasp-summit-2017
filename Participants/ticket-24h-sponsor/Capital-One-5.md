@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One #5
+title           : Capital One (5th)
 type            : participant
 job-title       :
 company         : Capital One

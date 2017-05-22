@@ -1,9 +1,9 @@
 ---
 layout          : blocks/page-participant
-title           : PhotoBox #5
+title           : PhotoBox (5th)
 type            : participant
 job-title       :
-company         : Capital One
+company         : PhotoBox
 travel-from     :
 image           :
 linkedin        :
