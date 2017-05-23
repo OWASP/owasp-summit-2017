@@ -27,3 +27,12 @@ working-sessions:
 ---
 
 <!-- put more details about participant here -->
+See bio at [Owasp personal page](https://www.owasp.org/index.php/User:Engalex)
+I will be participating and willing to be contributing in these working sessions related to IoT:
+
+GSMA IoT Security Guidelines
+OWASP Internet of Things Project
+Security Architecture Recommendations for IoT
+TLS for Local IoT
+Threat Modeling IoT Devices
+
