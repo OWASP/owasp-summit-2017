@@ -9,7 +9,7 @@ linkedin        : christianmartorella
 twitter         : laramies
 facebook        :
 status          : done
-working sessions:Threat Modelling, GDPR, Devsecops
+working sessions: Threat Model, GDPR, Devsecops
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
