@@ -6,7 +6,7 @@ track       : Threat Model
 status      : draft
 when-day    : Tue
 organizers  : Geoff Hill
-participants: Marc Rimbau,Felipe Zipitria,Avi Douglen,Stephen de Vries,Irene Michlin, Robert Morschel
+participants: Marc Rimbau,Felipe Zipitria, Robert Morschel,Avi Douglen,Stephen de Vries,Irene Michlin, Robert Morschel
 ---
 
 - Build a lightweight threat modeling process with artifacts (e.g. - RACI, DFDs, etc.) for Agile and/or DevOps environments
