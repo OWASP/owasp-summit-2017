@@ -2,8 +2,7 @@
 layout       : blocks/working-session
 title        : AppSec Article 5 - Collective Defence Agreement
 type         : workshop
-owasp-project: no
-track        :
+track        : CISO
 technology   :
 related-to   :
 status       : review-content
