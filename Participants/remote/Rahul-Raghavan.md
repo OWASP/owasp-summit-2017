@@ -1,11 +1,11 @@
 ---
 layout          : blocks/page-participant
-title           : ...
+title           : Rahul Raghavan
 type            : participant-remote
 job-title       :
 company         :
-image           :
-linkedin        :
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkUAAAAJDk1OWE4OGJjLTEzNDAtNDc0MS1hNGZmLTlkM2Y0NTFiZTI5OQ.jpg
+linkedin        : torahulraghavan
 twiter          :
 facebook        :
 website         :
