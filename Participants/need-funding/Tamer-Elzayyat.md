@@ -22,7 +22,12 @@ project-leader  :
 chapter-leader  : Alexandria Chapter
 owasp-other     :
 status          : empty
-working-sessions:
+working-sessions: related to IoT 
+GSMA IoT Security Guidelines
+OWASP Internet of Things Project
+Security Architecture Recommendations for IoT
+TLS for Local IoT
+Threat Modeling IoT Devices
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
