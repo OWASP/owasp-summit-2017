@@ -18,7 +18,6 @@ mixin add-participations-on-day
             a(href="{{page.url}}") {{ page.title }}
         | {%    endif %}
         | {% endfor %}
-        | {% assign working-sessions = page.working-sessions| split: ',' %}
 
 mixin add-participations
     | {% assign user              = page.title  %}

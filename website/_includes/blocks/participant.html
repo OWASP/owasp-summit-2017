@@ -21,7 +21,6 @@
       {%     if  working-sessions contains page.title  %}
       <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
       {% endfor %}
-      {% assign working-sessions = page.working-sessions| split: ',' %}
     </ul>
   </li>
   <li>{% assign day = 'Tue' %}
@@ -34,7 +33,6 @@
       {%     if  working-sessions contains page.title  %}
       <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
       {% endfor %}
-      {% assign working-sessions = page.working-sessions| split: ',' %}
     </ul>
   </li>
   <li>{% assign day = 'Wed' %}
@@ -47,7 +45,6 @@
       {%     if  working-sessions contains page.title  %}
       <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
       {% endfor %}
-      {% assign working-sessions = page.working-sessions| split: ',' %}
     </ul>
   </li>
   <li>{% assign day = 'Thu' %}
@@ -60,7 +57,6 @@
       {%     if  working-sessions contains page.title  %}
       <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
       {% endfor %}
-      {% assign working-sessions = page.working-sessions| split: ',' %}
     </ul>
   </li>
   <li>{% assign day = 'Fri' %}
@@ -73,7 +69,6 @@
       {%     if  working-sessions contains page.title  %}
       <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
       {% endfor %}
-      {% assign working-sessions = page.working-sessions| split: ',' %}
     </ul>
   </li>
   <li>{% assign day = 'Evening' %}
@@ -86,7 +81,6 @@
       {%     if  working-sessions contains page.title  %}
       <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
       {% endfor %}
-      {% assign working-sessions = page.working-sessions| split: ',' %}
     </ul>
   </li>
   <li><b><i>(not scheduled)</i></b>{% assign day = null %}
@@ -100,7 +94,6 @@
       {%     if  working-sessions contains page.title  %}
       <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
       {% endfor %}
-      {% assign working-sessions = page.working-sessions| split: ',' %}
     </ul>
   </li>
 </ul>

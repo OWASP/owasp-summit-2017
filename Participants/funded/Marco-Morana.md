@@ -5,12 +5,12 @@ type            : participant
 time            : 2 days
 travel-from     : Tampa, Florida, USA
 expenses        : owasp
-funded          : no
-funded-who      : Summit Budget
-flight-cost     : 1500
-ticket-cost     : 1500
-funded-amount   : 1500 (Summit Budget)
-required-funds  : 3000
+funded          : yes
+funded-who      : Summit Budget,CISO Project
+flight-cost     : 2441
+ticket-cost     : 500
+funded-amount   : 1500 (Summit Budget), 941 (CISO Project)
+required-funds  : 2941
 job-title       :
 image           : 
 linkedin        :
