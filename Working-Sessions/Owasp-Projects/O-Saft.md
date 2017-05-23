@@ -7,7 +7,7 @@ organizers   : Achim Hoffmann
 technology   : TLS
 owasp-project: yes
 status       : done
-when-day     : Fri
+when-day     : Tue
 organizers   : Achim Hoffmann
 participants : Marc Rimbau, Ingo Hanke
 ---
