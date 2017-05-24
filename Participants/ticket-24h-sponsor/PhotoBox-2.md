@@ -1,16 +1,16 @@
 ---
 layout          : blocks/page-participant
 title           : PhotoBox (2nd)
-type            : participant
-job-title       :
+type            : Naushad
+job-title       : IT Security Specialists
 company         : PhotoBox Group
-travel-from     :
-image           :
-linkedin        :
-twiter          :
+travel-from     : London
+image           : https://pbs.twimg.com/profile_images/787041481576112129/prX7KmUZ_400x400.jpg
+linkedin        : https://www.linkedin.com/in/DrNaushad
+twiter          : https://twitter.com/Naushad_IT
 facebook        :
-website         :
-email           :
+website         : https://www.naushad.co.uk/
+email           : hello@naushad.co.uk
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h
