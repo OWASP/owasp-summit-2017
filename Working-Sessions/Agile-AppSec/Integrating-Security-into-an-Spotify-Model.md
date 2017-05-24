@@ -14,18 +14,17 @@ participants : Ante Gulam
 
 ## Why
 
-The Spotify Model has been widely adopted by multiple companies, but to integrate Agile Security Practices into it.
+The Spotify model has been widely adopted by many companies, but we need to know more about efforts to integrate Agile Security Practices into the Spotify model.
 
-We need companies that have tried, failed and succeeded to integrate security into an Spotify Model to share their experiences
+We need companies that have tried, failed, and succeeded to integrate security into a Spotify Model to share their experiences.
 
-The Spotify model of Squads, Tribes and Guilds (using multiple Agile methodogies) presents the oportunity to define global practices and
-activities that can be replicated across multiple teams (and geographical locations and cultures)
+The Spotify model of Squads, Chapters, Tribes, and Guilds (using multiple Agile methodologies) presents the opportunity to define global practices and activities that can be replicated across multiple teams, geographical locations, and cultures.
 
 ## What
 
- - What are the security activities that can be integrated into the Spotify Model?
+ - Which security activities can be integrated into the Spotify Model?
  - What worked?
- - Does it make sense to Integrate Security into an Spotify Model?
+ - Does it make sense to integrate security into a Spotify Model?
  - What are the best practices?
  - How should these practices be measured?
 
@@ -34,7 +33,7 @@ activities that can be replicated across multiple teams (and geographical locati
 The target audience for this Working Session is:
 
 - Security professionals
-- CISO's
+- CISOs
 - Agile practitioners
 - DevSecOps
 - SecDevOps
@@ -49,4 +48,4 @@ The target audience for this Working Session is:
  - [There is No Spotify Model](https://www.infoq.com/presentations/spotify-culture-stc)
  - [Scaling Agile Using Spotify's Framework](https://www.scrumalliance.org/community/articles/2015/december/scaling-agile-using-spotify-s-framework)
  - [Don't Copy the Spotify Model](https://www.infoq.com/news/2016/10/no-spotify-model)
- - [Don't copy the Spotify Model, do copy the Spotify attitue](https://www.happymelly.com/dont-copy-spotify-model)
+ - [Don't copy the Spotify Model, do copy the Spotify attitude](https://www.happymelly.com/dont-copy-spotify-model)
