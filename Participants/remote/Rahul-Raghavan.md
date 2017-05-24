@@ -14,7 +14,7 @@ project-leader  :
 chapter-leader  :
 when-day        :
 status          : empty
-working-sessions:
+working-sessions:Define Agile Security Practices,Growing the AppSec Industry,Integrating Security into a Sales Channel,Responsible Disclosure,Writing Security Tests
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
