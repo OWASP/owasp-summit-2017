@@ -3,11 +3,10 @@ layout       : blocks/working-session
 title        : OWASP Game Security Framework
 type         : workshop
 owasp-project: yes
-organizers   : Daniel Miessler
 track        : Owasp Projects
 status       : needs-content
 when-day     : Fri
-organizers   : Azzeddine Ramrami
+organizers   : Daniel Miessler,Azzeddine Ramrami
 participants :
 ---
 
