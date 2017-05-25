@@ -14,19 +14,21 @@ participants : Robert Morschel,Avi Douglen,Bjoern Kimminich
 
 ## Why
 
-Security Tests are a special type of tests which confirm (via passing tests) that security issues either exist or have been fixed.
+This Working Session will look at Security Tests, a special type of test that confirms, via passing tests, that security issues either exist or have been fixed.
 
 ## What
 
  - When to write security tests
  - Common techniques
  - Transforming integration and e2e tests into security tests
- - running tests against production
- - instrumenting code to inject payloads
+ - Running tests against production
+ - Instrumenting code to inject payloads
  - Running tests in parallel with builds or in-line
  - Inserting error handling into tests so that tests differentiate between an internal error and test failure
 
 ## Who
+
+The target audience for this Working Session is:
 
  - Security professionals
  - Developers
