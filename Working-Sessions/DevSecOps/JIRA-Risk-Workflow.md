@@ -7,7 +7,7 @@ track        :
 status       : draft
 when-day     : Wed
 organizers   : Dinis Cruz
-participants :
+participants : Timo Pagel
 ---
 
 This JIRA Risk Workflow can be used to manage the Risk process and ensure that business owners understand the side effects of the decision they make
