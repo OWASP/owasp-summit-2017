@@ -12,19 +12,20 @@ participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Timo Pa
 
 ## Why
 
-Netflix is currently one of the leading companies in the use of Security Automation, with a large number of companies
- following on its footsteps
+This Working Session will consider how Netflix is currently one of the leading companies in the use of Security Automation, with many companies following in its footsteps.
 
 ## What
 
  - Map out how Netflix does Security Automation
- - Share real-world expereience in using it
- - Define am implementation-roadmap for companies that want to start using these tools/techniques/workflows
+ - Share real-world experience of using it
+ - Define an implementation roadmap for companies interested in using these tools/techniques/workflows
 
 ## Who
 
+The target audience for this Working Session is:
+
  - InfoSec and AppSec professionals
- - Netflix enginners
+ - Netflix engineers
 
 ## References
 
