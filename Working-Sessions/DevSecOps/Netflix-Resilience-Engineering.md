@@ -18,7 +18,7 @@ This Working Session will discuss how Netflix is currently one of the leading co
 ## What
 
  - Map out how Netflix does Security Automation
- - Share real-world experience in using Security Automation
+ - Share real-world experience of using Security Automation
  - Define an implementation roadmap for companies interested in using these tools/techniques/workflows
 
 ## Who
