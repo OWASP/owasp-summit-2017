@@ -16,25 +16,26 @@ participants :
 
 99.9% of current InfoSec products and services provide no warranty or guarantee.
 
-Although this has been very beneficial for software/apps innovation, the security implications have been the creation of an security industry
-that is driven by marketing and has very little accountability for the effectiveness (and even security) of their products/services
+Although this has been very beneficial for software/apps innovation, the security implications are very serious. In the absence of warranties and guarantees, the security industry is driven by marketing, and has very little accountability for the effectiveness, or even the security, of their products and services. 
+
+This Working Session will examine the need for InfoSec warranties and guarantees, and how they might be designed and implemented.
 
 ## What
 
- - Are Warranties and Guarantees in InfoSec inevitable?
- - How to make Warranties and Guarantees work
+ - Are warranties and guarantees in InfoSec inevitable?
+ - How to make warranties and guarantees work
  - What should be covered?
- - Should governments have role in (for example) providing 'Cyber Insurance' for 'well behaved companies'?
+ - Should governments have a role in (for example) providing 'Cyber Insurance' for 'well-behaved companies'?
  - The roles of labels and market forces
  - Are we in a 'market for lemons'?
- - The role of Goverment Agencies
- - What lessons can be learned from the the Food and Public Safety agencies (and activities)
+ - The role of Government Agencies
+ - What lessons can be learned from the Food and Public Safety agencies (and activities)?
 
 ## Who
 
  - Buyers of InfoSec products and services
  - InfoSec Products and Services providers
- - Goverment Agencies
+ - Government Agencies
  - [Jeremiah Grossman](https://twitter.com/jeremiahg)
 
 ## References
