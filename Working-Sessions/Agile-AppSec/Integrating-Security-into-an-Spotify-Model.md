@@ -14,11 +14,13 @@ participants : Ante Gulam
 
 ## Why
 
-The Spotify model has been widely adopted by many companies, but we need to know more about efforts to integrate Agile Security Practices into the Spotify model.
+The Spotify model has been widely adopted by many companies. 
 
 We need companies that have tried, failed, and succeeded to integrate security into a Spotify Model to share their experiences.
 
 The Spotify model of Squads, Chapters, Tribes, and Guilds (using multiple Agile methodologies) presents the opportunity to define global practices and activities that can be replicated across multiple teams, geographical locations, and cultures.
+
+This working session will focus on increasing our knowledge of how best to integrate Agile Security into the Spotify model.
 
 ## What
 
