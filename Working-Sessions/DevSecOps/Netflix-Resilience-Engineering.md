@@ -13,18 +13,20 @@ participants : Neil Barlow,Dicky Stafford,Fraser Scott
 
 ## Why
 
-Netflix is currently one of the leading companies in Resilience Engineering, with multiple tools and documentation released.
+This Working Session will discuss how Netflix is currently one of the leading companies in Resilience Engineering, with multiple tools and documentation released.
 
 ## What
 
  - Map out how Netflix does Security Automation
- - Share real-world expereience in using it
- - Define am implementation-roadmap for companies that want to start using these tools/techniques/workflows
+ - Share real-world experience of using Security Automation
+ - Define an implementation roadmap for companies interested in using these tools/techniques/workflows
 
 ## Who
 
+The target audience for this Working Session is:
+
  - InfoSec and AppSec professionals
- - Netflix enginners
+ - Netflix engineers
 
 
 ## References
