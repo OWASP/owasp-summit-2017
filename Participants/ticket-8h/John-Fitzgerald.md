@@ -6,9 +6,9 @@ job-title       : Chairman
 company         : Secure Code Warrior
 travel-from     : London
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/004/0f4/3a9475a.jpg
-linkedin        : www.linkedin.com/in/johnfitz/
-twiter          : @SecCodeWarrior
-facebook        : www.facebook.com/securecodewarrior/
+linkedin        : johnfitz
+twiter          : SecCodeWarrior
+facebook        : securecodewarrior
 website         : www.securecodewarrior.com
 email           :
 project-leader  :
