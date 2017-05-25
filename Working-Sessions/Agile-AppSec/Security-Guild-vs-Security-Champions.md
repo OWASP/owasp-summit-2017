@@ -28,6 +28,8 @@ This working session will discuss common terminology and workflows, as it is imp
 
 ## Who
 
+The target audience for this Working Session is:
+
  - Security Champions
  - CISOs
  - Agile practitioners
