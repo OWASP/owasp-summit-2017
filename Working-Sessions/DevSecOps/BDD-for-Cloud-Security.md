@@ -12,16 +12,20 @@ organizers   :
 participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Stephen de Vries
 ---
 
-Developers, operations and security teams need to collaborate on building and verifying that cloud architectures meet requirements for security.  Behaviour Driven Development (BDD) may be a useful tool to both specify and then verify that the appropriate security controls are in place.   
+## Why
 
-## Objectives
+Developers, and operations and security teams need to collaborate on building and verifying that cloud architectures meet requirements for security.  This Working Session will consider how Behaviour Driven Development (BDD) may be a useful tool to both specify and then verify that the appropriate security controls are in place.   
 
-- Identify core security requirements for all cloud deployements, regardless of specific cloud technology.
-- Write BDD specs for those requirements (no implementation code, just spec)
-- Link specs to standards (CSA, NIST, etc)
+## What
+
+- Identify core security requirements for all cloud deployments, regardless of specific cloud technology
+- Write BDD specifications for those requirements (no implementation code, just specs)
+- Link specs to standards (CSA, NIST, etc.)
 
 ## Who
 
-Cloud Security Architects
-Security Teams
-Cloud Ops
+The target audience for this Working Session is:
+
+- Cloud Security Architects
+- Security Teams
+- Cloud Ops
