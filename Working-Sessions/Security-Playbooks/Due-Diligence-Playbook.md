@@ -8,7 +8,7 @@ related-to   :
 status       : review-content
 when-day     : Fri
 organizers   :
-participants :
+participants : Mamta Vuppu
 ---
 
 ## Why
