@@ -14,18 +14,20 @@ organizers   :
 
 ## Why
 
-Give them massive skills shortage in the AppSec industry we need innovative solutions, if we are going to create another 100k professionals worldwide.
+Given the massive skills shortage in the AppSec industry, we need innovative solutions if we are going to create another 100,000 AppSec professionals worldwide. This Working Session will discuss and evaluate ways of creating and growing AppSec talent.
 
 ## What
 
  - How to scale AppSec training
- - The Role of Security Champions in creating the next generation of Security Professionals
- - Which industries should we reach out and promote the idea of becoming security professionals (Developers, Engineers, Craftsman, AI specialists, Lawyers)
- - What can be done at University level
- - What can be done at College level
- - 'Ethical Hacking' and 'Bug Bounties' has a tool to excite new joiners
+ - The Role of security champions in creating the next generation of security professionals
+ - Which industries should we approach to promote the idea of becoming security professionals (Developers, engineers, craftsman, AI specialists, lawyers)?
+ - What can be done at university level?
+ - What can be done at college level?
+ - 'Ethical Hacking' and 'Bug Bounties' have a tool to excite new members
 
 ## Who
+
+The target audience for this Working Session is:
 
  - AppSec Team leads
  - Recruitment agencies
