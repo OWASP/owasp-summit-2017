@@ -9,7 +9,7 @@ related-to     : Juice Shop,NodeGoat,Webgoat
 status         : done
 when-day       : Evening
 organizers     : Bjoern Kimminich
-participants   : Robert Morschel
+participants   : Robert Morschel, Timo Pagel
 ---
 
 > _Learning by doing_ is a quite successful education concept. Although
