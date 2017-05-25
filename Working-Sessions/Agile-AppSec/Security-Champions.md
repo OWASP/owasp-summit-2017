@@ -38,6 +38,8 @@ The main purpose of this working session is to discuss the role of Security Cham
 
 ## Who
 
+The target audience for this Working Session is:
+
  - Security Champions
  - CISOs
  - Developers
