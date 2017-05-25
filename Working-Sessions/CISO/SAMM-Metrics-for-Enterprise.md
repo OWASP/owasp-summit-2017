@@ -14,18 +14,18 @@ participants : Robert Morschel
 
 ## Why
 
-OwaspSAMM is not geared for this out of the box, but can be leveraged very effectively to help large organizations manage application portfolios.
+OWASP SAMM is not geared for this out of the box, but can be leveraged very effectively to help large organizations manage application portfolios.
 
 ## What
 
- - Evaluating hundreds (or thousands) apps through openSAMM
- - Correlating Risks for complete picture
- - Decisions to help drive AppSec forward, fueled by metrics
+ - Evaluating hundreds (or thousands) of apps through OpenSAMM
+ - Correlating risks for complete picture
+ - Decisions, supported by metrics, to help drive AppSec forward 
  - Getting AppSec initiatives funded
 
 ## Who
 
  - CISO
  - Future CISOs
- - Metrics Analysts
- - AppSec Analysts
+ - Metrics analysts
+ - AppSec analysts
