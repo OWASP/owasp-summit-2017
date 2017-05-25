@@ -33,6 +33,8 @@ This Working Session will examine the need for InfoSec warranties and guarantees
 
 ## Who
 
+The target audience for this Working Session is:
+
  - Buyers of InfoSec products and services
  - InfoSec Products and Services providers
  - Government Agencies
