@@ -14,22 +14,24 @@ participants : Ante Gulam,Irene Michlin
 
 ## Why
 
-Integration of information security into the Portfolio Kanban enables organisations to have a fully secure workstreams through every single stage of the project development cycle. In the agile world the integration of security has to start at the earlier possible stage and that is, in most of the cases the portfolio management workstream definition stage which usually utilises Kanban. This session will be used to discuss the challenges and advantages of that approach and how one can plan and execute this model across environments. 
+Integrating information security into the Portfolio Kanban enables organisations to have fully secure workstreams through every stage of the project development cycle. In the agile world, the integration of security must start at the earliest possible stage, which in most cases is the portfolio management workstream definition stage, a stage that normally utilises Kanban. This session will discuss the challenges and advantages of that approach and how one can plan and execute this model across environments. 
 
 ## What
 
-- Scaled agile framework
-- How to plan and execute for the Portfolio Kanban security integration
-- Challenges and opportunities for process optimisation
-- Mobilising program management on security integration
-- Creating security flows towards MVP development
+- What is a scaled agile framework?
+- How to plan and execute the Portfolio Kanban security integration
+- What are the challenges and opportunities for process optimisation?
+- How to mobilise programme management on security integration
+- How to create security flows towards MVP development
 
 ## Who
 
+The target audience for this Working Session is:
+
 - Security Professionals
-- CISO's
+- CISOs
 - DevSecOps
 - SecDevOps
 - Agile practitioners
 - Agile coaches
-- Project and program managers
+- Project and programme managers
