@@ -7,7 +7,7 @@ track        : DevSecOps
 status       : draft
 when-day     : Wed
 organizers   : Don Gibson
-participants : Francois Raynaud,Dinis Cruz,Marc Rimbau,Avi Douglen,Irene Michlin, Robert Morschel
+participants : Francois Raynaud,Dinis Cruz,Marc Rimbau,Avi Douglen,Irene Michlin, Robert Morschel, Timo Pagel
 ---
 
 Closing the circle
