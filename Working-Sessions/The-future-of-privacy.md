@@ -3,11 +3,11 @@ layout       : blocks/working-session
 title        : The Future of Privacy
 type         : workshop
 owasp-project: no
-organizers   :
+organizers   : Ingo Hanke
 track        :
 status       : done
-organizers   : Ingo Hanke
-participants : Akshay Sharma
+when-day     : Wed
+participants : Akshay Sharma, Achim Hoffmann
 ---
 
 Is there a future for privacy?
