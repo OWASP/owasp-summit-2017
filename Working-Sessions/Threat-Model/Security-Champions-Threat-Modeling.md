@@ -8,7 +8,7 @@ related-to   :
 status       : review-content
 when-day     : Wed
 organizers   :
-participants : Robert Hurlbut
+participants : Robert Hurlbut, Mamta Vuppu
 ---
 
 Security Champions leveraged to train and support Threat Modeling.
