@@ -26,6 +26,8 @@ Agile practices have been around for quite some time now and a lot of organisati
 
 ## Who
 
+The target audience for this Working Session is:
+
 - Developers
 - Security professionals
 - DevSecOps
