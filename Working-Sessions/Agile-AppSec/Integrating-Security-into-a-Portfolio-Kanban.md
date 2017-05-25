@@ -26,6 +26,8 @@ Integrating information security into the Portfolio Kanban enables organisations
 
 ## Who
 
+The target audience for this Working Session is:
+
 - Security Professionals
 - CISOs
 - DevSecOps
