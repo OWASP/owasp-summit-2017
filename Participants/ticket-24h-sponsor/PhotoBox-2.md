@@ -1,22 +1,22 @@
 ---
 layout          : blocks/page-participant
 title           : PhotoBox (2nd)
-type            : participant
-job-title       :
+type            : Naushad
+job-title       : IT Security Specialists
 company         : PhotoBox Group
-travel-from     :
-image           :
-linkedin        :
-twiter          :
+travel-from     : London
+image           : https://pbs.twimg.com/profile_images/787041481576112129/prX7KmUZ_400x400.jpg
+linkedin        : https://www.linkedin.com/in/DrNaushad
+twiter          : https://twitter.com/Naushad_IT
 facebook        :
-website         :
-email           :
+website         : https://www.naushad.co.uk/
+email           : hello@naushad.co.uk
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h
 status          : empty
-working-sessions:
-# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
+working-sessions: Mobile Application Security Verification Standard (MASVS),Mobile Security Testing Guide (MSTG),Working Sessions related to SOC,AppSec SOC Monitoring Visualisation, Incident Response Playbook, Threat Modeling Templates,
+Creating AppSec Talent,Creating AppSec Teams,Threat Modeling Tools,Threat Modeling Where do I Start?,Netflix Resilience Engineering
 ---
 
 <!-- put more details about participant here -->
