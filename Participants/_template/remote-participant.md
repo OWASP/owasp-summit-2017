@@ -2,7 +2,7 @@
 layout          : blocks/page-participant
 title           : ...
 type            : participant-remote
-job-title       :
+job-title       : Information Security Engineer
 company         :
 image           :
 linkedin        :
