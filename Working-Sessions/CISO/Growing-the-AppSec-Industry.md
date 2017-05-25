@@ -18,6 +18,8 @@ In 2017, the AppSec industry is worth only $1B - $1.5B of an $81B market (growin
 
 If AppSec is really the key to solve the 'security problem' we face today, and will face more often in the future, we will need significantly more investment and focus in AppSec solutions (people, processes and technology).
 
+This Working Session will consider the size and potential of the AppSec market, and what can be done to help its development.
+
 ## What
 
  - Why is the AppSec market so small?
