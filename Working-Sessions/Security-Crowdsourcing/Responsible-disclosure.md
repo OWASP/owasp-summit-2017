@@ -5,7 +5,7 @@ type         : workshop
 status       : more-content
 track        : Security Crowdsourcing
 when-day     : Tue
-organizers   : Devesh Bhatt
+organizers   : Josh Armour,Devesh Bhatt
 participants :
 ---
 
