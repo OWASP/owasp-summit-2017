@@ -2,8 +2,8 @@
 layout          : blocks/page-participant
 title           : Josh Armour
 type            : participant
-job-title       : Security Program Manager
-company         : Google
+job-title       : 
+company         : 
 travel-from     :
 image           : https://lh3.googleusercontent.com/-p2zwVBF6ls8/AAAAAAAAAAI/AAAAAAAAY3g/vpQi8mhoC5g/s120-p-rw-no/photo.jpg
 linkedin        :
