@@ -6,7 +6,7 @@ track        : DevSecOps
 technology   : TLS,IoT
 status       : done
 when-day     : Wed
-organizers   : kevsheldrake
+organizers   : Kevin Sheldrake
 participants : Francois Raynaud
 ---
 
