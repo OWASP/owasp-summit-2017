@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Tue
-organizers   :
+organizers   : Stephen de Vries
 participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Stephen de Vries
 ---
 
@@ -20,7 +20,8 @@ Developers, and operations and security teams need to collaborate on building an
 
 - Identify core security requirements for all cloud deployments, regardless of specific cloud technology
 - Write BDD specifications for those requirements (no implementation code, just specs)
-- Link specs to standards (CSA, NIST, etc.)
+- Find existing tools/solutions that can be used as base implementations, e.g. Netflix's Security Monkey? NCC Group AWS auditor?
+- Link specs to standards (CSA, NIST, etc.)?
 
 ## Who
 
