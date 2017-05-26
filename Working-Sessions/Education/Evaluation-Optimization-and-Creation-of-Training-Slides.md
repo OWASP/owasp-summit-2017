@@ -5,7 +5,7 @@ type           : workshop
 owasp-project  : no (but maybe during the summit)
 track          : Education
 technology     :
-related-to     : Teaching Attacker perspective to Developers,AppSec-BSc-Masters-Curriculum-Design,Juice Shop,NodeGoat,Webgoat
+related-to     : Teaching Attacker perspective to Developers,Application Security BSc/Masters Curriculum Design,Juice Shop,NodeGoat,Webgoat
 status         : draft
 when-day       : Thu
 organizers     : Timo Pagel
