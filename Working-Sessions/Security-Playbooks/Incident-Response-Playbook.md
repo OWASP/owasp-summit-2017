@@ -8,7 +8,7 @@ related-to   :
 status       : review-content
 when-day     : Wed
 organizers   :
-participants :
+participants : Mamta Vuppu
 ---
 
 ## Why

@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Mon
 organizers   :
-participants : Geoff Hill, Irene Michlin, Robert Morschel
+participants : Geoff Hill, Irene Michlin, Robert Morschel, Mamta Vuppu
 ---
 
 Discovery session on what tools exist currently and what their benefits and weaknesses are.
