@@ -16,18 +16,23 @@ participants : Marc Rimbau, Ingo Hanke
 It's a standalone tool and can be used in closed and very restricted environments.
 
 
-### Objective
+## Why
 
-Currently the tool is developped and maintained by a very small team. It's just enough time to keep the check up-to-date according new vulnerabilities and such.
-The tool needs some internal redesign and some improvements to bring the full power to it's users.
+Currently the tool is developed and maintained by a very small team. There is just enough time to keep the check up-to-date, accommodating new vulnerabilities, behaviours, etc.
 
-### Ideas / Roadmap
+The Working Session will focus on the internal redesign and some improvements the tool needs to bring full power to its users.
 
-- improve checking of certificates
-- implement state-of-the-art checking of OCSP
-- improve checking of DH parameters and EC parameters
-- write prostprocessors for formatting the output; a lot of code is already there, it needs to be extracted in new tools
-- implement fuzzing features using TLS-attacker
-- build a test suite, run automated tests
-- build a sophisticated knowledge database with search capabilities (probably using python NLTK)
-- is there a need for a GTK-based GUI (i.e. using yad)?
+## What
+
+- Improve checking of certificates
+- Implement state-of-the-art checking of OCSP
+- Improve checking of DH parameters and EC parameters
+- Write post processors for formatting the output; a lot of code is already there, it needs to be extracted in new tools
+- Implement fuzzing features using TLS-attacker
+- Build a test suite, run automated tests
+- Build a sophisticated knowledge database with search capabilities (probably using Python NLTK)
+- Is there a need for a GTK-based GUI (i.e. using YAD)?
+
+## Who
+
+The target audience for this Working Session is:

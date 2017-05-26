@@ -14,9 +14,9 @@ participants : Don Gibson,Bjoern Kimminich,Irene Michlin
 
 ## Why
 
-There has been a great improvement in the security of new languages/frameworks, which make it harder to write insecure applications, at least from an injection point of view.
+There has been a great improvement in the security of new languages/frameworks, which makes it harder to write insecure applications, at least from an injection point of view.
 
-However, the elephant in the room is the hundreds, even thousands, of legacy applications that exist in companies, which perform mission critical functions, and will go anywhere anytime soon. 
+However, the elephant in the room is the hundreds, even thousands, of legacy applications that exist in companies, that perform mission critical functions, and that are not going anywhere anytime soon. 
 
 This Working Session will discuss how best to secure these legacy applications.
 
@@ -24,8 +24,8 @@ This Working Session will discuss how best to secure these legacy applications.
 
  - How to map legacy applications
  - How to understand the risk posed by these applications
- - Who should own maintain these applications?
- - Can these applications be used an opportunity to implement DevOps practices?
+ - Who should own/maintain these applications?
+ - Can these applications be used as an opportunity to implement DevOps practices?
  - How to insure these applications
  - How SAST technology tends to be very effective in legacy applications
 

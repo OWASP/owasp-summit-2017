@@ -23,6 +23,6 @@ Instead of teaching every developer Threat Modeling, leverage the availibility o
 
 ## Who
 
-... Security Champions
-... Architects
-... Managers
+- Security Champions
+- Architects
+- Managers

@@ -23,5 +23,6 @@ working-sessions: Threat Modeling IoT Devices,Security Crowdsourcing,CISO,CISO R
 ## Devesh Bhatt
 
 
-My name is Devesh and I am based in Bangalore. I am a security researcher and have a decade of experience securing and breaking applications. I can participate lead IOT security/Threat modelling/application security/ responsible disclosure areas.
+Devesh is an Information Security Researcher focused on Application Security domain. His areas of interest includes Application, network, mobile and IOT security.
+He is listed in over 40 HOFs for submitting critical vulnerabilities to companies including Google and Facebook and is an active speaker & trainer. He has spoken at RSA, CONFidence, ROOTCON and many other international conferences
 

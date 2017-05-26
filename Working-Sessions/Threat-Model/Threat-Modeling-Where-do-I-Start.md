@@ -28,8 +28,8 @@ For an organization / group to understand and use Threat Modeling, they need to 
 
 ## Who
 
-... developers
-... architects
-... security SMEs
-... SCRUM masters
-... security champions
+- developers
+- architects
+- security SMEs
+- SCRUM masters
+- security champions
