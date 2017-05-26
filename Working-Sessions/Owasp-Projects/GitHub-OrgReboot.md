@@ -11,13 +11,15 @@ participants :
 ---
 
 > The [OWASP GitHub organization](https://github.com/owasp) hosts some
-> of the foundation's greatest projects. Unfortunately there is lots of
-> rubble obstructing access to them. GitHub has become kind of a
-> de-facto standard for OSS projects and using this platform and
+> of the foundation's greatest projects. Unfortunately, there is a lot of
+> rubble obstructing access to them. GitHub has become a kind of
+> de-facto standard for OSS projects, and using this platform and
 > associated ecosystem of SaaS to its full potential could make a big
 > difference when it comes to gaining new contributors.
 
-### Context
+This Working Session will explore how OWASP can gain maximum benefit from its use of GitHub. 
+
+## What
 
 * What makes GitHub so special among its peers?
 * How are other successful OSS organizations using GitHub?
@@ -28,7 +30,7 @@ participants :
 * How can we prevent new erosion after a "tabula rasa" cleanup or
   "reboot"?
 
-### Potential outcomes
+## Potential outcomes
 
 * GitHub repository owner guidelines
 * GitHub org admin guidelines
@@ -38,11 +40,13 @@ participants :
 * Templates (e.g. `README.md`, `LICENSE`, `CONTRIBUTING.md` etc.) for a
   repo under OWASP org
 * Instructions for 3rd party QA/CI tool setup (e.g. Travis-CI,
-  Codeclimate etc.)
+  Code Climate etc.)
 
-### Participant candidates
+## Who
+
+The target audience for this Working Session is:
 
 * Project leaders of OWASP Code or Tool projects
 * Contributors to OWASP Code or Tool projects
 * Software engineers/craftsmen
-* GitHub powerusers
+* GitHub power users
