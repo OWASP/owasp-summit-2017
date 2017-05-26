@@ -9,7 +9,7 @@ related-to   :
 status       : draft
 when-day     : Mon
 organizers   :
-participants :
+participants : Mamta Vuppu
 ---
 
 ...intro text...
