@@ -1,6 +1,6 @@
 ---
 layout         : blocks/working-session
-title          : Evaluation, Optimization and Creation of Training Slides
+title          : Evaluation/Optimization/Creation of Training Slides
 type           : workshop
 owasp-project  : no (but maybe during the summit)
 track          : Education
