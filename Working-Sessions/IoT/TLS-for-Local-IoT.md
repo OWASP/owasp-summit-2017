@@ -5,7 +5,7 @@ type         : workshop
 track        : DevSecOps
 technology   : TLS,IoT
 status       : done
-when-day     : Wed
+when-day     : Mon
 organizers   : kevsheldrake
 participants : Francois Raynaud
 ---
