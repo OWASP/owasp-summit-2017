@@ -9,7 +9,7 @@ related-to     : Teaching Attacker perspective to Developers,Application Securit
 status         : draft
 when-day       : Thu
 organizers     : Timo Pagel
-participants   : Björn Kimminich
+participants   : Bjoern Kimminich
 ---
 
 ### Context
