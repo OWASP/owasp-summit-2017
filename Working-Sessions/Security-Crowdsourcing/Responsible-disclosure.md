@@ -5,8 +5,8 @@ type         : workshop
 status       : more-content
 track        : Security Crowdsourcing
 when-day     : Tue
-organizers   : Josh Armour,Devesh Bhatt
-participants :
+organizers   : Devesh Bhatt
+participants : Josh Armour
 ---
 
 Responsible disclosure is a great way to have multiple eyes with different methodologies test your assets.
