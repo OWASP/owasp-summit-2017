@@ -10,34 +10,36 @@ organizers   : Johan Peeters
 participants : Marc Rimbau,Dinis Cruz,Bjoern Kimminich, Robert Morschel
 ---
 
-### Problem statement
+## Why
 
-REST APIs are ubiquitous. Yet, solid insights into securing REST APIs are lacking. The OWASP cheat sheet is notably out of date, focusing on issues such as session management that hark back to a past where REST services were merely a data layer for simple web applications. Contemporary REST APIs serve a multitude of consumers covering a wide variety of profiles. The game has changed and we need to rethink the security measures we take to protect the APIs, consumers and end users.
+REST APIs are ubiquitous, yet there is a lack of solid insights into securing REST APIs. The OWASP cheat sheet is notably out of date, focusing on issues such as session management that reflect a past where REST services were merely a data layer for simple web applications. Contemporary REST APIs serve a multitude of consumers and cover a wide variety of profiles. The game has changed and we need to rethink the security measures we take to protect the APIs, consumers, and end users.
 
-### Questions
+## What
 
-* Which current authN and authZ standards make sense in the REST ecosystems? In which scenario's?
-* Are there any tried-and-tested implementations of those standards?
-* Any common vulnerabilities?
-* Implementation/integration guidelines?
+- Which current authN and authZ standards make sense in the REST ecosystems? In which scenarios?
+- Are there any tried-and-tested implementations of those standards?
+- Are there any common vulnerabilities?
+- Are there any implementation/integration guidelines?
 
 ### Candidate technologies to try out
 
-* OAuth 2.0
-* OpenID Connect
-* Oz
-* UMA
-* JWT/JOSE
-* HoK
+- OAuth 2.0
+- OpenID Connect
+- Oz
+- UMA
+- JWT/JOSE
+- HoK
 
 ### Potential outcomes
 
-* A new version of the REST Security Cheatsheet.
-* One or more demonstrators.
+- A new version of the REST Security Cheatsheet.
+- One or more demonstrators.
 
-### Participants
+## Who 
 
-* back-end REST services developers
-* SPA developers
-* mobile developers
-* authors of the REST security cheat sheet
+The target audience for this Working Session is:
+
+- Back-end REST services developers
+- SPA developers
+- Mobile developers
+- Authors of the REST security cheat sheet
