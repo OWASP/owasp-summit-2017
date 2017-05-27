@@ -6,7 +6,7 @@ technology  : Mobile
 status      : featured
 description : Working Sessions related to Mobile Security
 organizers  : Bernhard Mueller,Sven Schleier
-participants: Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau, Kuai Hinojosa
+participants: Denis Pilipchuk , Naushad , Bolot Kerimbaev , Jeroen Willemsen , Marc Rimbau , Kuai Hinojosa
 ---
 
 ## Summary
@@ -14,6 +14,14 @@ participants: Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau, Kuai Hinojosa
 This track focuses on mobile application security. It is organised by the project leaders of the [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide) project. The focus of this track is completing the [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg).
 
 **If you are interested in setting the industry standard for mobile application security, this is the place to be.**
+
+## Working Sessions
+
+This track consists of a series of book sprints, each of which focuses on producing content for a specific section in the OWASP MSTG, as well as proof-reading and editing the existing content. The goal is to make as much progress on the guide as is humanly possible. Depending on the number of participants, we'll split into sub-groups to work on different subsections or topic areas. 
+
+## How to Join
+
+Join up for the working session(s) you like by following the link(s) on top of this page, then hitting the "Edit this page here" link at the bottom, and adding yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions. Don't worry though if your favorite topic is on the "wrong" day - you can always simply stop by our session and we'll brief you on your topic of choice. After all, this is the Woodstock of appsec!
 
 ## About the OWASP Mobile Security Testing Project
 
@@ -40,13 +48,11 @@ This document has already undergone several revisions and is relatively mature. 
 </td></tr>
 </table>
 
-## Working Session
-
-To keep things simple, we are organising a [single working session](http://owaspsummit.org/Working-Sessions/Mobile-Security/MSTG.html) focused on producing content for the OWASP MSTG, as well as proof-reading and editing the existing content. The goal is to make as much progress on the guide as is humanly possible. Depending on the number of participants, we'll split into sub-groups to work on different subsections or topic areas. See the [working session page](http://owaspsummit.org/Working-Sessions/Mobile-Security/MSTG.html) for more information.
-
 ## Who
 
 The target audience for this Working Session is:
 
-ToDo: --Add content--
-
+- Developers
+- Security Testers
+- Reverse Engineers
+- Everyone else with good writing skills and some technical know-how :)
