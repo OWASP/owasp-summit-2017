@@ -1,15 +1,15 @@
 ---
 layout          : blocks/working-session
-title           : MSTG Book Sprint - Mobile Operating Systems
+title           : MSTG Book Sprint - Android Testing Guide
 type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
 status          : featured
-when-day        : Tue
+when-day        : wed
 description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
-participants    : Bolot Kerimbaev,Jeroen Willemsen,Marc Rimbau,Kuai Hinojosa
+participants    : tbd.
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right" alt="owasp mstg"/>
