@@ -1,6 +1,6 @@
 ---
 layout          : blocks/working-session
-title           : MSTG Book Sprint - Mobile Operating Systems
+title           : MSTG Book Sprint - Mobile App Security Testing
 type            : workshop
 track           : Mobile Security
 owasp-project   : yes
@@ -27,10 +27,11 @@ The objective of this working session is to complete a first draft of the Mobile
 
 Participants may join working groups organised along the main topics covered in the guide. Work will be split between working groups based on mobile OS and topics as listed below.
 
-This working session focuses on mobile operating systems. We will describe OS aspects/features of Android and iOS that are relevant for security testers: App signing, exploit mitigation, KeyStore/KeyChain, and others.
+This working session focuses high-level testing methodology, including scoping, test setup and reporting. We describe basic technical processes such as setting up a web proxy, API monitoring using existing tools, etc.
 
 Associated chapters in the MSTG:
 
-- [Android Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05a-Platform-Overview.md)
-- [iOS Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06a-Platform-Overview.md)
+- [Testing Processes and Techniques](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x04-Testing-Processes-and-Techniques.md)
+- [Security Testing in the Application Development Lifecycle](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x07-Security-Testing-SDLC.md)
+- [Testing Tools](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x08-Testing-Tools.md)
 
