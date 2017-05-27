@@ -1,11 +1,10 @@
 ---
-
 layout      : blocks/page-component
 component   : blocks/blog-post.html
 title       : Juice Shop's call to pre-summit action
 post-date   : May 27
 author      : Bjoern Kimminich
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 I am organizing
 [the main working session](http://owaspsummit.org/Working-Sessions/Owasp-Projects/Juice-Shop.html)
