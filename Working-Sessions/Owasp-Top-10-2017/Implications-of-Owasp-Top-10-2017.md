@@ -10,24 +10,26 @@ organizers   : Dave Wichers
 participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria,Mateo Martinez,Francois Raynaud
 ---
 
-Working Session to collaborate on the implications of the new OWASP Top 10
-
 ## Why
 
-With a new version of the OWASP top 10 being released very soon, there are number of
-hot topics that need further discussion and debated.
+This Working Session will facilitate collaboration on the implications of the new OWASP Top 10.
+
+As the new version of the OWASP Top 10 will be released very soon, there are a number of
+hot topics that need further discussion and debate.
 
 ## What
 
-- Are the changes proposed in the 2017 version representative of what is happening in the AppSec's ecosystem?
-- Does the data-sets available confirm the chosen Top 10 items?
+- Are the changes proposed in the 2017 version representative of what is happening in the AppSec ecosystem?
+- Do the data-sets available confirm the chosen Top 10 items?
 - Is this new version too much 'tool-vendor driven' or does it strike a good balance?
 - What is the impact for companies and tool vendors?
 - What is the best way to use this new version?
 - List areas where the Top 10 should be used, and explicitly list where it shouldn't
-- _.... What else should it be covered in this Working Session?...._
+- _.... What else should be covered in this Working Session?...._
 
 ## Who
+
+The target audience for this Working Session is:
 
 - Security Professionals
 - AppSec teams
