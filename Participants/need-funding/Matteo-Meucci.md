@@ -1,8 +1,8 @@
 ---
-layout: blocks/page-participant
-title: Matteo Meucci
-type: participant
-time: work
+layout          : blocks/page-participant
+title           : Matteo Meucci
+type            : participant
+time            : work
 travel-from     : Italy
 expenses        : owasp
 funded          : no

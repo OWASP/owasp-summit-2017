@@ -1,42 +1,44 @@
 ---
-layout      : blocks/working-session
-title       : Security Champions
-type        : workshop
-track       : Agile AppSec
-related-to  : Threat-Model,SecDevOps,CISO
-status      : review-content
-organizers  :
-participants:
+layout       : blocks/working-session
+title        : Security Champions
+type         : workshop
+track        : Agile AppSec
+related-to   : Threat-Model,DevSecOps,CISO
+status       : review-content
+when-day     : Tue
+organizers   :
+participants :
 ---
 
-Security Champions are a key element of an AppSec team, since they create an cross-functional team focused on Application Security
+Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.
 
-What is an Security Champion?
+What is a Security Champion?
 
 - Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
-- Act as the "voice" of security for the given product or team
-- Assist in the triage of security bugs for their team or area
+- Security Champions act as the "voice" of security for the given product or team
+- Security Champions assist in the triage of security bugs for their team or area
 
 (see definition [here](https://www.owasp.org/index.php/Security_Champions))
 
 ## Why
 
-We need better definition of the Security Champion role and how it should be implemented across organizations
+The main purpose of this working session is to discuss the role of Security Champions within organizations, and how Security Champions' skills can best be utilized across organizations. The session will also discuss the need for a better definition of the role of Security Champion.
 
 ## What
 
- - Define Security Champions job role, responsiblities and [OKR](https://en.wikipedia.org/wiki/OKR)
- - How to create a network of Security Champions?
- - What do Security Champions do?
+ - How to define Security Champions role, responsibilities and [OKR](https://en.wikipedia.org/wiki/OKR)
+ - How to create a network of Security Champions
  - Forum for Security Champions to share their experiences
- - The importance of being supported in the corporate Security Policy
+ - The importance of being supported by the corporate Security Policy
+ - How to 'create' Security Champions? 
  - How to reward Security Champions?
- - How to 'create' Security Champions?
- - Security Champions has a path into Application Security profession
- - Is being a Security Champions worth putting in LinkedIn?
- - Security Champions role in Threat Modeling
+ - Do Security Champions have a path into Application Security profession?
+ - Is being a Security Champions worth including in your LinkedIn profile?
+ - What is the Security Champion's role in Threat Modeling?
 
 ## Who
+
+The target audience for this Working Session is:
 
  - Security Champions
  - CISOs

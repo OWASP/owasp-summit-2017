@@ -17,7 +17,8 @@
       {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span>{{ participant }}</span>  {% endif %}
       {% if forloop.last != true %}<span>,</span>  {% endif %}
     {% endfor %}
-    {% endif %}
+    {% endif %}<br/>
+    <p>See &#32;<a href="/schedule/tracks/{{ page.title | replace: ' ', '-'}}.html">schedule</a>&#32; for this track</p>
     <h3>Working sessions in this Track</h3>
     <ul>{% for page in tracks_ws_ok %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>{% endfor %}

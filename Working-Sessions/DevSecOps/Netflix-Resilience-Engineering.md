@@ -4,25 +4,30 @@ title        : Netflix Resilience Engineering
 type         : workshop
 track        : DevSecOps
 technology   :
-related-to   : Netflix Security Automation
+related-to   : Netflix Security Automation,SRE Security Activities
 status       : draft
 organizers   :
 participants : Neil Barlow,Dicky Stafford,Fraser Scott
 ---
 
-...intro text...
 
 ## Why
 
-...why text...
+This Working Session will discuss how Netflix is currently one of the leading companies in Resilience Engineering, with multiple tools and documentation released.
 
 ## What
 
-...what text...
+ - Map out how Netflix does Security Automation
+ - Share real-world experience of using Security Automation
+ - Define an implementation roadmap for companies interested in using these tools/techniques/workflows
 
 ## Who
 
-... target audience ...
+The target audience for this Working Session is:
+
+ - InfoSec and AppSec professionals
+ - Netflix engineers
+
 
 ## References
 

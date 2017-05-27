@@ -5,9 +5,10 @@ type        : workshop
 track       : Threat Model
 related-to  : Cheat Sheets
 description : OWASP cheat sheet will provide prescriptive guidance on threat modeling activities, tasks, and output deliverables that should be produced as part of one of three varying methodologies (software centric, security centric, risk centric approaches) and tailored to application environments that are domain agnostic.
-status      : featured
+status      : improve-content
+when-day    : Tue
 organizers  : Tony UV
-participants: Dinis Cruz,Avi Douglen
+participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin, Robert Morschel, Stephen de Vries
 ---
 
  - Splitting up threat models integration into domain-agnostic and domain-specific

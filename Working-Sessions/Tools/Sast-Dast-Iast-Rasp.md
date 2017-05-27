@@ -6,7 +6,7 @@ track       : Tools
 technology  : SAST
 status      : draft
 organizers  :
-participants: Marc Rimbau,Felipe Zipitria,Avi Douglen
+participants: Marc Rimbau,Felipe Zipitria,Avi Douglen, Timo Pagel
 related-to  : Integrating Security Tools in the SDL
 ---
 

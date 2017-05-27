@@ -4,6 +4,7 @@ title       : AWS Lambda Security
 type        : workshop
 track       : Tools
 status      : draft
+when-day    :
 organizers  :
 participants: Dinis Cruz
 ---

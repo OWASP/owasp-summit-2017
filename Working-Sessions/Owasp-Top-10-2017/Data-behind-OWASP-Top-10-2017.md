@@ -3,12 +3,11 @@ layout       : blocks/working-session
 title        : Data behind Owasp Top 10 2017
 type         : workshop
 description  : Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
-owasp-project: no
-track        : Project Summit
-related-to   : Implications of Owasp Top 10 2017
+track        : Owasp Top 10 2017
 status       : featured
-organizers   : Dave Wichers
-participants : Brian Glas
+when-day     : Mon
+organizers   : Dave Wichers,Johanna Curiel,Claudia Casanovas
+participants : Brian Glas,Ingo Hanke,Francois Raynaud
 ---
 
 Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
@@ -47,3 +46,4 @@ _(in order resources where found)_
  - [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/behind-the-the-owasp-top-10-2017-rc1-df43236f79ff)
  - [OWASP Top 10 A7 Controversy](https://twitter.com/i/moments/856939400772673543) (twitter moment)
  - [Musings on the OWASP Top 10 2017 RC1](https://nvisium.com/blog/2017/04/18/musings-on-the-owasp-top-10-2017-rc1)
+ - [Which of the OWASP Top 10 Caused the World’s Biggest Data Breaches?](https://snyk.io/blog/owasp-top-10-breaches)

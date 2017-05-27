@@ -1,9 +1,10 @@
 ---
-layout  : blocks/working-session
-title   : Threat Model Owasp Pages
-type    : workshop
-track   : Threat Model
-status  : draft
+layout     : blocks/working-session
+title      : Threat Model Owasp Pages
+type       : workshop
+track      : Threat Model
+when-day   : Thu
+status     : draft
 ---
 
 - Rework OWASP threat modeling page and create subpages on threat modeling methodologies that exist w/ details and artifacts

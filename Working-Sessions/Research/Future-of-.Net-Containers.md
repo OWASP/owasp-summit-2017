@@ -6,6 +6,7 @@ track        : Research
 technology   : .Net,Docker
 related-to   :
 status       : review-content
+when-day     : Fri
 organizers   :
 participants : PhotoBox
 ---

@@ -24,3 +24,6 @@ A key element of DevOps is the securing of the CI Pipeline.
 ## Who
 
 ... target audience ...
+
+## References
+https://www.nccgroup.trust/uk/our-research/securing-the-continuous-integration-process

@@ -10,6 +10,7 @@
       <th>status</th>
       <th>image</th>
       <th>email</th>
+      <th>company</th>
       <th>twitter</th>
       <th>linkedin</th>
       <th>facebook</th>
@@ -39,6 +40,7 @@
         {{ site.data.emails[page.title] }}
         {% endif %}
       </td>
+      <td>{{ page.company }}</td>
       <td><a href="https://twitter.com/{{ page.twitter }}" target="_blank">{{ page.twitter }}</a></td>
       <td><a href="https://www.linkedin.com/in/{{ page.linkedin }}" target="_blank">{{ page.linkedin }}</a></td>
       <td><a href="https://facebook.com/{{ page.facebook }}" target="_blank">{{ page.facebook }}</a></td>
