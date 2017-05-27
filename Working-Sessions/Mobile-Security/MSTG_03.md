@@ -7,7 +7,7 @@ owasp-project   : yes
 technology      : Mobile
 status          : featured
 when-day        : Wed
-description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
+description     : In this book sprint we produce content for the "Android Testing Guide" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : tbd.
 ---
@@ -27,10 +27,15 @@ The objective of this working session is to complete a first draft of the Mobile
 
 Participants may join working groups organised along the main topics covered in the guide. Work will be split between working groups based on mobile OS and topics as listed below.
 
-This working session focuses on mobile operating systems. We will describe OS aspects/features of Android and iOS that are relevant for security testers: App signing, exploit mitigation, KeyStore/KeyChain, and others.
+This working session focuses on mobile testing application security on Android.
 
 Associated chapters in the MSTG:
 
-- [Android Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05a-Platform-Overview.md)
-- [iOS Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06a-Platform-Overview.md)
+- [Android Security Testing Basics](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)
+- [Testing Data Storage](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05d-Testing-Data-Storage.md)
+- [Testing Cryptography](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05e-Testing-Cryptography.md)
+- [Testing Authentication and Session Management](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05f-Testing-Authentication.md)
+- [Testing Network Communication](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05g-Testing-Network-Communication.md)
+- [Testing Platform Interaction](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05h-Testing-Platform-Interaction.md)
+- [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/)
 
