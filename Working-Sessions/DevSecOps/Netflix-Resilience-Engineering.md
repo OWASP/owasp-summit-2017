@@ -7,7 +7,7 @@ technology   :
 related-to   : Netflix Security Automation,SRE Security Activities
 status       : draft
 organizers   :
-participants : Neil Barlow,Dicky Stafford,Fraser Scott
+participants : Neil Barlow,Dicky Stafford
 ---
 
 
