@@ -11,43 +11,51 @@ organizers   : Paolo Perego
 participants :
 ---
 
-### Introdution
+## Why
 
-Owasp Orizon is a source code static analyzer tool designed to spot security
+OWASP Orizon is a source code static analyser tool designed to spot security
 issues in Java applications.
 
-Owasp Orizon mission is to provide people an opensource tool, helping them in reviewing:
+OWASP Orizon's mission is to provide people with an open source tool that helps them review the following:
 
-* single Java classes
-* Java standalone tools packed in JAR files
-* web applications packed in EAR / WAR files
-* Android APK applications
+- Single Java classes
+- Java standalone tools packed in JAR files
+- Web applications packed in EAR/WAR files
+- Android APK applications
 
-### Some story
+This Working Session will discuss how OWASP Orizon can best deliver on its mission for the future.
 
-It was a dark and stormy night in Milan, Italy. It was 2006 and I felt the need
-of something helping me in reviewing other people java source code. So Owasp
-Orizon born and grew up as security tool trying to parse Java source code,
-building an Abstract Syntax Tree and spot for unsafe calls in the code.
+### The story of OWASP Orizon
 
-In the very beginning Owasp Orizon was a sort of enhanced grep tool. In 2008, I
-started supporting PHP programming language but the initial boost disappeared.
-After being in love with other programming languages and technolgies, eight
-years later, in 2017 I kickstarted the project again from scratch.
+On a dark and stormy night in Milan, Italy, in 2006, I realised I needed
+something to help me review other people's Java source code. In this way OWASP
+Orizon was born and evolved as a security tool to parse Java source code,
+build an Abstract Syntax Tree, and spot unsafe calls in the code.
 
-### What it will be discussed?
+Initially, OWASP Orizon was a type of enhanced grep tool. In 2008, I
+started supporting PHP programming language, but the initial boost disappeared.
+I devoted my time to other programming languages and technologies for the next eight
+years, until in 2017 I kickstarted the Orizon project again from scratch.
 
-* What people really need from a SAST tool?
-* How Orizon will integrate with Dependency Checker and Owasp ZAP?
-* Only J2EE or even Android support?
+## What 
+
+- What do SAST tools need to deliver?
+- How will Orizon integrate with Dependency Checker and OWASP ZAP?
+- Should Orizon only support J2EE, or should it also support Android?
 
 ### Outcomes
 
-* A team of people interesting in working on it
-* Some agile milestones
+- A team of people interesting in working on Orizon
+- Some agile milestones
+
+## Who
+
+The target audience for this Working Session is:
+
+ToDo: --Add content--
 
 
-### Links
+## Links
 
-* Owasp Orizon [page](https://www.owasp.org/index.php/Category:OWASP_Orizon_Project)
-* Github repository: [here](https://github.com/thesp0nge/owasp-orizon)
+- OWASP Orizon [page](https://www.owasp.org/index.php/Category:OWASP_Orizon_Project)
+- GitHub repository: [here](https://github.com/thesp0nge/owasp-orizon)
