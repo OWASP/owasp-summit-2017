@@ -10,13 +10,13 @@ organizers   : Dave Wichers,Johanna Curiel,Claudia Casanovas
 participants : Brian Glas,Ingo Hanke,Francois Raynaud
 ---
 
-Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
+Due to its wide use, acceptance, and need for trusted results, it is essential that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
 
 ## Why
 
-The OWASP Top 10 2017 did a 'request for data' which might not have reached an audience as wide as it should.
+The OWASP Top 10 2017 did a 'request for data' which might not have reached as wide an audience as it should have reached.
 
-The Summit provides a perfect opportunity to allow the current data set to be understood and for new data sets/analysis to be submitted/analysed (these will validate the current Top 10 items, or provide evident for changes).
+The Summit, and this Working Session, provide a perfect opportunity to allow the current data set to be understood and for new data sets/analysis to be submitted/analysed (these will validate the current Top 10 items, or provide evident for changes).
 
 ## What
 
@@ -28,10 +28,12 @@ The Summit provides a perfect opportunity to allow the current data set to be un
 ## Outcome
 
  - Majority of participants to agree on the data set supporting the final Top 10 2017 mappings
+ 
+## Who
+
+The target audience for this Working Session is:
 
 ## References
-
-_(in order resources where found)_
 
  - [OWASP_Top_10 - 2017 Release Candidate1 English.pdf](https://www.owasp.org/images/3/3c/OWASP_Top_10_-_2017_Release_Candidate1_English.pdf)
  - [OWASP Top 10 - 2017 Data Call-Public Release.xls](https://github.com/OWASP/Top10/blob/master/2017/datacall/OWASP%20Top%2010%20-%202017%20Data%20Call-Public%20Release.xlsx?raw=true)
