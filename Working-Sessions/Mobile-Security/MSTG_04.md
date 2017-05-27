@@ -1,13 +1,13 @@
 ---
 layout          : blocks/working-session
-title           : MSTG Book Sprint - Mobile Operating Systems
+title           : MSTG Book Sprint - iOS Testing Guide
 type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
 status          : featured
-when-day        : Tue
-description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
+when-day        : Thu
+description     : In this book sprint we produce content for the "iOS Testing Guide" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : Bolot Kerimbaev,Jeroen Willemsen,Marc Rimbau,Kuai Hinojosa
 ---
@@ -27,10 +27,14 @@ The objective of this working session is to complete a first draft of the Mobile
 
 Participants may join working groups organised along the main topics covered in the guide. Work will be split between working groups based on mobile OS and topics as listed below.
 
-This working session focuses on mobile operating systems. We will describe OS aspects/features of Android and iOS that are relevant for security testers: App signing, exploit mitigation, KeyStore/KeyChain, and others.
+This working session focuses on mobile app security testing on iOS.
 
 Associated chapters in the MSTG:
-
-- [Android Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05a-Platform-Overview.md)
-- [iOS Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06a-Platform-Overview.md)
+- [iOS Security Testing Basics](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md)
+- [Testing Data Storage](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md)
+- [Testing Cryptography](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06e-Testing-Cryptography.md)
+- [Testing Authentication and Session Management](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06f-Testing-Authentication-and-Session-Management.md)
+- [Testing Network Communication](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06g-Testing-Network-Communication.md)
+- [Testing Platform Interaction](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06h-Testing-Platform-Interaction.md)
+- [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06i-Testing-Code-Quality-and-Build-Settings.md)
 
