@@ -9,7 +9,7 @@ status          : featured
 when-day        : Thu
 description     : In this book sprint we produce content for the "iOS Testing Guide" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
-participants    : Bolot Kerimbaev,Jeroen Willemsen,Marc Rimbau,Kuai Hinojosa
+participants    : T.b.d.
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right" alt="owasp mstg"/>
