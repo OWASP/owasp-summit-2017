@@ -28,11 +28,11 @@ participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin, Robert Mors
     Impact of exploitation of vulnerability by a threat agents
     Controls and process needed to treat specific risks
 
-### Context
+### Why
 
 Threat modeling still needs great adoption into current SDLC methodologies. Many development groups strive to apply threat modeling efforts under tight development windows.  The threat cheat sheet modeling cheat sheet aims to provide prescriptive guidance on scoping, application component enumeration, threat modeling activities, and key deliverables.
 
-### Potential outcome
+### What
 
  * DFD Template
  * Kill chain template
@@ -43,7 +43,7 @@ Threat modeling still needs great adoption into current SDLC methodologies. Many
  * Weakness library management and integration
 
 
-### Participant candidates
+### Who
 
  * Application Architects (for DFD creation, templating)
  * Web developers of varying language backgrounds (.NET, Java, PHP, *.js, etc.)
