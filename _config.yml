@@ -3,8 +3,8 @@ markdown: kramdown
 data_dir: website/_data
 includes_dir: website/_includes
 layouts_dir:  website/_layouts
-gems:
-  - jekyll-feed
+#gems:
+#  - jekyll-feed
 exclude:
   - CNAME
   - LICENSE
