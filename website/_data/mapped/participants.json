@@ -1423,7 +1423,7 @@
       "job-title": "Product Manager",
       "company": "Checkmarx",
       "travel-from": "Israel",
-      "image": "https://speakerpedia.com/speakers/helen-bravo",
+      "image": "http://a4.res.cloudinary.com/allamerican/image/fetch/t_face_s270/http://speakerdata2.s3.amazonaws.com/photo/image/839226/SnowFROC2013_Bravo.jpg",
       "linkedin": "",
       "twiter": "",
       "facebook": "",
@@ -1878,18 +1878,20 @@
       "layout": "blocks/page-participant",
       "title": "Kevin Sheldrake",
       "type": "participant",
-      "job-title": "",
-      "company": "BT",
+      "job-title": "Penetration Tester",
+      "company": "",
       "travel-from": "Cheltenham",
-      "image": "",
+      "image": "http://rtfc.org.uk/kev.jpg",
       "linkedin": "",
-      "twiter": "",
+      "twiter": "kevsheldrake",
       "facebook": "",
-      "website": "",
-      "email": "",
+      "website": "rtfc.org.uk",
+      "email": "rtfcode (gmail.com)",
       "ticket": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": [
+        "TLS for Local IoT"
+      ]
     }
   },
   "Kim Carter": {

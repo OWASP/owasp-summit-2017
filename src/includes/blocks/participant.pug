@@ -84,6 +84,8 @@ mixin add-website
         a(href="{{page.website}}" target="_blank") Website
     |{% endif %}
 
+
+
 h1 {{ page.title }}
 h3 {{page.job-title }}
     | {% if page.company != null %}
@@ -97,15 +99,15 @@ img.participant(src='{{ page.image }}' alt='{{ page.title }}')
 
 | {{ content }}
 
-+ add-participations
+//+ add-participations
 
 h2 contact details
 ul
-    + add-email
-    + add-website
-    + add-twitter
-    + add-linkedin
-    + add-facebook
+    //+ add-email
+    //+ add-website
+    //+ add-twitter
+    //+ add-linkedin
+    //+ add-facebook
 br
 hr
 p Back to list of <a href='/website/participants.html'>all Participants</a>
