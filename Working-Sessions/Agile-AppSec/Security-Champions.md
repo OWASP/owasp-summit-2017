@@ -7,7 +7,7 @@ related-to   : Threat-Model,DevSecOps,CISO
 status       : review-content
 when-day     : Tue
 organizers   :
-participants :
+participants : Francois Raynaud
 ---
 
 Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.
