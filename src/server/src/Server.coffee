@@ -21,7 +21,12 @@ class Server
     @.app.get '/ping', (req, res) =>          # todo: move to another location
       res.end 'pong'
 
-    @.app.get '/aaa', (req, res) =>  res.end 'bbbb'
+    @.app.use '/update', (req, res) =>
+      console.log '[request] /update'
+      console.log req.url
+      console.log req.query
+      console.log req.headers
+      res.end '{}'
 
     @
 
