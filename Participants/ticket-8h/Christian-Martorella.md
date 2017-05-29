@@ -8,6 +8,7 @@ email           : cmartorella@edge-security.com
 linkedin        : christianmartorella
 twitter         : laramies
 facebook        :
+ticket          : 5x8h
 status          : done
 working sessions: Threat Model, GDPR, Devsecops
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)

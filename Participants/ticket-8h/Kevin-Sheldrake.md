@@ -11,7 +11,8 @@ twiter          : kevsheldrake
 facebook        :
 website         : rtfc.org.uk
 email           : rtfcode (gmail.com)
-ticket          :
+when-day        : Mon
+ticket          : 1x8h
 status          : empty
 working-sessions: TLS for Local IoT
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
