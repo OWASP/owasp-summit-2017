@@ -320,7 +320,7 @@
   },
   "Aruna Katugampola": {
     "name": "Aruna Katugampola",
-    "url": "/Participants/ticket-24h-sponsor/Aruna-Katugampola",
+    "url": "/Participants/ticket-24h-sponsor/Aruna-Katugampola.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "Aruna Katugampola",
@@ -422,6 +422,56 @@
       "project-leader": "",
       "chapter-leader": "",
       "owasp-other": "",
+      "status": "empty",
+      "working-sessions": ""
+    }
+  },
+  "Barracuda 2": {
+    "name": "Barracuda 2",
+    "url": "/Participants/ticket-24h-sponsor/Barracuda-2.html",
+    "metadata": {
+      "layout": "blocks/page-participant",
+      "title": "Barracuda (2nd)",
+      "type": "participant",
+      "job-title": "",
+      "company": "Barracuda",
+      "travel-from": "",
+      "image": "",
+      "linkedin": "",
+      "twiter": "",
+      "facebook": "",
+      "website": "",
+      "email": "",
+      "project-leader": "",
+      "chapter-leader": "",
+      "when-day": "Mon,Tue",
+      "ticket": "2x24h",
+      "# Note": "please adjust the values above to your current plan (days and ticket duration)",
+      "status": "empty",
+      "working-sessions": ""
+    }
+  },
+  "Barracuda 3": {
+    "name": "Barracuda 3",
+    "url": "/Participants/ticket-24h-sponsor/Barracuda-3.html",
+    "metadata": {
+      "layout": "blocks/page-participant",
+      "title": "Barracuda (3rd)",
+      "type": "participant",
+      "job-title": "",
+      "company": "Barracuda",
+      "travel-from": "",
+      "image": "",
+      "linkedin": "",
+      "twiter": "",
+      "facebook": "",
+      "website": "",
+      "email": "",
+      "project-leader": "",
+      "chapter-leader": "",
+      "when-day": "Wed,Thu,Fri",
+      "ticket": "3x24h",
+      "# Note": "please adjust the values above to your current plan (days and ticket duration)",
       "status": "empty",
       "working-sessions": ""
     }
@@ -568,6 +618,29 @@
       "working-sessions": ""
     }
   },
+  "Capital One-3": {
+    "name": "Capital One-3",
+    "url": "/Participants/ticket-24h-sponsor/Capital-One-3.html",
+    "metadata": {
+      "layout": "blocks/page-participant",
+      "title": "Capital One (3rd)",
+      "type": "participant",
+      "job-title": "",
+      "company": "Capital One",
+      "travel-from": "",
+      "image": "",
+      "linkedin": "",
+      "twiter": "",
+      "facebook": "",
+      "website": "",
+      "email": "",
+      "project-leader": "",
+      "chapter-leader": "",
+      "ticket": "5x24h",
+      "status": "empty",
+      "working-sessions": ""
+    }
+  },
   "Capital One-4": {
     "name": "Capital One-4",
     "url": "/Participants/ticket-24h-sponsor/Capital-One-4.html",
@@ -614,12 +687,12 @@
       "working-sessions": ""
     }
   },
-  "Capital One-6": {
-    "name": "Capital One-6",
-    "url": "/Participants/ticket-24h-sponsor/Capital-One-6.html",
+  "Capital One-7": {
+    "name": "Capital One-7",
+    "url": "/Participants/ticket-8h-sponsor/Capital-One-7.html",
     "metadata": {
       "layout": "blocks/page-participant",
-      "title": "Capital One (6th)",
+      "title": "Capital One (7th)",
       "type": "participant",
       "job-title": "",
       "company": "Capital One",
@@ -632,7 +705,30 @@
       "email": "",
       "project-leader": "",
       "chapter-leader": "",
-      "ticket": "5x24h",
+      "ticket": "5x8h",
+      "status": "empty",
+      "working-sessions": ""
+    }
+  },
+  "Capital One-8": {
+    "name": "Capital One-8",
+    "url": "/Participants/ticket-8h-sponsor/Capital-One-8.html",
+    "metadata": {
+      "layout": "blocks/page-participant",
+      "title": "Capital One (8th)",
+      "type": "participant",
+      "job-title": "",
+      "company": "Capital One",
+      "travel-from": "",
+      "image": "",
+      "linkedin": "",
+      "twiter": "",
+      "facebook": "",
+      "website": "",
+      "email": "",
+      "project-leader": "",
+      "chapter-leader": "",
+      "ticket": "5x8h",
       "status": "empty",
       "working-sessions": ""
     }
@@ -1164,10 +1260,14 @@
       "linkedin": "felipezipitria",
       "status": "done",
       "working-sessions": [
-        "Securing the CI Pipeline",
         "Writing Security Tests",
         "Owasp Latam Region",
-        "Owasp Student Chapters"
+        "Owasp Student Chapters",
+        "AppSec SOC Monitoring Visualisation",
+        "Teaching Attacker perspective to Developers",
+        "GitHub Organization Reboot",
+        "Data behind Owasp Top 10 2017",
+        "Threat Modeling Tools"
       ]
     }
   },
@@ -1192,7 +1292,7 @@
   },
   "Fraser Scott": {
     "name": "Fraser Scott",
-    "url": "/Participants/ticket-24h-sponsor/Fraser-Scott.html",
+    "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "Fraser Scott",
@@ -1204,7 +1304,7 @@
       "linkedin": "zeroxten",
       "twiter": "zeroXten",
       "facebook": "",
-      "ticket": "5x24h",
+      "ticket": "5x8h",
       "status": "done",
       "working-sessions": [
         "BDD for Cloud Security",
@@ -1311,6 +1411,47 @@
       "facebook": "",
       "ticket": "5x24h",
       "status": "done"
+    }
+  },
+  "Helen Bravo": {
+    "name": "Helen Bravo",
+    "url": "/Participants/Helen-Bravo.html",
+    "metadata": {
+      "layout": "blocks/page-participant",
+      "title": "Helen Bravo",
+      "type": "participant",
+      "job-title": "Product Manager",
+      "company": "Checkmarx",
+      "travel-from": "Israel",
+      "image": "https://speakerpedia.com/speakers/helen-bravo",
+      "linkedin": "",
+      "twiter": "",
+      "facebook": "",
+      "website": "",
+      "email": "",
+      "when-day": "Mon,Tue,Wed",
+      "ticket": "",
+      "status": "empty",
+      "working-sessions": [
+        "Security Guidance and Feedback in IDE",
+        "Securing Legacy Applications",
+        "Docker Security",
+        "ELK Security Dashboards",
+        "Integrating Security Tools in the SDL",
+        "A comparison of strength and weaknesses of specific FOSS tools",
+        " Scaling Static Analysis Reviews and Deployments",
+        " Securing the CI Pipeline",
+        " SAMM Metrics for Enterprise",
+        "Threat and Vulnerability Management",
+        "Agile Practices for Security Teams",
+        "Define Agile Security Practices",
+        "Integrating Security into an Spotify Model",
+        "Scaling Agile Planning and Education.md",
+        "Evaluation/Optimization/Creation of Training Slides",
+        "Best practices in using SAST",
+        " DAST",
+        " IAST and RASP Tools"
+      ]
     }
   },
   "Ingo Hanke": {
@@ -1475,10 +1616,10 @@
       "travel-from": "Belgium",
       "image": "https://avatars3.githubusercontent.com/u/969231?v=3&s=200",
       "linkedin": "",
-      "twiter": "",
+      "twitter": "YoPeeters",
       "facebook": "",
       "email": "yo@johanpeeters.com",
-      "website": "http://www.johanpeeters.com",
+      "website": "https://www.johanpeeters.com",
       "status": "need-content",
       "ticket": "5x24h",
       "working sessions": ""
@@ -2079,28 +2220,24 @@
   },
   "Matteo Meucci": {
     "name": "Matteo Meucci",
-    "url": "/Participants/need-funding/Matteo-Meucci.html",
+    "url": "/Participants/ticket-24h/Matteo-Meucci.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "Matteo Meucci",
       "type": "participant",
       "time": "work",
       "travel-from": "Italy",
-      "expenses": "owasp",
-      "funded": "no",
-      "funded-who": "",
-      "flight-cost": "500",
-      "ticket-cost": "1500",
-      "funded-amount": "0",
-      "required-funds": "2000",
       "project-leader": "OWASP Testing Guide",
       "chapter-leader": "",
-      "job-title": "CEO of Minded Security",
+      "job-title": "CEO",
+      "company": "Minded Security",
       "image": "https://pbs.twimg.com/profile_images/620209707102392320/NTIZjxXt.jpg",
-      "linkedin": "adrian-winckles-2582ab3",
+      "linkedin": "",
       "twitter": "matteo_meucci",
+      "website": "",
+      "facebook": "",
       "status": "done",
-      "facebook": ""
+      "working-sessions": ""
     }
   },
   "Mike Milner": {
@@ -2270,7 +2407,7 @@
       "funded-who": "",
       "flight-cost": "1000",
       "ticket-cost": "1500",
-      "funded-amount": "1000",
+      "funded-amount": "0",
       "required-funds": "2500",
       "project-leader": "The OWASP CBT Project",
       "chapter-leader": "",
@@ -2386,7 +2523,7 @@
   },
   "PhotoBox 10": {
     "name": "PhotoBox 10",
-    "url": "/Participants/ticket-24h-sponsor/PhotoBox-10.html",
+    "url": "/Participants/ticket-8h-sponsor/PhotoBox-10.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "PhotoBox (10th)",
@@ -2409,7 +2546,7 @@
   },
   "PhotoBox 11": {
     "name": "PhotoBox 11",
-    "url": "/Participants/ticket-24h-sponsor/PhotoBox-11.html",
+    "url": "/Participants/ticket-8h-sponsor/PhotoBox-11.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "PhotoBox (11th)",
@@ -2432,7 +2569,7 @@
   },
   "PhotoBox 12": {
     "name": "PhotoBox 12",
-    "url": "/Participants/ticket-24h-sponsor/PhotoBox-12.html",
+    "url": "/Participants/ticket-8h-sponsor/PhotoBox-12.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "PhotoBox (12th)",
@@ -2524,7 +2661,7 @@
   },
   "PhotoBox 6": {
     "name": "PhotoBox 6",
-    "url": "/Participants/ticket-24h-sponsor/PhotoBox-6.html",
+    "url": "/Participants/ticket-8h-sponsor/PhotoBox-6.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "PhotoBox (6th)",
@@ -2547,7 +2684,7 @@
   },
   "PhotoBox 7": {
     "name": "PhotoBox 7",
-    "url": "/Participants/ticket-24h-sponsor/PhotoBox-7.html",
+    "url": "/Participants/ticket-8h-sponsor/PhotoBox-7.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "PhotoBox (7th)",
@@ -2570,7 +2707,7 @@
   },
   "PhotoBox 9": {
     "name": "PhotoBox 9",
-    "url": "/Participants/ticket-24h-sponsor/PhotoBox-9.html",
+    "url": "/Participants/ticket-8h-sponsor/PhotoBox-9.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "PhotoBox (9th)",
@@ -2621,8 +2758,8 @@
       "layout": "blocks/page-participant",
       "title": "Rahul Raghavan",
       "type": "participant-remote",
-      "job-title": "",
-      "company": "",
+      "job-title": "DevSecOps Evangelist",
+      "company": "we45",
       "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkUAAAAJDk1OWE4OGJjLTEzNDAtNDc0MS1hNGZmLTlkM2Y0NTFiZTI5OQ.jpg",
       "linkedin": "torahulraghavan",
       "twiter": "",
@@ -2760,6 +2897,29 @@
       "working-sessions": ""
     }
   },
+  "Scott Treacy": {
+    "name": "Scott Treacy",
+    "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
+    "metadata": {
+      "layout": "blocks/page-participant",
+      "title": "Scott Treacy",
+      "type": "participant",
+      "job-title": "",
+      "company": "Barracuda",
+      "travel-from": "Leicester",
+      "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/17a/176/3bba468.jpg",
+      "linkedin": "scotttreacy",
+      "twiter": "",
+      "facebook": "",
+      "website": "",
+      "email": "",
+      "project-leader": "",
+      "chapter-leader": "",
+      "ticket": "5x24h",
+      "status": "empty",
+      "working-sessions": ""
+    }
+  },
   "Sebastien Deleersnyder": {
     "name": "Sebastien Deleersnyder",
     "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
@@ -2815,6 +2975,29 @@
       "image": "https://avatars3.githubusercontent.com/u/1081115",
       "linkedin": "psiinon",
       "twitter": "psiinon"
+    }
+  },
+  "Stefano Di-Paola": {
+    "name": "Stefano Di-Paola",
+    "url": "/Participants/ticket-24h/Stefano-Di-Paola.html",
+    "metadata": {
+      "layout": "blocks/page-participant",
+      "title": "Stefano Di Paola",
+      "type": "participant",
+      "job-title": "CTO & Chief Scientist",
+      "company": "MindedSecurity",
+      "travel-from": "Italy",
+      "image": "https://pbs.twimg.com/profile_images/615622625/foto_StefanoDiPaola_thumb.jpg",
+      "linkedin": "",
+      "twiter": "WisecWisec",
+      "facebook": "",
+      "website": "",
+      "email": "",
+      "project-leader": "",
+      "chapter-leader": "",
+      "ticket": "5x24h",
+      "status": "empty",
+      "working-sessions": ""
     }
   },
   "Stephen de-Vries": {
