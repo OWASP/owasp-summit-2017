@@ -16,7 +16,7 @@ Achim D-Brucker:
     project-leader: ''
     chapter-leader: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Achim Hoffmann:
   name: Achim Hoffmann
   url: /Participants/ticket-24h-owasp/Achim-Hoffmann.html
@@ -43,6 +43,7 @@ Achim Hoffmann:
     facebook: ''
     website: 'https://www.owasp.org/index.php/User:Achim'
     status: needs-image
+    working-sessions: []
 Adam Obrien:
   name: Adam Obrien
   url: /Participants/Adam-Obrien.html
@@ -64,11 +65,11 @@ Adam Obrien:
     status: empty
     working-sessions:
       - Draft SAMM2 - the "DevOps release"
-      - ' Maturity Models tool'
-      - ' Review and improve the 12 SAMM practices'
-      - ' Update SAMM model to take into account Agile and DevOps'
-      - ' GDPR and DPO AppSec implications'
-      - ' Define Agile Security Practices'
+      - Maturity Models tool
+      - Review and improve the 12 SAMM practices
+      - Update SAMM model to take into account Agile and DevOps
+      - GDPR and DPO AppSec implications
+      - Define Agile Security Practices
 Adam Shostack:
   name: Adam Shostack
   url: /Participants/ticket-24h-owasp/Adam-Shostack.html
@@ -101,7 +102,6 @@ Adam Shostack:
       - Threat Modeling General Assembly Daily Meeting
       - Scaling Threat Modeling
       - Security Champions Threat Modeling
-      - ''
 Ade Yoseman-Putra:
   name: Ade Yoseman-Putra
   url: /Participants/need-funding/Ade-Yoseman-Putra.html
@@ -122,6 +122,7 @@ Ade Yoseman-Putra:
     email: ade.putra@owasp.org
     twitter: OwaspJakarta
     status: broken-links
+    working-sessions: []
 Adrian Winckles:
   name: Adrian Winckles
   url: /Participants/funded/Adrian-Winckles.html
@@ -147,6 +148,7 @@ Adrian Winckles:
     linkedin: adrian-winckles-2582ab3
     twitter: botflowking
     status: update-content
+    working-sessions: []
 Akshay Sharma:
   name: Akshay Sharma
   url: /Participants/summit-editors/Akshay-Sharma.html
@@ -172,7 +174,7 @@ Akshay Sharma:
     chapter-leader: Bhopal
     project-leader: ''
     status: improve-bio
-    working-sessions: ''
+    working-sessions: []
 Alexander Antukh:
   name: Alexander Antukh
   url: /Participants/ticket-24h/Alexander-Antukh.html
@@ -208,6 +210,7 @@ Alexander Antukh:
       Club,Teaching Attacker perspective to Developers,Mobile Security Testing
       Guide (MSTG),Application Security Guide for CISO,CISO Round table,SAMM
       Metrics for Enterprise
+    working-sessions: []
 Amani Altarawneh:
   name: Amani Altarawneh
   url: /Participants/ticket-24h/Amani-Altarawneh.html
@@ -278,6 +281,7 @@ Ante Gulam:
     facebook: ''
     status: done
     working sessions: ''
+    working-sessions: []
 Anuruddha Hewawasam:
   name: Anuruddha Hewawasam
   url: /Participants/remote/Anuruddha-Hewawasam.html
@@ -301,13 +305,13 @@ Anuruddha Hewawasam:
       - Implications of OWASP Top 10 2017
       - Security Book Club
       - OWASP Risk Rating Management Project
-      - ' Data Behind OWASP TOP 10 2017'
-      - ' Reverse Engineering APK''s with BYTECODEVIEWER'
-      - ' OWASP Bug Bounty'
-      - ' Writing Security Tests'
-      - ' ZAP'
-      - ' Ransomeware Playbook'
-      - ' Cheat Sheets'
+      - Data Behind OWASP TOP 10 2017
+      - Reverse Engineering APK's with BYTECODEVIEWER
+      - OWASP Bug Bounty
+      - Writing Security Tests
+      - ZAP
+      - Ransomeware Playbook
+      - Cheat Sheets
 Aruna Katugampola:
   name: Aruna Katugampola
   url: /Participants/ticket-24h-sponsor/Aruna-Katugampola.html
@@ -364,25 +368,25 @@ Avi Douglen:
     status: done
     working-sessions:
       - Scaling Threat Modeling
-      - ' Threat Modeling Cheat Sheet'
-      - ' Threat Modeling Templates'
-      - ' Lightweight Threat Modeling Process'
-      - ' Threat Modeling Tools'
-      - ' Threat Model Owasp Pages'
-      - ' Threat Modeling Diagramming Techniques'
-      - ' Agile Practices for Security Teams'
-      - ' Integrating Security into a Portfolio Kanban'
-      - ' Draft SAMM2 - the "DevOps release"'
-      - ' Maturity Models tool'
-      - ' Creating AppSec Teams'
-      - ' Recruiting AppSec Talent'
-      - ' Application Security Guide for CISO'
-      - ' Writing Security Tests'
-      - ' DevSecOps vs SecDevOps'
-      - ' Threat and Vulnerability Management'
-      - ' Implications of Owasp Top 10 2017'
-      - ' Owasp Chapter Treasury'
-      - ' OWASP Chapter Leader Handbook'
+      - Threat Modeling Cheat Sheet
+      - Threat Modeling Templates
+      - Lightweight Threat Modeling Process
+      - Threat Modeling Tools
+      - Threat Model Owasp Pages
+      - Threat Modeling Diagramming Techniques
+      - Agile Practices for Security Teams
+      - Integrating Security into a Portfolio Kanban
+      - Draft SAMM2 - the "DevOps release"
+      - Maturity Models tool
+      - Creating AppSec Teams
+      - Recruiting AppSec Talent
+      - Application Security Guide for CISO
+      - Writing Security Tests
+      - DevSecOps vs SecDevOps
+      - Threat and Vulnerability Management
+      - Implications of Owasp Top 10 2017
+      - Owasp Chapter Treasury
+      - OWASP Chapter Leader Handbook
 Azzeddine Ramrami:
   name: Azzeddine Ramrami
   url: /Participants/ticket-24h-owasp/Azzeddine-Ramrami.html
@@ -410,7 +414,7 @@ Azzeddine Ramrami:
     chapter-leader: ''
     owasp-other: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Barracuda 2:
   name: Barracuda 2
   url: /Participants/ticket-24h-sponsor/Barracuda-2.html
@@ -435,7 +439,7 @@ Barracuda 2:
       please adjust the values above to your current plan (days and ticket
       duration)
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Barracuda 3:
   name: Barracuda 3
   url: /Participants/ticket-24h-sponsor/Barracuda-3.html
@@ -460,7 +464,7 @@ Barracuda 3:
       please adjust the values above to your current plan (days and ticket
       duration)
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Bernhard Mueller:
   name: Bernhard Mueller
   url: /Participants/ticket-24h-owasp/Bernhard-Mueller.html
@@ -488,7 +492,7 @@ Bernhard Mueller:
     facebook: ''
     ticket: 5x24h
     status: done
-    working-sessions: ''
+    working-sessions: []
 Bjoern Kimminich:
   name: Bjoern Kimminich
   url: /Participants/summit-editors/Bjoern-Kimminich.html
@@ -515,7 +519,7 @@ Bjoern Kimminich:
     twitter: bkimminich
     facebook: bjoern.kimminich
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Bolot Kerimbaev:
   name: Bolot Kerimbaev
   url: /Participants/ticket-24h/Bolot-Kerimbaev.html
@@ -533,7 +537,7 @@ Bolot Kerimbaev:
     funded-who: self
     status: done
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Bosko Stankovic:
   name: Bosko Stankovic
   url: /Participants/Bosko-Stankovic.html
@@ -553,7 +557,7 @@ Bosko Stankovic:
     email: ''
     ticket: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Brian Glas:
   name: Brian Glas
   url: /Participants/ticket-24h-sponsor/Brian-Glas.html
@@ -572,7 +576,7 @@ Brian Glas:
     project-leader: OwaspSAMM
     funded-who: OwaspSAMM Sponsor
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Bruce Jenkins:
   name: Bruce Jenkins
   url: /Participants/ticket-24h/Bruce-Jenkins.html
@@ -594,7 +598,7 @@ Bruce Jenkins:
     funded-who: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Capital One-3:
   name: Capital One-3
   url: /Participants/ticket-24h-sponsor/Capital-One-3.html
@@ -615,7 +619,7 @@ Capital One-3:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Capital One-4:
   name: Capital One-4
   url: /Participants/ticket-24h-sponsor/Capital-One-4.html
@@ -636,7 +640,7 @@ Capital One-4:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Capital One-5:
   name: Capital One-5
   url: /Participants/ticket-24h-sponsor/Capital-One-5.html
@@ -657,7 +661,7 @@ Capital One-5:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Capital One-7:
   name: Capital One-7
   url: /Participants/ticket-8h-sponsor/Capital-One-7.html
@@ -678,7 +682,7 @@ Capital One-7:
     chapter-leader: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Capital One-8:
   name: Capital One-8
   url: /Participants/ticket-8h-sponsor/Capital-One-8.html
@@ -699,7 +703,7 @@ Capital One-8:
     chapter-leader: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Chris Cooper:
   name: Chris Cooper
   url: /Participants/ticket-24h/Chris-Cooper.html
@@ -723,15 +727,15 @@ Chris Cooper:
     status: started
     working-sessions:
       - A10 - Underprotected APIs
-      - ' Writing Security Tests'
-      - ' Testing Guide v5'
-      - ' Creating AppSec Talent (next 100k professionals)'
-      - ' Recruiting AppSec Talent'
-      - ' Teaching Attacker perspective to Developers'
-      - ' Security Labels'
-      - ' Integrating Security into a Sales Channel'
-      - ' Define Agile Security Practices'
-      - ' JIRA Risk Workflow'
+      - Writing Security Tests
+      - Testing Guide v5
+      - Creating AppSec Talent (next 100k professionals)
+      - Recruiting AppSec Talent
+      - Teaching Attacker perspective to Developers
+      - Security Labels
+      - Integrating Security into a Sales Channel
+      - Define Agile Security Practices
+      - JIRA Risk Workflow
 Chris Wysopal:
   name: Chris Wysopal
   url: /Participants/ticket-24h/Chris-Wysopal.html
@@ -754,7 +758,7 @@ Chris Wysopal:
     when-day: 'wed,thu,fri'
     ticket: 2x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Christian DeHoyos:
   name: Christian DeHoyos
   url: /Participants/ticket-24h/Christian-DeHoyos.html
@@ -776,7 +780,7 @@ Christian DeHoyos:
     chapter-leader: ''
     ticket: 3x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Christian Martorella:
   name: Christian Martorella
   url: /Participants/Christian-Martorella.html
@@ -793,6 +797,7 @@ Christian Martorella:
     facebook: ''
     status: done
     working sessions: 'Threat Model, GDPR, Devsecops'
+    working-sessions: []
 Claudia Casanovas:
   name: Claudia Casanovas
   url: /Participants/funded/Claudia-Casanovas.html
@@ -817,6 +822,7 @@ Claudia Casanovas:
     twitter: ''
     facebook: ''
     status: empty
+    working-sessions: []
 Colin Domoney:
   name: Colin Domoney
   url: /Participants/Colin-Domoney.html
@@ -832,6 +838,7 @@ Colin Domoney:
     facebook: ''
     status: empty
     working sessions: ''
+    working-sessions: []
 Daniel Kefer:
   name: Daniel Kefer
   url: /Participants/ticket-24h-invoice/Daniel-Kefer.html
@@ -849,7 +856,7 @@ Daniel Kefer:
     website: 'https://securityrat.github.io/'
     ticket: 5x8h
     status: need-content
-    working-sessions: ''
+    working-sessions: []
 Daniel Miessler:
   name: Daniel Miessler
   url: /Participants/ticket-8h/Daniel-Miessler.html
@@ -875,7 +882,7 @@ Daniel Miessler:
     facebook: ''
     ticket: 5x8h
     status: done
-    working-sessions: ''
+    working-sessions: []
 Daniela Cruzes:
   name: Daniela Cruzes
   url: /Participants/ticket-24h/Daniela-Cruzes.html
@@ -893,11 +900,12 @@ Daniela Cruzes:
     funded-who: SINTEF
     status: done
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Danny Grander:
   name: Danny Grander
   url: /Participants/ticket-8h/Danny-Grander.html
-  metadata: {}
+  metadata:
+    working-sessions: []
 Dave Wichers:
   name: Dave Wichers
   url: /Participants/Dave-Wichers.html
@@ -914,6 +922,7 @@ Dave Wichers:
     status: done
     ticket: ''
     working sessions: ''
+    working-sessions: []
 David Campbell:
   name: David Campbell
   url: /Participants/remote/David-Campbell.html
@@ -928,7 +937,7 @@ David Campbell:
     linkedin: 'https://www.linkedin.com/in/campbelldavid'
     twiter: 'https://twitter.com/alchemydc'
     website: ''
-    working-sessions: ''
+    working-sessions: []
     status: done
 Denis Pilipchuk:
   name: Denis Pilipchuk
@@ -1030,7 +1039,7 @@ Dinis Cruz:
     website: 'http://blog.diniscruz.com'
     ticket: 5x24h
     status: done
-    working-sessions: ''
+    working-sessions: []
 Don Gibson:
   name: Don Gibson
   url: /Participants/ticket-8h/Don-Gibson.html
@@ -1093,7 +1102,7 @@ Duncan Hurwood:
     when-day: 'Mon,Tue'
     ticket: 2x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Ed Woodfall:
   name: Ed Woodfall
   url: /Participants/ticket-8h/Ed-Woodfall.html
@@ -1115,7 +1124,7 @@ Ed Woodfall:
     funded-who: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Erez Yalon:
   name: Erez Yalon
   url: /Participants/Erez-Yalon.html
@@ -1138,13 +1147,13 @@ Erez Yalon:
     status: empty
     working-sessions:
       - A7 - Insufficient Attack Protection
-      - ' Data behind Owasp Top 10 2017'
-      - ' Implications of Owasp Top 10 2017'
-      - ' Is the Owasp Top 10 Data Collection Open'
-      - ' What Should be Added to the Top 10'
-      - ' AWS Lambda Security'
+      - Data behind Owasp Top 10 2017
+      - Implications of Owasp Top 10 2017
+      - Is the Owasp Top 10 Data Collection Open
+      - What Should be Added to the Top 10
+      - AWS Lambda Security
       - Docker Security
-      - ' Benchmark Project'
+      - Benchmark Project
 Fabien Thalgott:
   name: Fabien Thalgott
   url: /Participants/ticket-24h-sponsor/Fabien-Thalgott.html
@@ -1165,7 +1174,7 @@ Fabien Thalgott:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Felipe Zipitria:
   name: Felipe Zipitria
   url: /Participants/summit-editors/Felipe-Zipitria.html
@@ -1216,6 +1225,7 @@ Francois Raynaud:
     status: need-content
     ticket: 5x24h
     working sessions: ''
+    working-sessions: []
 Fraser Scott:
   name: Fraser Scott
   url: /Participants/ticket-8h-sponsor/Fraser-Scott.html
@@ -1265,7 +1275,7 @@ Geoff Hill:
     mobile: 07 858 955 963
     status: done
     ticket: 5x8h
-    working-sessions: ''
+    working-sessions: []
 Greg Fragkos:
   name: Greg Fragkos
   url: /Participants/remote/Greg-Fragkos.html
@@ -1286,7 +1296,7 @@ Greg Fragkos:
     chapter-leader: ''
     when-day: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Hamza Alkofahi:
   name: Hamza Alkofahi
   url: /Participants/ticket-24h/Hamza-Alkofahi.html
@@ -1306,7 +1316,7 @@ Hamza Alkofahi:
     funded-who: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Hardik Parekh:
   name: Hardik Parekh
   url: /Participants/ticket-24h/Hardik-Parekh.html
@@ -1331,6 +1341,7 @@ Hardik Parekh:
     facebook: ''
     ticket: 5x24h
     status: done
+    working-sessions: []
 Helen Bravo:
   name: Helen Bravo
   url: /Participants/Helen-Bravo.html
@@ -1341,8 +1352,7 @@ Helen Bravo:
     job-title: Product Manager
     company: Checkmarx
     travel-from: Israel
-    image: >-
-      http://a4.res.cloudinary.com/allamerican/image/fetch/t_face_s270/http://speakerdata2.s3.amazonaws.com/photo/image/839226/SnowFROC2013_Bravo.jpg
+    image: 'https://speakerpedia.com/speakers/helen-bravo'
     linkedin: ''
     twiter: ''
     facebook: ''
@@ -1358,9 +1368,9 @@ Helen Bravo:
       - ELK Security Dashboards
       - Integrating Security Tools in the SDL
       - A comparison of strength and weaknesses of specific FOSS tools
-      - ' Scaling Static Analysis Reviews and Deployments'
-      - ' Securing the CI Pipeline'
-      - ' SAMM Metrics for Enterprise'
+      - Scaling Static Analysis Reviews and Deployments
+      - Securing the CI Pipeline
+      - SAMM Metrics for Enterprise
       - Threat and Vulnerability Management
       - Agile Practices for Security Teams
       - Define Agile Security Practices
@@ -1368,8 +1378,8 @@ Helen Bravo:
       - Scaling Agile Planning and Education.md
       - Evaluation/Optimization/Creation of Training Slides
       - Best practices in using SAST
-      - ' DAST'
-      - ' IAST and RASP Tools'
+      - DAST
+      - IAST and RASP Tools
 Ingo Hanke:
   name: Ingo Hanke
   url: /Participants/ticket-24h-owasp/Ingo-Hanke.html
@@ -1461,6 +1471,7 @@ James Osborn:
     image: 'https://i.imgur.com/ENb0Jz5.jpg'
     linkedin: mrjamesosborn
     facebook: sirjambo
+    working-sessions: []
 Jason Li:
   name: Jason Li
   url: /Participants/ticket-24h/Jason-Li.html
@@ -1505,7 +1516,7 @@ Jeroen Willemsen:
     twitter: commjoenie
     funded-who: sponsor
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Johan Peeters:
   name: Johan Peeters
   url: /Participants/ticket-24h/Johan-Peeters.html
@@ -1525,6 +1536,7 @@ Johan Peeters:
     status: need-content
     ticket: 5x24h
     working sessions: ''
+    working-sessions: []
 Johanna Curiel:
   name: Johanna Curiel
   url: /Participants/funded/Johanna-Curiel.html
@@ -1548,6 +1560,7 @@ Johanna Curiel:
     twitter: ''
     facebook: ''
     status: done
+    working-sessions: []
 John Fitzgerald:
   name: John Fitzgerald
   url: /Participants/ticket-8h/John-Fitzgerald.html
@@ -1571,7 +1584,7 @@ John Fitzgerald:
     status: empty
     working-sessions:
       - Education
-      - ' DevSecOps'
+      - DevSecOps
 Jonas Vanalderweireldt:
   name: Jonas Vanalderweireldt
   url: /Participants/ticket-24h-sponsor/Jonas-Vanalderweireldt.html
@@ -1589,7 +1602,7 @@ Jonas Vanalderweireldt:
     funded-who: sponsor
     ticket: 5x24h
     status: need-content
-    working-sessions: ''
+    working-sessions: []
 Josh Armour:
   name: Josh Armour
   url: /Participants/ticket-24h/Josh-Armour.html
@@ -1611,7 +1624,7 @@ Josh Armour:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Josh Grossman:
   name: Josh Grossman
   url: /Participants/remote/Josh-Grossman.html
@@ -1630,7 +1643,7 @@ Josh Grossman:
     project-leader: ''
     chapter-leader: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Juan Calderon:
   name: Juan Calderon
   url: /Participants/ticket-8h/Juan-Calderon.html
@@ -1652,7 +1665,7 @@ Juan Calderon:
     funded-who: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Kate Hartmann:
   name: Kate Hartmann
   url: /Participants/funded/Kate-Hartmann.html
@@ -1701,7 +1714,7 @@ Katy Anton:
     ticket: ''
     when-day: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Kevin Fielder:
   name: Kevin Fielder
   url: /Participants/Kevin-Fielder.html
@@ -1795,6 +1808,7 @@ Kim Carter:
     twitter: binarymist
     status: done
     role: Workshop-Admin
+    working-sessions: []
 Kuai Hinojosa:
   name: Kuai Hinojosa
   url: /Participants/need-funding/Kuai-Hinojosa.html
@@ -1819,6 +1833,7 @@ Kuai Hinojosa:
     linkedin: ''
     status: more-content
     twitter: ''
+    working-sessions: []
 Leon Juranic:
   name: Leon Juranic
   url: /Participants/Leon-Juranic.html
@@ -1838,7 +1853,7 @@ Leon Juranic:
     email: ''
     ticket: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Lisa Raynaud:
   name: Lisa Raynaud
   url: /Participants/funded/Lisa-Raynaud.html
@@ -1861,7 +1876,7 @@ Lisa Raynaud:
     chapter-leader: ''
     ticket: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Lucas Ferreira:
   name: Lucas Ferreira
   url: /Participants/need-funding/Lucas-Ferreira.html
@@ -1888,6 +1903,7 @@ Lucas Ferreira:
     facebook: ''
     website: 'https://www.owasp.org/index.php/User:Sapao'
     status: done
+    working-sessions: []
 Madhu Akula:
   name: Madhu Akula
   url: /Participants/remote/Madhu-Akula.html
@@ -1902,19 +1918,19 @@ Madhu Akula:
     website: 'https://www.madhuakula.com'
     working-sessions:
       - AppSec SOC Monitoring Visualisation
-      - ' DevSecOps vs SecDevOps'
-      - ' Agile Practices for Security Teams'
-      - ' Creating AppSec Teams'
-      - ' Crowdsourcing Security Knowledge'
-      - ' Juice Shop'
-      - ' ELK Security Dashboards'
-      - ' BDD for Cloud Security'
-      - ' Threat and Vulnerability Management'
-      - ' SRE Security Activities'
-      - ' Docker Security'
-      - ' AWS Lambda Security'
-      - ' Netflix Security Automation'
-      - ' A comparison of strength and weaknesses of specific FOSS tools'
+      - DevSecOps vs SecDevOps
+      - Agile Practices for Security Teams
+      - Creating AppSec Teams
+      - Crowdsourcing Security Knowledge
+      - Juice Shop
+      - ELK Security Dashboards
+      - BDD for Cloud Security
+      - Threat and Vulnerability Management
+      - SRE Security Activities
+      - Docker Security
+      - AWS Lambda Security
+      - Netflix Security Automation
+      - A comparison of strength and weaknesses of specific FOSS tools
 Magno Logan:
   name: Magno Logan
   url: /Participants/need-funding/Magno-Logan.html
@@ -1939,6 +1955,7 @@ Magno Logan:
     twitter: magnologan
     status: done
     role: Workshop Admin
+    working-sessions: []
 Mamta Vuppu:
   name: Mamta Vuppu
   url: /Participants/ticket-8h/Mamta-Vuppu.html
@@ -1959,7 +1976,7 @@ Mamta Vuppu:
     chapter-leader: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Marc Rimbau:
   name: Marc Rimbau
   url: /Participants/ticket-24h-invoice/Marc-Rimbau.html
@@ -1978,6 +1995,7 @@ Marc Rimbau:
     status: empty
     ticket: 5x24h
     working sessions: ''
+    working-sessions: []
 Marcelo Souza:
   name: Marcelo Souza
   url: /Participants/remote/Marcelo-Souza.html
@@ -2073,7 +2091,7 @@ Mateo Martinez:
     twitter: MateoMartinezOK
     status: done
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Matteo Meucci:
   name: Matteo Meucci
   url: /Participants/ticket-24h/Matteo-Meucci.html
@@ -2093,7 +2111,7 @@ Matteo Meucci:
     website: ''
     facebook: ''
     status: done
-    working-sessions: ''
+    working-sessions: []
 Mike Milner:
   name: Mike Milner
   url: /Participants/ticket-24h/Mike-Milner.html
@@ -2113,6 +2131,7 @@ Mike Milner:
     status: empty
     ticket: 5x24h
     working sessions: ''
+    working-sessions: []
 Mohammad Febri-Ramadlan:
   name: Mohammad Febri-Ramadlan
   url: /Participants/remote/Mohammad-Febri-Ramadlan.html
@@ -2152,7 +2171,7 @@ Nanne Baars:
     project-leader: WebGoat
     facebook: ''
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Naushad:
   name: Naushad
   url: /Participants/ticket-24h-sponsor/Naushad.html
@@ -2179,8 +2198,8 @@ Naushad:
       - Mobile Security Testing Guide (MSTG)
       - Working Sessions related to SOC
       - AppSec SOC Monitoring Visualisation
-      - ' Incident Response Playbook'
-      - ' Threat Modeling Templates'
+      - Incident Response Playbook
+      - Threat Modeling Templates
       - Creating AppSec Talent
       - Creating AppSec Teams
       - Threat Modeling Tools
@@ -2235,7 +2254,6 @@ Nikita Garia:
       - OWASP Internet of Things Project
       - Ransomware Playbook
       - Bug Bounty Playbook
-      - ''
 Nishi Kumar:
   name: Nishi Kumar
   url: /Participants/need-funding/Nishi-Kumar.html
@@ -2262,6 +2280,7 @@ Nishi Kumar:
     twitter: ''
     facebook: ''
     status: done
+    working-sessions: []
 Nuno Loureiro:
   name: Nuno Loureiro
   url: /Participants/Nuno-Loureiro.html
@@ -2280,7 +2299,7 @@ Nuno Loureiro:
     email: ''
     ticket: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Ofer Maor:
   name: Ofer Maor
   url: /Participants/remote/Ofer-Maor.html
@@ -2294,6 +2313,7 @@ Ofer Maor:
     twitter: ''
     facebook: ''
     status: empty
+    working-sessions: []
 Ohad Rabinovich:
   name: Ohad Rabinovich
   url: /Participants/Ohad-Rabinovich.html
@@ -2315,13 +2335,13 @@ Ohad Rabinovich:
     status: empty
     working-sessions:
       - A7 - Insufficient Attack Protection
-      - ' Data behind Owasp Top 10 2017'
-      - ' Implications of Owasp Top 10 2017'
-      - ' Is the Owasp Top 10 Data Collection Open'
-      - ' What Should be Added to the Top 10'
-      - ' AWS Lambda Security'
+      - Data behind Owasp Top 10 2017
+      - Implications of Owasp Top 10 2017
+      - Is the Owasp Top 10 Data Collection Open
+      - What Should be Added to the Top 10
+      - AWS Lambda Security
       - Docker Security
-      - ' Benchmark Project'
+      - Benchmark Project
 Paolo Perego:
   name: Paolo Perego
   url: /Participants/remote/Paolo-Perego.html
@@ -2336,6 +2356,7 @@ Paolo Perego:
     facebook: CodiceInsicuro
     status: done
     working sessions: ''
+    working-sessions: []
 Phil Parker:
   name: Phil Parker
   url: /Participants/Phil-Parker.html
@@ -2352,6 +2373,7 @@ Phil Parker:
     twitter: parker0phil
     role: Participant
     ticket: ''
+    working-sessions: []
 PhotoBox 10:
   name: PhotoBox 10
   url: /Participants/ticket-8h-sponsor/PhotoBox-10.html
@@ -2372,7 +2394,7 @@ PhotoBox 10:
     chapter-leader: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 PhotoBox 11:
   name: PhotoBox 11
   url: /Participants/ticket-8h-sponsor/PhotoBox-11.html
@@ -2393,7 +2415,7 @@ PhotoBox 11:
     chapter-leader: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 PhotoBox 12:
   name: PhotoBox 12
   url: /Participants/ticket-8h-sponsor/PhotoBox-12.html
@@ -2414,7 +2436,7 @@ PhotoBox 12:
     chapter-leader: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 PhotoBox 3:
   name: PhotoBox 3
   url: /Participants/ticket-24h-sponsor/PhotoBox-3.html
@@ -2435,7 +2457,7 @@ PhotoBox 3:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 PhotoBox 4:
   name: PhotoBox 4
   url: /Participants/ticket-24h-sponsor/PhotoBox-4.html
@@ -2456,7 +2478,7 @@ PhotoBox 4:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 PhotoBox 5:
   name: PhotoBox 5
   url: /Participants/ticket-24h-sponsor/PhotoBox-5.html
@@ -2477,7 +2499,7 @@ PhotoBox 5:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 PhotoBox 6:
   name: PhotoBox 6
   url: /Participants/ticket-8h-sponsor/PhotoBox-6.html
@@ -2498,7 +2520,7 @@ PhotoBox 6:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 PhotoBox 7:
   name: PhotoBox 7
   url: /Participants/ticket-8h-sponsor/PhotoBox-7.html
@@ -2519,7 +2541,7 @@ PhotoBox 7:
     chapter-leader: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 PhotoBox 9:
   name: PhotoBox 9
   url: /Participants/ticket-8h-sponsor/PhotoBox-9.html
@@ -2540,7 +2562,7 @@ PhotoBox 9:
     chapter-leader: ''
     ticket: 5x8h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Pravir Chandra:
   name: Pravir Chandra
   url: /Participants/Pravir-Chandra.html
@@ -2602,6 +2624,7 @@ Robert Hurlbut:
     twiter: roberthurlbut
     website: 'https://roberthurlbut.com'
     status: done
+    working-sessions: []
 Robert Morschel:
   name: Robert Morschel
   url: /Participants/ticket-24h/Robert-Morschel.html
@@ -2620,7 +2643,7 @@ Robert Morschel:
     website: 'http://soa-probe.com'
     status: done
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Ross Tanner:
   name: Ross Tanner
   url: /Participants/Ross-Tanner.html
@@ -2671,10 +2694,12 @@ Sam Stepanyan:
     when-days: ''
     ticket: 3x8h
     working sessions: ''
+    working-sessions: []
 Sandeep Singh:
   name: Sandeep Singh
   url: /Participants/remote/Sandeep-Singh.html
-  metadata: {}
+  metadata:
+    working-sessions: []
 Sandor Lenart:
   name: Sandor Lenart
   url: /Participants/ticket-24h/Sandor-Lenart.html
@@ -2696,7 +2721,7 @@ Sandor Lenart:
     funded-who: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Scott Treacy:
   name: Scott Treacy
   url: /Participants/ticket-24h-sponsor/Scott-Treacy.html
@@ -2718,7 +2743,7 @@ Scott Treacy:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Sebastien Deleersnyder:
   name: Sebastien Deleersnyder
   url: /Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html
@@ -2736,7 +2761,7 @@ Sebastien Deleersnyder:
     funded-who: sponsor
     ticket: 5x24h
     status: done
-    working-sessions: ''
+    working-sessions: []
 Sherif Mansour:
   name: Sherif Mansour
   url: /Participants/funded/Sherif-Mansour.html
@@ -2761,6 +2786,7 @@ Sherif Mansour:
     when-days: ''
     ticket: 3x8h
     working sessions: ''
+    working-sessions: []
 Simon Bennetts:
   name: Simon Bennetts
   url: /Participants/remote/Simon-Bennetts.html
@@ -2772,6 +2798,7 @@ Simon Bennetts:
     image: 'https://avatars3.githubusercontent.com/u/1081115'
     linkedin: psiinon
     twitter: psiinon
+    working-sessions: []
 Stefano Di-Paola:
   name: Stefano Di-Paola
   url: /Participants/ticket-24h/Stefano-Di-Paola.html
@@ -2793,7 +2820,7 @@ Stefano Di-Paola:
     chapter-leader: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Stephen de-Vries:
   name: Stephen de-Vries
   url: /Participants/ticket-24h-invoice/Stephen-de-Vries.html
@@ -2811,6 +2838,7 @@ Stephen de-Vries:
     status: empty
     ticket: 1x24h
     working sessions: ''
+    working-sessions: []
 Steve Kosten:
   name: Steve Kosten
   url: /Participants/ticket-24h/Steve-Kosten.html
@@ -2832,7 +2860,7 @@ Steve Kosten:
     funded-who: ''
     ticket: 5x24h
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Steve Lamb:
   name: Steve Lamb
   url: /Participants/remote/Steve-Lamb.html
@@ -2854,7 +2882,7 @@ Steve Lamb:
     chapter-leader: ''
     when-day: ''
     status: empty
-    working-sessions: ''
+    working-sessions: []
 Steve Springett:
   name: Steve Springett
   url: /Participants/remote/Steve-Springett.html
@@ -2870,6 +2898,7 @@ Steve Springett:
     linkedin: stevespringett
     twitter: stevespringett
     facebook: ''
+    working-sessions: []
 Steven Wierckx:
   name: Steven Wierckx
   url: /Participants/ticket-24h-sponsor/Steven-Wierckx.html
@@ -2886,7 +2915,7 @@ Steven Wierckx:
     funded-who: sponsor
     ticket: 5x24h
     status: done
-    working-sessions: ''
+    working-sessions: []
 Steven van-der-Baan:
   name: Steven van-der-Baan
   url: /Participants/funded/Steven-van-der-Baan.html
@@ -2912,6 +2941,7 @@ Steven van-der-Baan:
     twitter: vdbaan
     facebook: ''
     status: done
+    working-sessions: []
 Sven Schleier:
   name: Sven Schleier
   url: /Participants/funded/Sven-Schleier.html
@@ -2936,7 +2966,7 @@ Sven Schleier:
     linkedin: sven-schleier-98259194
     twitter: bsd_daemon
     status: done
-    working-sessions: ''
+    working-sessions: []
 Tal Argoni:
   name: Tal Argoni
   url: /Participants/remote/Tal-Argoni.html
@@ -2957,11 +2987,10 @@ Tal Argoni:
     status: empty
     working-sessions:
       - Application Security Guide for CISO
-      - ' CISO Survey'
-      - ' Owasp SAMM'
-      - ' Testing Guide v5'
-      - ' Owasp Top 10 2017'
-      - ''
+      - CISO Survey
+      - Owasp SAMM
+      - Testing Guide v5
+      - Owasp Top 10 2017
 Talal Albacha:
   name: Talal Albacha
   url: /Participants/ticket-8h/Talal-Albacha.html
@@ -2980,7 +3009,7 @@ Talal Albacha:
     funded-who: self
     when-day: Fri
     ticket: 1x8h
-    working-sessions: ''
+    working-sessions: []
 Tamer Elzayyat:
   name: Tamer Elzayyat
   url: /Participants/need-funding/Tamer-Elzayyat.html
@@ -3086,6 +3115,7 @@ Timo Pagel:
       SAMM2 - the "DevOps release", Update SAMM model to take into account Agile
       and DevOps, Docker Security, Scaling Static Analysis Reviews and
       Deployments
+    working-sessions: []
 Tom Brennan:
   name: Tom Brennan
   url: /Participants/remote/Tom-Brennan.html
@@ -3101,6 +3131,7 @@ Tom Brennan:
     facebook: ''
     status: done
     working sessions: ''
+    working-sessions: []
 Tony UV:
   name: Tony UV
   url: /Participants/ticket-24h/Tony-UV.html
@@ -3119,7 +3150,7 @@ Tony UV:
     facebook: ''
     status: need-content
     ticket: 5x24h
-    working-sessions: ''
+    working-sessions: []
 Vandana Verma:
   name: Vandana Verma
   url: /Participants/remote/Vandana-Verma.html
@@ -3195,7 +3226,7 @@ Viktor Lindstrom:
     status: empty
     working-sessions:
       - OwaspSAMM Working
-      - ' Threat Modeling'
+      - Threat Modeling
 Yan Kravchenko:
   name: Yan Kravchenko
   url: /Participants/ticket-24h/Yan-Kravchenko.html
@@ -3225,6 +3256,7 @@ Yan Kravchenko:
     website: 'https://about.me/yan.kravchenko'
     ticket: 5x24
     status: done
+    working-sessions: []
 Yarden Yerushalmi:
   name: Yarden Yerushalmi
   url: /Participants/remote/Yarden-Yerushalmi

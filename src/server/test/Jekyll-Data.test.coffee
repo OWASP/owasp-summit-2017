@@ -14,10 +14,6 @@ describe 'Jekyll_Data', ->
       @.folder_Data_Mapped .assert_Folder_Exists()
       @.folder_Participants.assert_Folder_Exists()
 
-  it 'create_Participants_Json', ->
-    using jekyll_Data, ->
-      @.create_Participants_Json()
-
   it 'map_Participant_Raw_Data', ->
     using jekyll_Data, ->
       test_Data = @.folder_Participants.files_Recursive().first().file_Contents()
@@ -25,10 +21,10 @@ describe 'Jekyll_Data', ->
         @._keys().assert_Contains ['title','type','image']
         @['working-sessions'].size().assert_Bigger_Than 4
 
-  it 'participants_Data', ->
+  it 'map_Participants_Data', ->
     using jekyll_Data, ->
       @.file_Json_Participants.file_Delete()
-      data = @.participants_Data()
+      data = @.map_Participants_Data()
       data._keys().size().add(4).assert_Is @.folder_Participants.files_Recursive().size()      # if these don't match it means that there are duplicate file names (the extra 4 are the template)
                                 .assert_Bigger_Than(100)                                       # ensure that we have at least 100 mappings
       using data['Daniel Miessler'], ->
@@ -36,3 +32,9 @@ describe 'Jekyll_Data', ->
         @.metadata.layout.assert_Is 'blocks/page-participant'
 
       @.file_Json_Participants.assert_File_Exists()
+
+
+  it 'map_Working_Sessions_Data', ->
+    using jekyll_Data, ->
+      data = @.map_Working_Sessions_Data()
+      data._keys().size().assert_Is_Bigger_Than 100

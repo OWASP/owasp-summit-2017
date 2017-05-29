@@ -16,7 +16,7 @@
       "project-leader": "",
       "chapter-leader": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Achim Hoffmann": {
@@ -44,7 +44,8 @@
       "twitter": "",
       "facebook": "",
       "website": "https://www.owasp.org/index.php/User:Achim",
-      "status": "needs-image"
+      "status": "needs-image",
+      "working-sessions": []
     }
   },
   "Adam Obrien": {
@@ -67,11 +68,11 @@
       "status": "empty",
       "working-sessions": [
         "Draft SAMM2 - the \"DevOps release\"",
-        " Maturity Models tool",
-        " Review and improve the 12 SAMM practices",
-        " Update SAMM model to take into account Agile and DevOps",
-        " GDPR and DPO AppSec implications",
-        " Define Agile Security Practices"
+        "Maturity Models tool",
+        "Review and improve the 12 SAMM practices",
+        "Update SAMM model to take into account Agile and DevOps",
+        "GDPR and DPO AppSec implications",
+        "Define Agile Security Practices"
       ]
     }
   },
@@ -106,8 +107,7 @@
         "Threat Modeling Where do I Start?",
         "Threat Modeling General Assembly Daily Meeting",
         "Scaling Threat Modeling",
-        "Security Champions Threat Modeling",
-        ""
+        "Security Champions Threat Modeling"
       ]
     }
   },
@@ -130,7 +130,8 @@
       "job-title": "Jakarta Chapter Leader",
       "email": "ade.putra@owasp.org",
       "twitter": "OwaspJakarta",
-      "status": "broken-links"
+      "status": "broken-links",
+      "working-sessions": []
     }
   },
   "Adrian Winckles": {
@@ -156,7 +157,8 @@
       "email": "Adrian.Winckles@owasp.org",
       "linkedin": "adrian-winckles-2582ab3",
       "twitter": "botflowking",
-      "status": "update-content"
+      "status": "update-content",
+      "working-sessions": []
     }
   },
   "Akshay Sharma": {
@@ -183,7 +185,7 @@
       "chapter-leader": "Bhopal",
       "project-leader": "",
       "status": "improve-bio",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Alexander Antukh": {
@@ -206,7 +208,8 @@
       "chapter-leader": "Poland",
       "ticket": "5x24h",
       "status": "done",
-      "working sessions": "Scaling Threat Modeling,Threat Modeling Cheat Sheet,Threat Modeling Templates,Threat Modeling Where do I Start?,Agile Practices for Security Teams,Define Agile Security Practices,Security Champions,Security Guild vs Security Champions,Using Security Risks to Measure Agile Practices,Securing GitHub Integrations,Securing Legacy Applications,Security Guidance and Feedback in IDE,AppSec Review and Pentest Playbook,Bug Bounty Playbook,Create Jira Workflows for Security Playbooks,Playbooks Common Format,Playbooks vs Handbooks,Security Monitoring Playbooks,Security Playbooks Diagrams,Creating AppSec Teams,Creating AppSec Talent (next 100k professionals),Security Book Club,Teaching Attacker perspective to Developers,Mobile Security Testing Guide (MSTG),Application Security Guide for CISO,CISO Round table,SAMM Metrics for Enterprise"
+      "working sessions": "Scaling Threat Modeling,Threat Modeling Cheat Sheet,Threat Modeling Templates,Threat Modeling Where do I Start?,Agile Practices for Security Teams,Define Agile Security Practices,Security Champions,Security Guild vs Security Champions,Using Security Risks to Measure Agile Practices,Securing GitHub Integrations,Securing Legacy Applications,Security Guidance and Feedback in IDE,AppSec Review and Pentest Playbook,Bug Bounty Playbook,Create Jira Workflows for Security Playbooks,Playbooks Common Format,Playbooks vs Handbooks,Security Monitoring Playbooks,Security Playbooks Diagrams,Creating AppSec Teams,Creating AppSec Talent (next 100k professionals),Security Book Club,Teaching Attacker perspective to Developers,Mobile Security Testing Guide (MSTG),Application Security Guide for CISO,CISO Round table,SAMM Metrics for Enterprise",
+      "working-sessions": []
     }
   },
   "Amani Altarawneh": {
@@ -283,7 +286,8 @@
       "twitter": "ante_gulam",
       "facebook": "",
       "status": "done",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Anuruddha Hewawasam": {
@@ -308,13 +312,13 @@
         "Implications of OWASP Top 10 2017",
         "Security Book Club",
         "OWASP Risk Rating Management Project",
-        " Data Behind OWASP TOP 10 2017",
-        " Reverse Engineering APK's with BYTECODEVIEWER",
-        " OWASP Bug Bounty",
-        " Writing Security Tests",
-        " ZAP",
-        " Ransomeware Playbook",
-        " Cheat Sheets"
+        "Data Behind OWASP TOP 10 2017",
+        "Reverse Engineering APK's with BYTECODEVIEWER",
+        "OWASP Bug Bounty",
+        "Writing Security Tests",
+        "ZAP",
+        "Ransomeware Playbook",
+        "Cheat Sheets"
       ]
     }
   },
@@ -375,25 +379,25 @@
       "status": "done",
       "working-sessions": [
         "Scaling Threat Modeling",
-        " Threat Modeling Cheat Sheet",
-        " Threat Modeling Templates",
-        " Lightweight Threat Modeling Process",
-        " Threat Modeling Tools",
-        " Threat Model Owasp Pages",
-        " Threat Modeling Diagramming Techniques",
-        " Agile Practices for Security Teams",
-        " Integrating Security into a Portfolio Kanban",
-        " Draft SAMM2 - the \"DevOps release\"",
-        " Maturity Models tool",
-        " Creating AppSec Teams",
-        " Recruiting AppSec Talent",
-        " Application Security Guide for CISO",
-        " Writing Security Tests",
-        " DevSecOps vs SecDevOps",
-        " Threat and Vulnerability Management",
-        " Implications of Owasp Top 10 2017",
-        " Owasp Chapter Treasury",
-        " OWASP Chapter Leader Handbook"
+        "Threat Modeling Cheat Sheet",
+        "Threat Modeling Templates",
+        "Lightweight Threat Modeling Process",
+        "Threat Modeling Tools",
+        "Threat Model Owasp Pages",
+        "Threat Modeling Diagramming Techniques",
+        "Agile Practices for Security Teams",
+        "Integrating Security into a Portfolio Kanban",
+        "Draft SAMM2 - the \"DevOps release\"",
+        "Maturity Models tool",
+        "Creating AppSec Teams",
+        "Recruiting AppSec Talent",
+        "Application Security Guide for CISO",
+        "Writing Security Tests",
+        "DevSecOps vs SecDevOps",
+        "Threat and Vulnerability Management",
+        "Implications of Owasp Top 10 2017",
+        "Owasp Chapter Treasury",
+        "OWASP Chapter Leader Handbook"
       ]
     }
   },
@@ -423,7 +427,7 @@
       "chapter-leader": "",
       "owasp-other": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Barracuda 2": {
@@ -448,7 +452,7 @@
       "ticket": "2x24h",
       "# Note": "please adjust the values above to your current plan (days and ticket duration)",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Barracuda 3": {
@@ -473,7 +477,7 @@
       "ticket": "3x24h",
       "# Note": "please adjust the values above to your current plan (days and ticket duration)",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Bernhard Mueller": {
@@ -502,7 +506,7 @@
       "facebook": "",
       "ticket": "5x24h",
       "status": "done",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Bjoern Kimminich": {
@@ -530,7 +534,7 @@
       "twitter": "bkimminich",
       "facebook": "bjoern.kimminich",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Bolot Kerimbaev": {
@@ -550,7 +554,7 @@
       "funded-who": "self",
       "status": "done",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Bosko Stankovic": {
@@ -571,7 +575,7 @@
       "email": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Brian Glas": {
@@ -591,7 +595,7 @@
       "project-leader": "OwaspSAMM",
       "funded-who": "OwaspSAMM Sponsor",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Bruce Jenkins": {
@@ -615,7 +619,7 @@
       "funded-who": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Capital One-3": {
@@ -638,7 +642,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Capital One-4": {
@@ -661,7 +665,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Capital One-5": {
@@ -684,7 +688,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Capital One-7": {
@@ -707,7 +711,7 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Capital One-8": {
@@ -730,7 +734,7 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Chris Cooper": {
@@ -755,15 +759,15 @@
       "status": "started",
       "working-sessions": [
         "A10 - Underprotected APIs",
-        " Writing Security Tests",
-        " Testing Guide v5",
-        " Creating AppSec Talent (next 100k professionals)",
-        " Recruiting AppSec Talent",
-        " Teaching Attacker perspective to Developers",
-        " Security Labels",
-        " Integrating Security into a Sales Channel",
-        " Define Agile Security Practices",
-        " JIRA Risk Workflow"
+        "Writing Security Tests",
+        "Testing Guide v5",
+        "Creating AppSec Talent (next 100k professionals)",
+        "Recruiting AppSec Talent",
+        "Teaching Attacker perspective to Developers",
+        "Security Labels",
+        "Integrating Security into a Sales Channel",
+        "Define Agile Security Practices",
+        "JIRA Risk Workflow"
       ]
     }
   },
@@ -789,7 +793,7 @@
       "when-day": "wed,thu,fri",
       "ticket": "2x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Christian DeHoyos": {
@@ -812,7 +816,7 @@
       "chapter-leader": "",
       "ticket": "3x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Christian Martorella": {
@@ -829,7 +833,8 @@
       "twitter": "laramies",
       "facebook": "",
       "status": "done",
-      "working sessions": "Threat Model, GDPR, Devsecops"
+      "working sessions": "Threat Model, GDPR, Devsecops",
+      "working-sessions": []
     }
   },
   "Claudia Casanovas": {
@@ -855,7 +860,8 @@
       "linkedin": "",
       "twitter": "",
       "facebook": "",
-      "status": "empty"
+      "status": "empty",
+      "working-sessions": []
     }
   },
   "Colin Domoney": {
@@ -871,7 +877,8 @@
       "twiter": "colindomoney",
       "facebook": "",
       "status": "empty",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Daniel Kefer": {
@@ -891,7 +898,7 @@
       "website": "https://securityrat.github.io/",
       "ticket": "5x8h",
       "status": "need-content",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Daniel Miessler": {
@@ -918,7 +925,7 @@
       "facebook": "",
       "ticket": "5x8h",
       "status": "done",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Daniela Cruzes": {
@@ -938,13 +945,15 @@
       "funded-who": "SINTEF",
       "status": "done",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Danny Grander": {
     "name": "Danny Grander",
     "url": "/Participants/ticket-8h/Danny-Grander.html",
-    "metadata": {}
+    "metadata": {
+      "working-sessions": []
+    }
   },
   "Dave Wichers": {
     "name": "Dave Wichers",
@@ -960,7 +969,8 @@
       "facebook": "",
       "status": "done",
       "ticket": "",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "David Campbell": {
@@ -976,7 +986,7 @@
       "linkedin": "https://www.linkedin.com/in/campbelldavid",
       "twiter": "https://twitter.com/alchemydc",
       "website": "",
-      "working-sessions": "",
+      "working-sessions": [],
       "status": "done"
     }
   },
@@ -1087,7 +1097,7 @@
       "website": "http://blog.diniscruz.com",
       "ticket": "5x24h",
       "status": "done",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Don Gibson": {
@@ -1156,7 +1166,7 @@
       "when-day": "Mon,Tue",
       "ticket": "2x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Ed Woodfall": {
@@ -1180,7 +1190,7 @@
       "funded-who": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Erez Yalon": {
@@ -1204,13 +1214,13 @@
       "status": "empty",
       "working-sessions": [
         "A7 - Insufficient Attack Protection",
-        " Data behind Owasp Top 10 2017",
-        " Implications of Owasp Top 10 2017",
-        " Is the Owasp Top 10 Data Collection Open",
-        " What Should be Added to the Top 10",
-        " AWS Lambda Security",
+        "Data behind Owasp Top 10 2017",
+        "Implications of Owasp Top 10 2017",
+        "Is the Owasp Top 10 Data Collection Open",
+        "What Should be Added to the Top 10",
+        "AWS Lambda Security",
         "Docker Security",
-        " Benchmark Project"
+        "Benchmark Project"
       ]
     }
   },
@@ -1234,7 +1244,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Felipe Zipitria": {
@@ -1287,7 +1297,8 @@
       "facebook": "",
       "status": "need-content",
       "ticket": "5x24h",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Fraser Scott": {
@@ -1340,7 +1351,7 @@
       "mobile": "07 858 955 963",
       "status": "done",
       "ticket": "5x8h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Greg Fragkos": {
@@ -1362,7 +1373,7 @@
       "chapter-leader": "",
       "when-day": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Hamza Alkofahi": {
@@ -1384,7 +1395,7 @@
       "funded-who": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Hardik Parekh": {
@@ -1410,7 +1421,8 @@
       "twitter": "",
       "facebook": "",
       "ticket": "5x24h",
-      "status": "done"
+      "status": "done",
+      "working-sessions": []
     }
   },
   "Helen Bravo": {
@@ -1423,7 +1435,7 @@
       "job-title": "Product Manager",
       "company": "Checkmarx",
       "travel-from": "Israel",
-      "image": "http://a4.res.cloudinary.com/allamerican/image/fetch/t_face_s270/http://speakerdata2.s3.amazonaws.com/photo/image/839226/SnowFROC2013_Bravo.jpg",
+      "image": "https://speakerpedia.com/speakers/helen-bravo",
       "linkedin": "",
       "twiter": "",
       "facebook": "",
@@ -1439,9 +1451,9 @@
         "ELK Security Dashboards",
         "Integrating Security Tools in the SDL",
         "A comparison of strength and weaknesses of specific FOSS tools",
-        " Scaling Static Analysis Reviews and Deployments",
-        " Securing the CI Pipeline",
-        " SAMM Metrics for Enterprise",
+        "Scaling Static Analysis Reviews and Deployments",
+        "Securing the CI Pipeline",
+        "SAMM Metrics for Enterprise",
         "Threat and Vulnerability Management",
         "Agile Practices for Security Teams",
         "Define Agile Security Practices",
@@ -1449,8 +1461,8 @@
         "Scaling Agile Planning and Education.md",
         "Evaluation/Optimization/Creation of Training Slides",
         "Best practices in using SAST",
-        " DAST",
-        " IAST and RASP Tools"
+        "DAST",
+        "IAST and RASP Tools"
       ]
     }
   },
@@ -1552,7 +1564,8 @@
       "type": "participant-remote",
       "image": "https://i.imgur.com/ENb0Jz5.jpg",
       "linkedin": "mrjamesosborn",
-      "facebook": "sirjambo"
+      "facebook": "sirjambo",
+      "working-sessions": []
     }
   },
   "Jason Li": {
@@ -1601,7 +1614,7 @@
       "twitter": "commjoenie",
       "funded-who": "sponsor",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Johan Peeters": {
@@ -1622,7 +1635,8 @@
       "website": "https://www.johanpeeters.com",
       "status": "need-content",
       "ticket": "5x24h",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Johanna Curiel": {
@@ -1647,7 +1661,8 @@
       "linkedin": "",
       "twitter": "",
       "facebook": "",
-      "status": "done"
+      "status": "done",
+      "working-sessions": []
     }
   },
   "John Fitzgerald": {
@@ -1672,7 +1687,7 @@
       "status": "empty",
       "working-sessions": [
         "Education",
-        " DevSecOps"
+        "DevSecOps"
       ]
     }
   },
@@ -1692,7 +1707,7 @@
       "funded-who": "sponsor",
       "ticket": "5x24h",
       "status": "need-content",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Josh Armour": {
@@ -1715,7 +1730,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Josh Grossman": {
@@ -1735,7 +1750,7 @@
       "project-leader": "",
       "chapter-leader": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Juan Calderon": {
@@ -1759,7 +1774,7 @@
       "funded-who": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Kate Hartmann": {
@@ -1813,7 +1828,7 @@
       "ticket": "",
       "when-day": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Kevin Fielder": {
@@ -1915,7 +1930,8 @@
       "image": "https://avatars0.githubusercontent.com/u/2862029",
       "twitter": "binarymist",
       "status": "done",
-      "role": "Workshop-Admin"
+      "role": "Workshop-Admin",
+      "working-sessions": []
     }
   },
   "Kuai Hinojosa": {
@@ -1940,7 +1956,8 @@
       "image": "https://www.owasp.org/images/thumb/0/06/Kuai_hinojosa.jpeg/200px-Kuai_hinojosa.jpeg.png",
       "linkedin": "",
       "status": "more-content",
-      "twitter": ""
+      "twitter": "",
+      "working-sessions": []
     }
   },
   "Leon Juranic": {
@@ -1961,7 +1978,7 @@
       "email": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Lisa Raynaud": {
@@ -1985,7 +2002,7 @@
       "chapter-leader": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Lucas Ferreira": {
@@ -2013,7 +2030,8 @@
       "twitter": "lucassapao",
       "facebook": "",
       "website": "https://www.owasp.org/index.php/User:Sapao",
-      "status": "done"
+      "status": "done",
+      "working-sessions": []
     }
   },
   "Madhu Akula": {
@@ -2030,19 +2048,19 @@
       "website": "https://www.madhuakula.com",
       "working-sessions": [
         "AppSec SOC Monitoring Visualisation",
-        " DevSecOps vs SecDevOps",
-        " Agile Practices for Security Teams",
-        " Creating AppSec Teams",
-        " Crowdsourcing Security Knowledge",
-        " Juice Shop",
-        " ELK Security Dashboards",
-        " BDD for Cloud Security",
-        " Threat and Vulnerability Management",
-        " SRE Security Activities",
-        " Docker Security",
-        " AWS Lambda Security",
-        " Netflix Security Automation",
-        " A comparison of strength and weaknesses of specific FOSS tools"
+        "DevSecOps vs SecDevOps",
+        "Agile Practices for Security Teams",
+        "Creating AppSec Teams",
+        "Crowdsourcing Security Knowledge",
+        "Juice Shop",
+        "ELK Security Dashboards",
+        "BDD for Cloud Security",
+        "Threat and Vulnerability Management",
+        "SRE Security Activities",
+        "Docker Security",
+        "AWS Lambda Security",
+        "Netflix Security Automation",
+        "A comparison of strength and weaknesses of specific FOSS tools"
       ]
     }
   },
@@ -2069,7 +2087,8 @@
       "linkedin": "magnologan",
       "twitter": "magnologan",
       "status": "done",
-      "role": "Workshop Admin"
+      "role": "Workshop Admin",
+      "working-sessions": []
     }
   },
   "Mamta Vuppu": {
@@ -2092,7 +2111,7 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Marc Rimbau": {
@@ -2112,7 +2131,8 @@
       "funded-who": "self",
       "status": "empty",
       "ticket": "5x24h",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Marcelo Souza": {
@@ -2217,7 +2237,7 @@
       "twitter": "MateoMartinezOK",
       "status": "done",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Matteo Meucci": {
@@ -2239,7 +2259,7 @@
       "website": "",
       "facebook": "",
       "status": "done",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Mike Milner": {
@@ -2259,7 +2279,8 @@
       "facebook": "",
       "status": "empty",
       "ticket": "5x24h",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Mohammad Febri-Ramadlan": {
@@ -2302,7 +2323,7 @@
       "project-leader": "WebGoat",
       "facebook": "",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Naushad": {
@@ -2330,8 +2351,8 @@
         "Mobile Security Testing Guide (MSTG)",
         "Working Sessions related to SOC",
         "AppSec SOC Monitoring Visualisation",
-        " Incident Response Playbook",
-        " Threat Modeling Templates",
+        "Incident Response Playbook",
+        "Threat Modeling Templates",
         "Creating AppSec Talent",
         "Creating AppSec Teams",
         "Threat Modeling Tools",
@@ -2390,8 +2411,7 @@
         "Media Handling Playbook",
         "OWASP Internet of Things Project",
         "Ransomware Playbook",
-        "Bug Bounty Playbook",
-        ""
+        "Bug Bounty Playbook"
       ]
     }
   },
@@ -2419,7 +2439,8 @@
       "linkedin": "NishiKumar",
       "twitter": "",
       "facebook": "",
-      "status": "done"
+      "status": "done",
+      "working-sessions": []
     }
   },
   "Nuno Loureiro": {
@@ -2440,7 +2461,7 @@
       "email": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Ofer Maor": {
@@ -2455,7 +2476,8 @@
       "linkedin": "",
       "twitter": "",
       "facebook": "",
-      "status": "empty"
+      "status": "empty",
+      "working-sessions": []
     }
   },
   "Ohad Rabinovich": {
@@ -2479,13 +2501,13 @@
       "status": "empty",
       "working-sessions": [
         "A7 - Insufficient Attack Protection",
-        " Data behind Owasp Top 10 2017",
-        " Implications of Owasp Top 10 2017",
-        " Is the Owasp Top 10 Data Collection Open",
-        " What Should be Added to the Top 10",
-        " AWS Lambda Security",
+        "Data behind Owasp Top 10 2017",
+        "Implications of Owasp Top 10 2017",
+        "Is the Owasp Top 10 Data Collection Open",
+        "What Should be Added to the Top 10",
+        "AWS Lambda Security",
         "Docker Security",
-        " Benchmark Project"
+        "Benchmark Project"
       ]
     }
   },
@@ -2502,7 +2524,8 @@
       "twiter": "thesp0nge",
       "facebook": "CodiceInsicuro",
       "status": "done",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Phil Parker": {
@@ -2520,7 +2543,8 @@
       "linkedin": "parkerphil",
       "twitter": "parker0phil",
       "role": "Participant",
-      "ticket": ""
+      "ticket": "",
+      "working-sessions": []
     }
   },
   "PhotoBox 10": {
@@ -2543,7 +2567,7 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "PhotoBox 11": {
@@ -2566,7 +2590,7 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "PhotoBox 12": {
@@ -2589,7 +2613,7 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "PhotoBox 3": {
@@ -2612,7 +2636,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "PhotoBox 4": {
@@ -2635,7 +2659,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "PhotoBox 5": {
@@ -2658,7 +2682,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "PhotoBox 6": {
@@ -2681,7 +2705,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "PhotoBox 7": {
@@ -2704,7 +2728,7 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "PhotoBox 9": {
@@ -2727,7 +2751,7 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Pravir Chandra": {
@@ -2794,7 +2818,8 @@
       "linkedin": "roberthurlbut",
       "twiter": "roberthurlbut",
       "website": "https://roberthurlbut.com",
-      "status": "done"
+      "status": "done",
+      "working-sessions": []
     }
   },
   "Robert Morschel": {
@@ -2814,7 +2839,7 @@
       "website": "http://soa-probe.com",
       "status": "done",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Ross Tanner": {
@@ -2867,13 +2892,16 @@
       "facebook": "",
       "when-days": "",
       "ticket": "3x8h",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Sandeep Singh": {
     "name": "Sandeep Singh",
     "url": "/Participants/remote/Sandeep-Singh.html",
-    "metadata": {}
+    "metadata": {
+      "working-sessions": []
+    }
   },
   "Sandor Lenart": {
     "name": "Sandor Lenart",
@@ -2896,7 +2924,7 @@
       "funded-who": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Scott Treacy": {
@@ -2919,7 +2947,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Sebastien Deleersnyder": {
@@ -2938,7 +2966,7 @@
       "funded-who": "sponsor",
       "ticket": "5x24h",
       "status": "done",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Sherif Mansour": {
@@ -2963,7 +2991,8 @@
       "facebook": "",
       "when-days": "",
       "ticket": "3x8h",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Simon Bennetts": {
@@ -2976,7 +3005,8 @@
       "job-title": "OWASP ZAP Project Leader",
       "image": "https://avatars3.githubusercontent.com/u/1081115",
       "linkedin": "psiinon",
-      "twitter": "psiinon"
+      "twitter": "psiinon",
+      "working-sessions": []
     }
   },
   "Stefano Di-Paola": {
@@ -2999,7 +3029,7 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Stephen de-Vries": {
@@ -3018,7 +3048,8 @@
       "facebook": "",
       "status": "empty",
       "ticket": "1x24h",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Steve Kosten": {
@@ -3042,7 +3073,7 @@
       "funded-who": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Steve Lamb": {
@@ -3064,7 +3095,7 @@
       "chapter-leader": "",
       "when-day": "",
       "status": "empty",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Steve Springett": {
@@ -3078,7 +3109,8 @@
       "image": "https://pbs.twimg.com/profile_images/842890591474274304/2q9KX0nl_400x400.jpg",
       "linkedin": "stevespringett",
       "twitter": "stevespringett",
-      "facebook": ""
+      "facebook": "",
+      "working-sessions": []
     }
   },
   "Steven Wierckx": {
@@ -3096,7 +3128,7 @@
       "funded-who": "sponsor",
       "ticket": "5x24h",
       "status": "done",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Steven van-der-Baan": {
@@ -3123,7 +3155,8 @@
       "linkedin": "vdbaan",
       "twitter": "vdbaan",
       "facebook": "",
-      "status": "done"
+      "status": "done",
+      "working-sessions": []
     }
   },
   "Sven Schleier": {
@@ -3149,7 +3182,7 @@
       "linkedin": "sven-schleier-98259194",
       "twitter": "bsd_daemon",
       "status": "done",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Tal Argoni": {
@@ -3171,11 +3204,10 @@
       "status": "empty",
       "working-sessions": [
         "Application Security Guide for CISO",
-        " CISO Survey",
-        " Owasp SAMM",
-        " Testing Guide v5",
-        " Owasp Top 10 2017",
-        ""
+        "CISO Survey",
+        "Owasp SAMM",
+        "Testing Guide v5",
+        "Owasp Top 10 2017"
       ]
     }
   },
@@ -3196,7 +3228,7 @@
       "funded-who": "self",
       "when-day": "Fri",
       "ticket": "1x8h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Tamer Elzayyat": {
@@ -3303,7 +3335,8 @@
       "image": "http://timo-pagel.de/assets/img/header-bg.jpg",
       "email": "Timo.Pagel@owasp.org",
       "ticket": "5x24",
-      "working-session": "Application Security BSc/Masters Curriculum Design, Juice Shop, Draft SAMM2 - the \"DevOps release\", Update SAMM model to take into account Agile and DevOps, Docker Security, Scaling Static Analysis Reviews and Deployments"
+      "working-session": "Application Security BSc/Masters Curriculum Design, Juice Shop, Draft SAMM2 - the \"DevOps release\", Update SAMM model to take into account Agile and DevOps, Docker Security, Scaling Static Analysis Reviews and Deployments",
+      "working-sessions": []
     }
   },
   "Tom Brennan": {
@@ -3319,7 +3352,8 @@
       "twiter": "brennantom",
       "facebook": "",
       "status": "done",
-      "working sessions": ""
+      "working sessions": "",
+      "working-sessions": []
     }
   },
   "Tony UV": {
@@ -3339,7 +3373,7 @@
       "facebook": "",
       "status": "need-content",
       "ticket": "5x24h",
-      "working-sessions": ""
+      "working-sessions": []
     }
   },
   "Vandana Verma": {
@@ -3422,7 +3456,7 @@
       "status": "empty",
       "working-sessions": [
         "OwaspSAMM Working",
-        " Threat Modeling"
+        "Threat Modeling"
       ]
     }
   },
@@ -3453,7 +3487,8 @@
       "facebook": "",
       "website": "https://about.me/yan.kravchenko",
       "ticket": "5x24",
-      "status": "done"
+      "status": "done",
+      "working-sessions": []
     }
   },
   "Yarden Yerushalmi": {

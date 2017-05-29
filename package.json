@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha --compilers coffee:coffee-script/register --recursive -R list src/server/test",
+    "test-watch": "npm test -- --watch",
     "start": "coffee src/server/main.coffee"
   },
   "author": "",
