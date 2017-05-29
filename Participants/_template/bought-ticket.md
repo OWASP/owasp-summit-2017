@@ -13,7 +13,6 @@ website         :
 email           :
 project-leader  :
 chapter-leader  :
-funded-who      :
 ticket          : 5x24h
 status          : empty
 working-sessions:

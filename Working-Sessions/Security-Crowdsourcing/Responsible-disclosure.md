@@ -1,11 +1,12 @@
 ---
-layout      : blocks/working-session
-title       : Responsible Disclosure
-type        : workshop
-status      : more-content
-track       : Security Crowdsourcing
-organizers  :
-participants:
+layout       : blocks/working-session
+title        : Responsible Disclosure
+type         : workshop
+status       : more-content
+track        : Security Crowdsourcing
+when-day     : Tue
+organizers   : Devesh Bhatt
+participants : Francois Raynaud
 ---
 
 Responsible disclosure is a great way to have multiple eyes with different methodologies test your assets.
@@ -24,10 +25,6 @@ Responsible disclosure is a great way to have multiple eyes with different metho
 
 ### Participants (invited)
 We would like to invite the following people:
-* Casey Ellis (BugCrowd Founder)
-* Frans Rosen (Renowned bounty hunter)
-
-as well as:
 
 * Leading bug bounty hunters
 * Companies with mature bug bounty programs (self managed)

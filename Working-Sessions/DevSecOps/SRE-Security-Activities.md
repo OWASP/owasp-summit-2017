@@ -23,6 +23,8 @@ participants : Don Gibson
 
 ## Who
 
+The target audience for this Working Session is:
+
  - SREs from Google
  - Companies using SRE practices
  - Companies that want to use SRE practices

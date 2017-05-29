@@ -56,6 +56,14 @@ mixin show-related-to
         | {%    endfor                          %}
     | {% endif                                  %}
 
+mixin track-schedule
+    p
+        | See &#32;
+        a(href="/schedule/tracks/{{ page.title | replace: ' ', '-'}}.html") schedule
+        | &#32; for this track
+
+
+
 | {% assign tracks_ws_ok    = site.pages | where: 'track', page.title  | where_exp: 'item' , 'item.status != "draft"'%}
 | {% assign tracks_ws_draft = site.pages | where: 'track', page.title  | where_exp: 'item' , 'item.status == "draft"'%}
 .working-session
@@ -65,6 +73,8 @@ mixin show-related-to
         + show-organizers
         br
         + show-participants
+        br
+        + track-schedule
 
         h3 Working sessions in this Track
         ul

@@ -10,7 +10,8 @@ linkedin        : talalbasha
 twitter         : talal_basha1982
 facebook        :
 funded-who      : self
-ticket          : 1x8h - Friday
+when-day        : Fri
+ticket          : 1x8h
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

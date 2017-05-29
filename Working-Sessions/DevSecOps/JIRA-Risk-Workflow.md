@@ -5,18 +5,19 @@ type         : workshop
 owasp-project: no
 track        :
 status       : draft
+when-day     : Wed
 organizers   : Dinis Cruz
-participants :
+participants : Timo Pagel
 ---
 
-This JIRA Risk Workflow can be used to manage the Risk process and ensure that business owners understand the side effects of the decision they make
+This JIRA Risk Workflow can be used to manage the Risk process and ensure that business owners understand the side effects of the decisions they make.
 
 ![](https://image.slidesharecdn.com/usingjiratomanagerisks-v1-160630164521/95/using-jira-to-manage-risks-v10-owasp-app-sec-eu-june-2016-27-638.jpg?cb=1467305140)
 
 
 ## Why
 
-This workflow needs to be presented and discussed by the community
+This workflow needs to be presented and discussed by the community.
 _(improve text)_
 
 ## What
@@ -27,7 +28,9 @@ _(improve text)_
 
 ## Who
 
-  - Securtiy tams
+The target audience for this working session is:
+
+  - Security teams
   - Security Champions
   - Risk teams
   - Dev teams

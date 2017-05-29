@@ -19,7 +19,9 @@ participants :
 
 ## What
 
-...what text...
+ - The economics of Cyber Attacks
+ - Making it expensive to attack and exploit
+ - Creating Security Strategy from Cyber Security Economics
 
 ## Who
 

@@ -7,6 +7,7 @@ track        : Research
 technology   :
 related-to   : Threat Model
 status       : review-content
+when-day     : Fri
 organizers   :
 participants : PhotoBox
 ---

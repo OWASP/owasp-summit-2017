@@ -7,8 +7,9 @@ track        : DevSecOps
 technology   :
 related-to   :
 status       : draft
+when-day     : Thu
 organizers   : Dicky Stafford
-participants : Neil Barlow,Fraser Scott
+participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud, Timo Pagel, Robert Morschel
 
 ---
 

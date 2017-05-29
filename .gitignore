@@ -6,3 +6,4 @@ _event_point_files/eventpoint_v1.1.0
 node_modules
 .jekyll-metadata
 emails.yml
+_config.yml
