@@ -7,15 +7,15 @@ organizers   : Ingo Hanke
 track        :
 status       : done
 when-day     : Wed
-participants : Akshay Sharma, Achim Hoffmann
+participants : Akshay Sharma, Achim Hoffmann,Johan Peeters
 ---
 
 Is there a future for privacy?
 
 The target of this session is to illuminate security of personal data from a strategic point of view:
 Risks, controls & measures, and future trends.
-At the end of this discussion process there could be a set of expert statements concerning now and future 
-challenges for improving the security of personal data. 
+At the end of this discussion process there could be a set of expert statements concerning now and future
+challenges for improving the security of personal data.
 This set of statements we can use for a public OWASP privacy-campaign.
 During OWASP Summit 2011 there was already a session concerning privacy (see(1)) - the widespread results of
 this workshop may serve as a basis for this session.
@@ -29,7 +29,7 @@ Questions:
 - Personal data risk assessment: Definition and categorization of assets, criticality, vulnerabilities, threat vectors, risks.
   Which work is already done, what has still to be worked out?
 - Privacy-"triage": which kinds of data are already "lost", which can still be saved?
-- Which technical solutions we will be needed in future - not what is technical possible but what is needed 
+- Which technical solutions we will be needed in future - not what is technical possible but what is needed
   from the viewpoint of individuals?
 - Which are the upcoming challenges of web application security for improving privacy / protection of personal data?
 - Who are the stakeholders of these technical developments
