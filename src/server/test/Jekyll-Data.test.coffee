@@ -28,11 +28,14 @@ describe 'Jekyll_Data', ->
       data._keys().size().add(4).assert_Is @.folder_Participants.files_Recursive().size()      # if these don't match it means that there are duplicate file names (the extra 4 are the template)
                                 .assert_Bigger_Than(100)                                       # ensure that we have at least 100 mappings
       using data['Daniel Miessler'], ->
-        #@.path.assert_File_Exists()
         @.metadata.layout.assert_Is 'blocks/page-participant'
 
       @.file_Json_Participants.assert_File_Exists()
 
+  it 'map_Tracks_Data', ->
+    using jekyll_Data, ->
+      data = @.map_Tracks_Data()
+      data._keys().size().assert_Is_12
 
   it 'map_Working_Sessions_Data', ->
     using jekyll_Data, ->

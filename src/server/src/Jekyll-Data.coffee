@@ -11,6 +11,7 @@ class Jekyll_Data
     @.folder_Working_Sessions     = @.folder_Root.path_Combine('Working-Sessions')
     @.file_Json_Participants      = @.folder_Data_Mapped.path_Combine 'participants.json'
     @.file_Yaml_Participants      = @.folder_Data_Mapped.path_Combine 'participants.yml'
+    @.file_Json_Working_Sessions  = @.folder_Data_Mapped.path_Combine 'working-sessions.json'
     @.file_Yaml_Working_Sessions  = @.folder_Data_Mapped.path_Combine 'working-sessions.yml'
 
 
@@ -51,9 +52,37 @@ class Jekyll_Data
 
 
   map_Tracks_Data: ()->
-    
+    working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()
+    data = {}
+    for track_Name, track_Data of working_Sessions_Data when track_Data.metadata.type is 'track'
+      data[track_Name] =
+        name              : track_Name
+        description       : track_Data.metadata.description
+        organizers        : track_Data.metadata.organizers
+        participants      : track_Data.metadata.participants
+        'working-sessions': []
+      for key,value of working_Sessions_Data when value.metadata.track is track_Name
+        data[track_Name]['working-sessions'].add
+          name      : value.metadata.title
+          'when-day': value.metadata['when-day']
+          status    : value.metadata.status
 
-  map_Working_Session_Raw_Data: (raw_Data)->                                              # todo: refactor this method with map_Participant_Raw_Data
+    console.log data['CISO']
+#    for file in @.folder_Working_Sessions.files_Recursive() when file.not_Contains('_template')
+#      name     = file.file_Name().remove('.md'        ).replace('-',' ')
+#      url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
+#      metadata = @.map_Track_Raw_Data file.file_Contents()
+#      data[name] =
+#        name    : name
+#        url     : url
+#        metadata: metadata
+#
+#      sorted_Data = {}
+#      for key in data._keys().sort()
+#        sorted_Data[key] = data[key]
+    data
+
+  map_Working_Session_Raw_Data: (raw_Data)->                                              # todo: refactor this method with map_Participant_Raw_Data and map_Tracks_Data
     data         = {}                                                                     # where we are going to store the mapped data
     raw_Metadata = raw_Data.after('---').before('---')                                    # get content in between ---
 
@@ -76,9 +105,13 @@ class Jekyll_Data
   map_Working_Sessions_Data: ->
     data = {}
     for file in @.folder_Working_Sessions.files_Recursive() when file.not_Contains('_template')
-      name     = file.file_Name().remove('.md'        ).replace('-',' ')
-      url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
       metadata = @.map_Working_Session_Raw_Data file.file_Contents()
+
+      #name     = file.file_Name().remove('.md'        ).replace('-',' ')
+
+      name = metadata.title || ''
+      url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
+
       data[name] =
         name    : name
         url     : url
@@ -88,8 +121,8 @@ class Jekyll_Data
       for key in data._keys().sort()
         sorted_Data[key] = data[key]
 
-    yaml.safeDump(sorted_Data).save_As @.file_Yaml_Working_Sessions       # save data as yml file (question: do we need the json file too?)
-
+    sorted_Data.save_Json              @.file_Json_Working_Sessions       # save data as json file (we need this file for the tracks calculations)
+    yaml.safeDump(sorted_Data).save_As @.file_Yaml_Working_Sessions       # save data as yml file
 
     data
 

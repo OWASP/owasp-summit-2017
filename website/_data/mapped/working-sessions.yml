@@ -1,5 +1,18 @@
-A10 Underprotected-APIs:
-  name: A10 Underprotected-APIs
+A comparison of strength and weaknesses of specific FOSS tools:
+  name: A comparison of strength and weaknesses of specific FOSS tools
+  url: /Working-Sessions/Tools/Comparison-of-FOSS-Tools.html
+  metadata:
+    layout: blocks/working-session
+    title: A comparison of strength and weaknesses of specific FOSS tools
+    type: workshop
+    track: Tools
+    status: draft
+    organizers:
+      - Steven Wierckx
+    participants: []
+    related-to: ''
+A10 - Underprotected APIs:
+  name: A10 - Underprotected APIs
   url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
   metadata:
     layout: blocks/working-session
@@ -16,8 +29,8 @@ A10 Underprotected-APIs:
       - Johanna Curiel
       - Claudia Cassanovas
     participants: []
-A7 Insufficient-Attack-Protection:
-  name: A7 Insufficient-Attack-Protection
+A7 - Insufficient Attack Protection:
+  name: A7 - Insufficient Attack Protection
   url: /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
   metadata:
     layout: blocks/working-session
@@ -33,8 +46,8 @@ A7 Insufficient-Attack-Protection:
       - Johanna Curiel
       - Claudia Cassanovas
     participants: []
-AWS Lambda-Security:
-  name: AWS Lambda-Security
+AWS Lambda Security:
+  name: AWS Lambda Security
   url: /Working-Sessions/Tools/AWS-Lambda-Security.html
   metadata:
     layout: blocks/working-session
@@ -46,8 +59,22 @@ AWS Lambda-Security:
     organizers: []
     participants:
       - Dinis Cruz
-Agile Practices-for-Security-Teams:
-  name: Agile Practices-for-Security-Teams
+Agile AppSec:
+  name: Agile AppSec
+  url: /Working-Sessions/Agile-AppSec/index.html
+  metadata:
+    layout: blocks/track
+    title: Agile AppSec
+    type: track
+    status: featured
+    organizers:
+      - David Clarke
+    description: Working Sessions for Agile related topics
+    participants:
+      - Ante Gulam
+      - Avi Douglen
+Agile Practices for Security Teams:
+  name: Agile Practices for Security Teams
   url: /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
   metadata:
     layout: blocks/working-session
@@ -67,8 +94,8 @@ Agile Practices-for-Security-Teams:
       - Irene Michlin
       - Mamta Vuppu
       - Phil Parker
-Align Developers-Guide-and-ASVS:
-  name: Align Developers-Guide-and-ASVS
+Align Developers Guide and ASVS:
+  name: Align Developers Guide and ASVS
   url: /Working-Sessions/Owasp-Projects/Align-Developers-Guide-and-ASVS.html
   metadata:
     layout: blocks/working-session
@@ -83,8 +110,8 @@ Align Developers-Guide-and-ASVS:
     organizers:
       - Steven van der Baan
     participants: []
-AppSec Article-5-Collective-Defence-Agreement:
-  name: AppSec Article-5-Collective-Defence-Agreement
+AppSec Article 5 - Collective Defence Agreement:
+  name: AppSec Article 5 - Collective Defence Agreement
   url: /Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html
   metadata:
     layout: blocks/working-session
@@ -98,8 +125,75 @@ AppSec Article-5-Collective-Defence-Agreement:
       - Dinis Cruz
       - Ante Gulam
     participants: []
-AppSec BSc-Masters-Curriculum-Design:
-  name: AppSec BSc-Masters-Curriculum-Design
+AppSec Job Fair:
+  name: AppSec Job Fair
+  url: /Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html
+  metadata:
+    layout: blocks/working-session
+    title: AppSec Job Fair
+    type: workshop
+    owasp-project: 'no'
+    track: Security Crowdsourcing
+    technology: ''
+    related-to: >-
+      Recruiting AppSec Talent,Role of Security Certification,Crowdsourcing
+      Security Knowledge
+    status: review-content
+    when-day: Evening
+    organizers: []
+    participants:
+      - Ross Tanner
+      - Francois Raynaud
+AppSec Review and Pentest Playbook:
+  name: AppSec Review and Pentest Playbook
+  url: /Working-Sessions/Security-Playbooks/AppSec-Review-and-Pentest-Playbook.html
+  metadata:
+    layout: blocks/working-session
+    title: AppSec Review and Pentest Playbook
+    type: workshop
+    track: Security Playbooks
+    technology: Pentest
+    related-to: ''
+    status: review-content
+    when-day: Wed
+    organizers: []
+    participants: []
+AppSec SOC Monitoring Visualisation:
+  name: AppSec SOC Monitoring Visualisation
+  url: /Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html
+  metadata:
+    layout: blocks/working-session
+    title: AppSec SOC Monitoring Visualisation
+    type: workshop
+    track: DevSecOps
+    technology: 'SOC,GDPR'
+    related-to: CISO
+    status: done
+    when-day: Thu
+    organizers:
+      - Mateo Martinez
+    participants:
+      - Dinis Cruz
+      - Francois Raynaud
+      - Don Gibson
+      - Robert Morschel
+AppSec for CISOs:
+  name: AppSec for CISOs
+  url: /Working-Sessions/CISO/AppSec-for-CISOs.html
+  metadata:
+    layout: blocks/working-session
+    title: AppSec for CISOs
+    type: workshop
+    owasp-project: 'no'
+    track: CISO
+    technology: ''
+    related-to: ''
+    status: draft
+    organizers:
+      - Don Gibson
+    participants: []
+Application Security BSc/Masters Curriculum Design:
+  name: Application Security BSc/Masters Curriculum Design
   url: /Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html
   metadata:
     layout: blocks/working-session
@@ -121,75 +215,8 @@ AppSec BSc-Masters-Curriculum-Design:
     participants:
       - Timo Pagel
       - Bjoern Kimminich
-AppSec Job-Fair:
-  name: AppSec Job-Fair
-  url: /Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html
-  metadata:
-    layout: blocks/working-session
-    title: AppSec Job Fair
-    type: workshop
-    owasp-project: 'no'
-    track: Security Crowdsourcing
-    technology: ''
-    related-to: >-
-      Recruiting AppSec Talent,Role of Security Certification,Crowdsourcing
-      Security Knowledge
-    status: review-content
-    when-day: Evening
-    organizers: []
-    participants:
-      - Ross Tanner
-      - Francois Raynaud
-AppSec Review-and-Pentest-Playbook:
-  name: AppSec Review-and-Pentest-Playbook
-  url: /Working-Sessions/Security-Playbooks/AppSec-Review-and-Pentest-Playbook.html
-  metadata:
-    layout: blocks/working-session
-    title: AppSec Review and Pentest Playbook
-    type: workshop
-    track: Security Playbooks
-    technology: Pentest
-    related-to: ''
-    status: review-content
-    when-day: Wed
-    organizers: []
-    participants: []
-AppSec SoC-Monitoring-Visualisation:
-  name: AppSec SoC-Monitoring-Visualisation
-  url: /Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html
-  metadata:
-    layout: blocks/working-session
-    title: AppSec SOC Monitoring Visualisation
-    type: workshop
-    track: DevSecOps
-    technology: 'SOC,GDPR'
-    related-to: CISO
-    status: done
-    when-day: Thu
-    organizers:
-      - Mateo Martinez
-    participants:
-      - Dinis Cruz
-      - Francois Raynaud
-      - Don Gibson
-      - Robert Morschel
-AppSec for-CISOs:
-  name: AppSec for-CISOs
-  url: /Working-Sessions/CISO/AppSec-for-CISOs.html
-  metadata:
-    layout: blocks/working-session
-    title: AppSec for CISOs
-    type: workshop
-    owasp-project: 'no'
-    track: CISO
-    technology: ''
-    related-to: ''
-    status: draft
-    organizers:
-      - Don Gibson
-    participants: []
-Application Security-Guide-for-CISO:
-  name: Application Security-Guide-for-CISO
+Application Security Guide for CISO:
+  name: Application Security Guide for CISO
   url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
   metadata:
     layout: blocks/working-session
@@ -209,8 +236,8 @@ Application Security-Guide-for-CISO:
       - Avi Douglen
       - Yan Kravchenko
       - Robert Morschel
-Application Security-Verification-Standard:
-  name: Application Security-Verification-Standard
+Application Security Verification Standard:
+  name: Application Security Verification Standard
   url: >-
     /Working-Sessions/Owasp-Projects/Application-Security-Verification-Standard.html
   metadata:
@@ -223,8 +250,8 @@ Application Security-Verification-Standard:
     organizers:
       - Marc Rimbau
     participants: []
-Applying Top-10-to-Standards:
-  name: Applying Top-10-to-Standards
+Applying Top 10 to Standards:
+  name: Applying Top 10 to Standards
   url: /Working-Sessions/Owasp-Top-10-2017/Applying-Top-10-to-Standards.html
   metadata:
     layout: blocks/working-session
@@ -236,8 +263,8 @@ Applying Top-10-to-Standards:
     status: draft
     organizers: []
     participants: []
-BDD for-Cloud-Security:
-  name: BDD for-Cloud-Security
+BDD for Cloud Security:
+  name: BDD for Cloud Security
   url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
   metadata:
     layout: blocks/working-session
@@ -272,8 +299,25 @@ Benchmark Project:
     organizers:
       - Dave Wichers
     participants: []
-BeyondCorp for-internal-Web-Applications:
-  name: BeyondCorp for-internal-Web-Applications
+'Best practices in using SAST, DAST, IAST and RASP Tools':
+  name: 'Best practices in using SAST, DAST, IAST and RASP Tools'
+  url: /Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html
+  metadata:
+    layout: blocks/working-session
+    title: 'Best practices in using SAST, DAST, IAST and RASP Tools'
+    type: workshop
+    track: Tools
+    technology: SAST
+    status: draft
+    organizers: []
+    participants:
+      - Marc Rimbau
+      - Felipe Zipitria
+      - Avi Douglen
+      - Timo Pagel
+    related-to: 'Integrating Security Tools in the SDL, Securing the CI Pipeline'
+BeyondCorp for internal Web Applications:
+  name: BeyondCorp for internal Web Applications
   url: /Working-Sessions/Research/BeyondCorp-for-internal-Web-Applications.html
   metadata:
     layout: blocks/working-session
@@ -286,8 +330,8 @@ BeyondCorp for-internal-Web-Applications:
     status: draft
     organizers: []
     participants: []
-Browser security:
-  name: Browser security
+Browser Security:
+  name: Browser Security
   url: /Working-Sessions/Browser-security.html
   metadata:
     layout: blocks/working-session
@@ -297,8 +341,8 @@ Browser security:
     status: draft
     organizers: []
     participants: []
-Bug Bounty-Playbook:
-  name: Bug Bounty-Playbook
+Bug Bounty Playbook:
+  name: Bug Bounty Playbook
   url: /Working-Sessions/Security-Playbooks/Bug-Bounty-Playbook.html
   metadata:
     layout: blocks/working-session
@@ -311,22 +355,24 @@ Bug Bounty-Playbook:
     when-day: Fri
     organizers: []
     participants: []
-Bytecodevierwer:
-  name: Bytecodevierwer
-  url: /Working-Sessions/Tools/Bytecodevierwer.html
+CISO:
+  name: CISO
+  url: /Working-Sessions/CISO/index.html
   metadata:
-    layout: blocks/working-session
-    title: Reverse Engineering APK's with Bytecodeviewer
-    type: workshop
-    track: Tools
-    technology: Mobile
-    when-day: Thu
-    status: done
+    layout: blocks/track
+    title: CISO
+    type: track
+    status: featured
     organizers:
-      - Johanna Curiel
-    participants: []
-CISO Round-Table:
-  name: CISO Round-Table
+      - Ante Gulam
+    description: Working Sessions for CISOs
+    participants:
+      - Dinis Cruz
+      - Mateo Martinez
+      - Yan Kravchenko
+      - Francois Raynaud
+CISO Round table:
+  name: CISO Round table
   url: /Working-Sessions/CISO/CISO-Round-Table.html
   metadata:
     layout: blocks/working-session
@@ -393,8 +439,8 @@ CTFs:
     organizers: []
     participants:
       - Bjoern Kimminich
-Cheatsheets:
-  name: Cheatsheets
+Cheat Sheets:
+  name: Cheat Sheets
   url: /Working-Sessions/Owasp-Projects/Cheatsheets.html
   metadata:
     layout: blocks/working-session
@@ -406,21 +452,8 @@ Cheatsheets:
     organizers: []
     participants:
       - Marc Rimbau
-Comparison of-FOSS-Tools:
-  name: Comparison of-FOSS-Tools
-  url: /Working-Sessions/Tools/Comparison-of-FOSS-Tools.html
-  metadata:
-    layout: blocks/working-session
-    title: A comparison of strength and weaknesses of specific FOSS tools
-    type: workshop
-    track: Tools
-    status: draft
-    organizers:
-      - Steven Wierckx
-    participants: []
-    related-to: ''
-Create CheatSheet-Writing Security-Unit-Tests:
-  name: Create CheatSheet-Writing Security-Unit-Tests
+Create CheatSheet Writing Security Unit Tests:
+  name: Create CheatSheet Writing Security Unit Tests
   url: >-
     /Working-Sessions/Owasp-Projects/Create-CheatSheet-Writing
     Security-Unit-Tests.html
@@ -435,8 +468,8 @@ Create CheatSheet-Writing Security-Unit-Tests:
     organizers:
       - Dinis Cruz
     participants: []
-Create Jira-Workflows-for-Security-Playbooks:
-  name: Create Jira-Workflows-for-Security-Playbooks
+Create Jira Workflows for Security Playbooks:
+  name: Create Jira Workflows for Security Playbooks
   url: >-
     /Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html
   metadata:
@@ -451,8 +484,8 @@ Create Jira-Workflows-for-Security-Playbooks:
     organizers: []
     participants:
       - Irene Michlin
-Creating AppSec-Talent:
-  name: Creating AppSec-Talent
+Creating AppSec Talent (next 100k professionals):
+  name: Creating AppSec Talent (next 100k professionals)
   url: /Working-Sessions/Education/Creating-AppSec-Talent.html
   metadata:
     layout: blocks/working-session
@@ -468,8 +501,8 @@ Creating AppSec-Talent:
     when-day: Tue
     participants: []
     organizers: []
-Creating AppSec-Teams:
-  name: Creating AppSec-Teams
+Creating AppSec Teams:
+  name: Creating AppSec Teams
   url: /Working-Sessions/Education/Creating-AppSec-Teams.html
   metadata:
     layout: blocks/working-session
@@ -486,8 +519,8 @@ Creating AppSec-Teams:
     participants:
       - Avi Douglen
       - Robert Morschel
-Cross Company-Hackathons:
-  name: Cross Company-Hackathons
+Cross-Company Hackathons:
+  name: Cross-Company Hackathons
   url: /Working-Sessions/Security-Crowdsourcing/Cross-Company-Hackathons.html
   metadata:
     layout: blocks/working-session
@@ -500,8 +533,8 @@ Cross Company-Hackathons:
     status: draft
     organizers: []
     participants: []
-Crowdsourcing Security-Knowledge:
-  name: Crowdsourcing Security-Knowledge
+Crowdsourcing Security Knowledge:
+  name: Crowdsourcing Security Knowledge
   url: >-
     /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
   metadata:
@@ -533,8 +566,8 @@ Cyber Insurance:
       - Yan Kravchenko
     participants:
       - Dinis Cruz
-Cyber Security-Economics:
-  name: Cyber Security-Economics
+Cyber Security Economics:
+  name: Cyber Security Economics
   url: /Working-Sessions/Education/Cyber-Security-Economics.html
   metadata:
     layout: blocks/working-session
@@ -548,8 +581,8 @@ Cyber Security-Economics:
     organizers:
       - Ante Gulam
     participants: []
-Data behind-OWASP-Top-10-2017:
-  name: Data behind-OWASP-Top-10-2017
+Data behind Owasp Top 10 2017:
+  name: Data behind Owasp Top 10 2017
   url: /Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html
   metadata:
     layout: blocks/working-session
@@ -570,8 +603,8 @@ Data behind-OWASP-Top-10-2017:
       - Brian Glas
       - Ingo Hanke
       - Francois Raynaud
-Define Agile-Security-Practices:
-  name: Define Agile-Security-Practices
+Define Agile Security Practices:
+  name: Define Agile Security Practices
   url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
   metadata:
     layout: blocks/working-session
@@ -605,8 +638,21 @@ Dependency Check:
     owasp-project: 'yes'
     when-day: Mon
     participants: []
-DevSecOps vs-SecDevOps:
-  name: DevSecOps vs-SecDevOps
+DevSecOps:
+  name: DevSecOps
+  url: /Working-Sessions/DevSecOps/index.html
+  metadata:
+    layout: blocks/track
+    title: DevSecOps
+    type: track
+    technology: ''
+    description: Working Sessions related to DevSecOps
+    organizers:
+      - Francois Raynaud
+    participants:
+      - Francois Raynaud
+DevSecOps vs SecDevOps:
+  name: DevSecOps vs SecDevOps
   url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
   metadata:
     layout: blocks/working-session
@@ -622,8 +668,8 @@ DevSecOps vs-SecDevOps:
       - Marc Rimbau
       - Felipe Zipitria
       - Avi Douglen
-Diffing and-Version-Control-Threat-Models:
-  name: Diffing and-Version-Control-Threat-Models
+Diffing and Version Control Threat Models:
+  name: Diffing and Version Control Threat Models
   url: >-
     /Working-Sessions/Threat-Model/Diffing-and-Version-Control-Threat-Models.html
   metadata:
@@ -668,8 +714,8 @@ Docker Security:
     organizers: []
     participants:
       - Timo Pagel
-Draft SAMM2-the-DevOps-release:
-  name: Draft SAMM2-the-DevOps-release
+Draft SAMM2 - the "DevOps release":
+  name: Draft SAMM2 - the "DevOps release"
   url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
   metadata:
     layout: blocks/working-session
@@ -686,8 +732,8 @@ Draft SAMM2-the-DevOps-release:
       - Mateo Martinez
       - Yan Kravchenko
       - Timo Pagel
-Due Diligence-Playbook:
-  name: Due Diligence-Playbook
+Due Diligence Playbook:
+  name: Due Diligence Playbook
   url: /Working-Sessions/Security-Playbooks/Due-Diligence-Playbook.html
   metadata:
     layout: blocks/working-session
@@ -701,8 +747,8 @@ Due Diligence-Playbook:
     organizers: []
     participants:
       - Mamta Vuppu
-ELK Security-Dashboards:
-  name: ELK Security-Dashboards
+ELK Security Dashboards:
+  name: ELK Security Dashboards
   url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
   metadata:
     layout: blocks/working-session
@@ -723,8 +769,20 @@ ELK Security-Dashboards:
       - Francois Raynaud
       - Timo Pagel
       - Robert Morschel
-Evaluation Optimization-and-Creation-of-Training-Slides:
-  name: Evaluation Optimization-and-Creation-of-Training-Slides
+Education:
+  name: Education
+  url: /Working-Sessions/Education/index.html
+  metadata:
+    layout: blocks/track
+    title: Education
+    type: track
+    technology: ''
+    description: Working Sessions related to Education
+    related-to: 'Juice Shop,NodeGoat,Owasp Student Chapters,Security Champions,Webgoat'
+    organizers: []
+    participants: []
+Evaluation/Optimization/Creation of Training Slides:
+  name: Evaluation/Optimization/Creation of Training Slides
   url: >-
     /Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html
   metadata:
@@ -743,8 +801,8 @@ Evaluation Optimization-and-Creation-of-Training-Slides:
       - Timo Pagel
     participants:
       - Bjoern Kimminich
-Future of-.Net-Containers:
-  name: Future of-.Net-Containers
+Future of .Net Containers:
+  name: Future of .Net Containers
   url: /Working-Sessions/Research/Future-of-.Net-Containers.html
   metadata:
     layout: blocks/working-session
@@ -773,8 +831,8 @@ GDPR:
       the European Union.
     organizers: []
     participants: []
-GDRP DPO-and-AppSec:
-  name: GDRP DPO-and-AppSec
+GDPR and DPO AppSec implications:
+  name: GDPR and DPO AppSec implications
   url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
   metadata:
     layout: blocks/working-session
@@ -790,8 +848,8 @@ GDRP DPO-and-AppSec:
       - Dinis Cruz
       - Francois Raynaud
       - Phil Parker
-GPG Infrastructure-for-OWASP:
-  name: GPG Infrastructure-for-OWASP
+GPG Infrastructure for OWASP:
+  name: GPG Infrastructure for OWASP
   url: /Working-Sessions/Owasp/GPG-Infrastructure-for-OWASP.html
   metadata:
     layout: blocks/working-session
@@ -804,8 +862,8 @@ GPG Infrastructure-for-OWASP:
       - Achim Hoffmann
     participants:
       - Bjoern Kimminich
-GSMA IoT-Security-Guidelines:
-  name: GSMA IoT-Security-Guidelines
+GSMA IoT Security Guidelines:
+  name: GSMA IoT Security Guidelines
   url: /Working-Sessions/IoT/GSMA-IoT-Security-Guidelines.html
   metadata:
     layout: blocks/working-session
@@ -818,23 +876,8 @@ GSMA IoT-Security-Guidelines:
     status: draft
     organizers: []
     participants: []
-Game Security-Framework:
-  name: Game Security-Framework
-  url: /Working-Sessions/Owasp-Projects/Game-Security-Framework.html
-  metadata:
-    layout: blocks/working-session
-    title: OWASP Game Security Framework
-    type: workshop
-    owasp-project: 'yes'
-    track: Owasp Projects
-    status: needs-content
-    when-day: Fri
-    organizers:
-      - Daniel Miessler
-      - Azzeddine Ramrami
-    participants: []
-GitHub OrgReboot:
-  name: GitHub OrgReboot
+GitHub Organization Reboot:
+  name: GitHub Organization Reboot
   url: /Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html
   metadata:
     layout: blocks/working-session
@@ -850,8 +893,8 @@ GitHub OrgReboot:
     organizers:
       - Bjoern Kimminich
     participants: []
-GraphQL Security-Review:
-  name: GraphQL Security-Review
+GraphQL Security Review:
+  name: GraphQL Security Review
   url: /Working-Sessions/Research/GraphQL-Security-Review.html
   metadata:
     layout: blocks/working-session
@@ -866,8 +909,8 @@ GraphQL Security-Review:
     organizers: []
     participants:
       - PhotoBox
-Growing the-AppSec-Industry:
-  name: Growing the-AppSec-Industry
+Growing the AppSec Industry:
+  name: Growing the AppSec Industry
   url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
   metadata:
     layout: blocks/working-session
@@ -882,8 +925,8 @@ Growing the-AppSec-Industry:
     organizers:
       - Yan Kravchenko
     participants: []
-Hackathon Daily-Sessions:
-  name: Hackathon Daily-Sessions
+Hackathon Daily Sessions:
+  name: Hackathon Daily Sessions
   url: /Working-Sessions/Security-Crowdsourcing/Hackathon-Daily-Sessions.html
   metadata:
     layout: blocks/working-session
@@ -898,8 +941,8 @@ Hackathon Daily-Sessions:
     organizers:
       - Leon Juranic
     participants: []
-How is-the-Top-10-Used-in-Real-World:
-  name: How is-the-Top-10-Used-in-Real-World
+How is the Top 10 Used in Real World:
+  name: How is the Top 10 Used in Real World
   url: >-
     /Working-Sessions/Owasp-Top-10-2017/How-is-the-Top-10-Used-in-Real-World.html
   metadata:
@@ -912,8 +955,8 @@ How is-the-Top-10-Used-in-Real-World:
     status: draft
     organizers: []
     participants: []
-IAM for-REST-APIs:
-  name: IAM for-REST-APIs
+IAM for REST APIs:
+  name: IAM for REST APIs
   url: /Working-Sessions/Owasp-Projects/IAM-for-REST-APIs.html
   metadata:
     layout: blocks/working-session
@@ -930,8 +973,8 @@ IAM for-REST-APIs:
       - Dinis Cruz
       - Bjoern Kimminich
       - Robert Morschel
-Implications of-Owasp-Top-10-2017:
-  name: Implications of-Owasp-Top-10-2017
+Implications of Owasp Top 10 2017:
+  name: Implications of Owasp Top 10 2017
   url: /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
   metadata:
     layout: blocks/working-session
@@ -950,8 +993,8 @@ Implications of-Owasp-Top-10-2017:
       - Felipe Zipitria
       - Mateo Martinez
       - Francois Raynaud
-Incident Response-Playbook:
-  name: Incident Response-Playbook
+Incident Response Playbook:
+  name: Incident Response Playbook
   url: /Working-Sessions/Security-Playbooks/Incident-Response-Playbook.html
   metadata:
     layout: blocks/working-session
@@ -965,8 +1008,8 @@ Incident Response-Playbook:
     organizers: []
     participants:
       - Mamta Vuppu
-Include OWASP-projects-as-resources-for-SAMM:
-  name: Include OWASP-projects-as-resources-for-SAMM
+Include OWASP projects as resources for the SAMM practices:
+  name: Include OWASP projects as resources for the SAMM practices
   url: >-
     /Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html
   metadata:
@@ -980,8 +1023,8 @@ Include OWASP-projects-as-resources-for-SAMM:
     organizers:
       - Sebastien Deleersnyder
     participants: []
-InfoSec Warranties-and-Guarantees:
-  name: InfoSec Warranties-and-Guarantees
+InfoSec Warranties and Guarantees:
+  name: InfoSec Warranties and Guarantees
   url: /Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html
   metadata:
     layout: blocks/working-session
@@ -996,8 +1039,8 @@ InfoSec Warranties-and-Guarantees:
     organizers:
       - Yan Kravchenko
     participants: []
-Integrating Security-Tools-in-SDL:
-  name: Integrating Security-Tools-in-SDL
+Integrating Security Tools in the SDL:
+  name: Integrating Security Tools in the SDL
   url: /Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html
   metadata:
     layout: blocks/working-session
@@ -1010,8 +1053,8 @@ Integrating Security-Tools-in-SDL:
     status: draft
     participants: []
     organizers: []
-Integrating Security-into-a-Portfolio-Kanban:
-  name: Integrating Security-into-a-Portfolio-Kanban
+Integrating Security into a Portfolio Kanban:
+  name: Integrating Security into a Portfolio Kanban
   url: >-
     /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
   metadata:
@@ -1030,8 +1073,8 @@ Integrating Security-into-a-Portfolio-Kanban:
       - Ante Gulam
       - Irene Michlin
       - Mamta Vuppu
-Integrating Security-into-a-Sales-Channel:
-  name: Integrating Security-into-a-Sales-Channel
+Integrating Security into a Sales Channel:
+  name: Integrating Security into a Sales Channel
   url: >-
     /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Sales-Channel.html
   metadata:
@@ -1049,8 +1092,8 @@ Integrating Security-into-a-Sales-Channel:
     participants:
       - Ante Gulam
       - Francois Raynaud
-Integrating Security-into-an-Spotify-Model:
-  name: Integrating Security-into-an-Spotify-Model
+Integrating Security into an Spotify Model:
+  name: Integrating Security into an Spotify Model
   url: >-
     /Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html
   metadata:
@@ -1067,8 +1110,8 @@ Integrating Security-into-an-Spotify-Model:
       - David Clarke
     participants:
       - Ante Gulam
-Internal Bug-Bounties-Programmes:
-  name: Internal Bug-Bounties-Programmes
+Internal Bug Bounties Programmes:
+  name: Internal Bug Bounties Programmes
   url: >-
     /Working-Sessions/Security-Crowdsourcing/Internal-Bug-Bounties-Programmes.html
   metadata:
@@ -1081,21 +1124,6 @@ Internal Bug-Bounties-Programmes:
     related-to: ''
     status: draft
     organizers: []
-    participants: []
-Internet of-Things-Project:
-  name: Internet of-Things-Project
-  url: /Working-Sessions/IoT/Internet-of-Things-Project.html
-  metadata:
-    layout: blocks/working-session
-    title: OWASP Internet of Things Project
-    type: workshop
-    owasp-project: 'yes'
-    track: Owasp Projects
-    technology: IoT
-    status: draft
-    when-day: Fri
-    organizers:
-      - Daniel Miessler
     participants: []
 IoT:
   name: IoT
@@ -1113,8 +1141,8 @@ IoT:
     organizers:
       - Daniel Miessler
     participants: []
-Is the-Owasp-Top-Data-Collection-Open:
-  name: Is the-Owasp-Top-Data-Collection-Open
+Is the Owasp Top 10 Data Collection Open:
+  name: Is the Owasp Top 10 Data Collection Open
   url: >-
     /Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html
   metadata:
@@ -1129,8 +1157,8 @@ Is the-Owasp-Top-Data-Collection-Open:
     organizers:
       - Dave Wichers
     participants: []
-JIRA Risk-Workflow:
-  name: JIRA Risk-Workflow
+JIRA Risk Workflow:
+  name: JIRA Risk Workflow
   url: /Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html
   metadata:
     layout: blocks/working-session
@@ -1178,8 +1206,8 @@ Juice Shop:
       - Ade Yoseman Putra
       - Timo Pagel
       - Francois Raynaud
-LANGSEC Language-theoretic-Security:
-  name: LANGSEC Language-theoretic-Security
+LANGSEC Language-theoretic Security:
+  name: LANGSEC Language-theoretic Security
   url: /Working-Sessions/Research/LANGSEC-Language-theoretic-Security.html
   metadata:
     layout: blocks/working-session
@@ -1192,8 +1220,8 @@ LANGSEC Language-theoretic-Security:
     status: draft
     organizers: []
     participants: []
-Lessons learned-from-public-bug-bounties-programmes:
-  name: Lessons learned-from-public-bug-bounties-programmes
+Lessons learned from public bug bounties programmes:
+  name: Lessons learned from public bug bounties programmes
   url: >-
     /Working-Sessions/Security-Crowdsourcing/Lessons-learned-from-public-bug-bounties-programmes.html
   metadata:
@@ -1207,8 +1235,8 @@ Lessons learned-from-public-bug-bounties-programmes:
     status: draft
     organizers: []
     participants: []
-Lightweight Threat-Modeling-Process:
-  name: Lightweight Threat-Modeling-Process
+Lightweight Threat Modeling Process:
+  name: Lightweight Threat Modeling Process
   url: /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
   metadata:
     layout: blocks/working-session
@@ -1226,48 +1254,8 @@ Lightweight Threat-Modeling-Process:
       - Avi Douglen
       - Stephen de Vries
       - Irene Michlin
-MSTG_01:
-  name: MSTG_01
-  url: /Working-Sessions/Mobile-Security/MSTG_01.html
-  metadata:
-    layout: blocks/working-session
-    title: MSTG Book Sprint - Mobile Operating Systems
-    type: workshop
-    track: Mobile Security
-    owasp-project: 'yes'
-    technology: Mobile
-    status: featured
-    when-day: Mon
-    description: >-
-      In this book sprint we produce content for the "Mobile Operating Systems"
-      chapter of the Mobile Security Testing Guide.
-    organizers:
-      - Bernhard Mueller
-      - Sven Schleier
-    participants:
-      - T.b.d.
-MSTG_02:
-  name: MSTG_02
-  url: /Working-Sessions/Mobile-Security/MSTG_02.html
-  metadata:
-    layout: blocks/working-session
-    title: MSTG Book Sprint - Mobile App Security Testing
-    type: workshop
-    track: Mobile Security
-    owasp-project: 'yes'
-    technology: Mobile
-    status: featured
-    when-day: Tue
-    description: >-
-      In this book sprint we produce content for the "Mobile Operating Systems"
-      chapter of the Mobile Security Testing Guide.
-    organizers:
-      - Bernhard Mueller
-      - Sven Schleier
-    participants:
-      - T.b.d.
-MSTG_03:
-  name: MSTG_03
+MSTG Book Sprint - Android Testing Guide:
+  name: MSTG Book Sprint - Android Testing Guide
   url: /Working-Sessions/Mobile-Security/MSTG_03.html
   metadata:
     layout: blocks/working-session
@@ -1286,28 +1274,48 @@ MSTG_03:
       - Sven Schleier
     participants:
       - tbd.
-MSTG_04:
-  name: MSTG_04
-  url: /Working-Sessions/Mobile-Security/MSTG_04.html
+MSTG Book Sprint - Mobile App Security Testing:
+  name: MSTG Book Sprint - Mobile App Security Testing
+  url: /Working-Sessions/Mobile-Security/MSTG_02.html
   metadata:
     layout: blocks/working-session
-    title: MSTG Book Sprint - iOS Testing Guide
+    title: MSTG Book Sprint - Mobile App Security Testing
     type: workshop
     track: Mobile Security
     owasp-project: 'yes'
     technology: Mobile
     status: featured
-    when-day: Thu
+    when-day: Tue
     description: >-
-      In this book sprint we produce content for the "iOS Testing Guide" chapter
-      of the Mobile Security Testing Guide.
+      In this book sprint we produce content for the "Mobile Operating Systems"
+      chapter of the Mobile Security Testing Guide.
     organizers:
       - Bernhard Mueller
       - Sven Schleier
     participants:
       - T.b.d.
-MSTG_05:
-  name: MSTG_05
+MSTG Book Sprint - Mobile Operating Systems:
+  name: MSTG Book Sprint - Mobile Operating Systems
+  url: /Working-Sessions/Mobile-Security/MSTG_01.html
+  metadata:
+    layout: blocks/working-session
+    title: MSTG Book Sprint - Mobile Operating Systems
+    type: workshop
+    track: Mobile Security
+    owasp-project: 'yes'
+    technology: Mobile
+    status: featured
+    when-day: Mon
+    description: >-
+      In this book sprint we produce content for the "Mobile Operating Systems"
+      chapter of the Mobile Security Testing Guide.
+    organizers:
+      - Bernhard Mueller
+      - Sven Schleier
+    participants:
+      - T.b.d.
+MSTG Book Sprint - Reverse Engineering and Cracking:
+  name: MSTG Book Sprint - Reverse Engineering and Cracking
   url: /Working-Sessions/Mobile-Security/MSTG_05.html
   metadata:
     layout: blocks/working-session
@@ -1326,8 +1334,28 @@ MSTG_05:
       - Sven Schleier
     participants:
       - T.b.d.
-Maturity Models-Tool:
-  name: Maturity Models-Tool
+MSTG Book Sprint - iOS Testing Guide:
+  name: MSTG Book Sprint - iOS Testing Guide
+  url: /Working-Sessions/Mobile-Security/MSTG_04.html
+  metadata:
+    layout: blocks/working-session
+    title: MSTG Book Sprint - iOS Testing Guide
+    type: workshop
+    track: Mobile Security
+    owasp-project: 'yes'
+    technology: Mobile
+    status: featured
+    when-day: Thu
+    description: >-
+      In this book sprint we produce content for the "iOS Testing Guide" chapter
+      of the Mobile Security Testing Guide.
+    organizers:
+      - Bernhard Mueller
+      - Sven Schleier
+    participants:
+      - T.b.d.
+Maturity Models tool:
+  name: Maturity Models tool
   url: /Working-Sessions/OwaspSAMM/Maturity-Models-Tool.html
   metadata:
     layout: blocks/working-session
@@ -1345,8 +1373,8 @@ Maturity Models-Tool:
       - Marc Rimbau
       - Yan Kravchenko
       - Irene Michlin
-Media Handling-Playbook:
-  name: Media Handling-Playbook
+Media Handling Playbook:
+  name: Media Handling Playbook
   url: /Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html
   metadata:
     layout: blocks/working-session
@@ -1370,8 +1398,28 @@ Mobile:
     description: ''
     organizers: []
     participants: []
-Mobilising Business-Lines-for-Security:
-  name: Mobilising Business-Lines-for-Security
+Mobile Security:
+  name: Mobile Security
+  url: /Working-Sessions/Mobile-Security/index.html
+  metadata:
+    layout: blocks/track
+    title: Mobile Security
+    type: track
+    technology: Mobile
+    status: featured
+    description: Working Sessions related to Mobile Security
+    organizers:
+      - Bernhard Mueller
+      - Sven Schleier
+    participants:
+      - Denis Pilipchuk
+      - Naushad
+      - Bolot Kerimbaev
+      - Jeroen Willemsen
+      - Marc Rimbau
+      - Kuai Hinojosa
+Mobilising Business Lines for Security:
+  name: Mobilising Business Lines for Security
   url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
   metadata:
     layout: blocks/working-session
@@ -1386,8 +1434,8 @@ Mobilising Business-Lines-for-Security:
       - Ante Gulam
     participants:
       - Dinis Cruz
-Netflix Resilience-Engineering:
-  name: Netflix Resilience-Engineering
+Netflix Resilience Engineering:
+  name: Netflix Resilience Engineering
   url: /Working-Sessions/DevSecOps/Netflix-Resilience-Engineering.html
   metadata:
     layout: blocks/working-session
@@ -1401,8 +1449,8 @@ Netflix Resilience-Engineering:
     participants:
       - Neil Barlow
       - Dicky Stafford
-Netflix Security-Automation:
-  name: Netflix Security-Automation
+Netflix Security Automation:
+  name: Netflix Security Automation
   url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
   metadata:
     layout: blocks/working-session
@@ -1418,8 +1466,8 @@ Netflix Security-Automation:
       - Dicky Stafford
       - Francois Raynaud
       - Timo Pagel
-New Top-10-Deserialisation-Vulnerabilities:
-  name: New Top-10-Deserialisation-Vulnerabilities
+New Top 10 - Deserialisation Vulnerabilities:
+  name: New Top 10 - Deserialisation Vulnerabilities
   url: >-
     /Working-Sessions/Owasp-Top-10-2017/New-Top-10-Deserialisation-Vulnerabilities.html
   metadata:
@@ -1433,8 +1481,8 @@ New Top-10-Deserialisation-Vulnerabilities:
     organizers:
       - Josh Grossman
     participants: []
-NextGen SecurityScanners:
-  name: NextGen SecurityScanners
+NextGen Security Scanners:
+  name: NextGen Security Scanners
   url: /Working-Sessions/Tools/NextGen-SecurityScanners.html
   metadata:
     layout: blocks/working-session
@@ -1458,8 +1506,8 @@ Node:
     description: ''
     organizers: []
     participants: []
-Node Security-Round-Table:
-  name: Node Security-Round-Table
+Node Security Round Table:
+  name: Node Security Round Table
   url: /Working-Sessions/DevSecOps/Node-Security-Round-Table.html
   metadata:
     layout: blocks/working-session
@@ -1491,8 +1539,8 @@ NodeGoat:
     organizers:
       - Kim Carter
     participants: []
-O Saft:
-  name: O Saft
+O-Saft:
+  name: O-Saft
   url: /Working-Sessions/Owasp-Projects/O-Saft.html
   metadata:
     layout: blocks/working-session
@@ -1508,8 +1556,78 @@ O Saft:
     participants:
       - Marc Rimbau
       - Ingo Hanke
-OWASP Projects-Review:
-  name: OWASP Projects-Review
+OWASP Bug Bounty:
+  name: OWASP Bug Bounty
+  url: /Working-Sessions/Security-Crowdsourcing/Owasp-Bug-Bounty.html
+  metadata:
+    layout: blocks/working-session
+    title: OWASP Bug Bounty
+    type: workshop
+    owasp-project: 'yes'
+    track: Security Crowdsourcing
+    status: more-content
+    when-day: Wed
+    organizers: []
+    participants: []
+OWASP Chapter Leader Handbook:
+  name: OWASP Chapter Leader Handbook
+  url: /Working-Sessions/Owasp/Owasp-Chapter-Handbook.html
+  metadata:
+    layout: blocks/working-session
+    title: OWASP Chapter Leader Handbook
+    type: workshop
+    track: Owasp
+    status: draft
+    when-day: ''
+    organizers:
+      - Avi Douglen
+    participants: []
+OWASP Game Security Framework:
+  name: OWASP Game Security Framework
+  url: /Working-Sessions/Owasp-Projects/Game-Security-Framework.html
+  metadata:
+    layout: blocks/working-session
+    title: OWASP Game Security Framework
+    type: workshop
+    owasp-project: 'yes'
+    track: Owasp Projects
+    status: needs-content
+    when-day: Fri
+    organizers:
+      - Daniel Miessler
+      - Azzeddine Ramrami
+    participants: []
+OWASP Internet of Things Project:
+  name: OWASP Internet of Things Project
+  url: /Working-Sessions/IoT/Internet-of-Things-Project.html
+  metadata:
+    layout: blocks/working-session
+    title: OWASP Internet of Things Project
+    type: workshop
+    owasp-project: 'yes'
+    track: Owasp Projects
+    technology: IoT
+    status: draft
+    when-day: Fri
+    organizers:
+      - Daniel Miessler
+    participants: []
+OWASP Proactive Controls:
+  name: OWASP Proactive Controls
+  url: /Working-Sessions/Owasp-Projects/Proactive-Controls.html
+  metadata:
+    layout: blocks/working-session
+    title: OWASP Proactive Controls
+    type: workshop
+    track: Owasp Projects
+    technology: ''
+    related-to: ''
+    status: draft
+    organizers:
+      - Katy Anton
+    participants: []
+OWASP Projects Reviews:
+  name: OWASP Projects Reviews
   url: /Working-Sessions/Owasp-Projects/OWASP-Projects-Review.html
   metadata:
     layout: blocks/working-session
@@ -1522,8 +1640,49 @@ OWASP Projects-Review:
       - Claudia Casanovas
       - Johanna Curiel
     participants: []
-Orizon Reboot:
-  name: Orizon Reboot
+OWASP Risk Rating Management Project:
+  name: OWASP Risk Rating Management Project
+  url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
+  metadata:
+    layout: blocks/working-session
+    title: OWASP Risk Rating Management Project
+    type: workshop
+    track: Owasp Projects
+    status: done
+    when-day: Tue
+    organizers:
+      - Ade Yoseman Putra
+    participants:
+      - Marc Rimbau
+Owasp Chapter Treasury:
+  name: Owasp Chapter Treasury
+  url: /Working-Sessions/Owasp/Owasp-Chapter-Treasury.html
+  metadata:
+    layout: blocks/working-session
+    title: Owasp Chapter Treasury
+    type: workshop
+    organizers:
+      - Ingo Hanke
+    track: Owasp
+    status: done
+    when-day: Thu
+    participants: []
+Owasp Latam Region:
+  name: Owasp Latam Region
+  url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
+  metadata:
+    layout: blocks/working-session
+    title: Owasp Latam Region
+    type: workshop
+    owasp-project: 'yes'
+    track: Owasp
+    status: more-content
+    when-day: Thu
+    organizers:
+      - Mateo Martinez
+    participants: []
+Owasp Orizon Reboot:
+  name: Owasp Orizon Reboot
   url: /Working-Sessions/Owasp-Projects/Orizon-Reboot.html
   metadata:
     layout: blocks/working-session
@@ -1537,61 +1696,21 @@ Orizon Reboot:
     organizers:
       - Paolo Perego
     participants: []
-Owasp Bug-Bounty:
-  name: Owasp Bug-Bounty
-  url: /Working-Sessions/Security-Crowdsourcing/Owasp-Bug-Bounty.html
+Owasp Projects:
+  name: Owasp Projects
+  url: /Working-Sessions/Owasp-Projects/index.html
   metadata:
-    layout: blocks/working-session
-    title: OWASP Bug Bounty
-    type: workshop
-    owasp-project: 'yes'
-    track: Security Crowdsourcing
-    status: more-content
-    when-day: Wed
-    organizers: []
-    participants: []
-Owasp Chapter-Handbook:
-  name: Owasp Chapter-Handbook
-  url: /Working-Sessions/Owasp/Owasp-Chapter-Handbook.html
-  metadata:
-    layout: blocks/working-session
-    title: OWASP Chapter Leader Handbook
-    type: workshop
-    track: Owasp
-    status: draft
-    when-day: ''
+    layout: blocks/track
+    title: Owasp Projects
+    type: track
+    status: featured
     organizers:
-      - Avi Douglen
+      - Claudia Casanovas
+      - Johanna Curiel
+    description: Working Sessions focused on Owasp Projects
     participants: []
-Owasp Chapter-Treasury:
-  name: Owasp Chapter-Treasury
-  url: /Working-Sessions/Owasp/Owasp-Chapter-Treasury.html
-  metadata:
-    layout: blocks/working-session
-    title: Owasp Chapter Treasury
-    type: workshop
-    organizers:
-      - Ingo Hanke
-    track: Owasp
-    status: done
-    when-day: Thu
-    participants: []
-Owasp Latam-Region:
-  name: Owasp Latam-Region
-  url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
-  metadata:
-    layout: blocks/working-session
-    title: Owasp Latam Region
-    type: workshop
-    owasp-project: 'yes'
-    track: Owasp
-    status: more-content
-    when-day: Thu
-    organizers:
-      - Mateo Martinez
-    participants: []
-Owasp Student-Chapters:
-  name: Owasp Student-Chapters
+Owasp Student Chapters:
+  name: Owasp Student Chapters
   url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
   metadata:
     layout: blocks/working-session
@@ -1604,8 +1723,27 @@ Owasp Student-Chapters:
     organizers:
       - Mateo Martinez
     participants: []
-Owasp Website:
-  name: Owasp Website
+Owasp Top 10 2017:
+  name: Owasp Top 10 2017
+  url: /Working-Sessions/Owasp-Top-10-2017/index.html
+  metadata:
+    layout: blocks/track
+    title: Owasp Top 10 2017
+    type: track
+    technology: ''
+    description: >-
+      Owasp Top 2017 RC1 is out and the Summit is the location to debate it and
+      agree on the final list
+    organizers:
+      - Dave Wichers
+    participants:
+      - Bjoern Kimminich
+      - Marc Rimbau
+      - Brian Glas
+      - Felipe Zipitria
+      - Mateo Martinez
+Owasp-Website:
+  name: Owasp-Website
   url: /Working-Sessions/Owasp/Owasp-Website.html
   metadata:
     layout: blocks/working-session
@@ -1615,8 +1753,26 @@ Owasp Website:
     status: draft
     organizers: []
     participants: []
-Playbooks Common-Format:
-  name: Playbooks Common-Format
+OwaspSAMM:
+  name: OwaspSAMM
+  url: /Working-Sessions/OwaspSAMM/index.html
+  metadata:
+    layout: blocks/track
+    title: OwaspSAMM
+    type: track
+    owasp-project: 'yes'
+    description: Working Sessions related to the Owasp SAMM Project
+    status: done
+    organizers:
+      - Sebastien Deleersnyder
+    participants:
+      - Dinis Cruz
+      - Mateo Martinez
+      - Brian Glas
+      - Avi Douglen
+      - Yan Kravchenko
+Playbooks Common Format:
+  name: Playbooks Common Format
   url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
   metadata:
     layout: blocks/working-session
@@ -1630,8 +1786,8 @@ Playbooks Common-Format:
     organizers: []
     participants:
       - Yan Kravchenko
-Playbooks vs-Handbooks:
-  name: Playbooks vs-Handbooks
+Playbooks vs Handbooks:
+  name: Playbooks vs Handbooks
   url: /Working-Sessions/Security-Playbooks/Playbooks-vs-Handbooks.html
   metadata:
     layout: blocks/working-session
@@ -1644,22 +1800,8 @@ Playbooks vs-Handbooks:
     when-day: Mon
     organizers: []
     participants: []
-Proactive Controls:
-  name: Proactive Controls
-  url: /Working-Sessions/Owasp-Projects/Proactive-Controls.html
-  metadata:
-    layout: blocks/working-session
-    title: OWASP Proactive Controls
-    type: workshop
-    track: Owasp Projects
-    technology: ''
-    related-to: ''
-    status: draft
-    organizers:
-      - Katy Anton
-    participants: []
-Protobuf for-Data-Validation-Between-Services:
-  name: Protobuf for-Data-Validation-Between-Services
+Protobuf for Data Validation Between Services:
+  name: Protobuf for Data Validation Between Services
   url: >-
     /Working-Sessions/Research/Protobuf-for-Data-Validation-Between-Services.html
   metadata:
@@ -1700,8 +1842,8 @@ Ransomware Playbook:
     when-day: Fri
     organizers: []
     participants: []
-Recommending ESAPI-in-Top-10:
-  name: Recommending ESAPI-in-Top-10
+Recommending ESAPI in Top 10:
+  name: Recommending ESAPI in Top 10
   url: /Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html
   metadata:
     layout: blocks/working-session
@@ -1715,8 +1857,8 @@ Recommending ESAPI-in-Top-10:
     organizers:
       - Dave Wichers
     participants: []
-Recruiting AppSec-Talent:
-  name: Recruiting AppSec-Talent
+Recruiting AppSec Talent:
+  name: Recruiting AppSec Talent
   url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
   metadata:
     layout: blocks/working-session
@@ -1730,8 +1872,20 @@ Recruiting AppSec-Talent:
     participants: []
     organizers:
       - Avi Douglen
-Responsible disclosure:
-  name: Responsible disclosure
+Research:
+  name: Research
+  url: /Working-Sessions/Research/index.html
+  metadata:
+    layout: blocks/track
+    title: Research
+    type: track
+    technology: ''
+    description: Working Sessions related to multiple Research topics
+    related-to: ''
+    organizers: []
+    participants: []
+Responsible Disclosure:
+  name: Responsible Disclosure
   url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
   metadata:
     layout: blocks/working-session
@@ -1744,8 +1898,22 @@ Responsible disclosure:
       - Devesh Bhatt
     participants:
       - Francois Raynaud
-Review improve-12-SAMM-practices:
-  name: Review improve-12-SAMM-practices
+Reverse Engineering APK's with Bytecodeviewer:
+  name: Reverse Engineering APK's with Bytecodeviewer
+  url: /Working-Sessions/Tools/Bytecodevierwer.html
+  metadata:
+    layout: blocks/working-session
+    title: Reverse Engineering APK's with Bytecodeviewer
+    type: workshop
+    track: Tools
+    technology: Mobile
+    when-day: Thu
+    status: done
+    organizers:
+      - Johanna Curiel
+    participants: []
+Review and improve the 12 SAMM practices:
+  name: Review and improve the 12 SAMM practices
   url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
   metadata:
     layout: blocks/working-session
@@ -1761,22 +1929,8 @@ Review improve-12-SAMM-practices:
       - Yan Kravchenko
       - Robert Morschel
       - Irene Michlin
-Risk Rating-Management:
-  name: Risk Rating-Management
-  url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
-  metadata:
-    layout: blocks/working-session
-    title: OWASP Risk Rating Management Project
-    type: workshop
-    track: Owasp Projects
-    status: done
-    when-day: Tue
-    organizers:
-      - Ade Yoseman Putra
-    participants:
-      - Marc Rimbau
-Role of-Security-Certifications:
-  name: Role of-Security-Certifications
+Role of Security Certification:
+  name: Role of Security Certification
   url: /Working-Sessions/Education/Role-of-Security-Certifications.html
   metadata:
     layout: blocks/working-session
@@ -1789,8 +1943,8 @@ Role of-Security-Certifications:
     status: draft
     organizers: []
     participants: []
-SAMM Metrics-for-Enterprise:
-  name: SAMM Metrics-for-Enterprise
+SAMM Metrics for Enterprise:
+  name: SAMM Metrics for Enterprise
   url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
   metadata:
     layout: blocks/working-session
@@ -1834,8 +1988,8 @@ SOC:
       capabilities.
     organizers: []
     participants: []
-SRE Security-Activities:
-  name: SRE Security-Activities
+SRE Security Activities:
+  name: SRE Security Activities
   url: /Working-Sessions/DevSecOps/SRE-Security-Activities.html
   metadata:
     layout: blocks/working-session
@@ -1849,25 +2003,8 @@ SRE Security-Activities:
     organizers: []
     participants:
       - Don Gibson
-Sast Dast-Iast-Rasp:
-  name: Sast Dast-Iast-Rasp
-  url: /Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html
-  metadata:
-    layout: blocks/working-session
-    title: 'Best practices in using SAST, DAST, IAST and RASP Tools'
-    type: workshop
-    track: Tools
-    technology: SAST
-    status: draft
-    organizers: []
-    participants:
-      - Marc Rimbau
-      - Felipe Zipitria
-      - Avi Douglen
-      - Timo Pagel
-    related-to: 'Integrating Security Tools in the SDL, Securing the CI Pipeline'
-Scaling Agile-Planning-and-Education:
-  name: Scaling Agile-Planning-and-Education
+Scaling Agile Planning and Education.md:
+  name: Scaling Agile Planning and Education.md
   url: /Working-Sessions/Agile-AppSec/Scaling-Agile-Planning-and-Education.html
   metadata:
     layout: blocks/working-session
@@ -1882,8 +2019,8 @@ Scaling Agile-Planning-and-Education:
       - David Clarke
     participants:
       - Ante Gulam
-Scaling Static-Analysis-Reviews-and-Deployments:
-  name: Scaling Static-Analysis-Reviews-and-Deployments
+Scaling Static Analysis Reviews and Deployments:
+  name: Scaling Static Analysis Reviews and Deployments
   url: /Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html
   metadata:
     layout: blocks/working-session
@@ -1899,25 +2036,8 @@ Scaling Static-Analysis-Reviews-and-Deployments:
       - Avi Douglen
       - Robert Morschel
     organizers: []
-Scaling Threat-Modeling:
-  name: Scaling Threat-Modeling
-  url: /Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html
-  metadata:
-    layout: blocks/working-session
-    title: Threat Modeling Scaling
-    type: workshop
-    track: Threat Model
-    technology: ''
-    related-to: ''
-    status: review-content
-    when-day: Wed
-    organizers: []
-    participants:
-      - Robert Hurlbut
-      - Irene Michlin
-      - Mamta Vuppu
-Securing GitHub-Integrations:
-  name: Securing GitHub-Integrations
+Securing GitHub Integrations:
+  name: Securing GitHub Integrations
   url: /Working-Sessions/DevSecOps/Securing-GitHub-Integrations.html
   metadata:
     layout: blocks/working-session
@@ -1930,8 +2050,8 @@ Securing GitHub-Integrations:
       - Danny Grander
     participants:
       - Francois Raynaud
-Securing Legacy-Applications:
-  name: Securing Legacy-Applications
+Securing Legacy Applications:
+  name: Securing Legacy Applications
   url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
   metadata:
     layout: blocks/working-session
@@ -1949,8 +2069,8 @@ Securing Legacy-Applications:
       - Don Gibson
       - Bjoern Kimminich
       - Irene Michlin
-Securing the-CI-Pipeline:
-  name: Securing the-CI-Pipeline
+Securing the CI Pipeline:
+  name: Securing the CI Pipeline
   url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
   metadata:
     layout: blocks/working-session
@@ -1964,8 +2084,8 @@ Securing the-CI-Pipeline:
     participants: []
     organizers:
       - Felipe Zipitria
-Security Architecture-Recommendations-for-IoT:
-  name: Security Architecture-Recommendations-for-IoT
+Security Architecture Recommendations for IoT:
+  name: Security Architecture Recommendations for IoT
   url: /Working-Sessions/IoT/Security-Architecture-Recommendations-for-IoT.html
   metadata:
     layout: blocks/working-session
@@ -1976,8 +2096,8 @@ Security Architecture-Recommendations-for-IoT:
     status: draft
     organizers: []
     participants: []
-Security Book-Club:
-  name: Security Book-Club
+Security Book Club:
+  name: Security Book Club
   url: /Working-Sessions/Education/Security-Book-Club.html
   metadata:
     layout: blocks/working-session
@@ -2007,8 +2127,20 @@ Security Champions:
     organizers: []
     participants:
       - Francois Raynaud
-Security Crowdsourcing-the-SDL-Practices:
-  name: Security Crowdsourcing-the-SDL-Practices
+Security Crowdsourcing:
+  name: Security Crowdsourcing
+  url: /Working-Sessions/Security-Crowdsourcing/index.html
+  metadata:
+    layout: blocks/track
+    title: Security Crowdsourcing
+    type: track
+    status: ''
+    organizers:
+      - Ante Gulam
+    description: Working Sessions for Security Crowdsourcing
+    participants: []
+Security Crowdsourcing the SDL Practices:
+  name: Security Crowdsourcing the SDL Practices
   url: >-
     /Working-Sessions/Security-Crowdsourcing/Security-Crowdsourcing-the-SDL-Practices.html
   metadata:
@@ -2022,8 +2154,8 @@ Security Crowdsourcing-the-SDL-Practices:
     status: draft
     organizers: []
     participants: []
-Security Guidance-and-Feedback-in-IDE:
-  name: Security Guidance-and-Feedback-in-IDE
+Security Guidance and Feedback in IDE:
+  name: Security Guidance and Feedback in IDE
   url: /Working-Sessions/DevSecOps/Security-Guidance-and-Feedback-in-IDE.html
   metadata:
     layout: blocks/working-session
@@ -2037,8 +2169,8 @@ Security Guidance-and-Feedback-in-IDE:
     when-day: Wed
     participants: []
     organizers: []
-Security Guild-vs-Security-Champions:
-  name: Security Guild-vs-Security-Champions
+Security Guild vs Security Champions:
+  name: Security Guild vs Security Champions
   url: /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
   metadata:
     layout: blocks/working-session
@@ -2058,8 +2190,8 @@ Security Guild-vs-Security-Champions:
       - Bjoern Kimminich
       - Duncan Hurwood
       - Robert Morschel
-Security Knowledge-Framework:
-  name: Security Knowledge-Framework
+Security Knowledge Framework:
+  name: Security Knowledge Framework
   url: /Working-Sessions/Owasp-Projects/Security-Knowledge-Framework.html
   metadata:
     layout: blocks/working-session
@@ -2086,8 +2218,8 @@ Security Labels:
     organizers: []
     participants:
       - Dinis Cruz
-Security Monitoring-Playbooks:
-  name: Security Monitoring-Playbooks
+Security Monitoring Playbooks:
+  name: Security Monitoring Playbooks
   url: /Working-Sessions/Security-Playbooks/Security-Monitoring-Playbooks.html
   metadata:
     layout: blocks/working-session
@@ -2100,8 +2232,22 @@ Security Monitoring-Playbooks:
     when-day: Wed
     organizers: []
     participants: []
-Security Playbooks-Diagrams:
-  name: Security Playbooks-Diagrams
+Security Playbooks:
+  name: Security Playbooks
+  url: /Working-Sessions/Security-Playbooks/index.html
+  metadata:
+    layout: blocks/track
+    title: Security Playbooks
+    type: track
+    technology: ''
+    description: >-
+      Playbooks are workflows and prescriptive instructions on how to handle
+      specific Security activities or incidents.
+    organizers: []
+    participants:
+      - Yan Kravchenko
+Security Playbooks Diagrams:
+  name: Security Playbooks Diagrams
   url: /Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html
   metadata:
     layout: blocks/working-session
@@ -2114,8 +2260,8 @@ Security Playbooks-Diagrams:
     when-day: Mon
     organizers: []
     participants: []
-Security Review-pure-Javascript-Applications:
-  name: Security Review-pure-Javascript-Applications
+Security-Review-pure-Javascript-Applications:
+  name: Security-Review-pure-Javascript-Applications
   url: /Working-Sessions/Security-Review-pure-Javascript-Applications.html
   metadata:
     layout: blocks/working-session
@@ -2128,8 +2274,8 @@ Security Review-pure-Javascript-Applications:
     status: draft
     organizers: []
     participants: []
-Sign Ceremony-for-Owasp-Top-10-2017:
-  name: Sign Ceremony-for-Owasp-Top-10-2017
+Sign Ceremony for Owasp Top 10 2017:
+  name: Sign Ceremony for Owasp Top 10 2017
   url: /Working-Sessions/Owasp-Top-10-2017/Sign-Ceremony-for-Owasp-Top-10-2017.html
   metadata:
     layout: blocks/working-session
@@ -2144,8 +2290,8 @@ Sign Ceremony-for-Owasp-Top-10-2017:
     organizers:
       - Dave Wichers
     participants: []
-Software Defined-Everything-(SDx):
-  name: Software Defined-Everything-(SDx)
+Software Defined Everything (SDx):
+  name: Software Defined Everything (SDx)
   url: /Working-Sessions/Education/Software-Defined-Everything-(SDx).html
   metadata:
     layout: blocks/working-session
@@ -2157,8 +2303,8 @@ Software Defined-Everything-(SDx):
     organizers:
       - Adrian Winckles
     participants: []
-Synchronize Multiple-Owasp-Top-10s:
-  name: Synchronize Multiple-Owasp-Top-10s
+Synchronize Multiple Owasp Top 10s:
+  name: Synchronize Multiple Owasp Top 10s
   url: /Working-Sessions/Owasp-Top-10-2017/Synchronize-Multiple-Owasp-Top-10s.html
   metadata:
     layout: blocks/working-session
@@ -2184,8 +2330,8 @@ TLS:
       that provide communications security over a computer network
     organizers: []
     participants: []
-TLS for-Local-IoT:
-  name: TLS for-Local-IoT
+TLS for Local IoT:
+  name: TLS for Local IoT
   url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
   metadata:
     layout: blocks/working-session
@@ -2199,8 +2345,8 @@ TLS for-Local-IoT:
       - Kevin Sheldrake
     participants:
       - Francois Raynaud
-Teaching Attacker-Perspective-to-Developers:
-  name: Teaching Attacker-Perspective-to-Developers
+Teaching Attacker perspective to Developers:
+  name: Teaching Attacker perspective to Developers
   url: /Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html
   metadata:
     layout: blocks/working-session
@@ -2217,8 +2363,8 @@ Teaching Attacker-Perspective-to-Developers:
     participants:
       - Robert Morschel
       - Timo Pagel
-Testing Guide-v5:
-  name: Testing Guide-v5
+Testing Guide v5:
+  name: Testing Guide v5
   url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
   metadata:
     layout: blocks/working-session
@@ -2240,8 +2386,8 @@ Testing Guide-v5:
       - Matteo Meucci
     participants:
       - Mateo Martinez
-The future-of-privacy:
-  name: The future-of-privacy
+The Future of Privacy:
+  name: The Future of Privacy
   url: /Working-Sessions/The-future-of-privacy.html
   metadata:
     layout: blocks/working-session
@@ -2256,41 +2402,33 @@ The future-of-privacy:
     participants:
       - Akshay Sharma
       - Achim Hoffmann
-Threat Model-Daily-Meeting:
-  name: Threat Model-Daily-Meeting
-  url: /Working-Sessions/Threat-Model/Logistics/Threat-Model-Daily-Meeting.html
+Threat Model:
+  name: Threat Model
+  url: /Working-Sessions/Threat-Model/index.html
   metadata:
-    layout: blocks/working-session
-    title: Threat Modeling General Assembly Daily Meeting
-    '#type': workshop
-    track: Threat Model
-    status: more-details
-    participants: []
-    organizers: []
-Threat Model-Owasp-Pages:
-  name: Threat Model-Owasp-Pages
-  url: /Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html
-  metadata:
-    layout: blocks/working-session
-    title: Threat Modeling OWASP Pages
-    type: workshop
-    track: Threat Model
-    related-to: 'Cheat Sheets, Templates, Tools'
-    description: >-
-      OWASP Threat Modeling Pages provide global AppSec professionals and
-      companies worldwide with a central reference point to OWASP project,
-      tools, and references that are related to Application Threat Modeling.
-      These pages will provide as a gateway for threat modelers to leverage
-      OWASP threat modeling content as well as other OWASP content and tools
-      that support application threat modeling objectives.
-    status: improve-content
-    when-day: Wed
+    layout: blocks/track
+    title: Threat Model
+    type: track
+    status: featured
+    description: Working Sessions related to Threat Modeling Security
     organizers:
       - Tony UV
+      - Steven Wierckx
     participants:
+      - Robert Hurlbut
+      - Stephen de Vries
+      - Adam Shostack
+      - Marco Morana
+      - Sebastien Deleersnyder
+      - Francois Raynaud
+      - Marc Rimbau
+      - Dinis Cruz
+      - Robert Morschel
       - Avi Douglen
-Threat Modeling-Cheat-Sheet:
-  name: Threat Modeling-Cheat-Sheet
+      - Irene Michlin
+      - Geoff Hill
+Threat Modeling Cheat Sheet & Lightweight Threat Modeling:
+  name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
   metadata:
     layout: blocks/working-session
@@ -2315,8 +2453,8 @@ Threat Modeling-Cheat-Sheet:
       - Irene Michlin
       - Robert Morschel
       - Stephen de Vries
-Threat Modeling-Cloud-Migrations:
-  name: Threat Modeling-Cloud-Migrations
+Threat Modeling Cloud Migrations:
+  name: Threat Modeling Cloud Migrations
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Cloud-Migrations.html
   metadata:
     layout: blocks/working-session
@@ -2331,8 +2469,8 @@ Threat Modeling-Cloud-Migrations:
     organizers:
       - Don Gibson
     participants: []
-Threat Modeling-Diagramming-Techniques:
-  name: Threat Modeling-Diagramming-Techniques
+Threat Modeling Diagramming Techniques:
+  name: Threat Modeling Diagramming Techniques
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html
   metadata:
     layout: blocks/working-session
@@ -2346,8 +2484,8 @@ Threat Modeling-Diagramming-Techniques:
     when-day: Mon
     organizers: []
     participants: []
-Threat Modeling-IoT-Devices:
-  name: Threat Modeling-IoT-Devices
+Threat Modeling IoT Devices:
+  name: Threat Modeling IoT Devices
   url: /Working-Sessions/Threat-Model/Threat-Modeling-IoT-Devices.html
   metadata:
     layout: blocks/working-session
@@ -2360,8 +2498,47 @@ Threat Modeling-IoT-Devices:
     when-day: Thu
     organizers: []
     participants: []
-Threat Modeling-Schema:
-  name: Threat Modeling-Schema
+Threat Modeling OWASP Pages:
+  name: Threat Modeling OWASP Pages
+  url: /Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html
+  metadata:
+    layout: blocks/working-session
+    title: Threat Modeling OWASP Pages
+    type: workshop
+    track: Threat Model
+    related-to: 'Cheat Sheets, Templates, Tools'
+    description: >-
+      OWASP Threat Modeling Pages provide global AppSec professionals and
+      companies worldwide with a central reference point to OWASP project,
+      tools, and references that are related to Application Threat Modeling.
+      These pages will provide as a gateway for threat modelers to leverage
+      OWASP threat modeling content as well as other OWASP content and tools
+      that support application threat modeling objectives.
+    status: improve-content
+    when-day: Wed
+    organizers:
+      - Tony UV
+    participants:
+      - Avi Douglen
+Threat Modeling Scaling:
+  name: Threat Modeling Scaling
+  url: /Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html
+  metadata:
+    layout: blocks/working-session
+    title: Threat Modeling Scaling
+    type: workshop
+    track: Threat Model
+    technology: ''
+    related-to: ''
+    status: review-content
+    when-day: Wed
+    organizers: []
+    participants:
+      - Robert Hurlbut
+      - Irene Michlin
+      - Mamta Vuppu
+Threat Modeling Schema:
+  name: Threat Modeling Schema
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Schema.html
   metadata:
     layout: blocks/working-session
@@ -2372,8 +2549,8 @@ Threat Modeling-Schema:
     when-day: Mon
     organizers: []
     participants: []
-Threat Modeling-Templates:
-  name: Threat Modeling-Templates
+Threat Modeling Templates:
+  name: Threat Modeling Templates
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
   metadata:
     layout: blocks/working-session
@@ -2399,8 +2576,8 @@ Threat Modeling-Templates:
       - Irene Michlin
       - Stephen de Vries
       - Robert Morschel
-Threat Modeling-Tools:
-  name: Threat Modeling-Tools
+Threat Modeling Tools:
+  name: Threat Modeling Tools
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
   metadata:
     layout: blocks/working-session
@@ -2419,8 +2596,8 @@ Threat Modeling-Tools:
       - Robert Morschel
       - Mamta Vuppu
       - Stephen de Vries
-Threat Modeling-Where-do-I-Start:
-  name: Threat Modeling-Where-do-I-Start
+Threat Modeling Where do I Start?:
+  name: Threat Modeling Where do I Start?
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
   metadata:
     layout: blocks/working-session
@@ -2437,8 +2614,8 @@ Threat Modeling-Where-do-I-Start:
       - Robert Hurlbut
       - Irene Michlin
       - Mamta Vuppu
-Threat Modeling-by-Feature-and-Layer:
-  name: Threat Modeling-by-Feature-and-Layer
+Threat Modeling by Feature and Layer:
+  name: Threat Modeling by Feature and Layer
   url: /Working-Sessions/Threat-Model/Threat-Modeling-by-Feature-and-Layer.html
   metadata:
     layout: blocks/working-session
@@ -2451,8 +2628,8 @@ Threat Modeling-by-Feature-and-Layer:
     when-day: Thu
     organizers: []
     participants: []
-Threat Modeling-pure-Javascript-Applications:
-  name: Threat Modeling-pure-Javascript-Applications
+Threat Modeling pure Javascript Applications:
+  name: Threat Modeling pure Javascript Applications
   url: >-
     /Working-Sessions/Threat-Model/Threat-Modeling-pure-Javascript-Applications.html
   metadata:
@@ -2466,8 +2643,8 @@ Threat Modeling-pure-Javascript-Applications:
     status: draft
     organizers: []
     participants: []
-Threat Vuln-Management:
-  name: Threat Vuln-Management
+Threat and Vulnerability Management:
+  name: Threat and Vulnerability Management
   url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
   metadata:
     layout: blocks/working-session
@@ -2487,8 +2664,8 @@ Threat Vuln-Management:
       - Irene Michlin
       - Robert Morschel
       - Timo Pagel
-Top 10-Selection-Criteria:
-  name: Top 10-Selection-Criteria
+Top 10 Selection Criteria:
+  name: Top 10 Selection Criteria
   url: /Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html
   metadata:
     layout: blocks/working-session
@@ -2503,8 +2680,8 @@ Top 10-Selection-Criteria:
       - Dave Wichers
       - Josh Grossman
     participants: []
-Top 10-merge-with-Proactive-Controls:
-  name: Top 10-merge-with-Proactive-Controls
+Top 10 merge with Proactive Controls:
+  name: Top 10 merge with Proactive Controls
   url: >-
     /Working-Sessions/Owasp-Top-10-2017/Top-10-merge-with-Proactive-Controls.html
   metadata:
@@ -2517,8 +2694,8 @@ Top 10-merge-with-Proactive-Controls:
     status: draft
     organizers: []
     participants: []
-Update SAMM-model-to-Agile-DevOps:
-  name: Update SAMM-model-to-Agile-DevOps
+Update SAMM model to take into account Agile and DevOps:
+  name: Update SAMM model to take into account Agile and DevOps
   url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
   metadata:
     layout: blocks/working-session
@@ -2535,8 +2712,8 @@ Update SAMM-model-to-Agile-DevOps:
       - Felipe Zipitria
       - Timo Pagel
       - Adam O'Brien
-Use Threat-Models-to-Lock-Developers-Briefs:
-  name: Use Threat-Models-to-Lock-Developers-Briefs
+Use Threat Models to Lock Developers Briefs:
+  name: Use Threat Models to Lock Developers Briefs
   url: >-
     /Working-Sessions/Threat-Model/Use-Threat-Models-to-Lock-Developers-Briefs.html
   metadata:
@@ -2550,8 +2727,8 @@ Use Threat-Models-to-Lock-Developers-Briefs:
     status: draft
     organizers: []
     participants: []
-Using Holacracy-in-Working-Sessions:
-  name: Using Holacracy-in-Working-Sessions
+Using Holacracy in Working Sessions:
+  name: Using Holacracy in Working Sessions
   url: /Working-Sessions/Using-Holacracy-in-Working-Sessions.html
   metadata:
     layout: blocks/working-session
@@ -2564,8 +2741,8 @@ Using Holacracy-in-Working-Sessions:
     status: improve-content
     organizers: []
     participants: []
-Using JIRA-and-Confluence-to-Store-Threat-Model-Data:
-  name: Using JIRA-and-Confluence-to-Store-Threat-Model-Data
+Using JIRA and Confluence to Store Threat Model Data:
+  name: Using JIRA and Confluence to Store Threat Model Data
   url: >-
     /Working-Sessions/Threat-Model/Using-JIRA-and-Confluence-to-Store-Threat-Model-Data.html
   metadata:
@@ -2580,8 +2757,8 @@ Using JIRA-and-Confluence-to-Store-Threat-Model-Data:
     when-day: Wed
     organizers: []
     participants: []
-Using ML-and-AI-to-detect-attacks:
-  name: Using ML-and-AI-to-detect-attacks
+Using ML and AI to detect Attacks:
+  name: Using ML and AI to detect Attacks
   url: /Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html
   metadata:
     layout: blocks/working-session
@@ -2594,8 +2771,8 @@ Using ML-and-AI-to-detect-attacks:
       - Talal Albacha
     when-day: Friday
     participants: []
-Using Security-Risks-to-Measure-Agile-Practices:
-  name: Using Security-Risks-to-Measure-Agile-Practices
+Using Security Risks to Measure Agile Practices:
+  name: Using Security Risks to Measure Agile Practices
   url: >-
     /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
   metadata:
@@ -2614,8 +2791,25 @@ Using Security-Risks-to-Measure-Agile-Practices:
       - Ante Gulam
       - Irene Michlin
       - Mamta Vuppu
-WebGoat:
-  name: WebGoat
+Visit Bletchley Park:
+  name: Visit Bletchley Park
+  url: /Working-Sessions/Education/visit-Bletchley-Park.html
+  metadata:
+    layout: blocks/working-session
+    title: Visit Bletchley Park
+    type: workshop
+    owasp-project: 'no'
+    track: ''
+    technology: ''
+    related-to: ''
+    status: review-content
+    when-day: Fri
+    organizers:
+      - Johan Peeters (1 extra space in car)
+    participants:
+      - Dinis Cruz
+Webgoat:
+  name: Webgoat
   url: /Working-Sessions/Owasp-Projects/WebGoat.html
   metadata:
     layout: blocks/working-session
@@ -2628,8 +2822,8 @@ WebGoat:
     organizers:
       - Nanne Baars
     participants: []
-What Should-be-Added-to-the-Top-10:
-  name: What Should-be-Added-to-the-Top-10
+What Should be Added to the Top 10:
+  name: What Should be Added to the Top 10
   url: /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
   metadata:
     layout: blocks/working-session
@@ -2643,8 +2837,8 @@ What Should-be-Added-to-the-Top-10:
     organizers: []
     participants:
       - Katy Anton
-Women in-Cyber:
-  name: Women in-Cyber
+Women in Cyber:
+  name: Women in Cyber
   url: /Working-Sessions/Women-in-Cyber.html
   metadata:
     layout: blocks/working-session
@@ -2661,8 +2855,17 @@ Women in-Cyber:
       - ade yoseman putra
       - Francois Raynaud
       - Lisa Raynaud
-Writing Security-Tests:
-  name: Writing Security-Tests
+Working Sessions:
+  name: Working Sessions
+  url: /Working-Sessions/index.html
+  metadata:
+    layout: blocks/page-component
+    component: blocks/all-ws.html
+    title: Working Sessions
+    participants: []
+    organizers: []
+Writing Security Tests:
+  name: Writing Security Tests
   url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
   metadata:
     layout: blocks/working-session
@@ -2697,44 +2900,3 @@ ZAP:
     participants:
       - Marc Rimbau
       - Mateo Martinez
-_index:
-  name: _index
-  url: /Working-Sessions/Owasp-Projects/_index.html
-  metadata:
-    layout: blocks/working-session
-    title: Owasp Projects
-    '#type': track
-    description: >-
-      The Summit will contain a number of Working-Sessions focused on OWASP
-      Projects
-    '#status': done
-    organizers:
-      - Claudia Casanovas
-      - Johanna Curiel
-    participants: []
-index:
-  name: index
-  url: /Working-Sessions/index.html
-  metadata:
-    layout: blocks/page-component
-    component: blocks/all-ws.html
-    title: Working Sessions
-    participants: []
-    organizers: []
-visit Bletchley-Park:
-  name: visit Bletchley-Park
-  url: /Working-Sessions/Education/visit-Bletchley-Park.html
-  metadata:
-    layout: blocks/working-session
-    title: Visit Bletchley Park
-    type: workshop
-    owasp-project: 'no'
-    track: ''
-    technology: ''
-    related-to: ''
-    status: review-content
-    when-day: Fri
-    organizers:
-      - Johan Peeters (1 extra space in car)
-    participants:
-      - Dinis Cruz
