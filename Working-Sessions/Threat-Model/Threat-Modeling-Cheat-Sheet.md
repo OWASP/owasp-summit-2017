@@ -15,7 +15,7 @@ participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin, Robert Mors
 > [OWASP Threat Modeling Cheat Sheet](https://www.owasp.org/index.php/Threat_Modeling_Cheat_Sheet)
 > The objective of this cheat sheet is to provide guidance to developers, reviewers, designers and architects on conducting successful
 > threat modeling. The main goal of threat modeling is to understand the controls needed for a software system. This is a complex
-> endeavor that will involve investigations into:
+> endeavor that could involve investigations into:
 
     - The trust boundaries to and within the solution that we build
     - The actors that interact within and outside of the trust boundaries
@@ -28,7 +28,9 @@ participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin, Robert Mors
 
 ### Why
 
-Threat modeling still needs great adoption into current SDLC methodologies. Many development groups strive to apply threat modeling efforts under tight development windows.  The threat cheat sheet modeling cheat sheet aims to provide prescriptive guidance on scoping, application component enumeration, threat modeling activities, and key deliverables.  This workshop will also provide prescriptive tools, techniques that can be used to conduct various types of threats models that are both agnostic to various threats and platforms, as well as specific to certain types of threats.  
+Threat modeling still needs great adoption into current SDLC methodologies. Many development groups strive to apply threat modeling efforts under tight development windows.  The threat cheat sheet modeling cheat sheet aims to provide prescriptive guidance on scoping, application component enumeration, threat modeling activities, and key deliverables.  This workshop will also provide prescriptive tools, techniques that can be used to conduct various types of threats models that are both agnostic to various threats and platforms, as well as specific to certain types of threats.
+The Cheatsheet will provide a guide on how to follow a heavyweight approach to threat modeling.
+In addition to this, some teams may find the heavy weight approach too cumbersome and onerous - for this reason, we'll define a lightweight approach that should represent the Minimum Viable Threat Modeling activity to follow.
 
 ### What
 
@@ -39,7 +41,9 @@ Threat modeling still needs great adoption into current SDLC methodologies. Many
  * Attack library build out and mapping
  * Proposed threat library and integration
  * Weakness library management and integration
- * Leightweight Threat Modeling Steps
+ * Lightweight Threat Modeling Steps
+ ** What should a lightweight process produce?
+ ** What are the simplest list of steps we can follow to arrive at that deliverable?
 
 
 ### Who
