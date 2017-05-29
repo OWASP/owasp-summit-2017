@@ -11,16 +11,28 @@ organizers   :
 participants :
 ---
 
-...intro text...
+Most companies are not ready to do public bug bounties because they don’t have the workflows, or they have too many vulnerabilities, or they don’t have enough processes in place.  To circumvent this problem, some companies run internal bug bounties.   Internal bug bounties can be managed by some of the bug bounty services, or they can be managed by external, private bug bounty companies.  An internal bug bounty is a good first step towards running a public bug bounty.
 
 ## Why
 
-...why text...
+This Working Session aims to leverage the knowledge of those who have experience in internal bug bounties. The session will create a playbook that sets out the steps, and creates a workflow for an internal bug bounty. Anyone who wants to run a bug bounty will leave the session knowing what to do next. 
 
 ## What
 
-...what text...
+-	How to make an internal bug bounty work
+-	What to expect
+-	Who to contact
+-	What funds will I need to allocate?
+-	What are the governance issues?
+-	What are the risks?
+-	What commercial companies can run a bug bounty?
 
 ## Who
 
-... target audience ...
+The target audience for this Working Session is:
+
+-	People who have participated or managed bug bounties in the past
+-	People who want to run bug bounties in the future
+-	Developer teams
+
+
