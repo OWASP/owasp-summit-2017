@@ -22,7 +22,7 @@ There is an opportunity for OWASP to pull together its wide-ranging expertise, p
 
 ## What
 
-- What aspects of Application Security skills do industry need?
+- What aspects of Application Security knowledge and skills does industry need?
 - What problems relating to application security does the next generation of graduate software developers, computer scientists and security analysts need to solve?
 - Establish a core set of learning objectives for BSC/MSc level Application Security curricula.
 - Establish which OWASP Projects are useful to help shape and support curricula in Application Security.

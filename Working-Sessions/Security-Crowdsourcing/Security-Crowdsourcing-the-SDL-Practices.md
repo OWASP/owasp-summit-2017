@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Security Crowdsourcing the SDL Pracitices
+title        : Security Crowdsourcing the SDL Practices
 type         : workshop
 owasp-project: no
 track        : Security Crowdsourcing

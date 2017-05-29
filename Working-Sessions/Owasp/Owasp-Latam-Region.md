@@ -18,8 +18,8 @@ OWASP community is growing in the region and there is a need for a vision and ro
 
 ## What
 
-Plan next OWASP Latam Tour and APPSEC Conferences
+- Plan next OWASP Latam Tour and APPSEC Conferences
 
 ## Who
 
-Chapter Leader, Project Leaders, Sponsors
+* Chapter Leaders, Project Leaders, Sponsors
