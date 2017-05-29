@@ -14,3 +14,10 @@ The food main points will be located at the following villas:
 - per person
 
 ## Food to buy
+
+- milk
+- cereals
+- vegetables
+- salads
+- burgers
+- bean burgers
