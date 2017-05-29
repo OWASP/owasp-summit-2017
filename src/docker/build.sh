@@ -2,15 +2,16 @@
 
 # doing this here (in an async way)
 echo "Stopping container"
-docker stop owasp-summit &
+#docker stop owasp-summit &
 
 echo "Creating Docker image for Owasp Summit site"
 
-docker build -t owasp-summit ./.
+docker build -t jekyll-and-node ./jekyll-and-node
+docker build -t owasp-summit    ./owasp-summit
 
 echo "Starting container"
 #docker rm owasp-summit
-docker run --rm --name owasp-summit -it -p 3433:3433 -d owasp-summit
+#docker run --rm --name owasp-summit -it -p 3433:3433 -d owasp-summit
 
 #open http://192.168.99.100:3000
 

@@ -15,6 +15,6 @@ exclude:
   - README.md
   - Logistics/archive
   - website/_temp_files
-  - _Participants
-  - _Working-Sessions
-  - _pages
+  - Participants
+  - Working-Sessions
+  - pages
