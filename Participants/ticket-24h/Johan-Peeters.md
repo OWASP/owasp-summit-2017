@@ -19,4 +19,4 @@ working sessions: Threat Modeling Tools, Threat Modeling Templates, AppSec SOC M
 
 My background is development, from where I moved into architecture as I realized the importance of getting the non-functional requirements right. From there, it was a small step to, what was at the time, the most neglected of these, namely security.
 
-I have been an independent for over 15 years and served many companies in a variety of industries, both large and small. Until recently, I mainly worked on a best-effort, time-and-material basis. My latest projects have been fixed-price, result-based, and I am loving it.
+I have been an independent for over 15 years and served many companies in a variety of industries, both large and small. Until recently, I mainly worked on a best-effort, time-and-material basis. Lately, I have been working on fixed-price, result-based contracts, and loving it.
