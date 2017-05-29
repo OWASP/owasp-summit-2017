@@ -45,7 +45,7 @@ class Server
       #pfx: fs.readFileSync pfx_File
       #passphrase: pfx_Passphrase
 
-    @.server      = https.createServer(options, @.app).listen @.port
+    @.server      = https.createServer(options, @.app).listen @.port, '0.0.0.0'
 
     console.log ' Started server with SSL support'
 
