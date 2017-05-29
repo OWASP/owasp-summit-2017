@@ -1,24 +1,22 @@
 ---
-layout          : blocks/page-participant
-title           : Matteo Meucci
-type            : participant
-time            : work
-travel-from     : Italy
-expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : 500
-ticket-cost     : 1500
-funded-amount   : 0
-required-funds  : 2000
-project-leader  : OWASP Testing Guide
-chapter-leader  :
-job-title       : CEO of Minded Security
-image           : https://pbs.twimg.com/profile_images/620209707102392320/NTIZjxXt.jpg
-linkedin        : adrian-winckles-2582ab3
-twitter         : matteo_meucci
-status          : done
-facebook:
+layout           : blocks/page-participant
+title            : Matteo Meucci
+type             : participant
+time             : work
+travel-from      : Italy
+project-leader   : OWASP Testing Guide
+chapter-leader   :
+job-title        : CEO
+company          : Minded Security
+image            : https://pbs.twimg.com/profile_images/620209707102392320/NTIZjxXt.jpg
+linkedin         :
+twitter          : matteo_meucci
+website          :
+facebook         :
+status           : done
+working-sessions :
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
+
 ---
 
 Bio: Matteo has more than 16 years of specializing in Application Security and collaborates since 2002 with the OWASP project.

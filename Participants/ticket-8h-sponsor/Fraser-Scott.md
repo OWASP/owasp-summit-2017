@@ -10,7 +10,7 @@ image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAA
 linkedin        : zeroxten
 twiter          : zeroXten
 facebook        :
-ticket          : 5x24h
+ticket          : 5x8h
 status          : done
 working-sessions: BDD for Cloud Security,Netflix Resilience Engineering,Netflix Security Automation,Women in Cyber,Scaling Threat Modeling,Security Champions Threat Modeling,Threat Modeling Tools,DevSecOps vs SecDevOps,Writing Security Tests,Securing the CI Pipeline,Security Guidance and Feedback in IDE,Agile Practices for Security Teams
 ---
