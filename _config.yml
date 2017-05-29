@@ -18,3 +18,5 @@ exclude:
   - Participants
   - Working-Sessions
   - pages/for-editors
+  - schedule
+  - posts

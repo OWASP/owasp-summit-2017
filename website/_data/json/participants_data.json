@@ -1,5 +1,7 @@
 {
   "Adam Obrien": {
+    "name": "Adam Obrien",
+    "url": "/Participants/Adam-Obrien.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Adam-Obrien.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -23,11 +25,12 @@
         " Update SAMM model to take into account Agile and DevOps",
         " GDPR and DPO AppSec implications",
         " Define Agile Security Practices"
-      ],
-      "": ""
+      ]
     }
   },
   "Ante Gulam": {
+    "name": "Ante Gulam",
+    "url": "/Participants/Ante-Gulam.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Ante-Gulam.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -40,11 +43,12 @@
       "twitter": "ante_gulam",
       "facebook": "",
       "status": "done",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Bosko Stankovic": {
+    "name": "Bosko Stankovic",
+    "url": "/Participants/Bosko-Stankovic.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Bosko-Stankovic.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -61,13 +65,12 @@
       "email": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Christian Martorella": {
+    "name": "Christian Martorella",
+    "url": "/Participants/Christian-Martorella.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Christian-Martorella.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -80,11 +83,12 @@
       "twitter": "laramies",
       "facebook": "",
       "status": "done",
-      "working sessions": "Threat Model, GDPR, Devsecops",
-      "": ""
+      "working sessions": "Threat Model, GDPR, Devsecops"
     }
   },
   "Colin Domoney": {
+    "name": "Colin Domoney",
+    "url": "/Participants/Colin-Domoney.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Colin-Domoney.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -96,11 +100,12 @@
       "twiter": "colindomoney",
       "facebook": "",
       "status": "empty",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Dave Wichers": {
+    "name": "Dave Wichers",
+    "url": "/Participants/Dave-Wichers.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Dave-Wichers.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -113,11 +118,12 @@
       "facebook": "",
       "status": "done",
       "ticket": "",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Erez Yalon": {
+    "name": "Erez Yalon",
+    "url": "/Participants/Erez-Yalon.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Erez-Yalon.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -144,11 +150,12 @@
         " AWS Lambda Security",
         "Docker Security",
         " Benchmark Project"
-      ],
-      "": ""
+      ]
     }
   },
   "Katy Anton": {
+    "name": "Katy Anton",
+    "url": "/Participants/Katy-Anton.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Katy-Anton.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -166,13 +173,12 @@
       "ticket": "",
       "when-day": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Kevin Fielder": {
+    "name": "Kevin Fielder",
+    "url": "/Participants/Kevin-Fielder.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Kevin-Fielder.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -192,11 +198,12 @@
       "status": "empty",
       "working-sessions": [
         "CISO"
-      ],
-      "": ""
+      ]
     }
   },
   "Kevin Sheldrake": {
+    "name": "Kevin Sheldrake",
+    "url": "/Participants/Kevin-Sheldrake.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Kevin-Sheldrake.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -213,13 +220,12 @@
       "email": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Leon Juranic": {
+    "name": "Leon Juranic",
+    "url": "/Participants/Leon-Juranic.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Leon-Juranic.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -236,13 +242,12 @@
       "email": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Nuno Loureiro": {
+    "name": "Nuno Loureiro",
+    "url": "/Participants/Nuno-Loureiro.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Nuno-Loureiro.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -259,13 +264,12 @@
       "email": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Ohad Rabinovich": {
+    "name": "Ohad Rabinovich",
+    "url": "/Participants/Ohad-Rabinovich.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Ohad-Rabinovich.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -292,11 +296,12 @@
         " AWS Lambda Security",
         "Docker Security",
         " Benchmark Project"
-      ],
-      "": ""
+      ]
     }
   },
   "Phil Parker": {
+    "name": "Phil Parker",
+    "url": "/Participants/Phil-Parker.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Phil-Parker.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -314,6 +319,8 @@
     }
   },
   "Pravir Chandra": {
+    "name": "Pravir Chandra",
+    "url": "/Participants/Pravir-Chandra.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Pravir-Chandra.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -332,11 +339,12 @@
       "status": "empty",
       "working-sessions": [
         "OwaspSAMM"
-      ],
-      "": ""
+      ]
     }
   },
   "Ross Tanner": {
+    "name": "Ross Tanner",
+    "url": "/Participants/Ross-Tanner.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Ross-Tanner.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -360,11 +368,12 @@
         "Growing the AppSec Industry",
         "Recruiting AppSec Talent",
         "Security Champions"
-      ],
-      "": ""
+      ]
     }
   },
   "Tiago Mendo": {
+    "name": "Tiago Mendo",
+    "url": "/Participants/Tiago-Mendo.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/Tiago-Mendo.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -412,6 +421,8 @@
     }
   },
   "bought ticket": {
+    "name": "bought ticket",
+    "url": "/Participants/_template/bought-ticket.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/_template/bought-ticket.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -430,13 +441,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "need funding": {
+    "name": "need funding",
+    "url": "/Participants/_template/need-funding.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/_template/need-funding.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -461,13 +471,12 @@
       "chapter-leader": "",
       "owasp-other": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "remote participant": {
+    "name": "remote participant",
+    "url": "/Participants/_template/remote-participant.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/_template/remote-participant.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -485,13 +494,12 @@
       "chapter-leader": "",
       "when-day": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "will buy-ticket": {
+    "name": "will buy-ticket",
+    "url": "/Participants/_template/will-buy-ticket.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/_template/will-buy-ticket.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -508,13 +516,12 @@
       "email": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Adrian Winckles": {
+    "name": "Adrian Winckles",
+    "url": "/Participants/funded/Adrian-Winckles.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Adrian-Winckles.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -540,6 +547,8 @@
     }
   },
   "Claudia Casanovas": {
+    "name": "Claudia Casanovas",
+    "url": "/Participants/funded/Claudia-Casanovas.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Claudia-Casanovas.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -565,6 +574,8 @@
     }
   },
   "Johanna Curiel": {
+    "name": "Johanna Curiel",
+    "url": "/Participants/funded/Johanna-Curiel.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Johanna-Curiel.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -589,6 +600,8 @@
     }
   },
   "Kate Hartmann": {
+    "name": "Kate Hartmann",
+    "url": "/Participants/funded/Kate-Hartmann.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Kate-Hartmann.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -620,6 +633,8 @@
     }
   },
   "Lisa Raynaud": {
+    "name": "Lisa Raynaud",
+    "url": "/Participants/funded/Lisa-Raynaud.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Lisa-Raynaud.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -639,13 +654,12 @@
       "chapter-leader": "",
       "ticket": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Marco Morana": {
+    "name": "Marco Morana",
+    "url": "/Participants/funded/Marco-Morana.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Marco-Morana.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -673,11 +687,12 @@
       "working-sessions": [
         "Threat Model",
         "CISO Survey"
-      ],
-      "": ""
+      ]
     }
   },
   "Sam Stepanyan": {
+    "name": "Sam Stepanyan",
+    "url": "/Participants/funded/Sam-Stepanyan.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Sam-Stepanyan.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -698,11 +713,12 @@
       "facebook": "",
       "when-days": "",
       "ticket": "3x8h",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Sherif Mansour": {
+    "name": "Sherif Mansour",
+    "url": "/Participants/funded/Sherif-Mansour.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Sherif-Mansour.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -723,11 +739,12 @@
       "facebook": "",
       "when-days": "",
       "ticket": "3x8h",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Steven van-der-Baan": {
+    "name": "Steven van-der-Baan",
+    "url": "/Participants/funded/Steven-van-der-Baan.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Steven-van-der-Baan.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -754,6 +771,8 @@
     }
   },
   "Sven Schleier": {
+    "name": "Sven Schleier",
+    "url": "/Participants/funded/Sven-Schleier.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Sven-Schleier.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -775,13 +794,12 @@
       "linkedin": "sven-schleier-98259194",
       "twitter": "bsd_daemon",
       "status": "done",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Timo Pagel": {
+    "name": "Timo Pagel",
+    "url": "/Participants/funded/Timo-Pagel.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/funded/Timo-Pagel.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -804,6 +822,8 @@
     }
   },
   "Ade Yoseman-Putra": {
+    "name": "Ade Yoseman-Putra",
+    "url": "/Participants/need-funding/Ade-Yoseman-Putra.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/need-funding/Ade-Yoseman-Putra.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -825,6 +845,8 @@
     }
   },
   "Kim Carter": {
+    "name": "Kim Carter",
+    "url": "/Participants/need-funding/Kim-Carter.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/need-funding/Kim-Carter.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -848,6 +870,8 @@
     }
   },
   "Kuai Hinojosa": {
+    "name": "Kuai Hinojosa",
+    "url": "/Participants/need-funding/Kuai-Hinojosa.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/need-funding/Kuai-Hinojosa.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -872,6 +896,8 @@
     }
   },
   "Lucas Ferreira": {
+    "name": "Lucas Ferreira",
+    "url": "/Participants/need-funding/Lucas-Ferreira.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/need-funding/Lucas-Ferreira.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -899,6 +925,8 @@
     }
   },
   "Magno Logan": {
+    "name": "Magno Logan",
+    "url": "/Participants/need-funding/Magno-Logan.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/need-funding/Magno-Logan.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -924,6 +952,8 @@
     }
   },
   "Matteo Meucci": {
+    "name": "Matteo Meucci",
+    "url": "/Participants/need-funding/Matteo-Meucci.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/need-funding/Matteo-Meucci.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -949,6 +979,8 @@
     }
   },
   "Nishi Kumar": {
+    "name": "Nishi Kumar",
+    "url": "/Participants/need-funding/Nishi-Kumar.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/need-funding/Nishi-Kumar.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -975,6 +1007,8 @@
     }
   },
   "Tamer Elzayyat": {
+    "name": "Tamer Elzayyat",
+    "url": "/Participants/need-funding/Tamer-Elzayyat.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/need-funding/Tamer-Elzayyat.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1006,11 +1040,12 @@
         "Security Architecture Recommendations for IoT",
         "TLS for Local IoT",
         "Threat Modeling IoT Devices"
-      ],
-      "": ""
+      ]
     }
   },
   "Achim D-Brucker": {
+    "name": "Achim D-Brucker",
+    "url": "/Participants/remote/Achim-D-Brucker.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Achim-D-Brucker.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1026,13 +1061,12 @@
       "project-leader": "",
       "chapter-leader": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Anant Shrivastava": {
+    "name": "Anant Shrivastava",
+    "url": "/Participants/remote/Anant-Shrivastava.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Anant-Shrivastava.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1048,11 +1082,12 @@
         "Mobile Application Security Verification Standard (MASVS)",
         "Data behind Owasp Top 10 2017",
         "Owasp Top 10 2017"
-      ],
-      "": ""
+      ]
     }
   },
   "Anuruddha Hewawasam": {
+    "name": "Anuruddha Hewawasam",
+    "url": "/Participants/remote/Anuruddha-Hewawasam.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Anuruddha-Hewawasam.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1084,6 +1119,8 @@
     }
   },
   "David Campbell": {
+    "name": "David Campbell",
+    "url": "/Participants/remote/David-Campbell.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/David-Campbell.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1095,13 +1132,13 @@
       "linkedin": "https://www.linkedin.com/in/campbelldavid",
       "twiter": "https://twitter.com/alchemydc",
       "website": "",
-      "working-sessions": [
-        ""
-      ],
+      "working-sessions": "",
       "status": "done"
     }
   },
   "Dougal Kennedy": {
+    "name": "Dougal Kennedy",
+    "url": "/Participants/remote/Dougal-Kennedy.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Dougal-Kennedy.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1122,6 +1159,8 @@
     }
   },
   "Greg Fragkos": {
+    "name": "Greg Fragkos",
+    "url": "/Participants/remote/Greg-Fragkos.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Greg-Fragkos.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1139,13 +1178,12 @@
       "chapter-leader": "",
       "when-day": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Isuru Tharanga": {
+    "name": "Isuru Tharanga",
+    "url": "/Participants/remote/Isuru-Tharanga.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Isuru-Tharanga.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1180,11 +1218,12 @@
         "Mobile Security Testing Guide (MSTG)",
         "Cheat Sheets",
         "Webgoat"
-      ],
-      "": ""
+      ]
     }
   },
   "James Osborn": {
+    "name": "James Osborn",
+    "url": "/Participants/remote/James-Osborn.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/James-Osborn.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1196,6 +1235,8 @@
     }
   },
   "Josh Grossman": {
+    "name": "Josh Grossman",
+    "url": "/Participants/remote/Josh-Grossman.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Josh-Grossman.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1211,13 +1252,12 @@
       "project-leader": "",
       "chapter-leader": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Kevin Greene": {
+    "name": "Kevin Greene",
+    "url": "/Participants/remote/Kevin-Greene.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Kevin-Greene.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1244,11 +1284,12 @@
         "SAMM Metrics for Enterprise",
         "Draft SAMM2 - the \"DevOps release\"",
         "Review and improve the 12 SAMM practices"
-      ],
-      "": ""
+      ]
     }
   },
   "Madhu Akula": {
+    "name": "Madhu Akula",
+    "url": "/Participants/remote/Madhu-Akula.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Madhu-Akula.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1278,6 +1319,8 @@
     }
   },
   "Marcelo Souza": {
+    "name": "Marcelo Souza",
+    "url": "/Participants/remote/Marcelo-Souza.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Marcelo-Souza.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1299,6 +1342,8 @@
     }
   },
   "Mark Stanislav": {
+    "name": "Mark Stanislav",
+    "url": "/Participants/remote/Mark-Stanislav.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Mark-Stanislav.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1322,6 +1367,8 @@
     }
   },
   "Mohammad Febri-Ramadlan": {
+    "name": "Mohammad Febri-Ramadlan",
+    "url": "/Participants/remote/Mohammad-Febri-Ramadlan.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Mohammad-Febri-Ramadlan.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1344,6 +1391,8 @@
     }
   },
   "Ofer Maor": {
+    "name": "Ofer Maor",
+    "url": "/Participants/remote/Ofer-Maor.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Ofer-Maor.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1358,6 +1407,8 @@
     }
   },
   "Paolo Perego": {
+    "name": "Paolo Perego",
+    "url": "/Participants/remote/Paolo-Perego.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Paolo-Perego.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1369,11 +1420,12 @@
       "twiter": "thesp0nge",
       "facebook": "CodiceInsicuro",
       "status": "done",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Rahul Raghavan": {
+    "name": "Rahul Raghavan",
+    "url": "/Participants/remote/Rahul-Raghavan.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Rahul-Raghavan.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1398,11 +1450,12 @@
         "Using Security Risks to Measure Agile Practices",
         "BDD for Cloud Security",
         "Writing Security Tests"
-      ],
-      "": ""
+      ]
     }
   },
   "Robert Hurlbut": {
+    "name": "Robert Hurlbut",
+    "url": "/Participants/remote/Robert-Hurlbut.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Robert-Hurlbut.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1417,10 +1470,14 @@
     }
   },
   "Sandeep Singh": {
+    "name": "Sandeep Singh",
+    "url": "/Participants/remote/Sandeep-Singh.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Sandeep-Singh.md",
     "metadata": {}
   },
   "Simon Bennetts": {
+    "name": "Simon Bennetts",
+    "url": "/Participants/remote/Simon-Bennetts.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Simon-Bennetts.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1433,6 +1490,8 @@
     }
   },
   "Steve Lamb": {
+    "name": "Steve Lamb",
+    "url": "/Participants/remote/Steve-Lamb.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Steve-Lamb.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1450,13 +1509,12 @@
       "chapter-leader": "",
       "when-day": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Steve Springett": {
+    "name": "Steve Springett",
+    "url": "/Participants/remote/Steve-Springett.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Steve-Springett.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1470,6 +1528,8 @@
     }
   },
   "Tal Argoni": {
+    "name": "Tal Argoni",
+    "url": "/Participants/remote/Tal-Argoni.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Tal-Argoni.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1492,11 +1552,12 @@
         " Testing Guide v5",
         " Owasp Top 10 2017",
         ""
-      ],
-      "": ""
+      ]
     }
   },
   "Tom Brennan": {
+    "name": "Tom Brennan",
+    "url": "/Participants/remote/Tom-Brennan.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Tom-Brennan.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1508,11 +1569,12 @@
       "twiter": "brennantom",
       "facebook": "",
       "status": "done",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Vandana Verma": {
+    "name": "Vandana Verma",
+    "url": "/Participants/remote/Vandana-Verma.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Vandana-Verma.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1536,6 +1598,8 @@
     }
   },
   "Victor Vidigal-Ribeiro": {
+    "name": "Victor Vidigal-Ribeiro",
+    "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Victor-Vidigal-Ribeiro.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1568,6 +1632,8 @@
     }
   },
   "Yarden Yerushalmi": {
+    "name": "Yarden Yerushalmi",
+    "url": "/Participants/remote/Yarden-Yerushalmi",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/remote/Yarden-Yerushalmi",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1584,11 +1650,12 @@
         "RESEARCH",
         "SECURITY PLAYBOOKS",
         "AGILE APPSEC"
-      ],
-      "": ""
+      ]
     }
   },
   "Akshay Sharma": {
+    "name": "Akshay Sharma",
+    "url": "/Participants/summit-editors/Akshay-Sharma.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/summit-editors/Akshay-Sharma.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1611,12 +1678,12 @@
       "chapter-leader": "Bhopal",
       "project-leader": "",
       "status": "improve-bio",
-      "working-sessions": [
-        ""
-      ]
+      "working-sessions": ""
     }
   },
   "Bjoern Kimminich": {
+    "name": "Bjoern Kimminich",
+    "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/summit-editors/Bjoern-Kimminich.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1640,13 +1707,12 @@
       "twitter": "bkimminich",
       "facebook": "bjoern.kimminich",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Devesh Bhatt": {
+    "name": "Devesh Bhatt",
+    "url": "/Participants/summit-editors/Devesh-Bhatt.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/summit-editors/Devesh-Bhatt.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1680,11 +1746,12 @@
         "Bug Bounty Playbook",
         "Threat Models DoS Playbook",
         "TLS for Local IoT"
-      ],
-      "": ""
+      ]
     }
   },
   "Felipe Zipitria": {
+    "name": "Felipe Zipitria",
+    "url": "/Participants/summit-editors/Felipe-Zipitria.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/summit-editors/Felipe-Zipitria.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1714,6 +1781,8 @@
     }
   },
   "Mateo Martinez": {
+    "name": "Mateo Martinez",
+    "url": "/Participants/summit-editors/Mateo-Martinez.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/summit-editors/Mateo-Martinez.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1736,13 +1805,12 @@
       "twitter": "MateoMartinezOK",
       "status": "done",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Nikita Garia": {
+    "name": "Nikita Garia",
+    "url": "/Participants/summit-editors/Nikita-Garia.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/summit-editors/Nikita-Garia.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1775,6 +1843,8 @@
     }
   },
   "Alexander Antukh": {
+    "name": "Alexander Antukh",
+    "url": "/Participants/ticket-24h/Alexander-Antukh.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Alexander-Antukh.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1793,11 +1863,12 @@
       "chapter-leader": "Poland",
       "ticket": "5x24h",
       "status": "done",
-      "working sessions": "Scaling Threat Modeling,Threat Modeling Cheat Sheet,Threat Modeling Templates,Threat Modeling Where do I Start?,Agile Practices for Security Teams,Define Agile Security Practices,Security Champions,Security Guild vs Security Champions,Using Security Risks to Measure Agile Practices,Securing GitHub Integrations,Securing Legacy Applications,Security Guidance and Feedback in IDE,AppSec Review and Pentest Playbook,Bug Bounty Playbook,Create Jira Workflows for Security Playbooks,Playbooks Common Format,Playbooks vs Handbooks,Security Monitoring Playbooks,Security Playbooks Diagrams,Creating AppSec Teams,Creating AppSec Talent (next 100k professionals),Security Book Club,Teaching Attacker perspective to Developers,Mobile Security Testing Guide (MSTG),Application Security Guide for CISO,CISO Round table,SAMM Metrics for Enterprise",
-      "": ""
+      "working sessions": "Scaling Threat Modeling,Threat Modeling Cheat Sheet,Threat Modeling Templates,Threat Modeling Where do I Start?,Agile Practices for Security Teams,Define Agile Security Practices,Security Champions,Security Guild vs Security Champions,Using Security Risks to Measure Agile Practices,Securing GitHub Integrations,Securing Legacy Applications,Security Guidance and Feedback in IDE,AppSec Review and Pentest Playbook,Bug Bounty Playbook,Create Jira Workflows for Security Playbooks,Playbooks Common Format,Playbooks vs Handbooks,Security Monitoring Playbooks,Security Playbooks Diagrams,Creating AppSec Teams,Creating AppSec Talent (next 100k professionals),Security Book Club,Teaching Attacker perspective to Developers,Mobile Security Testing Guide (MSTG),Application Security Guide for CISO,CISO Round table,SAMM Metrics for Enterprise"
     }
   },
   "Amani Altarawneh": {
+    "name": "Amani Altarawneh",
+    "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Amani-Altarawneh.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1833,11 +1904,12 @@
         "Future of .Net Containers",
         "OWASP Internet of Things Project",
         "Ransomware Playbook"
-      ],
-      "": ""
+      ]
     }
   },
   "Bolot Kerimbaev": {
+    "name": "Bolot Kerimbaev",
+    "url": "/Participants/ticket-24h/Bolot-Kerimbaev.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Bolot-Kerimbaev.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1853,13 +1925,12 @@
       "funded-who": "self",
       "status": "done",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Bruce Jenkins": {
+    "name": "Bruce Jenkins",
+    "url": "/Participants/ticket-24h/Bruce-Jenkins.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Bruce-Jenkins.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1879,13 +1950,12 @@
       "funded-who": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Chris Cooper": {
+    "name": "Chris Cooper",
+    "url": "/Participants/ticket-24h/Chris-Cooper.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Chris-Cooper.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1915,11 +1985,12 @@
         " Integrating Security into a Sales Channel",
         " Define Agile Security Practices",
         " JIRA Risk Workflow"
-      ],
-      "": ""
+      ]
     }
   },
   "Chris Wysopal": {
+    "name": "Chris Wysopal",
+    "url": "/Participants/ticket-24h/Chris-Wysopal.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Chris-Wysopal.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1940,13 +2011,12 @@
       "when-day": "wed,thu,fri",
       "ticket": "2x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Christian DeHoyos": {
+    "name": "Christian DeHoyos",
+    "url": "/Participants/ticket-24h/Christian-DeHoyos.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Christian-DeHoyos.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1965,13 +2035,12 @@
       "chapter-leader": "",
       "ticket": "3x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Daniela Cruzes": {
+    "name": "Daniela Cruzes",
+    "url": "/Participants/ticket-24h/Daniela-Cruzes.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Daniela-Cruzes.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -1987,13 +2056,12 @@
       "funded-who": "SINTEF",
       "status": "done",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Denis Pilipchuk": {
+    "name": "Denis Pilipchuk",
+    "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Denis-Pilipchuk.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2021,11 +2089,12 @@
         "Lightweight Threat Modeling Process",
         "Threat Modeling Cloud Migrations",
         "Mobile Security Testing Guide (MSTG)"
-      ],
-      "": ""
+      ]
     }
   },
   "Hamza Alkofahi": {
+    "name": "Hamza Alkofahi",
+    "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Hamza-Alkofahi.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2043,13 +2112,12 @@
       "funded-who": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Hardik Parekh": {
+    "name": "Hardik Parekh",
+    "url": "/Participants/ticket-24h/Hardik-Parekh.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Hardik-Parekh.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2075,6 +2143,8 @@
     }
   },
   "Jason Li": {
+    "name": "Jason Li",
+    "url": "/Participants/ticket-24h/Jason-Li.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Jason-Li.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2105,6 +2175,8 @@
     }
   },
   "Johan Peeters": {
+    "name": "Johan Peeters",
+    "url": "/Participants/ticket-24h/Johan-Peeters.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Johan-Peeters.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2121,11 +2193,12 @@
       "website": "http://www.johanpeeters.com",
       "status": "need-content",
       "ticket": "5x24h",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Josh Armour": {
+    "name": "Josh Armour",
+    "url": "/Participants/ticket-24h/Josh-Armour.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Josh-Armour.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2144,13 +2217,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Mike Milner": {
+    "name": "Mike Milner",
+    "url": "/Participants/ticket-24h/Mike-Milner.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Mike-Milner.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2166,11 +2238,12 @@
       "facebook": "",
       "status": "empty",
       "ticket": "5x24h",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Robert Morschel": {
+    "name": "Robert Morschel",
+    "url": "/Participants/ticket-24h/Robert-Morschel.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Robert-Morschel.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2186,13 +2259,12 @@
       "website": "http://soa-probe.com",
       "status": "done",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Sandor Lenart": {
+    "name": "Sandor Lenart",
+    "url": "/Participants/ticket-24h/Sandor-Lenart.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Sandor-Lenart.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2212,13 +2284,12 @@
       "funded-who": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Steve Kosten": {
+    "name": "Steve Kosten",
+    "url": "/Participants/ticket-24h/Steve-Kosten.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Steve-Kosten.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2238,13 +2309,12 @@
       "funded-who": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Tony UV": {
+    "name": "Tony UV",
+    "url": "/Participants/ticket-24h/Tony-UV.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Tony-UV.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2260,13 +2330,12 @@
       "facebook": "",
       "status": "need-content",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Viktor Lindstrom": {
+    "name": "Viktor Lindstrom",
+    "url": "/Participants/ticket-24h/Viktor-Lindstrom.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Viktor-Lindstrom.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2289,11 +2358,12 @@
       "working-sessions": [
         "OwaspSAMM Working",
         " Threat Modeling"
-      ],
-      "": ""
+      ]
     }
   },
   "Yan Kravchenko": {
+    "name": "Yan Kravchenko",
+    "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h/Yan-Kravchenko.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2323,6 +2393,8 @@
     }
   },
   "Daniel Kefer": {
+    "name": "Daniel Kefer",
+    "url": "/Participants/ticket-24h-invoice/Daniel-Kefer.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-invoice/Daniel-Kefer.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2338,13 +2410,12 @@
       "website": "https://securityrat.github.io/",
       "ticket": "5x8h",
       "status": "need-content",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Marc Rimbau": {
+    "name": "Marc Rimbau",
+    "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-invoice/Marc-Rimbau.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2360,11 +2431,12 @@
       "funded-who": "self",
       "status": "empty",
       "ticket": "5x24h",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Stephen de-Vries": {
+    "name": "Stephen de-Vries",
+    "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-invoice/Stephen-de-Vries.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2379,11 +2451,12 @@
       "facebook": "",
       "status": "empty",
       "ticket": "1x24h",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Achim Hoffmann": {
+    "name": "Achim Hoffmann",
+    "url": "/Participants/ticket-24h-owasp/Achim-Hoffmann.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-owasp/Achim-Hoffmann.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2411,6 +2484,8 @@
     }
   },
   "Adam Shostack": {
+    "name": "Adam Shostack",
+    "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-owasp/Adam-Shostack.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2442,11 +2517,12 @@
         "Scaling Threat Modeling",
         "Security Champions Threat Modeling",
         ""
-      ],
-      "": ""
+      ]
     }
   },
   "Avi Douglen": {
+    "name": "Avi Douglen",
+    "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-owasp/Avi-Douglen.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2492,11 +2568,12 @@
         " Implications of Owasp Top 10 2017",
         " Owasp Chapter Treasury",
         " OWASP Chapter Leader Handbook"
-      ],
-      "": ""
+      ]
     }
   },
   "Azzeddine Ramrami": {
+    "name": "Azzeddine Ramrami",
+    "url": "/Participants/ticket-24h-owasp/Azzeddine-Ramrami.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-owasp/Azzeddine-Ramrami.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2521,13 +2598,12 @@
       "chapter-leader": "",
       "owasp-other": "",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Bernhard Mueller": {
+    "name": "Bernhard Mueller",
+    "url": "/Participants/ticket-24h-owasp/Bernhard-Mueller.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-owasp/Bernhard-Mueller.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2552,13 +2628,12 @@
       "facebook": "",
       "ticket": "5x24h",
       "status": "done",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Ingo Hanke": {
+    "name": "Ingo Hanke",
+    "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-owasp/Ingo-Hanke.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2588,6 +2663,8 @@
     }
   },
   "Aruna Katugampola": {
+    "name": "Aruna Katugampola",
+    "url": "/Participants/ticket-24h-sponsor/Aruna-Katugampola",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Aruna-Katugampola",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2612,11 +2689,12 @@
         "Scaling-Threat-Modeling",
         "Security-Guidance-and-Feedback-in-IDE",
         "ZAP"
-      ],
-      "": ""
+      ]
     }
   },
   "Brian Glas": {
+    "name": "Brian Glas",
+    "url": "/Participants/ticket-24h-sponsor/Brian-Glas.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Brian-Glas.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2632,13 +2710,12 @@
       "project-leader": "OwaspSAMM",
       "funded-who": "OwaspSAMM Sponsor",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Capital One-4": {
+    "name": "Capital One-4",
+    "url": "/Participants/ticket-24h-sponsor/Capital-One-4.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Capital-One-4.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2657,13 +2734,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Capital One-5": {
+    "name": "Capital One-5",
+    "url": "/Participants/ticket-24h-sponsor/Capital-One-5.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Capital-One-5.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2682,13 +2758,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Capital One-6": {
+    "name": "Capital One-6",
+    "url": "/Participants/ticket-24h-sponsor/Capital-One-6.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Capital-One-6.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2707,13 +2782,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Dicky Stafford": {
+    "name": "Dicky Stafford",
+    "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Dicky-Stafford.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2730,11 +2804,12 @@
       "status": "need-content",
       "working-sessions": [
         "AppSec SOC Monitoring Visualisation"
-      ],
-      "": ""
+      ]
     }
   },
   "Dinis Cruz": {
+    "name": "Dinis Cruz",
+    "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Dinis-Cruz.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2749,12 +2824,12 @@
       "website": "http://blog.diniscruz.com",
       "ticket": "5x24h",
       "status": "done",
-      "working-sessions": [
-        ""
-      ]
+      "working-sessions": ""
     }
   },
   "Fabien Thalgott": {
+    "name": "Fabien Thalgott",
+    "url": "/Participants/ticket-24h-sponsor/Fabien-Thalgott.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Fabien-Thalgott.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2773,13 +2848,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Francois Raynaud": {
+    "name": "Francois Raynaud",
+    "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Francois-Raynaud.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2794,11 +2868,12 @@
       "facebook": "",
       "status": "need-content",
       "ticket": "5x24h",
-      "working sessions": "",
-      "": ""
+      "working sessions": ""
     }
   },
   "Fraser Scott": {
+    "name": "Fraser Scott",
+    "url": "/Participants/ticket-24h-sponsor/Fraser-Scott.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Fraser-Scott.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2830,6 +2905,8 @@
     }
   },
   "Jeroen Willemsen": {
+    "name": "Jeroen Willemsen",
+    "url": "/Participants/ticket-24h-sponsor/Jeroen-Willemsen.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Jeroen-Willemsen.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2843,13 +2920,12 @@
       "twitter": "commjoenie",
       "funded-who": "sponsor",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Jonas Vanalderweireldt": {
+    "name": "Jonas Vanalderweireldt",
+    "url": "/Participants/ticket-24h-sponsor/Jonas-Vanalderweireldt.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Jonas-Vanalderweireldt.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2864,13 +2940,12 @@
       "funded-who": "sponsor",
       "ticket": "5x24h",
       "status": "need-content",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Nanne Baars": {
+    "name": "Nanne Baars",
+    "url": "/Participants/ticket-24h-sponsor/Nanne-Baars.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Nanne-Baars.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2886,13 +2961,12 @@
       "project-leader": "WebGoat",
       "facebook": "",
       "ticket": "5x24h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Naushad": {
+    "name": "Naushad",
+    "url": "/Participants/ticket-24h-sponsor/Naushad.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Naushad.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2927,6 +3001,8 @@
     }
   },
   "Neil Barlow": {
+    "name": "Neil Barlow",
+    "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Neil-Barlow.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2944,11 +3020,12 @@
       "working-sessions": [
         "CISO",
         "CISO Round table"
-      ],
-      "": ""
+      ]
     }
   },
   "PhotoBox 10": {
+    "name": "PhotoBox 10",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-10.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-10.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2967,13 +3044,12 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "PhotoBox 11": {
+    "name": "PhotoBox 11",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-11.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-11.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -2992,13 +3068,12 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "PhotoBox 12": {
+    "name": "PhotoBox 12",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-12.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-12.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3017,13 +3092,12 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "PhotoBox 3": {
+    "name": "PhotoBox 3",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-3.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-3.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3042,13 +3116,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "PhotoBox 4": {
+    "name": "PhotoBox 4",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-4.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-4.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3067,13 +3140,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "PhotoBox 5": {
+    "name": "PhotoBox 5",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-5.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-5.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3092,13 +3164,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "PhotoBox 6": {
+    "name": "PhotoBox 6",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-6.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-6.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3117,13 +3188,12 @@
       "chapter-leader": "",
       "ticket": "5x24h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "PhotoBox 7": {
+    "name": "PhotoBox 7",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-7.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-7.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3142,13 +3212,12 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "PhotoBox 9": {
+    "name": "PhotoBox 9",
+    "url": "/Participants/ticket-24h-sponsor/PhotoBox-9.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/PhotoBox-9.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3167,13 +3236,12 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Sebastien Deleersnyder": {
+    "name": "Sebastien Deleersnyder",
+    "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3188,13 +3256,12 @@
       "funded-who": "sponsor",
       "ticket": "5x24h",
       "status": "done",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Steven Wierckx": {
+    "name": "Steven Wierckx",
+    "url": "/Participants/ticket-24h-sponsor/Steven-Wierckx.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-24h-sponsor/Steven-Wierckx.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3208,13 +3275,12 @@
       "funded-who": "sponsor",
       "ticket": "5x24h",
       "status": "done",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Daniel Miessler": {
+    "name": "Daniel Miessler",
+    "url": "/Participants/ticket-8h/Daniel-Miessler.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Daniel-Miessler.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3237,17 +3303,18 @@
       "facebook": "",
       "ticket": "5x8h",
       "status": "done",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Danny Grander": {
+    "name": "Danny Grander",
+    "url": "/Participants/ticket-8h/Danny-Grander.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Danny-Grander.md",
     "metadata": {}
   },
   "Don Gibson": {
+    "name": "Don Gibson",
+    "url": "/Participants/ticket-8h/Don-Gibson.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Don-Gibson.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3271,6 +3338,8 @@
     }
   },
   "Duncan Hurwood": {
+    "name": "Duncan Hurwood",
+    "url": "/Participants/ticket-8h/Duncan-Hurwood.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Duncan-Hurwood.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3290,13 +3359,12 @@
       "when-day": "Mon,Tue",
       "ticket": "2x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Ed Woodfall": {
+    "name": "Ed Woodfall",
+    "url": "/Participants/ticket-8h/Ed-Woodfall.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Ed-Woodfall.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3316,13 +3384,12 @@
       "funded-who": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Geoff Hill": {
+    "name": "Geoff Hill",
+    "url": "/Participants/ticket-8h/Geoff-Hill.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Geoff-Hill.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3339,13 +3406,12 @@
       "mobile": "07 858 955 963",
       "status": "done",
       "ticket": "5x8h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Irene Michlin": {
+    "name": "Irene Michlin",
+    "url": "/Participants/ticket-8h/Irene-Michlin.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Irene-Michlin.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3361,11 +3427,12 @@
       "ticket": "5x8h",
       "working-sessions": [
         "Threat Model"
-      ],
-      "": ""
+      ]
     }
   },
   "John Fitzgerald": {
+    "name": "John Fitzgerald",
+    "url": "/Participants/ticket-8h/John-Fitzgerald.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/John-Fitzgerald.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3387,11 +3454,12 @@
       "working-sessions": [
         "Education",
         " DevSecOps"
-      ],
-      "": ""
+      ]
     }
   },
   "Juan Calderon": {
+    "name": "Juan Calderon",
+    "url": "/Participants/ticket-8h/Juan-Calderon.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Juan-Calderon.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3411,13 +3479,12 @@
       "funded-who": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Mamta Vuppu": {
+    "name": "Mamta Vuppu",
+    "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Mamta-Vuppu.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3436,13 +3503,12 @@
       "chapter-leader": "",
       "ticket": "5x8h",
       "status": "empty",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   },
   "Talal Albacha": {
+    "name": "Talal Albacha",
+    "url": "/Participants/ticket-8h/Talal-Albacha.html",
     "path": "/Users/diniscruz/GitHub_REPOS/owasp-summit-2017/Participants/ticket-8h/Talal-Albacha.md",
     "metadata": {
       "layout": "blocks/page-participant",
@@ -3458,10 +3524,7 @@
       "funded-who": "self",
       "when-day": "Fri",
       "ticket": "1x8h",
-      "working-sessions": [
-        ""
-      ],
-      "": ""
+      "working-sessions": ""
     }
   }
 }

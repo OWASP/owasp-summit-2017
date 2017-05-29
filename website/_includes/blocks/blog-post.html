@@ -3,11 +3,13 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-2">
-        {% assign match = site.pages | where: 'title', page.author %}
-        {% if match[0] %}
-        {% if match[0].image != null %}<img src="{{ match[0].image }}" alt="{{ page.title }}" class="img-responsive"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" alt="Placeholder 400x400" class="img-responsive"/>{% endif %}
-        <div class="author"><a href="{{match[0].url}}">{{ match[0].title }}</a></div>  {% else %}
-        <div class="author">{{ page.author }}</div>  {% endif %}
+        {% assign author_2 = site.data.graph.participants[page.author]  %}
+        {% assign author = site.data.json.participants_data[page.author]  %}
+        {% if author                                                  %}
+        {%    if author.metadata.image != null                                 %}<img src="{{ author.metadata.image }}" alt="{{ author.name }}" class="img-responsive"/>{%    else                                                    %}<img src="/website/assets/img/blocks/400x400.png" alt="Placeholder 400x400" class="img-responsive"/>{%    endif                                                   %}
+        <div class="author"><a href="{{author.url}}">{{ author.name }}</a></div>{%   else                                                     %}
+        <div class="author">{{ page.author }}</div>{%   endif                                                    %}
+        <!--+ add-author-old-->
         <div class="date">{{ page.date | date: "%-d %B" }}</div>
       </div>
       <div class="col-xs-10"><br/>
