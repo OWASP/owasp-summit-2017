@@ -14,6 +14,7 @@ docker build -t diniscruz/owasp-summit    ./owasp-summit
 echo "Starting container"
 #docker rm owasp-summit
 #docker run --rm --name owasp-summit -it -p 3433:3443 -d owasp-summit bash
+#docker run --rm -it -p 3443:3443 owasp-summit bash
 
 #docker run --rm  -it -p 3443:3443 -p 4000:4000 owasp-summit jekyll serve --host 0.0.0.0
 
