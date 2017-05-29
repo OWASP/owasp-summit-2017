@@ -31,7 +31,7 @@ This Working Session aims to leverage the knowledge of those who have experience
 
 The target audience for this Working Session is:
 
--	People who have participated or managed bug bounties in the past
+-	People who have participated in or managed bug bounties in the past
 -	People who want to run bug bounties in the future
 -	Developer teams
 
