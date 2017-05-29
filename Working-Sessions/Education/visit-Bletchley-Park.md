@@ -1,14 +1,15 @@
 ---
 layout       : blocks/working-session
 title        : Visit Bletchley Park
-type         : visit
+type         : workshop
 owasp-project: no
 track        :
 technology   :
 related-to   :
-status       : draft
-organizers   : Dinis Cruz, Johan Peeters (1 extra space in car)
-participants :
+status       : review-content
+when-day     : Fri
+organizers   : Johan Peeters (1 extra space in car)
+participants : Dinis Cruz
 ---
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
