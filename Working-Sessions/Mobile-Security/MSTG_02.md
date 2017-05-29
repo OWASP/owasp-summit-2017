@@ -37,7 +37,7 @@ Associated chapters in the MSTG:
 
 ## How to Join
 
-Follow the "Edit this page here" link at the bottom of this page and add yourself to the “participants” field. Signing up is not mandatory, but helps us to better organize the sessions.
+Follow the "Edit this page here" link at the bottom of this page and add yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions.
 
 More things to do once you have signed up:
 
