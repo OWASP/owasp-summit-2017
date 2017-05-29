@@ -10,16 +10,20 @@ organizers   : Mateo Martinez
 participants :
 ---
 
-Discuss about Student Chapter needs and current status. Support from local chapters and OWASP members. We need to talk about a Student Chapter Leader Handbook.
+This Working Session will discuss Student Chapter needs and their status. Student chapters need support from local chapters and OWASP members. We need to talk about a Student Chapter Leader Handbook.
 
 ## Why
 
-The Student Chapter community is growing and we need to define a direction and a workgroup.
+The Student Chapter community is growing and we need to define a direction and establish a working group.
 
 ## What
 
-Discuss about project future and about handbook content
+- Discuss the future of OWASP Student Chapters
+- Discuss content of Student Chapter Leader Handbook
 
 ## Who
 
-Chapter Leaders, Project Leaders
+The target audience for this Working Session is:
+
+- Chapter Leaders 
+- Project Leaders
