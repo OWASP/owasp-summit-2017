@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Scaling Threat Modeling
+title        : Threat Modeling Scaling
 type         : workshop
 track        : Threat Model
 technology   :
