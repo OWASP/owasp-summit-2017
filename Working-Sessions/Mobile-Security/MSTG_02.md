@@ -35,3 +35,13 @@ Associated chapters in the MSTG:
 - [Security Testing in the Application Development Lifecycle](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x07-Security-Testing-SDLC.md)
 - [Testing Tools](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x08-Testing-Tools.md)
 
+## How to Join
+
+Follow the "Edit this page here" link at the bottom of this page and add yourself to the “participants” field. Signing up is not mandatory, but helps us to better organize the sessions.
+
+More things to do once you have signed up:
+
+- Make yourself familiar with the existing content https://github.com/OWASP/owasp-mstg. Or even better, start contributing already :)
+- Ping us on the OWASP MSTG Slack channel (sushi2k or bernhardm).
+- If you have rooted Android / jailbroken iOS devices, please bring them along to the session.
+
