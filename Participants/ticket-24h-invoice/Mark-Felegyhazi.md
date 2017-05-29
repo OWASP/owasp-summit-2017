@@ -13,6 +13,7 @@ website         :
 email           :
 project-leader  :
 chapter-leader  :
+when-day        : Tue,Wed,Thu
 ticket          : 2x24h,1x8h
 status          : empty
 working-sessions:
