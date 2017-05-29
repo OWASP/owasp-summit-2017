@@ -23,6 +23,12 @@ This track consists of a series of book sprints, each of which focuses on produc
 
 Join up for the working session(s) you like by following the link(s) on top of this page, then hitting the "Edit this page here" link at the bottom, and adding yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions. Don't worry though if your favorite topic is on the "wrong" day - you can always simply stop by our session and we'll brief you on your topic of choice. After all, this is the Woodstock of appsec!
 
+More things to do once you have signed up:
+
+- Make yourself familiar with the [existing content](https://github.com/OWASP/owasp-mstg). Or even better, start contributing right away :)
+- Ping us on the [OWASP MSTG Slack channel](https://owasp.slack.com/messages/project-mobile_omtg/details/) (sushi2k or bernhardm).
+- If you have rooted Android / jailbroken iOS devices, please bring them along to the session.
+
 ## About the OWASP Mobile Security Testing Project
 
 Our project produces two key documents: A *security standard* for mobile apps, and a *testing guide* that augments the requirements in the security standard detailed, OS-specific test cases and secure coding recommendations. Note that our project is not related to the OWASP Mobile Top 10.
