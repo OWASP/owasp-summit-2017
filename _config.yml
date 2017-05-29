@@ -17,4 +17,4 @@ exclude:
   - website/_temp_files
   - Participants
   - Working-Sessions
-  - pages
+  - pages/for-editors

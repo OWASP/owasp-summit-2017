@@ -60,7 +60,7 @@ class Server
 
     @.server      = https.createServer(options, @.app).listen @.port
 
-    console.log ' Started server with SSL support'
+    #console.log ' Started server with SSL support'
 
   start_Server: =>
     @.start_Server_SSL()
