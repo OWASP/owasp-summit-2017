@@ -6,7 +6,7 @@ track        : Tools
 status       : done
 when-day     : Thu
 organizers   :
-participants : Bjoern Kimminich,Marc Rimbau
+participants : Bjoern Kimminich,Marc Rimbau,Johan Peeters
 ---
 
 ### Problem statement

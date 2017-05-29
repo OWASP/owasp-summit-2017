@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Mon
 organizers   :
-participants : Geoff Hill, Irene Michlin, Robert Morschel, Mamta Vuppu, Stephen de Vries
+participants : Geoff Hill, Irene Michlin, Robert Morschel, Mamta Vuppu, Stephen de Vries, Johan Peeters
 ---
 
 Discovery session on what tools exist currently and what their benefits and weaknesses are.
