@@ -6,7 +6,7 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   : AppSec Job Fair
-status       : draft
+status       : done
 organizers   : ade yoseman putra
 participants : ade yoseman putra
 ---
