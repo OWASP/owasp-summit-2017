@@ -70,11 +70,11 @@ mixin track-schedule
     .container
         h1 {{ page.title }}  (Track)
         p {{ page.description }}
-        + show-organizers
+        //+ show-organizers
         br
-        + show-participants
+        //+ show-participants
         br
-        + track-schedule
+        //+ track-schedule
 
         h3 Working sessions in this Track
         ul
@@ -92,7 +92,7 @@ mixin track-schedule
                         a(href='{{ page.url }}') {{ page.title }}
                     | {% endfor %}
         | {% endif %}
-        + show-related-to
+        //+ show-related-to
 
         | {{ content }}
         br

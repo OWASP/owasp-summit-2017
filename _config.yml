@@ -16,7 +16,7 @@ exclude:
   - Logistics/archive
   - website/_temp_files
   - _Participants
-  - Working-Sessions
+  - _Working-Sessions
   - pages/for-editors
   - schedule
   - posts
