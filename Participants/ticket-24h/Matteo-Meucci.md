@@ -4,13 +4,6 @@ title           : Matteo Meucci
 type            : participant
 time            : work
 travel-from     : Italy
-expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : 500
-ticket-cost     : 1500
-funded-amount   : 0
-required-funds  : 2000
 project-leader  : OWASP Testing Guide
 chapter-leader  :
 job-title       : CEO of Minded Security
@@ -18,6 +11,7 @@ image           : https://pbs.twimg.com/profile_images/620209707102392320/NTIZjx
 linkedin        : adrian-winckles-2582ab3
 twitter         : matteo_meucci
 status          : done
+ticket          : 5x24h
 facebook:
 ---
 
