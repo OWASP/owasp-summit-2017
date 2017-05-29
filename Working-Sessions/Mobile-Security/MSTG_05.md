@@ -36,7 +36,7 @@ This working session deals with everything related to mobile reversing, anti-rev
 
 Associated chapters in the MSTG:
 
-- [Android Reverse Engineering](Document/0x05c-Reverse-Engineering-and-Tampering.md) and
+- [Android Reverse Engineering](Document/0x05c-Reverse-Engineering-and-Tampering.md)
 - [Android Anti-Reversing Defenses](Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md)
 - [iOS Reverse Engineering](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md)
 - [iOS Anti-Reversing Defenses](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06j-Testing-Resiliency-Against-Reverse-Engineering.md)
