@@ -20,6 +20,9 @@ class Server
     # test route
     @.app.get '/ping', (req, res) =>          # todo: move to another location
       res.end 'pong'
+
+    @.app.get '/aaa', (req, res) =>  res.end 'bbbb'
+
     @
 
   add_Controllers: ->
@@ -45,7 +48,7 @@ class Server
       #pfx: fs.readFileSync pfx_File
       #passphrase: pfx_Passphrase
 
-    @.server      = https.createServer(options, @.app).listen @.port, '0.0.0.0'
+    @.server      = https.createServer(options, @.app).listen @.port
 
     console.log ' Started server with SSL support'
 
