@@ -6,7 +6,7 @@ track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
 status          : featured
-when-day        : Tue
+when-day        : Fri
 description     : In this book sprint we produce content for the reverse engineering chapters of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : T.b.d.
@@ -36,10 +36,18 @@ This working session deals with everything related to mobile reversing, anti-rev
 
 Associated chapters in the MSTG:
 
-- [Android Reverse Engineering](Document/0x05c-Reverse-Engineering-and-Tampering.md) and
+- [Android Reverse Engineering](Document/0x05c-Reverse-Engineering-and-Tampering.md)
 - [Android Anti-Reversing Defenses](Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md)
 - [iOS Reverse Engineering](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md)
 - [iOS Anti-Reversing Defenses](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06j-Testing-Resiliency-Against-Reverse-Engineering.md)
 - [Assessing Anti-Reverse Engineering Schemes](Document/0x07b-Assessing-Anti-Reverse-Engineering-Schemes.md)
 
-O
+## How to Join
+
+Follow the "Edit this page here" link at the bottom of this page and add yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions.
+
+More things to do once you have signed up:
+
+- Make yourself familiar with the [existing content](https://github.com/OWASP/owasp-mstg). Or even better, start contributing right away :)
+- Ping us on the [OWASP MSTG Slack channel](https://owasp.slack.com/messages/project-mobile_omtg/details/) (sushi2k or bernhardm).
+- If you have rooted Android / jailbroken iOS devices, please bring them along to the session.
