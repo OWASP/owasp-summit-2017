@@ -9,12 +9,14 @@
 {{ content }}
 <!--+ add-participations-->
 <h2>contact details</h2>
-<ul>
-  <!--+ add-email-->
-  <!--+ add-website-->
-  <!--+ add-twitter-->
-  <!--+ add-linkedin-->
-  <!--+ add-facebook-->
+<ul>{% if page.email != null %}
+  <li><a href="mailto:{{ page.email }}" target="_blank">Email</a></li>{% endif %}{% if page.website != null %}
+  <li><a href="{{page.website}}" target="_blank">Website</a></li>{% endif %}{% if page.twitter != null %}
+  <li><a href="https://twitter.com/{{ page.twitter }}" target="_blank">Twitter</a></li>{% endif %}{% if page.linkedin-company-beta != null %}
+  <li><a href="https://www.linkedin.com/company-beta/{{ page.linkedin-company-beta }}" target="_blank">LinkedIn</a></li>{% endif %}
+  {% if page.linkedin != null %}
+  <li><a href="https://linkedin.com/in/{{page.linkedin}}" target="_blank">LinkedIn</a></li>{% endif %}{% if page.facebook != null %}
+  <li><a href="https://facebook.com/{{page.facebook}}" target="_blank">Facebook</a></li>{% endif %}
 </ul><br/>
 <hr/>
 <p>Back to list of <a href='/website/participants.html'>all Participants</a></p>
