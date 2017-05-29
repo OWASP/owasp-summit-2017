@@ -13,15 +13,16 @@ participants : Katy Anton
 
 ## Why
 
-There are a number of opinions about the existing Top 10 categories, this Working Session presents the opportunity
- to present data and supporting information on what should be there
+There are many opinions about the existing Top 10 categories. This Working Session will allow participants to present data and supporting information on what the different categories should include.
 
 ## What
 
- - Data and information about Category to be added
- - Which existing Category should it replace?
+ - Add data and information about Top 10 Categories
+ - Which existing categories should be replaced?
 
 ## Who
+
+The target audience for this Working Session is:
 
  - Security Professionals
  - AppSec teams
