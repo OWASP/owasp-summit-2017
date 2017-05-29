@@ -8,8 +8,7 @@
         {% if author                                                  %}
         {%    if author.metadata.image != null                                 %}<img src="{{ author.metadata.image }}" alt="{{ author.name }}" class="img-responsive"/>{%    else                                                    %}<img src="/website/assets/img/blocks/400x400.png" alt="Placeholder 400x400" class="img-responsive"/>{%    endif                                                   %}
         <div class="author"><a href="{{author.url}}">{{ author.name }}</a></div>{%   else                                                     %}
-        <div class="author">{{ page.author }}</div>{%   endif                                                    %}
-        <!--+ add-author-old-->
+        <div class="author">{{ page.author }}</div>{%   endif                                                    %}<b>some test</b>
         <div class="date">{{ page.date | date: "%-d %B" }}</div>
       </div>
       <div class="col-xs-10"><br/>

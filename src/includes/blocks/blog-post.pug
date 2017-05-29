@@ -14,22 +14,6 @@ mixin add-author
     .author {{ page.author }}
     | {%   endif                                                    %}
 
-mixin add-author-old
-    | {% assign match = site.pages | where: 'title', page.author %}
-    b {{match}}
-    | {% if match[0] %}
-    | {% if match[0].image != null %}
-    img.img-responsive(src='{{ match[0].image }}' alt='{{ page.title }}')
-    | {% else %}
-    img.img-responsive(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
-    | {% endif %}
-    .author
-        a(href='{{match[0].url}}') {{ match[0].title }}
-    |   {% else %}
-
-    .author {{ page.author }}
-    |   {% endif %}
-
 mixin add-date
     .date {{ page.date | date: "%-d %B" }}
 
@@ -56,7 +40,7 @@ mixin add-navigation
         .row
             .col-xs-2
                 + add-author
-                //+ add-author-old
+                b some test
                 + add-date
 
             .col-xs-10
