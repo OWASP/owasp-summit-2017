@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Tue
 organizers   : Stephen de Vries
-participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Stephen de Vries
+participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Stephen de Vries, Johan Peeters
 ---
 
 ## Why

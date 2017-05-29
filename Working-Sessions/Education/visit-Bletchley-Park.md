@@ -7,7 +7,7 @@ track        :
 technology   :
 related-to   :
 status       : review-content
-when-day     : Fri
+when-day     : Thu
 organizers   : Johan Peeters (1 extra space in car)
 participants : Dinis Cruz
 ---

@@ -9,7 +9,7 @@ related-to   : Testing Guide v5
 status       : better-content
 when-day     : Wed
 organizers   : Dinis Cruz
-participants : Robert Morschel,Avi Douglen,Bjoern Kimminich, Timo Pagel
+participants : Robert Morschel,Avi Douglen,Bjoern Kimminich, Timo Pagel,Johan Peeters
 ---
 
 ## Why
