@@ -1,7 +1,6 @@
 
 mixin add-author
-    | {% assign author_2 = site.data.graph.participants[page.author]  %}
-    | {% assign author = site.data.json.participants_data[page.author]  %}
+    | {% assign author = site.data.mapped.participants[page.author]  %}
     | {% if author                                                  %}
     | {%    if author.metadata.image != null                                 %}
     img.img-responsive(src='{{ author.metadata.image }}' alt='{{ author.name }}')

@@ -6,10 +6,10 @@ class Jekyll_Data
   constructor: ->
     @.folder_Root            = wallaby?.localProjectDir || __dirname.path_Combine '../../../'
     @.folder_Data            = @.folder_Root.path_Combine 'website/_data'
-    @.folder_Data_Json       = @.folder_Root.path_Combine 'website/_data/json'
+    @.folder_Data_Mapped     = @.folder_Root.path_Combine 'website/_data/mapped'
     @.folder_Participants    = @.folder_Root.path_Combine('Participants')
-    @.file_Json_Participants = @.folder_Data_Json.path_Combine 'participants_data.json'
-    @.file_Yaml_Participants = @.folder_Data_Json.path_Combine 'participants_data.yml'
+    @.file_Json_Participants = @.folder_Data_Mapped.path_Combine 'participants.json'
+    @.file_Yaml_Participants = @.folder_Data_Mapped.path_Combine 'participants.yml'
 
   create_Participants_Json: ->
     console.log 'here...'
@@ -33,18 +33,22 @@ class Jekyll_Data
 
   participants_Data: ->
     data = {}
-    for file in @.folder_Participants.files_Recursive()
+    for file in @.folder_Participants.files_Recursive() when file.not_Contains('_template')
       name     = file.file_Name().remove('.md'        ).replace('-',' ')
       url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
       metadata = @.map_Participant_Raw_Data file.file_Contents()
       data[name] =
         name    : name
         url     : url
-        path    : file
+        #path    : file
         metadata: metadata
 
-    data.save_Json @.file_Json_Participants                          # save data as json file
-    yaml.safeDump(data).save_As @.file_Yaml_Participants             # save data as yml file
+    sorted_Data = {}
+    for key in data._keys().sort()
+      sorted_Data[key] = data[key]
+
+    sorted_Data.save_Json              @.file_Json_Participants                          # save data as json file
+    yaml.safeDump(sorted_Data).save_As @.file_Yaml_Participants             # save data as yml file
     return data
 
 

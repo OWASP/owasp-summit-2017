@@ -5,7 +5,7 @@ type            : participant
 job-title       : Manager of AppSec Research
 company         : Checkmarx
 travel-from     : Israel
-image           : https://pbs.twimg.com/profile_images/760508727455805440/lA3Kts8t.jpg
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJTAAAAJDQxNGRiMjJkLWJlMjYtNDM5YS05ZmIxLTNjN2I2MjFmODE5Ng.jpg
 linkedin        : erezyalon 
 twiter          : ErezYalon
 facebook        :
