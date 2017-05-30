@@ -18,7 +18,7 @@ Many individuals, and many companies attending the Summit have experience runnin
 
 This Working Session seeks to leverage this knowledge and experience present at the Summit to learn and understand very valuable lessons about public bug bounty programmes.  
 
-##What
+## What
 
 -	Top 10 lessons that people have learned
 -	How to improve bug bounty programmes 
