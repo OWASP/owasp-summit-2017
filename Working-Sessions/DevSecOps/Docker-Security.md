@@ -5,7 +5,7 @@ type          : workshop
 owasp-project : no
 track         : DevSecOps
 technology    :
-related-to    :
+related-to    : Creation and Optimization of a Docker Security Workshop
 status        : draft
 organizers    :
 participants  : Timo Pagel, Johan Peeters

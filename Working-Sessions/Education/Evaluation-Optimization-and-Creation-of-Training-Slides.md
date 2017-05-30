@@ -27,7 +27,7 @@ In this workshop we will:
 
 ### Potential Outcome
 Participents will have an overview of existing sources for training slides. 
-Existing slides will be more structured.
+A boundle of slides are created and integrated into the [OWASP Education Project](https://www.owasp.org/index.php/Category:OWASP_Education_Project#tab=Main).
 
 ### Who
 * Web Application Security Trainers
