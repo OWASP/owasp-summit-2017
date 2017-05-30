@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Creation and Optimization of a Docker Security Workshop
 type         : workshop
 owasp-project: no
-track        : education
+track        : Education
 technology   : Docker
 related-to   : Evaluation/Optimization/Creation of Training Slides, Docker Security
 status       : draft
