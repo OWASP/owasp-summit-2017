@@ -13,14 +13,13 @@ participants :
 
 ## Why
 
-Handling external submissions of security vulnerabilities via Bug Bounty Programs (or directly) is not a trivial task and should
-    not be left to chance.
+Handling external submissions of security vulnerabilities either directly or via bug bounty programmes is not a trivial task and should not be left to chance.
 
-It is critical that very specific workflows are followed so that not only the original issue is addressed, but any possible variations
-    are discovered and (if required) fixed.
+It is critical to follow very specific workflows that address the original issue, and that discover and fix (if necessary) any possible variations.
 
-Also very important is to have very focused and technically correct exchanges with the external individual(s) who submitted the
-    security vulnerability.
+It is also very important to have very focused and technically correct exchanges with the external individual(s) who submitted the security vulnerability.
+
+This Working Session will create a bug bounty playbook.
 
 ## What
 
@@ -28,6 +27,8 @@ Also very important is to have very focused and technically correct exchanges wi
 
 ## Who
 
- - Security Teams
- - Bug Bounty companies
- - Bug Bounters
+The target audience for this Working Session is:
+
+ - Security teams
+ - Bug bounty companies
+ - Bug bounty hunters

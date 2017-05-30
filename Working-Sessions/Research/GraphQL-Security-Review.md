@@ -18,17 +18,19 @@ participants : PhotoBox
 
 ## Why
 
-Use the community attending the Summit to perform a security review to GraphQL (Threat Modeling, Code Review, Static Analysis, Pentest)
+This Working Session aims to use the community attending the Summit to perform a security review to GraphQL (Threat Modeling, Code Review, Static Analysis, Pentest).
 
 ## What
 
  - Perform Security review to GraphQL
- - Improve existing Security Documentation and guidance
+ - Improve existing Security documentation and guidance
 
 ## Who
 
+The target audience for this Working Session is:
+
  - GraphQL developers
- - Security Researchers
+ - Security researchers
  - Companies using GraphQL
 
 ## References

@@ -9,7 +9,8 @@ related-to   :
 status       : review-content
 when-day     : Thu
 organizers   : Johan Peeters (1 extra space in car)
-participants : Dinis Cruz, Bjoern Kimminich
+participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom
+need-transportation: Viktor Lindstrom
 ---
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).

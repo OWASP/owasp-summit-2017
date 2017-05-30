@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Threat Modeling Scaling
+title        : Threat Modeling Scaling and Security Champions
 type         : workshop
 track        : Threat Model
 technology   :
@@ -15,7 +15,7 @@ Scaling Threat Modeling in the Enterprise
 
 ## Why
 
-Threat Modeling, in order to be most effective, needs to scale throughout an enterprise.
+Threat Modeling, in order to be most effective, needs to scale throughout an enterprise. There are several ways to do this, including utilizing Security Champions to help teams with Threat Modeling.
 
 ## What
 
