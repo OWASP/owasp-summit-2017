@@ -6,10 +6,10 @@ track        : Owasp Projects
 status       : more-content
 when-day     : Mon
 organizers   :
-participants : Marc Rimbau
+participants : Marc Rimbau,Johan Peeters
 ---
 
-* Bring together Cheatsheets creators and users 
+* Bring together Cheatsheets creators and users
 * Workshop ideas:
   * Working-Sessions on improving existing Cheatsheets, debating finer details of their content, and creating new ones
   * Work on an updated version of the CheatSheets book https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf (maybe adding it to Leanpub and Amazon)

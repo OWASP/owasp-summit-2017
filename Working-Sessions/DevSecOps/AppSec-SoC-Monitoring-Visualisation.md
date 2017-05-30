@@ -8,7 +8,7 @@ related-to   : CISO
 status       : done
 when-day     : Thu
 organizers   : Mateo Martinez
-participants : Dinis Cruz,Francois Raynaud, Don Gibson, Robert Morschel
+participants : Dinis Cruz,Francois Raynaud, Don Gibson, Robert Morschel, Johan Peeters
 ---
 
 ## Why
@@ -49,6 +49,3 @@ The target audience for this Working Sessions is:
  - InfoSec and AppSec Professionals
  - Business analysts
  - CISOs
-
-
-

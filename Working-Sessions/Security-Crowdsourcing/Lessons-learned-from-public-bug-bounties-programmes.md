@@ -6,7 +6,8 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : draft
+status       : definition-of-done
+when-day     : Thu
 organizers   :
 participants :
 ---

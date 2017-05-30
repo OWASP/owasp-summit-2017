@@ -1,9 +1,10 @@
 ---
 layout          : blocks/page-participant
-title           : ...
-type            : participant-remote
-job-title       :
-company         :
+title           : Nessim Kisserli
+type            : participant
+job-title       : Technical Expert
+company         : PwC
+travel-from     : Belgium
 image           :
 linkedin        :
 twiter          :
@@ -12,7 +13,7 @@ website         :
 email           :
 project-leader  :
 chapter-leader  :
-when-day        :
+ticket          : 5x24h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)

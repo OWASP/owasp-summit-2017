@@ -7,7 +7,7 @@ track        : DevSecOps
 technology   : CI,SAST
 related-to   : Integrating Security Tools in the SDL,CISO
 status       : draft
-participants :
+participants : Johan Peeters
 organizers   : Felipe Zipitria
 ---
 

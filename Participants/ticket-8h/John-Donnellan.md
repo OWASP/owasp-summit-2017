@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Nuno Loureiro
+title           : John Donnellan
 type            : participant
 job-title       :
 company         :
@@ -11,7 +11,10 @@ twiter          :
 facebook        :
 website         :
 email           :
-ticket          :
+project-leader  :
+chapter-leader  :
+when-day        : Wed
+ticket          : 1x8h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
