@@ -11,9 +11,7 @@ participants :
 ---
 
 The OWASP Internet of Things Project is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.
-
-The project looks to define a structure for various IoT sub-projects such as Attack Surface Areas, Testing Guides and Top Vulnerabilities.
-
+The project looks to define a structure for various IoT sub-projects such as Attack Surface Areas, Testing Guides and Top Vulnerabilities.  
 <img src='https://www.owasp.org/images/thumb/d/d6/Iot-project.png/800px-Iot-project.png' style='width:380px' alt='Iot project'/>
 
 ### Resources from Owasp.org
@@ -44,3 +42,11 @@ This session will be about the various sub-projects in the project, including:
 ## Who
 
 The ideal participants here are people with some sort of experience with IoT, either from the building, deploying, or testing worlds. We're looking for people with ideas around improving the existing sub-projects, taking on one of the sub-projects, starting a new one, or any combination of these.
+
+## The Definition of Done
+
+1. We get each section of the project (sub-projects) to a working state that participants agree are a solid starting point.
+2. We have a committed project leader for each sub-project, and we have next steps for each of these.
+3. We have plan for spreading the word about the project and its sub-projects to the world.
+4. We have an interaction plan for reaching out to other IoT project leaders for cooperation.
+5. We have an outline for one-pagers for the Attack Surfaces and Top Vulnerabilities that can be used as quick-look guidelines for developers.
