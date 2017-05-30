@@ -12,7 +12,7 @@ twiter          : zeroXten
 facebook        :
 ticket          : 5x8h
 status          : done
-working-sessions: BDD for Cloud Security,Netflix Resilience Engineering,Netflix Security Automation,Women in Cyber,Scaling Threat Modeling,Security Champions Threat Modeling,Threat Modeling Tools,DevSecOps vs SecDevOps,Writing Security Tests,Securing the CI Pipeline,Security Guidance and Feedback in IDE,Agile Practices for Security Teams
+working-sessions: BDD for Cloud Security,Netflix Resilience Engineering,Netflix Security Automation,Women in Cyber,Threat Modeling Scaling,Security Champions Threat Modeling,Threat Modeling Tools,DevSecOps vs SecDevOps,Writing Security Tests,Securing the CI Pipeline,Security Guidance and Feedback in IDE,Agile Practices for Security Teams
 ---
 
 Ex-sysadmin/DevOps. Lover of FOSS. Interested in security automation, Agile security, Rugged DevOps/DevSecOps/SecDevOps, security at scale, threat modelling, and lots of other things.
