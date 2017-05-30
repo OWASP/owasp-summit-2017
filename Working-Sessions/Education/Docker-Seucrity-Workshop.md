@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Creation and Optimizing of a Docker Security Workshop
+title        : Creation and Optimization of a Docker Security Workshop
 type         : workshop
 owasp-project: no
 track        : education
