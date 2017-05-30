@@ -2,7 +2,7 @@
 layout           : blocks/page-participant
 title            : Jason Haddix
 type             : participant-remote
-job-title        : Information Security Engineer
+job-title        : Head of Trust and Security
 company          : Bugcrowd
 image            : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfsAAAAJGUyNDhiMDZmLTY2YTEtNGRlOS05NjQ0LWM0MDc5MDc4ZjE1Zg.jpg
 linkedin         : jhaddix
