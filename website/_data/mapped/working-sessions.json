@@ -33,7 +33,9 @@
         "Johanna Curiel",
         "Claudia Cassanovas"
       ],
-      "participants": []
+      "participants": [
+        "Johan Peeters"
+      ]
     }
   },
   "A7 - Insufficient Attack Protection": {
@@ -607,6 +609,24 @@
       ]
     }
   },
+  "Creation and Optimization of a Docker Security Workshop": {
+    "name": "Creation and Optimization of a Docker Security Workshop",
+    "url": "/Working-Sessions/Education/Docker-Seucrity-Workshop.html",
+    "metadata": {
+      "layout": "blocks/working-session",
+      "title": "Creation and Optimization of a Docker Security Workshop",
+      "type": "workshop",
+      "owasp-project": "no",
+      "track": "Education",
+      "technology": "Docker",
+      "related-to": "Evaluation/Optimization/Creation of Training Slides, Docker Security",
+      "status": "draft",
+      "organizers": [
+        "Timo Pagel"
+      ],
+      "participants": []
+    }
+  },
   "Cross-Company Hackathons": {
     "name": "Cross-Company Hackathons",
     "url": "/Working-Sessions/Security-Crowdsourcing/Cross-Company-Hackathons.html",
@@ -830,7 +850,7 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "",
-      "related-to": "",
+      "related-to": "Creation and Optimization of a Docker Security Workshop",
       "status": "draft",
       "organizers": [],
       "participants": [
@@ -857,7 +877,8 @@
         "Marc Rimbau",
         "Mateo Martinez",
         "Yan Kravchenko",
-        "Timo Pagel"
+        "Timo Pagel",
+        "Viktor Lindström"
       ]
     }
   },
@@ -2254,7 +2275,8 @@
       "participants": [
         "Yan Kravchenko",
         "Robert Morschel",
-        "Irene Michlin"
+        "Irene Michlin",
+        "Viktor Lindström"
       ]
     }
   },
@@ -2504,23 +2526,6 @@
         "Ante Gulam"
       ],
       "description": "Working Sessions for Security Crowdsourcing",
-      "participants": []
-    }
-  },
-  "Security Crowdsourcing the SDL Practices": {
-    "name": "Security Crowdsourcing the SDL Practices",
-    "url": "/Working-Sessions/Security-Crowdsourcing/Security-Crowdsourcing-the-SDL-Practices.html",
-    "metadata": {
-      "layout": "blocks/working-session",
-      "title": "Security Crowdsourcing the SDL Practices",
-      "type": "workshop",
-      "owasp-project": "no",
-      "track": "Security Crowdsourcing",
-      "technology": "",
-      "related-to": "",
-      "status": "draft",
-      "when-day": "Thu",
-      "organizers": [],
       "participants": []
     }
   },
@@ -2936,12 +2941,12 @@
       ]
     }
   },
-  "Threat Modeling Scaling": {
-    "name": "Threat Modeling Scaling",
+  "Threat Modeling Scaling and Security Champions": {
+    "name": "Threat Modeling Scaling and Security Champions",
     "url": "/Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html",
     "metadata": {
       "layout": "blocks/working-session",
-      "title": "Threat Modeling Scaling",
+      "title": "Threat Modeling Scaling and Security Champions",
       "type": "workshop",
       "track": "Threat Model",
       "technology": "",
@@ -3262,8 +3267,11 @@
       ],
       "participants": [
         "Dinis Cruz",
-        "Bjoern Kimminich"
-      ]
+        "Bjoern Kimminich",
+        "Steven Wierckx",
+        "Viktor Lindstrom"
+      ],
+      "need-transportation": "Viktor Lindstrom"
     }
   },
   "Webgoat": {

@@ -28,7 +28,8 @@ A10 - Underprotected APIs:
       - Dave Wichers
       - Johanna Curiel
       - Claudia Cassanovas
-    participants: []
+    participants:
+      - Johan Peeters
 A7 - Insufficient Attack Protection:
   name: A7 - Insufficient Attack Protection
   url: /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
@@ -522,6 +523,21 @@ Creating AppSec Teams:
     participants:
       - Avi Douglen
       - Robert Morschel
+Creation and Optimization of a Docker Security Workshop:
+  name: Creation and Optimization of a Docker Security Workshop
+  url: /Working-Sessions/Education/Docker-Seucrity-Workshop.html
+  metadata:
+    layout: blocks/working-session
+    title: Creation and Optimization of a Docker Security Workshop
+    type: workshop
+    owasp-project: 'no'
+    track: Education
+    technology: Docker
+    related-to: 'Evaluation/Optimization/Creation of Training Slides, Docker Security'
+    status: draft
+    organizers:
+      - Timo Pagel
+    participants: []
 Cross-Company Hackathons:
   name: Cross-Company Hackathons
   url: /Working-Sessions/Security-Crowdsourcing/Cross-Company-Hackathons.html
@@ -714,7 +730,7 @@ Docker Security:
     owasp-project: 'no'
     track: DevSecOps
     technology: ''
-    related-to: ''
+    related-to: Creation and Optimization of a Docker Security Workshop
     status: draft
     organizers: []
     participants:
@@ -738,6 +754,7 @@ Draft SAMM2 - the "DevOps release":
       - Mateo Martinez
       - Yan Kravchenko
       - Timo Pagel
+      - Viktor Lindström
 Due Diligence Playbook:
   name: Due Diligence Playbook
   url: /Working-Sessions/Security-Playbooks/Due-Diligence-Playbook.html
@@ -1943,6 +1960,7 @@ Review and improve the 12 SAMM practices:
       - Yan Kravchenko
       - Robert Morschel
       - Irene Michlin
+      - Viktor Lindström
 Role of Security Certification:
   name: Role of Security Certification
   url: /Working-Sessions/Education/Role-of-Security-Certifications.html
@@ -2154,22 +2172,6 @@ Security Crowdsourcing:
     organizers:
       - Ante Gulam
     description: Working Sessions for Security Crowdsourcing
-    participants: []
-Security Crowdsourcing the SDL Practices:
-  name: Security Crowdsourcing the SDL Practices
-  url: >-
-    /Working-Sessions/Security-Crowdsourcing/Security-Crowdsourcing-the-SDL-Practices.html
-  metadata:
-    layout: blocks/working-session
-    title: Security Crowdsourcing the SDL Practices
-    type: workshop
-    owasp-project: 'no'
-    track: Security Crowdsourcing
-    technology: ''
-    related-to: ''
-    status: draft
-    when-day: Thu
-    organizers: []
     participants: []
 Security Guidance and Feedback in IDE:
   name: Security Guidance and Feedback in IDE
@@ -2540,12 +2542,12 @@ Threat Modeling OWASP Pages:
       - Tony UV
     participants:
       - Avi Douglen
-Threat Modeling Scaling:
-  name: Threat Modeling Scaling
+Threat Modeling Scaling and Security Champions:
+  name: Threat Modeling Scaling and Security Champions
   url: /Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html
   metadata:
     layout: blocks/working-session
-    title: Threat Modeling Scaling
+    title: Threat Modeling Scaling and Security Champions
     type: workshop
     track: Threat Model
     technology: ''
@@ -2832,6 +2834,9 @@ Visit Bletchley Park:
     participants:
       - Dinis Cruz
       - Bjoern Kimminich
+      - Steven Wierckx
+      - Viktor Lindstrom
+    need-transportation: Viktor Lindstrom
 Webgoat:
   name: Webgoat
   url: /Working-Sessions/Owasp-Projects/WebGoat.html

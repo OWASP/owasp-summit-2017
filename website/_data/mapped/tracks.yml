@@ -159,6 +159,9 @@ Education:
     - name: Creating AppSec Teams
       when-day: Tue
       status: review-content
+    - name: Creation and Optimization of a Docker Security Workshop
+      when-day: ''
+      status: draft
     - name: Cyber Security Economics
       when-day: ''
       status: draft
@@ -418,9 +421,6 @@ Security Crowdsourcing:
     - name: Responsible Disclosure
       when-day: Tue
       status: more-content
-    - name: Security Crowdsourcing the SDL Practices
-      when-day: Thu
-      status: draft
 Security Playbooks:
   name: Security Playbooks
   url: /Working-Sessions/Security-Playbooks/index.html
@@ -509,7 +509,7 @@ Threat Model:
     - name: Threat Modeling OWASP Pages
       when-day: Wed
       status: improve-content
-    - name: Threat Modeling Scaling
+    - name: Threat Modeling Scaling and Security Champions
       when-day: Wed
       status: review-content
     - name: Threat Modeling Schema

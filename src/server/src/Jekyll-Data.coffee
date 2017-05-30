@@ -11,6 +11,8 @@ class Jekyll_Data
     @.folder_Working_Sessions     = @.folder_Root.path_Combine('Working-Sessions')
     @.file_Json_Participants      = @.folder_Data_Mapped.path_Combine 'participants.json'
     @.file_Yaml_Participants      = @.folder_Data_Mapped.path_Combine 'participants.yml'
+    @.file_Json_Topics            = @.folder_Data_Mapped.path_Combine 'topics.json'
+    @.file_Yaml_Topics            = @.folder_Data_Mapped.path_Combine 'topics.yml'
     @.file_Json_Tracks            = @.folder_Data_Mapped.path_Combine 'tracks.json'
     @.file_Yaml_Tracks            = @.folder_Data_Mapped.path_Combine 'tracks.yml'
     @.file_Json_Working_Sessions  = @.folder_Data_Mapped.path_Combine 'working-sessions.json'
@@ -86,8 +88,13 @@ class Jekyll_Data
         name              : track_Name
         url               : track_Data.url
         description       : track_Data.metadata.description
-      console.log track_Name
-    console.log  data
+
+    sorted_Data = {}
+    for key in data._keys().sort()
+      sorted_Data[key] = data[key]
+    sorted_Data.save_Json              @.file_Json_Topics           # save data as json file
+    yaml.safeDump(sorted_Data).save_As @.file_Yaml_Topics           # save data as yml file
+
     data
 
   map_Working_Session_Raw_Data: (raw_Data)->                                              # todo: refactor this method with map_Participant_Raw_Data and map_Tracks_Data

@@ -255,6 +255,11 @@
         "status": "review-content"
       },
       {
+        "name": "Creation and Optimization of a Docker Security Workshop",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
         "name": "Cyber Security Economics",
         "when-day": "",
         "status": "draft"
@@ -658,11 +663,6 @@
         "name": "Responsible Disclosure",
         "when-day": "Tue",
         "status": "more-content"
-      },
-      {
-        "name": "Security Crowdsourcing the SDL Practices",
-        "when-day": "Thu",
-        "status": "draft"
       }
     ]
   },
@@ -796,7 +796,7 @@
         "status": "improve-content"
       },
       {
-        "name": "Threat Modeling Scaling",
+        "name": "Threat Modeling Scaling and Security Champions",
         "when-day": "Wed",
         "status": "review-content"
       },

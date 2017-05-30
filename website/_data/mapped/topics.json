@@ -1,0 +1,42 @@
+{
+  "GDPR": {
+    "name": "GDPR",
+    "url": "/Working-Sessions/Technologies/GDPR.html",
+    "description": "GDPR (General Data Protection Regulation) is a regulation by which the European Parliament, the European Council and the European Commission intend to strengthen and unify data protection for all individuals within the European Union."
+  },
+  "IoT": {
+    "name": "IoT",
+    "url": "/Working-Sessions/Technologies/IoT.html",
+    "description": "The Internet of things (IoT) is the inter-networking of physical devices, vehicles (also referred to as \"connected devices\" and \"smart devices\"), buildings, and other items—embedded with electronics, software, sensors, actuators, and network connectivity that enable these objects to collect and exchange data."
+  },
+  "Java": {
+    "name": "Java",
+    "url": "/Working-Sessions/Technologies/Java.html",
+    "description": ""
+  },
+  "Mobile": {
+    "name": "Mobile",
+    "url": "/Working-Sessions/Technologies/Mobile.html",
+    "description": ""
+  },
+  "Node": {
+    "name": "Node",
+    "url": "/Working-Sessions/Technologies/Node.html",
+    "description": ""
+  },
+  "SAST": {
+    "name": "SAST",
+    "url": "/Working-Sessions/Technologies/SAST.html",
+    "description": "Static application security testing (SAST) is a set of technologies designed to analyze application source code, byte code and binaries for coding and design conditions that are indicative of security vulnerabilities. SAST solutions analyze an application from the “inside out” in a nonrunning state."
+  },
+  "SOC": {
+    "name": "SOC",
+    "url": "/Working-Sessions/Technologies/SOC.html",
+    "description": "SOC (Security Operations Center) is a key part of the Security capabilities."
+  },
+  "TLS": {
+    "name": "TLS",
+    "url": "/Working-Sessions/Technologies/TLS.html",
+    "description": "Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer (SSL), both frequently referred to as \"SSL\", are cryptographic protocols that provide communications security over a computer network"
+  }
+}
