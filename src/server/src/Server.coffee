@@ -14,7 +14,7 @@ class Server
   setup_Server: =>    
     @.app = express()
 
-    #@.app.get '/', (req, res) =>          # todo: move to another location
+    #@.app.get '/', (req, res) =>             # todo: move to another location
     #  res.end 'ok'
     #@
     # test route

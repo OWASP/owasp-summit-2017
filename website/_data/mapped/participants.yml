@@ -1,5 +1,5 @@
-Achim D-Brucker:
-  name: Achim D-Brucker
+Achim D Brucker:
+  name: Achim D Brucker
   url: /Participants/remote/Achim-D-Brucker.html
   metadata:
     layout: blocks/page-participant
@@ -102,8 +102,8 @@ Adam Shostack:
       - Threat Modeling Where do I Start?
       - Threat Modeling Scaling
       - Security Champions Threat Modeling
-Ade Yoseman-Putra:
-  name: Ade Yoseman-Putra
+Ade Yoseman Putra:
+  name: Ade Yoseman Putra
   url: /Participants/need-funding/Ade-Yoseman-Putra.html
   metadata:
     layout: blocks/page-participant
@@ -600,8 +600,8 @@ Bruce Jenkins:
     ticket: 5x24h
     status: empty
     working-sessions: []
-Capital One-3:
-  name: Capital One-3
+Capital One 3:
+  name: Capital One 3
   url: /Participants/ticket-24h-sponsor/Capital-One-3.html
   metadata:
     layout: blocks/page-participant
@@ -621,8 +621,8 @@ Capital One-3:
     ticket: 5x24h
     status: empty
     working-sessions: []
-Capital One-4:
-  name: Capital One-4
+Capital One 4:
+  name: Capital One 4
   url: /Participants/ticket-24h-sponsor/Capital-One-4.html
   metadata:
     layout: blocks/page-participant
@@ -642,8 +642,8 @@ Capital One-4:
     ticket: 5x24h
     status: empty
     working-sessions: []
-Capital One-5:
-  name: Capital One-5
+Capital One 5:
+  name: Capital One 5
   url: /Participants/ticket-24h-sponsor/Capital-One-5.html
   metadata:
     layout: blocks/page-participant
@@ -663,8 +663,8 @@ Capital One-5:
     ticket: 5x24h
     status: empty
     working-sessions: []
-Capital One-7:
-  name: Capital One-7
+Capital One 7:
+  name: Capital One 7
   url: /Participants/ticket-8h-sponsor/Capital-One-7.html
   metadata:
     layout: blocks/page-participant
@@ -684,8 +684,8 @@ Capital One-7:
     ticket: 5x8h
     status: empty
     working-sessions: []
-Capital One-8:
-  name: Capital One-8
+Capital One 8:
+  name: Capital One 8
   url: /Participants/ticket-8h-sponsor/Capital-One-8.html
   metadata:
     layout: blocks/page-participant
@@ -2109,7 +2109,7 @@ Marc Rimbau:
     type: participant
     job-title: ''
     company: Axa Assistance
-    travel-from: ''
+    travel-from: Spain
     image: ''
     linkedin: ''
     twiter: ''
@@ -2301,8 +2301,8 @@ Mike Milner:
     ticket: 5x24h
     working sessions: ''
     working-sessions: []
-Mohammad Febri-Ramadlan:
-  name: Mohammad Febri-Ramadlan
+Mohammad Febri Ramadlan:
+  name: Mohammad Febri Ramadlan
   url: /Participants/remote/Mohammad-Febri-Ramadlan.html
   metadata:
     layout: blocks/page-participant
@@ -3045,8 +3045,8 @@ Simon Bennetts:
     linkedin: psiinon
     twitter: psiinon
     working-sessions: []
-Stefano Di-Paola:
-  name: Stefano Di-Paola
+Stefano Di Paola:
+  name: Stefano Di Paola
   url: /Participants/ticket-24h/Stefano-Di-Paola.html
   metadata:
     layout: blocks/page-participant
@@ -3067,8 +3067,8 @@ Stefano Di-Paola:
     ticket: 5x24h
     status: empty
     working-sessions: []
-Stephen de-Vries:
-  name: Stephen de-Vries
+Stephen de Vries:
+  name: Stephen de Vries
   url: /Participants/ticket-24h-invoice/Stephen-de-Vries.html
   metadata:
     layout: blocks/page-participant
@@ -3162,8 +3162,8 @@ Steven Wierckx:
     ticket: 5x24h
     status: done
     working-sessions: []
-Steven van-der-Baan:
-  name: Steven van-der-Baan
+Steven van der Baan:
+  name: Steven van der Baan
   url: /Participants/funded/Steven-van-der-Baan.html
   metadata:
     layout: blocks/page-participant
@@ -3466,8 +3466,8 @@ Vandana Verma:
       - Recruiting AppSec Talent
       - Netflix Security Automation
       - Netflix Resilience Engineering
-Victor Vidigal-Ribeiro:
-  name: Victor Vidigal-Ribeiro
+Victor Vidigal Ribeiro:
+  name: Victor Vidigal Ribeiro
   url: /Participants/remote/Victor-Vidigal-Ribeiro.html
   metadata:
     layout: blocks/page-participant

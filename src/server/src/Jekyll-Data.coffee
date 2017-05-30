@@ -38,7 +38,7 @@ class Jekyll_Data
   map_Participants_Data: ->
     data = {}
     for file in @.folder_Participants.files_Recursive() when file.not_Contains('_template')
-      name     = file.file_Name().remove('.md'        ).replace('-',' ')
+      name     = file.file_Name().remove('.md'        ).replace(/-/g,' ')
       url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
       metadata = @.map_Participant_Raw_Data file.file_Contents()
       data[name] =
@@ -57,14 +57,15 @@ class Jekyll_Data
 
   map_Tracks_Data: ()->
     working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()
+    participants_Data     = @.file_Json_Participants.load_Json()
     data = {}
     for track_Name, track_Data of working_Sessions_Data when track_Data.metadata.type is 'track'
       data[track_Name] =
         name              : track_Name
         url               : track_Data.url
         description       : track_Data.metadata.description
-        organizers        : track_Data.metadata.organizers
-        participants      : track_Data.metadata.participants
+        organizers        : @.resolve_Names participants_Data, track_Data.metadata.organizers
+        participants      : @.resolve_Names participants_Data, track_Data.metadata.participants
         'working-sessions': { ok: [], draft: []}
       for key,value of working_Sessions_Data when value.metadata.track is track_Name
         item =
@@ -128,8 +129,6 @@ class Jekyll_Data
     for file in @.folder_Working_Sessions.files_Recursive() when file.not_Contains('_template')
       metadata = @.map_Working_Session_Raw_Data file.file_Contents()
 
-      #name     = file.file_Name().remove('.md'        ).replace('-',' ')
-
       name = metadata.title || ''
       url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
 
@@ -147,6 +146,18 @@ class Jekyll_Data
 
     data
 
+  resolve_Names: (participants_Data, names)->
+    result = []
+    for name in names
+      data = participants_Data[name]
+      if data
+        result.add
+          name   : name
+          url    : data.url
+          remote : data.metadata.type is 'participant-remote'
+      else
+        result.add name : name
+    result
 
 
 

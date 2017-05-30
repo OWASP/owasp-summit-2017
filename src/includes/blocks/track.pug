@@ -1,36 +1,29 @@
-mixin show-organizers
-    | {% if page.organizers != null %}
-    | {% assign organizers = page.organizers | split: ',' %}
-    b Organizer(s): &#32;
-    | {% for organizer in organizers %}
-    |   {% assign match = site.pages | where: 'title', organizer %}
-    |   {% if match[0] %}
-    a(href='{{match[0].url}}') {{ match[0].title }}
-    |   {% else %}
-    span {{ organizer }}
-    |   {% endif %}
-    |   {% if forloop.last != true %}
+mixin show-users-with-links
+    b {{title}}: &#32;
+    | {% for item in list                           %}
+    | {%    if item.url                             %}
+    a(href='{{item.url}}') {{ item.name }}
+    | {%    else                                    %}
+    span {{ item.name }}
+    | {%    endif                                   %}
+    | {%    if item.remote                          %}
+    span (remotely)
+    | {%    endif                                   %}
+    | {%    if forloop.last != true                 %}
     span ,
-    |   {% endif %}
-    | {% endfor %}
-    | {% endif %}
+    | {%    endif                                   %}
+    | {% endfor                                     %}
+
+mixin show-organizers
+    | {% assign title = 'Organizer(s)'              %}
+    | {% assign list  = track_data.organizers       %}
+    + show-users-with-links
 
 mixin show-participants
-    | {% if page.participants != null %}
-    | {% assign participants = page.participants | split: ',' %}
-    b Participants(s): &#32;
-    | {% for participant in participants %}
-    |   {% assign match = site.pages | where: 'title', participant %}
-    |   {% if match[0] %}
-    a(href='{{match[0].url}}') {{ match[0].title }}
-    |   {% else %}
-    span {{ participant }}
-    |   {% endif %}
-    |   {% if forloop.last != true %}
-    span ,
-    |   {% endif %}
-    | {% endfor %}
-    | {% endif %}
+    | {% assign title = 'Participants(s)'           %}
+    | {% assign list  = track_data.participants     %}
+    + show-users-with-links
+
 
 mixin show-related-to
     | {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
@@ -57,47 +50,45 @@ mixin show-related-to
     | {% endif                                  %}
 
 mixin track-schedule
-    p
+    b
         | See &#32;
         a(href="/schedule/tracks/{{ page.title | replace: ' ', '-'}}.html") schedule
         | &#32; for this track
 
 
-
-| {% assign tracks_ws_ok    = site.pages | where: 'track', page.title  | where_exp: 'item' , 'item.status != "draft"'%}
-| {% assign tracks_ws_draft = site.pages | where: 'track', page.title  | where_exp: 'item' , 'item.status == "draft"'%}
-
-| {% assign tracks_ws_ok    = site.data.mapped.tracks[page.title].working-sessions.ok    %}
-| {% assign tracks_ws_draft = site.data.mapped.tracks[page.title].working-sessions.draft %}
+| {% assign track_data     = site.data.mapped.tracks[page.title]                        %}
+| {% assign track_ws_ok    = track_data.working-sessions.ok                             %}
+| {% assign track_ws_draft = track_data.working-sessions.draft                          %}
 
 .working-session
     .container
         h1 {{ page.title }}  (Track)
         p {{ page.description }}
-        //+ show-organizers
+        + show-organizers
         br
-        //+ show-participants
+        + show-participants
         br
-        //+ track-schedule
+        + track-schedule
 
         h3 Working sessions in this Track
         ul
-            | {% for track in tracks_ws_ok %}
+            | {% for track in track_ws_ok %}
             li
                 a(href='{{ track.url }}') {{ track.name }}
             | {% endfor %}
-        | {% if tracks_ws_draft.size > 0 %}
+
+        | {% if track_ws_draft.size > 0 %}
         ul
             li
                 b In draft status (i.e. need content):
                 ul
-                    | {% for track in tracks_ws_draft %}
+                    | {% for track in track_ws_draft %}
                     li
                         a(href='{{ track.url }}') {{ track.name }}
                     | {% endfor %}
 
         | {% endif %}
-        //+ show-related-to
+        + show-related-to
 
         | {{ content }}
         br

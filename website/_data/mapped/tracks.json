@@ -4,11 +4,21 @@
     "url": "/Working-Sessions/Agile-AppSec/index.html",
     "description": "Working Sessions for Agile related topics",
     "organizers": [
-      "David Clarke"
+      {
+        "name": "David Clarke"
+      }
     ],
     "participants": [
-      "Ante Gulam",
-      "Avi Douglen"
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      }
     ],
     "working-sessions": {
       "ok": [
@@ -76,13 +86,33 @@
     "url": "/Working-Sessions/CISO/index.html",
     "description": "Working Sessions for CISOs",
     "organizers": [
-      "Ante Gulam"
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
     ],
     "participants": [
-      "Dinis Cruz",
-      "Mateo Martinez",
-      "Yan Kravchenko",
-      "Francois Raynaud"
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
     ],
     "working-sessions": {
       "ok": [
@@ -162,10 +192,18 @@
     "url": "/Working-Sessions/DevSecOps/index.html",
     "description": "Working Sessions related to DevSecOps",
     "organizers": [
-      "Francois Raynaud"
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
     ],
     "participants": [
-      "Francois Raynaud"
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
     ],
     "working-sessions": {
       "ok": [
@@ -366,16 +404,48 @@
     "url": "/Working-Sessions/Mobile-Security/index.html",
     "description": "Working Sessions related to Mobile Security",
     "organizers": [
-      "Bernhard Mueller",
-      "Sven Schleier"
+      {
+        "name": "Bernhard Mueller",
+        "url": "/Participants/ticket-24h-owasp/Bernhard-Mueller.html",
+        "remote": false
+      },
+      {
+        "name": "Sven Schleier",
+        "url": "/Participants/funded/Sven-Schleier.html",
+        "remote": false
+      }
     ],
     "participants": [
-      "Denis Pilipchuk",
-      "Naushad",
-      "Bolot Kerimbaev",
-      "Jeroen Willemsen",
-      "Marc Rimbau",
-      "Kuai Hinojosa"
+      {
+        "name": "Denis Pilipchuk",
+        "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
+        "remote": false
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
+        "remote": false
+      },
+      {
+        "name": "Bolot Kerimbaev",
+        "url": "/Participants/ticket-24h/Bolot-Kerimbaev.html",
+        "remote": false
+      },
+      {
+        "name": "Jeroen Willemsen",
+        "url": "/Participants/ticket-24h-sponsor/Jeroen-Willemsen.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Kuai Hinojosa",
+        "url": "/Participants/need-funding/Kuai-Hinojosa.html",
+        "remote": false
+      }
     ],
     "working-sessions": {
       "ok": [
@@ -418,8 +488,16 @@
     "url": "/Working-Sessions/Owasp-Projects/index.html",
     "description": "Working Sessions focused on Owasp Projects",
     "organizers": [
-      "Claudia Casanovas",
-      "Johanna Curiel"
+      {
+        "name": "Claudia Casanovas",
+        "url": "/Participants/funded/Claudia-Casanovas.html",
+        "remote": false
+      },
+      {
+        "name": "Johanna Curiel",
+        "url": "/Participants/funded/Johanna-Curiel.html",
+        "remote": false
+      }
     ],
     "participants": [],
     "working-sessions": {
@@ -548,14 +626,38 @@
     "url": "/Working-Sessions/Owasp-Top-10-2017/index.html",
     "description": "Owasp Top 2017 RC1 is out and the Summit is the location to debate it and agree on the final list",
     "organizers": [
-      "Dave Wichers"
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      }
     ],
     "participants": [
-      "Bjoern Kimminich",
-      "Marc Rimbau",
-      "Brian Glas",
-      "Felipe Zipitria",
-      "Mateo Martinez"
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Brian Glas",
+        "url": "/Participants/ticket-24h-sponsor/Brian-Glas.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      }
     ],
     "working-sessions": {
       "ok": [
@@ -647,14 +749,38 @@
     "url": "/Working-Sessions/OwaspSAMM/index.html",
     "description": "Working Sessions related to the Owasp SAMM Project",
     "organizers": [
-      "Sebastien Deleersnyder"
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      }
     ],
     "participants": [
-      "Dinis Cruz",
-      "Mateo Martinez",
-      "Brian Glas",
-      "Avi Douglen",
-      "Yan Kravchenko"
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Brian Glas",
+        "url": "/Participants/ticket-24h-sponsor/Brian-Glas.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
     ],
     "working-sessions": {
       "ok": [],
@@ -752,7 +878,11 @@
     "url": "/Working-Sessions/Security-Crowdsourcing/index.html",
     "description": "Working Sessions for Security Crowdsourcing",
     "organizers": [
-      "Ante Gulam"
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
     ],
     "participants": [],
     "working-sessions": {
@@ -816,7 +946,11 @@
     "description": "Playbooks are workflows and prescriptive instructions on how to handle specific Security activities or incidents.",
     "organizers": [],
     "participants": [
-      "Yan Kravchenko"
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
     ],
     "working-sessions": {
       "ok": [
@@ -901,22 +1035,78 @@
     "url": "/Working-Sessions/Threat-Model/index.html",
     "description": "Working Sessions related to Threat Modeling Security",
     "organizers": [
-      "Tony UV",
-      "Steven Wierckx"
+      {
+        "name": "Tony UV",
+        "url": "/Participants/ticket-24h/Tony-UV.html",
+        "remote": false
+      },
+      {
+        "name": "Steven Wierckx",
+        "url": "/Participants/ticket-24h-sponsor/Steven-Wierckx.html",
+        "remote": false
+      }
     ],
     "participants": [
-      "Robert Hurlbut",
-      "Stephen de Vries",
-      "Adam Shostack",
-      "Marco Morana",
-      "Sebastien Deleersnyder",
-      "Francois Raynaud",
-      "Marc Rimbau",
-      "Dinis Cruz",
-      "Robert Morschel",
-      "Avi Douglen",
-      "Irene Michlin",
-      "Geoff Hill"
+      {
+        "name": "Robert Hurlbut",
+        "url": "/Participants/remote/Robert-Hurlbut.html",
+        "remote": true
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "remote": false
+      },
+      {
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
+        "remote": false
+      },
+      {
+        "name": "Marco Morana",
+        "url": "/Participants/ticket-8h-owasp/Marco-Morana.html",
+        "remote": false
+      },
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Geoff Hill",
+        "url": "/Participants/ticket-8h/Geoff-Hill.html",
+        "remote": false
+      }
     ],
     "working-sessions": {
       "ok": [

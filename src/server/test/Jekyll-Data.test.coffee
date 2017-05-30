@@ -47,3 +47,13 @@ describe 'Jekyll_Data', ->
     using jekyll_Data, ->
       data = @.map_Working_Sessions_Data()
       data._keys().size().assert_Is_Bigger_Than 100
+
+  it 'resolve_Names', ->
+    using jekyll_Data, ->
+      participants_Data = @.file_Json_Participants.load_Json()
+      test_Names        = ['Bernhard Mueller' , 'Sven Schleier','Abc']
+      @.resolve_Names(participants_Data, test_Names)
+           .assert_Is [ { name: 'Bernhard Mueller', url: '/Participants/ticket-24h-owasp/Bernhard-Mueller.html' , remote:false},
+                        { name: 'Sven Schleier'   ,url: '/Participants/funded/Sven-Schleier.html'               , remote:false},
+                        { name: 'Abc' } ]
+
