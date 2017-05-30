@@ -13,18 +13,17 @@ participants :
 
 ## Why
 
-Given the scale of the Ransomware market ($209 million paid in 2016) and the scale of its operations (50% of organizations
-    have responded to a Ransomware campaign) and increased used of technology (exploits used to propagate), it is just a matter
-    of time, before a security team is tasked with dealing with a Ransomware incident.
+Given the scale of the Ransomware market ($209 million paid in 2016), the scale of its operations (50% of organisations have responded to a Ransomware campaign), and increased use of technology in the form of exploits used to propagate attacks, it is a matter of time before a security team must deal with a Ransomware incident.
 
-When that happens, it is very important that very clean workflows (aka playbooks) exist, so that the team's response
-    is consistent, focused and repeatable.
+When that happens, it is imperative that clean workflows (aka playbooks) exist, so that the team can respond in a consistent, focused, and repeatable way. This Working Session will create a Ransomware Playbook for use by security teams.
 
 ## What
 
  - Create Ransomware Playbook
 
 ## Who
+
+The target audience for this Working Session is:
 
  - Security teams
 
