@@ -1,0 +1,845 @@
+{
+  "Agile AppSec": {
+    "name": "Agile AppSec",
+    "url": "/Working-Sessions/Agile-AppSec/index.html",
+    "description": "Working Sessions for Agile related topics",
+    "organizers": [
+      "David Clarke"
+    ],
+    "participants": [
+      "Ante Gulam",
+      "Avi Douglen"
+    ],
+    "working-sessions": [
+      {
+        "name": "Agile Practices for Security Teams",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Define Agile Security Practices",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "Integrating Security into a Portfolio Kanban",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Integrating Security into a Sales Channel",
+        "when-day": "Thu",
+        "status": "review-content"
+      },
+      {
+        "name": "Integrating Security into an Spotify Model",
+        "when-day": "Thu",
+        "status": "review-content"
+      },
+      {
+        "name": "Scaling Agile Planning and Education.md",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Security Champions",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Security Guild vs Security Champions",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "Using Security Risks to Measure Agile Practices",
+        "when-day": "Tue",
+        "status": "review-content"
+      }
+    ]
+  },
+  "CISO": {
+    "name": "CISO",
+    "url": "/Working-Sessions/CISO/index.html",
+    "description": "Working Sessions for CISOs",
+    "organizers": [
+      "Ante Gulam"
+    ],
+    "participants": [
+      "Dinis Cruz",
+      "Mateo Martinez",
+      "Yan Kravchenko",
+      "Francois Raynaud"
+    ],
+    "working-sessions": [
+      {
+        "name": "AppSec Article 5 - Collective Defence Agreement",
+        "when-day": "",
+        "status": "review-content"
+      },
+      {
+        "name": "AppSec for CISOs",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Application Security Guide for CISO",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "CISO Round table",
+        "when-day": "Wed",
+        "status": "featured"
+      },
+      {
+        "name": "CISO Survey",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Cyber Insurance",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "GDPR and DPO AppSec implications",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "Growing the AppSec Industry",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "InfoSec Warranties and Guarantees",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "Mobilising Business Lines for Security",
+        "when-day": "Mon",
+        "status": "draft"
+      },
+      {
+        "name": "SAMM Metrics for Enterprise",
+        "when-day": "Mon",
+        "status": "done"
+      }
+    ]
+  },
+  "DevSecOps": {
+    "name": "DevSecOps",
+    "url": "/Working-Sessions/DevSecOps/index.html",
+    "description": "Working Sessions related to DevSecOps",
+    "organizers": [
+      "Francois Raynaud"
+    ],
+    "participants": [
+      "Francois Raynaud"
+    ],
+    "working-sessions": [
+      {
+        "name": "AppSec SOC Monitoring Visualisation",
+        "when-day": "Thu",
+        "status": "done"
+      },
+      {
+        "name": "BDD for Cloud Security",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "DevSecOps vs SecDevOps",
+        "when-day": "Evening",
+        "status": "draft"
+      },
+      {
+        "name": "Docker Security",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "ELK Security Dashboards",
+        "when-day": "Thu",
+        "status": "draft"
+      },
+      {
+        "name": "Integrating Security Tools in the SDL",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Netflix Resilience Engineering",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Netflix Security Automation",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Node Security Round Table",
+        "when-day": "",
+        "status": "review-content"
+      },
+      {
+        "name": "SRE Security Activities",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Securing GitHub Integrations",
+        "when-day": "Thu",
+        "status": "review-content"
+      },
+      {
+        "name": "Securing Legacy Applications",
+        "when-day": "Thu",
+        "status": "review-content"
+      },
+      {
+        "name": "Securing the CI Pipeline",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Security Guidance and Feedback in IDE",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "TLS for Local IoT",
+        "when-day": "Mon",
+        "status": "done"
+      },
+      {
+        "name": "Threat and Vulnerability Management",
+        "when-day": "Wed",
+        "status": "draft"
+      },
+      {
+        "name": "Writing Security Tests",
+        "when-day": "Wed",
+        "status": "better-content"
+      }
+    ]
+  },
+  "Education": {
+    "name": "Education",
+    "url": "/Working-Sessions/Education/index.html",
+    "description": "Working Sessions related to Education",
+    "organizers": [],
+    "participants": [],
+    "working-sessions": [
+      {
+        "name": "Application Security BSc/Masters Curriculum Design",
+        "when-day": "Wed",
+        "status": "featured"
+      },
+      {
+        "name": "CTFs",
+        "when-day": "Evening",
+        "status": "draft"
+      },
+      {
+        "name": "Creating AppSec Talent (next 100k professionals)",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Creating AppSec Teams",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Cyber Security Economics",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "when-day": "Thu",
+        "status": "draft"
+      },
+      {
+        "name": "Recruiting AppSec Talent",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Role of Security Certification",
+        "when-day": "",
+        "status": "done"
+      },
+      {
+        "name": "Security Book Club",
+        "when-day": "Evening",
+        "status": "review-content"
+      },
+      {
+        "name": "Software Defined Everything (SDx)",
+        "when-day": "Wed",
+        "status": "done"
+      },
+      {
+        "name": "Teaching Attacker perspective to Developers",
+        "when-day": "Evening",
+        "status": "done"
+      }
+    ]
+  },
+  "Mobile Security": {
+    "name": "Mobile Security",
+    "url": "/Working-Sessions/Mobile-Security/index.html",
+    "description": "Working Sessions related to Mobile Security",
+    "organizers": [
+      "Bernhard Mueller",
+      "Sven Schleier"
+    ],
+    "participants": [
+      "Denis Pilipchuk",
+      "Naushad",
+      "Bolot Kerimbaev",
+      "Jeroen Willemsen",
+      "Marc Rimbau",
+      "Kuai Hinojosa"
+    ],
+    "working-sessions": [
+      {
+        "name": "MSTG Book Sprint - Android Testing Guide",
+        "when-day": "Wed",
+        "status": "featured"
+      },
+      {
+        "name": "MSTG Book Sprint - Mobile App Security Testing",
+        "when-day": "Tue",
+        "status": "featured"
+      },
+      {
+        "name": "MSTG Book Sprint - Mobile Operating Systems",
+        "when-day": "Mon",
+        "status": "featured"
+      },
+      {
+        "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+        "when-day": "Fri",
+        "status": "featured"
+      },
+      {
+        "name": "MSTG Book Sprint - iOS Testing Guide",
+        "when-day": "Thu",
+        "status": "featured"
+      }
+    ]
+  },
+  "Owasp Projects": {
+    "name": "Owasp Projects",
+    "url": "/Working-Sessions/Owasp-Projects/index.html",
+    "description": "Working Sessions focused on Owasp Projects",
+    "organizers": [
+      "Claudia Casanovas",
+      "Johanna Curiel"
+    ],
+    "participants": [],
+    "working-sessions": [
+      {
+        "name": "Align Developers Guide and ASVS",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Benchmark Project",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Cheat Sheets",
+        "when-day": "Mon",
+        "status": "more-content"
+      },
+      {
+        "name": "Create CheatSheet Writing Security Unit Tests",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Dependency Check",
+        "when-day": "Mon",
+        "status": "more-content"
+      },
+      {
+        "name": "GitHub Organization Reboot",
+        "when-day": "Mon",
+        "status": "done"
+      },
+      {
+        "name": "IAM for REST APIs",
+        "when-day": "Fri",
+        "status": "done"
+      },
+      {
+        "name": "Juice Shop",
+        "when-day": "Mon",
+        "status": "featured"
+      },
+      {
+        "name": "NodeGoat",
+        "when-day": "Tue",
+        "status": "done"
+      },
+      {
+        "name": "O-Saft",
+        "when-day": "Tue",
+        "status": "done"
+      },
+      {
+        "name": "OWASP Game Security Framework",
+        "when-day": "Fri",
+        "status": "needs-content"
+      },
+      {
+        "name": "OWASP Internet of Things Project",
+        "when-day": "Fri",
+        "status": "draft"
+      },
+      {
+        "name": "OWASP Proactive Controls",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "OWASP Projects Reviews",
+        "when-day": "Tue",
+        "status": "draft"
+      },
+      {
+        "name": "OWASP Risk Rating Management Project",
+        "when-day": "Tue",
+        "status": "done"
+      },
+      {
+        "name": "Owasp Orizon Reboot",
+        "when-day": "Wed",
+        "status": "more-content"
+      },
+      {
+        "name": "Testing Guide v5",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Webgoat",
+        "when-day": "Wed",
+        "status": "done"
+      },
+      {
+        "name": "ZAP",
+        "when-day": "Wed",
+        "status": "more-content"
+      }
+    ]
+  },
+  "Owasp Top 10 2017": {
+    "name": "Owasp Top 10 2017",
+    "url": "/Working-Sessions/Owasp-Top-10-2017/index.html",
+    "description": "Owasp Top 2017 RC1 is out and the Summit is the location to debate it and agree on the final list",
+    "organizers": [
+      "Dave Wichers"
+    ],
+    "participants": [
+      "Bjoern Kimminich",
+      "Marc Rimbau",
+      "Brian Glas",
+      "Felipe Zipitria",
+      "Mateo Martinez"
+    ],
+    "working-sessions": [
+      {
+        "name": "A10 - Underprotected APIs",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "A7 - Insufficient Attack Protection",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Applying Top 10 to Standards",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Data behind Owasp Top 10 2017",
+        "when-day": "Mon",
+        "status": "featured"
+      },
+      {
+        "name": "How is the Top 10 Used in Real World",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Implications of Owasp Top 10 2017",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Is the Owasp Top 10 Data Collection Open",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "New Top 10 - Deserialisation Vulnerabilities",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Recommending ESAPI in Top 10",
+        "when-day": "Mon",
+        "status": "draft"
+      },
+      {
+        "name": "Sign Ceremony for Owasp Top 10 2017",
+        "when-day": "Fri",
+        "status": "review-content"
+      },
+      {
+        "name": "Top 10 Selection Criteria",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "Top 10 merge with Proactive Controls",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "What Should be Added to the Top 10",
+        "when-day": "Tue",
+        "status": "review-content"
+      }
+    ]
+  },
+  "OwaspSAMM": {
+    "name": "OwaspSAMM",
+    "url": "/Working-Sessions/OwaspSAMM/index.html",
+    "description": "Working Sessions related to the Owasp SAMM Project",
+    "organizers": [
+      "Sebastien Deleersnyder"
+    ],
+    "participants": [
+      "Dinis Cruz",
+      "Mateo Martinez",
+      "Brian Glas",
+      "Avi Douglen",
+      "Yan Kravchenko"
+    ],
+    "working-sessions": [
+      {
+        "name": "Draft SAMM2 - the \"DevOps release\"",
+        "when-day": "Tue",
+        "status": "draft"
+      },
+      {
+        "name": "Include OWASP projects as resources for the SAMM practices",
+        "when-day": "Tue",
+        "status": "draft"
+      },
+      {
+        "name": "Maturity Models tool",
+        "when-day": "Thu",
+        "status": "draft"
+      },
+      {
+        "name": "Review and improve the 12 SAMM practices",
+        "when-day": "Thu",
+        "status": "draft"
+      },
+      {
+        "name": "Update SAMM model to take into account Agile and DevOps",
+        "when-day": "Tue",
+        "status": "draft"
+      }
+    ]
+  },
+  "Research": {
+    "name": "Research",
+    "url": "/Working-Sessions/Research/index.html",
+    "description": "Working Sessions related to multiple Research topics",
+    "organizers": [],
+    "participants": [],
+    "working-sessions": [
+      {
+        "name": "BeyondCorp for internal Web Applications",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Future of .Net Containers",
+        "when-day": "Fri",
+        "status": "review-content"
+      },
+      {
+        "name": "GraphQL Security Review",
+        "when-day": "Fri",
+        "status": "review-content"
+      },
+      {
+        "name": "LANGSEC Language-theoretic Security",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Protobuf for Data Validation Between Services",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Security Labels",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Using ML and AI to detect Attacks",
+        "when-day": "Friday",
+        "status": "review-content"
+      }
+    ]
+  },
+  "Security Crowdsourcing": {
+    "name": "Security Crowdsourcing",
+    "url": "/Working-Sessions/Security-Crowdsourcing/index.html",
+    "description": "Working Sessions for Security Crowdsourcing",
+    "organizers": [
+      "Ante Gulam"
+    ],
+    "participants": [],
+    "working-sessions": [
+      {
+        "name": "AppSec Job Fair",
+        "when-day": "Evening",
+        "status": "review-content"
+      },
+      {
+        "name": "Cross-Company Hackathons",
+        "when-day": "Thu",
+        "status": "definition-of-done"
+      },
+      {
+        "name": "Crowdsourcing Security Knowledge",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Hackathon Daily Sessions",
+        "when-day": "Evening",
+        "status": "draft"
+      },
+      {
+        "name": "Internal Bug Bounties Programmes",
+        "when-day": "Thu",
+        "status": "definition-of-done"
+      },
+      {
+        "name": "Lessons learned from public bug bounties programmes",
+        "when-day": "Thu",
+        "status": "definition-of-done"
+      },
+      {
+        "name": "OWASP Bug Bounty",
+        "when-day": "Wed",
+        "status": "more-content"
+      },
+      {
+        "name": "Responsible Disclosure",
+        "when-day": "Tue",
+        "status": "more-content"
+      },
+      {
+        "name": "Security Crowdsourcing the SDL Practices",
+        "when-day": "Thu",
+        "status": "draft"
+      }
+    ]
+  },
+  "Security Playbooks": {
+    "name": "Security Playbooks",
+    "url": "/Working-Sessions/Security-Playbooks/index.html",
+    "description": "Playbooks are workflows and prescriptive instructions on how to handle specific Security activities or incidents.",
+    "organizers": [],
+    "participants": [
+      "Yan Kravchenko"
+    ],
+    "working-sessions": [
+      {
+        "name": "AppSec Review and Pentest Playbook",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "Bug Bounty Playbook",
+        "when-day": "Fri",
+        "status": "review-content"
+      },
+      {
+        "name": "Create Jira Workflows for Security Playbooks",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "DoS Playbook",
+        "when-day": "Fri",
+        "status": "review-content"
+      },
+      {
+        "name": "Due Diligence Playbook",
+        "when-day": "Fri",
+        "status": "review-content"
+      },
+      {
+        "name": "Incident Response Playbook",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "Media Handling Playbook",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "Playbooks Common Format",
+        "when-day": "Mon",
+        "status": "improve-content"
+      },
+      {
+        "name": "Playbooks vs Handbooks",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "Ransomware Playbook",
+        "when-day": "Fri",
+        "status": "review-content"
+      },
+      {
+        "name": "Security Monitoring Playbooks",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "Security Playbooks Diagrams",
+        "when-day": "Mon",
+        "status": "review-content"
+      }
+    ]
+  },
+  "Threat Model": {
+    "name": "Threat Model",
+    "url": "/Working-Sessions/Threat-Model/index.html",
+    "description": "Working Sessions related to Threat Modeling Security",
+    "organizers": [
+      "Tony UV",
+      "Steven Wierckx"
+    ],
+    "participants": [
+      "Robert Hurlbut",
+      "Stephen de Vries",
+      "Adam Shostack",
+      "Marco Morana",
+      "Sebastien Deleersnyder",
+      "Francois Raynaud",
+      "Marc Rimbau",
+      "Dinis Cruz",
+      "Robert Morschel",
+      "Avi Douglen",
+      "Irene Michlin",
+      "Geoff Hill"
+    ],
+    "working-sessions": [
+      {
+        "name": "Diffing and Version Control Threat Models",
+        "when-day": "Fri",
+        "status": "draft"
+      },
+      {
+        "name": "Lightweight Threat Modeling Process",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Threat Modeling Cheat Sheet & Lightweight Threat Modeling",
+        "when-day": "Tue",
+        "status": "improve-content"
+      },
+      {
+        "name": "Threat Modeling Cloud Migrations",
+        "when-day": "Thu",
+        "status": "draft"
+      },
+      {
+        "name": "Threat Modeling Diagramming Techniques",
+        "when-day": "Mon",
+        "status": "draft"
+      },
+      {
+        "name": "Threat Modeling IoT Devices",
+        "when-day": "Thu",
+        "status": "draft"
+      },
+      {
+        "name": "Threat Modeling OWASP Pages",
+        "when-day": "Wed",
+        "status": "improve-content"
+      },
+      {
+        "name": "Threat Modeling Scaling",
+        "when-day": "Wed",
+        "status": "review-content"
+      },
+      {
+        "name": "Threat Modeling Schema",
+        "when-day": "Mon",
+        "status": "draft"
+      },
+      {
+        "name": "Threat Modeling Templates",
+        "when-day": "Tue",
+        "status": "featured"
+      },
+      {
+        "name": "Threat Modeling Tools",
+        "when-day": "Mon",
+        "status": "review-content"
+      },
+      {
+        "name": "Threat Modeling Where do I Start?",
+        "when-day": "Tue",
+        "status": "review-content"
+      },
+      {
+        "name": "Threat Modeling by Feature and Layer",
+        "when-day": "Thu",
+        "status": "draft"
+      },
+      {
+        "name": "Threat Modeling pure Javascript Applications",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Use Threat Models to Lock Developers Briefs",
+        "when-day": "",
+        "status": "draft"
+      },
+      {
+        "name": "Using JIRA and Confluence to Store Threat Model Data",
+        "when-day": "Wed",
+        "status": "draft"
+      }
+    ]
+  }
+}

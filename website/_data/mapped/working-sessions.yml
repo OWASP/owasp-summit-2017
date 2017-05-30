@@ -177,6 +177,7 @@ AppSec SOC Monitoring Visualisation:
       - Francois Raynaud
       - Don Gibson
       - Robert Morschel
+      - Johan Peeters
 AppSec for CISOs:
   name: AppSec for CISOs
   url: /Working-Sessions/CISO/AppSec-for-CISOs.html
@@ -284,6 +285,7 @@ BDD for Cloud Security:
       - Fraser Scott
       - Francois Raynaud
       - Stephen de Vries
+      - Johan Peeters
 Benchmark Project:
   name: Benchmark Project
   url: /Working-Sessions/Owasp-Projects/Benchmark-Project.html
@@ -452,6 +454,7 @@ Cheat Sheets:
     organizers: []
     participants:
       - Marc Rimbau
+      - Johan Peeters
 Create CheatSheet Writing Security Unit Tests:
   name: Create CheatSheet Writing Security Unit Tests
   url: >-
@@ -530,7 +533,8 @@ Cross-Company Hackathons:
     track: Security Crowdsourcing
     technology: ''
     related-to: ''
-    status: draft
+    status: definition-of-done
+    when-day: Thu
     organizers: []
     participants: []
 Crowdsourcing Security Knowledge:
@@ -637,7 +641,8 @@ Dependency Check:
     track: Owasp Projects
     owasp-project: 'yes'
     when-day: Mon
-    participants: []
+    participants:
+      - Johan Peeters
 DevSecOps:
   name: DevSecOps
   url: /Working-Sessions/DevSecOps/index.html
@@ -714,6 +719,7 @@ Docker Security:
     organizers: []
     participants:
       - Timo Pagel
+      - Johan Peeters
 Draft SAMM2 - the "DevOps release":
   name: Draft SAMM2 - the "DevOps release"
   url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
@@ -769,6 +775,7 @@ ELK Security Dashboards:
       - Francois Raynaud
       - Timo Pagel
       - Robert Morschel
+      - Johan Peeters
 Education:
   name: Education
   url: /Working-Sessions/Education/index.html
@@ -830,7 +837,8 @@ GDPR:
       intend to strengthen and unify data protection for all individuals within
       the European Union.
     organizers: []
-    participants: []
+    participants:
+      - Johan Peeters
 GDPR and DPO AppSec implications:
   name: GDPR and DPO AppSec implications
   url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
@@ -1122,7 +1130,8 @@ Internal Bug Bounties Programmes:
     track: Security Crowdsourcing
     technology: ''
     related-to: ''
-    status: draft
+    status: definition-of-done
+    when-day: Thu
     organizers: []
     participants: []
 IoT:
@@ -1140,7 +1149,8 @@ IoT:
       and exchange data.
     organizers:
       - Daniel Miessler
-    participants: []
+    participants:
+      - Johan Peeters
 Is the Owasp Top 10 Data Collection Open:
   name: Is the Owasp Top 10 Data Collection Open
   url: >-
@@ -1219,7 +1229,8 @@ LANGSEC Language-theoretic Security:
     related-to: ''
     status: draft
     organizers: []
-    participants: []
+    participants:
+      - Johan Peeters
 Lessons learned from public bug bounties programmes:
   name: Lessons learned from public bug bounties programmes
   url: >-
@@ -1232,7 +1243,8 @@ Lessons learned from public bug bounties programmes:
     track: Security Crowdsourcing
     technology: ''
     related-to: ''
-    status: draft
+    status: definition-of-done
+    when-day: Thu
     organizers: []
     participants: []
 Lightweight Threat Modeling Process:
@@ -1243,7 +1255,7 @@ Lightweight Threat Modeling Process:
     title: Lightweight Threat Modeling Process
     type: workshop
     track: Threat Model
-    status: draft
+    status: review-content
     when-day: Tue
     organizers:
       - Geoff Hill
@@ -1373,6 +1385,7 @@ Maturity Models tool:
       - Marc Rimbau
       - Yan Kravchenko
       - Irene Michlin
+      - Viktor Lindström
 Media Handling Playbook:
   name: Media Handling Playbook
   url: /Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html
@@ -1495,6 +1508,7 @@ NextGen Security Scanners:
     participants:
       - Bjoern Kimminich
       - Marc Rimbau
+      - Johan Peeters
 Node:
   name: Node
   url: /Working-Sessions/Technologies/Node.html
@@ -1940,8 +1954,9 @@ Role of Security Certification:
     track: Education
     technology: ''
     related-to: ''
-    status: draft
-    organizers: []
+    status: done
+    organizers:
+      - Ade Yoseman Putra
     participants: []
 SAMM Metrics for Enterprise:
   name: SAMM Metrics for Enterprise
@@ -2081,7 +2096,8 @@ Securing the CI Pipeline:
     technology: 'CI,SAST'
     related-to: 'Integrating Security Tools in the SDL,CISO'
     status: draft
-    participants: []
+    participants:
+      - Johan Peeters
     organizers:
       - Felipe Zipitria
 Security Architecture Recommendations for IoT:
@@ -2152,6 +2168,7 @@ Security Crowdsourcing the SDL Practices:
     technology: ''
     related-to: ''
     status: draft
+    when-day: Thu
     organizers: []
     participants: []
 Security Guidance and Feedback in IDE:
@@ -2231,7 +2248,8 @@ Security Monitoring Playbooks:
     status: review-content
     when-day: Wed
     organizers: []
-    participants: []
+    participants:
+      - Johan Peeters
 Security Playbooks:
   name: Security Playbooks
   url: /Working-Sessions/Security-Playbooks/index.html
@@ -2345,6 +2363,7 @@ TLS for Local IoT:
       - Kevin Sheldrake
     participants:
       - Francois Raynaud
+      - Johan Peeters
 Teaching Attacker perspective to Developers:
   name: Teaching Attacker perspective to Developers
   url: /Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html
@@ -2402,6 +2421,7 @@ The Future of Privacy:
     participants:
       - Akshay Sharma
       - Achim Hoffmann
+      - Johan Peeters
 Threat Model:
   name: Threat Model
   url: /Working-Sessions/Threat-Model/index.html
@@ -2576,6 +2596,7 @@ Threat Modeling Templates:
       - Irene Michlin
       - Stephen de Vries
       - Robert Morschel
+      - Francois Raynaud
 Threat Modeling Tools:
   name: Threat Modeling Tools
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
@@ -2596,6 +2617,7 @@ Threat Modeling Tools:
       - Robert Morschel
       - Mamta Vuppu
       - Stephen de Vries
+      - Johan Peeters
 Threat Modeling Where do I Start?:
   name: Threat Modeling Where do I Start?
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
@@ -2712,6 +2734,7 @@ Update SAMM model to take into account Agile and DevOps:
       - Felipe Zipitria
       - Timo Pagel
       - Adam O'Brien
+      - Viktor Lindström
 Use Threat Models to Lock Developers Briefs:
   name: Use Threat Models to Lock Developers Briefs
   url: >-
@@ -2803,11 +2826,12 @@ Visit Bletchley Park:
     technology: ''
     related-to: ''
     status: review-content
-    when-day: Fri
+    when-day: Thu
     organizers:
       - Johan Peeters (1 extra space in car)
     participants:
       - Dinis Cruz
+      - Bjoern Kimminich
 Webgoat:
   name: Webgoat
   url: /Working-Sessions/Owasp-Projects/WebGoat.html
@@ -2837,6 +2861,7 @@ What Should be Added to the Top 10:
     organizers: []
     participants:
       - Katy Anton
+      - Johan Peeters
 Women in Cyber:
   name: Women in Cyber
   url: /Working-Sessions/Women-in-Cyber.html
@@ -2884,6 +2909,7 @@ Writing Security Tests:
       - Avi Douglen
       - Bjoern Kimminich
       - Timo Pagel
+      - Johan Peeters
 ZAP:
   name: ZAP
   url: /Working-Sessions/Owasp-Projects/ZAP.html

@@ -42,6 +42,7 @@ Achim Hoffmann:
     twitter: ''
     facebook: ''
     website: 'https://www.owasp.org/index.php/User:Achim'
+    ticket: 5x24h
     status: needs-image
     working-sessions: []
 Adam Obrien:
@@ -96,11 +97,10 @@ Adam Shostack:
     working-sessions:
       - Lightweight Threat Modeling Process
       - Threat Modeling IoT Devices
-      - Threat Model Owasp Pages
+      - Threat Modeling Owasp Pages
       - Threat Modeling Templates
       - Threat Modeling Where do I Start?
-      - Threat Modeling General Assembly Daily Meeting
-      - Scaling Threat Modeling
+      - Threat Modeling Scaling
       - Security Champions Threat Modeling
 Ade Yoseman-Putra:
   name: Ade Yoseman-Putra
@@ -197,7 +197,7 @@ Alexander Antukh:
     ticket: 5x24h
     status: done
     working sessions: >-
-      Scaling Threat Modeling,Threat Modeling Cheat Sheet,Threat Modeling
+      Threat Modeling Scaling,Threat Modeling Cheat Sheet,Threat Modeling
       Templates,Threat Modeling Where do I Start?,Agile Practices for Security
       Teams,Define Agile Security Practices,Security Champions,Security Guild vs
       Security Champions,Using Security Risks to Measure Agile
@@ -365,14 +365,15 @@ Avi Douglen:
     linkedin: avidouglen
     twitter: sec_tigger
     facebook: ''
+    ticket: 5x24h
     status: done
     working-sessions:
-      - Scaling Threat Modeling
+      - Threat Modeling Scaling
       - Threat Modeling Cheat Sheet
       - Threat Modeling Templates
       - Lightweight Threat Modeling Process
       - Threat Modeling Tools
-      - Threat Model Owasp Pages
+      - Threat Modeling Owasp Pages
       - Threat Modeling Diagramming Techniques
       - Agile Practices for Security Teams
       - Integrating Security into a Portfolio Kanban
@@ -783,7 +784,7 @@ Christian DeHoyos:
     working-sessions: []
 Christian Martorella:
   name: Christian Martorella
-  url: /Participants/Christian-Martorella.html
+  url: /Participants/ticket-8h/Christian-Martorella.html
   metadata:
     layout: blocks/page-participant
     title: Christian Martorella
@@ -795,6 +796,7 @@ Christian Martorella:
     linkedin: christianmartorella
     twitter: laramies
     facebook: ''
+    ticket: 5x8h
     status: done
     working sessions: 'Threat Model, GDPR, Devsecops'
     working-sessions: []
@@ -962,7 +964,7 @@ Denis Pilipchuk:
     ticket: 5x24h
     status: empty
     working-sessions:
-      - Scaling Threat Modeling
+      - Threat Modeling Scaling
       - Threat Modeling Cheat Sheet
       - Threat Modeling Templates
       - Threat Modeling Tools
@@ -1248,7 +1250,7 @@ Fraser Scott:
       - Netflix Resilience Engineering
       - Netflix Security Automation
       - Women in Cyber
-      - Scaling Threat Modeling
+      - Threat Modeling Scaling
       - Security Champions Threat Modeling
       - Threat Modeling Tools
       - DevSecOps vs SecDevOps
@@ -1256,6 +1258,29 @@ Fraser Scott:
       - Securing the CI Pipeline
       - Security Guidance and Feedback in IDE
       - Agile Practices for Security Teams
+Gabor Pek:
+  name: Gabor Pek
+  url: /Participants/ticket-24h-invoice/Gabor-Pek.html
+  metadata:
+    layout: blocks/page-participant
+    title: Gabor Pek
+    type: participant
+    job-title: ''
+    company: Avatao
+    travel-from: Hungary
+    image: >-
+      https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/054/064/2dbe99f.jpg
+    linkedin: gaborpek
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    when-day: 'Mon,Tue,Wed,Thu'
+    ticket: '3x24h,1x8h'
+    status: empty
+    working-sessions: []
 Geoff Hill:
   name: Geoff Hill
   url: /Participants/ticket-8h/Geoff-Hill.html
@@ -1352,7 +1377,8 @@ Helen Bravo:
     job-title: Product Manager
     company: Checkmarx
     travel-from: Israel
-    image: 'https://speakerpedia.com/speakers/helen-bravo'
+    image: >-
+      http://a4.res.cloudinary.com/allamerican/image/fetch/t_face_s270/http://speakerdata2.s3.amazonaws.com/photo/image/839226/SnowFROC2013_Bravo.jpg
     linkedin: ''
     twiter: ''
     facebook: ''
@@ -1453,7 +1479,7 @@ Isuru Tharanga:
       - Incident Response Playbook
       - Data behind Owasp Top 10 2017
       - Implications of Owasp Top 10 2017
-      - Scaling Threat Modeling
+      - Threat Modeling Scaling
       - Security Champions Threat Modeling
       - Threat Modeling Cheat Sheet
       - Threat Modeling Templates
@@ -1472,6 +1498,29 @@ James Osborn:
     linkedin: mrjamesosborn
     facebook: sirjambo
     working-sessions: []
+Jason Haddix:
+  name: Jason Haddix
+  url: /Participants/remote/Jason-Haddix.html
+  metadata:
+    layout: blocks/page-participant
+    title: Jason Haddix
+    type: participant-remote
+    job-title: Head of Trust and Security
+    company: Bugcrowd
+    image: >-
+      https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfsAAAAJGUyNDhiMDZmLTY2YTEtNGRlOS05NjQ0LWM0MDc5MDc4ZjE1Zg.jpg
+    linkedin: jhaddix
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    when-day: ''
+    status: empty
+    working-sessions:
+      - Crowdsourcing Security Knowledge
+      - Bug Bounty Playbook
 Jason Li:
   name: Jason Li
   url: /Participants/ticket-24h/Jason-Li.html
@@ -1524,18 +1573,24 @@ Johan Peeters:
     layout: blocks/page-participant
     title: Johan Peeters
     type: participant
-    job-title: ''
-    company: ''
+    job-title: security architect
+    company: independent
     travel-from: Belgium
     image: 'https://avatars3.githubusercontent.com/u/969231?v=3&s=200'
-    linkedin: ''
+    linkedin: johanpeeters
     twitter: YoPeeters
     facebook: ''
     email: yo@johanpeeters.com
     website: 'https://www.johanpeeters.com'
     status: need-content
     ticket: 5x24h
-    working sessions: ''
+    working sessions: >-
+      Threat Modeling Tools, Threat Modeling Templates, AppSec SOC Monitoring
+      Visualisation, BDD for Cloud Security, Docker Security, ELK Security
+      Dashboards, Securing the CI Pipeline, Writing Security Tests, TLS for
+      Local IoT, Cheat Sheets, Dependency Check, LANGSEC Language-theoretic
+      Security, Security Monitoring Playbooks, GDPR, IoT,NextGen Security
+      Scanners, The Future of Privacy, What Should be Added to the Top 10
     working-sessions: []
 Johanna Curiel:
   name: Johanna Curiel
@@ -1560,6 +1615,28 @@ Johanna Curiel:
     twitter: ''
     facebook: ''
     status: done
+    working-sessions: []
+John Donnellan:
+  name: John Donnellan
+  url: /Participants/ticket-8h/John-Donnellan.html
+  metadata:
+    layout: blocks/page-participant
+    title: John Donnellan
+    type: participant
+    job-title: ''
+    company: ''
+    travel-from: ''
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    when-day: Wed
+    ticket: 1x8h
+    status: empty
     working-sessions: []
 John Fitzgerald:
   name: John Fitzgerald
@@ -1602,6 +1679,27 @@ Jonas Vanalderweireldt:
     funded-who: sponsor
     ticket: 5x24h
     status: need-content
+    working-sessions: []
+Jonathon Brookfield:
+  name: Jonathon Brookfield
+  url: /Participants/ticket-8h/Jonathon-Brookfield.html
+  metadata:
+    layout: blocks/page-participant
+    title: Jonathon Brookfield
+    type: participant
+    job-title: 'Director, Security Research'
+    company: BlackBerry
+    travel-from: Mainenhead
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    ticket: 5x8h
+    status: empty
     working-sessions: []
 Josh Armour:
   name: Josh Armour
@@ -1668,21 +1766,12 @@ Juan Calderon:
     working-sessions: []
 Kate Hartmann:
   name: Kate Hartmann
-  url: /Participants/funded/Kate-Hartmann.html
+  url: /Participants/remote/Kate-Hartmann.html
   metadata:
     layout: blocks/page-participant
     title: Kate Hartmann
-    type: participant
+    type: participant-remote
     travel-from: United States
-    expenses: owasp
-    funded: 'yes'
-    funded-who: Summit Budget
-    flight-cost: '0'
-    ticket-cost: '1500'
-    funded-amount: '0'
-    required-funds: '1500'
-    project-leader: ''
-    chapter-leader: ''
     job-title: ''
     image: 'https://i1.sndcdn.com/artworks-000062128222-zy5t1j-t500x500.jpg'
     email: kate.hartmann@owasp.org
@@ -1768,7 +1857,7 @@ Kevin Greene:
       - Review and improve the 12 SAMM practices
 Kevin Sheldrake:
   name: Kevin Sheldrake
-  url: /Participants/Kevin-Sheldrake.html
+  url: /Participants/ticket-8h/Kevin-Sheldrake.html
   metadata:
     layout: blocks/page-participant
     title: Kevin Sheldrake
@@ -1782,7 +1871,8 @@ Kevin Sheldrake:
     facebook: ''
     website: rtfc.org.uk
     email: rtfcode (gmail.com)
-    ticket: ''
+    when-day: Mon
+    ticket: 1x8h
     status: empty
     working-sessions:
       - TLS for Local IoT
@@ -2017,7 +2107,7 @@ Marcelo Souza:
       - SAMM
 Marco Morana:
   name: Marco Morana
-  url: /Participants/funded/Marco-Morana.html
+  url: /Participants/ticket-8h-owasp/Marco-Morana.html
   metadata:
     layout: blocks/page-participant
     title: Marco Morana
@@ -2041,9 +2131,33 @@ Marco Morana:
     chapter-leader: ''
     owasp-other: ''
     status: done
+    ticket: 5x8h
     working-sessions:
       - Threat Model
       - CISO Survey
+Mark Felegyhazi:
+  name: Mark Felegyhazi
+  url: /Participants/ticket-24h-invoice/Mark-Felegyhazi.html
+  metadata:
+    layout: blocks/page-participant
+    title: Mark Felegyhazi
+    type: participant
+    job-title: ''
+    company: Avatao
+    travel-from: Hungary
+    image: >-
+      https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/0b6/04e/084b482.jpg
+    linkedin: felegyhazi
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    when-day: 'Tue,Wed,Thu'
+    ticket: '2x24h,1x8h'
+    status: empty
+    working-sessions: []
 Mark Stanislav:
   name: Mark Stanislav
   url: /Participants/remote/Mark-Stanislav.html
@@ -2110,7 +2224,29 @@ Matteo Meucci:
     twitter: matteo_meucci
     website: ''
     facebook: ''
+    ticket: 5x24h
     status: done
+    working-sessions: []
+Matthew Gough:
+  name: Matthew Gough
+  url: /Participants/ticket-8h/Matthew-Gough.html
+  metadata:
+    layout: blocks/page-participant
+    title: Matthew Gough
+    type: participant
+    job-title: Managing Principal Security Consultant
+    company: Nettitude Limited
+    travel-from: Leamington Spa
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    ticket: 5x8h
+    status: empty
     working-sessions: []
 Mike Milner:
   name: Mike Milner
@@ -2225,6 +2361,27 @@ Neil Barlow:
     working-sessions:
       - CISO
       - CISO Round table
+Nessim Kisserli:
+  name: Nessim Kisserli
+  url: /Participants/ticket-24h/Nessim-Kisserli.html
+  metadata:
+    layout: blocks/page-participant
+    title: Nessim Kisserli
+    type: participant
+    job-title: Technical Expert
+    company: PwC
+    travel-from: Belgium
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    ticket: 5x24h
+    status: empty
+    working-sessions: []
 Nikita Garia:
   name: Nikita Garia
   url: /Participants/summit-editors/Nikita-Garia.html
@@ -2283,23 +2440,36 @@ Nishi Kumar:
     working-sessions: []
 Nuno Loureiro:
   name: Nuno Loureiro
-  url: /Participants/Nuno-Loureiro.html
+  url: /Participants/ticket-24h/Nuno-Loureiro.html
   metadata:
     layout: blocks/page-participant
     title: Nuno Loureiro
     type: participant
-    job-title: ''
-    company: ''
-    travel-from: ''
-    image: ''
-    linkedin: ''
-    twiter: ''
+    job-title: CEO
+    company: Probe.ly
+    travel-from: 'Lisbon, Portugal'
+    image: 'https://d1qb2nb5cznatu.cloudfront.net/users/5255426-large?1484909238'
+    linkedin: nunoloureiro
+    twiter: nunoloureiro
     facebook: ''
     website: ''
-    email: ''
-    ticket: ''
+    email: nuno@probe.ly
+    ticket: 5x24h
     status: empty
-    working-sessions: []
+    working-sessions:
+      - Agile Practices for Security Teams
+      - Using ML and AI to detect Attacks
+      - Securing GitHub Integrations
+      - Integrating Security Tools in the SDL
+      - Securing the CI Pipeline
+      - Growing the AppSec Industry
+      - Cyber Insurance
+      - A10 - Underprotected APIs
+      - A7 - Insufficient Attack Protection
+      - Implications of Owasp Top 10 2017
+      - ZAP
+      - Teaching Attacker perspective to Developers
+      - AppSec Review and Pentest Playbook
 Ofer Maor:
   name: Ofer Maor
   url: /Participants/remote/Ofer-Maor.html
@@ -2356,6 +2526,27 @@ Paolo Perego:
     facebook: CodiceInsicuro
     status: done
     working sessions: ''
+    working-sessions: []
+Peleus Uhley:
+  name: Peleus Uhley
+  url: /Participants/ticket-24h/Peleus-Uhley.html
+  metadata:
+    layout: blocks/page-participant
+    title: Peleus Uhley
+    type: participant
+    job-title: Lead Security Strategist
+    company: Adobe
+    travel-from: San Francisco
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    ticket: 5x24h
+    status: empty
     working-sessions: []
 Phil Parker:
   name: Phil Parker
@@ -2670,6 +2861,28 @@ Ross Tanner:
       - Growing the AppSec Industry
       - Recruiting AppSec Talent
       - Security Champions
+Sam Houston:
+  name: Sam Houston
+  url: /Participants/Sam-Houston.html
+  metadata:
+    layout: blocks/page-participant
+    title: Sam Houston
+    type: participant
+    job-title: Senior Community Manager
+    company: Bugcrowd
+    travel-from: ''
+    image: >-
+      https://pbs.twimg.com/profile_images/567112249999757313/AmlTsp30_400x400.jpeg
+    linkedin: samhouston
+    twiter: samhouston
+    facebook: ''
+    website: ''
+    email: ''
+    ticket: ''
+    status: empty
+    working-sessions:
+      - Crowdsourcing Security Knowledge
+      - Bug Bounty Playbook
 Sam Stepanyan:
   name: Sam Stepanyan
   url: /Participants/funded/Sam-Stepanyan.html
@@ -3046,7 +3259,7 @@ Tamer Elzayyat:
       - Threat Modeling IoT Devices
 Tiago Mendo:
   name: Tiago Mendo
-  url: /Participants/Tiago-Mendo.html
+  url: /Participants/ticket-24h/Tiago-Mendo.html
   metadata:
     layout: blocks/page-participant
     title: Tiago Mendo
@@ -3090,9 +3303,36 @@ Tiago Mendo:
       - Implications of Owasp Top 10 2017
       - Top 10 Selection Criteria
       - What Should be Added to the Top 10
+Tiffany Long:
+  name: Tiffany Long
+  url: /Participants/ticket-24h-owasp/Tiffany-Long.html
+  metadata:
+    layout: blocks/page-participant
+    title: Tiffany Long
+    type: participant
+    expenses: owasp
+    funded: 'yes'
+    funded-who: Summit Budget
+    flight-cost: '0'
+    ticket-cost: '1500'
+    funded-amount: '1500'
+    required-funds: '1500'
+    job-title: Community Manager
+    company: Owasp
+    travel-from: United States
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    project-leader: ''
+    chapter-leader: ''
+    owasp-other: ''
+    status: empty
+    ticket: 5x24h
+    working-sessions: []
 Timo Pagel:
   name: Timo Pagel
-  url: /Participants/funded/Timo-Pagel.html
+  url: /Participants/ticket-24h-owasp/Timo-Pagel.html
   metadata:
     layout: blocks/page-participant
     title: Timo Pagel
@@ -3106,7 +3346,7 @@ Timo Pagel:
     ticket-cost: '1500'
     funded-amount: '1900'
     required-funds: '1900'
-    job-title: DevOps-Security Consultant
+    job-title: DevOps Security Consultant
     image: 'http://timo-pagel.de/assets/img/header-bg.jpg'
     email: Timo.Pagel@owasp.org
     ticket: 5x24
@@ -3131,6 +3371,27 @@ Tom Brennan:
     facebook: ''
     status: done
     working sessions: ''
+    working-sessions: []
+Tony Richards:
+  name: Tony Richards
+  url: /Participants/ticket-8h/Tony-Richards.html
+  metadata:
+    layout: blocks/page-participant
+    title: Tony Richards
+    type: participant
+    job-title: CTO
+    company: Securestorm Ltd
+    travel-from: ''
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: ''
+    project-leader: ''
+    chapter-leader: ''
+    ticket: 5x8h
+    status: empty
     working-sessions: []
 Tony UV:
   name: Tony UV

@@ -207,7 +207,8 @@
         "Dinis Cruz",
         "Francois Raynaud",
         "Don Gibson",
-        "Robert Morschel"
+        "Robert Morschel",
+        "Johan Peeters"
       ]
     }
   },
@@ -327,7 +328,8 @@
         "Dicky Stafford",
         "Fraser Scott",
         "Francois Raynaud",
-        "Stephen de Vries"
+        "Stephen de Vries",
+        "Johan Peeters"
       ]
     }
   },
@@ -526,7 +528,8 @@
       "when-day": "Mon",
       "organizers": [],
       "participants": [
-        "Marc Rimbau"
+        "Marc Rimbau",
+        "Johan Peeters"
       ]
     }
   },
@@ -615,7 +618,8 @@
       "track": "Security Crowdsourcing",
       "technology": "",
       "related-to": "",
-      "status": "draft",
+      "status": "definition-of-done",
+      "when-day": "Thu",
       "organizers": [],
       "participants": []
     }
@@ -738,7 +742,9 @@
       "track": "Owasp Projects",
       "owasp-project": "yes",
       "when-day": "Mon",
-      "participants": []
+      "participants": [
+        "Johan Peeters"
+      ]
     }
   },
   "DevSecOps": {
@@ -828,7 +834,8 @@
       "status": "draft",
       "organizers": [],
       "participants": [
-        "Timo Pagel"
+        "Timo Pagel",
+        "Johan Peeters"
       ]
     }
   },
@@ -894,7 +901,8 @@
         "Ante Gulam",
         "Francois Raynaud",
         "Timo Pagel",
-        "Robert Morschel"
+        "Robert Morschel",
+        "Johan Peeters"
       ]
     }
   },
@@ -961,7 +969,9 @@
       "technology": "",
       "description": "GDPR (General Data Protection Regulation) is a regulation by which the European Parliament, the European Council and the European Commission intend to strengthen and unify data protection for all individuals within the European Union.",
       "organizers": [],
-      "participants": []
+      "participants": [
+        "Johan Peeters"
+      ]
     }
   },
   "GDPR and DPO AppSec implications": {
@@ -1300,7 +1310,8 @@
       "track": "Security Crowdsourcing",
       "technology": "",
       "related-to": "",
-      "status": "draft",
+      "status": "definition-of-done",
+      "when-day": "Thu",
       "organizers": [],
       "participants": []
     }
@@ -1316,7 +1327,9 @@
       "organizers": [
         "Daniel Miessler"
       ],
-      "participants": []
+      "participants": [
+        "Johan Peeters"
+      ]
     }
   },
   "Is the Owasp Top 10 Data Collection Open": {
@@ -1406,7 +1419,9 @@
       "related-to": "",
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [
+        "Johan Peeters"
+      ]
     }
   },
   "Lessons learned from public bug bounties programmes": {
@@ -1420,7 +1435,8 @@
       "track": "Security Crowdsourcing",
       "technology": "",
       "related-to": "",
-      "status": "draft",
+      "status": "definition-of-done",
+      "when-day": "Thu",
       "organizers": [],
       "participants": []
     }
@@ -1433,7 +1449,7 @@
       "title": "Lightweight Threat Modeling Process",
       "type": "workshop",
       "track": "Threat Model",
-      "status": "draft",
+      "status": "review-content",
       "when-day": "Tue",
       "organizers": [
         "Geoff Hill"
@@ -1577,7 +1593,8 @@
         "Sebastien Deleersnyder",
         "Marc Rimbau",
         "Yan Kravchenko",
-        "Irene Michlin"
+        "Irene Michlin",
+        "Viktor Lindström"
       ]
     }
   },
@@ -1722,7 +1739,8 @@
       "organizers": [],
       "participants": [
         "Bjoern Kimminich",
-        "Marc Rimbau"
+        "Marc Rimbau",
+        "Johan Peeters"
       ]
     }
   },
@@ -2251,8 +2269,10 @@
       "track": "Education",
       "technology": "",
       "related-to": "",
-      "status": "draft",
-      "organizers": [],
+      "status": "done",
+      "organizers": [
+        "Ade Yoseman Putra"
+      ],
       "participants": []
     }
   },
@@ -2413,7 +2433,9 @@
       "technology": "CI,SAST",
       "related-to": "Integrating Security Tools in the SDL,CISO",
       "status": "draft",
-      "participants": [],
+      "participants": [
+        "Johan Peeters"
+      ],
       "organizers": [
         "Felipe Zipitria"
       ]
@@ -2497,6 +2519,7 @@
       "technology": "",
       "related-to": "",
       "status": "draft",
+      "when-day": "Thu",
       "organizers": [],
       "participants": []
     }
@@ -2590,7 +2613,9 @@
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
-      "participants": []
+      "participants": [
+        "Johan Peeters"
+      ]
     }
   },
   "Security Playbooks": {
@@ -2718,7 +2743,8 @@
         "Kevin Sheldrake"
       ],
       "participants": [
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Johan Peeters"
       ]
     }
   },
@@ -2779,7 +2805,8 @@
       "when-day": "Wed",
       "participants": [
         "Akshay Sharma",
-        "Achim Hoffmann"
+        "Achim Hoffmann",
+        "Johan Peeters"
       ]
     }
   },
@@ -2964,7 +2991,8 @@
         "Avi Douglen",
         "Irene Michlin",
         "Stephen de Vries",
-        "Robert Morschel"
+        "Robert Morschel",
+        "Francois Raynaud"
       ]
     }
   },
@@ -2987,7 +3015,8 @@
         "Irene Michlin",
         "Robert Morschel",
         "Mamta Vuppu",
-        "Stephen de Vries"
+        "Stephen de Vries",
+        "Johan Peeters"
       ]
     }
   },
@@ -3121,7 +3150,8 @@
         "Marc Rimbau",
         "Felipe Zipitria",
         "Timo Pagel",
-        "Adam O'Brien"
+        "Adam O'Brien",
+        "Viktor Lindström"
       ]
     }
   },
@@ -3226,12 +3256,13 @@
       "technology": "",
       "related-to": "",
       "status": "review-content",
-      "when-day": "Fri",
+      "when-day": "Thu",
       "organizers": [
         "Johan Peeters (1 extra space in car)"
       ],
       "participants": [
-        "Dinis Cruz"
+        "Dinis Cruz",
+        "Bjoern Kimminich"
       ]
     }
   },
@@ -3266,7 +3297,8 @@
       "when-day": "Tue",
       "organizers": [],
       "participants": [
-        "Katy Anton"
+        "Katy Anton",
+        "Johan Peeters"
       ]
     }
   },
@@ -3322,7 +3354,8 @@
         "Robert Morschel",
         "Avi Douglen",
         "Bjoern Kimminich",
-        "Timo Pagel"
+        "Timo Pagel",
+        "Johan Peeters"
       ]
     }
   },

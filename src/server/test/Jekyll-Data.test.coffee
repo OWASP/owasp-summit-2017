@@ -37,6 +37,12 @@ describe 'Jekyll_Data', ->
       data = @.map_Tracks_Data()
       data._keys().size().assert_Is_12
 
+  it 'map_Topics_Data', ->
+    using jekyll_Data, ->
+      data = @.map_Topics_Data()
+      data._keys().size().assert_Is 8
+
+
   it 'map_Working_Sessions_Data', ->
     using jekyll_Data, ->
       data = @.map_Working_Sessions_Data()
