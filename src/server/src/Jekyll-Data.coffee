@@ -65,12 +65,18 @@ class Jekyll_Data
         description       : track_Data.metadata.description
         organizers        : track_Data.metadata.organizers
         participants      : track_Data.metadata.participants
-        'working-sessions': []
+        'working-sessions': { ok: [], draft: []}
       for key,value of working_Sessions_Data when value.metadata.track is track_Name
-        data[track_Name]['working-sessions'].add
+        item =
           name      : value.metadata.title       || ''
+          url       : value.url                  || ''
           'when-day': value.metadata['when-day'] || ''
           status    : value.metadata.status      || ''
+
+        if value.metadata.status is 'draft'
+          data[track_Name]['working-sessions'].draft.add item
+        else
+          data[track_Name]['working-sessions'].ok.add item
 
       sorted_Data = {}
       for key in data._keys().sort()
