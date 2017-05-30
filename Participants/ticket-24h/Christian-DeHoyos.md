@@ -2,15 +2,15 @@
 layout          : blocks/page-participant
 title           : Christian DeHoyos
 type            : participant
-job-title       :
-company         :
+job-title       : OWASP SF chapter volunteer
+company         : OWASP San Francisco 
 travel-from     : United States
-image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAyZAAAAJGJmZmJjYjY4LTU5NDgtNGE4ZC1hMzkwLWRjMzA2Zjc0MDg2MA.jpg
+image           : https://pbs.twimg.com/profile_images/844430776783523840/xHcvN0MX.jpg
 linkedin        : cdehoyos
 twiter          : therealdeho
 facebook        :
-website         :
-email           :
+website         : 
+email           : christian.dehoyos@owasp.org
 project-leader  :
 chapter-leader  :
 ticket          : 3x24h
