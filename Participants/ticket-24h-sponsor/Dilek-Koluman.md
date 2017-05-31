@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : PhotoBox (4th)
+title           : Dilek Koluman
 type            : participant
 job-title       : Riks Analyst
 company         : PhotoBox Group
