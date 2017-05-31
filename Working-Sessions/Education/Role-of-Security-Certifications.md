@@ -7,6 +7,7 @@ track        : Education
 technology   :
 related-to   :
 status       : done
+when-day     : Fri
 organizers   : Ade Yoseman Putra
 participants :
 ---
