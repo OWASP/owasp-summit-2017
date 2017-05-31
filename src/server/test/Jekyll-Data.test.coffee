@@ -68,9 +68,8 @@ describe 'Jekyll_Data', ->
 
   it 'resolve_Topics', ->
     using jekyll_Data, ->
-      topics_Data = @.file_Json_Topics.load_Json()
       test_Names        = ['SOC' , 'GDPR','Abc']
-      @.resolve_Topics(topics_Data, test_Names)
+      @.resolve_Topics test_Names
           .assert_Is [ { name: 'SOC' , url: '/Working-Sessions/Technologies/SOC.html'  },
                        { name: 'GDPR', url: '/Working-Sessions/Technologies/GDPR.html' },
                        { name: 'Abc'                                                   }]
@@ -78,16 +77,15 @@ describe 'Jekyll_Data', ->
 
   it 'resolve_Working_Sessions', ->
     using jekyll_Data, ->
-      working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()
       test_Names        = ['Juice Shop','NodeGoat','Abc']
-      @.resolve_Working_Sessions(working_Sessions_Data, test_Names)
+      @.resolve_Working_Sessions(test_Names)
           .assert_Is [ { name: 'Juice Shop', url: '/Working-Sessions/Owasp-Projects/Juice-Shop.html' },
                        { name: 'NodeGoat'  , url: '/Working-Sessions/Owasp-Projects/NodeGoat.html' },
                        { name: 'Abc' } ]
 
 
 
-  it.only 'working_Session', ->
+  it 'working_Session', ->
     name = 'A10 - Underprotected APIs'
     using jekyll_Data.working_Session(name), ->
       @.name.assert_Is name
@@ -105,7 +103,7 @@ describe 'Jekyll_Data', ->
       final_Mapping = @.resolve_Working_Sessions(first_Mapping).assert_Is_Not []        # bug was inside this function
       final_Mapping[0].assert_Is { name: 'Juice Shop', url: '/Working-Sessions/Owasp-Projects/Juice-Shop.html' }
 
-  it.only 'bug -  related-to not showing in Securing Legacy Applications', ->
+  it 'bug -  related-to not showing in Securing Legacy Applications', ->
     using jekyll_Data, ->
       using @.working_Session('Securing Legacy Applications'), ->
         @['related-to'].size().assert_Is 3                          # this is working
