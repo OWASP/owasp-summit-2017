@@ -4,7 +4,7 @@ title       : OWASP Risk Rating Management Project
 type        : workshop
 track       : Owasp Projects
 status      : done
-when-day    : Tue
+when-day    : Fri
 organizers  : Ade Yoseman Putra
 participants: Marc Rimbau
 ---

@@ -35,6 +35,13 @@ If 12 or more sign up, we can get a guided tour.
 
 We also need to know what arrangements we need to make for transport. So, if you intend to come, please indicate whether you need transport or can take people.
 
+### Transport Arrangements:
+
+Have vehicle with N open slots:
+
+Need transport:
+* Adam Shostack
+
 ## Who
 
 Anyone interested in the history of our field.

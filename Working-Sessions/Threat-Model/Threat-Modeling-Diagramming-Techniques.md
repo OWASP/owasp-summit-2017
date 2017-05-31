@@ -12,11 +12,11 @@ organizers   :
 participants :
 ---
 
-...intro text...
+Diagrams are a fundamental building block for putting mental models where they can be shared, debated, refined, or used as an aid to collaboration and analysis. 
 
 ## Why
 
-...why text...
+OWASP should have content for different types of diagram, different (for example, structured and unstructured) ways to store those diagrams, and how to use each type.
 
 ## What
 
@@ -24,4 +24,7 @@ participants :
 
 ## Who
 
-... target audience ...
+The target audience for this Working Session is:
+
+- Those who threat model
+- Those who consume threat models
