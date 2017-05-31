@@ -45,7 +45,7 @@ We recommend you use the A421 (past Milton Keynes and Bedford) then take the A50
 
 The entrance to Center Parcs, Woburn Forest is 500 yards on the right.
 
-#### 4. How do I update my schdule and register for working sessions?
+#### 4. How do I update my schedule and register for working sessions?
 In order to update your schdule, follow the below mentioned steps:
 
 1. Visit your profile page. For e.g. http://owaspsummit.org/Participants/ticket-24h-sponsor/Francois-Raynaud.html
