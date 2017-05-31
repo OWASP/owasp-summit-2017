@@ -1,17 +1,36 @@
-
+{% assign data = site.data.mapped.working-sessions[page.title]   %}
 <div class="working-session">
   <div class="container">
     <h1>{{ page.title }}</h1>
-    <div class="ws-metadata">
-      <!--+ show-track-->
-      <!--+ show-technology-->
-      <!--+ show-organizers-->
-      <!--+ show-participants-->
-      <!--+ show-owasp-project-->
-      <!--+ show-when-day-->
+    <div class="ws-metadata">{% if page.track != null %}<b>Track: &#32;</b><a href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}">{{ page.track }}</a>{% endif %}<br/>{% if data.topics.size > 0                    %}<b>Topics: &#32;</b>{%    for topic in data.topics                %}
+      {%        if topic.url                        %}<a href="{{topic .url}}">{{ topic.name }}</a>{%        else                                %}<span>{{ topic.name }}</span>{%        endif                               %}
+      {%        if forloop.last != true %}<span>,</span>{%        endif %}
+      {%    endfor                                  %}
+      {%  endif                                     %}<br/>
+      {% assign title = 'Organizer(s)'              %}
+      {% assign list  = data.organizers             %}{% if list.size > 0                           %}<b>{{title}}: &#32;</b>{%    for item in list                        %}
+      {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
+      {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
+      {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
+      {%    endfor                                  %}
+      {% endif                                      %}
+      {% assign title = 'Participants(s)'           %}
+      {% assign list  = data.participants           %}{% if list.size > 0                           %}<b>{{title}}: &#32;</b>{%    for item in list                        %}
+      {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
+      {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
+      {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
+      {%    endfor                                  %}
+      {% endif                                      %}{% if page.owasp-project and page.track != 'Project Summit' %}<b>Part of the &#32;</b><a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a>{% endif %}<br/>{% if page.when-day %}<b>When: {{ page.when-day }}</b>{% endif %}<br/>
     </div>
-    <hr/>{{ content }}
-    <!--+ show-related-to--><br/>
+    <hr/>{{ content }}{% if data.related-to.size > 0                 %}
+    <h3>Related Working Session(s)</h3>
+    <ul>
+      {%  for working-session in data.related-to  %}
+      {%    if working-session .url                     %}
+      <li><a href="{{working-session .url}}">{{ working-session.name }}</a></li>{%    else                                        %}
+      <li> {{ working-session.name }}</li>{%    endif                                       %}
+      {%  endfor                                        %}
+    </ul>{%  endif                                             %}<br/>
     <hr/>
     <p>Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a></p>
     <p>Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a></p>

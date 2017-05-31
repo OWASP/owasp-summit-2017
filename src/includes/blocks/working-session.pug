@@ -1,117 +1,41 @@
-mixin show-organizers
-    | {% if page.organizers != null %}
-    | {% assign organizers = page.organizers | split: ',' %}
-    p Organizer(s): &#32;
-        | {% for organizer in organizers %}
-        |   {% assign match = site.pages | where: 'title', organizer %}
-        |   {% if match[0] %}
-        a(href='{{match[0].url}}') {{ match[0].title }}
-        |   {% else %}
-        span {{ organizer }}
-        |   {% endif %}
-        |   {% if forloop.last != true %}
-        span ,
-        |   {% endif %}
-        | {% endfor %}
-    | {% endif %}
+include ../mixins/users.jade
+include ../mixins/working-session.jade
 
-mixin show-participants
-    | {% assign ws-participants = "" %}
-    | {% assign all-participants = site.pages | where: 'type', 'participant' %}
-    | {% for participant in all-participants %}
-    | {%    if  participant.working-sessions contains page.title %}
-    | {%        assign ws-participants = ws-participants | append: participant.title  | append: ',' %}
-    | {%    endif %}
-    | {% endfor %}
-    | {% assign ws-participants = ws-participants | append: page.participants %}
-
-    | {% if ws-participants != "" %}
-    | {%    assign participants = ws-participants | split: ',' %}
-    p Participants(s): &#32;
-        | {% for participant in participants %}
-        | {%    assign match = site.pages | where: 'title', participant %}
-        | {%    if match[0] %}
-        a(href='{{match[0].url}}') {{ match[0].title }}
-        | {%    else %}
-        span {{ participant }}
-        | {%    endif %}
-        | {%    if forloop.last != true %}
-        span ,
-        | {%    endif %}
-        | {% endfor %}
-    | {% endif %}
-
-mixin show-technology
-    | {% if page.technology != null %}
-    | {% assign technologies = page.technology | split: ',' %}
-    p Technology: &#32;
-        | {% for technology in technologies %}
-        |   {% assign match = site.pages | where: 'title', technology %}
-        |   {% if match[0] %}
-        a(href='{{match[0].url}}') {{ match[0].title }}
-        |   {% else %}
-        span  {{ technology }}
-        |   {% endif %}
-        |   {% if forloop.last != true %}
-        span ,
-        |   {% endif %}
-        | {% endfor %}
-    | {% endif %}
+| {% assign data = site.data.mapped.working-sessions[page.title]   %}
 
 mixin show-track
     | {% if page.track != null %}
-    p Track: &#32;
-        a(href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}") {{ page.track }}
+    b Track: &#32;
+    a(href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}") {{ page.track }}
     | {% endif %}
+    br
 
 mixin show-owasp-project
     | {% if page.owasp-project and page.track != 'Project Summit' %}
-    p Part of the &#32;
-        a(href='/Working-Sessions/Project-Summit') OWASP Project Summit
+    b Part of the &#32;
+    a(href='/Working-Sessions/Project-Summit') OWASP Project Summit
     | {% endif %}
+    br
 
 mixin show-when-day
     | {% if page.when-day %}
-    p When: {{ page.when-day }}
+    b When: {{ page.when-day }}
     | {% endif %}
-
-mixin show-related-to
-    | {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
-    | {% assign related-to = page.related-to    %}
-    | {%  for working-session in match  %}
-    |       {% assign related-to = related-to | append: "," | append: working-session.title %}
-    | {%    endfor                      %}
-
-    | {% if related-to != null %}
-    h2 Related Working Session(s)
-    ul
-        | {%    assign working-sessions = related-to | split: ',' %}
-        | {%    for working-session in working-sessions  %}
-        | {%        if working-session != ''    %}
-        | {%            assign match = site.pages | where: 'title', working-session %}
-        | {%            if match[0]             %}
-        li
-            a(href='{{match[0].url}}') {{ match[0].title }}
-        | {%            else                    %}
-        li  {{ working-session }}
-        | {%            endif                   %}
-        | {%        endif                       %}
-        | {%    endfor                          %}
-    | {% endif                                  %}
+    br
 
 .working-session
     .container
         h1 {{ page.title }}
         .ws-metadata
-            //+ show-track
-            //+ show-technology
-            //+ show-organizers
-            //+ show-participants
-            //+ show-owasp-project
-            //+ show-when-day
+            + show-track
+            + show-topics
+            + show-organizers
+            + show-participants
+            + show-owasp-project
+            + show-when-day
         hr
         | {{ content }}
-        //+ show-related-to
+        + show-related-to
         br
         hr
         p Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a>

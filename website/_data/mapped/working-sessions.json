@@ -2,6 +2,21 @@
   "A comparison of strength and weaknesses of specific FOSS tools": {
     "name": "A comparison of strength and weaknesses of specific FOSS tools",
     "url": "/Working-Sessions/Tools/Comparison-of-FOSS-Tools.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Steven Wierckx",
+        "url": "/Participants/ticket-24h-sponsor/Steven-Wierckx.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Integrating Security Tools in the SDL",
+        "url": "/Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "A comparison of strength and weaknesses of specific FOSS tools",
@@ -12,12 +27,37 @@
         "Steven Wierckx"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "A10 - Underprotected APIs": {
     "name": "A10 - Underprotected APIs",
     "url": "/Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      },
+      {
+        "name": "Johanna Curiel",
+        "url": "/Participants/funded/Johanna-Curiel.html",
+        "remote": false
+      },
+      {
+        "name": "Claudia Cassanovas"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "A10 - Underprotected APIs",
@@ -35,12 +75,31 @@
       ],
       "participants": [
         "Johan Peeters"
-      ]
+      ],
+      "topics": []
     }
   },
   "A7 - Insufficient Attack Protection": {
     "name": "A7 - Insufficient Attack Protection",
     "url": "/Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      },
+      {
+        "name": "Johanna Curiel",
+        "url": "/Participants/funded/Johanna-Curiel.html",
+        "remote": false
+      },
+      {
+        "name": "Claudia Cassanovas"
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "A7 - Insufficient Attack Protection",
@@ -55,12 +114,23 @@
         "Johanna Curiel",
         "Claudia Cassanovas"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "AWS Lambda Security": {
     "name": "AWS Lambda Security",
     "url": "/Working-Sessions/Tools/AWS-Lambda-Security.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "AWS Lambda Security",
@@ -72,12 +142,32 @@
       "participants": [
         "Dinis Cruz"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Agile AppSec": {
     "name": "Agile AppSec",
     "url": "/Working-Sessions/Agile-AppSec/index.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/track",
       "title": "Agile AppSec",
@@ -91,12 +181,47 @@
         "Ante Gulam",
         "Avi Douglen"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Agile Practices for Security Teams": {
     "name": "Agile Practices for Security Teams",
     "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      },
+      {
+        "name": "Phil Parker",
+        "url": "/Participants/Phil-Parker.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Agile Practices for Security Teams",
@@ -116,12 +241,23 @@
         "Irene Michlin",
         "Mamta Vuppu",
         "Phil Parker"
-      ]
+      ],
+      "topics": []
     }
   },
   "Align Developers Guide and ASVS": {
     "name": "Align Developers Guide and ASVS",
     "url": "/Working-Sessions/Owasp-Projects/Align-Developers-Guide-and-ASVS.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Steven van der Baan",
+        "url": "/Participants/funded/Steven-van-der-Baan.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Align Developers Guide and ASVS",
@@ -135,12 +271,28 @@
       "organizers": [
         "Steven van der Baan"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "AppSec Article 5 - Collective Defence Agreement": {
     "name": "AppSec Article 5 - Collective Defence Agreement",
     "url": "/Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "AppSec Article 5 - Collective Defence Agreement",
@@ -153,12 +305,41 @@
         "Dinis Cruz",
         "Ante Gulam"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "AppSec Job Fair": {
     "name": "AppSec Job Fair",
     "url": "/Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Ross Tanner",
+        "url": "/Participants/Ross-Tanner.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Recruiting AppSec Talent",
+        "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html"
+      },
+      {
+        "name": "Role of Security Certification",
+        "url": "/Working-Sessions/Education/Role-of-Security-Certifications.html"
+      },
+      {
+        "name": "Crowdsourcing Security Knowledge",
+        "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "AppSec Job Fair",
@@ -177,12 +358,21 @@
       "participants": [
         "Ross Tanner",
         "Francois Raynaud"
-      ]
+      ],
+      "topics": []
     }
   },
   "AppSec Review and Pentest Playbook": {
     "name": "AppSec Review and Pentest Playbook",
     "url": "/Working-Sessions/Security-Playbooks/AppSec-Review-and-Pentest-Playbook.html",
+    "topics": [
+      {
+        "name": "Pentest"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "AppSec Review and Pentest Playbook",
@@ -193,12 +383,65 @@
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": [
+        "Pentest"
+      ]
     }
   },
   "AppSec SOC Monitoring Visualisation": {
     "name": "AppSec SOC Monitoring Visualisation",
     "url": "/Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html",
+    "topics": [
+      {
+        "name": "SOC",
+        "url": "/Working-Sessions/Technologies/SOC.html"
+      },
+      {
+        "name": "GDPR",
+        "url": "/Working-Sessions/Technologies/GDPR.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "CISO",
+        "url": "/Working-Sessions/CISO/index.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "AppSec SOC Monitoring Visualisation",
@@ -219,12 +462,26 @@
         "Don Gibson",
         "Robert Morschel",
         "Johan Peeters"
+      ],
+      "topics": [
+        "SOC",
+        "GDPR"
       ]
     }
   },
   "AppSec for CISOs": {
     "name": "AppSec for CISOs",
     "url": "/Working-Sessions/CISO/AppSec-for-CISOs.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "AppSec for CISOs",
@@ -237,12 +494,44 @@
       "organizers": [
         "Don Gibson"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Application Security BSc/Masters Curriculum Design": {
     "name": "Application Security BSc/Masters Curriculum Design",
     "url": "/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Adrian Winckles",
+        "url": "/Participants/funded/Adrian-Winckles.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      },
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Application Security BSc/Masters Curriculum Design",
@@ -259,12 +548,54 @@
         "Timo Pagel",
         "Bjoern Kimminich"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Application Security Guide for CISO": {
     "name": "Application Security Guide for CISO",
     "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Marco Morana",
+        "url": "/Participants/ticket-8h-owasp/Marco-Morana.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      },
+      {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "CISO Survey",
+        "url": "/Working-Sessions/CISO/CISO-Survey.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Application Security Guide for CISO",
@@ -286,12 +617,23 @@
         "Avi Douglen",
         "Yan Kravchenko",
         "Robert Morschel"
-      ]
+      ],
+      "topics": []
     }
   },
   "Application Security Verification Standard": {
     "name": "Application Security Verification Standard",
     "url": "/Working-Sessions/Owasp-Projects/Application-Security-Verification-Standard.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Application Security Verification Standard",
@@ -303,12 +645,21 @@
         "Marc Rimbau"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Applying Top 10 to Standards": {
     "name": "Applying Top 10 to Standards",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Applying-Top-10-to-Standards.html",
+    "topics": [
+      {
+        "name": "PCI"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Applying Top 10 to Standards",
@@ -318,12 +669,56 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": [
+        "PCI"
+      ]
     }
   },
   "BDD for Cloud Security": {
     "name": "BDD for Cloud Security",
     "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
+        "name": "Dicky Stafford",
+        "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
+        "remote": false
+      },
+      {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "BDD for Cloud Security",
@@ -344,12 +739,23 @@
         "Francois Raynaud",
         "Stephen de Vries",
         "Johan Peeters"
-      ]
+      ],
+      "topics": []
     }
   },
   "Benchmark Project": {
     "name": "Benchmark Project",
     "url": "/Working-Sessions/Owasp-Projects/Benchmark-Project.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Benchmark Project",
@@ -362,12 +768,52 @@
       "organizers": [
         "Dave Wichers"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Best practices in using SAST, DAST, IAST and RASP Tools": {
     "name": "Best practices in using SAST, DAST, IAST and RASP Tools",
     "url": "/Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html",
+    "topics": [
+      {
+        "name": "SAST",
+        "url": "/Working-Sessions/Technologies/SAST.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Integrating Security Tools in the SDL",
+        "url": "/Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html"
+      },
+      {
+        "name": "Securing the CI Pipeline",
+        "url": "/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Best practices in using SAST, DAST, IAST and RASP Tools",
@@ -385,12 +831,19 @@
       "related-to": [
         "Integrating Security Tools in the SDL",
         "Securing the CI Pipeline"
+      ],
+      "topics": [
+        "SAST"
       ]
     }
   },
   "BeyondCorp for internal Web Applications": {
     "name": "BeyondCorp for internal Web Applications",
     "url": "/Working-Sessions/Research/BeyondCorp-for-internal-Web-Applications.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "BeyondCorp for internal Web Applications",
@@ -401,12 +854,21 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Browser Security": {
     "name": "Browser Security",
     "url": "/Working-Sessions/Browser-security.html",
+    "topics": [
+      {
+        "name": "Browsers"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Browser Security",
@@ -415,12 +877,19 @@
       "status": "draft",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Browsers"
+      ]
     }
   },
   "Bug Bounty Playbook": {
     "name": "Bug Bounty Playbook",
     "url": "/Working-Sessions/Security-Playbooks/Bug-Bounty-Playbook.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Bug Bounty Playbook",
@@ -431,12 +900,69 @@
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "CISO": {
     "name": "CISO",
     "url": "/Working-Sessions/CISO/index.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "AppSec SOC Monitoring Visualisation",
+        "url": "/Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html"
+      },
+      {
+        "name": "Creating AppSec Teams",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html"
+      },
+      {
+        "name": "Securing Legacy Applications",
+        "url": "/Working-Sessions/DevSecOps/Securing-Legacy-Applications.html"
+      },
+      {
+        "name": "Securing the CI Pipeline",
+        "url": "/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html"
+      },
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
+      },
+      {
+        "name": "Security Guild vs Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/track",
       "title": "CISO",
@@ -452,12 +978,54 @@
         "Yan Kravchenko",
         "Francois Raynaud"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "CISO Round table": {
     "name": "CISO Round table",
     "url": "/Working-Sessions/CISO/CISO-Round-Table.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      },
+      {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "CISO Round table",
@@ -477,12 +1045,32 @@
         "Francois Raynaud",
         "Robert Morschel"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "CISO Survey": {
     "name": "CISO Survey",
     "url": "/Working-Sessions/CISO/CISO-Survey.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Tobias Gondrom"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Application Security Guide for CISO",
+        "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "CISO Survey",
@@ -497,12 +1085,23 @@
       "participants": [
         "Yan Kravchenko"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "CRSFGuard": {
     "name": "CRSFGuard",
     "url": "/Working-Sessions/Owasp-Projects/CRSFGuard.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Azzeddine Ramrami",
+        "url": "/Participants/ticket-24h-owasp/Azzeddine-Ramrami.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "CRSFGuard",
@@ -515,12 +1114,32 @@
       "organizers": [
         "Azzeddine Ramrami"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "CTFs": {
     "name": "CTFs",
     "url": "/Working-Sessions/Education/CTFs.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Teaching Attacker perspective to Developers",
+        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
+      },
+      {
+        "name": "Juice Shop",
+        "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "CTFs",
@@ -537,12 +1156,37 @@
       "organizers": [],
       "participants": [
         "Bjoern Kimminich"
-      ]
+      ],
+      "topics": []
     }
   },
   "Cheat Sheets": {
     "name": "Cheat Sheets",
     "url": "/Working-Sessions/Owasp-Projects/Cheatsheets.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Threat Modeling Cheat Sheet & Lightweight Threat Modeling",
+        "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html"
+      },
+      {
+        "name": "Threat Modeling OWASP Pages",
+        "url": "/Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Cheat Sheets",
@@ -555,12 +1199,23 @@
         "Marc Rimbau",
         "Johan Peeters"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Create CheatSheet Writing Security Unit Tests": {
     "name": "Create CheatSheet Writing Security Unit Tests",
     "url": "/Working-Sessions/Owasp-Projects/Create-CheatSheet-Writing Security-Unit-Tests.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Create CheatSheet Writing Security Unit Tests",
@@ -572,12 +1227,27 @@
       "organizers": [
         "Dinis Cruz"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Create Jira Workflows for Security Playbooks": {
     "name": "Create Jira Workflows for Security Playbooks",
     "url": "/Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html",
+    "topics": [
+      {
+        "name": "Jira"
+      }
+    ],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Create Jira Workflows for Security Playbooks",
@@ -590,12 +1260,36 @@
       "organizers": [],
       "participants": [
         "Irene Michlin"
+      ],
+      "topics": [
+        "Jira"
       ]
     }
   },
   "Creating AppSec Talent (next 100k professionals)": {
     "name": "Creating AppSec Talent (next 100k professionals)",
     "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Recruiting AppSec Talent",
+        "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html"
+      },
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
+      },
+      {
+        "name": "Growing the AppSec Industry",
+        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
+      },
+      {
+        "name": "Creating AppSec Teams",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Creating AppSec Talent (next 100k professionals)",
@@ -612,12 +1306,51 @@
       "status": "review-content",
       "when-day": "Tue",
       "participants": [],
-      "organizers": []
+      "organizers": [],
+      "topics": []
     }
   },
   "Creating AppSec Teams": {
     "name": "Creating AppSec Teams",
     "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Recruiting AppSec Talent",
+        "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html"
+      },
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
+      },
+      {
+        "name": "CISO",
+        "url": "/Working-Sessions/CISO/index.html"
+      },
+      {
+        "name": "Creating AppSec Talent (next 100k professionals)",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Creating AppSec Teams",
@@ -638,12 +1371,36 @@
       "participants": [
         "Avi Douglen",
         "Robert Morschel"
-      ]
+      ],
+      "topics": []
     }
   },
   "Creation and Optimization of a Docker Security Workshop": {
     "name": "Creation and Optimization of a Docker Security Workshop",
     "url": "/Working-Sessions/Education/Docker-Seucrity-Workshop.html",
+    "topics": [
+      {
+        "name": "Docker"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
+      },
+      {
+        "name": "Docker Security",
+        "url": "/Working-Sessions/DevSecOps/Docker-Security.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Creation and Optimization of a Docker Security Workshop",
@@ -659,12 +1416,19 @@
       "organizers": [
         "Timo Pagel"
       ],
-      "participants": []
+      "participants": [],
+      "topics": [
+        "Docker"
+      ]
     }
   },
   "Cross-Company Hackathons": {
     "name": "Cross-Company Hackathons",
     "url": "/Working-Sessions/Security-Crowdsourcing/Cross-Company-Hackathons.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Cross-Company Hackathons",
@@ -676,12 +1440,22 @@
       "status": "definition-of-done",
       "when-day": "Thu",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Crowdsourcing Security Knowledge": {
     "name": "Crowdsourcing Security Knowledge",
     "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "AppSec Job Fair",
+        "url": "/Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Crowdsourcing Security Knowledge",
@@ -693,12 +1467,42 @@
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Cyber Insurance": {
     "name": "Cyber Insurance",
     "url": "/Working-Sessions/CISO/Cyber-Insurance.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "InfoSec Warranties and Guarantees",
+        "url": "/Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html"
+      },
+      {
+        "name": "Growing the AppSec Industry",
+        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
+      },
+      {
+        "name": "Securing Legacy Applications",
+        "url": "/Working-Sessions/DevSecOps/Securing-Legacy-Applications.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Cyber Insurance",
@@ -716,12 +1520,23 @@
       ],
       "participants": [
         "Dinis Cruz"
-      ]
+      ],
+      "topics": []
     }
   },
   "Cyber Security Economics": {
     "name": "Cyber Security Economics",
     "url": "/Working-Sessions/Education/Cyber-Security-Economics.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Cyber Security Economics",
@@ -734,12 +1549,49 @@
       "organizers": [
         "Ante Gulam"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Data behind Owasp Top 10 2017": {
     "name": "Data behind Owasp Top 10 2017",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      },
+      {
+        "name": "Johanna Curiel",
+        "url": "/Participants/funded/Johanna-Curiel.html",
+        "remote": false
+      },
+      {
+        "name": "Claudia Casanovas",
+        "url": "/Participants/funded/Claudia-Casanovas.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Brian Glas",
+        "url": "/Participants/ticket-24h-sponsor/Brian-Glas.html",
+        "remote": false
+      },
+      {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Data behind Owasp Top 10 2017",
@@ -758,12 +1610,47 @@
         "Ingo Hanke",
         "Francois Raynaud"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Define Agile Security Practices": {
     "name": "Define Agile Security Practices",
     "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Integrating Security into an Spotify Model",
+        "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Define Agile Security Practices",
@@ -784,12 +1671,34 @@
         "Irene Michlin",
         "Robert Morschel",
         "Mamta Vuppu"
-      ]
+      ],
+      "topics": []
     }
   },
   "Dependency Check": {
     "name": "Dependency Check",
     "url": "/Working-Sessions/Owasp-Projects/Dependency-Check.html",
+    "topics": [
+      {
+        "name": "Java",
+        "url": "/Working-Sessions/Technologies/Java.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Steve Springett",
+        "url": "/Participants/remote/Steve-Springett.html",
+        "remote": true
+      }
+    ],
+    "participants": [
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Dependency Check",
@@ -805,12 +1714,36 @@
       "participants": [
         "Johan Peeters"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Java"
+      ]
     }
   },
   "DevSecOps": {
     "name": "DevSecOps",
     "url": "/Working-Sessions/DevSecOps/index.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/track",
       "title": "DevSecOps",
@@ -823,12 +1756,44 @@
       "participants": [
         "Francois Raynaud"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "DevSecOps vs SecDevOps": {
     "name": "DevSecOps vs SecDevOps",
     "url": "/Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "DevSecOps vs SecDevOps",
@@ -845,12 +1810,23 @@
         "Felipe Zipitria",
         "Avi Douglen"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Diffing and Version Control Threat Models": {
     "name": "Diffing and Version Control Threat Models",
     "url": "/Working-Sessions/Threat-Model/Diffing-and-Version-Control-Threat-Models.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Diffing and Version Control Threat Models",
@@ -864,12 +1840,17 @@
       "organizers": [],
       "participants": [
         "Irene Michlin"
-      ]
+      ],
+      "topics": []
     }
   },
   "DoS Playbook": {
     "name": "DoS Playbook",
     "url": "/Working-Sessions/Security-Playbooks/DoS-Playbook.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "DoS Playbook",
@@ -880,12 +1861,33 @@
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Docker Security": {
     "name": "Docker Security",
     "url": "/Working-Sessions/DevSecOps/Docker-Security.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Creation and Optimization of a Docker Security Workshop",
+        "url": "/Working-Sessions/Education/Docker-Seucrity-Workshop.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Docker Security",
@@ -901,12 +1903,47 @@
       "participants": [
         "Timo Pagel",
         "Johan Peeters"
-      ]
+      ],
+      "topics": []
     }
   },
   "Draft SAMM2 - the \"DevOps release\"": {
     "name": "Draft SAMM2 - the \"DevOps release\"",
     "url": "/Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      },
+      {
+        "name": "Viktor Lindström"
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Draft SAMM2 - the \"DevOps release\"",
@@ -925,12 +1962,23 @@
         "Timo Pagel",
         "Viktor Lindström"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Due Diligence Playbook": {
     "name": "Due Diligence Playbook",
     "url": "/Working-Sessions/Security-Playbooks/Due-Diligence-Playbook.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Due Diligence Playbook",
@@ -943,12 +1991,59 @@
       "organizers": [],
       "participants": [
         "Mamta Vuppu"
-      ]
+      ],
+      "topics": []
     }
   },
   "ELK Security Dashboards": {
     "name": "ELK Security Dashboards",
     "url": "/Working-Sessions/DevSecOps/ELK-Security-Dashboards.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dicky Stafford",
+        "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "ELK Security Dashboards",
@@ -970,12 +2065,42 @@
         "Timo Pagel",
         "Robert Morschel",
         "Johan Peeters"
-      ]
+      ],
+      "topics": []
     }
   },
   "Education": {
     "name": "Education",
     "url": "/Working-Sessions/Education/index.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Juice Shop",
+        "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
+      },
+      {
+        "name": "NodeGoat",
+        "url": "/Working-Sessions/Owasp-Projects/NodeGoat.html"
+      },
+      {
+        "name": "Owasp Student Chapters",
+        "url": "/Working-Sessions/Owasp/Owasp-Student-Chapters.html"
+      },
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
+      },
+      {
+        "name": "Webgoat",
+        "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
+      },
+      {
+        "name": "Growing the AppSec Industry",
+        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/track",
       "title": "Education",
@@ -990,12 +2115,54 @@
         "Webgoat"
       ],
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Evaluation/Optimization/Creation of Training Slides": {
     "name": "Evaluation/Optimization/Creation of Training Slides",
     "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Teaching Attacker perspective to Developers",
+        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
+      },
+      {
+        "name": "Application Security BSc/Masters Curriculum Design",
+        "url": "/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html"
+      },
+      {
+        "name": "Juice Shop",
+        "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
+      },
+      {
+        "name": "NodeGoat",
+        "url": "/Working-Sessions/Owasp-Projects/NodeGoat.html"
+      },
+      {
+        "name": "Webgoat",
+        "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
+      },
+      {
+        "name": "Creation and Optimization of a Docker Security Workshop",
+        "url": "/Working-Sessions/Education/Docker-Seucrity-Workshop.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Evaluation/Optimization/Creation of Training Slides",
@@ -1017,12 +2184,28 @@
       ],
       "participants": [
         "Bjoern Kimminich"
-      ]
+      ],
+      "topics": []
     }
   },
   "Future of .Net Containers": {
     "name": "Future of .Net Containers",
     "url": "/Working-Sessions/Research/Future-of-.Net-Containers.html",
+    "topics": [
+      {
+        "name": ".Net"
+      },
+      {
+        "name": "Docker"
+      }
+    ],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "PhotoBox"
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Future of .Net Containers",
@@ -1035,12 +2218,26 @@
       "organizers": [],
       "participants": [
         "PhotoBox"
+      ],
+      "topics": [
+        ".Net",
+        "Docker"
       ]
     }
   },
   "GDPR": {
     "name": "GDPR",
     "url": "/Working-Sessions/Technologies/GDPR.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
       "title": "GDPR",
@@ -1051,12 +2248,38 @@
       "participants": [
         "Johan Peeters"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "GDPR and DPO AppSec implications": {
     "name": "GDPR and DPO AppSec implications",
     "url": "/Working-Sessions/CISO/GDRP-DPO-and-AppSec.html",
+    "topics": [
+      {
+        "name": "GDPR",
+        "url": "/Working-Sessions/Technologies/GDPR.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Phil Parker",
+        "url": "/Participants/Phil-Parker.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "GDPR and DPO AppSec implications",
@@ -1071,12 +2294,31 @@
         "Dinis Cruz",
         "Francois Raynaud",
         "Phil Parker"
+      ],
+      "topics": [
+        "GDPR"
       ]
     }
   },
   "GPG Infrastructure for OWASP": {
     "name": "GPG Infrastructure for OWASP",
     "url": "/Working-Sessions/Owasp/GPG-Infrastructure-for-OWASP.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Achim Hoffmann",
+        "url": "/Participants/ticket-24h-owasp/Achim-Hoffmann.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "GPG Infrastructure for OWASP",
@@ -1090,12 +2332,22 @@
       "participants": [
         "Bjoern Kimminich"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "GSMA IoT Security Guidelines": {
     "name": "GSMA IoT Security Guidelines",
     "url": "/Working-Sessions/IoT/GSMA-IoT-Security-Guidelines.html",
+    "topics": [
+      {
+        "name": "IoT",
+        "url": "/Working-Sessions/Technologies/IoT.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "GSMA IoT Security Guidelines",
@@ -1106,12 +2358,25 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": [
+        "IoT"
+      ]
     }
   },
   "GitHub Organization Reboot": {
     "name": "GitHub Organization Reboot",
     "url": "/Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "GitHub Organization Reboot",
@@ -1124,12 +2389,26 @@
         "Bjoern Kimminich"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "GraphQL Security Review": {
     "name": "GraphQL Security Review",
     "url": "/Working-Sessions/Research/GraphQL-Security-Review.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "PhotoBox"
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Threat Model",
+        "url": "/Working-Sessions/Threat-Model/index.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "GraphQL Security Review",
@@ -1145,12 +2424,36 @@
       "organizers": [],
       "participants": [
         "PhotoBox"
-      ]
+      ],
+      "topics": []
     }
   },
   "Growing the AppSec Industry": {
     "name": "Growing the AppSec Industry",
     "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Cyber Insurance",
+        "url": "/Working-Sessions/CISO/Cyber-Insurance.html"
+      },
+      {
+        "name": "Education",
+        "url": "/Working-Sessions/Education/index.html"
+      },
+      {
+        "name": "Creating AppSec Talent (next 100k professionals)",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Growing the AppSec Industry",
@@ -1167,12 +2470,28 @@
       "organizers": [
         "Yan Kravchenko"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Hackathon Daily Sessions": {
     "name": "Hackathon Daily Sessions",
     "url": "/Working-Sessions/Security-Crowdsourcing/Hackathon-Daily-Sessions.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Leon Juranic",
+        "url": "/Participants/Leon-Juranic.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Juice Shop",
+        "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Hackathon Daily Sessions",
@@ -1188,12 +2507,17 @@
       "organizers": [
         "Leon Juranic"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "How is the Top 10 Used in Real World": {
     "name": "How is the Top 10 Used in Real World",
     "url": "/Working-Sessions/Owasp-Top-10-2017/How-is-the-Top-10-Used-in-Real-World.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "How is the Top 10 Used in Real World",
@@ -1203,12 +2527,48 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "IAM for REST APIs": {
     "name": "IAM for REST APIs",
     "url": "/Working-Sessions/Owasp-Projects/IAM-for-REST-APIs.html",
+    "topics": [
+      {
+        "name": "REST"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "IAM for REST APIs",
@@ -1226,12 +2586,56 @@
         "Bjoern Kimminich",
         "Robert Morschel"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "REST"
+      ]
     }
   },
   "Implications of Owasp Top 10 2017": {
     "name": "Implications of Owasp Top 10 2017",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Brian Glas",
+        "url": "/Participants/ticket-24h-sponsor/Brian-Glas.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Implications of Owasp Top 10 2017",
@@ -1251,12 +2655,28 @@
         "Mateo Martinez",
         "Francois Raynaud"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Incident Response Playbook": {
     "name": "Incident Response Playbook",
     "url": "/Working-Sessions/Security-Playbooks/Incident-Response-Playbook.html",
+    "topics": [
+      {
+        "name": "SOC",
+        "url": "/Working-Sessions/Technologies/SOC.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Incident Response Playbook",
@@ -1269,12 +2689,25 @@
       "organizers": [],
       "participants": [
         "Mamta Vuppu"
+      ],
+      "topics": [
+        "SOC"
       ]
     }
   },
   "Include OWASP projects as resources for the SAMM practices": {
     "name": "Include OWASP projects as resources for the SAMM practices",
     "url": "/Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Include OWASP projects as resources for the SAMM practices",
@@ -1287,12 +2720,32 @@
         "Sebastien Deleersnyder"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "InfoSec Warranties and Guarantees": {
     "name": "InfoSec Warranties and Guarantees",
     "url": "/Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Cyber Insurance",
+        "url": "/Working-Sessions/CISO/Cyber-Insurance.html"
+      },
+      {
+        "name": "Securing Legacy Applications",
+        "url": "/Working-Sessions/DevSecOps/Securing-Legacy-Applications.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "InfoSec Warranties and Guarantees",
@@ -1306,12 +2759,39 @@
       "organizers": [
         "Yan Kravchenko"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Integrating Security Tools in the SDL": {
     "name": "Integrating Security Tools in the SDL",
     "url": "/Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html",
+    "topics": [
+      {
+        "name": "SAST",
+        "url": "/Working-Sessions/Technologies/SAST.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "A comparison of strength and weaknesses of specific FOSS tools",
+        "url": "/Working-Sessions/Tools/Comparison-of-FOSS-Tools.html"
+      },
+      {
+        "name": "Best practices in using SAST, DAST, IAST and RASP Tools",
+        "url": "/Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html"
+      },
+      {
+        "name": "Scaling Static Analysis Reviews and Deployments",
+        "url": "/Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html"
+      },
+      {
+        "name": "Securing the CI Pipeline",
+        "url": "/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Integrating Security Tools in the SDL",
@@ -1324,12 +2804,39 @@
       ],
       "status": "draft",
       "participants": [],
-      "organizers": []
+      "organizers": [],
+      "topics": [
+        "SAST"
+      ]
     }
   },
   "Integrating Security into a Portfolio Kanban": {
     "name": "Integrating Security into a Portfolio Kanban",
     "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Integrating Security into a Portfolio Kanban",
@@ -1347,12 +2854,32 @@
         "Ante Gulam",
         "Irene Michlin",
         "Mamta Vuppu"
-      ]
+      ],
+      "topics": []
     }
   },
   "Integrating Security into a Sales Channel": {
     "name": "Integrating Security into a Sales Channel",
     "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Sales-Channel.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Integrating Security into a Sales Channel",
@@ -1369,12 +2896,36 @@
       "participants": [
         "Ante Gulam",
         "Francois Raynaud"
-      ]
+      ],
+      "topics": []
     }
   },
   "Integrating Security into an Spotify Model": {
     "name": "Integrating Security into an Spotify Model",
     "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Define Agile Security Practices",
+        "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html"
+      },
+      {
+        "name": "Security Guild vs Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Integrating Security into an Spotify Model",
@@ -1390,12 +2941,17 @@
       ],
       "participants": [
         "Ante Gulam"
-      ]
+      ],
+      "topics": []
     }
   },
   "Internal Bug Bounties Programmes": {
     "name": "Internal Bug Bounties Programmes",
     "url": "/Working-Sessions/Security-Crowdsourcing/Internal-Bug-Bounties-Programmes.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Internal Bug Bounties Programmes",
@@ -1407,12 +2963,29 @@
       "status": "definition-of-done",
       "when-day": "Thu",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "IoT": {
     "name": "IoT",
     "url": "/Working-Sessions/Technologies/IoT.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Daniel Miessler",
+        "url": "/Participants/ticket-8h/Daniel-Miessler.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
       "title": "IoT",
@@ -1424,12 +2997,23 @@
       "participants": [
         "Johan Peeters"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Is the Owasp Top 10 Data Collection Open": {
     "name": "Is the Owasp Top 10 Data Collection Open",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Is the Owasp Top 10 Data Collection Open",
@@ -1442,12 +3026,34 @@
       "organizers": [
         "Dave Wichers"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "JIRA Risk Workflow": {
     "name": "JIRA Risk Workflow",
     "url": "/Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Using Security Risks to Measure Agile Practices",
+        "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "JIRA Risk Workflow",
@@ -1462,12 +3068,17 @@
       "participants": [
         "Timo Pagel"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Java": {
     "name": "Java",
     "url": "/Working-Sessions/Technologies/Java.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
       "title": "Java",
@@ -1476,12 +3087,75 @@
       "description": "",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Juice Shop": {
     "name": "Juice Shop",
     "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
+    "topics": [
+      {
+        "name": "Node",
+        "url": "/Working-Sessions/Technologies/Node.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      },
+      {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/need-funding/Ade-Yoseman-Putra.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "CTFs",
+        "url": "/Working-Sessions/Education/CTFs.html"
+      },
+      {
+        "name": "Education",
+        "url": "/Working-Sessions/Education/index.html"
+      },
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
+      },
+      {
+        "name": "Hackathon Daily Sessions",
+        "url": "/Working-Sessions/Security-Crowdsourcing/Hackathon-Daily-Sessions.html"
+      },
+      {
+        "name": "Teaching Attacker perspective to Developers",
+        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Juice Shop",
@@ -1501,12 +3175,25 @@
         "Timo Pagel",
         "Francois Raynaud"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Node"
+      ]
     }
   },
   "LANGSEC Language-theoretic Security": {
     "name": "LANGSEC Language-theoretic Security",
     "url": "/Working-Sessions/Research/LANGSEC-Language-theoretic-Security.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "LANGSEC Language-theoretic Security",
@@ -1519,12 +3206,17 @@
       "organizers": [],
       "participants": [
         "Johan Peeters"
-      ]
+      ],
+      "topics": []
     }
   },
   "Lessons learned from public bug bounties programmes": {
     "name": "Lessons learned from public bug bounties programmes",
     "url": "/Working-Sessions/Security-Crowdsourcing/Lessons-learned-from-public-bug-bounties-programmes.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Lessons learned from public bug bounties programmes",
@@ -1536,12 +3228,54 @@
       "status": "definition-of-done",
       "when-day": "Thu",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Lightweight Threat Modeling Process": {
     "name": "Lightweight Threat Modeling Process",
     "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Geoff Hill",
+        "url": "/Participants/ticket-8h/Geoff-Hill.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Lightweight Threat Modeling Process",
@@ -1560,12 +3294,37 @@
         "Stephen de Vries",
         "Irene Michlin"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "MSTG Book Sprint - Android Testing Guide": {
     "name": "MSTG Book Sprint - Android Testing Guide",
     "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+    "topics": [
+      {
+        "name": "Mobile",
+        "url": "/Working-Sessions/Technologies/Mobile.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Bernhard Mueller",
+        "url": "/Participants/ticket-24h-owasp/Bernhard-Mueller.html",
+        "remote": false
+      },
+      {
+        "name": "Sven Schleier",
+        "url": "/Participants/funded/Sven-Schleier.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "tbd."
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "MSTG Book Sprint - Android Testing Guide",
@@ -1583,12 +3342,39 @@
       "participants": [
         "tbd."
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Mobile"
+      ]
     }
   },
   "MSTG Book Sprint - Mobile App Security Testing": {
     "name": "MSTG Book Sprint - Mobile App Security Testing",
     "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+    "topics": [
+      {
+        "name": "Mobile",
+        "url": "/Working-Sessions/Technologies/Mobile.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Bernhard Mueller",
+        "url": "/Participants/ticket-24h-owasp/Bernhard-Mueller.html",
+        "remote": false
+      },
+      {
+        "name": "Sven Schleier",
+        "url": "/Participants/funded/Sven-Schleier.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "T.b.d."
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "MSTG Book Sprint - Mobile App Security Testing",
@@ -1606,12 +3392,39 @@
       "participants": [
         "T.b.d."
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Mobile"
+      ]
     }
   },
   "MSTG Book Sprint - Mobile Operating Systems": {
     "name": "MSTG Book Sprint - Mobile Operating Systems",
     "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
+    "topics": [
+      {
+        "name": "Mobile",
+        "url": "/Working-Sessions/Technologies/Mobile.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Bernhard Mueller",
+        "url": "/Participants/ticket-24h-owasp/Bernhard-Mueller.html",
+        "remote": false
+      },
+      {
+        "name": "Sven Schleier",
+        "url": "/Participants/funded/Sven-Schleier.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "T.b.d."
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "MSTG Book Sprint - Mobile Operating Systems",
@@ -1629,12 +3442,39 @@
       "participants": [
         "T.b.d."
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Mobile"
+      ]
     }
   },
   "MSTG Book Sprint - Reverse Engineering and Cracking": {
     "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
     "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+    "topics": [
+      {
+        "name": "Mobile",
+        "url": "/Working-Sessions/Technologies/Mobile.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Bernhard Mueller",
+        "url": "/Participants/ticket-24h-owasp/Bernhard-Mueller.html",
+        "remote": false
+      },
+      {
+        "name": "Sven Schleier",
+        "url": "/Participants/funded/Sven-Schleier.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "T.b.d."
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "MSTG Book Sprint - Reverse Engineering and Cracking",
@@ -1652,12 +3492,39 @@
       "participants": [
         "T.b.d."
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Mobile"
+      ]
     }
   },
   "MSTG Book Sprint - iOS Testing Guide": {
     "name": "MSTG Book Sprint - iOS Testing Guide",
     "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+    "topics": [
+      {
+        "name": "Mobile",
+        "url": "/Working-Sessions/Technologies/Mobile.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Bernhard Mueller",
+        "url": "/Participants/ticket-24h-owasp/Bernhard-Mueller.html",
+        "remote": false
+      },
+      {
+        "name": "Sven Schleier",
+        "url": "/Participants/funded/Sven-Schleier.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "T.b.d."
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "MSTG Book Sprint - iOS Testing Guide",
@@ -1675,12 +3542,54 @@
       "participants": [
         "T.b.d."
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Mobile"
+      ]
     }
   },
   "Maturity Models tool": {
     "name": "Maturity Models tool",
     "url": "/Working-Sessions/OwaspSAMM/Maturity-Models-Tool.html",
+    "topics": [
+      {
+        "name": "Node",
+        "url": "/Working-Sessions/Technologies/Node.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Viktor Lindström"
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Maturity Models tool",
@@ -1700,12 +3609,24 @@
         "Irene Michlin",
         "Viktor Lindström"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Node"
+      ]
     }
   },
   "Media Handling Playbook": {
     "name": "Media Handling Playbook",
     "url": "/Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html",
+    "topics": [
+      {
+        "name": "GDPR",
+        "url": "/Working-Sessions/Technologies/GDPR.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Media Handling Playbook",
@@ -1716,12 +3637,19 @@
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": [
+        "GDPR"
+      ]
     }
   },
   "Mobile": {
     "name": "Mobile",
     "url": "/Working-Sessions/Technologies/Mobile.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
       "title": "Mobile",
@@ -1730,12 +3658,64 @@
       "description": "",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Mobile Security": {
     "name": "Mobile Security",
     "url": "/Working-Sessions/Mobile-Security/index.html",
+    "topics": [
+      {
+        "name": "Mobile",
+        "url": "/Working-Sessions/Technologies/Mobile.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Bernhard Mueller",
+        "url": "/Participants/ticket-24h-owasp/Bernhard-Mueller.html",
+        "remote": false
+      },
+      {
+        "name": "Sven Schleier",
+        "url": "/Participants/funded/Sven-Schleier.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Denis Pilipchuk",
+        "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
+        "remote": false
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
+        "remote": false
+      },
+      {
+        "name": "Bolot Kerimbaev",
+        "url": "/Participants/ticket-24h/Bolot-Kerimbaev.html",
+        "remote": false
+      },
+      {
+        "name": "Jeroen Willemsen",
+        "url": "/Participants/ticket-24h-sponsor/Jeroen-Willemsen.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Kuai Hinojosa",
+        "url": "/Participants/need-funding/Kuai-Hinojosa.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/track",
       "title": "Mobile Security",
@@ -1755,12 +3735,31 @@
         "Marc Rimbau",
         "Kuai Hinojosa"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Mobile"
+      ]
     }
   },
   "Mobilising Business Lines for Security": {
     "name": "Mobilising Business Lines for Security",
     "url": "/Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Mobilising Business Lines for Security",
@@ -1776,12 +3775,37 @@
       "participants": [
         "Dinis Cruz"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Netflix Resilience Engineering": {
     "name": "Netflix Resilience Engineering",
     "url": "/Working-Sessions/DevSecOps/Netflix-Resilience-Engineering.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
+        "name": "Dicky Stafford",
+        "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Netflix Security Automation",
+        "url": "/Working-Sessions/DevSecOps/Netflix-Security-Automation.html"
+      },
+      {
+        "name": "SRE Security Activities",
+        "url": "/Working-Sessions/DevSecOps/SRE-Security-Activities.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Netflix Resilience Engineering",
@@ -1797,12 +3821,43 @@
       "participants": [
         "Neil Barlow",
         "Dicky Stafford"
-      ]
+      ],
+      "topics": []
     }
   },
   "Netflix Security Automation": {
     "name": "Netflix Security Automation",
     "url": "/Working-Sessions/DevSecOps/Netflix-Security-Automation.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
+        "name": "Dicky Stafford",
+        "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Netflix Resilience Engineering",
+        "url": "/Working-Sessions/DevSecOps/Netflix-Resilience-Engineering.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Netflix Security Automation",
@@ -1817,12 +3872,23 @@
         "Dicky Stafford",
         "Francois Raynaud",
         "Timo Pagel"
-      ]
+      ],
+      "topics": []
     }
   },
   "New Top 10 - Deserialisation Vulnerabilities": {
     "name": "New Top 10 - Deserialisation Vulnerabilities",
     "url": "/Working-Sessions/Owasp-Top-10-2017/New-Top-10-Deserialisation-Vulnerabilities.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Josh Grossman",
+        "url": "/Participants/remote/Josh-Grossman.html",
+        "remote": true
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "New Top 10 - Deserialisation Vulnerabilities",
@@ -1834,12 +3900,33 @@
       "organizers": [
         "Josh Grossman"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "NextGen Security Scanners": {
     "name": "NextGen Security Scanners",
     "url": "/Working-Sessions/Tools/NextGen-SecurityScanners.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "NextGen Security Scanners",
@@ -1853,12 +3940,17 @@
         "Marc Rimbau",
         "Johan Peeters"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Node": {
     "name": "Node",
     "url": "/Working-Sessions/Technologies/Node.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
       "title": "Node",
@@ -1867,12 +3959,17 @@
       "description": "",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Node Security Round Table": {
     "name": "Node Security Round Table",
     "url": "/Working-Sessions/DevSecOps/Node-Security-Round-Table.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Node Security Round Table",
@@ -1883,12 +3980,41 @@
       "related-to": [],
       "status": "review-content",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "NodeGoat": {
     "name": "NodeGoat",
     "url": "/Working-Sessions/Owasp-Projects/NodeGoat.html",
+    "topics": [
+      {
+        "name": "Node",
+        "url": "/Working-Sessions/Technologies/Node.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Kim Carter",
+        "url": "/Participants/need-funding/Kim-Carter.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Education",
+        "url": "/Working-Sessions/Education/index.html"
+      },
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
+      },
+      {
+        "name": "Teaching Attacker perspective to Developers",
+        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "NodeGoat",
@@ -1902,12 +4028,41 @@
         "Kim Carter"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Node"
+      ]
     }
   },
   "O-Saft": {
     "name": "O-Saft",
     "url": "/Working-Sessions/Owasp-Projects/O-Saft.html",
+    "topics": [
+      {
+        "name": "TLS",
+        "url": "/Working-Sessions/Technologies/TLS.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Achim Hoffmann",
+        "url": "/Participants/ticket-24h-owasp/Achim-Hoffmann.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "O-Saft",
@@ -1924,12 +4079,19 @@
         "Marc Rimbau",
         "Ingo Hanke"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "TLS"
+      ]
     }
   },
   "OWASP Bug Bounty": {
     "name": "OWASP Bug Bounty",
     "url": "/Working-Sessions/Security-Crowdsourcing/Owasp-Bug-Bounty.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "OWASP Bug Bounty",
@@ -1940,12 +4102,23 @@
       "when-day": "Wed",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "OWASP Chapter Leader Handbook": {
     "name": "OWASP Chapter Leader Handbook",
     "url": "/Working-Sessions/Owasp/Owasp-Chapter-Handbook.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "OWASP Chapter Leader Handbook",
@@ -1957,12 +4130,28 @@
         "Avi Douglen"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "OWASP Game Security Framework": {
     "name": "OWASP Game Security Framework",
     "url": "/Working-Sessions/Owasp-Projects/Game-Security-Framework.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Daniel Miessler",
+        "url": "/Participants/ticket-8h/Daniel-Miessler.html",
+        "remote": false
+      },
+      {
+        "name": "Azzeddine Ramrami",
+        "url": "/Participants/ticket-24h-owasp/Azzeddine-Ramrami.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "OWASP Game Security Framework",
@@ -1976,12 +4165,28 @@
         "Azzeddine Ramrami"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "OWASP Internet of Things Project": {
     "name": "OWASP Internet of Things Project",
     "url": "/Working-Sessions/IoT/Internet-of-Things-Project.html",
+    "topics": [
+      {
+        "name": "IoT",
+        "url": "/Working-Sessions/Technologies/IoT.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Daniel Miessler",
+        "url": "/Participants/ticket-8h/Daniel-Miessler.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "OWASP Internet of Things Project",
@@ -1995,12 +4200,38 @@
         "Daniel Miessler"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "IoT"
+      ]
     }
   },
   "OWASP Proactive Controls": {
     "name": "OWASP Proactive Controls",
     "url": "/Working-Sessions/Owasp-Projects/Proactive-Controls.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Katy Anton",
+        "url": "/Participants/Katy-Anton.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Synchronize Multiple Owasp Top 10s",
+        "url": "/Working-Sessions/Owasp-Top-10-2017/Synchronize-Multiple-Owasp-Top-10s.html"
+      },
+      {
+        "name": "Top 10 merge with Proactive Controls",
+        "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-merge-with-Proactive-Controls.html"
+      },
+      {
+        "name": "What Should be Added to the Top 10",
+        "url": "/Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "OWASP Proactive Controls",
@@ -2012,12 +4243,28 @@
       "organizers": [
         "Katy Anton"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "OWASP Projects Reviews": {
     "name": "OWASP Projects Reviews",
     "url": "/Working-Sessions/Owasp-Projects/OWASP-Projects-Review.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Claudia Casanovas",
+        "url": "/Participants/funded/Claudia-Casanovas.html",
+        "remote": false
+      },
+      {
+        "name": "Johanna Curiel",
+        "url": "/Participants/funded/Johanna-Curiel.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "OWASP Projects Reviews",
@@ -2030,12 +4277,29 @@
         "Johanna Curiel"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "OWASP Risk Rating Management Project": {
     "name": "OWASP Risk Rating Management Project",
     "url": "/Working-Sessions/Owasp-Projects/Risk-Rating-Management.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/need-funding/Ade-Yoseman-Putra.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "OWASP Risk Rating Management Project",
@@ -2049,12 +4313,23 @@
       "participants": [
         "Marc Rimbau"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Owasp Chapter Treasury": {
     "name": "Owasp Chapter Treasury",
     "url": "/Working-Sessions/Owasp/Owasp-Chapter-Treasury.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Owasp Chapter Treasury",
@@ -2066,12 +4341,23 @@
       "status": "done",
       "when-day": "Thu",
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Owasp Latam Region": {
     "name": "Owasp Latam Region",
     "url": "/Working-Sessions/Owasp/Owasp-Latam-Region.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Owasp Latam Region",
@@ -2084,12 +4370,28 @@
         "Mateo Martinez"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Owasp Orizon Reboot": {
     "name": "Owasp Orizon Reboot",
     "url": "/Working-Sessions/Owasp-Projects/Orizon-Reboot.html",
+    "topics": [
+      {
+        "name": "Java",
+        "url": "/Working-Sessions/Technologies/Java.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Paolo Perego",
+        "url": "/Participants/remote/Paolo-Perego.html",
+        "remote": true
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Owasp Orizon Reboot",
@@ -2103,12 +4405,30 @@
         "Paolo Perego"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Java"
+      ]
     }
   },
   "Owasp Projects": {
     "name": "Owasp Projects",
     "url": "/Working-Sessions/Owasp-Projects/index.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Claudia Casanovas",
+        "url": "/Participants/funded/Claudia-Casanovas.html",
+        "remote": false
+      },
+      {
+        "name": "Johanna Curiel",
+        "url": "/Participants/funded/Johanna-Curiel.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/track",
       "title": "Owasp Projects",
@@ -2120,12 +4440,28 @@
       ],
       "description": "Working Sessions focused on Owasp Projects",
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Owasp Student Chapters": {
     "name": "Owasp Student Chapters",
     "url": "/Working-Sessions/Owasp/Owasp-Student-Chapters.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Education",
+        "url": "/Working-Sessions/Education/index.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Owasp Student Chapters",
@@ -2138,12 +4474,49 @@
         "Mateo Martinez"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Owasp Top 10 2017": {
     "name": "Owasp Top 10 2017",
     "url": "/Working-Sessions/Owasp-Top-10-2017/index.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Brian Glas",
+        "url": "/Participants/ticket-24h-sponsor/Brian-Glas.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/track",
       "title": "Owasp Top 10 2017",
@@ -2160,12 +4533,17 @@
         "Felipe Zipitria",
         "Mateo Martinez"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Owasp-Website": {
     "name": "Owasp-Website",
     "url": "/Working-Sessions/Owasp/Owasp-Website.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Owasp-Website",
@@ -2174,12 +4552,54 @@
       "status": "draft",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "OwaspSAMM": {
     "name": "OwaspSAMM",
     "url": "/Working-Sessions/OwaspSAMM/index.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Brian Glas",
+        "url": "/Participants/ticket-24h-sponsor/Brian-Glas.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "SAMM Metrics for Enterprise",
+        "url": "/Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/track",
       "title": "OwaspSAMM",
@@ -2197,12 +4617,28 @@
         "Avi Douglen",
         "Yan Kravchenko"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Playbooks Common Format": {
     "name": "Playbooks Common Format",
     "url": "/Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Threat Modeling Diagramming Techniques",
+        "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Playbooks Common Format",
@@ -2217,12 +4653,17 @@
       "organizers": [],
       "participants": [
         "Yan Kravchenko"
-      ]
+      ],
+      "topics": []
     }
   },
   "Playbooks vs Handbooks": {
     "name": "Playbooks vs Handbooks",
     "url": "/Working-Sessions/Security-Playbooks/Playbooks-vs-Handbooks.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Playbooks vs Handbooks",
@@ -2233,12 +4674,17 @@
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Protobuf for Data Validation Between Services": {
     "name": "Protobuf for Data Validation Between Services",
     "url": "/Working-Sessions/Research/Protobuf-for-Data-Validation-Between-Services.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Protobuf for Data Validation Between Services",
@@ -2249,12 +4695,17 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Radical Candor": {
     "name": "Radical Candor",
     "url": "/Working-Sessions/Radical-Candor.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Radical Candor",
@@ -2264,12 +4715,17 @@
       "related-to": [],
       "status": "review-content",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Ransomware Playbook": {
     "name": "Ransomware Playbook",
     "url": "/Working-Sessions/Security-Playbooks/Ransomware-Playbook.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Ransomware Playbook",
@@ -2280,12 +4736,23 @@
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Recommending ESAPI in Top 10": {
     "name": "Recommending ESAPI in Top 10",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Recommending ESAPI in Top 10",
@@ -2298,12 +4765,36 @@
       "organizers": [
         "Dave Wichers"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Recruiting AppSec Talent": {
     "name": "Recruiting AppSec Talent",
     "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "AppSec Job Fair",
+        "url": "/Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html"
+      },
+      {
+        "name": "Creating AppSec Talent (next 100k professionals)",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html"
+      },
+      {
+        "name": "Creating AppSec Teams",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Recruiting AppSec Talent",
@@ -2316,12 +4807,17 @@
       "participants": [],
       "organizers": [
         "Avi Douglen"
-      ]
+      ],
+      "topics": []
     }
   },
   "Research": {
     "name": "Research",
     "url": "/Working-Sessions/Research/index.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/track",
       "title": "Research",
@@ -2330,12 +4826,29 @@
       "description": "Working Sessions related to multiple Research topics",
       "related-to": [],
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Responsible Disclosure": {
     "name": "Responsible Disclosure",
     "url": "/Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Responsible Disclosure",
@@ -2349,12 +4862,28 @@
       "participants": [
         "Francois Raynaud"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Reverse Engineering APK's with Bytecodeviewer": {
     "name": "Reverse Engineering APK's with Bytecodeviewer",
     "url": "/Working-Sessions/Tools/Bytecodevierwer.html",
+    "topics": [
+      {
+        "name": "Mobile",
+        "url": "/Working-Sessions/Technologies/Mobile.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Johanna Curiel",
+        "url": "/Participants/funded/Johanna-Curiel.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Reverse Engineering APK's with Bytecodeviewer",
@@ -2367,12 +4896,44 @@
         "Johanna Curiel"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Mobile"
+      ]
     }
   },
   "Review and improve the 12 SAMM practices": {
     "name": "Review and improve the 12 SAMM practices",
     "url": "/Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Viktor Lindström"
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Review and improve the 12 SAMM practices",
@@ -2390,12 +4951,28 @@
         "Irene Michlin",
         "Viktor Lindström"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Role of Security Certification": {
     "name": "Role of Security Certification",
     "url": "/Working-Sessions/Education/Role-of-Security-Certifications.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/need-funding/Ade-Yoseman-Putra.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "AppSec Job Fair",
+        "url": "/Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Role of Security Certification",
@@ -2408,12 +4985,37 @@
       "organizers": [
         "Ade Yoseman Putra"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "SAMM Metrics for Enterprise": {
     "name": "SAMM Metrics for Enterprise",
     "url": "/Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "OwaspSAMM",
+        "url": "/Working-Sessions/OwaspSAMM/index.html"
+      },
+      {
+        "name": "Appsec Metrics"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "SAMM Metrics for Enterprise",
@@ -2431,12 +5033,17 @@
       ],
       "participants": [
         "Robert Morschel"
-      ]
+      ],
+      "topics": []
     }
   },
   "SAST": {
     "name": "SAST",
     "url": "/Working-Sessions/Technologies/SAST.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
       "title": "SAST",
@@ -2445,12 +5052,17 @@
       "description": "Static application security testing (SAST) is a set of technologies designed to analyze application source code, byte code and binaries for coding and design conditions that are indicative of security vulnerabilities. SAST solutions analyze an application from the “inside out” in a nonrunning state.",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "SOC": {
     "name": "SOC",
     "url": "/Working-Sessions/Technologies/SOC.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
       "title": "SOC",
@@ -2459,12 +5071,28 @@
       "description": "SOC (Security Operations Center) is a key part of the Security capabilities.",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "SRE Security Activities": {
     "name": "SRE Security Activities",
     "url": "/Working-Sessions/DevSecOps/SRE-Security-Activities.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Netflix Resilience Engineering",
+        "url": "/Working-Sessions/DevSecOps/Netflix-Resilience-Engineering.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "SRE Security Activities",
@@ -2477,12 +5105,27 @@
       "organizers": [],
       "participants": [
         "Don Gibson"
-      ]
+      ],
+      "topics": []
     }
   },
   "Scaling Agile Planning and Education.md": {
     "name": "Scaling Agile Planning and Education.md",
     "url": "/Working-Sessions/Agile-AppSec/Scaling-Agile-Planning-and-Education.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Scaling Agile Planning and Education.md",
@@ -2497,12 +5140,46 @@
       ],
       "participants": [
         "Ante Gulam"
-      ]
+      ],
+      "topics": []
     }
   },
   "Scaling Static Analysis Reviews and Deployments": {
     "name": "Scaling Static Analysis Reviews and Deployments",
     "url": "/Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html",
+    "topics": [
+      {
+        "name": "SAST",
+        "url": "/Working-Sessions/Technologies/SAST.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Securing the CI Pipeline",
+        "url": "/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html"
+      },
+      {
+        "name": "Integrating Security Tools in the SDL",
+        "url": "/Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html"
+      },
+      {
+        "name": "Security Guidance and Feedback in IDE",
+        "url": "/Working-Sessions/DevSecOps/Security-Guidance-and-Feedback-in-IDE.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Scaling Static Analysis Reviews and Deployments",
@@ -2520,12 +5197,31 @@
         "Avi Douglen",
         "Robert Morschel"
       ],
-      "organizers": []
+      "organizers": [],
+      "topics": [
+        "SAST"
+      ]
     }
   },
   "Securing GitHub Integrations": {
     "name": "Securing GitHub Integrations",
     "url": "/Working-Sessions/DevSecOps/Securing-GitHub-Integrations.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Danny Grander",
+        "url": "/Participants/ticket-8h/Danny-Grander.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Securing GitHub Integrations",
@@ -2539,12 +5235,57 @@
       "participants": [
         "Francois Raynaud"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Securing Legacy Applications": {
     "name": "Securing Legacy Applications",
     "url": "/Working-Sessions/DevSecOps/Securing-Legacy-Applications.html",
+    "topics": [
+      {
+        "name": "SAST",
+        "url": "/Working-Sessions/Technologies/SAST.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Lucas Ferreira",
+        "url": "/Participants/need-funding/Lucas-Ferreira.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      },
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Cyber Insurance",
+        "url": "/Working-Sessions/CISO/Cyber-Insurance.html"
+      },
+      {
+        "name": "CISO",
+        "url": "/Working-Sessions/CISO/index.html"
+      },
+      {
+        "name": "InfoSec Warranties and Guarantees",
+        "url": "/Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Securing Legacy Applications",
@@ -2566,12 +5307,56 @@
         "Don Gibson",
         "Bjoern Kimminich",
         "Irene Michlin"
+      ],
+      "topics": [
+        "SAST"
       ]
     }
   },
   "Securing the CI Pipeline": {
     "name": "Securing the CI Pipeline",
     "url": "/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html",
+    "topics": [
+      {
+        "name": "CI"
+      },
+      {
+        "name": "SAST",
+        "url": "/Working-Sessions/Technologies/SAST.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Integrating Security Tools in the SDL",
+        "url": "/Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html"
+      },
+      {
+        "name": "CISO",
+        "url": "/Working-Sessions/CISO/index.html"
+      },
+      {
+        "name": "Best practices in using SAST, DAST, IAST and RASP Tools",
+        "url": "/Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html"
+      },
+      {
+        "name": "Scaling Static Analysis Reviews and Deployments",
+        "url": "/Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Securing the CI Pipeline",
@@ -2589,12 +5374,25 @@
       ],
       "organizers": [
         "Felipe Zipitria"
+      ],
+      "topics": [
+        "CI",
+        "SAST"
       ]
     }
   },
   "Security Architecture Recommendations for IoT": {
     "name": "Security Architecture Recommendations for IoT",
     "url": "/Working-Sessions/IoT/Security-Architecture-Recommendations-for-IoT.html",
+    "topics": [
+      {
+        "name": "IoT",
+        "url": "/Working-Sessions/Technologies/IoT.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Architecture Recommendations for IoT",
@@ -2604,12 +5402,30 @@
       "status": "draft",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "IoT"
+      ]
     }
   },
   "Security Book Club": {
     "name": "Security Book Club",
     "url": "/Working-Sessions/Education/Security-Book-Club.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Book Club",
@@ -2624,12 +5440,51 @@
       "participants": [
         "Dinis Cruz",
         "Bjoern Kimminich"
-      ]
+      ],
+      "topics": []
     }
   },
   "Security Champions": {
     "name": "Security Champions",
     "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Threat-Model"
+      },
+      {
+        "name": "DevSecOps",
+        "url": "/Working-Sessions/DevSecOps/index.html"
+      },
+      {
+        "name": "CISO",
+        "url": "/Working-Sessions/CISO/index.html"
+      },
+      {
+        "name": "Creating AppSec Talent (next 100k professionals)",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html"
+      },
+      {
+        "name": "Creating AppSec Teams",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html"
+      },
+      {
+        "name": "Education",
+        "url": "/Working-Sessions/Education/index.html"
+      },
+      {
+        "name": "Security Guild vs Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Champions",
@@ -2645,12 +5500,23 @@
       "organizers": [],
       "participants": [
         "Francois Raynaud"
-      ]
+      ],
+      "topics": []
     }
   },
   "Security Crowdsourcing": {
     "name": "Security Crowdsourcing",
     "url": "/Working-Sessions/Security-Crowdsourcing/index.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/track",
       "title": "Security Crowdsourcing",
@@ -2661,12 +5527,30 @@
       ],
       "description": "Working Sessions for Security Crowdsourcing",
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Security Guidance and Feedback in IDE": {
     "name": "Security Guidance and Feedback in IDE",
     "url": "/Working-Sessions/DevSecOps/Security-Guidance-and-Feedback-in-IDE.html",
+    "topics": [
+      {
+        "name": "IDE"
+      },
+      {
+        "name": "SAST",
+        "url": "/Working-Sessions/Technologies/SAST.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Scaling Static Analysis Reviews and Deployments",
+        "url": "/Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Guidance and Feedback in IDE",
@@ -2680,12 +5564,63 @@
       "status": "review-content",
       "when-day": "Wed",
       "participants": [],
-      "organizers": []
+      "organizers": [],
+      "topics": [
+        "IDE",
+        "SAST"
+      ]
     }
   },
   "Security Guild vs Security Champions": {
     "name": "Security Guild vs Security Champions",
     "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Duncan Hurwood",
+        "url": "/Participants/ticket-8h/Duncan-Hurwood.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Integrating Security into an Spotify Model",
+        "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html"
+      },
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
+      },
+      {
+        "name": "CISO",
+        "url": "/Working-Sessions/CISO/index.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Guild vs Security Champions",
@@ -2709,12 +5644,23 @@
         "Bjoern Kimminich",
         "Duncan Hurwood",
         "Robert Morschel"
-      ]
+      ],
+      "topics": []
     }
   },
   "Security Knowledge Framework": {
     "name": "Security Knowledge Framework",
     "url": "/Working-Sessions/Owasp-Projects/Security-Knowledge-Framework.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Knowledge Framework",
@@ -2726,12 +5672,23 @@
         "Marc Rimbau"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Security Labels": {
     "name": "Security Labels",
     "url": "/Working-Sessions/Research/Security-Labels.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Labels",
@@ -2744,12 +5701,23 @@
       "organizers": [],
       "participants": [
         "Dinis Cruz"
-      ]
+      ],
+      "topics": []
     }
   },
   "Security Monitoring Playbooks": {
     "name": "Security Monitoring Playbooks",
     "url": "/Working-Sessions/Security-Playbooks/Security-Monitoring-Playbooks.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Monitoring Playbooks",
@@ -2762,12 +5730,23 @@
       "organizers": [],
       "participants": [
         "Johan Peeters"
-      ]
+      ],
+      "topics": []
     }
   },
   "Security Playbooks": {
     "name": "Security Playbooks",
     "url": "/Working-Sessions/Security-Playbooks/index.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/track",
       "title": "Security Playbooks",
@@ -2778,12 +5757,17 @@
       "participants": [
         "Yan Kravchenko"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Security Playbooks Diagrams": {
     "name": "Security Playbooks Diagrams",
     "url": "/Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security Playbooks Diagrams",
@@ -2794,12 +5778,17 @@
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Security-Review-pure-Javascript-Applications": {
     "name": "Security-Review-pure-Javascript-Applications",
     "url": "/Working-Sessions/Security-Review-pure-Javascript-Applications.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Security-Review-pure-Javascript-Applications",
@@ -2810,12 +5799,23 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Sign Ceremony for Owasp Top 10 2017": {
     "name": "Sign Ceremony for Owasp Top 10 2017",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Sign-Ceremony-for-Owasp-Top-10-2017.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Sign Ceremony for Owasp Top 10 2017",
@@ -2829,12 +5829,23 @@
       "organizers": [
         "Dave Wichers"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Software Defined Everything (SDx)": {
     "name": "Software Defined Everything (SDx)",
     "url": "/Working-Sessions/Education/Software-Defined-Everything-(SDx).html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Adrian Winckles",
+        "url": "/Participants/funded/Adrian-Winckles.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Software Defined Everything (SDx)",
@@ -2846,12 +5857,22 @@
         "Adrian Winckles"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Synchronize Multiple Owasp Top 10s": {
     "name": "Synchronize Multiple Owasp Top 10s",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Synchronize-Multiple-Owasp-Top-10s.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "OWASP Proactive Controls",
+        "url": "/Working-Sessions/Owasp-Projects/Proactive-Controls.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Synchronize Multiple Owasp Top 10s",
@@ -2863,12 +5884,17 @@
       ],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "TLS": {
     "name": "TLS",
     "url": "/Working-Sessions/Technologies/TLS.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
       "title": "TLS",
@@ -2877,12 +5903,43 @@
       "description": "Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer (SSL), both frequently referred to as \"SSL\", are cryptographic protocols that provide communications security over a computer network",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "TLS for Local IoT": {
     "name": "TLS for Local IoT",
     "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
+    "topics": [
+      {
+        "name": "TLS",
+        "url": "/Working-Sessions/Technologies/TLS.html"
+      },
+      {
+        "name": "IoT",
+        "url": "/Working-Sessions/Technologies/IoT.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Kevin Sheldrake",
+        "url": "/Participants/ticket-8h/Kevin-Sheldrake.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "TLS for Local IoT",
@@ -2898,12 +5955,58 @@
         "Francois Raynaud",
         "Johan Peeters"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "TLS",
+        "IoT"
+      ]
     }
   },
   "Teaching Attacker perspective to Developers": {
     "name": "Teaching Attacker perspective to Developers",
     "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Juice Shop",
+        "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
+      },
+      {
+        "name": "NodeGoat",
+        "url": "/Working-Sessions/Owasp-Projects/NodeGoat.html"
+      },
+      {
+        "name": "Webgoat",
+        "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
+      },
+      {
+        "name": "CTFs",
+        "url": "/Working-Sessions/Education/CTFs.html"
+      },
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Teaching Attacker perspective to Developers",
@@ -2924,12 +6027,34 @@
       "participants": [
         "Robert Morschel",
         "Timo Pagel"
-      ]
+      ],
+      "topics": []
     }
   },
   "Testing Guide v5": {
     "name": "Testing Guide v5",
     "url": "/Working-Sessions/Owasp-Projects/Testing-Guide-v5.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Matteo Meucci",
+        "url": "/Participants/ticket-24h/Matteo-Meucci.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Writing Security Tests",
+        "url": "/Working-Sessions/DevSecOps/Writing-Security-Tests.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Testing Guide v5",
@@ -2944,12 +6069,39 @@
       "participants": [
         "Mateo Martinez"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "The Future of Privacy": {
     "name": "The Future of Privacy",
     "url": "/Working-Sessions/The-future-of-privacy.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Akshay Sharma",
+        "url": "/Participants/summit-editors/Akshay-Sharma.html",
+        "remote": false
+      },
+      {
+        "name": "Achim Hoffmann",
+        "url": "/Participants/ticket-24h-owasp/Achim-Hoffmann.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "The Future of Privacy",
@@ -2966,12 +6118,94 @@
         "Achim Hoffmann",
         "Johan Peeters"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Threat Model": {
     "name": "Threat Model",
     "url": "/Working-Sessions/Threat-Model/index.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Tony UV",
+        "url": "/Participants/ticket-24h/Tony-UV.html",
+        "remote": false
+      },
+      {
+        "name": "Steven Wierckx",
+        "url": "/Participants/ticket-24h-sponsor/Steven-Wierckx.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Robert Hurlbut",
+        "url": "/Participants/remote/Robert-Hurlbut.html",
+        "remote": true
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "remote": false
+      },
+      {
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
+        "remote": false
+      },
+      {
+        "name": "Marco Morana",
+        "url": "/Participants/ticket-8h-owasp/Marco-Morana.html",
+        "remote": false
+      },
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Geoff Hill",
+        "url": "/Participants/ticket-8h/Geoff-Hill.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "GraphQL Security Review",
+        "url": "/Working-Sessions/Research/GraphQL-Security-Review.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/track",
       "title": "Threat Model",
@@ -2996,12 +6230,59 @@
         "Irene Michlin",
         "Geoff Hill"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Threat Modeling Cheat Sheet & Lightweight Threat Modeling": {
     "name": "Threat Modeling Cheat Sheet & Lightweight Threat Modeling",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Tony UV",
+        "url": "/Participants/ticket-24h/Tony-UV.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Cheat Sheets",
+        "url": "/Working-Sessions/Owasp-Projects/Cheatsheets.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling Cheat Sheet & Lightweight Threat Modeling",
@@ -3023,12 +6304,23 @@
         "Irene Michlin",
         "Robert Morschel",
         "Stephen de Vries"
-      ]
+      ],
+      "topics": []
     }
   },
   "Threat Modeling Cloud Migrations": {
     "name": "Threat Modeling Cloud Migrations",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Cloud-Migrations.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling Cloud Migrations",
@@ -3042,12 +6334,22 @@
       "organizers": [
         "Don Gibson"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Threat Modeling Diagramming Techniques": {
     "name": "Threat Modeling Diagramming Techniques",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Playbooks Common Format",
+        "url": "/Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling Diagramming Techniques",
@@ -3059,12 +6361,22 @@
       "status": "draft",
       "when-day": "Mon",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Threat Modeling IoT Devices": {
     "name": "Threat Modeling IoT Devices",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-IoT-Devices.html",
+    "topics": [
+      {
+        "name": "IoT",
+        "url": "/Working-Sessions/Technologies/IoT.html"
+      }
+    ],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling IoT Devices",
@@ -3076,12 +6388,42 @@
       "when-day": "Thu",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "IoT"
+      ]
     }
   },
   "Threat Modeling OWASP Pages": {
     "name": "Threat Modeling OWASP Pages",
     "url": "/Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Tony UV",
+        "url": "/Participants/ticket-24h/Tony-UV.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Cheat Sheets",
+        "url": "/Working-Sessions/Owasp-Projects/Cheatsheets.html"
+      },
+      {
+        "name": "Templates"
+      },
+      {
+        "name": "Tools"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling OWASP Pages",
@@ -3100,12 +6442,33 @@
       ],
       "participants": [
         "Avi Douglen"
-      ]
+      ],
+      "topics": []
     }
   },
   "Threat Modeling Scaling and Security Champions": {
     "name": "Threat Modeling Scaling and Security Champions",
     "url": "/Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Robert Hurlbut",
+        "url": "/Participants/remote/Robert-Hurlbut.html",
+        "remote": true
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling Scaling and Security Champions",
@@ -3120,12 +6483,17 @@
         "Robert Hurlbut",
         "Irene Michlin",
         "Mamta Vuppu"
-      ]
+      ],
+      "topics": []
     }
   },
   "Threat Modeling Schema": {
     "name": "Threat Modeling Schema",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Schema.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling Schema",
@@ -3135,12 +6503,63 @@
       "when-day": "Mon",
       "organizers": [],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Threat Modeling Templates": {
     "name": "Threat Modeling Templates",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Templates.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Tony UV",
+        "url": "/Participants/ticket-24h/Tony-UV.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Threat Modeling Cheat Sheets"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling Templates",
@@ -3163,12 +6582,48 @@
         "Stephen de Vries",
         "Robert Morschel",
         "Francois Raynaud"
-      ]
+      ],
+      "topics": []
     }
   },
   "Threat Modeling Tools": {
     "name": "Threat Modeling Tools",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Geoff Hill",
+        "url": "/Participants/ticket-8h/Geoff-Hill.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling Tools",
@@ -3187,12 +6642,33 @@
         "Mamta Vuppu",
         "Stephen de Vries",
         "Johan Peeters"
-      ]
+      ],
+      "topics": []
     }
   },
   "Threat Modeling Where do I Start?": {
     "name": "Threat Modeling Where do I Start?",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Robert Hurlbut",
+        "url": "/Participants/remote/Robert-Hurlbut.html",
+        "remote": true
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling Where do I Start?",
@@ -3208,12 +6684,17 @@
         "Robert Hurlbut",
         "Irene Michlin",
         "Mamta Vuppu"
-      ]
+      ],
+      "topics": []
     }
   },
   "Threat Modeling by Feature and Layer": {
     "name": "Threat Modeling by Feature and Layer",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-by-Feature-and-Layer.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling by Feature and Layer",
@@ -3224,12 +6705,17 @@
       "status": "draft",
       "when-day": "Thu",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Threat Modeling pure Javascript Applications": {
     "name": "Threat Modeling pure Javascript Applications",
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-pure-Javascript-Applications.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat Modeling pure Javascript Applications",
@@ -3240,12 +6726,59 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Threat and Vulnerability Management": {
     "name": "Threat and Vulnerability Management",
     "url": "/Working-Sessions/DevSecOps/Threat-Vuln-Management.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Threat and Vulnerability Management",
@@ -3266,12 +6799,28 @@
         "Robert Morschel",
         "Timo Pagel"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Top 10 Selection Criteria": {
     "name": "Top 10 Selection Criteria",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Dave Wichers",
+        "url": "/Participants/Dave-Wichers.html",
+        "remote": false
+      },
+      {
+        "name": "Josh Grossman",
+        "url": "/Participants/remote/Josh-Grossman.html",
+        "remote": true
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Top 10 Selection Criteria",
@@ -3285,12 +6834,22 @@
         "Dave Wichers",
         "Josh Grossman"
       ],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Top 10 merge with Proactive Controls": {
     "name": "Top 10 merge with Proactive Controls",
     "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-merge-with-Proactive-Controls.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "OWASP Proactive Controls",
+        "url": "/Working-Sessions/Owasp-Projects/Proactive-Controls.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Top 10 merge with Proactive Controls",
@@ -3302,12 +6861,45 @@
       ],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Update SAMM model to take into account Agile and DevOps": {
     "name": "Update SAMM model to take into account Agile and DevOps",
     "url": "/Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      },
+      {
+        "name": "Adam O'Brien"
+      },
+      {
+        "name": "Viktor Lindström"
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Update SAMM model to take into account Agile and DevOps",
@@ -3326,12 +6918,17 @@
         "Adam O'Brien",
         "Viktor Lindström"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Use Threat Models to Lock Developers Briefs": {
     "name": "Use Threat Models to Lock Developers Briefs",
     "url": "/Working-Sessions/Threat-Model/Use-Threat-Models-to-Lock-Developers-Briefs.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Use Threat Models to Lock Developers Briefs",
@@ -3342,12 +6939,17 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Using Holacracy in Working Sessions": {
     "name": "Using Holacracy in Working Sessions",
     "url": "/Working-Sessions/Using-Holacracy-in-Working-Sessions.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Using Holacracy in Working Sessions",
@@ -3358,12 +6960,17 @@
       "related-to": [],
       "status": "improve-content",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Using JIRA and Confluence to Store Threat Model Data": {
     "name": "Using JIRA and Confluence to Store Threat Model Data",
     "url": "/Working-Sessions/Threat-Model/Using-JIRA-and-Confluence-to-Store-Threat-Model-Data.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Using JIRA and Confluence to Store Threat Model Data",
@@ -3375,12 +6982,23 @@
       "status": "draft",
       "when-day": "Wed",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "topics": []
     }
   },
   "Using ML and AI to detect Attacks": {
     "name": "Using ML and AI to detect Attacks",
     "url": "/Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Talal Albacha",
+        "url": "/Participants/ticket-8h/Talal-Albacha.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Using ML and AI to detect Attacks",
@@ -3393,12 +7011,42 @@
       ],
       "when-day": "Friday",
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Using Security Risks to Measure Agile Practices": {
     "name": "Using Security Risks to Measure Agile Practices",
     "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "David Clarke"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Ante Gulam",
+        "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "JIRA Risk Workflow",
+        "url": "/Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Using Security Risks to Measure Agile Practices",
@@ -3418,12 +7066,42 @@
         "Ante Gulam",
         "Irene Michlin",
         "Mamta Vuppu"
-      ]
+      ],
+      "topics": []
     }
   },
   "Visit Bletchley Park": {
     "name": "Visit Bletchley Park",
     "url": "/Working-Sessions/Education/visit-Bletchley-Park.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Johan Peeters (1 extra space in car)"
+      }
+    ],
+    "participants": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Steven Wierckx",
+        "url": "/Participants/ticket-24h-sponsor/Steven-Wierckx.html",
+        "remote": false
+      },
+      {
+        "name": "Viktor Lindstrom",
+        "url": "/Participants/ticket-24h/Viktor-Lindstrom.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Visit Bletchley Park",
@@ -3443,12 +7121,41 @@
         "Steven Wierckx",
         "Viktor Lindstrom"
       ],
-      "need-transportation": "Viktor Lindstrom"
+      "need-transportation": "Viktor Lindstrom",
+      "topics": []
     }
   },
   "Webgoat": {
     "name": "Webgoat",
     "url": "/Working-Sessions/Owasp-Projects/WebGoat.html",
+    "topics": [
+      {
+        "name": "Java",
+        "url": "/Working-Sessions/Technologies/Java.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Nanne Baars",
+        "url": "/Participants/ticket-24h-sponsor/Nanne-Baars.html",
+        "remote": false
+      }
+    ],
+    "participants": [],
+    "related-to": [
+      {
+        "name": "Education",
+        "url": "/Working-Sessions/Education/index.html"
+      },
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
+      },
+      {
+        "name": "Teaching Attacker perspective to Developers",
+        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Webgoat",
@@ -3461,12 +7168,35 @@
         "Nanne Baars"
       ],
       "participants": [],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Java"
+      ]
     }
   },
   "What Should be Added to the Top 10": {
     "name": "What Should be Added to the Top 10",
     "url": "/Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Katy Anton",
+        "url": "/Participants/Katy-Anton.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "OWASP Proactive Controls",
+        "url": "/Working-Sessions/Owasp-Projects/Proactive-Controls.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "What Should be Added to the Top 10",
@@ -3482,12 +7212,36 @@
       "participants": [
         "Katy Anton",
         "Johan Peeters"
-      ]
+      ],
+      "topics": []
     }
   },
   "Women in Cyber": {
     "name": "Women in Cyber",
     "url": "/Working-Sessions/Women-in-Cyber.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
+        "name": "ade yoseman putra"
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Lisa Raynaud",
+        "url": "/Participants/funded/Lisa-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Women in Cyber",
@@ -3503,24 +7257,75 @@
         "ade yoseman putra",
         "Francois Raynaud",
         "Lisa Raynaud"
-      ]
+      ],
+      "topics": []
     }
   },
   "Working Sessions": {
     "name": "Working Sessions",
     "url": "/Working-Sessions/index.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/page-component",
       "component": "blocks/all-ws.html",
       "title": "Working Sessions",
       "participants": [],
       "organizers": [],
-      "related-to": []
+      "related-to": [],
+      "topics": []
     }
   },
   "Writing Security Tests": {
     "name": "Writing Security Tests",
     "url": "/Working-Sessions/DevSecOps/Writing-Security-Tests.html",
+    "topics": [
+      {
+        "name": "TDD"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Testing Guide v5",
+        "url": "/Working-Sessions/Owasp-Projects/Testing-Guide-v5.html"
+      }
+    ],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "Writing Security Tests",
@@ -3542,12 +7347,41 @@
         "Bjoern Kimminich",
         "Timo Pagel",
         "Johan Peeters"
+      ],
+      "topics": [
+        "TDD"
       ]
     }
   },
   "ZAP": {
     "name": "ZAP",
     "url": "/Working-Sessions/Owasp-Projects/ZAP.html",
+    "topics": [
+      {
+        "name": "Java",
+        "url": "/Working-Sessions/Technologies/Java.html"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Simon Bennetts",
+        "url": "/Participants/remote/Simon-Bennetts.html",
+        "remote": true
+      }
+    ],
+    "participants": [
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
       "title": "ZAP",
@@ -3563,7 +7397,10 @@
         "Marc Rimbau",
         "Mateo Martinez"
       ],
-      "related-to": []
+      "related-to": [],
+      "topics": [
+        "Java"
+      ]
     }
   }
 }

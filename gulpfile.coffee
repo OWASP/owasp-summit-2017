@@ -55,6 +55,7 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
 
     gulp.watch 'src/less/**/*.less'           , ['styles'     ]
     gulp.watch 'src/**/*.pug'                 , ['pug'        ]
+    gulp.watch 'src/**/*.jade'                , ['pug'        ]
 
     gulp.watch 'Logistics/**/*.md'            , ['reload-page']
     gulp.watch 'Participants/**/*.md'         , ['reload-page']

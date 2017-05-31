@@ -18,6 +18,9 @@ class Jekyll_Data
     @.file_Json_Working_Sessions  = @.folder_Data_Mapped.path_Combine 'working-sessions.json'
     @.file_Yaml_Working_Sessions  = @.folder_Data_Mapped.path_Combine 'working-sessions.yml'
 
+    @.participants_Data     = @.file_Json_Participants    .load_Json()                              # cache these for faster access to their data
+    @.working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()                              # todo: there are a couple race conditions related to the sequence of load and cross mappings
+    @.topics_Data           = @.file_Json_Topics          .load_Json()
 
   map_Participant_Raw_Data: (raw_Data)->
     data         = {}                                                                               # where we are going to store the mapped data
@@ -56,19 +59,17 @@ class Jekyll_Data
 
 
   map_Tracks_Data: ()->
-    working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()
-    participants_Data     = @.file_Json_Participants.load_Json()
     data = {}
-    for track_Name, track_Data of working_Sessions_Data when track_Data.metadata.type is 'track'
+    for track_Name, track_Data of @.working_Sessions_Data when track_Data.metadata.type is 'track'
       data[track_Name] =
         name              : track_Name
         url               : track_Data.url
         description       : track_Data.metadata.description
-        organizers        : @.resolve_Names participants_Data, track_Data.metadata.organizers
-        participants      : @.resolve_Names participants_Data, track_Data.metadata.participants
-        'related-to'      : @.resolve_Working_Sessions(working_Sessions_Data,@.resolve_Related_To(working_Sessions_Data, track_Name))
+        organizers        : @.resolve_Names track_Data.metadata.organizers
+        participants      : @.resolve_Names track_Data.metadata.participants
+        'related-to'      : @.resolve_Working_Sessions(@.resolve_Related_To(track_Name))
         'working-sessions': { ok: [], draft: []}
-      for key,value of working_Sessions_Data when value.metadata.track is track_Name
+      for key,value of @.working_Sessions_Data when value.metadata.track is track_Name
         item =
           name      : value.metadata.title       || ''
           url       : value.url                  || ''
@@ -89,9 +90,8 @@ class Jekyll_Data
     data
 
   map_Topics_Data: ()->
-    working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()
     data = {}
-    for track_Name, track_Data of working_Sessions_Data when track_Data.metadata.type is 'technology'
+    for track_Name, track_Data of @.working_Sessions_Data when track_Data.metadata.type is 'technology'
       data[track_Name] =
         name              : track_Name
         url               : track_Data.url
@@ -119,25 +119,31 @@ class Jekyll_Data
     data['participants'] =  data['participants']?.split(',')  || []                       # making the participants value an array
     data['organizers'  ] =  data['organizers'  ]?.split(',')  || []                       # making the participants value an array
     data['related-to'  ] =  data['related-to'  ]?.split(',')  || []
+    data['topics'      ] =  data['technology'  ]?.split(',')  || []                       # todo: refactor technology to topics in data
 
     data['participants'] = (item.trim() for item in data['participants'] when item != '') # trim all fields to cover for leading or training spaces
     data['organizers'  ] = (item.trim() for item in data['organizers'  ] when item != '')
     data['related-to'  ] = (item.trim() for item in data['related-to'  ] when item != '')
+    data['topics'      ] = (item.trim() for item in data['topics'      ] when item != '')
 
     return data                                                           # return mapped data
 
   map_Working_Sessions_Data: ->
     data = {}
+
     for file in @.folder_Working_Sessions.files_Recursive() when file.not_Contains('_template')
       metadata = @.map_Working_Session_Raw_Data file.file_Contents()
 
       name = metadata.title || ''
       url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
-
       data[name] =
-        name    : name
-        url     : url
-        metadata: metadata
+        name        : name
+        url         : url
+        topics      : @.resolve_Topics  metadata.topics       || []    # change to topics after refactoing of content mappings
+        organizers  : @.resolve_Names   metadata.organizers   || []
+        participants: @.resolve_Names   metadata.participants || []
+        'related-to': @.resolve_Working_Sessions @.resolve_Related_To name
+        metadata    : metadata
 
       sorted_Data = {}
       for key in data._keys().sort()
@@ -148,11 +154,11 @@ class Jekyll_Data
 
     data
 
-  resolve_Names: (participants_Data, names)->
+  resolve_Names: (names)->
     result = []
     if names
       for name in names
-        data = participants_Data[name]
+        data = @.participants_Data[name]
         if data
           result.add
             name   : name
@@ -162,19 +168,21 @@ class Jekyll_Data
           result.add name : name
     result
 
-  resolve_Related_To: (working_Sessions_Data, name)->
-    data = working_Sessions_Data[name]
+  resolve_Related_To: (name)->
+    data = @.working_Sessions_Data[name]
     result = data.metadata['related-to'] || []
-    for key,value of working_Sessions_Data
+    for key,value of @.working_Sessions_Data
       if name in value.metadata['related-to']
         result.add key
-    result
 
-  resolve_Working_Sessions: (working_Sessions_Data, names)->
+    result.unique()
+
+
+  resolve_Topics: (names)->
     result = []
     if names
       for name in names
-        data = working_Sessions_Data[name]
+        data = @.topics_Data[name]
         if data
           result.add
             name   : name
@@ -182,5 +190,24 @@ class Jekyll_Data
         else
           result.add name : name
     result
+
+
+  resolve_Working_Sessions: (names)->
+    result = []
+    if names
+      for name in names
+        data = @.working_Sessions_Data[name]
+        if data
+          result.add
+            name   : name
+            url    : data.url
+        else
+          result.add name : name
+    result
+
+  working_Session: (name)->
+    @.working_Sessions_Data[name] || null
+
+
 
 module.exports = Jekyll_Data
