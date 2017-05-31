@@ -8,11 +8,11 @@ travel-from     : Leicester
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/17a/176/3bba468.jpg
 email           : 
 linkedin        : scotttreacy
-twitter         : scotttreacy
+twitter         : scott_treacy
 facebook        :
 ticket          : 5x24h
 status          : empty
-working sessions:
+working sessions: 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
