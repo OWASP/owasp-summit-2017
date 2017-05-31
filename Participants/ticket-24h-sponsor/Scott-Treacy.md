@@ -2,7 +2,7 @@
 layout          : blocks/page-participant
 title           : Scott Treacy
 type            : participant
-job-title       : Consulting Solutions Engineer, WAF Technologies, EMEA
+job-title       : Consulting Solutions Engineer
 company         : Barracuda
 travel-from     : Leicester
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/17a/176/3bba468.jpg
