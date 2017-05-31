@@ -151,6 +151,9 @@ DevSecOps:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Scott Treacy
+      url: /Participants/ticket-24h-sponsor/Scott-Treacy.html
+      remote: false
   related-to:
     - name: Security Champions
       url: /Working-Sessions/Agile-AppSec/Security-Champions.html
@@ -184,6 +187,10 @@ DevSecOps:
         url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
         when-day: Mon
         status: done
+      - name: WAF Best Practices
+        url: /Working-Sessions/DevSecOps/WAF-best-practices.html
+        when-day: ''
+        status: ''
       - name: Writing Security Tests
         url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
         when-day: Wed
@@ -264,7 +271,7 @@ Education:
         status: review-content
       - name: Role of Security Certification
         url: /Working-Sessions/Education/Role-of-Security-Certifications.html
-        when-day: ''
+        when-day: Fri
         status: done
       - name: Security Book Club
         url: /Working-Sessions/Education/Security-Book-Club.html
@@ -325,8 +332,8 @@ Mobile Security:
       url: /Participants/ticket-24h-invoice/Marc-Rimbau.html
       remote: false
     - name: Kuai Hinojosa
-      url: /Participants/need-funding/Kuai-Hinojosa.html
-      remote: false
+      url: /Participants/remote/Kuai-Hinojosa.html
+      remote: true
   related-to: []
   working-sessions:
     ok:
@@ -341,11 +348,11 @@ Mobile Security:
       - name: MSTG Book Sprint - Mobile Operating Systems
         url: /Working-Sessions/Mobile-Security/MSTG_01.html
         when-day: Mon
-        status: featured
+        status: done
       - name: MSTG Book Sprint - Reverse Engineering and Cracking
         url: /Working-Sessions/Mobile-Security/MSTG_05.html
         when-day: Fri
-        status: featured
+        status: done
       - name: MSTG Book Sprint - iOS Testing Guide
         url: /Working-Sessions/Mobile-Security/MSTG_04.html
         when-day: Thu
@@ -377,7 +384,7 @@ Owasp Projects:
       - name: GitHub Organization Reboot
         url: /Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html
         when-day: Mon
-        status: done
+        status: featured
       - name: IAM for REST APIs
         url: /Working-Sessions/Owasp-Projects/IAM-for-REST-APIs.html
         when-day: Fri
@@ -400,7 +407,7 @@ Owasp Projects:
         status: needs-content
       - name: OWASP Risk Rating Management Project
         url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
-        when-day: Tue
+        when-day: Fri
         status: done
       - name: Owasp Orizon Reboot
         url: /Working-Sessions/Owasp-Projects/Orizon-Reboot.html
@@ -470,6 +477,9 @@ Owasp Top 10 2017:
       remote: false
     - name: Mateo Martinez
       url: /Participants/summit-editors/Mateo-Martinez.html
+      remote: false
+    - name: Scott Treacy
+      url: /Participants/ticket-24h-sponsor/Scott-Treacy.html
       remote: false
   related-to: []
   working-sessions:
@@ -605,7 +615,7 @@ Research:
         status: review-content
       - name: Using ML and AI to detect Attacks
         url: /Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html
-        when-day: Friday
+        when-day: Fri
         status: review-content
     draft:
       - name: BeyondCorp for internal Web Applications

@@ -1203,6 +1203,53 @@
       "topics": []
     }
   },
+  "Closing party": {
+    "name": "Closing party",
+    "url": "/Working-Sessions/closing-party.html",
+    "topics": [],
+    "organizers": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Seba"
+      }
+    ],
+    "participants": [
+      {
+        "name": "All"
+      }
+    ],
+    "related-to": [],
+    "metadata": {
+      "layout": "blocks/working-session",
+      "title": "Closing party",
+      "type": "workshop",
+      "owasp-project": "no",
+      "track": "",
+      "technology": "",
+      "related-to": [],
+      "status": "",
+      "when-day": "Thu",
+      "when-time": "Evening",
+      "organizers": [
+        "Francois Raynaud",
+        "Dinis Cruz",
+        "Seba"
+      ],
+      "participants": [
+        "All"
+      ],
+      "topics": []
+    }
+  },
   "Create CheatSheet Writing Security Unit Tests": {
     "name": "Create CheatSheet Writing Security Unit Tests",
     "url": "/Working-Sessions/Owasp-Projects/Create-CheatSheet-Writing Security-Unit-Tests.html",
@@ -1736,6 +1783,11 @@
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
+      },
+      {
+        "name": "Scott Treacy",
+        "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
+        "remote": false
       }
     ],
     "related-to": [
@@ -1754,7 +1806,8 @@
         "Francois Raynaud"
       ],
       "participants": [
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Scott Treacy"
       ],
       "related-to": [],
       "topics": []
@@ -2382,7 +2435,7 @@
       "title": "GitHub Organization Reboot",
       "type": "workshop",
       "track": "Owasp Projects",
-      "status": "done",
+      "status": "featured",
       "description": "The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them.",
       "when-day": "Mon",
       "organizers": [
@@ -3120,8 +3173,8 @@
       },
       {
         "name": "Ade Yoseman Putra",
-        "url": "/Participants/need-funding/Ade-Yoseman-Putra.html",
-        "remote": false
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
       },
       {
         "name": "Timo Pagel",
@@ -3432,7 +3485,7 @@
       "track": "Mobile Security",
       "owasp-project": "yes",
       "technology": "Mobile",
-      "status": "featured",
+      "status": "done",
       "when-day": "Mon",
       "description": "In this book sprint we produce content for the \"Mobile Operating Systems\" chapter of the Mobile Security Testing Guide.",
       "organizers": [
@@ -3482,7 +3535,7 @@
       "track": "Mobile Security",
       "owasp-project": "yes",
       "technology": "Mobile",
-      "status": "featured",
+      "status": "done",
       "when-day": "Fri",
       "description": "In this book sprint we produce content for the reverse engineering chapters of the Mobile Security Testing Guide.",
       "organizers": [
@@ -3711,8 +3764,8 @@
       },
       {
         "name": "Kuai Hinojosa",
-        "url": "/Participants/need-funding/Kuai-Hinojosa.html",
-        "remote": false
+        "url": "/Participants/remote/Kuai-Hinojosa.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -3996,8 +4049,8 @@
     "organizers": [
       {
         "name": "Kim Carter",
-        "url": "/Participants/need-funding/Kim-Carter.html",
-        "remote": false
+        "url": "/Participants/remote/Kim-Carter.html",
+        "remote": true
       }
     ],
     "participants": [],
@@ -4288,8 +4341,8 @@
     "organizers": [
       {
         "name": "Ade Yoseman Putra",
-        "url": "/Participants/need-funding/Ade-Yoseman-Putra.html",
-        "remote": false
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
       }
     ],
     "participants": [
@@ -4306,7 +4359,7 @@
       "type": "workshop",
       "track": "Owasp Projects",
       "status": "done",
-      "when-day": "Tue",
+      "when-day": "Fri",
       "organizers": [
         "Ade Yoseman Putra"
       ],
@@ -4514,6 +4567,11 @@
         "name": "Mateo Martinez",
         "url": "/Participants/summit-editors/Mateo-Martinez.html",
         "remote": false
+      },
+      {
+        "name": "Scott Treacy",
+        "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -4531,7 +4589,8 @@
         "Marc Rimbau",
         "Brian Glas",
         "Felipe Zipitria",
-        "Mateo Martinez"
+        "Mateo Martinez",
+        "Scott Treacy"
       ],
       "related-to": [],
       "topics": []
@@ -4962,8 +5021,8 @@
     "organizers": [
       {
         "name": "Ade Yoseman Putra",
-        "url": "/Participants/need-funding/Ade-Yoseman-Putra.html",
-        "remote": false
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
       }
     ],
     "participants": [],
@@ -4982,6 +5041,7 @@
       "technology": "",
       "related-to": [],
       "status": "done",
+      "when-day": "Fri",
       "organizers": [
         "Ade Yoseman Putra"
       ],
@@ -5251,8 +5311,8 @@
     "organizers": [
       {
         "name": "Lucas Ferreira",
-        "url": "/Participants/need-funding/Lucas-Ferreira.html",
-        "remote": false
+        "url": "/Participants/remote/Lucas-Ferreira.html",
+        "remote": true
       }
     ],
     "participants": [
@@ -7009,7 +7069,7 @@
       "organizers": [
         "Talal Albacha"
       ],
-      "when-day": "Friday",
+      "when-day": "Fri",
       "participants": [],
       "related-to": [],
       "topics": []
@@ -7123,6 +7183,51 @@
       ],
       "need-transportation": "Viktor Lindstrom",
       "topics": []
+    }
+  },
+  "WAF Best Practices": {
+    "name": "WAF Best Practices",
+    "url": "/Working-Sessions/DevSecOps/WAF-best-practices.html",
+    "topics": [
+      {
+        "name": "Web Application Firewall"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Scott Treacy",
+        "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
+        "remote": false
+      }
+    ],
+    "participants": [
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      }
+    ],
+    "related-to": [],
+    "metadata": {
+      "layout": "blocks/working-session",
+      "title": "WAF Best Practices",
+      "type": "workshop",
+      "owasp-project": "no",
+      "track": "DevSecOps",
+      "technology": "Web Application Firewall",
+      "related-to": [],
+      "status": "",
+      "when-day": "",
+      "when-time": "",
+      "organizers": [
+        "Scott Treacy"
+      ],
+      "participants": [
+        "Francois Raynaud"
+      ],
+      "topics": [
+        "Web Application Firewall"
+      ]
     }
   },
   "Webgoat": {

@@ -102,13 +102,18 @@ Adam Shostack:
       - Threat Modeling Where do I Start?
       - Threat Modeling Scaling
       - Security Champions Threat Modeling
+      - Visit Bletchley Park
+      - Threat Modeling Diagramming Techniques
+      - Application Security Guide for CISO
+      - Threat Modeling OWASP Pages
+      - Security Guidance and Feedback in IDE
 Ade Yoseman Putra:
   name: Ade Yoseman Putra
-  url: /Participants/need-funding/Ade-Yoseman-Putra.html
+  url: /Participants/remote/Ade-Yoseman-Putra.html
   metadata:
     layout: blocks/page-participant
     title: Ade Yoseman Putra
-    type: participant
+    type: participant-remote
     time: Vacation
     expenses: owasp
     funded: 'no'
@@ -707,11 +712,11 @@ Capital One 8:
     working-sessions: []
 Ceara Treacy:
   name: Ceara Treacy
-  url: /Participants/need-funding/Ceara-Treacy.html
+  url: /Participants/remote/Ceara-Treacy.html
   metadata:
     layout: blocks/page-participant
     title: Ceara Treacy
-    type: participant
+    type: participant-remote
     time: Research
     expenses: owasp
     funded: 'no'
@@ -831,6 +836,27 @@ Christian Martorella:
     ticket: 5x8h
     status: done
     working sessions: 'Threat Model, GDPR, Devsecops'
+    working-sessions: []
+Clare Creeden:
+  name: Clare Creeden
+  url: /Participants/ticket-24h-sponsor/Clare-Creeden.html
+  metadata:
+    layout: blocks/page-participant
+    title: Clare Creeden
+    type: participant
+    job-title: Project Manager
+    company: PhotoBox Group
+    travel-from: London
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: clare.creeden@photobox.com
+    project-leader: ''
+    chapter-leader: ''
+    ticket: 5x24h
+    status: empty
     working-sessions: []
 Claudia Casanovas:
   name: Claudia Casanovas
@@ -1056,6 +1082,27 @@ Dicky Stafford:
     status: need-content
     working-sessions:
       - AppSec SOC Monitoring Visualisation
+Dilek Koluman:
+  name: Dilek Koluman
+  url: /Participants/ticket-24h-sponsor/Dilek-Koluman.html
+  metadata:
+    layout: blocks/page-participant
+    title: Dilek Koluman
+    type: participant
+    job-title: Riks Analyst
+    company: PhotoBox Group
+    travel-from: London
+    image: ''
+    linkedin: ''
+    twiter: ''
+    facebook: ''
+    website: ''
+    email: dilek.koluman@photobox.com
+    project-leader: ''
+    chapter-leader: ''
+    ticket: 5x24h
+    status: map-working-sessions
+    working-sessions: []
 Dinis Cruz:
   name: Dinis Cruz
   url: /Participants/ticket-24h-sponsor/Dinis-Cruz.html
@@ -1911,11 +1958,11 @@ Kevin Sheldrake:
       - TLS for Local IoT
 Kim Carter:
   name: Kim Carter
-  url: /Participants/need-funding/Kim-Carter.html
+  url: /Participants/remote/Kim-Carter.html
   metadata:
     layout: blocks/page-participant
     title: Kim Carter
-    type: participant
+    type: participant-remote
     travel-from: ''
     expenses: owasp
     funded: 'no'
@@ -1934,11 +1981,11 @@ Kim Carter:
     working-sessions: []
 Kuai Hinojosa:
   name: Kuai Hinojosa
-  url: /Participants/need-funding/Kuai-Hinojosa.html
+  url: /Participants/remote/Kuai-Hinojosa.html
   metadata:
     layout: blocks/page-participant
     title: Kuai Hinojosa
-    type: participant
+    type: participant-remote
     job-title: Global Lead Engineer
     time: vacation
     travel-from: USA
@@ -2002,11 +2049,11 @@ Lisa Raynaud:
     working-sessions: []
 Lucas Ferreira:
   name: Lucas Ferreira
-  url: /Participants/need-funding/Lucas-Ferreira.html
+  url: /Participants/remote/Lucas-Ferreira.html
   metadata:
     layout: blocks/page-participant
     title: Lucas Ferreira
-    type: participant
+    type: participant-remote
     time: vacation
     job-title: Unit Head
     travel-from: Vienna
@@ -2056,11 +2103,11 @@ Madhu Akula:
       - A comparison of strength and weaknesses of specific FOSS tools
 Magno Logan:
   name: Magno Logan
-  url: /Participants/need-funding/Magno-Logan.html
+  url: /Participants/remote/Magno-Logan.html
   metadata:
     layout: blocks/page-participant
     title: Magno Logan
-    type: participant
+    type: participant-remote
     job-title: Systems and Network Security Specialist
     travel-from: Brazil
     expenses: owasp
@@ -2446,11 +2493,11 @@ Nikita Garia:
       - Bug Bounty Playbook
 Nishi Kumar:
   name: Nishi Kumar
-  url: /Participants/need-funding/Nishi-Kumar.html
+  url: /Participants/remote/Nishi-Kumar.html
   metadata:
     layout: blocks/page-participant
     title: Nishi Kumar
-    type: participant
+    type: participant-remote
     time: working
     travel-from: Austin
     expenses: owasp
@@ -2661,48 +2708,6 @@ PhotoBox 12:
     ticket: 5x8h
     status: empty
     working-sessions: []
-PhotoBox 3:
-  name: PhotoBox 3
-  url: /Participants/ticket-24h-sponsor/PhotoBox-3.html
-  metadata:
-    layout: blocks/page-participant
-    title: PhotoBox (3rd)
-    type: participant
-    job-title: ''
-    company: PhotoBox Group
-    travel-from: ''
-    image: ''
-    linkedin: ''
-    twiter: ''
-    facebook: ''
-    website: ''
-    email: ''
-    project-leader: ''
-    chapter-leader: ''
-    ticket: 5x24h
-    status: empty
-    working-sessions: []
-PhotoBox 4:
-  name: PhotoBox 4
-  url: /Participants/ticket-24h-sponsor/PhotoBox-4.html
-  metadata:
-    layout: blocks/page-participant
-    title: PhotoBox (4th)
-    type: participant
-    job-title: ''
-    company: PhotoBox Group
-    travel-from: ''
-    image: ''
-    linkedin: ''
-    twiter: ''
-    facebook: ''
-    website: ''
-    email: ''
-    project-leader: ''
-    chapter-leader: ''
-    ticket: 5x24h
-    status: empty
-    working-sessions: []
 PhotoBox 5:
   name: PhotoBox 5
   url: /Participants/ticket-24h-sponsor/PhotoBox-5.html
@@ -2886,7 +2891,7 @@ Ross Tanner:
     website: 'https://www.lafosse.com/rosstanner'
     email: ross.tanner@lafosse.com
     ticket: ''
-    when-day: Tues
+    when-day: Tue
     status: empty
     working-sessions:
       - Creating AppSec Talent
@@ -2975,20 +2980,18 @@ Scott Treacy:
     layout: blocks/page-participant
     title: Scott Treacy
     type: participant
-    job-title: ''
+    job-title: Consulting Solutions Engineer
     company: Barracuda
     travel-from: Leicester
     image: >-
       https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/17a/176/3bba468.jpg
-    linkedin: scotttreacy
-    twiter: ''
-    facebook: ''
-    website: ''
     email: ''
-    project-leader: ''
-    chapter-leader: ''
+    linkedin: scotttreacy
+    twitter: scott_treacy
+    facebook: ''
     ticket: 5x24h
     status: empty
+    working sessions: ''
     working-sessions: []
 Sebastien Deleersnyder:
   name: Sebastien Deleersnyder
@@ -3258,11 +3261,11 @@ Talal Albacha:
     working-sessions: []
 Tamer Elzayyat:
   name: Tamer Elzayyat
-  url: /Participants/need-funding/Tamer-Elzayyat.html
+  url: /Participants/remote/Tamer-Elzayyat.html
   metadata:
     layout: blocks/page-participant
     title: Tamer Elzayyat
-    type: participant
+    type: participant-remote
     time: ''
     expenses: owasp
     funded: 'no'
@@ -3553,7 +3556,7 @@ Yan Kravchenko:
     working-sessions: []
 Yarden Yerushalmi:
   name: Yarden Yerushalmi
-  url: /Participants/remote/Yarden-Yerushalmi
+  url: /Participants/remote/Yarden-Yerushalmi.html
   metadata:
     layout: blocks/page-participant
     title: Yarden Yerushalmi

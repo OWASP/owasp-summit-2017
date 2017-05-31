@@ -57,6 +57,7 @@ Here is the list of the current Summit Editors. Feel free to contact them for he
 
 <ul>
     <ul>
+
         {% for page in site.pages %}
             {% if page.title and page.role == 'Summit-Editor' %}
                 <li><a href="{{page.url}}">{{page.title}}</a></li>

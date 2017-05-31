@@ -873,6 +873,39 @@ Cheat Sheets:
       - Johan Peeters
     related-to: []
     topics: []
+Closing party:
+  name: Closing party
+  url: /Working-Sessions/closing-party.html
+  topics: []
+  organizers:
+    - name: Francois Raynaud
+      url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
+      remote: false
+    - name: Dinis Cruz
+      url: /Participants/ticket-24h-sponsor/Dinis-Cruz.html
+      remote: false
+    - name: Seba
+  participants:
+    - name: All
+  related-to: []
+  metadata:
+    layout: blocks/working-session
+    title: Closing party
+    type: workshop
+    owasp-project: 'no'
+    track: ''
+    technology: ''
+    related-to: []
+    status: ''
+    when-day: Thu
+    when-time: Evening
+    organizers:
+      - Francois Raynaud
+      - Dinis Cruz
+      - Seba
+    participants:
+      - All
+    topics: []
 Create CheatSheet Writing Security Unit Tests:
   name: Create CheatSheet Writing Security Unit Tests
   url: >-
@@ -1262,6 +1295,9 @@ DevSecOps:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Scott Treacy
+      url: /Participants/ticket-24h-sponsor/Scott-Treacy.html
+      remote: false
   related-to:
     - name: Security Champions
       url: /Working-Sessions/Agile-AppSec/Security-Champions.html
@@ -1275,6 +1311,7 @@ DevSecOps:
       - Francois Raynaud
     participants:
       - Francois Raynaud
+      - Scott Treacy
     related-to: []
     topics: []
 DevSecOps vs SecDevOps:
@@ -1733,7 +1770,7 @@ GitHub Organization Reboot:
     title: GitHub Organization Reboot
     type: workshop
     track: Owasp Projects
-    status: done
+    status: featured
     description: >-
       The OWASP GitHub organization hosts some of the foundation's greatest
       projects. Unfortunately there is lots of rubble obstructing access to
@@ -2281,8 +2318,8 @@ Juice Shop:
       url: /Participants/ticket-24h-owasp/Ingo-Hanke.html
       remote: false
     - name: Ade Yoseman Putra
-      url: /Participants/need-funding/Ade-Yoseman-Putra.html
-      remote: false
+      url: /Participants/remote/Ade-Yoseman-Putra.html
+      remote: true
     - name: Timo Pagel
       url: /Participants/ticket-24h-owasp/Timo-Pagel.html
       remote: false
@@ -2510,7 +2547,7 @@ MSTG Book Sprint - Mobile Operating Systems:
     track: Mobile Security
     owasp-project: 'yes'
     technology: Mobile
-    status: featured
+    status: done
     when-day: Mon
     description: >-
       In this book sprint we produce content for the "Mobile Operating Systems"
@@ -2546,7 +2583,7 @@ MSTG Book Sprint - Reverse Engineering and Cracking:
     track: Mobile Security
     owasp-project: 'yes'
     technology: Mobile
-    status: featured
+    status: done
     when-day: Fri
     description: >-
       In this book sprint we produce content for the reverse engineering
@@ -2709,8 +2746,8 @@ Mobile Security:
       url: /Participants/ticket-24h-invoice/Marc-Rimbau.html
       remote: false
     - name: Kuai Hinojosa
-      url: /Participants/need-funding/Kuai-Hinojosa.html
-      remote: false
+      url: /Participants/remote/Kuai-Hinojosa.html
+      remote: true
   related-to: []
   metadata:
     layout: blocks/track
@@ -2925,8 +2962,8 @@ NodeGoat:
       url: /Working-Sessions/Technologies/Node.html
   organizers:
     - name: Kim Carter
-      url: /Participants/need-funding/Kim-Carter.html
-      remote: false
+      url: /Participants/remote/Kim-Carter.html
+      remote: true
   participants: []
   related-to:
     - name: Education
@@ -3149,8 +3186,8 @@ OWASP Risk Rating Management Project:
   topics: []
   organizers:
     - name: Ade Yoseman Putra
-      url: /Participants/need-funding/Ade-Yoseman-Putra.html
-      remote: false
+      url: /Participants/remote/Ade-Yoseman-Putra.html
+      remote: true
   participants:
     - name: Marc Rimbau
       url: /Participants/ticket-24h-invoice/Marc-Rimbau.html
@@ -3162,7 +3199,7 @@ OWASP Risk Rating Management Project:
     type: workshop
     track: Owasp Projects
     status: done
-    when-day: Tue
+    when-day: Fri
     organizers:
       - Ade Yoseman Putra
     participants:
@@ -3315,6 +3352,9 @@ Owasp Top 10 2017:
     - name: Mateo Martinez
       url: /Participants/summit-editors/Mateo-Martinez.html
       remote: false
+    - name: Scott Treacy
+      url: /Participants/ticket-24h-sponsor/Scott-Treacy.html
+      remote: false
   related-to: []
   metadata:
     layout: blocks/track
@@ -3332,6 +3372,7 @@ Owasp Top 10 2017:
       - Brian Glas
       - Felipe Zipitria
       - Mateo Martinez
+      - Scott Treacy
     related-to: []
     topics: []
 Owasp-Website:
@@ -3662,8 +3703,8 @@ Role of Security Certification:
   topics: []
   organizers:
     - name: Ade Yoseman Putra
-      url: /Participants/need-funding/Ade-Yoseman-Putra.html
-      remote: false
+      url: /Participants/remote/Ade-Yoseman-Putra.html
+      remote: true
   participants: []
   related-to:
     - name: AppSec Job Fair
@@ -3677,6 +3718,7 @@ Role of Security Certification:
     technology: ''
     related-to: []
     status: done
+    when-day: Fri
     organizers:
       - Ade Yoseman Putra
     participants: []
@@ -3877,8 +3919,8 @@ Securing Legacy Applications:
       url: /Working-Sessions/Technologies/SAST.html
   organizers:
     - name: Lucas Ferreira
-      url: /Participants/need-funding/Lucas-Ferreira.html
-      remote: false
+      url: /Participants/remote/Lucas-Ferreira.html
+      remote: true
   participants:
     - name: Don Gibson
       url: /Participants/ticket-8h/Don-Gibson.html
@@ -5200,7 +5242,7 @@ Using ML and AI to detect Attacks:
     status: review-content
     organizers:
       - Talal Albacha
-    when-day: Friday
+    when-day: Fri
     participants: []
     related-to: []
     topics: []
@@ -5281,6 +5323,37 @@ Visit Bletchley Park:
       - Viktor Lindstrom
     need-transportation: Viktor Lindstrom
     topics: []
+WAF Best Practices:
+  name: WAF Best Practices
+  url: /Working-Sessions/DevSecOps/WAF-best-practices.html
+  topics:
+    - name: Web Application Firewall
+  organizers:
+    - name: Scott Treacy
+      url: /Participants/ticket-24h-sponsor/Scott-Treacy.html
+      remote: false
+  participants:
+    - name: Francois Raynaud
+      url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
+      remote: false
+  related-to: []
+  metadata:
+    layout: blocks/working-session
+    title: WAF Best Practices
+    type: workshop
+    owasp-project: 'no'
+    track: DevSecOps
+    technology: Web Application Firewall
+    related-to: []
+    status: ''
+    when-day: ''
+    when-time: ''
+    organizers:
+      - Scott Treacy
+    participants:
+      - Francois Raynaud
+    topics:
+      - Web Application Firewall
 Webgoat:
   name: Webgoat
   url: /Working-Sessions/Owasp-Projects/WebGoat.html
