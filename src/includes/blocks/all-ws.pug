@@ -36,16 +36,16 @@
             .col-xs-0
             .col-xs-12
                 .row
-                    | {% for page in site.pages %}
-                    |   {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status != 'draft'  %}
+                    | {% for working-session in site.data.mapped.working-sessions %}
+                    |   {% if working-session[1].metadata.type == 'workshop' and working-session[1].metadata.status != 'featured' and working-session[1].metadata.status != 'draft' %}
                     .col-xs-6.col-sm-4
                         .ws-box
                             .ws-title
-                                a(href="{{page.url}}") {{page.title | truncate: 45 }}
-                            | {% if page.description != null %}
-                            .ws-description  {{page.description | truncate: 180 }}
+                                a(href="{{working-session.url}}") {{working-session.name | truncate: 45 }}
+                            | {% if working-session.description != null %}
+                            .ws-description  {{working-session.description | truncate: 180 }}
                             | {% else %}
-                            .ws-description  {{page.content | strip_html | truncate: 180 }}
+                            .ws-description  {{working-session.content | strip_html | truncate: 180 }}
                             | {% endif %}
                     |   {% endif %}
                     | {% endfor %}
