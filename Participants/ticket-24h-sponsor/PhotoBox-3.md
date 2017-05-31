@@ -2,15 +2,15 @@
 layout          : blocks/page-participant
 title           : PhotoBox (3rd)
 type            : participant
-job-title       :
+job-title       : Project Manager
 company         : PhotoBox Group
-travel-from     :
+travel-from     : London
 image           :
 linkedin        :
 twiter          :
 facebook        :
 website         :
-email           :
+email           : clare.creeden@photobox.com 
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h
