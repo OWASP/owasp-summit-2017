@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : PhotoBox (3rd)
+title           : Clare Creeden
 type            : participant
 job-title       : Project Manager
 company         : PhotoBox Group
