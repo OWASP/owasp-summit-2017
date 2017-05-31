@@ -39,18 +39,12 @@
     <div class="row">
       <div class="col-xs-0"></div>
       <div class="col-xs-12">
-        <div class="row">
+        <ul>
           {% for working-session in site.data.mapped.working-sessions %}
             {% if working-session[1].metadata.type == 'workshop' and working-session[1].metadata.status != 'featured' and working-session[1].metadata.status != 'draft' %}
-          <div class="col-xs-6 col-sm-4">
-            <div class="ws-box">
-              <div class="ws-title"><a href="{{working-session.url}}">{{working-session.name | truncate: 45 }}</a></div>{% if working-session.description != null %}
-              <div class="ws-description"> {{working-session.description | truncate: 180 }}</div>{% else %}
-              <div class="ws-description"> {{working-session.content | strip_html | truncate: 180 }}</div>{% endif %}
-            </div>
-          </div>  {% endif %}
+          <li><a href="{{working-session[1].url}}">{{working-session[1].name }}</a></li>  {% endif %}
           {% endfor %}
-        </div>
+        </ul>
       </div>
       <div class="col-xs-0"></div>
     </div>
@@ -61,9 +55,9 @@
         <p>Here are the working sessions that are currently being worked on, but need more content and help. If you want to be involved please make the changes on GitHub and send a Pull Request with your ideas.</p>
         <p>If you feel that there is missing working session that we NEED to have at the Summit, please create it.</p>
         <ul>
-          {% for page in site.pages %}
-            {% if page.title and page.type == 'workshop' and page.status != 'featured' and page.status == 'draft' %}
-          <li><a href="{{page.url}}">{{page.title }}</a></li>  {% endif %}
+          {% for working-session in site.data.mapped.working-sessions %}
+            {% if working-session[1].metadata.type == 'workshop' and working-session[1].metadata.status != 'featured' and working-session[1].metadata.status == 'draft' %}
+          <li><a href="{{working-session[1].url}}">{{working-session[1].name }}</a></li>  {% endif %}
           {% endfor %}
         </ul>
       </div>
