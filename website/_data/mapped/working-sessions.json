@@ -12,7 +12,7 @@
         "Steven Wierckx"
       ],
       "participants": [],
-      "related-to": ""
+      "related-to": []
     }
   },
   "A10 - Underprotected APIs": {
@@ -25,7 +25,7 @@
       "owasp-project": "no",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [
@@ -47,7 +47,7 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [
@@ -71,7 +71,8 @@
       "organizers": [],
       "participants": [
         "Dinis Cruz"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Agile AppSec": {
@@ -89,7 +90,8 @@
       "participants": [
         "Ante Gulam",
         "Avi Douglen"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Agile Practices for Security Teams": {
@@ -102,7 +104,7 @@
       "owasp-project": "no",
       "track": "Agile AppSec",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [
@@ -127,7 +129,7 @@
       "owasp-project": "no",
       "track": "Owasp Projects",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "when-day": "",
       "organizers": [
@@ -145,7 +147,7 @@
       "type": "workshop",
       "track": "CISO",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "organizers": [
         "Dinis Cruz",
@@ -164,7 +166,11 @@
       "owasp-project": "no",
       "track": "Security Crowdsourcing",
       "technology": "",
-      "related-to": "Recruiting AppSec Talent,Role of Security Certification,Crowdsourcing Security Knowledge",
+      "related-to": [
+        "Recruiting AppSec Talent",
+        "Role of Security Certification",
+        "Crowdsourcing Security Knowledge"
+      ],
       "status": "review-content",
       "when-day": "Evening",
       "organizers": [],
@@ -183,7 +189,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "Pentest",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
@@ -199,7 +205,9 @@
       "type": "workshop",
       "track": "DevSecOps",
       "technology": "SOC,GDPR",
-      "related-to": "CISO",
+      "related-to": [
+        "CISO"
+      ],
       "status": "done",
       "when-day": "Thu",
       "organizers": [
@@ -224,7 +232,7 @@
       "owasp-project": "no",
       "track": "CISO",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [
         "Don Gibson"
@@ -250,7 +258,8 @@
       "participants": [
         "Timo Pagel",
         "Bjoern Kimminich"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Application Security Guide for CISO": {
@@ -263,7 +272,9 @@
       "owasp-project": "yes",
       "track": "CISO",
       "technology": "",
-      "related-to": "CISO Survey",
+      "related-to": [
+        "CISO Survey"
+      ],
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [
@@ -291,7 +302,8 @@
       "organizers": [
         "Marc Rimbau"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Applying Top 10 to Standards": {
@@ -303,7 +315,7 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "PCI",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -319,7 +331,7 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [
@@ -345,7 +357,7 @@
       "owasp-project": "yes",
       "track": "Owasp Projects",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [
         "Dave Wichers"
@@ -370,7 +382,10 @@
         "Avi Douglen",
         "Timo Pagel"
       ],
-      "related-to": "Integrating Security Tools in the SDL, Securing the CI Pipeline"
+      "related-to": [
+        "Integrating Security Tools in the SDL",
+        "Securing the CI Pipeline"
+      ]
     }
   },
   "BeyondCorp for internal Web Applications": {
@@ -383,7 +398,7 @@
       "owasp-project": "no",
       "track": "Research",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -399,7 +414,8 @@
       "technology": "Browsers",
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Bug Bounty Playbook": {
@@ -411,7 +427,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
@@ -435,7 +451,8 @@
         "Mateo Martinez",
         "Yan Kravchenko",
         "Francois Raynaud"
-      ]
+      ],
+      "related-to": []
     }
   },
   "CISO Round table": {
@@ -459,7 +476,8 @@
         "Ingo Hanke",
         "Francois Raynaud",
         "Robert Morschel"
-      ]
+      ],
+      "related-to": []
     }
   },
   "CISO Survey": {
@@ -478,7 +496,8 @@
       ],
       "participants": [
         "Yan Kravchenko"
-      ]
+      ],
+      "related-to": []
     }
   },
   "CRSFGuard": {
@@ -491,7 +510,7 @@
       "owasp-project": "yes",
       "track": "",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [
         "Azzeddine Ramrami"
@@ -509,7 +528,10 @@
       "owasp-project": "no",
       "track": "Education",
       "technology": "",
-      "related-to": "Teaching Attacker perspective to Developers,Juice Shop",
+      "related-to": [
+        "Teaching Attacker perspective to Developers",
+        "Juice Shop"
+      ],
       "status": "draft",
       "when-day": "Evening",
       "organizers": [],
@@ -532,7 +554,8 @@
       "participants": [
         "Marc Rimbau",
         "Johan Peeters"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Create CheatSheet Writing Security Unit Tests": {
@@ -543,7 +566,7 @@
       "title": "Create CheatSheet Writing Security Unit Tests",
       "type": "workshop",
       "track": "Owasp Projects",
-      "related-to": "",
+      "related-to": [],
       "technology": "",
       "status": "draft",
       "organizers": [
@@ -561,7 +584,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "Jira",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [],
@@ -580,7 +603,12 @@
       "owasp-project": "no",
       "track": "Education",
       "technology": "",
-      "related-to": "Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams",
+      "related-to": [
+        "Recruiting AppSec Talent",
+        "Security Champions",
+        "Growing the AppSec Industry",
+        "Creating AppSec Teams"
+      ],
       "status": "review-content",
       "when-day": "Tue",
       "participants": [],
@@ -597,7 +625,11 @@
       "owasp-project": "no",
       "track": "Education",
       "technology": "",
-      "related-to": "Recruiting AppSec Talent,Security Champions,CISO",
+      "related-to": [
+        "Recruiting AppSec Talent",
+        "Security Champions",
+        "CISO"
+      ],
       "status": "review-content",
       "organizers": [
         "Dinis Cruz"
@@ -619,7 +651,10 @@
       "owasp-project": "no",
       "track": "Education",
       "technology": "Docker",
-      "related-to": "Evaluation/Optimization/Creation of Training Slides, Docker Security",
+      "related-to": [
+        "Evaluation/Optimization/Creation of Training Slides",
+        "Docker Security"
+      ],
       "status": "draft",
       "organizers": [
         "Timo Pagel"
@@ -637,7 +672,7 @@
       "owasp-project": "no",
       "track": "Security Crowdsourcing",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "definition-of-done",
       "when-day": "Thu",
       "organizers": [],
@@ -654,7 +689,7 @@
       "owasp-project": "no",
       "track": "Security Crowdsourcing",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [],
@@ -671,7 +706,9 @@
       "owasp-project": "no",
       "track": "CISO",
       "technology": "",
-      "related-to": "InfoSec Warranties and Guarantees",
+      "related-to": [
+        "InfoSec Warranties and Guarantees"
+      ],
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [
@@ -692,7 +729,7 @@
       "owasp-project": "no",
       "track": "Education",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [
         "Ante Gulam"
@@ -720,7 +757,8 @@
         "Brian Glas",
         "Ingo Hanke",
         "Francois Raynaud"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Define Agile Security Practices": {
@@ -733,7 +771,9 @@
       "owasp-project": "no",
       "track": "Agile AppSec",
       "technology": "",
-      "related-to": "Integrating Security into an Spotify Model",
+      "related-to": [
+        "Integrating Security into an Spotify Model"
+      ],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [
@@ -764,7 +804,8 @@
       "when-day": "Mon",
       "participants": [
         "Johan Peeters"
-      ]
+      ],
+      "related-to": []
     }
   },
   "DevSecOps": {
@@ -781,7 +822,8 @@
       ],
       "participants": [
         "Francois Raynaud"
-      ]
+      ],
+      "related-to": []
     }
   },
   "DevSecOps vs SecDevOps": {
@@ -802,7 +844,8 @@
         "Marc Rimbau",
         "Felipe Zipitria",
         "Avi Douglen"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Diffing and Version Control Threat Models": {
@@ -815,7 +858,7 @@
       "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "when-day": "Fri",
       "organizers": [],
@@ -833,7 +876,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
@@ -850,7 +893,9 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "",
-      "related-to": "Creation and Optimization of a Docker Security Workshop",
+      "related-to": [
+        "Creation and Optimization of a Docker Security Workshop"
+      ],
       "status": "draft",
       "organizers": [],
       "participants": [
@@ -879,7 +924,8 @@
         "Yan Kravchenko",
         "Timo Pagel",
         "Viktor Lindström"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Due Diligence Playbook": {
@@ -891,7 +937,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
@@ -910,7 +956,7 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "when-day": "Thu",
       "organizers": [
@@ -936,7 +982,13 @@
       "type": "track",
       "technology": "",
       "description": "Working Sessions related to Education",
-      "related-to": "Juice Shop,NodeGoat,Owasp Student Chapters,Security Champions,Webgoat",
+      "related-to": [
+        "Juice Shop",
+        "NodeGoat",
+        "Owasp Student Chapters",
+        "Security Champions",
+        "Webgoat"
+      ],
       "organizers": [],
       "participants": []
     }
@@ -951,7 +1003,13 @@
       "owasp-project": "no (but maybe during the summit)",
       "track": "Education",
       "technology": "",
-      "related-to": "Teaching Attacker perspective to Developers,Application Security BSc/Masters Curriculum Design,Juice Shop,NodeGoat,Webgoat",
+      "related-to": [
+        "Teaching Attacker perspective to Developers",
+        "Application Security BSc/Masters Curriculum Design",
+        "Juice Shop",
+        "NodeGoat",
+        "Webgoat"
+      ],
       "status": "draft",
       "when-day": "Thu",
       "organizers": [
@@ -971,7 +1029,7 @@
       "type": "workshop",
       "track": "Research",
       "technology": ".Net,Docker",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
@@ -992,7 +1050,8 @@
       "organizers": [],
       "participants": [
         "Johan Peeters"
-      ]
+      ],
+      "related-to": []
     }
   },
   "GDPR and DPO AppSec implications": {
@@ -1004,7 +1063,7 @@
       "type": "workshop",
       "track": "CISO",
       "technology": "GDPR",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [],
@@ -1030,7 +1089,8 @@
       ],
       "participants": [
         "Bjoern Kimminich"
-      ]
+      ],
+      "related-to": []
     }
   },
   "GSMA IoT Security Guidelines": {
@@ -1043,7 +1103,7 @@
       "owasp-project": "no",
       "track": "",
       "technology": "IoT",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -1063,7 +1123,8 @@
       "organizers": [
         "Bjoern Kimminich"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "GraphQL Security Review": {
@@ -1076,7 +1137,9 @@
       "owasp-project": "no",
       "track": "Research",
       "technology": "",
-      "related-to": "Threat Model",
+      "related-to": [
+        "Threat Model"
+      ],
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
@@ -1095,7 +1158,10 @@
       "owasp-project": "no",
       "track": "CISO",
       "technology": "",
-      "related-to": "Cyber Insurance,Education",
+      "related-to": [
+        "Cyber Insurance",
+        "Education"
+      ],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [
@@ -1114,7 +1180,9 @@
       "owasp-project": "no",
       "track": "Security Crowdsourcing",
       "technology": "",
-      "related-to": "Juice Shop",
+      "related-to": [
+        "Juice Shop"
+      ],
       "status": "draft",
       "when-day": "Evening",
       "organizers": [
@@ -1132,7 +1200,7 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -1157,7 +1225,8 @@
         "Dinis Cruz",
         "Bjoern Kimminich",
         "Robert Morschel"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Implications of Owasp Top 10 2017": {
@@ -1181,7 +1250,8 @@
         "Felipe Zipitria",
         "Mateo Martinez",
         "Francois Raynaud"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Incident Response Playbook": {
@@ -1193,7 +1263,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "SOC",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
@@ -1216,7 +1286,8 @@
       "organizers": [
         "Sebastien Deleersnyder"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "InfoSec Warranties and Guarantees": {
@@ -1229,7 +1300,7 @@
       "owasp-project": "no",
       "track": "CISO",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [
@@ -1248,7 +1319,9 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "SAST",
-      "related-to": "A comparison of strength and weaknesses of specific FOSS tools",
+      "related-to": [
+        "A comparison of strength and weaknesses of specific FOSS tools"
+      ],
       "status": "draft",
       "participants": [],
       "organizers": []
@@ -1264,7 +1337,7 @@
       "owasp-project": "no",
       "track": "Agile AppSec",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [
@@ -1287,7 +1360,7 @@
       "owasp-project": "no",
       "track": "Agile AppSec",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Thu",
       "organizers": [
@@ -1309,7 +1382,7 @@
       "owasp-project": "no",
       "track": "Agile AppSec",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Thu",
       "organizers": [
@@ -1330,7 +1403,7 @@
       "owasp-project": "no",
       "track": "Security Crowdsourcing",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "definition-of-done",
       "when-day": "Thu",
       "organizers": [],
@@ -1350,7 +1423,8 @@
       ],
       "participants": [
         "Johan Peeters"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Is the Owasp Top 10 Data Collection Open": {
@@ -1362,7 +1436,7 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [
@@ -1387,7 +1461,8 @@
       ],
       "participants": [
         "Timo Pagel"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Java": {
@@ -1400,7 +1475,8 @@
       "technology": "",
       "description": "",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Juice Shop": {
@@ -1424,7 +1500,8 @@
         "Ade Yoseman Putra",
         "Timo Pagel",
         "Francois Raynaud"
-      ]
+      ],
+      "related-to": []
     }
   },
   "LANGSEC Language-theoretic Security": {
@@ -1437,7 +1514,7 @@
       "owasp-project": "no",
       "track": "Research",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": [
@@ -1455,7 +1532,7 @@
       "owasp-project": "no",
       "track": "Security Crowdsourcing",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "definition-of-done",
       "when-day": "Thu",
       "organizers": [],
@@ -1482,7 +1559,8 @@
         "Avi Douglen",
         "Stephen de Vries",
         "Irene Michlin"
-      ]
+      ],
+      "related-to": []
     }
   },
   "MSTG Book Sprint - Android Testing Guide": {
@@ -1504,7 +1582,8 @@
       ],
       "participants": [
         "tbd."
-      ]
+      ],
+      "related-to": []
     }
   },
   "MSTG Book Sprint - Mobile App Security Testing": {
@@ -1526,7 +1605,8 @@
       ],
       "participants": [
         "T.b.d."
-      ]
+      ],
+      "related-to": []
     }
   },
   "MSTG Book Sprint - Mobile Operating Systems": {
@@ -1548,7 +1628,8 @@
       ],
       "participants": [
         "T.b.d."
-      ]
+      ],
+      "related-to": []
     }
   },
   "MSTG Book Sprint - Reverse Engineering and Cracking": {
@@ -1570,7 +1651,8 @@
       ],
       "participants": [
         "T.b.d."
-      ]
+      ],
+      "related-to": []
     }
   },
   "MSTG Book Sprint - iOS Testing Guide": {
@@ -1592,7 +1674,8 @@
       ],
       "participants": [
         "T.b.d."
-      ]
+      ],
+      "related-to": []
     }
   },
   "Maturity Models tool": {
@@ -1616,7 +1699,8 @@
         "Yan Kravchenko",
         "Irene Michlin",
         "Viktor Lindström"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Media Handling Playbook": {
@@ -1628,7 +1712,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "GDPR",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
@@ -1645,7 +1729,8 @@
       "technology": "",
       "description": "",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Mobile Security": {
@@ -1669,7 +1754,8 @@
         "Jeroen Willemsen",
         "Marc Rimbau",
         "Kuai Hinojosa"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Mobilising Business Lines for Security": {
@@ -1689,7 +1775,8 @@
       ],
       "participants": [
         "Dinis Cruz"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Netflix Resilience Engineering": {
@@ -1701,7 +1788,10 @@
       "type": "workshop",
       "track": "DevSecOps",
       "technology": "",
-      "related-to": "Netflix Security Automation,SRE Security Activities",
+      "related-to": [
+        "Netflix Security Automation",
+        "SRE Security Activities"
+      ],
       "status": "draft",
       "organizers": [],
       "participants": [
@@ -1719,7 +1809,7 @@
       "type": "workshop",
       "track": "DevSecOps",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": [
@@ -1739,7 +1829,7 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [
         "Josh Grossman"
@@ -1762,7 +1852,8 @@
         "Bjoern Kimminich",
         "Marc Rimbau",
         "Johan Peeters"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Node": {
@@ -1775,7 +1866,8 @@
       "technology": "",
       "description": "",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Node Security Round Table": {
@@ -1788,7 +1880,7 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "organizers": [],
       "participants": []
@@ -1809,7 +1901,8 @@
       "organizers": [
         "Kim Carter"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "O-Saft": {
@@ -1830,7 +1923,8 @@
       "participants": [
         "Marc Rimbau",
         "Ingo Hanke"
-      ]
+      ],
+      "related-to": []
     }
   },
   "OWASP Bug Bounty": {
@@ -1845,7 +1939,8 @@
       "status": "more-content",
       "when-day": "Wed",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "OWASP Chapter Leader Handbook": {
@@ -1861,7 +1956,8 @@
       "organizers": [
         "Avi Douglen"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "OWASP Game Security Framework": {
@@ -1879,7 +1975,8 @@
         "Daniel Miessler",
         "Azzeddine Ramrami"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "OWASP Internet of Things Project": {
@@ -1897,7 +1994,8 @@
       "organizers": [
         "Daniel Miessler"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "OWASP Proactive Controls": {
@@ -1909,7 +2007,7 @@
       "type": "workshop",
       "track": "Owasp Projects",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [
         "Katy Anton"
@@ -1931,7 +2029,8 @@
         "Claudia Casanovas",
         "Johanna Curiel"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "OWASP Risk Rating Management Project": {
@@ -1949,7 +2048,8 @@
       ],
       "participants": [
         "Marc Rimbau"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Owasp Chapter Treasury": {
@@ -1965,7 +2065,8 @@
       "track": "Owasp",
       "status": "done",
       "when-day": "Thu",
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Owasp Latam Region": {
@@ -1982,7 +2083,8 @@
       "organizers": [
         "Mateo Martinez"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Owasp Orizon Reboot": {
@@ -2000,7 +2102,8 @@
       "organizers": [
         "Paolo Perego"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Owasp Projects": {
@@ -2016,7 +2119,8 @@
         "Johanna Curiel"
       ],
       "description": "Working Sessions focused on Owasp Projects",
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Owasp Student Chapters": {
@@ -2033,7 +2137,8 @@
       "organizers": [
         "Mateo Martinez"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Owasp Top 10 2017": {
@@ -2054,7 +2159,8 @@
         "Brian Glas",
         "Felipe Zipitria",
         "Mateo Martinez"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Owasp-Website": {
@@ -2067,7 +2173,8 @@
       "track": "Owasp",
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "OwaspSAMM": {
@@ -2089,7 +2196,8 @@
         "Brian Glas",
         "Avi Douglen",
         "Yan Kravchenko"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Playbooks Common Format": {
@@ -2101,7 +2209,9 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "",
-      "related-to": "Threat Modeling Diagramming Techniques",
+      "related-to": [
+        "Threat Modeling Diagramming Techniques"
+      ],
       "status": "improve-content",
       "when-day": "Mon",
       "organizers": [],
@@ -2119,7 +2229,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [],
@@ -2136,7 +2246,7 @@
       "owasp-project": "no",
       "track": "Research",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -2151,7 +2261,7 @@
       "type": "workshop",
       "track": "",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "organizers": [],
       "participants": []
@@ -2166,7 +2276,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
@@ -2182,7 +2292,7 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "when-day": "Mon",
       "organizers": [
@@ -2200,7 +2310,7 @@
       "type": "workshop",
       "track": "Education",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
       "participants": [],
@@ -2218,7 +2328,7 @@
       "type": "track",
       "technology": "",
       "description": "Working Sessions related to multiple Research topics",
-      "related-to": "",
+      "related-to": [],
       "organizers": [],
       "participants": []
     }
@@ -2238,7 +2348,8 @@
       ],
       "participants": [
         "Francois Raynaud"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Reverse Engineering APK's with Bytecodeviewer": {
@@ -2255,7 +2366,8 @@
       "organizers": [
         "Johanna Curiel"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Review and improve the 12 SAMM practices": {
@@ -2277,7 +2389,8 @@
         "Robert Morschel",
         "Irene Michlin",
         "Viktor Lindström"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Role of Security Certification": {
@@ -2290,7 +2403,7 @@
       "owasp-project": "no",
       "track": "Education",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "done",
       "organizers": [
         "Ade Yoseman Putra"
@@ -2307,7 +2420,10 @@
       "type": "workshop",
       "track": "CISO",
       "technology": "",
-      "related-to": "OwaspSAMM,Appsec Metrics",
+      "related-to": [
+        "OwaspSAMM",
+        "Appsec Metrics"
+      ],
       "status": "done",
       "when-day": "Mon",
       "organizers": [
@@ -2328,7 +2444,8 @@
       "technology": "",
       "description": "Static application security testing (SAST) is a set of technologies designed to analyze application source code, byte code and binaries for coding and design conditions that are indicative of security vulnerabilities. SAST solutions analyze an application from the “inside out” in a nonrunning state.",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "SOC": {
@@ -2341,7 +2458,8 @@
       "technology": "",
       "description": "SOC (Security Operations Center) is a key part of the Security capabilities.",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "SRE Security Activities": {
@@ -2354,7 +2472,7 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": [
@@ -2372,7 +2490,7 @@
       "owasp-project": "no",
       "track": "Agile AppSec",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [
         "David Clarke"
@@ -2392,7 +2510,10 @@
       "owasp-project": "no",
       "track": "Tools",
       "technology": "SAST",
-      "related-to": "Securing the CI Pipeline,Integrating Security Tools in the SDL",
+      "related-to": [
+        "Securing the CI Pipeline",
+        "Integrating Security Tools in the SDL"
+      ],
       "status": "review-content",
       "when-day": "Fri",
       "participants": [
@@ -2417,7 +2538,8 @@
       ],
       "participants": [
         "Francois Raynaud"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Securing Legacy Applications": {
@@ -2430,7 +2552,11 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "SAST",
-      "related-to": "Cyber Insurance,CISO,InfoSec Warranties and Guarantees",
+      "related-to": [
+        "Cyber Insurance",
+        "CISO",
+        "InfoSec Warranties and Guarantees"
+      ],
       "status": "review-content",
       "when-day": "Thu",
       "organizers": [
@@ -2453,7 +2579,10 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "CI,SAST",
-      "related-to": "Integrating Security Tools in the SDL,CISO",
+      "related-to": [
+        "Integrating Security Tools in the SDL",
+        "CISO"
+      ],
       "status": "draft",
       "participants": [
         "Johan Peeters"
@@ -2474,7 +2603,8 @@
       "track": "",
       "status": "draft",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Security Book Club": {
@@ -2487,7 +2617,7 @@
       "owasp-project": "no",
       "track": "Education",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Evening",
       "organizers": [],
@@ -2505,7 +2635,11 @@
       "title": "Security Champions",
       "type": "workshop",
       "track": "Agile AppSec",
-      "related-to": "Threat-Model,DevSecOps,CISO",
+      "related-to": [
+        "Threat-Model",
+        "DevSecOps",
+        "CISO"
+      ],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [],
@@ -2526,7 +2660,8 @@
         "Ante Gulam"
       ],
       "description": "Working Sessions for Security Crowdsourcing",
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Security Guidance and Feedback in IDE": {
@@ -2539,7 +2674,9 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "IDE,SAST",
-      "related-to": "Scaling Static Analysis Reviews and Deployments",
+      "related-to": [
+        "Scaling Static Analysis Reviews and Deployments"
+      ],
       "status": "review-content",
       "when-day": "Wed",
       "participants": [],
@@ -2556,7 +2693,11 @@
       "owasp-project": "no",
       "track": "Agile AppSec",
       "technology": "",
-      "related-to": "Integrating Security into an Spotify Model,Security Champions,CISO",
+      "related-to": [
+        "Integrating Security into an Spotify Model",
+        "Security Champions",
+        "CISO"
+      ],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [
@@ -2584,7 +2725,8 @@
       "organizers": [
         "Marc Rimbau"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Security Labels": {
@@ -2597,7 +2739,7 @@
       "owasp-project": "no",
       "track": "Research",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": [
@@ -2614,7 +2756,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
@@ -2635,7 +2777,8 @@
       "organizers": [],
       "participants": [
         "Yan Kravchenko"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Security Playbooks Diagrams": {
@@ -2647,7 +2790,7 @@
       "type": "workshop",
       "track": "Security Playbooks",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [],
@@ -2664,7 +2807,7 @@
       "owasp-project": "no",
       "track": "",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -2680,7 +2823,7 @@
       "owasp-project": "no",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [
@@ -2702,7 +2845,8 @@
       "organizers": [
         "Adrian Winckles"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Synchronize Multiple Owasp Top 10s": {
@@ -2714,7 +2858,9 @@
       "type": "workshop",
       "track": "Owasp Top 10",
       "technology": "",
-      "related-to": "OWASP Proactive Controls",
+      "related-to": [
+        "OWASP Proactive Controls"
+      ],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -2730,7 +2876,8 @@
       "technology": "",
       "description": "Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer (SSL), both frequently referred to as \"SSL\", are cryptographic protocols that provide communications security over a computer network",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "TLS for Local IoT": {
@@ -2750,7 +2897,8 @@
       "participants": [
         "Francois Raynaud",
         "Johan Peeters"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Teaching Attacker perspective to Developers": {
@@ -2763,7 +2911,11 @@
       "owasp-project": "no",
       "track": "Education",
       "technology": "",
-      "related-to": "Juice Shop,NodeGoat,Webgoat",
+      "related-to": [
+        "Juice Shop",
+        "NodeGoat",
+        "Webgoat"
+      ],
       "status": "done",
       "when-day": "Evening",
       "organizers": [
@@ -2791,7 +2943,8 @@
       ],
       "participants": [
         "Mateo Martinez"
-      ]
+      ],
+      "related-to": []
     }
   },
   "The Future of Privacy": {
@@ -2812,7 +2965,8 @@
         "Akshay Sharma",
         "Achim Hoffmann",
         "Johan Peeters"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Threat Model": {
@@ -2841,7 +2995,8 @@
         "Avi Douglen",
         "Irene Michlin",
         "Geoff Hill"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Threat Modeling Cheat Sheet & Lightweight Threat Modeling": {
@@ -2852,7 +3007,9 @@
       "title": "Threat Modeling Cheat Sheet & Lightweight Threat Modeling",
       "type": "workshop",
       "track": "Threat Model",
-      "related-to": "Cheat Sheets",
+      "related-to": [
+        "Cheat Sheets"
+      ],
       "description": "OWASP cheat sheet will provide prescriptive guidance on threat modeling activities, tasks, and output deliverables that should be produced as part of one of three varying methodologies (software centric, security centric, risk centric approaches) and tailored to application environments that are domain agnostic.",
       "status": "improve-content",
       "when-day": "Tue",
@@ -2879,7 +3036,7 @@
       "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "when-day": "Thu",
       "organizers": [
@@ -2898,7 +3055,7 @@
       "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "when-day": "Mon",
       "organizers": [],
@@ -2918,7 +3075,8 @@
       "status": "draft",
       "when-day": "Thu",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Threat Modeling OWASP Pages": {
@@ -2929,7 +3087,11 @@
       "title": "Threat Modeling OWASP Pages",
       "type": "workshop",
       "track": "Threat Model",
-      "related-to": "Cheat Sheets, Templates, Tools",
+      "related-to": [
+        "Cheat Sheets",
+        "Templates",
+        "Tools"
+      ],
       "description": "OWASP Threat Modeling Pages provide global AppSec professionals and companies worldwide with a central reference point to OWASP project, tools, and references that are related to Application Threat Modeling. These pages will provide as a gateway for threat modelers to leverage OWASP threat modeling content as well as other OWASP content and tools that support application threat modeling objectives.",
       "status": "improve-content",
       "when-day": "Wed",
@@ -2950,7 +3112,7 @@
       "type": "workshop",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
@@ -2972,7 +3134,8 @@
       "status": "draft",
       "when-day": "Mon",
       "organizers": [],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Threat Modeling Templates": {
@@ -2983,7 +3146,9 @@
       "title": "Threat Modeling Templates",
       "type": "workshop",
       "track": "Threat Model",
-      "related-to": "Threat Modeling Cheat Sheets",
+      "related-to": [
+        "Threat Modeling Cheat Sheets"
+      ],
       "description": "OWASP Threat Modeling Templates will provide templates for addressing applications templates for which participants can leverage as starter kits for their respective threat modeling efforts.  The intent is to develop, maintain, and enhance a suite of templates that cover different application types, deployment models to which multiple MNCs across various industries can leverage within their respective AppSec groups.",
       "status": "featured",
       "when-day": "Tue",
@@ -3011,7 +3176,7 @@
       "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [],
@@ -3035,7 +3200,7 @@
       "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [],
@@ -3055,7 +3220,7 @@
       "type": "workshop",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "when-day": "Thu",
       "organizers": [],
@@ -3072,7 +3237,7 @@
       "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -3100,7 +3265,8 @@
         "Irene Michlin",
         "Robert Morschel",
         "Timo Pagel"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Top 10 Selection Criteria": {
@@ -3112,7 +3278,7 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
       "organizers": [
@@ -3131,7 +3297,9 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "OWASP Proactive Controls",
+      "related-to": [
+        "OWASP Proactive Controls"
+      ],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -3157,7 +3325,8 @@
         "Timo Pagel",
         "Adam O'Brien",
         "Viktor Lindström"
-      ]
+      ],
+      "related-to": []
     }
   },
   "Use Threat Models to Lock Developers Briefs": {
@@ -3170,7 +3339,7 @@
       "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "organizers": [],
       "participants": []
@@ -3186,7 +3355,7 @@
       "owasp-project": "no",
       "track": "",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "improve-content",
       "organizers": [],
       "participants": []
@@ -3202,7 +3371,7 @@
       "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "draft",
       "when-day": "Wed",
       "organizers": [],
@@ -3223,7 +3392,8 @@
         "Talal Albacha"
       ],
       "when-day": "Friday",
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "Using Security Risks to Measure Agile Practices": {
@@ -3236,7 +3406,9 @@
       "owasp-project": "no",
       "track": "Agile AppSec",
       "technology": "",
-      "related-to": "JIRA Risk Workflow",
+      "related-to": [
+        "JIRA Risk Workflow"
+      ],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [
@@ -3259,7 +3431,7 @@
       "owasp-project": "no",
       "track": "",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "review-content",
       "when-day": "Thu",
       "organizers": [
@@ -3288,7 +3460,8 @@
       "organizers": [
         "Nanne Baars"
       ],
-      "participants": []
+      "participants": [],
+      "related-to": []
     }
   },
   "What Should be Added to the Top 10": {
@@ -3300,7 +3473,9 @@
       "type": "workshop",
       "track": "Owasp Top 10 2017",
       "technology": "",
-      "related-to": "OWASP Proactive Controls",
+      "related-to": [
+        "OWASP Proactive Controls"
+      ],
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [],
@@ -3319,7 +3494,7 @@
       "type": "workshop",
       "track": "",
       "technology": "",
-      "related-to": "",
+      "related-to": [],
       "status": "Done",
       "when-day": "Thu",
       "organizers": [],
@@ -3339,7 +3514,8 @@
       "component": "blocks/all-ws.html",
       "title": "Working Sessions",
       "participants": [],
-      "organizers": []
+      "organizers": [],
+      "related-to": []
     }
   },
   "Writing Security Tests": {
@@ -3352,7 +3528,9 @@
       "owasp-project": "no",
       "track": "DevSecOps",
       "technology": "TDD",
-      "related-to": "Testing Guide v5",
+      "related-to": [
+        "Testing Guide v5"
+      ],
       "status": "better-content",
       "when-day": "Wed",
       "organizers": [
@@ -3384,7 +3562,8 @@
       "participants": [
         "Marc Rimbau",
         "Mateo Martinez"
-      ]
+      ],
+      "related-to": []
     }
   }
 }

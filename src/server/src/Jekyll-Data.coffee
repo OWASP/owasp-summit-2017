@@ -66,6 +66,7 @@ class Jekyll_Data
         description       : track_Data.metadata.description
         organizers        : @.resolve_Names participants_Data, track_Data.metadata.organizers
         participants      : @.resolve_Names participants_Data, track_Data.metadata.participants
+        'related-to'      : @.resolve_Working_Sessions(working_Sessions_Data,@.resolve_Related_To(working_Sessions_Data, track_Name))
         'working-sessions': { ok: [], draft: []}
       for key,value of working_Sessions_Data when value.metadata.track is track_Name
         item =
@@ -114,13 +115,14 @@ class Jekyll_Data
         if key
           data[key] = line.after( ':').trim()                                             # map value to it
 
-    # normalise some data
-
+    # normalise some data  todo: refactor calls using helper methods
     data['participants'] =  data['participants']?.split(',')  || []                       # making the participants value an array
     data['organizers'  ] =  data['organizers'  ]?.split(',')  || []                       # making the participants value an array
+    data['related-to'  ] =  data['related-to'  ]?.split(',')  || []
 
     data['participants'] = (item.trim() for item in data['participants'] when item != '') # trim all fields to cover for leading or training spaces
     data['organizers'  ] = (item.trim() for item in data['organizers'  ] when item != '')
+    data['related-to'  ] = (item.trim() for item in data['related-to'  ] when item != '')
 
     return data                                                           # return mapped data
 
@@ -148,18 +150,37 @@ class Jekyll_Data
 
   resolve_Names: (participants_Data, names)->
     result = []
-    for name in names
-      data = participants_Data[name]
-      if data
-        result.add
-          name   : name
-          url    : data.url
-          remote : data.metadata.type is 'participant-remote'
-      else
-        result.add name : name
+    if names
+      for name in names
+        data = participants_Data[name]
+        if data
+          result.add
+            name   : name
+            url    : data.url
+            remote : data.metadata.type is 'participant-remote'
+        else
+          result.add name : name
     result
 
+  resolve_Related_To: (working_Sessions_Data, name)->
+    data = working_Sessions_Data[name]
+    result = data.metadata['related-to'] || []
+    for key,value of working_Sessions_Data
+      if name in value.metadata['related-to']
+        result.add key
+    result
 
-
+  resolve_Working_Sessions: (working_Sessions_Data, names)->
+    result = []
+    if names
+      for name in names
+        data = working_Sessions_Data[name]
+        if data
+          result.add
+            name   : name
+            url    : data.url
+        else
+          result.add name : name
+    result
 
 module.exports = Jekyll_Data

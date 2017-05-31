@@ -57,3 +57,17 @@ describe 'Jekyll_Data', ->
                         { name: 'Sven Schleier'   ,url: '/Participants/funded/Sven-Schleier.html'               , remote:false},
                         { name: 'Abc' } ]
 
+  it 'resolve_Related_To',->
+    using jekyll_Data, ->
+      working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()
+      name                  = 'Education'
+      @.resolve_Related_To working_Sessions_Data, name
+
+  it 'resolve_Working_Sessions', ->
+    using jekyll_Data, ->
+      working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()
+      test_Names        = ['Juice Shop','NodeGoat','Abc']
+      @.resolve_Working_Sessions(working_Sessions_Data, test_Names)
+          .assert_Is [ { name: 'Juice Shop', url: '/Working-Sessions/Owasp-Projects/Juice-Shop.html' },
+                       { name: 'NodeGoat'  , url: '/Working-Sessions/Owasp-Projects/NodeGoat.html' },
+                       { name: 'Abc' } ]

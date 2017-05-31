@@ -20,6 +20,7 @@
         "remote": false
       }
     ],
+    "related-to": [],
     "working-sessions": {
       "ok": [
         {
@@ -114,6 +115,32 @@
         "remote": false
       }
     ],
+    "related-to": [
+      {
+        "name": "AppSec SOC Monitoring Visualisation",
+        "url": "/Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html"
+      },
+      {
+        "name": "Creating AppSec Teams",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html"
+      },
+      {
+        "name": "Securing Legacy Applications",
+        "url": "/Working-Sessions/DevSecOps/Securing-Legacy-Applications.html"
+      },
+      {
+        "name": "Securing the CI Pipeline",
+        "url": "/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html"
+      },
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
+      },
+      {
+        "name": "Security Guild vs Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html"
+      }
+    ],
     "working-sessions": {
       "ok": [
         {
@@ -203,6 +230,12 @@
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
       }
     ],
     "working-sessions": {
@@ -320,6 +353,32 @@
     "description": "Working Sessions related to Education",
     "organizers": [],
     "participants": [],
+    "related-to": [
+      {
+        "name": "Juice Shop",
+        "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
+      },
+      {
+        "name": "NodeGoat",
+        "url": "/Working-Sessions/Owasp-Projects/NodeGoat.html"
+      },
+      {
+        "name": "Owasp Student Chapters",
+        "url": "/Working-Sessions/Owasp/Owasp-Student-Chapters.html"
+      },
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
+      },
+      {
+        "name": "Webgoat",
+        "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
+      },
+      {
+        "name": "Growing the AppSec Industry",
+        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
+      }
+    ],
     "working-sessions": {
       "ok": [
         {
@@ -447,6 +506,7 @@
         "remote": false
       }
     ],
+    "related-to": [],
     "working-sessions": {
       "ok": [
         {
@@ -500,6 +560,7 @@
       }
     ],
     "participants": [],
+    "related-to": [],
     "working-sessions": {
       "ok": [
         {
@@ -659,6 +720,7 @@
         "remote": false
       }
     ],
+    "related-to": [],
     "working-sessions": {
       "ok": [
         {
@@ -782,6 +844,12 @@
         "remote": false
       }
     ],
+    "related-to": [
+      {
+        "name": "SAMM Metrics for Enterprise",
+        "url": "/Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html"
+      }
+    ],
     "working-sessions": {
       "ok": [],
       "draft": [
@@ -824,6 +892,7 @@
     "description": "Working Sessions related to multiple Research topics",
     "organizers": [],
     "participants": [],
+    "related-to": [],
     "working-sessions": {
       "ok": [
         {
@@ -885,6 +954,7 @@
       }
     ],
     "participants": [],
+    "related-to": [],
     "working-sessions": {
       "ok": [
         {
@@ -952,6 +1022,7 @@
         "remote": false
       }
     ],
+    "related-to": [],
     "working-sessions": {
       "ok": [
         {
@@ -1106,6 +1177,12 @@
         "name": "Geoff Hill",
         "url": "/Participants/ticket-8h/Geoff-Hill.html",
         "remote": false
+      }
+    ],
+    "related-to": [
+      {
+        "name": "GraphQL Security Review",
+        "url": "/Working-Sessions/Research/GraphQL-Security-Review.html"
       }
     ],
     "working-sessions": {

@@ -11,6 +11,7 @@ Agile AppSec:
     - name: Avi Douglen
       url: /Participants/ticket-24h-owasp/Avi-Douglen.html
       remote: false
+  related-to: []
   working-sessions:
     ok:
       - name: Agile Practices for Security Teams
@@ -77,6 +78,19 @@ CISO:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+  related-to:
+    - name: AppSec SOC Monitoring Visualisation
+      url: /Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html
+    - name: Creating AppSec Teams
+      url: /Working-Sessions/Education/Creating-AppSec-Teams.html
+    - name: Securing Legacy Applications
+      url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
+    - name: Securing the CI Pipeline
+      url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
+    - name: Security Champions
+      url: /Working-Sessions/Agile-AppSec/Security-Champions.html
+    - name: Security Guild vs Security Champions
+      url: /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
   working-sessions:
     ok:
       - name: AppSec Article 5 - Collective Defence Agreement
@@ -137,6 +151,9 @@ DevSecOps:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+  related-to:
+    - name: Security Champions
+      url: /Working-Sessions/Agile-AppSec/Security-Champions.html
   working-sessions:
     ok:
       - name: AppSec SOC Monitoring Visualisation
@@ -214,6 +231,19 @@ Education:
   description: Working Sessions related to Education
   organizers: []
   participants: []
+  related-to:
+    - name: Juice Shop
+      url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
+    - name: NodeGoat
+      url: /Working-Sessions/Owasp-Projects/NodeGoat.html
+    - name: Owasp Student Chapters
+      url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
+    - name: Security Champions
+      url: /Working-Sessions/Agile-AppSec/Security-Champions.html
+    - name: Webgoat
+      url: /Working-Sessions/Owasp-Projects/WebGoat.html
+    - name: Growing the AppSec Industry
+      url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
   working-sessions:
     ok:
       - name: Application Security BSc/Masters Curriculum Design
@@ -297,6 +327,7 @@ Mobile Security:
     - name: Kuai Hinojosa
       url: /Participants/need-funding/Kuai-Hinojosa.html
       remote: false
+  related-to: []
   working-sessions:
     ok:
       - name: MSTG Book Sprint - Android Testing Guide
@@ -332,6 +363,7 @@ Owasp Projects:
       url: /Participants/funded/Johanna-Curiel.html
       remote: false
   participants: []
+  related-to: []
   working-sessions:
     ok:
       - name: Cheat Sheets
@@ -439,6 +471,7 @@ Owasp Top 10 2017:
     - name: Mateo Martinez
       url: /Participants/summit-editors/Mateo-Martinez.html
       remote: false
+  related-to: []
   working-sessions:
     ok:
       - name: A10 - Underprotected APIs
@@ -526,6 +559,9 @@ OwaspSAMM:
     - name: Yan Kravchenko
       url: /Participants/ticket-24h/Yan-Kravchenko.html
       remote: false
+  related-to:
+    - name: SAMM Metrics for Enterprise
+      url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
   working-sessions:
     ok: []
     draft:
@@ -556,6 +592,7 @@ Research:
   description: Working Sessions related to multiple Research topics
   organizers: []
   participants: []
+  related-to: []
   working-sessions:
     ok:
       - name: Future of .Net Containers
@@ -598,6 +635,7 @@ Security Crowdsourcing:
       url: /Participants/Ante-Gulam.html
       remote: false
   participants: []
+  related-to: []
   working-sessions:
     ok:
       - name: AppSec Job Fair
@@ -647,6 +685,7 @@ Security Playbooks:
     - name: Yan Kravchenko
       url: /Participants/ticket-24h/Yan-Kravchenko.html
       remote: false
+  related-to: []
   working-sessions:
     ok:
       - name: AppSec Review and Pentest Playbook
@@ -749,6 +788,9 @@ Threat Model:
     - name: Geoff Hill
       url: /Participants/ticket-8h/Geoff-Hill.html
       remote: false
+  related-to:
+    - name: GraphQL Security Review
+      url: /Working-Sessions/Research/GraphQL-Security-Review.html
   working-sessions:
     ok:
       - name: Lightweight Threat Modeling Process

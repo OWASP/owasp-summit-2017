@@ -10,7 +10,7 @@ A comparison of strength and weaknesses of specific FOSS tools:
     organizers:
       - Steven Wierckx
     participants: []
-    related-to: ''
+    related-to: []
 A10 - Underprotected APIs:
   name: A10 - Underprotected APIs
   url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
@@ -21,7 +21,7 @@ A10 - Underprotected APIs:
     owasp-project: 'no'
     track: Owasp Top 10 2017
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Tue
     organizers:
@@ -39,7 +39,7 @@ A7 - Insufficient Attack Protection:
     type: workshop
     track: Owasp Top 10 2017
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Tue
     organizers:
@@ -60,6 +60,7 @@ AWS Lambda Security:
     organizers: []
     participants:
       - Dinis Cruz
+    related-to: []
 Agile AppSec:
   name: Agile AppSec
   url: /Working-Sessions/Agile-AppSec/index.html
@@ -74,6 +75,7 @@ Agile AppSec:
     participants:
       - Ante Gulam
       - Avi Douglen
+    related-to: []
 Agile Practices for Security Teams:
   name: Agile Practices for Security Teams
   url: /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
@@ -84,7 +86,7 @@ Agile Practices for Security Teams:
     owasp-project: 'no'
     track: Agile AppSec
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Tue
     organizers:
@@ -105,7 +107,7 @@ Align Developers Guide and ASVS:
     owasp-project: 'no'
     track: Owasp Projects
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     when-day: ''
     organizers:
@@ -120,7 +122,7 @@ AppSec Article 5 - Collective Defence Agreement:
     type: workshop
     track: CISO
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     organizers:
       - Dinis Cruz
@@ -136,9 +138,10 @@ AppSec Job Fair:
     owasp-project: 'no'
     track: Security Crowdsourcing
     technology: ''
-    related-to: >-
-      Recruiting AppSec Talent,Role of Security Certification,Crowdsourcing
-      Security Knowledge
+    related-to:
+      - Recruiting AppSec Talent
+      - Role of Security Certification
+      - Crowdsourcing Security Knowledge
     status: review-content
     when-day: Evening
     organizers: []
@@ -154,7 +157,7 @@ AppSec Review and Pentest Playbook:
     type: workshop
     track: Security Playbooks
     technology: Pentest
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Wed
     organizers: []
@@ -168,7 +171,8 @@ AppSec SOC Monitoring Visualisation:
     type: workshop
     track: DevSecOps
     technology: 'SOC,GDPR'
-    related-to: CISO
+    related-to:
+      - CISO
     status: done
     when-day: Thu
     organizers:
@@ -189,7 +193,7 @@ AppSec for CISOs:
     owasp-project: 'no'
     track: CISO
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers:
       - Don Gibson
@@ -217,6 +221,7 @@ Application Security BSc/Masters Curriculum Design:
     participants:
       - Timo Pagel
       - Bjoern Kimminich
+    related-to: []
 Application Security Guide for CISO:
   name: Application Security Guide for CISO
   url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
@@ -227,7 +232,8 @@ Application Security Guide for CISO:
     owasp-project: 'yes'
     track: CISO
     technology: ''
-    related-to: CISO Survey
+    related-to:
+      - CISO Survey
     status: review-content
     when-day: Wed
     organizers:
@@ -252,6 +258,7 @@ Application Security Verification Standard:
     organizers:
       - Marc Rimbau
     participants: []
+    related-to: []
 Applying Top 10 to Standards:
   name: Applying Top 10 to Standards
   url: /Working-Sessions/Owasp-Top-10-2017/Applying-Top-10-to-Standards.html
@@ -261,7 +268,7 @@ Applying Top 10 to Standards:
     type: workshop
     track: Owasp Top 10 2017
     technology: PCI
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants: []
@@ -275,7 +282,7 @@ BDD for Cloud Security:
     owasp-project: 'no'
     track: DevSecOps
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Tue
     organizers:
@@ -297,7 +304,7 @@ Benchmark Project:
     owasp-project: 'yes'
     track: Owasp Projects
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers:
       - Dave Wichers
@@ -318,7 +325,9 @@ Benchmark Project:
       - Felipe Zipitria
       - Avi Douglen
       - Timo Pagel
-    related-to: 'Integrating Security Tools in the SDL, Securing the CI Pipeline'
+    related-to:
+      - Integrating Security Tools in the SDL
+      - Securing the CI Pipeline
 BeyondCorp for internal Web Applications:
   name: BeyondCorp for internal Web Applications
   url: /Working-Sessions/Research/BeyondCorp-for-internal-Web-Applications.html
@@ -329,7 +338,7 @@ BeyondCorp for internal Web Applications:
     owasp-project: 'no'
     track: Research
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants: []
@@ -344,6 +353,7 @@ Browser Security:
     status: draft
     organizers: []
     participants: []
+    related-to: []
 Bug Bounty Playbook:
   name: Bug Bounty Playbook
   url: /Working-Sessions/Security-Playbooks/Bug-Bounty-Playbook.html
@@ -353,7 +363,7 @@ Bug Bounty Playbook:
     type: workshop
     track: Security Playbooks
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Fri
     organizers: []
@@ -374,6 +384,7 @@ CISO:
       - Mateo Martinez
       - Yan Kravchenko
       - Francois Raynaud
+    related-to: []
 CISO Round table:
   name: CISO Round table
   url: /Working-Sessions/CISO/CISO-Round-Table.html
@@ -396,6 +407,7 @@ CISO Round table:
       - Ingo Hanke
       - Francois Raynaud
       - Robert Morschel
+    related-to: []
 CISO Survey:
   name: CISO Survey
   url: /Working-Sessions/CISO/CISO-Survey.html
@@ -411,6 +423,7 @@ CISO Survey:
       - Tobias Gondrom
     participants:
       - Yan Kravchenko
+    related-to: []
 CRSFGuard:
   name: CRSFGuard
   url: /Working-Sessions/Owasp-Projects/CRSFGuard.html
@@ -421,7 +434,7 @@ CRSFGuard:
     owasp-project: 'yes'
     track: ''
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers:
       - Azzeddine Ramrami
@@ -436,7 +449,9 @@ CTFs:
     owasp-project: 'no'
     track: Education
     technology: ''
-    related-to: 'Teaching Attacker perspective to Developers,Juice Shop'
+    related-to:
+      - Teaching Attacker perspective to Developers
+      - Juice Shop
     status: draft
     when-day: Evening
     organizers: []
@@ -456,6 +471,7 @@ Cheat Sheets:
     participants:
       - Marc Rimbau
       - Johan Peeters
+    related-to: []
 Create CheatSheet Writing Security Unit Tests:
   name: Create CheatSheet Writing Security Unit Tests
   url: >-
@@ -466,7 +482,7 @@ Create CheatSheet Writing Security Unit Tests:
     title: Create CheatSheet Writing Security Unit Tests
     type: workshop
     track: Owasp Projects
-    related-to: ''
+    related-to: []
     technology: ''
     status: draft
     organizers:
@@ -482,7 +498,7 @@ Create Jira Workflows for Security Playbooks:
     type: workshop
     track: Security Playbooks
     technology: Jira
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Mon
     organizers: []
@@ -498,9 +514,11 @@ Creating AppSec Talent (next 100k professionals):
     owasp-project: 'no'
     track: Education
     technology: ''
-    related-to: >-
-      Recruiting AppSec Talent,Security Champions,Growing the AppSec
-      Industry,Creating AppSec Teams
+    related-to:
+      - Recruiting AppSec Talent
+      - Security Champions
+      - Growing the AppSec Industry
+      - Creating AppSec Teams
     status: review-content
     when-day: Tue
     participants: []
@@ -515,7 +533,10 @@ Creating AppSec Teams:
     owasp-project: 'no'
     track: Education
     technology: ''
-    related-to: 'Recruiting AppSec Talent,Security Champions,CISO'
+    related-to:
+      - Recruiting AppSec Talent
+      - Security Champions
+      - CISO
     status: review-content
     organizers:
       - Dinis Cruz
@@ -533,7 +554,9 @@ Creation and Optimization of a Docker Security Workshop:
     owasp-project: 'no'
     track: Education
     technology: Docker
-    related-to: 'Evaluation/Optimization/Creation of Training Slides, Docker Security'
+    related-to:
+      - Evaluation/Optimization/Creation of Training Slides
+      - Docker Security
     status: draft
     organizers:
       - Timo Pagel
@@ -548,7 +571,7 @@ Cross-Company Hackathons:
     owasp-project: 'no'
     track: Security Crowdsourcing
     technology: ''
-    related-to: ''
+    related-to: []
     status: definition-of-done
     when-day: Thu
     organizers: []
@@ -564,7 +587,7 @@ Crowdsourcing Security Knowledge:
     owasp-project: 'no'
     track: Security Crowdsourcing
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Tue
     organizers: []
@@ -579,7 +602,8 @@ Cyber Insurance:
     owasp-project: 'no'
     track: CISO
     technology: ''
-    related-to: InfoSec Warranties and Guarantees
+    related-to:
+      - InfoSec Warranties and Guarantees
     status: review-content
     when-day: Wed
     organizers:
@@ -596,7 +620,7 @@ Cyber Security Economics:
     owasp-project: 'no'
     track: Education
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers:
       - Ante Gulam
@@ -623,6 +647,7 @@ Data behind Owasp Top 10 2017:
       - Brian Glas
       - Ingo Hanke
       - Francois Raynaud
+    related-to: []
 Define Agile Security Practices:
   name: Define Agile Security Practices
   url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
@@ -633,7 +658,8 @@ Define Agile Security Practices:
     owasp-project: 'no'
     track: Agile AppSec
     technology: ''
-    related-to: Integrating Security into an Spotify Model
+    related-to:
+      - Integrating Security into an Spotify Model
     status: review-content
     when-day: Mon
     organizers:
@@ -659,6 +685,7 @@ Dependency Check:
     when-day: Mon
     participants:
       - Johan Peeters
+    related-to: []
 DevSecOps:
   name: DevSecOps
   url: /Working-Sessions/DevSecOps/index.html
@@ -672,6 +699,7 @@ DevSecOps:
       - Francois Raynaud
     participants:
       - Francois Raynaud
+    related-to: []
 DevSecOps vs SecDevOps:
   name: DevSecOps vs SecDevOps
   url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
@@ -689,6 +717,7 @@ DevSecOps vs SecDevOps:
       - Marc Rimbau
       - Felipe Zipitria
       - Avi Douglen
+    related-to: []
 Diffing and Version Control Threat Models:
   name: Diffing and Version Control Threat Models
   url: >-
@@ -700,7 +729,7 @@ Diffing and Version Control Threat Models:
     owasp-project: 'no'
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     when-day: Fri
     organizers: []
@@ -715,7 +744,7 @@ DoS Playbook:
     type: workshop
     track: Security Playbooks
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Fri
     organizers: []
@@ -730,7 +759,8 @@ Docker Security:
     owasp-project: 'no'
     track: DevSecOps
     technology: ''
-    related-to: Creation and Optimization of a Docker Security Workshop
+    related-to:
+      - Creation and Optimization of a Docker Security Workshop
     status: draft
     organizers: []
     participants:
@@ -755,6 +785,7 @@ Draft SAMM2 - the "DevOps release":
       - Yan Kravchenko
       - Timo Pagel
       - Viktor Lindström
+    related-to: []
 Due Diligence Playbook:
   name: Due Diligence Playbook
   url: /Working-Sessions/Security-Playbooks/Due-Diligence-Playbook.html
@@ -764,7 +795,7 @@ Due Diligence Playbook:
     type: workshop
     track: Security Playbooks
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Fri
     organizers: []
@@ -780,7 +811,7 @@ ELK Security Dashboards:
     owasp-project: 'no'
     track: DevSecOps
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     when-day: Thu
     organizers:
@@ -802,7 +833,12 @@ Education:
     type: track
     technology: ''
     description: Working Sessions related to Education
-    related-to: 'Juice Shop,NodeGoat,Owasp Student Chapters,Security Champions,Webgoat'
+    related-to:
+      - Juice Shop
+      - NodeGoat
+      - Owasp Student Chapters
+      - Security Champions
+      - Webgoat
     organizers: []
     participants: []
 Evaluation/Optimization/Creation of Training Slides:
@@ -816,9 +852,12 @@ Evaluation/Optimization/Creation of Training Slides:
     owasp-project: no (but maybe during the summit)
     track: Education
     technology: ''
-    related-to: >-
-      Teaching Attacker perspective to Developers,Application Security
-      BSc/Masters Curriculum Design,Juice Shop,NodeGoat,Webgoat
+    related-to:
+      - Teaching Attacker perspective to Developers
+      - Application Security BSc/Masters Curriculum Design
+      - Juice Shop
+      - NodeGoat
+      - Webgoat
     status: draft
     when-day: Thu
     organizers:
@@ -834,7 +873,7 @@ Future of .Net Containers:
     type: workshop
     track: Research
     technology: '.Net,Docker'
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Fri
     organizers: []
@@ -856,6 +895,7 @@ GDPR:
     organizers: []
     participants:
       - Johan Peeters
+    related-to: []
 GDPR and DPO AppSec implications:
   name: GDPR and DPO AppSec implications
   url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
@@ -865,7 +905,7 @@ GDPR and DPO AppSec implications:
     type: workshop
     track: CISO
     technology: GDPR
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Mon
     organizers: []
@@ -887,6 +927,7 @@ GPG Infrastructure for OWASP:
       - Achim Hoffmann
     participants:
       - Bjoern Kimminich
+    related-to: []
 GSMA IoT Security Guidelines:
   name: GSMA IoT Security Guidelines
   url: /Working-Sessions/IoT/GSMA-IoT-Security-Guidelines.html
@@ -897,7 +938,7 @@ GSMA IoT Security Guidelines:
     owasp-project: 'no'
     track: ''
     technology: IoT
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants: []
@@ -918,6 +959,7 @@ GitHub Organization Reboot:
     organizers:
       - Bjoern Kimminich
     participants: []
+    related-to: []
 GraphQL Security Review:
   name: GraphQL Security Review
   url: /Working-Sessions/Research/GraphQL-Security-Review.html
@@ -928,7 +970,8 @@ GraphQL Security Review:
     owasp-project: 'no'
     track: Research
     technology: ''
-    related-to: Threat Model
+    related-to:
+      - Threat Model
     status: review-content
     when-day: Fri
     organizers: []
@@ -944,7 +987,9 @@ Growing the AppSec Industry:
     owasp-project: 'no'
     track: CISO
     technology: ''
-    related-to: 'Cyber Insurance,Education'
+    related-to:
+      - Cyber Insurance
+      - Education
     status: review-content
     when-day: Mon
     organizers:
@@ -960,7 +1005,8 @@ Hackathon Daily Sessions:
     owasp-project: 'no'
     track: Security Crowdsourcing
     technology: ''
-    related-to: Juice Shop
+    related-to:
+      - Juice Shop
     status: draft
     when-day: Evening
     organizers:
@@ -976,7 +1022,7 @@ How is the Top 10 Used in Real World:
     type: workshop
     track: Owasp Top 10 2017
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants: []
@@ -998,6 +1044,7 @@ IAM for REST APIs:
       - Dinis Cruz
       - Bjoern Kimminich
       - Robert Morschel
+    related-to: []
 Implications of Owasp Top 10 2017:
   name: Implications of Owasp Top 10 2017
   url: /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
@@ -1018,6 +1065,7 @@ Implications of Owasp Top 10 2017:
       - Felipe Zipitria
       - Mateo Martinez
       - Francois Raynaud
+    related-to: []
 Incident Response Playbook:
   name: Incident Response Playbook
   url: /Working-Sessions/Security-Playbooks/Incident-Response-Playbook.html
@@ -1027,7 +1075,7 @@ Incident Response Playbook:
     type: workshop
     track: Security Playbooks
     technology: SOC
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Wed
     organizers: []
@@ -1048,6 +1096,7 @@ Include OWASP projects as resources for the SAMM practices:
     organizers:
       - Sebastien Deleersnyder
     participants: []
+    related-to: []
 InfoSec Warranties and Guarantees:
   name: InfoSec Warranties and Guarantees
   url: /Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html
@@ -1058,7 +1107,7 @@ InfoSec Warranties and Guarantees:
     owasp-project: 'no'
     track: CISO
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Wed
     organizers:
@@ -1074,7 +1123,8 @@ Integrating Security Tools in the SDL:
     owasp-project: 'no'
     track: DevSecOps
     technology: SAST
-    related-to: A comparison of strength and weaknesses of specific FOSS tools
+    related-to:
+      - A comparison of strength and weaknesses of specific FOSS tools
     status: draft
     participants: []
     organizers: []
@@ -1089,7 +1139,7 @@ Integrating Security into a Portfolio Kanban:
     owasp-project: 'no'
     track: Agile AppSec
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Tue
     organizers:
@@ -1109,7 +1159,7 @@ Integrating Security into a Sales Channel:
     owasp-project: 'no'
     track: Agile AppSec
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Thu
     organizers:
@@ -1128,7 +1178,7 @@ Integrating Security into an Spotify Model:
     owasp-project: 'no'
     track: Agile AppSec
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Thu
     organizers:
@@ -1146,7 +1196,7 @@ Internal Bug Bounties Programmes:
     owasp-project: 'no'
     track: Security Crowdsourcing
     technology: ''
-    related-to: ''
+    related-to: []
     status: definition-of-done
     when-day: Thu
     organizers: []
@@ -1168,6 +1218,7 @@ IoT:
       - Daniel Miessler
     participants:
       - Johan Peeters
+    related-to: []
 Is the Owasp Top 10 Data Collection Open:
   name: Is the Owasp Top 10 Data Collection Open
   url: >-
@@ -1178,7 +1229,7 @@ Is the Owasp Top 10 Data Collection Open:
     type: workshop
     track: Owasp Top 10 2017
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Mon
     organizers:
@@ -1199,6 +1250,7 @@ JIRA Risk Workflow:
       - Dinis Cruz
     participants:
       - Timo Pagel
+    related-to: []
 Java:
   name: Java
   url: /Working-Sessions/Technologies/Java.html
@@ -1210,6 +1262,7 @@ Java:
     description: ''
     organizers: []
     participants: []
+    related-to: []
 Juice Shop:
   name: Juice Shop
   url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
@@ -1233,6 +1286,7 @@ Juice Shop:
       - Ade Yoseman Putra
       - Timo Pagel
       - Francois Raynaud
+    related-to: []
 LANGSEC Language-theoretic Security:
   name: LANGSEC Language-theoretic Security
   url: /Working-Sessions/Research/LANGSEC-Language-theoretic-Security.html
@@ -1243,7 +1297,7 @@ LANGSEC Language-theoretic Security:
     owasp-project: 'no'
     track: Research
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants:
@@ -1259,7 +1313,7 @@ Lessons learned from public bug bounties programmes:
     owasp-project: 'no'
     track: Security Crowdsourcing
     technology: ''
-    related-to: ''
+    related-to: []
     status: definition-of-done
     when-day: Thu
     organizers: []
@@ -1283,6 +1337,7 @@ Lightweight Threat Modeling Process:
       - Avi Douglen
       - Stephen de Vries
       - Irene Michlin
+    related-to: []
 MSTG Book Sprint - Android Testing Guide:
   name: MSTG Book Sprint - Android Testing Guide
   url: /Working-Sessions/Mobile-Security/MSTG_03.html
@@ -1303,6 +1358,7 @@ MSTG Book Sprint - Android Testing Guide:
       - Sven Schleier
     participants:
       - tbd.
+    related-to: []
 MSTG Book Sprint - Mobile App Security Testing:
   name: MSTG Book Sprint - Mobile App Security Testing
   url: /Working-Sessions/Mobile-Security/MSTG_02.html
@@ -1323,6 +1379,7 @@ MSTG Book Sprint - Mobile App Security Testing:
       - Sven Schleier
     participants:
       - T.b.d.
+    related-to: []
 MSTG Book Sprint - Mobile Operating Systems:
   name: MSTG Book Sprint - Mobile Operating Systems
   url: /Working-Sessions/Mobile-Security/MSTG_01.html
@@ -1343,6 +1400,7 @@ MSTG Book Sprint - Mobile Operating Systems:
       - Sven Schleier
     participants:
       - T.b.d.
+    related-to: []
 MSTG Book Sprint - Reverse Engineering and Cracking:
   name: MSTG Book Sprint - Reverse Engineering and Cracking
   url: /Working-Sessions/Mobile-Security/MSTG_05.html
@@ -1363,6 +1421,7 @@ MSTG Book Sprint - Reverse Engineering and Cracking:
       - Sven Schleier
     participants:
       - T.b.d.
+    related-to: []
 MSTG Book Sprint - iOS Testing Guide:
   name: MSTG Book Sprint - iOS Testing Guide
   url: /Working-Sessions/Mobile-Security/MSTG_04.html
@@ -1383,6 +1442,7 @@ MSTG Book Sprint - iOS Testing Guide:
       - Sven Schleier
     participants:
       - T.b.d.
+    related-to: []
 Maturity Models tool:
   name: Maturity Models tool
   url: /Working-Sessions/OwaspSAMM/Maturity-Models-Tool.html
@@ -1403,6 +1463,7 @@ Maturity Models tool:
       - Yan Kravchenko
       - Irene Michlin
       - Viktor Lindström
+    related-to: []
 Media Handling Playbook:
   name: Media Handling Playbook
   url: /Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html
@@ -1412,7 +1473,7 @@ Media Handling Playbook:
     type: workshop
     track: Security Playbooks
     technology: GDPR
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Wed
     organizers: []
@@ -1428,6 +1489,7 @@ Mobile:
     description: ''
     organizers: []
     participants: []
+    related-to: []
 Mobile Security:
   name: Mobile Security
   url: /Working-Sessions/Mobile-Security/index.html
@@ -1448,6 +1510,7 @@ Mobile Security:
       - Jeroen Willemsen
       - Marc Rimbau
       - Kuai Hinojosa
+    related-to: []
 Mobilising Business Lines for Security:
   name: Mobilising Business Lines for Security
   url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
@@ -1464,6 +1527,7 @@ Mobilising Business Lines for Security:
       - Ante Gulam
     participants:
       - Dinis Cruz
+    related-to: []
 Netflix Resilience Engineering:
   name: Netflix Resilience Engineering
   url: /Working-Sessions/DevSecOps/Netflix-Resilience-Engineering.html
@@ -1473,7 +1537,9 @@ Netflix Resilience Engineering:
     type: workshop
     track: DevSecOps
     technology: ''
-    related-to: 'Netflix Security Automation,SRE Security Activities'
+    related-to:
+      - Netflix Security Automation
+      - SRE Security Activities
     status: draft
     organizers: []
     participants:
@@ -1488,7 +1554,7 @@ Netflix Security Automation:
     type: workshop
     track: DevSecOps
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants:
@@ -1506,7 +1572,7 @@ New Top 10 - Deserialisation Vulnerabilities:
     type: workshop
     track: Owasp Top 10 2017
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers:
       - Josh Grossman
@@ -1526,6 +1592,7 @@ NextGen Security Scanners:
       - Bjoern Kimminich
       - Marc Rimbau
       - Johan Peeters
+    related-to: []
 Node:
   name: Node
   url: /Working-Sessions/Technologies/Node.html
@@ -1537,6 +1604,7 @@ Node:
     description: ''
     organizers: []
     participants: []
+    related-to: []
 Node Security Round Table:
   name: Node Security Round Table
   url: /Working-Sessions/DevSecOps/Node-Security-Round-Table.html
@@ -1547,7 +1615,7 @@ Node Security Round Table:
     owasp-project: 'no'
     track: DevSecOps
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     organizers: []
     participants: []
@@ -1570,6 +1638,7 @@ NodeGoat:
     organizers:
       - Kim Carter
     participants: []
+    related-to: []
 O-Saft:
   name: O-Saft
   url: /Working-Sessions/Owasp-Projects/O-Saft.html
@@ -1587,6 +1656,7 @@ O-Saft:
     participants:
       - Marc Rimbau
       - Ingo Hanke
+    related-to: []
 OWASP Bug Bounty:
   name: OWASP Bug Bounty
   url: /Working-Sessions/Security-Crowdsourcing/Owasp-Bug-Bounty.html
@@ -1600,6 +1670,7 @@ OWASP Bug Bounty:
     when-day: Wed
     organizers: []
     participants: []
+    related-to: []
 OWASP Chapter Leader Handbook:
   name: OWASP Chapter Leader Handbook
   url: /Working-Sessions/Owasp/Owasp-Chapter-Handbook.html
@@ -1613,6 +1684,7 @@ OWASP Chapter Leader Handbook:
     organizers:
       - Avi Douglen
     participants: []
+    related-to: []
 OWASP Game Security Framework:
   name: OWASP Game Security Framework
   url: /Working-Sessions/Owasp-Projects/Game-Security-Framework.html
@@ -1628,6 +1700,7 @@ OWASP Game Security Framework:
       - Daniel Miessler
       - Azzeddine Ramrami
     participants: []
+    related-to: []
 OWASP Internet of Things Project:
   name: OWASP Internet of Things Project
   url: /Working-Sessions/IoT/Internet-of-Things-Project.html
@@ -1643,6 +1716,7 @@ OWASP Internet of Things Project:
     organizers:
       - Daniel Miessler
     participants: []
+    related-to: []
 OWASP Proactive Controls:
   name: OWASP Proactive Controls
   url: /Working-Sessions/Owasp-Projects/Proactive-Controls.html
@@ -1652,7 +1726,7 @@ OWASP Proactive Controls:
     type: workshop
     track: Owasp Projects
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers:
       - Katy Anton
@@ -1671,6 +1745,7 @@ OWASP Projects Reviews:
       - Claudia Casanovas
       - Johanna Curiel
     participants: []
+    related-to: []
 OWASP Risk Rating Management Project:
   name: OWASP Risk Rating Management Project
   url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
@@ -1685,6 +1760,7 @@ OWASP Risk Rating Management Project:
       - Ade Yoseman Putra
     participants:
       - Marc Rimbau
+    related-to: []
 Owasp Chapter Treasury:
   name: Owasp Chapter Treasury
   url: /Working-Sessions/Owasp/Owasp-Chapter-Treasury.html
@@ -1698,6 +1774,7 @@ Owasp Chapter Treasury:
     status: done
     when-day: Thu
     participants: []
+    related-to: []
 Owasp Latam Region:
   name: Owasp Latam Region
   url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
@@ -1712,6 +1789,7 @@ Owasp Latam Region:
     organizers:
       - Mateo Martinez
     participants: []
+    related-to: []
 Owasp Orizon Reboot:
   name: Owasp Orizon Reboot
   url: /Working-Sessions/Owasp-Projects/Orizon-Reboot.html
@@ -1727,6 +1805,7 @@ Owasp Orizon Reboot:
     organizers:
       - Paolo Perego
     participants: []
+    related-to: []
 Owasp Projects:
   name: Owasp Projects
   url: /Working-Sessions/Owasp-Projects/index.html
@@ -1740,6 +1819,7 @@ Owasp Projects:
       - Johanna Curiel
     description: Working Sessions focused on Owasp Projects
     participants: []
+    related-to: []
 Owasp Student Chapters:
   name: Owasp Student Chapters
   url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
@@ -1754,6 +1834,7 @@ Owasp Student Chapters:
     organizers:
       - Mateo Martinez
     participants: []
+    related-to: []
 Owasp Top 10 2017:
   name: Owasp Top 10 2017
   url: /Working-Sessions/Owasp-Top-10-2017/index.html
@@ -1773,6 +1854,7 @@ Owasp Top 10 2017:
       - Brian Glas
       - Felipe Zipitria
       - Mateo Martinez
+    related-to: []
 Owasp-Website:
   name: Owasp-Website
   url: /Working-Sessions/Owasp/Owasp-Website.html
@@ -1784,6 +1866,7 @@ Owasp-Website:
     status: draft
     organizers: []
     participants: []
+    related-to: []
 OwaspSAMM:
   name: OwaspSAMM
   url: /Working-Sessions/OwaspSAMM/index.html
@@ -1802,6 +1885,7 @@ OwaspSAMM:
       - Brian Glas
       - Avi Douglen
       - Yan Kravchenko
+    related-to: []
 Playbooks Common Format:
   name: Playbooks Common Format
   url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
@@ -1811,7 +1895,8 @@ Playbooks Common Format:
     type: workshop
     track: Security Playbooks
     technology: ''
-    related-to: Threat Modeling Diagramming Techniques
+    related-to:
+      - Threat Modeling Diagramming Techniques
     status: improve-content
     when-day: Mon
     organizers: []
@@ -1826,7 +1911,7 @@ Playbooks vs Handbooks:
     type: workshop
     track: Security Playbooks
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Mon
     organizers: []
@@ -1842,7 +1927,7 @@ Protobuf for Data Validation Between Services:
     owasp-project: 'no'
     track: Research
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants: []
@@ -1855,7 +1940,7 @@ Radical Candor:
     type: workshop
     track: ''
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     organizers: []
     participants: []
@@ -1868,7 +1953,7 @@ Ransomware Playbook:
     type: workshop
     track: Security Playbooks
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Fri
     organizers: []
@@ -1882,7 +1967,7 @@ Recommending ESAPI in Top 10:
     type: workshop
     track: Owasp Top 10 2017
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     when-day: Mon
     organizers:
@@ -1897,7 +1982,7 @@ Recruiting AppSec Talent:
     type: workshop
     track: Education
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Tue
     participants: []
@@ -1912,7 +1997,7 @@ Research:
     type: track
     technology: ''
     description: Working Sessions related to multiple Research topics
-    related-to: ''
+    related-to: []
     organizers: []
     participants: []
 Responsible Disclosure:
@@ -1929,6 +2014,7 @@ Responsible Disclosure:
       - Devesh Bhatt
     participants:
       - Francois Raynaud
+    related-to: []
 Reverse Engineering APK's with Bytecodeviewer:
   name: Reverse Engineering APK's with Bytecodeviewer
   url: /Working-Sessions/Tools/Bytecodevierwer.html
@@ -1943,6 +2029,7 @@ Reverse Engineering APK's with Bytecodeviewer:
     organizers:
       - Johanna Curiel
     participants: []
+    related-to: []
 Review and improve the 12 SAMM practices:
   name: Review and improve the 12 SAMM practices
   url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
@@ -1961,6 +2048,7 @@ Review and improve the 12 SAMM practices:
       - Robert Morschel
       - Irene Michlin
       - Viktor Lindström
+    related-to: []
 Role of Security Certification:
   name: Role of Security Certification
   url: /Working-Sessions/Education/Role-of-Security-Certifications.html
@@ -1971,7 +2059,7 @@ Role of Security Certification:
     owasp-project: 'no'
     track: Education
     technology: ''
-    related-to: ''
+    related-to: []
     status: done
     organizers:
       - Ade Yoseman Putra
@@ -1985,7 +2073,9 @@ SAMM Metrics for Enterprise:
     type: workshop
     track: CISO
     technology: ''
-    related-to: 'OwaspSAMM,Appsec Metrics'
+    related-to:
+      - OwaspSAMM
+      - Appsec Metrics
     status: done
     when-day: Mon
     organizers:
@@ -2008,6 +2098,7 @@ SAST:
       out” in a nonrunning state.
     organizers: []
     participants: []
+    related-to: []
 SOC:
   name: SOC
   url: /Working-Sessions/Technologies/SOC.html
@@ -2021,6 +2112,7 @@ SOC:
       capabilities.
     organizers: []
     participants: []
+    related-to: []
 SRE Security Activities:
   name: SRE Security Activities
   url: /Working-Sessions/DevSecOps/SRE-Security-Activities.html
@@ -2031,7 +2123,7 @@ SRE Security Activities:
     owasp-project: 'no'
     track: DevSecOps
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants:
@@ -2046,7 +2138,7 @@ Scaling Agile Planning and Education.md:
     owasp-project: 'no'
     track: Agile AppSec
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers:
       - David Clarke
@@ -2062,7 +2154,9 @@ Scaling Static Analysis Reviews and Deployments:
     owasp-project: 'no'
     track: Tools
     technology: SAST
-    related-to: 'Securing the CI Pipeline,Integrating Security Tools in the SDL'
+    related-to:
+      - Securing the CI Pipeline
+      - Integrating Security Tools in the SDL
     status: review-content
     when-day: Fri
     participants:
@@ -2083,6 +2177,7 @@ Securing GitHub Integrations:
       - Danny Grander
     participants:
       - Francois Raynaud
+    related-to: []
 Securing Legacy Applications:
   name: Securing Legacy Applications
   url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
@@ -2093,7 +2188,10 @@ Securing Legacy Applications:
     owasp-project: 'no'
     track: DevSecOps
     technology: SAST
-    related-to: 'Cyber Insurance,CISO,InfoSec Warranties and Guarantees'
+    related-to:
+      - Cyber Insurance
+      - CISO
+      - InfoSec Warranties and Guarantees
     status: review-content
     when-day: Thu
     organizers:
@@ -2112,7 +2210,9 @@ Securing the CI Pipeline:
     owasp-project: 'no'
     track: DevSecOps
     technology: 'CI,SAST'
-    related-to: 'Integrating Security Tools in the SDL,CISO'
+    related-to:
+      - Integrating Security Tools in the SDL
+      - CISO
     status: draft
     participants:
       - Johan Peeters
@@ -2130,6 +2230,7 @@ Security Architecture Recommendations for IoT:
     status: draft
     organizers: []
     participants: []
+    related-to: []
 Security Book Club:
   name: Security Book Club
   url: /Working-Sessions/Education/Security-Book-Club.html
@@ -2140,7 +2241,7 @@ Security Book Club:
     owasp-project: 'no'
     track: Education
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Evening
     organizers: []
@@ -2155,7 +2256,10 @@ Security Champions:
     title: Security Champions
     type: workshop
     track: Agile AppSec
-    related-to: 'Threat-Model,DevSecOps,CISO'
+    related-to:
+      - Threat-Model
+      - DevSecOps
+      - CISO
     status: review-content
     when-day: Tue
     organizers: []
@@ -2173,6 +2277,7 @@ Security Crowdsourcing:
       - Ante Gulam
     description: Working Sessions for Security Crowdsourcing
     participants: []
+    related-to: []
 Security Guidance and Feedback in IDE:
   name: Security Guidance and Feedback in IDE
   url: /Working-Sessions/DevSecOps/Security-Guidance-and-Feedback-in-IDE.html
@@ -2183,7 +2288,8 @@ Security Guidance and Feedback in IDE:
     owasp-project: 'no'
     track: DevSecOps
     technology: 'IDE,SAST'
-    related-to: Scaling Static Analysis Reviews and Deployments
+    related-to:
+      - Scaling Static Analysis Reviews and Deployments
     status: review-content
     when-day: Wed
     participants: []
@@ -2198,7 +2304,10 @@ Security Guild vs Security Champions:
     owasp-project: 'no'
     track: Agile AppSec
     technology: ''
-    related-to: 'Integrating Security into an Spotify Model,Security Champions,CISO'
+    related-to:
+      - Integrating Security into an Spotify Model
+      - Security Champions
+      - CISO
     status: review-content
     when-day: Mon
     organizers:
@@ -2222,6 +2331,7 @@ Security Knowledge Framework:
     organizers:
       - Marc Rimbau
     participants: []
+    related-to: []
 Security Labels:
   name: Security Labels
   url: /Working-Sessions/Research/Security-Labels.html
@@ -2232,7 +2342,7 @@ Security Labels:
     owasp-project: 'no'
     track: Research
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants:
@@ -2246,7 +2356,7 @@ Security Monitoring Playbooks:
     type: workshop
     track: Security Playbooks
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Wed
     organizers: []
@@ -2266,6 +2376,7 @@ Security Playbooks:
     organizers: []
     participants:
       - Yan Kravchenko
+    related-to: []
 Security Playbooks Diagrams:
   name: Security Playbooks Diagrams
   url: /Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html
@@ -2275,7 +2386,7 @@ Security Playbooks Diagrams:
     type: workshop
     track: Security Playbooks
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Mon
     organizers: []
@@ -2290,7 +2401,7 @@ Security-Review-pure-Javascript-Applications:
     owasp-project: 'no'
     track: ''
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants: []
@@ -2304,7 +2415,7 @@ Sign Ceremony for Owasp Top 10 2017:
     owasp-project: 'no'
     track: Owasp Top 10 2017
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Fri
     organizers:
@@ -2323,6 +2434,7 @@ Software Defined Everything (SDx):
     organizers:
       - Adrian Winckles
     participants: []
+    related-to: []
 Synchronize Multiple Owasp Top 10s:
   name: Synchronize Multiple Owasp Top 10s
   url: /Working-Sessions/Owasp-Top-10-2017/Synchronize-Multiple-Owasp-Top-10s.html
@@ -2332,7 +2444,8 @@ Synchronize Multiple Owasp Top 10s:
     type: workshop
     track: Owasp Top 10
     technology: ''
-    related-to: OWASP Proactive Controls
+    related-to:
+      - OWASP Proactive Controls
     status: draft
     organizers: []
     participants: []
@@ -2350,6 +2463,7 @@ TLS:
       that provide communications security over a computer network
     organizers: []
     participants: []
+    related-to: []
 TLS for Local IoT:
   name: TLS for Local IoT
   url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
@@ -2366,6 +2480,7 @@ TLS for Local IoT:
     participants:
       - Francois Raynaud
       - Johan Peeters
+    related-to: []
 Teaching Attacker perspective to Developers:
   name: Teaching Attacker perspective to Developers
   url: /Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html
@@ -2376,7 +2491,10 @@ Teaching Attacker perspective to Developers:
     owasp-project: 'no'
     track: Education
     technology: ''
-    related-to: 'Juice Shop,NodeGoat,Webgoat'
+    related-to:
+      - Juice Shop
+      - NodeGoat
+      - Webgoat
     status: done
     when-day: Evening
     organizers:
@@ -2407,6 +2525,7 @@ Testing Guide v5:
       - Matteo Meucci
     participants:
       - Mateo Martinez
+    related-to: []
 The Future of Privacy:
   name: The Future of Privacy
   url: /Working-Sessions/The-future-of-privacy.html
@@ -2424,6 +2543,7 @@ The Future of Privacy:
       - Akshay Sharma
       - Achim Hoffmann
       - Johan Peeters
+    related-to: []
 Threat Model:
   name: Threat Model
   url: /Working-Sessions/Threat-Model/index.html
@@ -2449,6 +2569,7 @@ Threat Model:
       - Avi Douglen
       - Irene Michlin
       - Geoff Hill
+    related-to: []
 Threat Modeling Cheat Sheet & Lightweight Threat Modeling:
   name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
@@ -2457,7 +2578,8 @@ Threat Modeling Cheat Sheet & Lightweight Threat Modeling:
     title: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
     type: workshop
     track: Threat Model
-    related-to: Cheat Sheets
+    related-to:
+      - Cheat Sheets
     description: >-
       OWASP cheat sheet will provide prescriptive guidance on threat modeling
       activities, tasks, and output deliverables that should be produced as part
@@ -2485,7 +2607,7 @@ Threat Modeling Cloud Migrations:
     owasp-project: 'no'
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     when-day: Thu
     organizers:
@@ -2501,7 +2623,7 @@ Threat Modeling Diagramming Techniques:
     owasp-project: 'no'
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     when-day: Mon
     organizers: []
@@ -2520,6 +2642,7 @@ Threat Modeling IoT Devices:
     when-day: Thu
     organizers: []
     participants: []
+    related-to: []
 Threat Modeling OWASP Pages:
   name: Threat Modeling OWASP Pages
   url: /Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html
@@ -2528,7 +2651,10 @@ Threat Modeling OWASP Pages:
     title: Threat Modeling OWASP Pages
     type: workshop
     track: Threat Model
-    related-to: 'Cheat Sheets, Templates, Tools'
+    related-to:
+      - Cheat Sheets
+      - Templates
+      - Tools
     description: >-
       OWASP Threat Modeling Pages provide global AppSec professionals and
       companies worldwide with a central reference point to OWASP project,
@@ -2551,7 +2677,7 @@ Threat Modeling Scaling and Security Champions:
     type: workshop
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Wed
     organizers: []
@@ -2571,6 +2697,7 @@ Threat Modeling Schema:
     when-day: Mon
     organizers: []
     participants: []
+    related-to: []
 Threat Modeling Templates:
   name: Threat Modeling Templates
   url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
@@ -2579,7 +2706,8 @@ Threat Modeling Templates:
     title: Threat Modeling Templates
     type: workshop
     track: Threat Model
-    related-to: Threat Modeling Cheat Sheets
+    related-to:
+      - Threat Modeling Cheat Sheets
     description: >-
       OWASP Threat Modeling Templates will provide templates for addressing
       applications templates for which participants can leverage as starter kits
@@ -2609,7 +2737,7 @@ Threat Modeling Tools:
     owasp-project: 'no'
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Mon
     organizers: []
@@ -2630,7 +2758,7 @@ Threat Modeling Where do I Start?:
     owasp-project: 'no'
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Tue
     organizers: []
@@ -2647,7 +2775,7 @@ Threat Modeling by Feature and Layer:
     type: workshop
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     when-day: Thu
     organizers: []
@@ -2663,7 +2791,7 @@ Threat Modeling pure Javascript Applications:
     owasp-project: 'no'
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants: []
@@ -2688,6 +2816,7 @@ Threat and Vulnerability Management:
       - Irene Michlin
       - Robert Morschel
       - Timo Pagel
+    related-to: []
 Top 10 Selection Criteria:
   name: Top 10 Selection Criteria
   url: /Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html
@@ -2697,7 +2826,7 @@ Top 10 Selection Criteria:
     type: workshop
     track: Owasp Top 10 2017
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Mon
     organizers:
@@ -2714,7 +2843,8 @@ Top 10 merge with Proactive Controls:
     type: workshop
     track: Owasp Top 10 2017
     technology: ''
-    related-to: OWASP Proactive Controls
+    related-to:
+      - OWASP Proactive Controls
     status: draft
     organizers: []
     participants: []
@@ -2737,6 +2867,7 @@ Update SAMM model to take into account Agile and DevOps:
       - Timo Pagel
       - Adam O'Brien
       - Viktor Lindström
+    related-to: []
 Use Threat Models to Lock Developers Briefs:
   name: Use Threat Models to Lock Developers Briefs
   url: >-
@@ -2748,7 +2879,7 @@ Use Threat Models to Lock Developers Briefs:
     owasp-project: 'no'
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     organizers: []
     participants: []
@@ -2762,7 +2893,7 @@ Using Holacracy in Working Sessions:
     owasp-project: 'no'
     track: ''
     technology: ''
-    related-to: ''
+    related-to: []
     status: improve-content
     organizers: []
     participants: []
@@ -2777,7 +2908,7 @@ Using JIRA and Confluence to Store Threat Model Data:
     owasp-project: 'no'
     track: Threat Model
     technology: ''
-    related-to: ''
+    related-to: []
     status: draft
     when-day: Wed
     organizers: []
@@ -2796,6 +2927,7 @@ Using ML and AI to detect Attacks:
       - Talal Albacha
     when-day: Friday
     participants: []
+    related-to: []
 Using Security Risks to Measure Agile Practices:
   name: Using Security Risks to Measure Agile Practices
   url: >-
@@ -2807,7 +2939,8 @@ Using Security Risks to Measure Agile Practices:
     owasp-project: 'no'
     track: Agile AppSec
     technology: ''
-    related-to: JIRA Risk Workflow
+    related-to:
+      - JIRA Risk Workflow
     status: review-content
     when-day: Tue
     organizers:
@@ -2826,7 +2959,7 @@ Visit Bletchley Park:
     owasp-project: 'no'
     track: ''
     technology: ''
-    related-to: ''
+    related-to: []
     status: review-content
     when-day: Thu
     organizers:
@@ -2851,6 +2984,7 @@ Webgoat:
     organizers:
       - Nanne Baars
     participants: []
+    related-to: []
 What Should be Added to the Top 10:
   name: What Should be Added to the Top 10
   url: /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
@@ -2860,7 +2994,8 @@ What Should be Added to the Top 10:
     type: workshop
     track: Owasp Top 10 2017
     technology: ''
-    related-to: OWASP Proactive Controls
+    related-to:
+      - OWASP Proactive Controls
     status: review-content
     when-day: Tue
     organizers: []
@@ -2876,7 +3011,7 @@ Women in Cyber:
     type: workshop
     track: ''
     technology: ''
-    related-to: ''
+    related-to: []
     status: Done
     when-day: Thu
     organizers: []
@@ -2894,6 +3029,7 @@ Working Sessions:
     title: Working Sessions
     participants: []
     organizers: []
+    related-to: []
 Writing Security Tests:
   name: Writing Security Tests
   url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
@@ -2904,7 +3040,8 @@ Writing Security Tests:
     owasp-project: 'no'
     track: DevSecOps
     technology: TDD
-    related-to: Testing Guide v5
+    related-to:
+      - Testing Guide v5
     status: better-content
     when-day: Wed
     organizers:
@@ -2931,3 +3068,4 @@ ZAP:
     participants:
       - Marc Rimbau
       - Mateo Martinez
+    related-to: []
