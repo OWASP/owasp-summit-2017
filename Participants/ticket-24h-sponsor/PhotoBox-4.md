@@ -2,15 +2,15 @@
 layout          : blocks/page-participant
 title           : PhotoBox (4th)
 type            : participant
-job-title       :
+job-title       :Riks Analyst
 company         : PhotoBox Group
-travel-from     :
+travel-from     :London
 image           :
 linkedin        :
 twiter          :
 facebook        :
 website         :
-email           :
+email           :dilek.koluman@photobox.com
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h
