@@ -1,7 +1,7 @@
 ---
 layout          : blocks/page-participant
 title           : Tamer Elzayyat
-type            : participant
+type            : participant-remote
 time            :
 expenses        : owasp
 funded          : no

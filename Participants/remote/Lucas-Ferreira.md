@@ -1,7 +1,7 @@
 ---
 layout          : blocks/page-participant
 title           : Lucas Ferreira
-type            : participant
+type            : participant-remote
 time            : vacation
 job-title       : Unit Head
 travel-from     : Vienna

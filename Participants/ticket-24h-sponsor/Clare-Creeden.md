@@ -1,16 +1,16 @@
 ---
 layout          : blocks/page-participant
-title           : PhotoBox (4th)
+title           : Clare Creeden
 type            : participant
-job-title       :Riks Analyst
+job-title       : Project Manager
 company         : PhotoBox Group
-travel-from     :London
+travel-from     : London
 image           :
 linkedin        :
 twiter          :
 facebook        :
 website         :
-email           :dilek.koluman@photobox.com
+email           : clare.creeden@photobox.com 
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h

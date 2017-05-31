@@ -1,7 +1,7 @@
 ---
 layout          : blocks/page-participant
 title           : Nishi Kumar
-type            : participant
+type            : participant-remote
 time            : working
 travel-from     : Austin
 expenses        : owasp
