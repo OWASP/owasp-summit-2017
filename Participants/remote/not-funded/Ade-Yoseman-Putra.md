@@ -1,7 +1,7 @@
 ---
 layout          : blocks/page-participant
 title           : Ade Yoseman Putra
-type            : participant
+type            : participant-remote
 time            : Vacation
 expenses        : owasp
 funded          : no

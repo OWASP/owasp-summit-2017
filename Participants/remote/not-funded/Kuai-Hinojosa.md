@@ -1,7 +1,7 @@
 ---
 layout          : blocks/page-participant
 title           : Kuai Hinojosa
-type            : participant
+type            : participant-remote
 job-title       : Global Lead Engineer
 time            : vacation
 travel-from     : USA

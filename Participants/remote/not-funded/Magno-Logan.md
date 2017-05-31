@@ -1,7 +1,7 @@
 ---
 layout          : blocks/page-participant
 title           : Magno Logan
-type            : participant
+type            : participant-remote
 job-title       : Systems and Network Security Specialist
 travel-from     : Brazil
 expenses        : owasp

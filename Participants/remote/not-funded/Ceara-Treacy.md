@@ -1,7 +1,7 @@
 ---
 layout          : blocks/page-participant
 title           : Ceara Treacy
-type            : participant
+type            : participant-remote
 time            : Research
 expenses        : owasp
 funded          : no

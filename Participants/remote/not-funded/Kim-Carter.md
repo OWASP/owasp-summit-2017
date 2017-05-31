@@ -1,7 +1,7 @@
 ---
 layout          : blocks/page-participant
 title           : Kim Carter
-type            : participant
+type            : participant-remote
 travel-from     :
 expenses        : owasp
 funded          : no

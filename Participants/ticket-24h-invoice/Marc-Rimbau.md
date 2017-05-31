@@ -4,7 +4,7 @@ title           : Marc Rimbau
 type            : participant
 job-title       :
 company         : Axa Assistance
-travel-from     :
+travel-from     : Spain
 image           :
 linkedin        :
 twiter          :
