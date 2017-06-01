@@ -36,3 +36,11 @@ This session will be about the various sub-projects in the project, including:
 ## Who
 
 Whether you're already in the gaming space doing security, or you're just a security person who games, or even a security person who doesn't game, we would love to get your insight into the project and help it along in its evolution.
+
+## The Definition of Done
+
+1. We get each section of the project (sub-projects) to a working state that participants agree are a solid starting point.
+2. We have a committed project leader for each sub-project, and we have next steps for each of these.
+3. We have plan for spreading the word about the project and its sub-projects to the world.
+4. We have an interaction plan for reaching out to other IoT project leaders for cooperation.
+5. We have an outline for one-pagers for the Attack Surfaces and Top Vulnerabilities that can be used as quick-look guidelines for developers.
