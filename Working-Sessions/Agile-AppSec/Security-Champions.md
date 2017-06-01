@@ -26,15 +26,21 @@ The main purpose of this working session is to discuss the role of Security Cham
 
 ## What
 
- - How to define Security Champions role, responsibilities and [OKR](https://en.wikipedia.org/wiki/OKR)
+ - How to define Security Champions' roles, responsibilities, and [OKR](https://en.wikipedia.org/wiki/OKR)
  - How to create a network of Security Champions
  - Forum for Security Champions to share their experiences
  - The importance of being supported by the corporate Security Policy
  - How to 'create' Security Champions? 
  - How to reward Security Champions?
  - Do Security Champions have a path into Application Security profession?
- - Is being a Security Champions worth including in your LinkedIn profile?
- - What is the Security Champion's role in Threat Modeling?
+ - Is being a Security Champion worth including in your LinkedIn profile?
+ - What is the Security Champion's role in Threat Modelling?
+ 
+## Definition of Done
+
+- Agreed definition of security champions' roles, responsibilities, and OKR
+- Agreed structure to help companies create networks of security champions
+- Creation of a forum for security champions
 
 ## Who
 
