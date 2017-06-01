@@ -287,26 +287,56 @@
           }
         ]
       },
-      "no-location": {
-        "no-time": [
+      "Room-3": {
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "Define Agile Security Practices",
+            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
+            "track": "Agile AppSec",
+            "locked": false
+          }
+        ]
+      },
+      "Room-4": {
+        "AM-1": [
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
             "track": "DevSecOps",
             "locked": false
-          },
+          }
+        ]
+      },
+      "Room-5": {
+        "PM-1": [
+          {
+            "name": "Create Jira Workflows for Security Playbooks",
+            "url": "/Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html",
+            "track": "Security Playbooks",
+            "locked": false
+          }
+        ]
+      },
+      "Room-6": {
+        "AM-1": [
           {
             "name": "Creating AppSec Talent (next 100k professionals)",
             "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html",
             "track": "Education",
             "locked": false
-          },
+          }
+        ]
+      },
+      "no-location": {
+        "no-time": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
@@ -418,26 +448,6 @@
           {
             "name": "Using Security Risks to Measure Agile Practices",
             "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html",
-            "track": "Agile AppSec",
-            "locked": false
-          }
-        ]
-      },
-      "Room-5": {
-        "PM-1": [
-          {
-            "name": "Create Jira Workflows for Security Playbooks",
-            "url": "/Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html",
-            "track": "Security Playbooks",
-            "locked": false
-          }
-        ]
-      },
-      "Room-3": {
-        "AM-1": [
-          {
-            "name": "Define Agile Security Practices",
-            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
             "track": "Agile AppSec",
             "locked": false
           }
@@ -1203,11 +1213,11 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -1364,25 +1374,29 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "participating",
             "status": "review-content",
             "track": "DevSecOps",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
@@ -1672,13 +1686,11 @@
             "status": "review-content",
             "track": "Owasp Top 10 2017",
             "locked": false
-          }
-        ],
-        "no-time": [
+          },
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "participating",
             "status": "review-content",
             "track": "DevSecOps",
@@ -1859,6 +1871,15 @@
             "locked": false
           },
           {
+            "name": "Creating AppSec Talent (next 100k professionals)",
+            "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Education",
+            "locked": false
+          },
+          {
             "name": "Define Agile Security Practices",
             "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
             "location": "Room-3",
@@ -1869,15 +1890,6 @@
           }
         ],
         "no-time": [
-          {
-            "name": "Creating AppSec Talent (next 100k professionals)",
-            "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Education",
-            "locked": false
-          },
           {
             "name": "Recruiting AppSec Talent",
             "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html",
@@ -1982,13 +1994,11 @@
             "status": "review-content",
             "track": "Owasp Top 10 2017",
             "locked": false
-          }
-        ],
-        "no-time": [
+          },
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -2137,18 +2147,18 @@
             "status": "review-content",
             "track": "Owasp Top 10 2017",
             "locked": false
-          }
-        ],
-        "no-time": [
+          },
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
@@ -2808,16 +2818,29 @@
     },
     "David Clarke": {
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "organizing",
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "Define Agile Security Practices",
+            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
+            "location": "Room-3",
+            "mode": "organizing",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          }
+        ],
+        "no-time": [
           {
             "name": "Integrating Security into a Portfolio Kanban",
             "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
@@ -2831,17 +2854,6 @@
             "name": "Using Security Risks to Measure Agile Practices",
             "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html",
             "location": "no-location",
-            "mode": "organizing",
-            "status": "review-content",
-            "track": "Agile AppSec",
-            "locked": false
-          }
-        ],
-        "AM-1": [
-          {
-            "name": "Define Agile Security Practices",
-            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
-            "location": "Room-3",
             "mode": "organizing",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -2900,16 +2912,29 @@
     },
     "Ante Gulam": {
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "Define Agile Security Practices",
+            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          }
+        ],
+        "no-time": [
           {
             "name": "Integrating Security into a Portfolio Kanban",
             "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
@@ -2923,17 +2948,6 @@
             "name": "Using Security Risks to Measure Agile Practices",
             "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html",
             "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec",
-            "locked": false
-          }
-        ],
-        "AM-1": [
-          {
-            "name": "Define Agile Security Practices",
-            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
-            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -3045,25 +3059,27 @@
     },
     "Avi Douglen": {
       "Tue": {
+        "PM-1": [
+          {
+            "name": "Agile Practices for Security Teams",
+            "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          },
+          {
+            "name": "Agile Practices for Security Teams",
+            "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          }
+        ],
         "no-time": [
-          {
-            "name": "Agile Practices for Security Teams",
-            "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec",
-            "locked": false
-          },
-          {
-            "name": "Agile Practices for Security Teams",
-            "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec",
-            "locked": false
-          },
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
@@ -3360,16 +3376,38 @@
     },
     "Irene Michlin": {
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
           },
+          {
+            "name": "Create Jira Workflows for Security Playbooks",
+            "url": "/Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html",
+            "location": "Room-5",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Security Playbooks",
+            "locked": false
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "Define Agile Security Practices",
+            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          }
+        ],
+        "no-time": [
           {
             "name": "Integrating Security into a Portfolio Kanban",
             "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
@@ -3419,28 +3457,6 @@
             "name": "Using Security Risks to Measure Agile Practices",
             "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html",
             "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec",
-            "locked": false
-          }
-        ],
-        "PM-1": [
-          {
-            "name": "Create Jira Workflows for Security Playbooks",
-            "url": "/Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html",
-            "location": "Room-5",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Security Playbooks",
-            "locked": false
-          }
-        ],
-        "AM-1": [
-          {
-            "name": "Define Agile Security Practices",
-            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
-            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -3530,16 +3546,29 @@
     },
     "Mamta Vuppu": {
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "Define Agile Security Practices",
+            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          }
+        ],
+        "no-time": [
           {
             "name": "Integrating Security into a Portfolio Kanban",
             "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
@@ -3562,17 +3591,6 @@
             "name": "Using Security Risks to Measure Agile Practices",
             "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html",
             "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec",
-            "locked": false
-          }
-        ],
-        "AM-1": [
-          {
-            "name": "Define Agile Security Practices",
-            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
-            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -3631,11 +3649,11 @@
     },
     "Phil Parker": {
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -3659,20 +3677,22 @@
     },
     "Fraser Scott": {
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "participating",
             "status": "review-content",
             "track": "DevSecOps",
@@ -3681,7 +3701,7 @@
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "participating",
             "status": "review-content",
             "track": "DevSecOps",
@@ -3793,29 +3813,11 @@
     },
     "Rahul Raghavan": {
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec",
-            "locked": false
-          },
-          {
-            "name": "BDD for Cloud Security",
-            "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "DevSecOps",
-            "locked": false
-          },
-          {
-            "name": "Using Security Risks to Measure Agile Practices",
-            "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -3824,9 +3826,29 @@
         ],
         "AM-1": [
           {
+            "name": "BDD for Cloud Security",
+            "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
+            "location": "Room-4",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "DevSecOps",
+            "locked": false
+          },
+          {
             "name": "Define Agile Security Practices",
             "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
             "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          }
+        ],
+        "no-time": [
+          {
+            "name": "Using Security Risks to Measure Agile Practices",
+            "url": "/Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html",
+            "location": "no-location",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
@@ -3863,16 +3885,29 @@
     },
     "Victor Vidigal Ribeiro": {
       "Tue": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Agile Practices for Security Teams",
             "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "Define Agile Security Practices",
+            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          }
+        ],
+        "no-time": [
           {
             "name": "Integrating Security into a Portfolio Kanban",
             "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
@@ -3898,17 +3933,6 @@
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model",
-            "locked": false
-          }
-        ],
-        "AM-1": [
-          {
-            "name": "Define Agile Security Practices",
-            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
-            "location": "Room-3",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec",
             "locked": false
           }
         ]
@@ -4158,16 +4182,29 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "participating",
             "status": "review-content",
             "track": "DevSecOps",
             "locked": false
-          },
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Implications of Owasp Top 10 2017",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
+        "no-time": [
           {
             "name": "Responsible Disclosure",
             "url": "/Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html",
@@ -4202,17 +4239,6 @@
             "mode": "participating",
             "status": "featured",
             "track": "Threat Model",
-            "locked": false
-          }
-        ],
-        "PM-3": [
-          {
-            "name": "Implications of Owasp Top 10 2017",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
-            "location": "Room-2",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Owasp Top 10 2017",
             "locked": false
           }
         ]
@@ -4849,11 +4875,11 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "participating",
             "status": "review-content",
             "track": "DevSecOps",
@@ -5512,16 +5538,18 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "Creating AppSec Talent (next 100k professionals)",
             "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
@@ -5653,16 +5681,18 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "Creating AppSec Talent (next 100k professionals)",
             "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Recruiting AppSec Talent",
             "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html",
@@ -6407,11 +6437,11 @@
     },
     "Stephen de Vries": {
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "organizing",
             "status": "review-content",
             "track": "DevSecOps",
@@ -6420,12 +6450,14 @@
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "participating",
             "status": "review-content",
             "track": "DevSecOps",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -6471,11 +6503,11 @@
     },
     "Neil Barlow": {
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "BDD for Cloud Security",
             "url": "/Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html",
-            "location": "no-location",
+            "location": "Room-4",
             "mode": "participating",
             "status": "review-content",
             "track": "DevSecOps",

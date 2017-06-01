@@ -347,6 +347,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "PM-1",
+      "location": "Room-3",
       "organizers": [
         "David Clarke"
       ],
@@ -973,6 +975,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "AM-1",
+      "location": "Room-4",
       "organizers": [
         "Stephen de Vries"
       ],
@@ -1727,6 +1731,8 @@
       ],
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "AM-1",
+      "location": "Room-6",
       "participants": [
         "Chris Cooper",
         "Devesh Bhatt",
@@ -1945,6 +1951,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "PM-3",
+      "location": "Room-6",
       "organizers": [],
       "participants": [
         "Jason Haddix",

@@ -8,6 +8,8 @@ technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
 status       : review-content
 when-day     : Tue
+when-time    : AM-1
+location     : Room-6
 participants :
 organizers   :
 ---
