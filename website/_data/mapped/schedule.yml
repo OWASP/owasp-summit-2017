@@ -249,10 +249,6 @@ by_Day:
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
           track: Education
           locked: false
-        - name: Draft SAMM2 - the "DevOps release"
-          url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          track: OwaspSAMM
-          locked: false
         - name: Include OWASP projects as resources for the SAMM practices
           url: >-
             /Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html
@@ -320,6 +316,12 @@ by_Day:
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           track: Agile AppSec
+          locked: false
+    Villa-1:
+      AM-1:
+        - name: Draft SAMM2 - the "DevOps release"
+          url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
+          track: OwaspSAMM
           locked: false
   Thu:
     Room-4:
@@ -2267,13 +2269,6 @@ by_Participant:
           status: review-content
           track: Education
           locked: false
-        - name: Draft SAMM2 - the "DevOps release"
-          url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
-          mode: participating
-          status: draft
-          track: OwaspSAMM
-          locked: false
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
@@ -2332,6 +2327,14 @@ by_Participant:
           mode: participating
           status: featured
           track: Threat Model
+          locked: false
+      AM-1:
+        - name: Draft SAMM2 - the "DevOps release"
+          url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
+          location: Villa-1
+          mode: participating
+          status: draft
+          track: OwaspSAMM
           locked: false
       PM-3:
         - name: Implications of Owasp Top 10 2017
@@ -3346,20 +3349,13 @@ by_Participant:
           track: Owasp Projects
           locked: false
     Tue:
-      no-time:
+      AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
+          location: Villa-1
           mode: participating
           status: draft
           track: OwaspSAMM
-          locked: false
-        - name: Testing Guide v5
-          url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Owasp Projects
           locked: false
       PM-3:
         - name: Implications of Owasp Top 10 2017
@@ -3369,6 +3365,14 @@ by_Participant:
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
+          locked: false
+      no-time:
+        - name: Testing Guide v5
+          url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Owasp Projects
           locked: false
   Don Gibson:
     Thu:
@@ -3890,14 +3894,15 @@ by_Participant:
           track: DevSecOps
           locked: false
     Tue:
-      no-time:
+      AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
+          location: Villa-1
           mode: participating
           status: draft
           track: OwaspSAMM
           locked: false
+      no-time:
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
@@ -4372,10 +4377,10 @@ by_Participant:
           track: CISO
           locked: false
     Tue:
-      no-time:
+      AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
+          location: Villa-1
           mode: participating
           status: draft
           track: OwaspSAMM
@@ -4569,14 +4574,24 @@ by_Participant:
           track: DevSecOps
           locked: false
     Tue:
-      no-time:
+      AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
+          location: Villa-1
           mode: participating
           status: draft
           track: OwaspSAMM
           locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
+          locked: false
+      no-time:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
@@ -4598,15 +4613,6 @@ by_Participant:
           mode: participating
           status: draft
           track: OwaspSAMM
-          locked: false
-      PM-3:
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: Room-2
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
           locked: false
     Fri:
       no-time:
@@ -5279,10 +5285,10 @@ by_Participant:
           track: Owasp Top 10 2017
           locked: false
     Tue:
-      no-time:
+      AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
+          location: Villa-1
           mode: participating
           status: draft
           track: OwaspSAMM
@@ -5332,14 +5338,14 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
-      no-time:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
+          location: Villa-1
           mode: participating
           status: draft
           track: OwaspSAMM
           locked: false
+      no-time:
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
@@ -5384,14 +5390,15 @@ by_Participant:
           locked: false
   Sebastien Deleersnyder:
     Tue:
-      no-time:
+      AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
+          location: Villa-1
           mode: organizing
           status: draft
           track: OwaspSAMM
           locked: false
+      no-time:
         - name: Include OWASP projects as resources for the SAMM practices
           url: >-
             /Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html
@@ -5425,14 +5432,15 @@ by_Participant:
           locked: false
   Viktor Lindstrom:
     Tue:
-      no-time:
+      AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: no-location
+          location: Villa-1
           mode: participating
           status: draft
           track: OwaspSAMM
           locked: false
+      no-time:
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
