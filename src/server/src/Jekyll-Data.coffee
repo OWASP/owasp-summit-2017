@@ -20,9 +20,9 @@ class Jekyll_Data
     @.file_Json_Working_Sessions  = @.folder_Data_Mapped.path_Combine 'working-sessions.json'
     @.file_Yaml_Working_Sessions  = @.folder_Data_Mapped.path_Combine 'working-sessions.yml'
 
-    @.participants_Data     = @.file_Json_Participants    .load_Json()                              # cache these for faster access to their data
-    @.working_Sessions_Data = @.file_Json_Working_Sessions.load_Json()                              # todo: there are a couple race conditions related to the sequence of load and cross mappings
-    @.topics_Data           = @.file_Json_Topics          .load_Json()
+    @.participants_Data           = @.file_Json_Participants    .load_Json()                        # cache these for faster access to their data
+    @.working_Sessions_Data       = @.file_Json_Working_Sessions.load_Json()                        # todo: there are a couple race conditions related to the sequence of load and cross mappings
+    @.topics_Data                 = @.file_Json_Topics          .load_Json()
 
   map_Participant_Raw_Data: (raw_Data)->
     data         = {}                                                                               # where we are going to store the mapped data
@@ -179,7 +179,7 @@ class Jekyll_Data
       data[name] =
         name        : name
         url         : url
-        topics      : @.resolve_Topics  metadata.topics       || []    # change to topics after refactoing of content mappings
+        topics      : @.resolve_Topics  metadata.topics       || []    # change to topics after refactoring of content mappings
         organizers  : @.resolve_Names   metadata.organizers   || []
         participants: @.resolve_Names   @.resolve_Participants_XRef(metadata.participants || [], name)
         'related-to': @.resolve_Working_Sessions @.resolve_Related_To name
