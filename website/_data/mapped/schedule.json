@@ -756,92 +756,62 @@
     },
     "Mon": {
       "Room-1": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Cheat Sheets",
             "url": "/Working-Sessions/Owasp-Projects/Cheatsheets.html",
             "track": "Owasp Projects"
+          },
+          {
+            "name": "Security Guild vs Security Champions",
+            "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
+            "track": "Agile AppSec"
           }
         ],
+        "PM-1": [
+          {
+            "name": "TLS for Local IoT",
+            "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
+            "track": "DevSecOps"
+          }
+        ]
+      },
+      "Room-5": {
         "PM-1": [
           {
             "name": "Create Jira Workflows for Security Playbooks",
             "url": "/Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html",
             "track": "Security Playbooks"
           }
-        ]
-      },
-      "no-location": {
-        "no-time": [
-          {
-            "name": "Data behind Owasp Top 10 2017",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "track": "Owasp Top 10 2017"
-          },
-          {
-            "name": "Dependency Check",
-            "url": "/Working-Sessions/Owasp-Projects/Dependency-Check.html",
-            "track": "Owasp Projects"
-          },
-          {
-            "name": "GitHub Organization Reboot",
-            "url": "/Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html",
-            "track": "Owasp Projects"
-          },
-          {
-            "name": "Is the Owasp Top 10 Data Collection Open",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
-            "track": "Owasp Top 10 2017"
-          },
-          {
-            "name": "Juice Shop",
-            "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "track": "Owasp Projects"
-          },
+        ],
+        "PM-2": [
           {
             "name": "Playbooks Common Format",
             "url": "/Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html",
             "track": "Security Playbooks"
-          },
+          }
+        ],
+        "PM-3": [
           {
             "name": "Playbooks vs Handbooks",
             "url": "/Working-Sessions/Security-Playbooks/Playbooks-vs-Handbooks.html",
             "track": "Security Playbooks"
-          },
-          {
-            "name": "Recommending ESAPI in Top 10",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html",
-            "track": "Owasp Top 10 2017"
-          },
-          {
-            "name": "Security Guild vs Security Champions",
-            "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
-            "track": "Agile AppSec"
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "Security Playbooks Diagrams",
             "url": "/Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html",
             "track": "Security Playbooks"
-          },
+          }
+        ]
+      },
+      "Room-2": {
+        "PM-3": [
           {
-            "name": "TLS for Local IoT",
-            "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
-            "track": "DevSecOps"
-          },
-          {
-            "name": "Threat Modeling Diagramming Techniques",
-            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
-            "track": "Threat Model"
-          },
-          {
-            "name": "Threat Modeling Schema",
-            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Schema.html",
-            "track": "Threat Model"
-          },
-          {
-            "name": "Threat Modeling Tools",
-            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "track": "Threat Model"
+            "name": "Data behind Owasp Top 10 2017",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
+            "track": "Owasp Top 10 2017"
           },
           {
             "name": "Top 10 Selection Criteria",
@@ -849,32 +819,18 @@
             "track": "Owasp Top 10 2017"
           }
         ],
-        "AM-1": [
-          {
-            "name": "MSTG Book Sprint - Mobile Operating Systems",
-            "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "track": "Mobile Security"
-          }
-        ],
         "PM-1": [
           {
-            "name": "MSTG Book Sprint - Mobile Operating Systems",
-            "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "track": "Mobile Security"
+            "name": "Is the Owasp Top 10 Data Collection Open",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
+            "track": "Owasp Top 10 2017"
           }
         ],
         "PM-2": [
           {
-            "name": "MSTG Book Sprint - Mobile Operating Systems",
-            "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "track": "Mobile Security"
-          }
-        ],
-        "PM3": [
-          {
-            "name": "MSTG Book Sprint - Mobile Operating Systems",
-            "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "track": "Mobile Security"
+            "name": "Recommending ESAPI in Top 10",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html",
+            "track": "Owasp Top 10 2017"
           }
         ]
       },
@@ -885,18 +841,34 @@
             "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
             "track": "Agile AppSec"
           }
+        ],
+        "PM-1": [
+          {
+            "name": "Dependency Check",
+            "url": "/Working-Sessions/Owasp-Projects/Dependency-Check.html",
+            "track": "Owasp Projects"
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "GitHub Organization Reboot",
+            "url": "/Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html",
+            "track": "Owasp Projects"
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Juice Shop",
+            "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
+            "track": "Owasp Projects"
+          }
         ]
       },
       "Room-4": {
-        "PM-3": [
+        "AM-1": [
           {
             "name": "GDPR and DPO AppSec implications",
             "url": "/Working-Sessions/CISO/GDRP-DPO-and-AppSec.html",
-            "track": "CISO"
-          },
-          {
-            "name": "Mobilising Business Lines for Security",
-            "url": "/Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html",
             "track": "CISO"
           }
         ],
@@ -905,6 +877,66 @@
             "name": "Growing the AppSec Industry",
             "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html",
             "track": "CISO"
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Mobilising Business Lines for Security",
+            "url": "/Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html",
+            "track": "CISO"
+          }
+        ]
+      },
+      "Villa-1": {
+        "AM-1": [
+          {
+            "name": "MSTG Book Sprint - Mobile Operating Systems",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
+            "track": "Mobile Security"
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Mobile Operating Systems",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
+            "track": "Mobile Security"
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Mobile Operating Systems",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
+            "track": "Mobile Security"
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Mobile Operating Systems",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
+            "track": "Mobile Security"
+          }
+        ]
+      },
+      "Room-6": {
+        "PM-1": [
+          {
+            "name": "Threat Modeling Diagramming Techniques",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
+            "track": "Threat Model"
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "Threat Modeling Schema",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Schema.html",
+            "track": "Threat Model"
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Threat Modeling Tools",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
+            "track": "Threat Model"
           }
         ]
       }
@@ -1199,11 +1231,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Juice Shop",
             "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Projects"
@@ -1265,37 +1297,41 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Owasp Top 10 2017"
           },
           {
-            "name": "Is the Owasp Top 10 Data Collection Open",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
-            "location": "no-location",
+            "name": "Top 10 Selection Criteria",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html",
+            "location": "Room-2",
             "mode": "organizing",
             "status": "review-content",
             "track": "Owasp Top 10 2017"
-          },
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "Is the Owasp Top 10 Data Collection Open",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
+            "location": "Room-2",
+            "mode": "organizing",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017"
+          }
+        ],
+        "PM-2": [
           {
             "name": "Recommending ESAPI in Top 10",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "organizing",
             "status": "draft",
-            "track": "Owasp Top 10 2017"
-          },
-          {
-            "name": "Top 10 Selection Criteria",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html",
-            "location": "no-location",
-            "mode": "organizing",
-            "status": "review-content",
             "track": "Owasp Top 10 2017"
           }
         ]
@@ -1343,11 +1379,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -1447,7 +1483,7 @@
         ]
       },
       "Mon": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Cheat Sheets",
             "url": "/Working-Sessions/Owasp-Projects/Cheatsheets.html",
@@ -1457,11 +1493,11 @@
             "track": "Owasp Projects"
           }
         ],
-        "no-time": [
+        "PM-1": [
           {
             "name": "Dependency Check",
             "url": "/Working-Sessions/Owasp-Projects/Dependency-Check.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "more-content",
             "track": "Owasp Projects"
@@ -1469,15 +1505,17 @@
           {
             "name": "TLS for Local IoT",
             "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "done",
             "track": "DevSecOps"
-          },
+          }
+        ],
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -1937,11 +1975,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -1949,7 +1987,7 @@
           {
             "name": "Juice Shop",
             "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Projects"
@@ -1957,13 +1995,13 @@
           {
             "name": "Top 10 Selection Criteria",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "review-content",
             "track": "Owasp Top 10 2017"
           }
         ],
-        "PM-3": [
+        "AM-1": [
           {
             "name": "GDPR and DPO AppSec implications",
             "url": "/Working-Sessions/CISO/GDRP-DPO-and-AppSec.html",
@@ -2097,19 +2135,21 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
-          },
+          }
+        ],
+        "PM-1": [
           {
             "name": "Is the Owasp Top 10 Data Collection Open",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "review-content",
             "track": "Owasp Top 10 2017"
@@ -2175,19 +2215,21 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
-          },
+          }
+        ],
+        "PM-1": [
           {
             "name": "Is the Owasp Top 10 Data Collection Open",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "review-content",
             "track": "Owasp Top 10 2017"
@@ -2349,7 +2391,7 @@
         ]
       },
       "Mon": {
-        "PM-3": [
+        "AM-1": [
           {
             "name": "GDPR and DPO AppSec implications",
             "url": "/Working-Sessions/CISO/GDRP-DPO-and-AppSec.html",
@@ -2357,6 +2399,16 @@
             "mode": "participating",
             "status": "review-content",
             "track": "CISO"
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Juice Shop",
+            "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Owasp Projects"
           },
           {
             "name": "Mobilising Business Lines for Security",
@@ -2365,16 +2417,6 @@
             "mode": "participating",
             "status": "review-content",
             "track": "CISO"
-          }
-        ],
-        "no-time": [
-          {
-            "name": "Juice Shop",
-            "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "featured",
-            "track": "Owasp Projects"
           }
         ]
       },
@@ -2443,11 +2485,11 @@
             "track": "Agile AppSec"
           }
         ],
-        "no-time": [
+        "PM-2": [
           {
             "name": "Security Guild vs Security Champions",
             "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "organizing",
             "status": "review-content",
             "track": "Agile AppSec"
@@ -2607,11 +2649,11 @@
             "track": "CISO"
           }
         ],
-        "no-time": [
+        "PM-2": [
           {
             "name": "Security Guild vs Security Champions",
             "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec"
@@ -2879,19 +2921,21 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Threat Modeling Diagramming Techniques",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "draft",
             "track": "Threat Model"
-          },
+          }
+        ],
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -2965,7 +3009,7 @@
           {
             "name": "Create Jira Workflows for Security Playbooks",
             "url": "/Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html",
-            "location": "Room-1",
+            "location": "Room-5",
             "mode": "participating",
             "status": "review-content",
             "track": "Security Playbooks"
@@ -2981,11 +3025,11 @@
             "track": "Agile AppSec"
           }
         ],
-        "no-time": [
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -3101,11 +3145,11 @@
             "track": "Agile AppSec"
           }
         ],
-        "no-time": [
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -3159,7 +3203,7 @@
         ]
       },
       "Mon": {
-        "PM-3": [
+        "AM-1": [
           {
             "name": "GDPR and DPO AppSec implications",
             "url": "/Working-Sessions/CISO/GDRP-DPO-and-AppSec.html",
@@ -3281,11 +3325,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -3397,11 +3441,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -3409,23 +3453,15 @@
           {
             "name": "Juice Shop",
             "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Projects"
           },
           {
-            "name": "Threat Modeling Diagramming Techniques",
-            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "draft",
-            "track": "Threat Model"
-          },
-          {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -3439,6 +3475,16 @@
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec"
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "Threat Modeling Diagramming Techniques",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "draft",
+            "track": "Threat Model"
           }
         ]
       },
@@ -3701,11 +3747,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -3713,29 +3759,13 @@
           {
             "name": "Juice Shop",
             "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Projects"
-          },
-          {
-            "name": "Security Guild vs Security Champions",
-            "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec"
-          },
-          {
-            "name": "TLS for Local IoT",
-            "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "done",
-            "track": "DevSecOps"
           }
         ],
-        "PM-3": [
+        "AM-1": [
           {
             "name": "GDPR and DPO AppSec implications",
             "url": "/Working-Sessions/CISO/GDRP-DPO-and-AppSec.html",
@@ -3743,6 +3773,26 @@
             "mode": "participating",
             "status": "review-content",
             "track": "CISO"
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "Security Guild vs Security Champions",
+            "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec"
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "TLS for Local IoT",
+            "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "done",
+            "track": "DevSecOps"
           }
         ]
       },
@@ -3837,7 +3887,7 @@
         ]
       },
       "Mon": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Cheat Sheets",
             "url": "/Working-Sessions/Owasp-Projects/Cheatsheets.html",
@@ -3847,11 +3897,11 @@
             "track": "Owasp Projects"
           }
         ],
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -3859,7 +3909,7 @@
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -4173,19 +4223,21 @@
             "track": "Agile AppSec"
           }
         ],
-        "no-time": [
+        "PM-2": [
           {
             "name": "Security Guild vs Security Champions",
             "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec"
-          },
+          }
+        ],
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -4349,30 +4401,32 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
           },
           {
-            "name": "GitHub Organization Reboot",
-            "url": "/Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "featured",
-            "track": "Owasp Projects"
-          },
-          {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "GitHub Organization Reboot",
+            "url": "/Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Owasp Projects"
           }
         ]
       },
@@ -4491,11 +4545,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -4639,11 +4693,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Juice Shop",
             "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Projects"
@@ -4757,19 +4811,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-2": [
           {
             "name": "GitHub Organization Reboot",
             "url": "/Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html",
-            "location": "no-location",
-            "mode": "organizing",
-            "status": "featured",
-            "track": "Owasp Projects"
-          },
-          {
-            "name": "Juice Shop",
-            "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "organizing",
             "status": "featured",
             "track": "Owasp Projects"
@@ -4777,10 +4823,20 @@
           {
             "name": "Security Guild vs Security Champions",
             "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec"
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Juice Shop",
+            "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
+            "location": "Room-3",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Owasp Projects"
           }
         ]
       },
@@ -4881,11 +4937,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "TLS for Local IoT",
             "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "done",
             "track": "DevSecOps"
@@ -4893,15 +4949,17 @@
           {
             "name": "Threat Modeling Diagramming Techniques",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "draft",
             "track": "Threat Model"
-          },
+          }
+        ],
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -5081,11 +5139,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -5093,7 +5151,7 @@
           {
             "name": "Juice Shop",
             "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Projects"
@@ -5207,13 +5265,11 @@
             "mode": "organizing",
             "status": "review-content",
             "track": "CISO"
-          }
-        ],
-        "no-time": [
+          },
           {
             "name": "Playbooks Common Format",
             "url": "/Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html",
-            "location": "no-location",
+            "location": "Room-5",
             "mode": "participating",
             "status": "improve-content",
             "track": "Security Playbooks"
@@ -5311,11 +5367,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Threat Modeling Diagramming Techniques",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "draft",
             "track": "Threat Model"
@@ -5411,7 +5467,7 @@
         ]
       },
       "Mon": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Cheat Sheets",
             "url": "/Working-Sessions/Owasp-Projects/Cheatsheets.html",
@@ -5553,7 +5609,7 @@
         ]
       },
       "Mon": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Cheat Sheets",
             "url": "/Working-Sessions/Owasp-Projects/Cheatsheets.html",
@@ -5701,11 +5757,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -5833,11 +5889,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -5845,7 +5901,7 @@
           {
             "name": "Juice Shop",
             "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Projects"
@@ -5853,7 +5909,7 @@
           {
             "name": "Top 10 Selection Criteria",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "review-content",
             "track": "Owasp Top 10 2017"
@@ -6109,11 +6165,11 @@
     },
     "Claudia Casanovas": {
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -6135,11 +6191,11 @@
     },
     "Brian Glas": {
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -6161,11 +6217,11 @@
     },
     "Anant Shrivastava": {
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
@@ -6175,19 +6231,21 @@
     },
     "Jason Li": {
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
-          },
+          }
+        ],
+        "PM-2": [
           {
             "name": "Threat Modeling Schema",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Schema.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "draft",
             "track": "Threat Model"
@@ -6277,27 +6335,19 @@
     },
     "Kevin Greene": {
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Data behind Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Top 10 2017"
           },
           {
-            "name": "Is the Owasp Top 10 Data Collection Open",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Owasp Top 10 2017"
-          },
-          {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -6305,7 +6355,17 @@
           {
             "name": "Top 10 Selection Criteria",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html",
-            "location": "no-location",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017"
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "Is the Owasp Top 10 Data Collection Open",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html",
+            "location": "Room-2",
             "mode": "participating",
             "status": "review-content",
             "track": "Owasp Top 10 2017"
@@ -6373,9 +6433,7 @@
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec"
-          }
-        ],
-        "PM-3": [
+          },
           {
             "name": "GDPR and DPO AppSec implications",
             "url": "/Working-Sessions/CISO/GDRP-DPO-and-AppSec.html",
@@ -6429,11 +6487,11 @@
     },
     "Steve Springett": {
       "Mon": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "Dependency Check",
             "url": "/Working-Sessions/Owasp-Projects/Dependency-Check.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "organizing",
             "status": "more-content",
             "track": "Owasp Projects"
@@ -6631,11 +6689,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "TLS for Local IoT",
             "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "done",
             "track": "DevSecOps"
@@ -6671,11 +6729,11 @@
     },
     "Ade Yoseman Putra": {
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Juice Shop",
             "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html",
-            "location": "no-location",
+            "location": "Room-3",
             "mode": "participating",
             "status": "featured",
             "track": "Owasp Projects"
@@ -6717,11 +6775,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -6763,11 +6821,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Threat Modeling Tools",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model"
@@ -6805,7 +6863,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security"
@@ -6815,7 +6873,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security"
@@ -6825,17 +6883,17 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security"
           }
         ],
-        "PM3": [
+        "PM-3": [
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security"
@@ -6897,7 +6955,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security"
@@ -6907,7 +6965,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security"
@@ -6917,17 +6975,17 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security"
           }
         ],
-        "PM3": [
+        "PM-3": [
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security"
@@ -6991,7 +7049,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security"
@@ -7001,7 +7059,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security"
@@ -7011,17 +7069,17 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security"
           }
         ],
-        "PM3": [
+        "PM-3": [
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "no-location",
+            "location": "Villa-1",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security"
@@ -7067,11 +7125,11 @@
         ]
       },
       "Mon": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Top 10 Selection Criteria",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html",
-            "location": "no-location",
+            "location": "Room-2",
             "mode": "organizing",
             "status": "review-content",
             "track": "Owasp Top 10 2017"
@@ -7253,11 +7311,11 @@
     },
     "Duncan Hurwood": {
       "Mon": {
-        "no-time": [
+        "PM-2": [
           {
             "name": "Security Guild vs Security Champions",
             "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec"
@@ -7267,11 +7325,11 @@
     },
     "Kevin Sheldrake": {
       "Mon": {
-        "no-time": [
+        "PM-1": [
           {
             "name": "TLS for Local IoT",
             "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "organizing",
             "status": "done",
             "track": "DevSecOps"
@@ -7279,7 +7337,7 @@
           {
             "name": "TLS for Local IoT",
             "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "done",
             "track": "DevSecOps"

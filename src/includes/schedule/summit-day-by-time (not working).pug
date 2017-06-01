@@ -5,61 +5,55 @@ mixin show-session-at-time
     .track-info {{ time}} : {{ session.track }}
     | {% endfor                                     %}
 
-mixin show-room-day
-    | {% assign day_Data = site.data.mapped.schedule.by_Day[day][room] %}
-    | {% assign time = 'AM-1'  %}
-    + show-session-at-time
-    | {% assign time = 'PM-1'  %}
-    + show-session-at-time
-    | {% assign time = 'PM-2'  %}
-    + show-session-at-time
-    | {% assign time = 'PM-3'  %}
-    + show-session-at-time
-    | {% assign time = 'Eve'  %}
-    + show-session-at-time
-    | {% assign time = 'no-time'  %}
-    + show-session-at-time
-
 mixin show-room
+    | {% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
     td
         h4 {{ room }}
     td
-        | {% assign day = 'Mon'  %}
-        + show-room-day
+        + show-session-at-time
+        | {% assign time = 'AM-1'  %}
     td
-        | {% assign day = 'Tue'  %}
-        + show-room-day
+        + show-session-at-time
+        | {% assign time = 'PM-1'  %}
     td
-        | {% assign day = 'Wed'  %}
-        + show-room-day
+        + show-session-at-time
+        | {% assign time = 'PM-2'  %}
     td
-        | {% assign day = 'Thu'  %}
-        + show-room-day
+        + show-session-at-time
+        | {% assign time = 'PM-3'  %}
     td
-        | {% assign day = 'Fri'  %}
-        + show-room-day
+        + show-session-at-time
+        | {% assign time = 'Eve'  %}
+    td
+        + show-session-at-time
+        | {% assign time = 'no-time'  %}
+
 
 .page-content
     .container
         .schedule
-            h3 Summit schedule
-            p
-                a(href='/schedule') Back to schedule list
+            h3 {{ page.title }}
+                p
+                    a(href='/schedule') Back to schedule list
 
             table.table
                 thead
                     th.text-center
-                        h4 (location)
+                        h4 (room)
                     th.text-center
-                        h4 Monday
+                        h4 Room 1
                     th.text-center
-                        h4 Tuesday
+                        h4 Room 2
                     th.text-center
-                        h4 Wednesday
+                        h4 Room 3
                     th.text-center
-                        h4 Thursday
+                        h4 Room 4
                     th.text-center
-                        h4 Friday
+                        h4 Room 5
+                    th.text-center
+                        h4 Villa 1
+                    th.text-center
+                        h4 (no-location)
                 tr
                     | {% assign room = 'Room-1'  %}
                     + show-room

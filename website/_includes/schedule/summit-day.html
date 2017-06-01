@@ -1,0 +1,263 @@
+
+<div class="page-content">
+  <!--.container-->
+  <div class="schedule">
+    <h3>{{ page.title }}</h3>
+    <p><a href="/schedule">Back to schedule list</a></p>
+    <table class="table">
+      <thead>
+        <th class="text-center"></th>
+        <th class="text-center">
+          <h4>AM 1 (10:00-12:00)</h4>
+        </th>
+        <th class="text-center">
+          <h4>PM 1 (13:00-14:30)</h4>
+        </th>
+        <th class="text-center">
+          <h4>PM 2 (14:30:15:40)</h4>
+        </th>
+        <th class="text-center">
+          <h4>PM 3 (16:00:17:30)</h4>
+        </th>
+        <th class="text-center">
+          <h4>Evening (20:00-23:59)</h4>
+        </th>
+        <th class="text-center">
+          <h4>(no-time)</h4>
+        </th>
+      </thead>
+      <tr>{% assign room = 'Room-1'  %}{% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
+        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+      </tr>
+      <tr>{% assign room = 'Room-2'  %}{% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
+        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+      </tr>
+      <tr>{% assign room = 'Room-3'  %}{% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
+        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+      </tr>
+      <tr>{% assign room = 'Room-4'  %}{% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
+        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+      </tr>
+      <tr>{% assign room = 'Room-5'  %}{% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
+        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+      </tr>
+      <tr>{% assign room = 'Room-6'  %}{% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
+        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+      </tr>
+      <tr>{% assign room = 'Villa-1'  %}{% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
+        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+      </tr>
+      <tr>{% assign room = 'no-location'  %}{% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
+        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a></div>
+          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

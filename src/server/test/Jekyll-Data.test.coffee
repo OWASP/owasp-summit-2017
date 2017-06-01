@@ -1,6 +1,6 @@
 Jekyll_Data = require '../src/Jekyll-Data'
 
-describe 'Jekyll_Data', ->
+describe.only 'Jekyll_Data', ->
 
   jekyll_Data = null
 

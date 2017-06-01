@@ -1,3 +1,5 @@
+require 'fluentnode'
+
 browserSync = require('browser-sync').create();
 gulp        = require 'gulp'
 concat      = require 'gulp-concat'
@@ -7,7 +9,20 @@ notify      = require 'gulp-notify'
 shell       = require 'gulp-shell'
 
 
-gulp.task 'build', [], shell.task(['jekyll build --incremental'])
+gulp.task 'build'    , [], shell.task(['jekyll build --incremental'])
+
+
+gulp.task 'npm-tests', [], shell.task(['npm test'])
+
+#gulp.task 'npm-tests', [], (done)->
+#    console.log "starting npm"
+#    'npm'.start_Process_Redirect_Console 'test'
+#        .on 'exit', ()->
+#            console.log "----- npm finished"
+#            'jekyll'.start_Process_Redirect_Console 'clean'
+#                    .on 'exit', ()->
+#                        console.log "----- all done"
+#                        done()
 
 
 gulp.task 'pug', ()->
@@ -59,4 +74,5 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
 
     gulp.watch 'Logistics/**/*.md'            , ['reload-page']
     gulp.watch 'Participants/**/*.md'         , ['reload-page']
+    gulp.watch 'Working-Sessions/**/*.md'     , ['npm-tests', 'reload-page']
     gulp.watch 'Working-Sessions/**/*.md'     , ['reload-page']

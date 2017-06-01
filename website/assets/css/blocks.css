@@ -754,6 +754,7 @@
 
 .schedule {
   background-color: #f9f9f9;
+  padding: 10px;
 }
 .schedule table td a {
   font-size: 80%;

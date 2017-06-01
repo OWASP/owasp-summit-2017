@@ -1543,7 +1543,7 @@
       "track": "Owasp Projects",
       "status": "more-content",
       "when-day": "Mon",
-      "when-time": "AM-1",
+      "when-time": "PM-3",
       "location": "Room-1",
       "organizers": [],
       "participants": [
@@ -1658,7 +1658,7 @@
       "status": "review-content",
       "when-day": "Mon",
       "when-time": "PM-1",
-      "location": "Room-1",
+      "location": "Room-5",
       "organizers": [],
       "participants": [
         "Irene Michlin"
@@ -2143,6 +2143,8 @@
       "track": "Owasp Top 10 2017",
       "status": "featured",
       "when-day": "Mon",
+      "when-time": "PM-3",
+      "location": "Room-2",
       "organizers": [
         "Dave Wichers",
         "Johanna Curiel",
@@ -2296,6 +2298,8 @@
       "track": "Owasp Projects",
       "owasp-project": "yes",
       "when-day": "Mon",
+      "when-time": "PM-1",
+      "location": "Room-3",
       "participants": [
         "Johan Peeters"
       ],
@@ -2999,7 +3003,7 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
-      "when-time": "PM-3",
+      "when-time": "AM-1",
       "location": "Room-4",
       "organizers": [],
       "participants": [
@@ -3113,6 +3117,8 @@
       "status": "featured",
       "description": "The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them.",
       "when-day": "Mon",
+      "when-time": "PM-2",
+      "location": "Room-3",
       "organizers": [
         "Bjoern Kimminich"
       ],
@@ -3903,6 +3909,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-1",
+      "location": "Room-2",
       "organizers": [
         "Dave Wichers"
       ],
@@ -4078,6 +4086,8 @@
         "Bjoern Kimminich"
       ],
       "when-day": "Mon",
+      "when-time": "PM-3",
+      "location": "Room-3",
       "participants": [
         "Dinis Cruz",
         "Ingo Hanke",
@@ -4367,7 +4377,8 @@
       "technology": "Mobile",
       "status": "done",
       "when-day": "Mon",
-      "when-time": "AM-1,PM-1,PM-2,PM3",
+      "when-time": "AM-1,PM-1,PM-2,PM-3",
+      "location": "Villa-1",
       "description": "In this book sprint we produce content for the \"Mobile Operating Systems\" chapter of the Mobile Security Testing Guide.",
       "organizers": [
         "Bernhard Mueller",
@@ -5824,6 +5835,8 @@
       ],
       "status": "improve-content",
       "when-day": "Mon",
+      "when-time": "PM-2",
+      "location": "Room-5",
       "organizers": [],
       "participants": [
         "Yan Kravchenko"
@@ -5847,6 +5860,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-3",
+      "location": "Room-5",
       "organizers": [],
       "participants": [],
       "topics": []
@@ -5950,6 +5965,8 @@
       "related-to": [],
       "status": "draft",
       "when-day": "Mon",
+      "when-time": "PM-2",
+      "location": "Room-2",
       "organizers": [
         "Dave Wichers"
       ],
@@ -7038,6 +7055,8 @@
       ],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-2",
+      "location": "Room-1",
       "organizers": [
         "David Clarke"
       ],
@@ -7192,6 +7211,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "AM-1",
+      "location": "Room-5",
       "organizers": [],
       "participants": [],
       "topics": []
@@ -7378,6 +7399,8 @@
       "technology": "TLS,IoT",
       "status": "done",
       "when-day": "Mon",
+      "when-time": "PM-1",
+      "location": "Room-1",
       "organizers": [
         "Kevin Sheldrake"
       ],
@@ -7890,6 +7913,8 @@
       "related-to": [],
       "status": "draft",
       "when-day": "Mon",
+      "when-time": "PM-1",
+      "location": "Room-6",
       "organizers": [],
       "participants": [
         "Adam Shostack",
@@ -8080,6 +8105,8 @@
       "track": "Threat Model",
       "status": "draft",
       "when-day": "Mon",
+      "when-time": "PM-2",
+      "location": "Room-6",
       "organizers": [],
       "participants": [
         "Jason Li"
@@ -8292,6 +8319,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-3",
+      "location": "Room-6",
       "organizers": [],
       "participants": [
         "Geoff Hill",
@@ -8544,6 +8573,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-3",
+      "location": "Room-2",
       "organizers": [
         "Dave Wichers",
         "Josh Grossman"
