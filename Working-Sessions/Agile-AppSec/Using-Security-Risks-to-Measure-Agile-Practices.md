@@ -28,10 +28,15 @@ is that the less Agile a team is, the more risks it will have and the harder it 
  - What other metrics can be used to measure Agile Practices (outside risk)
  - How is this currently being tracked?
 
+## Definition of Done
+
+- Agreed list of risk metrics
+- Dashboards that visualise the data collected
+
 ## Who
 
 The target audience for this Working Session is:
 
 - Security professionals
-- CISO's
+- CISOs
 - Agile practitioners
