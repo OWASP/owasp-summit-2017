@@ -65,6 +65,8 @@ A10 - Underprotected APIs:
     related-to: []
     status: review-content
     when-day: Tue
+    when-time: AM-1
+    location: Room-2
     organizers:
       - Dave Wichers
       - Johanna Curiel
@@ -110,6 +112,8 @@ A7 - Insufficient Attack Protection:
     related-to: []
     status: review-content
     when-day: Tue
+    when-time: PM-1
+    location: Room-2
     organizers:
       - Dave Wichers
       - Johanna Curiel
@@ -2451,6 +2455,8 @@ Implications of Owasp Top 10 2017:
     track: Owasp Top 10 2017
     status: review-content
     when-day: Tue
+    when-time: PM-3
+    location: Room-2
     organizers:
       - Dave Wichers
     participants:
@@ -5190,7 +5196,7 @@ Security Playbooks Diagrams:
     related-to: []
     status: review-content
     when-day: Mon
-    when-time: PM-1
+    when-time: PM-2
     location: Room-5
     organizers: []
     participants: []
@@ -6561,6 +6567,8 @@ What Should be Added to the Top 10:
       - OWASP Proactive Controls
     status: review-content
     when-day: Tue
+    when-time: PM-2
+    location: Room-2
     organizers: []
     participants:
       - Katy Anton

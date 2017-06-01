@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Tue
+when-time    : AM-1
+location     : Room-2
 organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
 participants : Johan Peeters
 ---

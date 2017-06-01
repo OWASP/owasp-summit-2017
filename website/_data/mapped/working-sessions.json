@@ -97,6 +97,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "AM-1",
+      "location": "Room-2",
       "organizers": [
         "Dave Wichers",
         "Johanna Curiel",
@@ -162,6 +164,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "PM-1",
+      "location": "Room-2",
       "organizers": [
         "Dave Wichers",
         "Johanna Curiel",
@@ -3447,6 +3451,8 @@
       "track": "Owasp Top 10 2017",
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "PM-3",
+      "location": "Room-2",
       "organizers": [
         "Dave Wichers"
       ],
@@ -7211,7 +7217,7 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
-      "when-time": "PM-1",
+      "when-time": "PM-2",
       "location": "Room-5",
       "organizers": [],
       "participants": [],
@@ -9077,6 +9083,8 @@
       ],
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "PM-2",
+      "location": "Room-2",
       "organizers": [],
       "participants": [
         "Katy Anton",

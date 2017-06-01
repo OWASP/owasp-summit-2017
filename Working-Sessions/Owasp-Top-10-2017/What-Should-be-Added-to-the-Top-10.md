@@ -7,6 +7,8 @@ technology   :
 related-to   : OWASP Proactive Controls
 status       : review-content
 when-day     : Tue
+when-time    : PM-2
+location     : Room-2
 organizers   :
 participants : Katy Anton,Johan Peeters
 ---

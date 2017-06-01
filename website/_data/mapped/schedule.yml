@@ -182,17 +182,32 @@ by_Day:
           track: DevSecOps
           locked: false
   Tue:
-    no-location:
-      no-time:
+    Room-2:
+      AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
           track: Owasp Top 10 2017
           locked: false
+      PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
           track: Owasp Top 10 2017
           locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          track: Owasp Top 10 2017
+          locked: false
+      PM-2:
+        - name: What Should be Added to the Top 10
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
+          track: Owasp Top 10 2017
+          locked: false
+    no-location:
+      no-time:
         - name: Agile Practices for Security Teams
           url: >-
             /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
@@ -218,11 +233,6 @@ by_Day:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
           track: OwaspSAMM
-          locked: false
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          track: Owasp Top 10 2017
           locked: false
         - name: Include OWASP projects as resources for the SAMM practices
           url: >-
@@ -291,11 +301,6 @@ by_Day:
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           track: Agile AppSec
-          locked: false
-        - name: What Should be Added to the Top 10
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          track: Owasp Top 10 2017
           locked: false
     Room-5:
       PM-1:
@@ -741,14 +746,15 @@ by_Day:
           url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
           track: Security Playbooks
           locked: false
-        - name: Security Playbooks Diagrams
-          url: >-
-            /Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html
-          track: Security Playbooks
-          locked: false
       PM-3:
         - name: Playbooks vs Handbooks
           url: /Working-Sessions/Security-Playbooks/Playbooks-vs-Handbooks.html
+          track: Security Playbooks
+          locked: false
+      PM-2:
+        - name: Security Playbooks Diagrams
+          url: >-
+            /Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html
           track: Security Playbooks
           locked: false
     Room-6:
@@ -1027,26 +1033,28 @@ by_Participant:
           locked: false
   Dave Wichers:
     Tue:
-      no-time:
+      AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
-          location: no-location
+          location: Room-2
           mode: organizing
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
-          location: no-location
+          location: Room-2
           mode: organizing
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: organizing
           status: review-content
           track: Owasp Top 10 2017
@@ -1107,22 +1115,24 @@ by_Participant:
           locked: false
   Johanna Curiel:
     Tue:
-      no-time:
+      AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
-          location: no-location
+          location: Room-2
           mode: organizing
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
-          location: no-location
+          location: Room-2
           mode: organizing
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      no-time:
         - name: OWASP Projects Reviews
           url: /Working-Sessions/Owasp-Projects/OWASP-Projects-Review.html
           location: no-location
@@ -1151,32 +1161,34 @@ by_Participant:
           locked: false
   Claudia Cassanovas:
     Tue:
-      no-time:
+      AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
-          location: no-location
+          location: Room-2
           mode: organizing
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
-          location: no-location
+          location: Room-2
           mode: organizing
           status: review-content
           track: Owasp Top 10 2017
           locked: false
   Johan Peeters:
     Tue:
-      no-time:
+      AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      no-time:
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
           location: no-location
@@ -1184,10 +1196,11 @@ by_Participant:
           status: review-content
           track: DevSecOps
           locked: false
+      PM-2:
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
@@ -1304,14 +1317,22 @@ by_Participant:
           locked: false
   Chris Cooper:
     Tue:
-      no-time:
+      AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+        - name: Define Agile Security Practices
+          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          location: Room-3
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+          locked: false
+      no-time:
         - name: Creating AppSec Talent (next 100k professionals)
           url: /Working-Sessions/Education/Creating-AppSec-Talent.html
           location: no-location
@@ -1332,14 +1353,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Owasp Projects
-          locked: false
-      AM-1:
-        - name: Define Agile Security Practices
-          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: Room-3
-          mode: participating
-          status: review-content
-          track: Agile AppSec
           locked: false
     Thu:
       no-time:
@@ -1388,22 +1401,24 @@ by_Participant:
           locked: false
   Nuno Loureiro:
     Tue:
-      no-time:
+      AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      no-time:
         - name: Agile Practices for Security Teams
           url: >-
             /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
@@ -1412,10 +1427,11 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
@@ -1500,22 +1516,24 @@ by_Participant:
           locked: false
   Tiago Mendo:
     Tue:
-      no-time:
+      AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      no-time:
         - name: Agile Practices for Security Teams
           url: >-
             /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
@@ -1530,14 +1548,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Education
-          locked: false
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
           locked: false
         - name: NodeGoat
           url: /Working-Sessions/Owasp-Projects/NodeGoat.html
@@ -1560,10 +1570,20 @@ by_Participant:
           status: review-content
           track: Owasp Projects
           locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
+          locked: false
+      PM-2:
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
@@ -1708,27 +1728,29 @@ by_Participant:
           locked: false
   Erez Yalon:
     Tue:
-      no-time:
+      PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-2:
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
@@ -1777,27 +1799,29 @@ by_Participant:
           locked: false
   Ohad Rabinovich:
     Tue:
-      no-time:
+      PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-2:
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
@@ -2240,14 +2264,6 @@ by_Participant:
           status: draft
           track: OwaspSAMM
           locked: false
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
-          locked: false
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
@@ -2306,6 +2322,15 @@ by_Participant:
           mode: participating
           status: featured
           track: Threat Model
+          locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
           locked: false
     Wed:
       AM-1:
@@ -3053,14 +3078,6 @@ by_Participant:
           status: review-content
           track: DevSecOps
           locked: false
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
-          locked: false
         - name: Responsible Disclosure
           url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
           location: no-location
@@ -3088,6 +3105,15 @@ by_Participant:
           mode: participating
           status: featured
           track: Threat Model
+          locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
           locked: false
     Wed:
       AM-1:
@@ -3246,15 +3272,16 @@ by_Participant:
           track: Threat Model
           locked: false
     Tue:
-      no-time:
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      no-time:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
@@ -3312,20 +3339,21 @@ by_Participant:
           status: draft
           track: OwaspSAMM
           locked: false
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
-          locked: false
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
           location: no-location
           mode: participating
           status: review-content
           track: Owasp Projects
+          locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
           locked: false
   Don Gibson:
     Thu:
@@ -3681,15 +3709,16 @@ by_Participant:
           track: Education
           locked: false
     Tue:
-      no-time:
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      no-time:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
@@ -4012,11 +4041,11 @@ by_Participant:
           track: Owasp Projects
           locked: false
     Tue:
-      no-time:
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
@@ -4257,15 +4286,16 @@ by_Participant:
           track: Owasp Projects
           locked: false
     Tue:
-      no-time:
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      no-time:
         - name: O-Saft
           url: /Working-Sessions/Owasp-Projects/O-Saft.html
           location: no-location
@@ -4530,14 +4560,6 @@ by_Participant:
           status: draft
           track: OwaspSAMM
           locked: false
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
-          locked: false
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
@@ -4559,6 +4581,15 @@ by_Participant:
           mode: participating
           status: draft
           track: OwaspSAMM
+          locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
           locked: false
     Fri:
       no-time:
@@ -5089,11 +5120,11 @@ by_Participant:
           track: Owasp Top 10 2017
           locked: false
     Tue:
-      no-time:
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
@@ -5129,15 +5160,16 @@ by_Participant:
           track: Threat Model
           locked: false
     Tue:
-      no-time:
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      no-time:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
@@ -5237,18 +5269,20 @@ by_Participant:
           status: draft
           track: OwaspSAMM
           locked: false
+      PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      PM-2:
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
@@ -5861,11 +5895,11 @@ by_Participant:
           track: Owasp Projects
           locked: false
     Tue:
-      no-time:
+      PM-2:
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          location: no-location
+          location: Room-2
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
