@@ -333,6 +333,14 @@
             "track": "Education",
             "locked": false
           }
+        ],
+        "PM-3": [
+          {
+            "name": "Crowdsourcing Security Knowledge",
+            "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html",
+            "track": "Security Crowdsourcing",
+            "locked": false
+          }
         ]
       },
       "no-location": {
@@ -341,12 +349,6 @@
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
             "track": "Education",
-            "locked": false
-          },
-          {
-            "name": "Crowdsourcing Security Knowledge",
-            "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html",
-            "track": "Security Crowdsourcing",
             "locked": false
           },
           {
@@ -1405,11 +1407,13 @@
             "status": "review-content",
             "track": "Education",
             "locked": false
-          },
+          }
+        ],
+        "PM-3": [
           {
             "name": "Crowdsourcing Security Knowledge",
             "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Security Crowdsourcing",
@@ -6759,11 +6763,11 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Crowdsourcing Security Knowledge",
             "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Security Crowdsourcing",
@@ -6787,11 +6791,11 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "PM-3": [
           {
             "name": "Crowdsourcing Security Knowledge",
             "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Security Crowdsourcing",

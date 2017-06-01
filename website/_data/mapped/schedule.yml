@@ -237,16 +237,17 @@ by_Day:
           url: /Working-Sessions/Education/Creating-AppSec-Talent.html
           track: Education
           locked: false
+      PM-3:
+        - name: Crowdsourcing Security Knowledge
+          url: >-
+            /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
+          track: Security Crowdsourcing
+          locked: false
     no-location:
       no-time:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
           track: Education
-          locked: false
-        - name: Crowdsourcing Security Knowledge
-          url: >-
-            /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
-          track: Security Crowdsourcing
           locked: false
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
@@ -987,10 +988,11 @@ by_Participant:
           status: review-content
           track: Education
           locked: false
+      PM-3:
         - name: Crowdsourcing Security Knowledge
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Security Crowdsourcing
@@ -4984,11 +4986,11 @@ by_Participant:
           track: Security Playbooks
           locked: false
     Tue:
-      no-time:
+      PM-3:
         - name: Crowdsourcing Security Knowledge
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Security Crowdsourcing
@@ -5004,11 +5006,11 @@ by_Participant:
           track: Security Playbooks
           locked: false
     Tue:
-      no-time:
+      PM-3:
         - name: Crowdsourcing Security Knowledge
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Security Crowdsourcing
