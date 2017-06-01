@@ -6,7 +6,7 @@ owasp-project: no
 track        :
 status       : draft
 organizers   : Marc Rimbau
-participants :
+participants : Ade Yoseman Putra
 ---
 
 The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.
