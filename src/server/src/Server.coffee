@@ -25,13 +25,15 @@ class Server
       console.log '[request] /update'
       'git'.start_Process_Redirect_Console 'pull'
            .on 'exit', ()->
-              childProcess = './node_modules/.bin/gulp'.start_Process 'styles','pug','build'
-              childProcess.stdout.on 'data', (data)-> console.log(data.str().trim())
-              childProcess.stderr.on 'data', (data)-> console.log(data.str().trim())
-              console.log '----------------'
-              console.log req.url
-              childProcess.on 'exit', ()->
-                res.json { thanks: 'server-updated'}
+              'npm'.start_Process_Redirect_Console 'run  build-data'
+                .on 'exit', ()->
+                  childProcess = './node_modules/.bin/gulp'.start_Process 'styles','pug','build'
+                  childProcess.stdout.on 'data', (data)-> console.log(data.str().trim())
+                  childProcess.stderr.on 'data', (data)-> console.log(data.str().trim())
+                  console.log '----------------'
+                  console.log req.url
+                  childProcess.on 'exit', ()->
+                    res.json { thanks: 'server-updated'}
 
     @
 
