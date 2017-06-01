@@ -9,7 +9,7 @@ related-to   : Recruiting AppSec Talent,Security Champions,CISO
 status       : review-content
 organizers   : Dinis Cruz
 when-day     : Tue
-participants : Avi Douglen, Robert Morschel
+participants : Avi Douglen, Robert Morschel, Ade Yoseman Putra
 ---
 
 ## Why
