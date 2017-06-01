@@ -8,6 +8,8 @@ technology   :
 related-to   : Cyber Insurance,Education
 status       : review-content
 when-day     : Mon
+when-time    : PM-2
+location     : Room-4
 organizers   : Yan Kravchenko
 participants :
 ---

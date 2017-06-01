@@ -7,6 +7,8 @@ technology   : Jira
 related-to   :
 status       : review-content
 when-day     : Mon
+when-time    : PM-1
+location     : Room-1
 organizers   :
 participants : Irene Michlin
 ---

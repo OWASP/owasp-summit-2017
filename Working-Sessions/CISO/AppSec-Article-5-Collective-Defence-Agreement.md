@@ -6,6 +6,9 @@ track        : CISO
 technology   :
 related-to   :
 status       : review-content
+when-day     : Thu
+when-time    : AM-1
+location     : Room-4
 organizers   : Dinis Cruz,Ante Gulam
 participants :
 ---

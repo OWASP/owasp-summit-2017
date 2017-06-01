@@ -8,6 +8,8 @@ technology   :
 related-to   : InfoSec Warranties and Guarantees
 status       : review-content
 when-day     : Wed
+when-time    : PM-3
+location     : Room-4
 organizers   : Yan Kravchenko
 participants : Dinis Cruz
 

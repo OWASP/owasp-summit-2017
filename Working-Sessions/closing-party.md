@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : 
 when-day     : Thu
-when-time    : Evening
+when-time    : Eve
 organizers   : Francois Raynaud,Dinis Cruz,Seba
 participants : All
 ---

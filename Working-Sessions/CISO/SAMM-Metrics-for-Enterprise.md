@@ -6,7 +6,9 @@ track        : CISO
 technology   :
 related-to   : OwaspSAMM,Appsec Metrics
 status       : done
-when-day     : Mon
+when-day     : Thu
+when-time    : PM-3
+location     : Room-4
 organizers   : Yan Kravchenko
 participants : Robert Morschel
 

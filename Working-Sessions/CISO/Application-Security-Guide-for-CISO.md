@@ -8,6 +8,8 @@ technology   :
 related-to   : CISO Survey
 status       : review-content
 when-day     : Wed
+when-time    : AM-1
+location     : Room-4
 organizers   : Marco Morana
 participants : Don Gibson, Ingo Hanke, Avi Douglen, Yan Kravchenko, Robert Morschel
 ---
