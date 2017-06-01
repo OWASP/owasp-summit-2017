@@ -13,7 +13,7 @@ email           :
 project-leader  :
 chapter-leader  :
 status          : empty
-working-sessions:
+working-sessions: What Should be Added to the Top 10, A10 - Underprotected APIs, A7 - Insufficient Attack Protection, 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
