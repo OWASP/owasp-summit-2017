@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : draft
 when-day     : Mon
+when-time    : PM-1
+location     : Room-6
 organizers   :
 participants :
 ---

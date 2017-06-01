@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : draft
 when-day     : Mon
+when-time    : PM-2
+location     : Room-2
 organizers   : Dave Wichers
 participants :
 ---
