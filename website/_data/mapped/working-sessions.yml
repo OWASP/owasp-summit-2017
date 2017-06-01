@@ -1844,7 +1844,9 @@ Draft SAMM2 - the "DevOps release":
     - name: Timo Pagel
       url: /Participants/ticket-24h-owasp/Timo-Pagel.html
       remote: false
-    - name: Viktor Lindström
+    - name: Viktor Lindstrom
+      url: /Participants/ticket-24h/Viktor-Lindstrom.html
+      remote: false
     - name: Yan Kravchenko
       url: /Participants/ticket-24h/Yan-Kravchenko.html
       remote: false
@@ -1864,7 +1866,7 @@ Draft SAMM2 - the "DevOps release":
       - Mateo Martinez
       - Yan Kravchenko
       - Timo Pagel
-      - Viktor Lindström
+      - Viktor Lindstrom
       - Adam Obrien
       - Avi Douglen
       - Kevin Greene
@@ -4444,7 +4446,9 @@ Review and improve the 12 SAMM practices:
     - name: Robert Morschel
       url: /Participants/ticket-24h/Robert-Morschel.html
       remote: false
-    - name: Viktor Lindström
+    - name: Viktor Lindstrom
+      url: /Participants/ticket-24h/Viktor-Lindstrom.html
+      remote: false
     - name: Yan Kravchenko
       url: /Participants/ticket-24h/Yan-Kravchenko.html
       remote: false
@@ -4463,7 +4467,7 @@ Review and improve the 12 SAMM practices:
       - Yan Kravchenko
       - Robert Morschel
       - Irene Michlin
-      - Viktor Lindström
+      - Viktor Lindstrom
       - Adam Obrien
       - Kevin Greene
     related-to: []
@@ -6212,7 +6216,9 @@ Update SAMM model to take into account Agile and DevOps:
     - name: Timo Pagel
       url: /Participants/ticket-24h-owasp/Timo-Pagel.html
       remote: false
-    - name: Viktor Lindström
+    - name: Viktor Lindstrom
+      url: /Participants/ticket-24h/Viktor-Lindstrom.html
+      remote: false
   related-to: []
   metadata:
     layout: blocks/working-session
@@ -6229,7 +6235,7 @@ Update SAMM model to take into account Agile and DevOps:
       - Felipe Zipitria
       - Timo Pagel
       - Adam O'Brien
-      - Viktor Lindström
+      - Viktor Lindstrom
       - Adam Obrien
     related-to: []
     topics: []
