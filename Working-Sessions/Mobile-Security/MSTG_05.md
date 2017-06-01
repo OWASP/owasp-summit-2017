@@ -5,7 +5,7 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : featured
+status          : done
 when-day        : Fri
 description     : In this book sprint we produce content for the reverse engineering chapters of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier

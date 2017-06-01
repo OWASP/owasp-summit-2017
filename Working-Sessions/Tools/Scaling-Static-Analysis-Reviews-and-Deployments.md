@@ -14,20 +14,23 @@ organizers   :
 
 ## Why
 
-Static Analysis (SAST) is a key element in making AppSec practices scale for companies with multiple development teams.
+Static Analysis Security Testing (SAST) is a key element in making AppSec practices scale for companies with multiple development teams.
 
 ## What
 
-The challenges are how to:
- - scale its deployment
- - onboard new applications
- - parse and filter results
- - customize rules
- - present findings in developer's IDEs
+The challenges to discuss in this Working Session include the following:
 
-Also important is is the discussion of using SAST to provide a security benchmark for applications, websites and IoT devices
+ - How to scale the deployment of SAST
+ - How to onboard new applications
+ - Parsing and filtering results
+ - Customising rules
+ - Presenting findings in developer's IDEs
+
+It is also important to discuss using SAST to provide a security benchmark for applications, websites, and IoT devices.
 
 ## Who
+
+The target audience for this Working Session is:
 
  - AppSec professionals
  - SAST service providers
