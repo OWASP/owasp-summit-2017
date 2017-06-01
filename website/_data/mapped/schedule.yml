@@ -230,6 +230,17 @@ by_Day:
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
           track: Owasp Top 10 2017
+    Room-5:
+      PM-1:
+        - name: Create Jira Workflows for Security Playbooks
+          url: >-
+            /Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html
+          track: Security Playbooks
+    Room-3:
+      AM-1:
+        - name: Define Agile Security Practices
+          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          track: Agile AppSec
   Thu:
     Room-4:
       AM-1:
@@ -503,25 +514,6 @@ by_Day:
         - name: TLS for Local IoT
           url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
           track: DevSecOps
-    Room-5:
-      PM-1:
-        - name: Create Jira Workflows for Security Playbooks
-          url: >-
-            /Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html
-          track: Security Playbooks
-      PM-2:
-        - name: Playbooks Common Format
-          url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
-          track: Security Playbooks
-      PM-3:
-        - name: Playbooks vs Handbooks
-          url: /Working-Sessions/Security-Playbooks/Playbooks-vs-Handbooks.html
-          track: Security Playbooks
-      AM-1:
-        - name: Security Playbooks Diagrams
-          url: >-
-            /Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html
-          track: Security Playbooks
     Room-2:
       PM-3:
         - name: Data behind Owasp Top 10 2017
@@ -542,10 +534,6 @@ by_Day:
             /Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html
           track: Owasp Top 10 2017
     Room-3:
-      AM-1:
-        - name: Define Agile Security Practices
-          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          track: Agile AppSec
       PM-1:
         - name: Dependency Check
           url: /Working-Sessions/Owasp-Projects/Dependency-Check.html
@@ -559,7 +547,7 @@ by_Day:
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
           track: Owasp Projects
     Room-4:
-      AM-1:
+      PM-1:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
           track: CISO
@@ -588,6 +576,19 @@ by_Day:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
           track: Mobile Security
+    Room-5:
+      PM-1:
+        - name: Playbooks Common Format
+          url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
+          track: Security Playbooks
+        - name: Security Playbooks Diagrams
+          url: >-
+            /Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html
+          track: Security Playbooks
+      PM-3:
+        - name: Playbooks vs Handbooks
+          url: /Working-Sessions/Security-Playbooks/Playbooks-vs-Handbooks.html
+          track: Security Playbooks
     Room-6:
       PM-1:
         - name: Threat Modeling Diagramming Techniques
@@ -663,7 +664,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-    Mon:
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
@@ -1100,7 +1100,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Owasp Projects
-    Mon:
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
@@ -1377,7 +1376,7 @@ by_Participant:
           mode: participating
           status: review-content
           track: Owasp Top 10 2017
-      AM-1:
+      PM-1:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
           location: Room-4
@@ -1664,7 +1663,7 @@ by_Participant:
           status: featured
           track: Threat Model
     Mon:
-      AM-1:
+      PM-1:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
           location: Room-4
@@ -1724,19 +1723,10 @@ by_Participant:
           mode: organizing
           status: review-content
           track: Agile AppSec
-    Mon:
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
           location: Room-3
-          mode: organizing
-          status: review-content
-          track: Agile AppSec
-      PM-2:
-        - name: Security Guild vs Security Champions
-          url: >-
-            /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
-          location: Room-1
           mode: organizing
           status: review-content
           track: Agile AppSec
@@ -1765,6 +1755,15 @@ by_Participant:
           mode: organizing
           status: draft
           track: Agile AppSec
+    Mon:
+      PM-2:
+        - name: Security Guild vs Security Champions
+          url: >-
+            /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
+          location: Room-1
+          mode: organizing
+          status: review-content
+          track: Agile AppSec
   Ante Gulam:
     Tue:
       no-time:
@@ -1786,6 +1785,13 @@ by_Participant:
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           location: no-location
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+      AM-1:
+        - name: Define Agile Security Practices
+          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          location: Room-3
           mode: participating
           status: review-content
           track: Agile AppSec
@@ -1843,13 +1849,6 @@ by_Participant:
           status: draft
           track: Agile AppSec
     Mon:
-      AM-1:
-        - name: Define Agile Security Practices
-          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: Room-3
-          mode: participating
-          status: review-content
-          track: Agile AppSec
       PM-3:
         - name: Mobilising Business Lines for Security
           url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
@@ -2125,7 +2124,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-    Mon:
       PM-1:
         - name: Create Jira Workflows for Security Playbooks
           url: >-
@@ -2141,13 +2139,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-      PM-3:
-        - name: Threat Modeling Tools
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
-          location: Room-6
-          mode: participating
-          status: review-content
-          track: Threat Model
     Fri:
       no-time:
         - name: Diffing and Version Control Threat Models
@@ -2191,6 +2182,14 @@ by_Participant:
           mode: participating
           status: draft
           track: DevSecOps
+    Mon:
+      PM-3:
+        - name: Threat Modeling Tools
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Threat Model
   Mamta Vuppu:
     Tue:
       no-time:
@@ -2221,7 +2220,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-    Mon:
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
@@ -2229,13 +2227,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-      PM-3:
-        - name: Threat Modeling Tools
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
-          location: Room-6
-          mode: participating
-          status: review-content
-          track: Threat Model
     Fri:
       no-time:
         - name: Due Diligence Playbook
@@ -2258,6 +2249,14 @@ by_Participant:
           mode: participating
           status: review-content
           track: Threat Model
+    Mon:
+      PM-3:
+        - name: Threat Modeling Tools
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Threat Model
   Phil Parker:
     Tue:
       no-time:
@@ -2269,7 +2268,7 @@ by_Participant:
           status: review-content
           track: Agile AppSec
     Mon:
-      AM-1:
+      PM-1:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
           location: Room-4
@@ -2386,7 +2385,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-    Mon:
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
@@ -2440,6 +2438,13 @@ by_Participant:
           mode: participating
           status: review-content
           track: Threat Model
+      AM-1:
+        - name: Define Agile Security Practices
+          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          location: Room-3
+          mode: participating
+          status: review-content
+          track: Agile AppSec
     Mon:
       PM-3:
         - name: Data behind Owasp Top 10 2017
@@ -2461,13 +2466,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Threat Model
-      AM-1:
-        - name: Define Agile Security Practices
-          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: Room-3
-          mode: participating
-          status: review-content
-          track: Agile AppSec
       PM-1:
         - name: Threat Modeling Diagramming Techniques
           url: >-
@@ -2676,13 +2674,19 @@ by_Participant:
           mode: participating
           status: featured
           track: Owasp Projects
-      AM-1:
+      PM-1:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
           location: Room-4
           mode: participating
           status: review-content
           track: CISO
+        - name: TLS for Local IoT
+          url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
+          location: Room-1
+          mode: participating
+          status: done
+          track: DevSecOps
       PM-2:
         - name: Security Guild vs Security Champions
           url: >-
@@ -2691,13 +2695,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-      PM-1:
-        - name: TLS for Local IoT
-          url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
-          location: Room-1
-          mode: participating
-          status: done
-          track: DevSecOps
     no-day:
       no-time:
         - name: Netflix Security Automation
@@ -2995,7 +2992,6 @@ by_Participant:
           mode: participating
           status: featured
           track: Threat Model
-    Mon:
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
@@ -3003,21 +2999,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-      PM-2:
-        - name: Security Guild vs Security Champions
-          url: >-
-            /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
-          location: Room-1
-          mode: participating
-          status: review-content
-          track: Agile AppSec
-      PM-3:
-        - name: Threat Modeling Tools
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
-          location: Room-6
-          mode: participating
-          status: review-content
-          track: Threat Model
     Fri:
       no-time:
         - name: IAM for REST APIs
@@ -3033,6 +3014,22 @@ by_Participant:
           mode: participating
           status: review-content
           track: Tools
+    Mon:
+      PM-2:
+        - name: Security Guild vs Security Champions
+          url: >-
+            /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+      PM-3:
+        - name: Threat Modeling Tools
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Threat Model
     Eve:
       no-time:
         - name: Teaching Attacker perspective to Developers
@@ -3749,6 +3746,7 @@ by_Participant:
           mode: organizing
           status: review-content
           track: CISO
+      PM-1:
         - name: Playbooks Common Format
           url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
           location: Room-5
@@ -4568,7 +4566,7 @@ by_Participant:
           status: done
           track: CISO
   Adam Obrien:
-    Mon:
+    Tue:
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
@@ -4576,13 +4574,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-        - name: GDPR and DPO AppSec implications
-          url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
-          location: Room-4
-          mode: participating
-          status: review-content
-          track: CISO
-    Tue:
       no-time:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
@@ -4596,6 +4587,14 @@ by_Participant:
           mode: participating
           status: draft
           track: OwaspSAMM
+    Mon:
+      PM-1:
+        - name: GDPR and DPO AppSec implications
+          url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
     Thu:
       no-time:
         - name: Maturity Models tool

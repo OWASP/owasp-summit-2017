@@ -7,7 +7,7 @@ technology   : GDPR
 related-to   :
 status       : review-content
 when-day     : Mon
-when-time    : AM-1
+when-time    : PM-1
 location     : Room-4
 organizers   :
 participants : Dinis Cruz,Francois Raynaud, Phil Parker

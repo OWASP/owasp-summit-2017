@@ -7,7 +7,7 @@ technology   :
 related-to   : Threat Modeling Diagramming Techniques
 status       : improve-content
 when-day     : Mon
-when-time    : PM-2
+when-time    : PM-1
 location     : Room-5
 organizers   :
 participants : Yan Kravchenko

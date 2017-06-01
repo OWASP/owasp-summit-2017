@@ -40,3 +40,4 @@ These working
 Here is the [Summit Schedule](./summit-schedule.html) showing all data from all Tracks
 
 * [Monday](./days/schedule-monday.html)
+* [Tuesday](./days/schedule-tuesday.html)

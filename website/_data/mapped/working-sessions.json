@@ -1656,7 +1656,7 @@
       "technology": "Jira",
       "related-to": [],
       "status": "review-content",
-      "when-day": "Mon",
+      "when-day": "Tue",
       "when-time": "PM-1",
       "location": "Room-5",
       "organizers": [],
@@ -2242,7 +2242,7 @@
         "Integrating Security into an Spotify Model"
       ],
       "status": "review-content",
-      "when-day": "Mon",
+      "when-day": "Tue",
       "when-time": "AM-1",
       "location": "Room-3",
       "organizers": [
@@ -3003,7 +3003,7 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
-      "when-time": "AM-1",
+      "when-time": "PM-1",
       "location": "Room-4",
       "organizers": [],
       "participants": [
@@ -5835,7 +5835,7 @@
       ],
       "status": "improve-content",
       "when-day": "Mon",
-      "when-time": "PM-2",
+      "when-time": "PM-1",
       "location": "Room-5",
       "organizers": [],
       "participants": [
@@ -7211,7 +7211,7 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
-      "when-time": "AM-1",
+      "when-time": "PM-1",
       "location": "Room-5",
       "organizers": [],
       "participants": [],
