@@ -24,6 +24,10 @@ This Working Session will aim to define those Practices in easy-to-use and scala
  - How can they be measured?
  - Who uses Agile in Security activities? (and are they called 'Agile Security Practices'?)
  - Can a focused and pragmatic list of 'Agile Security Practices' be defined? If so, what is on the list?
+ 
+## Definition of Done
+
+- Agreed definition and list of 'Agile Security Practices'
 
 ## Who
 
