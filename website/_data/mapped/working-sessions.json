@@ -1830,6 +1830,8 @@
         "Dinis Cruz"
       ],
       "when-day": "Tue",
+      "when-time": "PM-2",
+      "location": "Room-6",
       "participants": [
         "Avi Douglen",
         "Robert Morschel",
@@ -3556,6 +3558,8 @@
       "track": "OwaspSAMM",
       "status": "draft",
       "when-day": "Tue",
+      "when-time": "PM-1",
+      "location": "Villa-2",
       "organizers": [
         "Sebastien Deleersnyder"
       ],
@@ -4238,6 +4242,8 @@
       "track": "Threat Model",
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "AM-1",
+      "location": "Room-1",
       "organizers": [
         "Geoff Hill"
       ],
@@ -4293,6 +4299,8 @@
       "technology": "Mobile",
       "status": "featured",
       "when-day": "Wed",
+      "when-time": "AM-1,PM-1,PM-2,PM-3",
+      "location": "Villa-2",
       "description": "In this book sprint we produce content for the \"Android Testing Guide\" chapter of the Mobile Security Testing Guide.",
       "organizers": [
         "Bernhard Mueller",
@@ -4343,6 +4351,8 @@
       "technology": "Mobile",
       "status": "featured",
       "when-day": "Tue",
+      "when-time": "AM-1,PM-1,PM-2,PM-3",
+      "location": "Villa-2",
       "description": "In this book sprint we produce content for the \"Mobile Operating Systems\" chapter of the Mobile Security Testing Guide.",
       "organizers": [
         "Bernhard Mueller",
@@ -4394,7 +4404,7 @@
       "status": "done",
       "when-day": "Mon",
       "when-time": "AM-1,PM-1,PM-2,PM-3",
-      "location": "Villa-1",
+      "location": "Villa-2",
       "description": "In this book sprint we produce content for the \"Mobile Operating Systems\" chapter of the Mobile Security Testing Guide.",
       "organizers": [
         "Bernhard Mueller",
@@ -4445,6 +4455,8 @@
       "technology": "Mobile",
       "status": "done",
       "when-day": "Fri",
+      "when-time": "AM-1,PM-1,PM-2,PM-3",
+      "location": "Villa-2",
       "description": "In this book sprint we produce content for the reverse engineering chapters of the Mobile Security Testing Guide.",
       "organizers": [
         "Bernhard Mueller",
@@ -4495,6 +4507,8 @@
       "technology": "Mobile",
       "status": "featured",
       "when-day": "Thu",
+      "when-time": "AM-1,PM-1,PM-2,PM-3",
+      "location": "Villa-2",
       "description": "In this book sprint we produce content for the \"iOS Testing Guide\" chapter of the Mobile Security Testing Guide.",
       "organizers": [
         "Bernhard Mueller",

@@ -16,7 +16,7 @@
     {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
     {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
     {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
-    {%    endfor                                  %}<br/>{% endif                                      %}<br/><b>See &#32;<a href="/schedule/tracks/{{ page.title | replace: ' ', '-'}}.html">schedule</a>&#32; for this track</b>
+    {%    endfor                                  %}<br/>{% endif                                      %}<br/><b>See &#32;<a href="/pages/schedule/tracks/{{ page.title | replace: ' ', '-'}}.html">schedule</a>&#32; for this track</b>
     <h3>Working sessions in this Track</h3>
     <ul>{% for track in track_ws_ok %}
       <li><a href="{{ track.url }}">{{ track.name }}</a></li>{% endfor %}

@@ -57,6 +57,8 @@ class Jekyll_Data
 
     sorted_Data.save_Json              @.file_Json_Participants         # save data as json file
     yaml.safeDump(sorted_Data).save_As @.file_Yaml_Participants         # save data as yml file
+
+    @.participants_Data = sorted_Data
     return data
 
   map_Schedule: ->
@@ -143,6 +145,8 @@ class Jekyll_Data
     sorted_Data.save_Json              @.file_Json_Topics           # save data as json file
     yaml.safeDump(sorted_Data).save_As @.file_Yaml_Topics           # save data as yml file
 
+    @.topics_Data = sorted_Data
+
     data
 
   map_Working_Session_Raw_Data: (raw_Data)->                                              # todo: refactor this method with map_Participant_Raw_Data and map_Tracks_Data
@@ -191,6 +195,8 @@ class Jekyll_Data
 
     sorted_Data.save_Json              @.file_Json_Working_Sessions       # save data as json file (we need this file for the tracks calculations)
     yaml.safeDump(sorted_Data).save_As @.file_Yaml_Working_Sessions       # save data as yml file
+
+    @.working_Sessions_Data = sorted_Data
 
     data
 

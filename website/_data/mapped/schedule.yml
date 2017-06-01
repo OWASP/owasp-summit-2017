@@ -237,36 +237,55 @@ by_Day:
           url: /Working-Sessions/Education/Creating-AppSec-Talent.html
           track: Education
           locked: false
+      PM-2:
+        - name: Creating AppSec Teams
+          url: /Working-Sessions/Education/Creating-AppSec-Teams.html
+          track: Education
+          locked: false
       PM-3:
         - name: Crowdsourcing Security Knowledge
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
           track: Security Crowdsourcing
           locked: false
-    no-location:
-      no-time:
-        - name: Creating AppSec Teams
-          url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          track: Education
+    Villa-1:
+      AM-1:
+        - name: Draft SAMM2 - the "DevOps release"
+          url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
+          track: OwaspSAMM
           locked: false
+    Villa-2:
+      PM-1:
         - name: Include OWASP projects as resources for the SAMM practices
           url: >-
             /Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html
           track: OwaspSAMM
           locked: false
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          track: Mobile Security
+          locked: false
+      AM-1:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          track: Mobile Security
+          locked: false
+    no-location:
+      no-time:
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
           track: Agile AppSec
-          locked: false
-        - name: Lightweight Threat Modeling Process
-          url: >-
-            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          track: Threat Model
-          locked: false
-        - name: MSTG Book Sprint - Mobile App Security Testing
-          url: /Working-Sessions/Mobile-Security/MSTG_02.html
-          track: Mobile Security
           locked: false
         - name: NodeGoat
           url: /Working-Sessions/Owasp-Projects/NodeGoat.html
@@ -317,11 +336,12 @@ by_Day:
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           track: Agile AppSec
           locked: false
-    Villa-1:
+    Room-1:
       AM-1:
-        - name: Draft SAMM2 - the "DevOps release"
-          url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          track: OwaspSAMM
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          track: Threat Model
           locked: false
   Thu:
     Room-4:
@@ -380,10 +400,6 @@ by_Day:
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Lessons-learned-from-public-bug-bounties-programmes.html
           track: Security Crowdsourcing
-          locked: false
-        - name: MSTG Book Sprint - iOS Testing Guide
-          url: /Working-Sessions/Mobile-Security/MSTG_04.html
-          track: Mobile Security
           locked: false
         - name: Maturity Models tool
           url: /Working-Sessions/OwaspSAMM/Maturity-Models-Tool.html
@@ -447,6 +463,27 @@ by_Day:
           url: /Working-Sessions/closing-party.html
           track: ''
           locked: false
+    Villa-2:
+      AM-1:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          track: Mobile Security
+          locked: false
   Eve:
     no-location:
       no-time:
@@ -500,10 +537,6 @@ by_Day:
         - name: JIRA Risk Workflow
           url: /Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html
           track: ''
-          locked: false
-        - name: MSTG Book Sprint - Android Testing Guide
-          url: /Working-Sessions/Mobile-Security/MSTG_03.html
-          track: Mobile Security
           locked: false
         - name: Media Handling Playbook
           url: /Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html
@@ -584,6 +617,27 @@ by_Day:
           url: /Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html
           track: CISO
           locked: false
+    Villa-2:
+      AM-1:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          track: Mobile Security
+          locked: false
   Fri:
     no-location:
       no-time:
@@ -615,10 +669,6 @@ by_Day:
         - name: IAM for REST APIs
           url: /Working-Sessions/Owasp-Projects/IAM-for-REST-APIs.html
           track: Owasp Projects
-          locked: false
-        - name: MSTG Book Sprint - Reverse Engineering and Cracking
-          url: /Working-Sessions/Mobile-Security/MSTG_05.html
-          track: Mobile Security
           locked: false
         - name: OWASP Game Security Framework
           url: /Working-Sessions/Owasp-Projects/Game-Security-Framework.html
@@ -653,6 +703,27 @@ by_Day:
         - name: Using ML and AI to detect Attacks
           url: /Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html
           track: Research
+          locked: false
+    Villa-2:
+      AM-1:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          track: Mobile Security
           locked: false
   Mon:
     Room-1:
@@ -727,7 +798,7 @@ by_Day:
           url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
           track: CISO
           locked: false
-    Villa-1:
+    Villa-2:
       AM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
@@ -982,10 +1053,10 @@ by_Participant:
           status: review-content
           track: DevSecOps
           locked: false
-      no-time:
+      PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Education
@@ -1550,14 +1621,32 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
-      no-time:
+      PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Education
           locked: false
+        - name: What Should be Added to the Top 10
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
+          locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
+          locked: false
+      no-time:
         - name: NodeGoat
           url: /Working-Sessions/Owasp-Projects/NodeGoat.html
           location: no-location
@@ -1578,24 +1667,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Owasp Projects
-          locked: false
-      PM-3:
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: Room-2
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
-          locked: false
-      PM-2:
-        - name: What Should be Added to the Top 10
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          location: Room-2
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
           locked: false
     Wed:
       no-time:
@@ -1983,14 +2054,15 @@ by_Participant:
           track: DevSecOps
           locked: false
     Tue:
-      no-time:
+      PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
+          location: Room-6
           mode: organizing
           status: review-content
           track: Education
           locked: false
+      no-time:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
@@ -2254,21 +2326,55 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
+      PM-2:
+        - name: Creating AppSec Teams
+          url: /Working-Sessions/Education/Creating-AppSec-Teams.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Education
+          locked: false
+        - name: Creating AppSec Teams
+          url: /Working-Sessions/Education/Creating-AppSec-Teams.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Education
+          locked: false
+      AM-1:
+        - name: Draft SAMM2 - the "DevOps release"
+          url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
+          location: Villa-1
+          mode: participating
+          status: draft
+          track: OwaspSAMM
+          locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
+      PM-3:
+        - name: Implications of Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
+          locked: false
       no-time:
-        - name: Creating AppSec Teams
-          url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Education
-          locked: false
-        - name: Creating AppSec Teams
-          url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Education
-          locked: false
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
@@ -2276,22 +2382,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-          locked: false
-        - name: Lightweight Threat Modeling Process
-          url: >-
-            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Threat Model
-          locked: false
-        - name: Lightweight Threat Modeling Process
-          url: >-
-            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Threat Model
           locked: false
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
@@ -2327,23 +2417,6 @@ by_Participant:
           mode: participating
           status: featured
           track: Threat Model
-          locked: false
-      AM-1:
-        - name: Draft SAMM2 - the "DevOps release"
-          url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          location: Villa-1
-          mode: participating
-          status: draft
-          track: OwaspSAMM
-          locked: false
-      PM-3:
-        - name: Implications of Owasp Top 10 2017
-          url: >-
-            /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          location: Room-2
-          mode: participating
-          status: review-content
-          track: Owasp Top 10 2017
           locked: false
     Wed:
       AM-1:
@@ -2507,6 +2580,14 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       no-time:
         - name: Integrating Security into a Portfolio Kanban
           url: >-
@@ -2515,14 +2596,6 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
-          locked: false
-        - name: Lightweight Threat Modeling Process
-          url: >-
-            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Threat Model
           locked: false
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
@@ -2985,14 +3058,15 @@ by_Participant:
           track: Security Crowdsourcing
           locked: false
     Tue:
-      no-time:
+      PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Education
           locked: false
+      no-time:
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
           location: no-location
@@ -3503,22 +3577,31 @@ by_Participant:
           track: DevSecOps
           locked: false
     Tue:
-      no-time:
+      PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Education
           locked: false
+      AM-1:
+        - name: Define Agile Security Practices
+          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          location: Room-3
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+          locked: false
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: review-content
           track: Threat Model
           locked: false
+      no-time:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
@@ -3532,14 +3615,6 @@ by_Participant:
           mode: participating
           status: featured
           track: Threat Model
-          locked: false
-      AM-1:
-        - name: Define Agile Security Practices
-          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: Room-3
-          mode: participating
-          status: review-content
-          track: Agile AppSec
           locked: false
     Fri:
       no-time:
@@ -3737,15 +3812,16 @@ by_Participant:
           status: review-content
           track: Owasp Top 10 2017
           locked: false
-      no-time:
+      AM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: review-content
           track: Threat Model
           locked: false
+      no-time:
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
@@ -3764,14 +3840,15 @@ by_Participant:
           track: DevSecOps
           locked: false
     Tue:
-      no-time:
+      PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Education
           locked: false
+      no-time:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
@@ -4107,14 +4184,15 @@ by_Participant:
           status: review-content
           track: Education
           locked: false
-      no-time:
+      PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Education
           locked: false
+      no-time:
         - name: Responsible Disclosure
           url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
           location: no-location
@@ -4453,15 +4531,16 @@ by_Participant:
           track: Threat Model
           locked: false
     Tue:
-      no-time:
+      AM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: review-content
           track: Threat Model
           locked: false
+      no-time:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
@@ -4582,6 +4661,14 @@ by_Participant:
           status: draft
           track: OwaspSAMM
           locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
@@ -4592,14 +4679,6 @@ by_Participant:
           track: Owasp Top 10 2017
           locked: false
       no-time:
-        - name: Lightweight Threat Modeling Process
-          url: >-
-            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
-          mode: participating
-          status: review-content
-          track: Threat Model
-          locked: false
         - name: O-Saft
           url: /Working-Sessions/Owasp-Projects/O-Saft.html
           location: no-location
@@ -4769,15 +4848,15 @@ by_Participant:
           status: review-content
           track: DevSecOps
           locked: false
-      no-time:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: review-content
           track: Threat Model
           locked: false
+      no-time:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
@@ -5072,14 +5151,15 @@ by_Participant:
           locked: false
   Vandana Verma:
     Tue:
-      no-time:
+      PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Education
           locked: false
+      no-time:
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
           location: no-location
@@ -5193,15 +5273,16 @@ by_Participant:
           status: review-content
           track: Owasp Top 10 2017
           locked: false
-      no-time:
+      AM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: review-content
           track: Threat Model
           locked: false
+      no-time:
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
           location: no-location
@@ -5398,15 +5479,16 @@ by_Participant:
           status: draft
           track: OwaspSAMM
           locked: false
-      no-time:
+      PM-1:
         - name: Include OWASP projects as resources for the SAMM practices
           url: >-
             /Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html
-          location: no-location
+          location: Villa-2
           mode: organizing
           status: draft
           track: OwaspSAMM
           locked: false
+      no-time:
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
@@ -5598,11 +5680,11 @@ by_Participant:
           locked: false
   Geoff Hill:
     Tue:
-      no-time:
+      AM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
+          location: Room-1
           mode: organizing
           status: review-content
           track: Threat Model
@@ -5618,15 +5700,16 @@ by_Participant:
           locked: false
   Denis Pilipchuk:
     Tue:
-      no-time:
+      AM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: review-content
           track: Threat Model
           locked: false
+      no-time:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
@@ -5654,19 +5737,67 @@ by_Participant:
           locked: false
   Bernhard Mueller:
     Wed:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Android Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_03.html
-          location: no-location
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
           mode: organizing
           status: featured
           track: Mobile Security
           locked: false
     Tue:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Mobile App Security Testing
           url: /Working-Sessions/Mobile-Security/MSTG_02.html
-          location: no-location
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
           mode: organizing
           status: featured
           track: Mobile Security
@@ -5675,7 +5806,7 @@ by_Participant:
       AM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
@@ -5683,7 +5814,7 @@ by_Participant:
       PM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
@@ -5691,7 +5822,7 @@ by_Participant:
       PM-2:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
@@ -5699,44 +5830,140 @@ by_Participant:
       PM-3:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
           locked: false
     Fri:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
           url: /Working-Sessions/Mobile-Security/MSTG_05.html
-          location: no-location
+          location: Villa-2
+          mode: organizing
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
+          mode: organizing
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
+          mode: organizing
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
           locked: false
     Thu:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - iOS Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_04.html
-          location: no-location
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
           mode: organizing
           status: featured
           track: Mobile Security
           locked: false
   Sven Schleier:
     Wed:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Android Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_03.html
-          location: no-location
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
           mode: organizing
           status: featured
           track: Mobile Security
           locked: false
     Tue:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Mobile App Security Testing
           url: /Working-Sessions/Mobile-Security/MSTG_02.html
-          location: no-location
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
           mode: organizing
           status: featured
           track: Mobile Security
@@ -5745,7 +5972,7 @@ by_Participant:
       AM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
@@ -5753,7 +5980,7 @@ by_Participant:
       PM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
@@ -5761,7 +5988,7 @@ by_Participant:
       PM-2:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
@@ -5769,45 +5996,141 @@ by_Participant:
       PM-3:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
           locked: false
     Fri:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
           url: /Working-Sessions/Mobile-Security/MSTG_05.html
-          location: no-location
+          location: Villa-2
+          mode: organizing
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
+          mode: organizing
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
+          mode: organizing
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
           mode: organizing
           status: done
           track: Mobile Security
           locked: false
     Thu:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - iOS Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_04.html
-          location: no-location
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
+          mode: organizing
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
           mode: organizing
           status: featured
           track: Mobile Security
           locked: false
   tbd.:
     Wed:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Android Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_03.html
-          location: no-location
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Android Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          location: Villa-2
           mode: participating
           status: featured
           track: Mobile Security
           locked: false
   T.b.d.:
     Tue:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Mobile App Security Testing
           url: /Working-Sessions/Mobile-Security/MSTG_02.html
-          location: no-location
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Mobile App Security Testing
+          url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          location: Villa-2
           mode: participating
           status: featured
           track: Mobile Security
@@ -5816,7 +6139,7 @@ by_Participant:
       AM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: participating
           status: done
           track: Mobile Security
@@ -5824,7 +6147,7 @@ by_Participant:
       PM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: participating
           status: done
           track: Mobile Security
@@ -5832,7 +6155,7 @@ by_Participant:
       PM-2:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: participating
           status: done
           track: Mobile Security
@@ -5840,25 +6163,73 @@ by_Participant:
       PM-3:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          location: Villa-1
+          location: Villa-2
           mode: participating
           status: done
           track: Mobile Security
           locked: false
     Fri:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
           url: /Working-Sessions/Mobile-Security/MSTG_05.html
-          location: no-location
+          location: Villa-2
+          mode: participating
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
+          mode: participating
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
+          mode: participating
+          status: done
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - Reverse Engineering and Cracking
+          url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          location: Villa-2
           mode: participating
           status: done
           track: Mobile Security
           locked: false
     Thu:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - iOS Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_04.html
-          location: no-location
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-1:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-2:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
+          mode: participating
+          status: featured
+          track: Mobile Security
+          locked: false
+      PM-3:
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          location: Villa-2
           mode: participating
           status: featured
           track: Mobile Security

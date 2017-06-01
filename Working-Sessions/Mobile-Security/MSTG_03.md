@@ -7,6 +7,8 @@ owasp-project   : yes
 technology      : Mobile
 status          : featured
 when-day        : Wed
+when-time       : AM-1,PM-1,PM-2,PM-3
+location        : Villa-2
 description     : In this book sprint we produce content for the "Android Testing Guide" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : tbd.

@@ -18,7 +18,8 @@ mixin show-owasp-project
     br
 
 mixin show-when-day
-    b When: {{ data.metadata.when-day  }}
+    b When: &#32;
+    a(href='/pages/schedule/{{data.metadata.when-day}}.html') {{data.metadata.when-day}}
     br
 
 mixin show-when-time

@@ -334,6 +334,14 @@
             "locked": false
           }
         ],
+        "PM-2": [
+          {
+            "name": "Creating AppSec Teams",
+            "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
+            "track": "Education",
+            "locked": false
+          }
+        ],
         "PM-3": [
           {
             "name": "Crowdsourcing Security Knowledge",
@@ -343,14 +351,18 @@
           }
         ]
       },
-      "no-location": {
-        "no-time": [
+      "Villa-1": {
+        "AM-1": [
           {
-            "name": "Creating AppSec Teams",
-            "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "track": "Education",
+            "name": "Draft SAMM2 - the \"DevOps release\"",
+            "url": "/Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html",
+            "track": "OwaspSAMM",
             "locked": false
-          },
+          }
+        ]
+      },
+      "Villa-2": {
+        "PM-1": [
           {
             "name": "Include OWASP projects as resources for the SAMM practices",
             "url": "/Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html",
@@ -358,21 +370,43 @@
             "locked": false
           },
           {
-            "name": "Integrating Security into a Portfolio Kanban",
-            "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
-            "track": "Agile AppSec",
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "track": "Mobile Security",
             "locked": false
-          },
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "track": "Threat Model",
-            "locked": false
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Mobile App Security Testing",
             "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
             "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ]
+      },
+      "no-location": {
+        "no-time": [
+          {
+            "name": "Integrating Security into a Portfolio Kanban",
+            "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
+            "track": "Agile AppSec",
             "locked": false
           },
           {
@@ -449,12 +483,12 @@
           }
         ]
       },
-      "Villa-1": {
+      "Room-1": {
         "AM-1": [
           {
-            "name": "Draft SAMM2 - the \"DevOps release\"",
-            "url": "/Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html",
-            "track": "OwaspSAMM",
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "track": "Threat Model",
             "locked": false
           }
         ]
@@ -535,12 +569,6 @@
             "name": "Lessons learned from public bug bounties programmes",
             "url": "/Working-Sessions/Security-Crowdsourcing/Lessons-learned-from-public-bug-bounties-programmes.html",
             "track": "Security Crowdsourcing",
-            "locked": false
-          },
-          {
-            "name": "MSTG Book Sprint - iOS Testing Guide",
-            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
-            "track": "Mobile Security",
             "locked": false
           },
           {
@@ -636,6 +664,40 @@
             "locked": false
           }
         ]
+      },
+      "Villa-2": {
+        "AM-1": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ]
       }
     },
     "Eve": {
@@ -711,12 +773,6 @@
             "name": "JIRA Risk Workflow",
             "url": "/Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html",
             "track": "",
-            "locked": false
-          },
-          {
-            "name": "MSTG Book Sprint - Android Testing Guide",
-            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
-            "track": "Mobile Security",
             "locked": false
           },
           {
@@ -836,6 +892,40 @@
             "locked": false
           }
         ]
+      },
+      "Villa-2": {
+        "AM-1": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ]
       }
     },
     "Fri": {
@@ -884,12 +974,6 @@
             "locked": false
           },
           {
-            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
-            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
-            "track": "Mobile Security",
-            "locked": false
-          },
-          {
             "name": "OWASP Game Security Framework",
             "url": "/Working-Sessions/Owasp-Projects/Game-Security-Framework.html",
             "track": "Owasp Projects",
@@ -935,6 +1019,40 @@
             "name": "Using ML and AI to detect Attacks",
             "url": "/Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html",
             "track": "Research",
+            "locked": false
+          }
+        ]
+      },
+      "Villa-2": {
+        "AM-1": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "track": "Mobile Security",
             "locked": false
           }
         ]
@@ -1051,7 +1169,7 @@
           }
         ]
       },
-      "Villa-1": {
+      "Villa-2": {
         "AM-1": [
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
@@ -1402,11 +1520,11 @@
             "locked": false
           }
         ],
-        "no-time": [
+        "PM-2": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
@@ -2166,16 +2284,38 @@
             "locked": false
           }
         ],
-        "no-time": [
+        "PM-2": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
             "locked": false
           },
+          {
+            "name": "What Should be Added to the Top 10",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Implications of Owasp Top 10 2017",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
+        "no-time": [
           {
             "name": "NodeGoat",
             "url": "/Working-Sessions/Owasp-Projects/NodeGoat.html",
@@ -2201,28 +2341,6 @@
             "mode": "participating",
             "status": "review-content",
             "track": "Owasp Projects",
-            "locked": false
-          }
-        ],
-        "PM-3": [
-          {
-            "name": "Implications of Owasp Top 10 2017",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
-            "location": "Room-2",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Owasp Top 10 2017",
-            "locked": false
-          }
-        ],
-        "PM-2": [
-          {
-            "name": "What Should be Added to the Top 10",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html",
-            "location": "Room-2",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Owasp Top 10 2017",
             "locked": false
           }
         ]
@@ -2734,16 +2852,18 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "PM-2": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "organizing",
             "status": "review-content",
             "track": "Education",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Threat Modeling Cheat Sheet & Lightweight Threat Modeling",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html",
@@ -3087,25 +3207,67 @@
             "locked": false
           }
         ],
+        "PM-2": [
+          {
+            "name": "Creating AppSec Teams",
+            "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Education",
+            "locked": false
+          },
+          {
+            "name": "Creating AppSec Teams",
+            "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Education",
+            "locked": false
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "Draft SAMM2 - the \"DevOps release\"",
+            "url": "/Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html",
+            "location": "Villa-1",
+            "mode": "participating",
+            "status": "draft",
+            "track": "OwaspSAMM",
+            "locked": false
+          },
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          },
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Implications of Owasp Top 10 2017",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
         "no-time": [
-          {
-            "name": "Creating AppSec Teams",
-            "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Education",
-            "locked": false
-          },
-          {
-            "name": "Creating AppSec Teams",
-            "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Education",
-            "locked": false
-          },
           {
             "name": "Integrating Security into a Portfolio Kanban",
             "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html",
@@ -3113,24 +3275,6 @@
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
-            "locked": false
-          },
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Threat Model",
-            "locked": false
-          },
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Threat Model",
             "locked": false
           },
           {
@@ -3176,28 +3320,6 @@
             "mode": "participating",
             "status": "featured",
             "track": "Threat Model",
-            "locked": false
-          }
-        ],
-        "AM-1": [
-          {
-            "name": "Draft SAMM2 - the \"DevOps release\"",
-            "url": "/Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html",
-            "location": "Villa-1",
-            "mode": "participating",
-            "status": "draft",
-            "track": "OwaspSAMM",
-            "locked": false
-          }
-        ],
-        "PM-3": [
-          {
-            "name": "Implications of Owasp Top 10 2017",
-            "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
-            "location": "Room-2",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Owasp Top 10 2017",
             "locked": false
           }
         ]
@@ -3415,6 +3537,15 @@
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
+          },
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
           }
         ],
         "no-time": [
@@ -3425,15 +3556,6 @@
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
-            "locked": false
-          },
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Threat Model",
             "locked": false
           },
           {
@@ -4055,16 +4177,18 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "PM-2": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Recruiting AppSec Talent",
             "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html",
@@ -4753,25 +4877,38 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "PM-2": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
+            "locked": false
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "Define Agile Security Practices",
+            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
             "locked": false
           },
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Threat Modeling Cheat Sheet & Lightweight Threat Modeling",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html",
@@ -4788,17 +4925,6 @@
             "mode": "participating",
             "status": "featured",
             "track": "Threat Model",
-            "locked": false
-          }
-        ],
-        "AM-1": [
-          {
-            "name": "Define Agile Security Practices",
-            "url": "/Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html",
-            "location": "Room-3",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Agile AppSec",
             "locked": false
           }
         ]
@@ -5065,16 +5191,18 @@
             "locked": false
           }
         ],
-        "no-time": [
+        "AM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Update SAMM model to take into account Agile and DevOps",
             "url": "/Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html",
@@ -5102,16 +5230,18 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "PM-2": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Threat Modeling Templates",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Templates.html",
@@ -5563,16 +5693,18 @@
             "locked": false
           }
         ],
-        "no-time": [
+        "PM-2": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Responsible Disclosure",
             "url": "/Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html",
@@ -6040,16 +6172,18 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Threat Modeling Templates",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Templates.html",
@@ -6215,6 +6349,15 @@
             "status": "draft",
             "track": "OwaspSAMM",
             "locked": false
+          },
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
           }
         ],
         "PM-3": [
@@ -6229,15 +6372,6 @@
           }
         ],
         "no-time": [
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Threat Model",
-            "locked": false
-          },
           {
             "name": "O-Saft",
             "url": "/Working-Sessions/Owasp-Projects/O-Saft.html",
@@ -6471,18 +6605,18 @@
             "status": "review-content",
             "track": "DevSecOps",
             "locked": false
-          }
-        ],
-        "no-time": [
+          },
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Threat Modeling Cheat Sheet & Lightweight Threat Modeling",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html",
@@ -6891,16 +7025,18 @@
     },
     "Vandana Verma": {
       "Tue": {
-        "no-time": [
+        "PM-2": [
           {
             "name": "Creating AppSec Teams",
             "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
-            "location": "no-location",
+            "location": "Room-6",
             "mode": "participating",
             "status": "review-content",
             "track": "Education",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Recruiting AppSec Talent",
             "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html",
@@ -7056,16 +7192,18 @@
             "locked": false
           }
         ],
-        "no-time": [
+        "AM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Testing Guide v5",
             "url": "/Working-Sessions/Owasp-Projects/Testing-Guide-v5.html",
@@ -7336,16 +7474,18 @@
             "locked": false
           }
         ],
-        "no-time": [
+        "PM-1": [
           {
             "name": "Include OWASP projects as resources for the SAMM practices",
             "url": "/Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html",
-            "location": "no-location",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "draft",
             "track": "OwaspSAMM",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Update SAMM model to take into account Agile and DevOps",
             "url": "/Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html",
@@ -7615,11 +7755,11 @@
     },
     "Geoff Hill": {
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "organizing",
             "status": "review-content",
             "track": "Threat Model",
@@ -7643,16 +7783,18 @@
     },
     "Denis Pilipchuk": {
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "no-location",
+            "location": "Room-1",
             "mode": "participating",
             "status": "review-content",
             "track": "Threat Model",
             "locked": false
-          },
+          }
+        ],
+        "no-time": [
           {
             "name": "Threat Modeling Templates",
             "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Templates.html",
@@ -7693,11 +7835,44 @@
     },
     "Bernhard Mueller": {
       "Wed": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Android Testing Guide",
             "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Mobile Security",
@@ -7706,11 +7881,44 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Mobile App Security Testing",
             "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Mobile Security",
@@ -7723,7 +7931,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7734,7 +7942,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7745,7 +7953,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7756,7 +7964,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7765,11 +7973,44 @@
         ]
       },
       "Fri": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
             "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7778,11 +8019,44 @@
         ]
       },
       "Thu": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - iOS Testing Guide",
             "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Mobile Security",
@@ -7793,11 +8067,44 @@
     },
     "Sven Schleier": {
       "Wed": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Android Testing Guide",
             "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Mobile Security",
@@ -7806,11 +8113,44 @@
         ]
       },
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Mobile App Security Testing",
             "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Mobile Security",
@@ -7823,7 +8163,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7834,7 +8174,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7845,7 +8185,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7856,7 +8196,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7865,11 +8205,44 @@
         ]
       },
       "Fri": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
             "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "done",
             "track": "Mobile Security",
@@ -7878,11 +8251,44 @@
         ]
       },
       "Thu": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - iOS Testing Guide",
             "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
+            "mode": "organizing",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
             "mode": "organizing",
             "status": "featured",
             "track": "Mobile Security",
@@ -7893,11 +8299,44 @@
     },
     "tbd.": {
       "Wed": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Android Testing Guide",
             "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Android Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_03.html",
+            "location": "Villa-2",
             "mode": "participating",
             "status": "featured",
             "track": "Mobile Security",
@@ -7908,11 +8347,44 @@
     },
     "T.b.d.": {
       "Tue": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Mobile App Security Testing",
             "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Mobile App Security Testing",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_02.html",
+            "location": "Villa-2",
             "mode": "participating",
             "status": "featured",
             "track": "Mobile Security",
@@ -7925,7 +8397,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security",
@@ -7936,7 +8408,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security",
@@ -7947,7 +8419,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security",
@@ -7958,7 +8430,7 @@
           {
             "name": "MSTG Book Sprint - Mobile Operating Systems",
             "url": "/Working-Sessions/Mobile-Security/MSTG_01.html",
-            "location": "Villa-1",
+            "location": "Villa-2",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security",
@@ -7967,11 +8439,44 @@
         ]
       },
       "Fri": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
             "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "done",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - Reverse Engineering and Cracking",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_05.html",
+            "location": "Villa-2",
             "mode": "participating",
             "status": "done",
             "track": "Mobile Security",
@@ -7980,11 +8485,44 @@
         ]
       },
       "Thu": {
-        "no-time": [
+        "AM-1": [
           {
             "name": "MSTG Book Sprint - iOS Testing Guide",
             "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
-            "location": "no-location",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Mobile Security",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "MSTG Book Sprint - iOS Testing Guide",
+            "url": "/Working-Sessions/Mobile-Security/MSTG_04.html",
+            "location": "Villa-2",
             "mode": "participating",
             "status": "featured",
             "track": "Mobile Security",

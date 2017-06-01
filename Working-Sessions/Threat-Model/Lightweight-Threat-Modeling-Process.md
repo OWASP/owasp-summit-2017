@@ -1,12 +1,14 @@
 ---
-layout      : blocks/working-session
-title       : Lightweight Threat Modeling Process
-type        : workshop
-track       : Threat Model
-status      : review-content
-when-day    : Tue
-organizers  : Geoff Hill
-participants: Marc Rimbau,Felipe Zipitria,Robert Morschel,Avi Douglen,Stephen de Vries,Irene Michlin
+layout       : blocks/working-session
+title        : Lightweight Threat Modeling Process
+type         : workshop
+track        : Threat Model
+status       : review-content
+when-day     : Tue
+when-time    : AM-1
+location     : Room-1
+organizers   : Geoff Hill
+participants : Marc Rimbau,Felipe Zipitria,Robert Morschel,Avi Douglen,Stephen de Vries,Irene Michlin
 ---
 
 - Build a lightweight threat modeling process with artifacts (e.g. - RACI, DFDs, etc.) for Agile and/or DevOps environments
@@ -23,3 +25,4 @@ Result of workshop should be a short (only a few pages) overview on how to integ
  1. Discuss and decide the contents of a "MVP" TM for a continuous integration (CI) process.
  2. Define integration points for TM during CI.
  3. Define short (10 items or less) frameworks for threat types, countermeasure types, component types. Enable these frameworks to tie into larger libraries that will get defined outside the scope of this lighteight process.
+    

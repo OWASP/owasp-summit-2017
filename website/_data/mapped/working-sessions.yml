@@ -1300,6 +1300,8 @@ Creating AppSec Teams:
     organizers:
       - Dinis Cruz
     when-day: Tue
+    when-time: PM-2
+    location: Room-6
     participants:
       - Avi Douglen
       - Robert Morschel
@@ -2540,6 +2542,8 @@ Include OWASP projects as resources for the SAMM practices:
     track: OwaspSAMM
     status: draft
     when-day: Tue
+    when-time: PM-1
+    location: Villa-2
     organizers:
       - Sebastien Deleersnyder
     participants: []
@@ -3039,6 +3043,8 @@ Lightweight Threat Modeling Process:
     track: Threat Model
     status: review-content
     when-day: Tue
+    when-time: AM-1
+    location: Room-1
     organizers:
       - Geoff Hill
     participants:
@@ -3079,6 +3085,8 @@ MSTG Book Sprint - Android Testing Guide:
     technology: Mobile
     status: featured
     when-day: Wed
+    when-time: 'AM-1,PM-1,PM-2,PM-3'
+    location: Villa-2
     description: >-
       In this book sprint we produce content for the "Android Testing Guide"
       chapter of the Mobile Security Testing Guide.
@@ -3115,6 +3123,8 @@ MSTG Book Sprint - Mobile App Security Testing:
     technology: Mobile
     status: featured
     when-day: Tue
+    when-time: 'AM-1,PM-1,PM-2,PM-3'
+    location: Villa-2
     description: >-
       In this book sprint we produce content for the "Mobile Operating Systems"
       chapter of the Mobile Security Testing Guide.
@@ -3152,7 +3162,7 @@ MSTG Book Sprint - Mobile Operating Systems:
     status: done
     when-day: Mon
     when-time: 'AM-1,PM-1,PM-2,PM-3'
-    location: Villa-1
+    location: Villa-2
     description: >-
       In this book sprint we produce content for the "Mobile Operating Systems"
       chapter of the Mobile Security Testing Guide.
@@ -3189,6 +3199,8 @@ MSTG Book Sprint - Reverse Engineering and Cracking:
     technology: Mobile
     status: done
     when-day: Fri
+    when-time: 'AM-1,PM-1,PM-2,PM-3'
+    location: Villa-2
     description: >-
       In this book sprint we produce content for the reverse engineering
       chapters of the Mobile Security Testing Guide.
@@ -3225,6 +3237,8 @@ MSTG Book Sprint - iOS Testing Guide:
     technology: Mobile
     status: featured
     when-day: Thu
+    when-time: 'AM-1,PM-1,PM-2,PM-3'
+    location: Villa-2
     description: >-
       In this book sprint we produce content for the "iOS Testing Guide" chapter
       of the Mobile Security Testing Guide.
