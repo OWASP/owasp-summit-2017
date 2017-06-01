@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : draft
 organizers   : Azzeddine Ramrami
-participants :
+participants : Ade Yoseman Putra
 ---
 
 ...intro text...
