@@ -22,18 +22,32 @@ class Server
       res.end 'pong'
 
     @.app.use '/update', (req, res) =>
+
+      run_Command = (cmd,args, callback)->
+        childProcess = cmd.start_Process args
+        childProcess.stdout.on 'data', (data)-> console.log(data.str().trim())
+        childProcess.stderr.on 'data', (data)-> console.log(data.str().trim())
+        childProcess.on 'exit', ()->
+          callback()
+
       console.log '[request] /update'
-      'git'.start_Process_Redirect_Console 'pull'
-           .on 'exit', ()->
-              'npm'.start_Process_Redirect_Console 'run  build-data'
-                .on 'exit', ()->
-                  childProcess = './node_modules/.bin/gulp'.start_Process 'styles','pug','build'
-                  childProcess.stdout.on 'data', (data)-> console.log(data.str().trim())
-                  childProcess.stderr.on 'data', (data)-> console.log(data.str().trim())
-                  console.log '----------------'
-                  console.log req.url
-                  childProcess.on 'exit', ()->
-                    res.json { thanks: 'server-updated'}
+      console.time(".... Updating site");
+      run_Command 'git', 'pull', ->
+        run_Command 'npm',['run','build-data'], ->
+          run_Command './node_modules/.bin/gulp',['styles','pug','build'],->
+            console.timeEnd(".... Updating site");
+            res.json { thanks: 'server-updated'}
+#      'git'.start_Process_Redirect_Console 'pull'
+#           .on 'exit', ()->
+#              'npm'.start_Process_Redirect_Console 'run build-data'
+#                .on 'exit', ()->
+#                  childProcess = './node_modules/.bin/gulp'.start_Process 'styles','pug','build'
+#                  childProcess.stdout.on 'data', (data)-> console.log(data.str().trim())
+#                  childProcess.stderr.on 'data', (data)-> console.log(data.str().trim())
+#                  console.log '----------------'
+#                  console.log req.url
+#                  childProcess.on 'exit', ()->
+#                    res.json { thanks: 'server-updated'}
 
     @
 
