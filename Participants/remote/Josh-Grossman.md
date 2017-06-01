@@ -2,10 +2,11 @@
 layout          : blocks/page-participant
 title           : Josh Grossman
 type            : participant-remote
-job-title       :
+job-title       : Team Leader and Application Security Consultant
+company         : Comsec Global
 image           : https://pbs.twimg.com/profile_images/856433281214099456/zV995oDu_400x400.jpg
-linkedin        :
-twiter          : JoshCGrossman
+linkedin        : https://www.linkedin.com/in/joshuacgrossman/
+twitter         : JoshCGrossman
 facebook        :
 website         :
 email           :
