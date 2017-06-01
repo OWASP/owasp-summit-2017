@@ -5,6 +5,8 @@ type         : workshop
 track        : Owasp Projects
 status       : more-content
 when-day     : Mon
+when-time    : AM-1
+location     : Room-1
 organizers   :
 participants : Marc Rimbau,Johan Peeters
 ---

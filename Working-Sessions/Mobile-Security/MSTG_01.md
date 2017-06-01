@@ -7,6 +7,7 @@ owasp-project   : yes
 technology      : Mobile
 status          : done
 when-day        : Mon
+when-time       : AM-1,PM-1,PM-2,PM3
 description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : T.b.d.

@@ -8,6 +8,8 @@ technology   :
 related-to   : Integrating Security into an Spotify Model
 status       : review-content
 when-day     : Mon
+when-time    : AM-1
+location     : Room-3
 organizers   : David Clarke
 participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu
 ---

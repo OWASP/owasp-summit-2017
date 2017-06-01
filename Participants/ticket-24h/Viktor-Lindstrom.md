@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Viktor Lindström
+title           : Viktor Lindstrom
 type            : participant
 job-title       : IT Security Specialist
 company         : Volvo Cars Corporation

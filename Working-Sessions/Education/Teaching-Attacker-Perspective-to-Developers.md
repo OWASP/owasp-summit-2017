@@ -7,7 +7,7 @@ track          : Education
 technology     :
 related-to     : Juice Shop,NodeGoat,Webgoat
 status         : done
-when-day       : Evening
+when-day       : Eve
 organizers     : Bjoern Kimminich
 participants   : Robert Morschel, Timo Pagel
 ---

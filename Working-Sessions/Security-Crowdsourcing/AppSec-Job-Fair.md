@@ -7,7 +7,7 @@ track        : Security Crowdsourcing
 technology   :
 related-to   : Recruiting AppSec Talent,Role of Security Certification,Crowdsourcing Security Knowledge
 status       : review-content
-when-day     : Evening
+when-day     : Eve
 organizers   :
 participants : Ross Tanner,Francois Raynaud
 ---

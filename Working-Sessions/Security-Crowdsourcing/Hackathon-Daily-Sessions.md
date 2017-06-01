@@ -7,7 +7,7 @@ track        : Security Crowdsourcing
 technology   :
 related-to   : Juice Shop
 status       : draft
-when-day     : Evening
+when-day     : Eve
 organizers   : Leon Juranic
 participants :
 ---

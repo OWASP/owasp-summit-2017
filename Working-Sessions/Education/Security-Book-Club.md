@@ -7,7 +7,7 @@ track        : Education
 technology   :
 related-to   :
 status       : review-content
-when-day     : Evening
+when-day     : Eve
 organizers   :
 participants : Dinis Cruz,Bjoern Kimminich
 ---

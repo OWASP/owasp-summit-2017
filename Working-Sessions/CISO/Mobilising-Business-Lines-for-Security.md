@@ -5,8 +5,10 @@ type         : workshop
 owasp-project: yes
 track        : CISO
 technology   :
-status       : draft
+status       : review-content
 when-day     : Mon
+when-time    : PM-3
+location     : Room-4
 organizers   : Ante Gulam
 participants : Dinis Cruz
 ---
