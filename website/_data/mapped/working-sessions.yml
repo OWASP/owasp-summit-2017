@@ -5340,6 +5340,7 @@ TLS for Local IoT:
     when-day: Mon
     when-time: PM-1
     location: Room-1
+    locked: 'true'
     organizers:
       - Kevin Sheldrake
     participants:

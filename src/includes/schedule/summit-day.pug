@@ -2,6 +2,9 @@ mixin show-session-at-time
     | {% for session in day_Data[time]              %}
     div
         a(href="{{session.url}}") {{ session.name }}
+        | {% if session.locked %}
+        span.glyphicon.glyphicon-lock
+        | {% endif             %}
     .track-info {{ session.track }}
     | {% endfor                                     %}
 
@@ -12,11 +15,9 @@ mixin show-room
     td
         | {% assign time = 'AM-1'  %}
         + show-session-at-time
-
     td
         | {% assign time = 'PM-1'  %}
         + show-session-at-time
-
     td
         | {% assign time = 'PM-2'  %}
         + show-session-at-time
@@ -37,7 +38,6 @@ mixin show-room
             h3 {{ page.title }}
             p
                 a(href='/schedule') Back to schedule list
-
             table.table
                 thead
                     th.text-center
