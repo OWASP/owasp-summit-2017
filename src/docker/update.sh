@@ -4,5 +4,5 @@ echo "Updating owasp summit docker image to latest version (only works ok if the
 
 docker build --no-cache=true -t diniscruz/owasp-summit ./owasp-summit-update
 
-
+./start.sh
 

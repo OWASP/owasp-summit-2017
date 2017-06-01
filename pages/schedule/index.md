@@ -39,8 +39,8 @@ These working
 
 Here is the [Summit Schedule](./summit-schedule.html) showing all data from all Tracks
 
-* [Monday](./mon.html)
-* [Tuesday](./tue.html)
-* [Wednesday](./wed.html)
-* [Thursday](./thu.html)
-* [Friday](./fri.html)
+* [Monday](./Mon.html)
+* [Tuesday](./Tue.html)
+* [Wednesday](./Wed.html)
+* [Thursday](./Thu.html)
+* [Friday](./Fri.html)
