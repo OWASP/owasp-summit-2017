@@ -5,21 +5,23 @@ type         : workshop
 owasp-project: yes
 track        : Security Crowdsourcing
 status       : more-content
+when-day     : Wed
 organizers   :
 participants :
 ---
 
-#### Why
+## Why
 
-OWASP bug bounty program is the opportunity you are looking for to hack into defender libraries & ZAP
+The OWASP bug bounty programme is the opportunity you are looking for to hack into defender libraries & ZAP.
 
-Learn how we are trying to make web applications safe and how can you help us as bounty hunter to make them
-more secure
+At this Working Session, you can learn how we are trying to make web applications safe and how, as a bounty hunter, you can help us to make them more secure.
 
-#### When
+## Who
 
-Projected to occur on: 14 June, 2017
+The target audience for this Working Session is:
 
-#### More details
+--add text--
+
+## More details
 
 See [Get_Started_with_OWASP_Bug_Bounty](https://www.owasp.org/index.php/Get_Started_with_OWASP_Bug_Bounty)

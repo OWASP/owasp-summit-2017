@@ -5,6 +5,7 @@ type         : workshop
 owasp-project: no
 track        : OwaspSAMM
 status       : draft
+when-day     : Tue
 organizers   : Sebastien Deleersnyder
 participants:
 ---

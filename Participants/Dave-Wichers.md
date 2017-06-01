@@ -8,7 +8,7 @@ linkedin        : wichers
 twitter         : wichers
 facebook        :
 status          : done
-ticket          : 5x24h
+ticket          :
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

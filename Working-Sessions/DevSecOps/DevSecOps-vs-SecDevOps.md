@@ -3,24 +3,24 @@ layout      : blocks/working-session
 title       : DevSecOps vs SecDevOps
 type        : workshop
 track       : DevSecOps
-status      : need-organizer
-organizers  :
-participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria
+status      : draft
+when-day    : Evening
+organizers  : Francois Raynaud
+participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria,Avi Douglen
 ---
 
-Light hearted round table discussion on this very important topic in our community.
+This Working Session will be a light-hearted, round-table discussion on this very important topic in our community.
 
 Should we talk about SecDevOps or DevSecOps?
 
 ## Why
 
-As a community we need to clarify these terms so that we have consistency in our message
+As a community, we need to clarify these terms so that our message is consistent. 
 
 ## What
 
-Agree on what each terms means (maybe even going into OpsSecDev and OpsDevSec and BizSecDevOps).
-
-Create clear definitions of these terms
+- Agree on what each term means, perhaps even considering OpsSecDev, OpsDevSec, and BizSecDevOps.
+- Create clear definitions of these terms
 
 ## Who
 

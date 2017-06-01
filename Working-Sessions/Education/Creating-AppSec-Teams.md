@@ -8,24 +8,27 @@ technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,CISO
 status       : review-content
 organizers   : Dinis Cruz
-participants :
+when-day     : Tue
+participants : Avi Douglen, Robert Morschel
 ---
 
 ## Why
 
-Creating an AppSec team is a large challenge which needs strong executive support and mandate
+This Working Session will focus on how to create an AppSec team, a difficult challenge which needs a strong mandate and strong executive support.
 
 ## What
 
- - What is the best way to create an AppSec team from scratch
+ - What is the best way to create an AppSec team from scratch?
  - Common AppSec team structures
- - How to budget AppSec teams
+ - How to budget for AppSec teams
  - How to align with business objectives and priorities
- - Define AppSec team's Services and Practices
- - The role of Security Champions
- - Using development-focused 'AppSec Squads' to help facilitating the creation, testing and deployment of security fixes
+ - Define AppSec team's services and practices
+ - The role of security champions
+ - Using development-focused 'AppSec Squads' to help facilitate the creation, testing, and deployment of security fixes
 
 ## Who
+
+The target audience for this Working Session is:
 
  - AppSec professionals
  - CISOs

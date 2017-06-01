@@ -5,20 +5,25 @@ type         : workshop
 owasp-project: yes
 track        : Owasp
 status       : more-content
+when-day     : Thu
 organizers   : Mateo Martinez
 participants :
 ---
 
-This is the place to review latam situation and to plan the next steps for a growing region. Some Global AppSec Conferences plus OWASP Day and an awesome OWASP Latam Tour in more than 10 cities across Latin America are part of those unknown OWASP amazing activities happening all across the world. We need to plan together the next 5 years in Latam.
+This Working Session will review OWASP's position in Latin America (Latam) and plan the next steps for a growing region. Some OWASP activities planned include several global AppSec conferences, OWASP Day, and an awesome OWASP Latam Tour of more than 10 cities.
 
 ## Why
 
-OWASP community is growing in the region and there is a need for a vision and roadmap.
+The OWASP community is growing in the Latam region and there is a need for a vision and a roadmap. We need to plan for the next five years in Latin America. 
 
 ## What
 
-Plan next OWASP Latam Tour and APPSEC Conferences
+- Plan next OWASP Latam Tour and APPSEC Conferences
 
 ## Who
 
-Chapter Leader, Project Leaders, Sponsors
+The target audience for this Working Session is:
+
+- Chapter Leaders
+- Project Leaders
+- Sponsors

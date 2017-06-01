@@ -6,7 +6,7 @@ owasp-project: yes
 description  : Working Sessions related to the Owasp SAMM Project
 status       : done
 organizers   : Sebastien Deleersnyder
-participants : Dinis Cruz,Mateo Martinez,Brian Glas
+participants : Dinis Cruz,Mateo Martinez,Brian Glas,Avi Douglen, Yan Kravchenko
 ---
 
 We organise several [OWASP SAMM](https://www.owasp.org/index.php/OWASP_SAMM_Project) Working-Sessions as part of the OWASP summit.
@@ -23,7 +23,7 @@ Main objectives for the 2017 SAMM Summit are:
 
 
 ## Participants
-* [Seba Deleersnyder](../../Participants/sponsor/Sebastien-Deleersnyder.html)
+* [Seba Deleersnyder](../../Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html)
 * ... (add your name here by editing the [GitHub page](https://github.com/OWASP/owasp-summit-2017/edit/master/Working-Sessions/OwaspSAMM/index.md))
 
 ## Previous SAMM summits:

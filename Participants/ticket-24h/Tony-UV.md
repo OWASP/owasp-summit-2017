@@ -11,7 +11,6 @@ email           : tonyuv@owasp.org
 linkedin        :
 twitter         : t0nyuv
 facebook        :
-ticket          : 24h
 status          : need-content
 ticket          : 5x24h
 working-sessions:

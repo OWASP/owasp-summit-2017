@@ -1,11 +1,12 @@
 ---
-layout      : blocks/working-session
-title       : NextGen Security Scanners
-type        : workshop
-track       : Tools
-status      : done
-organizers  :
-participants: Bjoern Kimminich,Marc Rimbau
+layout       : blocks/working-session
+title        : NextGen Security Scanners
+type         : workshop
+track        : Tools
+status       : done
+when-day     : Thu
+organizers   :
+participants : Bjoern Kimminich,Marc Rimbau,Johan Peeters
 ---
 
 ### Problem statement

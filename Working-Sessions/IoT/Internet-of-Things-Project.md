@@ -3,9 +3,10 @@ layout       : blocks/working-session
 title        : OWASP Internet of Things Project
 type         : workshop
 owasp-project: yes
-track        : Project Summit
-status       : draft
+track        : Owasp Projects
 technology   : IoT
+status       : draft
+when-day     : Fri
 organizers   : Daniel Miessler
 participants :
 ---

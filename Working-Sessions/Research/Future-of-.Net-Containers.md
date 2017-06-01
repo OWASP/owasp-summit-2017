@@ -6,15 +6,16 @@ track        : Research
 technology   : .Net,Docker
 related-to   :
 status       : review-content
+when-day     : Fri
 organizers   :
 participants : PhotoBox
 ---
 
-Microsoft has been dockerizing .NET, but how realistic (and production ready) is this solution
+Microsoft has been Dockerizing .NET, but how realistic, and how ready for production, is this solution?
 
 ## Why
 
-Should companies on .NET stacks doing CI deployments be looking at refactoring their code into container friendly components?
+This Working Session will debate whether companies on .NET stacks doing CI deployments should consider refactoring their code into container-friendly components.
 
 ## What
 
@@ -23,6 +24,8 @@ Should companies on .NET stacks doing CI deployments be looking at refactoring t
  - Will Microsoft release a Docker alternative?
 
 ## Who
+
+The target audience for this Working Session is:
 
  - .NET Developers and Architects
  - Microsoft .NET team

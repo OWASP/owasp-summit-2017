@@ -192,6 +192,43 @@
   text-transform: uppercase;
 }
 
+.blog {
+  background-color: #eaeaea;
+  padding-bottom: 50px;
+}
+.blog h3 {
+  margin: 0px;
+}
+.blog .author a {
+  color: #87BB40;
+  margin: 0px;
+}
+.blog .card-top .date {
+  font-size: 70%;
+}
+.blog .card {
+  background-color: #efefef;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.247059) 0px 0px 5px;
+  border-radius: 1%;
+}
+.blog .card-top {
+  padding: 10px 10px 0px 10px;
+}
+.blog .card-block {
+  padding: 10px 10px 10px 10px;
+}
+.blog img {
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+}
+.blog-post h3 {
+  font-size: 220%;
+}
+.blog-post h4 {
+  color: #87BB40;
+}
+
 @media screen {
   .ws-title {
     min-height: 60px;
@@ -715,6 +752,21 @@
   text-decoration: none;
 }
 
+.schedule {
+  background-color: #f9f9f9;
+}
+.schedule table td a {
+  font-size: 80%;
+}
+.schedule table td .track {
+  font-size: 80%;
+}
+.schedule table td hr {
+  border-color: #ededed;
+  padding: 0px;
+  margin: 0px;
+}
+
 .search {
   background-color: #f9f9f9;
 }
@@ -1105,6 +1157,7 @@ body .page-content {
   margin: 0px;
 }
 .blocks-menu {
+  background: #eaeaea;
   float: right;
   font-family: 'Oswald';
 }

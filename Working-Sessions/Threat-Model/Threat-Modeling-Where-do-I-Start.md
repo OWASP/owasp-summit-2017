@@ -6,21 +6,33 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : draft
+status       : review-content
+when-day     : Tue
 organizers   :
-participants :
+participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu
 ---
 
-Single most common question I get from Developers
+With regard to threat modelling, the single most common question developers ask me is 'Where do I start?'
 
 ## Why
 
-...why text...
+In order to run, you need to learn to walk. 
+
+For an organisation or group to understand and use threat modelling, they should know where to start. This Working Session will create guidelines for the effective use of threat modelling.
 
 ## What
 
-...what text...
+- What guidelines could we provide to help teams get started?
+- What tools do they need?
+- Who should be involved? 
+- For starting threat modelling on an existing project/codebase - how to start without the need to cover everything (this shares some similarities with introducing tests to legacy software)
 
 ## Who
 
-... target audience ...
+The target audience for this Working Session is:
+
+- Developers
+- Architects
+- Security SMEs
+- SCRUM masters
+- Security champions

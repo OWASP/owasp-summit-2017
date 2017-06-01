@@ -1,0 +1,25 @@
+
+<div class="blog blog-post">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-2">
+        {% assign match = site.pages | where: 'title', page.author %}
+        {% if match[0] %}
+        {% if match[0].image != null %}<img src="{{ match[0].image }}" alt="{{ page.title }}" class="img-responsive"/>{% else %}<img src="/website/assets/img/blocks/400x400.png" alt="Placeholder 400x400" class="img-responsive"/>{% endif %}
+        <div class="author"><a href="{{match[0].url}}">{{ match[0].title }}</a></div>  {% else %}
+        <div class="author">{{ page.author }}</div>  {% endif %}
+        <div class="date">{{ page.date | date: "%-d %B" }}</div>
+      </div>
+      <div class="col-xs-10"><br/>
+        <h3>{{ page.title }}</h3>
+        <hr/>{{ page.content }}
+        <hr/>
+        <div class="row">
+          <div class="col-xs-4 text-left">{% if page.previous.url %}<a href="{{page.previous.url}}" title="{{ page.previous.title}}" class="prev">&laquo; previous post</a>{% endif %}</div>
+          <div class="col-xs-4 text-center"><a href="{{ site.data.links.blog }}" title="All posts" class="next"> all posts</a></div>
+          <div class="col-xs-4 text-right">{% if page.next.url %}<a href="{{page.next.url}}" title="{{ page.next.title}}" class="next">  next post &raquo;</a>{% endif %}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -7,7 +7,7 @@ track        : CISO
 technology   :
 status       : draft
 organizers   : Tobias Gondrom
-participants :
+participants : Yan Kravchenko
 ---
 
 https://www.owasp.org/index.php/OWASP_CISO_Survey

@@ -5,26 +5,43 @@ type         : workshop
 track        : Education
 technology   :
 related-to   :
-status       : need-organizer
-participants :
-organizers   :
+status       : review-content
+when-day     : Tue
+participants : 
+organizers   : Avi Douglen
 ---
 
 ## Why
 
-AppSec and InfoSec talent is really hard to find these days. There is also a challenge in opening up the industry to
-professionals who could do the jump but lack a clear roadmap on how to get into security.
+AppSec and InfoSec talent are difficult to find these days, for several reasons. It is a challenge for industry to accept professionals who are unhappy with their current employment, and would like to work in security, but only have experience in other areas of business. There are also many people just starting out in industry, and with no track record they cannot prove to a potential employer what they can achieve.  
+
+All the while, there is a lack of, and high demand for, professionals who can get the AppSec job done. 
 
 ## What
 
  - What can be done to improve the talent pool?
  - What is the best way to connect employees and employers?
- - Should Recruitment agencies have a much more proactive role in creating talent and finding job opportunities?
- - What should be the career path for developers who want to move into Security?
- - What is the role of Universities and Work placements?
+ - Should recruitment agencies have a more proactive role in creating talent and finding job opportunities?
+ - What should the career path be for developers who want to move into security?
+ - What is the role of universities and work placements?
+ - How can hiring managers efficiently judge a candidate's abilities and potential? 
+ - What are essential requirements, and what can be ignored? 
+ - How can a candidate show their worth to a prospective employer, without violating NDA on their previous work?
+ - How to make an employer, and specific positions, more attractive
+ - What can be done to improve morale and increase retention? 
+ - What are common career paths into AppSec and InfoSec? How can newbies break into the field, and how can senior practitioners advance? 
+ - What effects do globalisation and remote working technologies have on recruitment? 
+ 
+> Need to consider what will be the output of this session. 
 
 ## Who
 
- - AppSec Team leads
+The target audience for this Working Session is:
+
+ - AppSec team leads
+ - Technical managers
+ - Senior employees 
+ - Freelancers
  - Recruitment agencies
+ - Human resources
  - Universities

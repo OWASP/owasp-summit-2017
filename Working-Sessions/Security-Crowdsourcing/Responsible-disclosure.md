@@ -1,34 +1,32 @@
 ---
-layout      : blocks/working-session
-title       : Responsible Disclosure
-type        : workshop
-status      : more-content
-track       : Security Crowdsourcing
-organizers  :
-participants:
+layout       : blocks/working-session
+title        : Responsible Disclosure
+type         : workshop
+status       : more-content
+track        : Security Crowdsourcing
+when-day     : Tue
+organizers   : Devesh Bhatt
+participants : Francois Raynaud
 ---
 
-Responsible disclosure is a great way to have multiple eyes with different methodologies test your assets.
+Responsible disclosure is a great way to test your assets using multiple perspectives and different methodologies. This Working Session will explore creating and managing responsible disclosure programmes. 
 
-### Questions to ask
+## What
 
-1. Pros and cons of setting up a responsible disclosure program
-2. Important things (checklists) to keep in mind before starting a programs
-3. Responsible Disclosure legal framework accepted EU/country wide
-    Protect Researchers
-    Protect organization's key assets and NDA policy
-4. Understanding important third party players and their key services
-5. How to benefit best from a responsible disclosure program
-6. Success stories
-7. Future of responsible disclosure
+- Pros and cons of setting up a responsible disclosure programme
+- Checklists to keep in mind before starting a programme
+- Responsible Disclosure legal framework accepted EU/country wide
+   - Protect Researchers
+   - Protect organisation's key assets and NDA policy
+- Understanding important third-party players and their key services
+- How to benefit best from a responsible disclosure programme
+- Success stories
+- What is the future of responsible disclosure?
 
-### Participants (invited)
-We would like to invite the following people:
-* Casey Ellis (BugCrowd Founder)
-* Frans Rosen (Renowned bounty hunter)
+## Who
 
-as well as:
+The target audience for this Working Session is:
 
 * Leading bug bounty hunters
-* Companies with mature bug bounty programs (self managed)
+* Companies with mature bug bounty programmes (self-managed)
 * Third party leaders in managed bug bounties
