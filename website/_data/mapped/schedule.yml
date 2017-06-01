@@ -4,396 +4,587 @@ by_Day:
       no-time:
         - name: A comparison of strength and weaknesses of specific FOSS tools
           url: /Working-Sessions/Tools/Comparison-of-FOSS-Tools.html
+          track: Tools
         - name: AWS Lambda Security
           url: /Working-Sessions/Tools/AWS-Lambda-Security.html
+          track: Tools
         - name: Align Developers Guide and ASVS
           url: >-
             /Working-Sessions/Owasp-Projects/Align-Developers-Guide-and-ASVS.html
-        - name: AppSec Article 5 - Collective Defence Agreement
-          url: >-
-            /Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html
-        - name: AppSec for CISOs
-          url: /Working-Sessions/CISO/AppSec-for-CISOs.html
+          track: Owasp Projects
         - name: Application Security Verification Standard
           url: >-
             /Working-Sessions/Owasp-Projects/Application-Security-Verification-Standard.html
+          track: ''
         - name: Applying Top 10 to Standards
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Applying-Top-10-to-Standards.html
+          track: Owasp Top 10 2017
         - name: Benchmark Project
           url: /Working-Sessions/Owasp-Projects/Benchmark-Project.html
+          track: Owasp Projects
         - name: 'Best practices in using SAST, DAST, IAST and RASP Tools'
           url: /Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html
+          track: Tools
         - name: BeyondCorp for internal Web Applications
           url: >-
             /Working-Sessions/Research/BeyondCorp-for-internal-Web-Applications.html
+          track: Research
         - name: Browser Security
           url: /Working-Sessions/Browser-security.html
+          track: ''
         - name: CISO Survey
           url: /Working-Sessions/CISO/CISO-Survey.html
+          track: CISO
         - name: CRSFGuard
           url: /Working-Sessions/Owasp-Projects/CRSFGuard.html
+          track: ''
         - name: Create CheatSheet Writing Security Unit Tests
           url: >-
             /Working-Sessions/Owasp-Projects/Create-CheatSheet-Writing
             Security-Unit-Tests.html
+          track: Owasp Projects
         - name: Creation and Optimization of a Docker Security Workshop
           url: /Working-Sessions/Education/Docker-Seucrity-Workshop.html
+          track: Education
         - name: Cyber Security Economics
           url: /Working-Sessions/Education/Cyber-Security-Economics.html
+          track: Education
         - name: Docker Security
           url: /Working-Sessions/DevSecOps/Docker-Security.html
+          track: DevSecOps
         - name: GSMA IoT Security Guidelines
           url: /Working-Sessions/IoT/GSMA-IoT-Security-Guidelines.html
+          track: ''
         - name: How is the Top 10 Used in Real World
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/How-is-the-Top-10-Used-in-Real-World.html
+          track: Owasp Top 10 2017
         - name: Integrating Security Tools in the SDL
           url: /Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html
+          track: DevSecOps
         - name: LANGSEC Language-theoretic Security
           url: /Working-Sessions/Research/LANGSEC-Language-theoretic-Security.html
+          track: Research
         - name: Netflix Resilience Engineering
           url: /Working-Sessions/DevSecOps/Netflix-Resilience-Engineering.html
+          track: DevSecOps
         - name: Netflix Security Automation
           url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
+          track: DevSecOps
         - name: New Top 10 - Deserialisation Vulnerabilities
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/New-Top-10-Deserialisation-Vulnerabilities.html
+          track: Owasp Top 10 2017
         - name: Node Security Round Table
           url: /Working-Sessions/DevSecOps/Node-Security-Round-Table.html
+          track: DevSecOps
         - name: OWASP Chapter Leader Handbook
           url: /Working-Sessions/Owasp/Owasp-Chapter-Handbook.html
+          track: Owasp
         - name: OWASP Proactive Controls
           url: /Working-Sessions/Owasp-Projects/Proactive-Controls.html
+          track: Owasp Projects
         - name: Owasp-Website
           url: /Working-Sessions/Owasp/Owasp-Website.html
+          track: Owasp
         - name: Protobuf for Data Validation Between Services
           url: >-
             /Working-Sessions/Research/Protobuf-for-Data-Validation-Between-Services.html
+          track: Research
         - name: Radical Candor
           url: /Working-Sessions/Radical-Candor.html
+          track: ''
         - name: SRE Security Activities
           url: /Working-Sessions/DevSecOps/SRE-Security-Activities.html
+          track: DevSecOps
         - name: Scaling Agile Planning and Education.md
           url: >-
             /Working-Sessions/Agile-AppSec/Scaling-Agile-Planning-and-Education.html
+          track: Agile AppSec
         - name: Securing the CI Pipeline
           url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
+          track: DevSecOps
         - name: Security Architecture Recommendations for IoT
           url: >-
             /Working-Sessions/IoT/Security-Architecture-Recommendations-for-IoT.html
+          track: ''
         - name: Security Knowledge Framework
           url: /Working-Sessions/Owasp-Projects/Security-Knowledge-Framework.html
+          track: ''
         - name: Security Labels
           url: /Working-Sessions/Research/Security-Labels.html
+          track: Research
         - name: Security-Review-pure-Javascript-Applications
           url: /Working-Sessions/Security-Review-pure-Javascript-Applications.html
+          track: ''
         - name: Synchronize Multiple Owasp Top 10s
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Synchronize-Multiple-Owasp-Top-10s.html
+          track: Owasp Top 10
         - name: Threat Modeling pure Javascript Applications
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-pure-Javascript-Applications.html
+          track: Threat Model
         - name: Top 10 merge with Proactive Controls
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Top-10-merge-with-Proactive-Controls.html
+          track: Owasp Top 10 2017
         - name: Use Threat Models to Lock Developers Briefs
           url: >-
             /Working-Sessions/Threat-Model/Use-Threat-Models-to-Lock-Developers-Briefs.html
+          track: Threat Model
         - name: Using Holacracy in Working Sessions
           url: /Working-Sessions/Using-Holacracy-in-Working-Sessions.html
+          track: ''
         - name: WAF Best Practices
           url: /Working-Sessions/DevSecOps/WAF-best-practices.html
+          track: DevSecOps
   Tue:
     no-location:
       no-time:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
+          track: Owasp Top 10 2017
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
+          track: Owasp Top 10 2017
         - name: Agile Practices for Security Teams
           url: >-
             /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
+          track: Agile AppSec
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
+          track: DevSecOps
         - name: Creating AppSec Talent (next 100k professionals)
           url: /Working-Sessions/Education/Creating-AppSec-Talent.html
+          track: Education
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
+          track: Education
         - name: Crowdsourcing Security Knowledge
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
+          track: Security Crowdsourcing
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
+          track: OwaspSAMM
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
+          track: Owasp Top 10 2017
         - name: Include OWASP projects as resources for the SAMM practices
           url: >-
             /Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html
+          track: OwaspSAMM
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
+          track: Agile AppSec
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          track: Threat Model
         - name: MSTG Book Sprint - Mobile App Security Testing
           url: /Working-Sessions/Mobile-Security/MSTG_02.html
+          track: Mobile Security
         - name: NodeGoat
           url: /Working-Sessions/Owasp-Projects/NodeGoat.html
+          track: Owasp Projects
         - name: O-Saft
           url: /Working-Sessions/Owasp-Projects/O-Saft.html
+          track: Owasp Projects
         - name: OWASP Projects Reviews
           url: /Working-Sessions/Owasp-Projects/OWASP-Projects-Review.html
+          track: Owasp Projects
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
+          track: Education
         - name: Responsible Disclosure
           url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
+          track: Security Crowdsourcing
         - name: Security Champions
           url: /Working-Sessions/Agile-AppSec/Security-Champions.html
+          track: Agile AppSec
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
+          track: Owasp Projects
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
+          track: Threat Model
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
+          track: Threat Model
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
+          track: OwaspSAMM
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
+          track: Agile AppSec
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-  Evening:
+          track: Owasp Top 10 2017
+  Thu:
+    Room-4:
+      AM-1:
+        - name: AppSec Article 5 - Collective Defence Agreement
+          url: >-
+            /Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html
+          track: CISO
+      PM-2:
+        - name: AppSec for CISOs
+          url: /Working-Sessions/CISO/AppSec-for-CISOs.html
+          track: CISO
+      PM-3:
+        - name: SAMM Metrics for Enterprise
+          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
+          track: CISO
+    no-location:
+      no-time:
+        - name: AppSec SOC Monitoring Visualisation
+          url: /Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html
+          track: DevSecOps
+        - name: Cross-Company Hackathons
+          url: >-
+            /Working-Sessions/Security-Crowdsourcing/Cross-Company-Hackathons.html
+          track: Security Crowdsourcing
+        - name: ELK Security Dashboards
+          url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
+          track: DevSecOps
+        - name: Evaluation/Optimization/Creation of Training Slides
+          url: >-
+            /Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html
+          track: Education
+        - name: Integrating Security into a Sales Channel
+          url: >-
+            /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Sales-Channel.html
+          track: Agile AppSec
+        - name: Integrating Security into an Spotify Model
+          url: >-
+            /Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html
+          track: Agile AppSec
+        - name: Internal Bug Bounties Programmes
+          url: >-
+            /Working-Sessions/Security-Crowdsourcing/Internal-Bug-Bounties-Programmes.html
+          track: Security Crowdsourcing
+        - name: Lessons learned from public bug bounties programmes
+          url: >-
+            /Working-Sessions/Security-Crowdsourcing/Lessons-learned-from-public-bug-bounties-programmes.html
+          track: Security Crowdsourcing
+        - name: MSTG Book Sprint - iOS Testing Guide
+          url: /Working-Sessions/Mobile-Security/MSTG_04.html
+          track: Mobile Security
+        - name: Maturity Models tool
+          url: /Working-Sessions/OwaspSAMM/Maturity-Models-Tool.html
+          track: OwaspSAMM
+        - name: NextGen Security Scanners
+          url: /Working-Sessions/Tools/NextGen-SecurityScanners.html
+          track: Tools
+        - name: Owasp Chapter Treasury
+          url: /Working-Sessions/Owasp/Owasp-Chapter-Treasury.html
+          track: Owasp
+        - name: Owasp Latam Region
+          url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
+          track: Owasp
+        - name: Owasp Student Chapters
+          url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
+          track: Owasp
+        - name: Reverse Engineering APK's with Bytecodeviewer
+          url: /Working-Sessions/Tools/Bytecodevierwer.html
+          track: Tools
+        - name: Review and improve the 12 SAMM practices
+          url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
+          track: OwaspSAMM
+        - name: Securing GitHub Integrations
+          url: /Working-Sessions/DevSecOps/Securing-GitHub-Integrations.html
+          track: DevSecOps
+        - name: Securing Legacy Applications
+          url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
+          track: DevSecOps
+        - name: Threat Modeling Cloud Migrations
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cloud-Migrations.html
+          track: Threat Model
+        - name: Threat Modeling IoT Devices
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-IoT-Devices.html
+          track: Threat Model
+        - name: Threat Modeling by Feature and Layer
+          url: >-
+            /Working-Sessions/Threat-Model/Threat-Modeling-by-Feature-and-Layer.html
+          track: Threat Model
+        - name: Visit Bletchley Park
+          url: /Working-Sessions/Education/visit-Bletchley-Park.html
+          track: ''
+        - name: Women in Cyber
+          url: /Working-Sessions/Women-in-Cyber.html
+          track: ''
+      Eve:
+        - name: Closing party
+          url: /Working-Sessions/closing-party.html
+          track: ''
+  Eve:
     no-location:
       no-time:
         - name: AppSec Job Fair
           url: /Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html
+          track: Security Crowdsourcing
         - name: CTFs
           url: /Working-Sessions/Education/CTFs.html
+          track: Education
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
+          track: DevSecOps
         - name: Hackathon Daily Sessions
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Hackathon-Daily-Sessions.html
+          track: Security Crowdsourcing
         - name: Security Book Club
           url: /Working-Sessions/Education/Security-Book-Club.html
+          track: Education
         - name: Teaching Attacker perspective to Developers
           url: >-
             /Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html
+          track: Education
   Wed:
     no-location:
       no-time:
         - name: AppSec Review and Pentest Playbook
           url: >-
             /Working-Sessions/Security-Playbooks/AppSec-Review-and-Pentest-Playbook.html
+          track: Security Playbooks
         - name: Application Security BSc/Masters Curriculum Design
           url: >-
             /Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html
-        - name: Application Security Guide for CISO
-          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-        - name: CISO Round table
-          url: /Working-Sessions/CISO/CISO-Round-Table.html
-        - name: Cyber Insurance
-          url: /Working-Sessions/CISO/Cyber-Insurance.html
+          track: Education
         - name: GPG Infrastructure for OWASP
           url: /Working-Sessions/Owasp/GPG-Infrastructure-for-OWASP.html
+          track: Owasp
         - name: Incident Response Playbook
           url: /Working-Sessions/Security-Playbooks/Incident-Response-Playbook.html
-        - name: InfoSec Warranties and Guarantees
-          url: /Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html
+          track: Security Playbooks
         - name: JIRA Risk Workflow
           url: /Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html
+          track: ''
         - name: MSTG Book Sprint - Android Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_03.html
+          track: Mobile Security
         - name: Media Handling Playbook
           url: /Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html
+          track: Security Playbooks
         - name: OWASP Bug Bounty
           url: /Working-Sessions/Security-Crowdsourcing/Owasp-Bug-Bounty.html
+          track: Security Crowdsourcing
         - name: Owasp Orizon Reboot
           url: /Working-Sessions/Owasp-Projects/Orizon-Reboot.html
+          track: Owasp Projects
         - name: Security Guidance and Feedback in IDE
           url: >-
             /Working-Sessions/DevSecOps/Security-Guidance-and-Feedback-in-IDE.html
+          track: DevSecOps
         - name: Security Monitoring Playbooks
           url: >-
             /Working-Sessions/Security-Playbooks/Security-Monitoring-Playbooks.html
+          track: Security Playbooks
         - name: Software Defined Everything (SDx)
           url: /Working-Sessions/Education/Software-Defined-Everything-(SDx).html
+          track: Education
         - name: The Future of Privacy
           url: /Working-Sessions/The-future-of-privacy.html
+          track: ''
         - name: Threat Modeling OWASP Pages
           url: /Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html
+          track: Threat Model
         - name: Threat Modeling Scaling and Security Champions
           url: /Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html
+          track: Threat Model
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
+          track: DevSecOps
         - name: Using JIRA and Confluence to Store Threat Model Data
           url: >-
             /Working-Sessions/Threat-Model/Using-JIRA-and-Confluence-to-Store-Threat-Model-Data.html
+          track: Threat Model
         - name: Webgoat
           url: /Working-Sessions/Owasp-Projects/WebGoat.html
+          track: Owasp Projects
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
+          track: DevSecOps
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
-  Thu:
-    no-location:
-      no-time:
-        - name: AppSec SOC Monitoring Visualisation
-          url: /Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html
-        - name: Cross-Company Hackathons
-          url: >-
-            /Working-Sessions/Security-Crowdsourcing/Cross-Company-Hackathons.html
-        - name: ELK Security Dashboards
-          url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
-        - name: Evaluation/Optimization/Creation of Training Slides
-          url: >-
-            /Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html
-        - name: Integrating Security into a Sales Channel
-          url: >-
-            /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Sales-Channel.html
-        - name: Integrating Security into an Spotify Model
-          url: >-
-            /Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html
-        - name: Internal Bug Bounties Programmes
-          url: >-
-            /Working-Sessions/Security-Crowdsourcing/Internal-Bug-Bounties-Programmes.html
-        - name: Lessons learned from public bug bounties programmes
-          url: >-
-            /Working-Sessions/Security-Crowdsourcing/Lessons-learned-from-public-bug-bounties-programmes.html
-        - name: MSTG Book Sprint - iOS Testing Guide
-          url: /Working-Sessions/Mobile-Security/MSTG_04.html
-        - name: Maturity Models tool
-          url: /Working-Sessions/OwaspSAMM/Maturity-Models-Tool.html
-        - name: NextGen Security Scanners
-          url: /Working-Sessions/Tools/NextGen-SecurityScanners.html
-        - name: Owasp Chapter Treasury
-          url: /Working-Sessions/Owasp/Owasp-Chapter-Treasury.html
-        - name: Owasp Latam Region
-          url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
-        - name: Owasp Student Chapters
-          url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
-        - name: Reverse Engineering APK's with Bytecodeviewer
-          url: /Working-Sessions/Tools/Bytecodevierwer.html
-        - name: Review and improve the 12 SAMM practices
-          url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
-        - name: Securing GitHub Integrations
-          url: /Working-Sessions/DevSecOps/Securing-GitHub-Integrations.html
-        - name: Securing Legacy Applications
-          url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
-        - name: Threat Modeling Cloud Migrations
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cloud-Migrations.html
-        - name: Threat Modeling IoT Devices
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-IoT-Devices.html
-        - name: Threat Modeling by Feature and Layer
-          url: >-
-            /Working-Sessions/Threat-Model/Threat-Modeling-by-Feature-and-Layer.html
-        - name: Visit Bletchley Park
-          url: /Working-Sessions/Education/visit-Bletchley-Park.html
-        - name: Women in Cyber
-          url: /Working-Sessions/Women-in-Cyber.html
-      Evening:
-        - name: Closing party
-          url: /Working-Sessions/closing-party.html
+          track: Owasp Projects
+    Room-4:
+      AM-1:
+        - name: Application Security Guide for CISO
+          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
+          track: CISO
+        - name: CISO Round table
+          url: /Working-Sessions/CISO/CISO-Round-Table.html
+          track: CISO
+      PM-3:
+        - name: Cyber Insurance
+          url: /Working-Sessions/CISO/Cyber-Insurance.html
+          track: CISO
+      PM-1:
+        - name: InfoSec Warranties and Guarantees
+          url: /Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html
+          track: CISO
   Fri:
     no-location:
       no-time:
         - name: Bug Bounty Playbook
           url: /Working-Sessions/Security-Playbooks/Bug-Bounty-Playbook.html
+          track: Security Playbooks
         - name: Diffing and Version Control Threat Models
           url: >-
             /Working-Sessions/Threat-Model/Diffing-and-Version-Control-Threat-Models.html
+          track: Threat Model
         - name: DoS Playbook
           url: /Working-Sessions/Security-Playbooks/DoS-Playbook.html
+          track: Security Playbooks
         - name: Due Diligence Playbook
           url: /Working-Sessions/Security-Playbooks/Due-Diligence-Playbook.html
+          track: Security Playbooks
         - name: Future of .Net Containers
           url: /Working-Sessions/Research/Future-of-.Net-Containers.html
+          track: Research
         - name: GraphQL Security Review
           url: /Working-Sessions/Research/GraphQL-Security-Review.html
+          track: Research
         - name: IAM for REST APIs
           url: /Working-Sessions/Owasp-Projects/IAM-for-REST-APIs.html
+          track: Owasp Projects
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
           url: /Working-Sessions/Mobile-Security/MSTG_05.html
+          track: Mobile Security
         - name: OWASP Game Security Framework
           url: /Working-Sessions/Owasp-Projects/Game-Security-Framework.html
+          track: Owasp Projects
         - name: OWASP Internet of Things Project
           url: /Working-Sessions/IoT/Internet-of-Things-Project.html
+          track: Owasp Projects
         - name: OWASP Risk Rating Management Project
           url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
+          track: Owasp Projects
         - name: Ransomware Playbook
           url: /Working-Sessions/Security-Playbooks/Ransomware-Playbook.html
+          track: Security Playbooks
         - name: Role of Security Certification
           url: /Working-Sessions/Education/Role-of-Security-Certifications.html
+          track: Education
         - name: Scaling Static Analysis Reviews and Deployments
           url: >-
             /Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html
+          track: Tools
         - name: Sign Ceremony for Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Sign-Ceremony-for-Owasp-Top-10-2017.html
+          track: Owasp Top 10 2017
         - name: Using ML and AI to detect Attacks
           url: /Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html
+          track: Research
   Mon:
-    no-location:
-      no-time:
+    Room-1:
+      AM-1:
         - name: Cheat Sheets
           url: /Working-Sessions/Owasp-Projects/Cheatsheets.html
+          track: Owasp Projects
+      PM-1:
         - name: Create Jira Workflows for Security Playbooks
           url: >-
             /Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html
+          track: Security Playbooks
+    no-location:
+      no-time:
         - name: Data behind Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html
-        - name: Define Agile Security Practices
-          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          track: Owasp Top 10 2017
         - name: Dependency Check
           url: /Working-Sessions/Owasp-Projects/Dependency-Check.html
-        - name: GDPR and DPO AppSec implications
-          url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
+          track: Owasp Projects
         - name: GitHub Organization Reboot
           url: /Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html
-        - name: Growing the AppSec Industry
-          url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
+          track: Owasp Projects
         - name: Is the Owasp Top 10 Data Collection Open
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html
+          track: Owasp Top 10 2017
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
-        - name: MSTG Book Sprint - Mobile Operating Systems
-          url: /Working-Sessions/Mobile-Security/MSTG_01.html
-        - name: Mobilising Business Lines for Security
-          url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
+          track: Owasp Projects
         - name: Playbooks Common Format
           url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
+          track: Security Playbooks
         - name: Playbooks vs Handbooks
           url: /Working-Sessions/Security-Playbooks/Playbooks-vs-Handbooks.html
+          track: Security Playbooks
         - name: Recommending ESAPI in Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html
-        - name: SAMM Metrics for Enterprise
-          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
+          track: Owasp Top 10 2017
         - name: Security Guild vs Security Champions
           url: >-
             /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
+          track: Agile AppSec
         - name: Security Playbooks Diagrams
           url: >-
             /Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html
+          track: Security Playbooks
         - name: TLS for Local IoT
           url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
+          track: DevSecOps
         - name: Threat Modeling Diagramming Techniques
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html
+          track: Threat Model
         - name: Threat Modeling Schema
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Schema.html
+          track: Threat Model
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
+          track: Threat Model
         - name: Top 10 Selection Criteria
           url: /Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html
+          track: Owasp Top 10 2017
+      AM-1:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          track: Mobile Security
+      PM-1:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          track: Mobile Security
+      PM-2:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          track: Mobile Security
+      PM3:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          track: Mobile Security
+    Room-3:
+      AM-1:
+        - name: Define Agile Security Practices
+          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          track: Agile AppSec
+    Room-4:
+      PM-3:
+        - name: GDPR and DPO AppSec implications
+          url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
+          track: CISO
+        - name: Mobilising Business Lines for Security
+          url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
+          track: CISO
+      PM-2:
+        - name: Growing the AppSec Industry
+          url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
+          track: CISO
 by_Participant:
   Steven Wierckx:
     no-day:
@@ -403,6 +594,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Tools
     Thu:
       no-time:
         - name: Visit Bletchley Park
@@ -410,6 +602,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: ''
   Helen Bravo:
     no-day:
       no-time:
@@ -418,27 +611,32 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: Docker Security
           url: /Working-Sessions/DevSecOps/Docker-Security.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Integrating Security Tools in the SDL
           url: /Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Scaling Agile Planning and Education.md
           url: >-
             /Working-Sessions/Agile-AppSec/Scaling-Agile-Planning-and-Education.html
           location: no-location
           mode: participating
           status: draft
+          track: Agile AppSec
         - name: Securing the CI Pipeline
           url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Tue:
       no-time:
         - name: Agile Practices for Security Teams
@@ -447,18 +645,15 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Mon:
-      no-time:
+      AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
+          location: Room-3
           mode: participating
           status: review-content
-        - name: SAMM Metrics for Enterprise
-          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
-          location: no-location
-          mode: participating
-          status: done
+          track: Agile AppSec
     Thu:
       no-time:
         - name: ELK Security Dashboards
@@ -466,23 +661,34 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Evaluation/Optimization/Creation of Training Slides
           url: >-
             /Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html
           location: no-location
           mode: participating
           status: draft
+          track: Education
         - name: Integrating Security into an Spotify Model
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Securing Legacy Applications
           url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
+      PM-3:
+        - name: SAMM Metrics for Enterprise
+          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
+          location: Room-4
+          mode: participating
+          status: done
+          track: CISO
     Fri:
       no-time:
         - name: Scaling Static Analysis Reviews and Deployments
@@ -491,6 +697,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Tools
     Wed:
       no-time:
         - name: Security Guidance and Feedback in IDE
@@ -499,11 +706,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
   Madhu Akula:
     no-day:
       no-time:
@@ -512,26 +721,31 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: AWS Lambda Security
           url: /Working-Sessions/Tools/AWS-Lambda-Security.html
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: Docker Security
           url: /Working-Sessions/DevSecOps/Docker-Security.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Netflix Security Automation
           url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: SRE Security Activities
           url: /Working-Sessions/DevSecOps/SRE-Security-Activities.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Tue:
       no-time:
         - name: Agile Practices for Security Teams
@@ -540,22 +754,26 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Crowdsourcing Security Knowledge
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Crowdsourcing
     Thu:
       no-time:
         - name: AppSec SOC Monitoring Visualisation
@@ -563,18 +781,21 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: ELK Security Dashboards
           url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
           location: no-location
           mode: participating
           status: draft
-    Evening:
+          track: DevSecOps
+    Eve:
       no-time:
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Mon:
       no-time:
         - name: Juice Shop
@@ -582,6 +803,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Projects
     Wed:
       no-time:
         - name: Threat and Vulnerability Management
@@ -589,6 +811,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
   Dave Wichers:
     Tue:
       no-time:
@@ -597,18 +820,21 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
     no-day:
       no-time:
         - name: Benchmark Project
@@ -616,6 +842,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Projects
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -624,23 +851,27 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Owasp Top 10 2017
         - name: Is the Owasp Top 10 Data Collection Open
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
         - name: Recommending ESAPI in Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Top 10 2017
         - name: Top 10 Selection Criteria
           url: /Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
     Fri:
       no-time:
         - name: Sign Ceremony for Owasp Top 10 2017
@@ -649,6 +880,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
   Johanna Curiel:
     Tue:
       no-time:
@@ -657,17 +889,20 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
         - name: OWASP Projects Reviews
           url: /Working-Sessions/Owasp-Projects/OWASP-Projects-Review.html
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Projects
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -676,6 +911,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Owasp Top 10 2017
     Thu:
       no-time:
         - name: Reverse Engineering APK's with Bytecodeviewer
@@ -683,6 +919,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Tools
   Claudia Cassanovas:
     Tue:
       no-time:
@@ -691,12 +928,14 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
   Johan Peeters:
     Tue:
       no-time:
@@ -705,17 +944,20 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
     Thu:
       no-time:
         - name: AppSec SOC Monitoring Visualisation
@@ -723,38 +965,46 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: ELK Security Dashboards
           url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: NextGen Security Scanners
           url: /Working-Sessions/Tools/NextGen-SecurityScanners.html
           location: no-location
           mode: participating
           status: done
+          track: Tools
     Mon:
-      no-time:
+      AM-1:
         - name: Cheat Sheets
           url: /Working-Sessions/Owasp-Projects/Cheatsheets.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: more-content
+          track: Owasp Projects
+      no-time:
         - name: Dependency Check
           url: /Working-Sessions/Owasp-Projects/Dependency-Check.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp Projects
         - name: TLS for Local IoT
           url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     no-day:
       no-time:
         - name: Docker Security
@@ -762,16 +1012,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: LANGSEC Language-theoretic Security
           url: /Working-Sessions/Research/LANGSEC-Language-theoretic-Security.html
           location: no-location
           mode: participating
           status: draft
+          track: Research
         - name: Securing the CI Pipeline
           url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Fri:
       no-time:
         - name: IAM for REST APIs
@@ -779,6 +1032,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Owasp Projects
     Wed:
       no-time:
         - name: Security Monitoring Playbooks
@@ -787,16 +1041,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: The Future of Privacy
           url: /Working-Sessions/The-future-of-privacy.html
           location: no-location
           mode: participating
           status: done
+          track: ''
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
   Chris Cooper:
     Tue:
       no-time:
@@ -805,28 +1062,33 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Creating AppSec Talent (next 100k professionals)
           url: /Working-Sessions/Education/Creating-AppSec-Talent.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Projects
     Mon:
-      no-time:
+      AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
+          location: Room-3
           mode: participating
           status: review-content
+          track: Agile AppSec
     Thu:
       no-time:
         - name: Integrating Security into a Sales Channel
@@ -835,6 +1097,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Wed:
       no-time:
         - name: JIRA Risk Workflow
@@ -842,11 +1105,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: ''
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
     no-day:
       no-time:
         - name: Security Labels
@@ -854,7 +1119,8 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
-    Evening:
+          track: Research
+    Eve:
       no-time:
         - name: Teaching Attacker perspective to Developers
           url: >-
@@ -862,6 +1128,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Education
   Nuno Loureiro:
     Tue:
       no-time:
@@ -870,24 +1137,28 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Agile Practices for Security Teams
           url: >-
             /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
     Wed:
       no-time:
         - name: AppSec Review and Pentest Playbook
@@ -896,23 +1167,28 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-        - name: Cyber Insurance
-          url: /Working-Sessions/CISO/Cyber-Insurance.html
-          location: no-location
-          mode: participating
-          status: review-content
+          track: Security Playbooks
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
           location: no-location
           mode: participating
           status: more-content
-    Mon:
-      no-time:
-        - name: Growing the AppSec Industry
-          url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
-          location: no-location
+          track: Owasp Projects
+      PM-3:
+        - name: Cyber Insurance
+          url: /Working-Sessions/CISO/Cyber-Insurance.html
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
+    Mon:
+      PM-2:
+        - name: Growing the AppSec Industry
+          url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
     no-day:
       no-time:
         - name: Integrating Security Tools in the SDL
@@ -920,11 +1196,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Securing the CI Pipeline
           url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Thu:
       no-time:
         - name: Securing GitHub Integrations
@@ -932,7 +1210,8 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-    Evening:
+          track: DevSecOps
+    Eve:
       no-time:
         - name: Teaching Attacker perspective to Developers
           url: >-
@@ -940,6 +1219,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Education
     Fri:
       no-time:
         - name: Using ML and AI to detect Attacks
@@ -947,6 +1227,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Research
   Tiago Mendo:
     Tue:
       no-time:
@@ -955,50 +1236,59 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Agile Practices for Security Teams
           url: >-
             /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: NodeGoat
           url: /Working-Sessions/Owasp-Projects/NodeGoat.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: O-Saft
           url: /Working-Sessions/Owasp-Projects/O-Saft.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Projects
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
     Wed:
       no-time:
         - name: AppSec Review and Pentest Playbook
@@ -1007,37 +1297,46 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-        - name: Application Security Guide for CISO
-          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
-          mode: participating
-          status: review-content
-        - name: Cyber Insurance
-          url: /Working-Sessions/CISO/Cyber-Insurance.html
-          location: no-location
-          mode: participating
-          status: review-content
+          track: Security Playbooks
         - name: Security Guidance and Feedback in IDE
           url: >-
             /Working-Sessions/DevSecOps/Security-Guidance-and-Feedback-in-IDE.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Webgoat
           url: /Working-Sessions/Owasp-Projects/WebGoat.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp Projects
+      AM-1:
+        - name: Application Security Guide for CISO
+          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
+      PM-3:
+        - name: Cyber Insurance
+          url: /Working-Sessions/CISO/Cyber-Insurance.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -1046,21 +1345,26 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
-        - name: GDPR and DPO AppSec implications
-          url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
-          location: no-location
-          mode: participating
-          status: review-content
+          track: Owasp Top 10 2017
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Projects
         - name: Top 10 Selection Criteria
           url: /Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
+      PM-3:
+        - name: GDPR and DPO AppSec implications
+          url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
     Fri:
       no-time:
         - name: IAM for REST APIs
@@ -1068,11 +1372,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: Using ML and AI to detect Attacks
           url: /Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html
           location: no-location
           mode: participating
           status: review-content
+          track: Research
     no-day:
       no-time:
         - name: Node Security Round Table
@@ -1080,6 +1386,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
     Thu:
       no-time:
         - name: Securing GitHub Integrations
@@ -1087,12 +1394,14 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Securing Legacy Applications
           url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
           location: no-location
           mode: participating
           status: review-content
-    Evening:
+          track: DevSecOps
+    Eve:
       no-time:
         - name: Teaching Attacker perspective to Developers
           url: >-
@@ -1100,6 +1409,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Education
   Erez Yalon:
     Tue:
       no-time:
@@ -1109,18 +1419,21 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
     no-day:
       no-time:
         - name: AWS Lambda Security
@@ -1128,16 +1441,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: Benchmark Project
           url: /Working-Sessions/Owasp-Projects/Benchmark-Project.html
           location: no-location
           mode: participating
           status: draft
+          track: Owasp Projects
         - name: Docker Security
           url: /Working-Sessions/DevSecOps/Docker-Security.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -1146,12 +1462,14 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
         - name: Is the Owasp Top 10 Data Collection Open
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
   Ohad Rabinovich:
     Tue:
       no-time:
@@ -1161,18 +1479,21 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
     no-day:
       no-time:
         - name: AWS Lambda Security
@@ -1180,16 +1501,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: Benchmark Project
           url: /Working-Sessions/Owasp-Projects/Benchmark-Project.html
           location: no-location
           mode: participating
           status: draft
+          track: Owasp Projects
         - name: Docker Security
           url: /Working-Sessions/DevSecOps/Docker-Security.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -1198,12 +1522,14 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
         - name: Is the Owasp Top 10 Data Collection Open
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
   Dinis Cruz:
     no-day:
       no-time:
@@ -1212,12 +1538,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
-        - name: AppSec Article 5 - Collective Defence Agreement
-          url: >-
-            /Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html
-          location: no-location
-          mode: organizing
-          status: review-content
+          track: Tools
         - name: Create CheatSheet Writing Security Unit Tests
           url: >-
             /Working-Sessions/Owasp-Projects/Create-CheatSheet-Writing
@@ -1225,61 +1546,82 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Projects
         - name: Security Labels
           url: /Working-Sessions/Research/Security-Labels.html
           location: no-location
           mode: participating
           status: draft
+          track: Research
     Thu:
+      AM-1:
+        - name: AppSec Article 5 - Collective Defence Agreement
+          url: >-
+            /Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html
+          location: Room-4
+          mode: organizing
+          status: review-content
+          track: CISO
       no-time:
         - name: AppSec SOC Monitoring Visualisation
           url: /Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: Maturity Models tool
           url: /Working-Sessions/OwaspSAMM/Maturity-Models-Tool.html
           location: no-location
           mode: organizing
           status: draft
+          track: OwaspSAMM
         - name: Visit Bletchley Park
           url: /Working-Sessions/Education/visit-Bletchley-Park.html
           location: no-location
           mode: participating
           status: review-content
-      Evening:
+          track: ''
+      Eve:
         - name: Closing party
           url: /Working-Sessions/closing-party.html
           location: no-location
           mode: organizing
           status: ''
+          track: ''
     Wed:
-      no-time:
+      AM-1:
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: featured
+          track: CISO
+      PM-3:
         - name: Cyber Insurance
           url: /Working-Sessions/CISO/Cyber-Insurance.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
+      no-time:
         - name: JIRA Risk Workflow
           url: /Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html
           location: no-location
           mode: organizing
           status: draft
+          track: ''
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: organizing
           status: better-content
+          track: DevSecOps
     Tue:
       no-time:
         - name: Creating AppSec Teams
@@ -1287,33 +1629,40 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Education
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
           mode: participating
           status: improve-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
     Mon:
-      no-time:
+      PM-3:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
+        - name: Mobilising Business Lines for Security
+          url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
+      no-time:
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
           location: no-location
           mode: participating
           status: featured
-        - name: Mobilising Business Lines for Security
-          url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
-          location: no-location
-          mode: participating
-          status: draft
+          track: Owasp Projects
     Fri:
       no-time:
         - name: IAM for REST APIs
@@ -1321,13 +1670,15 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
-    Evening:
+          track: Owasp Projects
+    Eve:
       no-time:
         - name: Security Book Club
           url: /Working-Sessions/Education/Security-Book-Club.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
   David Clarke:
     Tue:
       no-time:
@@ -1337,31 +1688,37 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Agile AppSec
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Agile AppSec
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Agile AppSec
     Mon:
-      no-time:
+      AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
+          location: Room-3
           mode: organizing
           status: review-content
+          track: Agile AppSec
+      no-time:
         - name: Security Guild vs Security Champions
           url: >-
             /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Agile AppSec
     Thu:
       no-time:
         - name: Integrating Security into a Sales Channel
@@ -1370,12 +1727,14 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Agile AppSec
         - name: Integrating Security into an Spotify Model
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Agile AppSec
     no-day:
       no-time:
         - name: Scaling Agile Planning and Education.md
@@ -1384,6 +1743,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Agile AppSec
   Ante Gulam:
     Tue:
       no-time:
@@ -1393,81 +1753,97 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           location: no-location
           mode: participating
           status: review-content
-    no-day:
-      no-time:
+          track: Agile AppSec
+    Thu:
+      AM-1:
         - name: AppSec Article 5 - Collective Defence Agreement
           url: >-
             /Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html
-          location: no-location
+          location: Room-4
           mode: organizing
           status: review-content
-        - name: Cyber Security Economics
-          url: /Working-Sessions/Education/Cyber-Security-Economics.html
-          location: no-location
-          mode: organizing
-          status: draft
-        - name: Scaling Agile Planning and Education.md
-          url: >-
-            /Working-Sessions/Agile-AppSec/Scaling-Agile-Planning-and-Education.html
-          location: no-location
-          mode: participating
-          status: draft
-    Wed:
-      no-time:
-        - name: CISO Round table
-          url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
-          mode: organizing
-          status: featured
-    Mon:
-      no-time:
-        - name: Define Agile Security Practices
-          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
-          mode: participating
-          status: review-content
-        - name: Mobilising Business Lines for Security
-          url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
-          location: no-location
-          mode: organizing
-          status: draft
-        - name: Security Guild vs Security Champions
-          url: >-
-            /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
-          location: no-location
-          mode: participating
-          status: review-content
-    Thu:
+          track: CISO
       no-time:
         - name: ELK Security Dashboards
           url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Integrating Security into a Sales Channel
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Sales-Channel.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Integrating Security into an Spotify Model
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
+    Wed:
+      AM-1:
+        - name: CISO Round table
+          url: /Working-Sessions/CISO/CISO-Round-Table.html
+          location: Room-4
+          mode: organizing
+          status: featured
+          track: CISO
+    no-day:
+      no-time:
+        - name: Cyber Security Economics
+          url: /Working-Sessions/Education/Cyber-Security-Economics.html
+          location: no-location
+          mode: organizing
+          status: draft
+          track: Education
+        - name: Scaling Agile Planning and Education.md
+          url: >-
+            /Working-Sessions/Agile-AppSec/Scaling-Agile-Planning-and-Education.html
+          location: no-location
+          mode: participating
+          status: draft
+          track: Agile AppSec
+    Mon:
+      AM-1:
+        - name: Define Agile Security Practices
+          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          location: Room-3
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+      PM-3:
+        - name: Mobilising Business Lines for Security
+          url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
+          location: Room-4
+          mode: organizing
+          status: review-content
+          track: CISO
+      no-time:
+        - name: Security Guild vs Security Champions
+          url: >-
+            /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Agile AppSec
   Avi Douglen:
     Tue:
       no-time:
@@ -1477,113 +1853,135 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Agile Practices for Security Teams
           url: >-
             /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
           location: no-location
           mode: organizing
           status: review-content
+          track: Education
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
           mode: participating
           status: improve-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
     Wed:
+      AM-1:
+        - name: Application Security Guide for CISO
+          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
+        - name: Application Security Guide for CISO
+          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
       no-time:
-        - name: Application Security Guide for CISO
-          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
-          mode: participating
-          status: review-content
-        - name: Application Security Guide for CISO
-          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
-          mode: participating
-          status: review-content
         - name: Threat Modeling OWASP Pages
           url: /Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html
           location: no-location
           mode: participating
           status: improve-content
+          track: Threat Model
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
     no-day:
       no-time:
         - name: 'Best practices in using SAST, DAST, IAST and RASP Tools'
@@ -1591,28 +1989,33 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: OWASP Chapter Leader Handbook
           url: /Working-Sessions/Owasp/Owasp-Chapter-Handbook.html
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp
         - name: OWASP Chapter Leader Handbook
           url: /Working-Sessions/Owasp/Owasp-Chapter-Handbook.html
           location: no-location
           mode: participating
           status: draft
-    Evening:
+          track: Owasp
+    Eve:
       no-time:
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Thu:
       no-time:
         - name: Maturity Models tool
@@ -1620,11 +2023,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Owasp Chapter Treasury
           url: /Working-Sessions/Owasp/Owasp-Chapter-Treasury.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp
     Fri:
       no-time:
         - name: Scaling Static Analysis Reviews and Deployments
@@ -1633,6 +2038,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Tools
     Mon:
       no-time:
         - name: Threat Modeling Diagramming Techniques
@@ -1641,11 +2047,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
   Irene Michlin:
     Tue:
       no-time:
@@ -1655,57 +2063,69 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
           mode: participating
           status: improve-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Mon:
-      no-time:
+      PM-1:
         - name: Create Jira Workflows for Security Playbooks
           url: >-
             /Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: review-content
+          track: Security Playbooks
+      AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
+          location: Room-3
           mode: participating
           status: review-content
+          track: Agile AppSec
+      no-time:
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Fri:
       no-time:
         - name: Diffing and Version Control Threat Models
@@ -1714,6 +2134,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
     Thu:
       no-time:
         - name: Maturity Models tool
@@ -1721,16 +2142,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Review and improve the 12 SAMM practices
           url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Securing Legacy Applications
           url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
     Wed:
       no-time:
         - name: Threat Modeling Scaling and Security Champions
@@ -1738,11 +2162,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
   Mamta Vuppu:
     Tue:
       no-time:
@@ -1752,35 +2178,42 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Mon:
-      no-time:
+      AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
+          location: Room-3
           mode: participating
           status: review-content
+          track: Agile AppSec
+      no-time:
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Fri:
       no-time:
         - name: Due Diligence Playbook
@@ -1788,6 +2221,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     Wed:
       no-time:
         - name: Incident Response Playbook
@@ -1795,11 +2229,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: Threat Modeling Scaling and Security Champions
           url: /Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
   Phil Parker:
     Tue:
       no-time:
@@ -1809,13 +2245,15 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Mon:
-      no-time:
+      PM-3:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
   Fraser Scott:
     Tue:
       no-time:
@@ -1825,23 +2263,27 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
           location: no-location
           mode: participating
           status: review-content
-    Evening:
+          track: DevSecOps
+    Eve:
       no-time:
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Thu:
       no-time:
         - name: ELK Security Dashboards
@@ -1849,11 +2291,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Women in Cyber
           url: /Working-Sessions/Women-in-Cyber.html
           location: no-location
           mode: participating
           status: Done
+          track: ''
     no-day:
       no-time:
         - name: Netflix Resilience Engineering
@@ -1861,16 +2305,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Netflix Security Automation
           url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Securing the CI Pipeline
           url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Wed:
       no-time:
         - name: Security Guidance and Feedback in IDE
@@ -1879,11 +2326,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
     Mon:
       no-time:
         - name: Threat Modeling Tools
@@ -1891,6 +2340,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
   Rahul Raghavan:
     Tue:
       no-time:
@@ -1900,24 +2350,28 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Mon:
-      no-time:
+      AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
+          location: Room-3
           mode: participating
           status: review-content
+          track: Agile AppSec
     Thu:
       no-time:
         - name: Integrating Security into a Sales Channel
@@ -1926,6 +2380,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Wed:
       no-time:
         - name: Writing Security Tests
@@ -1933,6 +2388,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
   Victor Vidigal Ribeiro:
     Tue:
       no-time:
@@ -1942,22 +2398,26 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Projects
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -1966,27 +2426,33 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
-        - name: Define Agile Security Practices
-          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
-          mode: participating
-          status: review-content
+          track: Owasp Top 10 2017
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Projects
         - name: Threat Modeling Diagramming Techniques
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
+      AM-1:
+        - name: Define Agile Security Practices
+          url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
+          location: Room-3
+          mode: participating
+          status: review-content
+          track: Agile AppSec
     Fri:
       no-time:
         - name: Scaling Static Analysis Reviews and Deployments
@@ -1995,6 +2461,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Tools
     Wed:
       no-time:
         - name: Writing Security Tests
@@ -2002,11 +2469,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp Projects
   Steven van der Baan:
     no-day:
       no-time:
@@ -2016,14 +2485,16 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Projects
   Ross Tanner:
-    Evening:
+    Eve:
       no-time:
         - name: AppSec Job Fair
           url: /Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Crowdsourcing
     Tue:
       no-time:
         - name: Creating AppSec Teams
@@ -2031,41 +2502,48 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Security Champions
           url: /Working-Sessions/Agile-AppSec/Security-Champions.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Mon:
-      no-time:
+      PM-2:
         - name: Growing the AppSec Industry
           url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
   Francois Raynaud:
-    Evening:
+    Eve:
       no-time:
         - name: AppSec Job Fair
           url: /Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Crowdsourcing
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
           location: no-location
           mode: organizing
           status: draft
+          track: DevSecOps
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Thu:
       no-time:
         - name: AppSec SOC Monitoring Visualisation
@@ -2073,33 +2551,39 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: ELK Security Dashboards
           url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Integrating Security into a Sales Channel
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Sales-Channel.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Securing GitHub Integrations
           url: /Working-Sessions/DevSecOps/Securing-GitHub-Integrations.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Women in Cyber
           url: /Working-Sessions/Women-in-Cyber.html
           location: no-location
           mode: participating
           status: Done
-      Evening:
+          track: ''
+      Eve:
         - name: Closing party
           url: /Working-Sessions/closing-party.html
           location: no-location
           mode: organizing
           status: ''
+          track: ''
     Tue:
       no-time:
         - name: BDD for Cloud Security
@@ -2107,44 +2591,53 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Responsible Disclosure
           url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
           location: no-location
           mode: participating
           status: more-content
+          track: Security Crowdsourcing
         - name: Security Champions
           url: /Working-Sessions/Agile-AppSec/Security-Champions.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
           mode: participating
           status: improve-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
     Wed:
-      no-time:
+      AM-1:
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: featured
+          track: CISO
+      no-time:
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -2153,27 +2646,33 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
-        - name: GDPR and DPO AppSec implications
-          url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
-          location: no-location
-          mode: participating
-          status: review-content
+          track: Owasp Top 10 2017
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Projects
         - name: Security Guild vs Security Champions
           url: >-
             /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: TLS for Local IoT
           url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
+      PM-3:
+        - name: GDPR and DPO AppSec implications
+          url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
     no-day:
       no-time:
         - name: Netflix Security Automation
@@ -2181,11 +2680,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: WAF Best Practices
           url: /Working-Sessions/DevSecOps/WAF-best-practices.html
           location: no-location
           mode: participating
           status: ''
+          track: DevSecOps
   Isuru Tharanga:
     Wed:
       no-time:
@@ -2195,22 +2696,26 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: Incident Response Playbook
           url: /Working-Sessions/Security-Playbooks/Incident-Response-Playbook.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: Security Monitoring Playbooks
           url: >-
             /Working-Sessions/Security-Playbooks/Security-Monitoring-Playbooks.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: Webgoat
           url: /Working-Sessions/Owasp-Projects/WebGoat.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
     Thu:
       no-time:
         - name: AppSec SOC Monitoring Visualisation
@@ -2218,6 +2723,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
     Fri:
       no-time:
         - name: Bug Bounty Playbook
@@ -2225,29 +2731,35 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: DoS Playbook
           url: /Working-Sessions/Security-Playbooks/DoS-Playbook.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     Mon:
-      no-time:
+      AM-1:
         - name: Cheat Sheets
           url: /Working-Sessions/Owasp-Projects/Cheatsheets.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: more-content
+          track: Owasp Projects
+      no-time:
         - name: Data behind Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Tue:
       no-time:
         - name: Implications of Owasp Top 10 2017
@@ -2256,11 +2768,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
   Mateo Martinez:
     Thu:
       no-time:
@@ -2269,28 +2783,34 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: DevSecOps
         - name: Owasp Latam Region
           url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
           location: no-location
           mode: organizing
           status: more-content
+          track: Owasp
         - name: Owasp Student Chapters
           url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
           location: no-location
           mode: organizing
           status: done
+          track: Owasp
     Wed:
-      no-time:
+      AM-1:
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: featured
+          track: CISO
+      no-time:
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp Projects
     Tue:
       no-time:
         - name: Draft SAMM2 - the "DevOps release"
@@ -2298,17 +2818,20 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Projects
   Don Gibson:
     Thu:
       no-time:
@@ -2317,45 +2840,55 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: Securing Legacy Applications
           url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Threat Modeling Cloud Migrations
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cloud-Migrations.html
           location: no-location
           mode: organizing
           status: draft
-    no-day:
-      no-time:
+          track: Threat Model
+      PM-2:
         - name: AppSec for CISOs
           url: /Working-Sessions/CISO/AppSec-for-CISOs.html
-          location: no-location
+          location: Room-4
           mode: organizing
-          status: draft
+          status: review-content
+          track: CISO
         - name: AppSec for CISOs
           url: /Working-Sessions/CISO/AppSec-for-CISOs.html
-          location: no-location
-          mode: participating
-          status: draft
-        - name: SRE Security Activities
-          url: /Working-Sessions/DevSecOps/SRE-Security-Activities.html
-          location: no-location
-          mode: participating
-          status: draft
-    Wed:
-      no-time:
-        - name: Application Security Guide for CISO
-          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
+    Wed:
+      AM-1:
+        - name: Application Security Guide for CISO
+          url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
+          location: Room-4
+          mode: participating
+          status: review-content
+          track: CISO
+      no-time:
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: organizing
           status: draft
+          track: DevSecOps
+    no-day:
+      no-time:
+        - name: SRE Security Activities
+          url: /Working-Sessions/DevSecOps/SRE-Security-Activities.html
+          location: no-location
+          mode: participating
+          status: draft
+          track: DevSecOps
   Robert Morschel:
     Thu:
       no-time:
@@ -2364,38 +2897,53 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: ELK Security Dashboards
           url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Review and improve the 12 SAMM practices
           url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
+      PM-3:
+        - name: SAMM Metrics for Enterprise
+          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
+          location: Room-4
+          mode: participating
+          status: done
+          track: CISO
     Wed:
-      no-time:
+      AM-1:
         - name: Application Security Guide for CISO
           url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: featured
+          track: CISO
+      no-time:
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
     Tue:
       no-time:
         - name: Creating AppSec Teams
@@ -2403,45 +2951,48 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
           mode: participating
           status: improve-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
     Mon:
-      no-time:
+      AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
+          location: Room-3
           mode: participating
           status: review-content
-        - name: SAMM Metrics for Enterprise
-          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
-          location: no-location
-          mode: participating
-          status: done
+          track: Agile AppSec
+      no-time:
         - name: Security Guild vs Security Champions
           url: >-
             /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Fri:
       no-time:
         - name: IAM for REST APIs
@@ -2449,13 +3000,15 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: Scaling Static Analysis Reviews and Deployments
           url: >-
             /Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html
           location: no-location
           mode: participating
           status: review-content
-    Evening:
+          track: Tools
+    Eve:
       no-time:
         - name: Teaching Attacker perspective to Developers
           url: >-
@@ -2463,6 +3016,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Education
   Dicky Stafford:
     Thu:
       no-time:
@@ -2471,11 +3025,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: ELK Security Dashboards
           url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
           location: no-location
           mode: organizing
           status: draft
+          track: DevSecOps
     Tue:
       no-time:
         - name: BDD for Cloud Security
@@ -2483,6 +3039,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
     no-day:
       no-time:
         - name: Netflix Resilience Engineering
@@ -2490,11 +3047,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Netflix Security Automation
           url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
   Felipe Zipitria:
     Thu:
       no-time:
@@ -2503,16 +3062,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: Owasp Latam Region
           url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp
         - name: Owasp Student Chapters
           url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp
     Wed:
       no-time:
         - name: Application Security BSc/Masters Curriculum Design
@@ -2521,11 +3083,13 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Education
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
     no-day:
       no-time:
         - name: 'Best practices in using SAST, DAST, IAST and RASP Tools'
@@ -2533,11 +3097,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: Securing the CI Pipeline
           url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
           location: no-location
           mode: organizing
           status: draft
+          track: DevSecOps
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -2546,29 +3112,34 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
         - name: GitHub Organization Reboot
           url: /Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html
           location: no-location
           mode: participating
-          status: done
+          status: featured
+          track: Owasp Projects
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
-    Evening:
+          track: Threat Model
+    Eve:
       no-time:
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Teaching Attacker perspective to Developers
           url: >-
             /Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html
           location: no-location
           mode: participating
           status: done
+          track: Education
     Tue:
       no-time:
         - name: Implications of Owasp Top 10 2017
@@ -2577,17 +3148,20 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
   Naushad:
     Thu:
       no-time:
@@ -2596,6 +3170,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
     Tue:
       no-time:
         - name: Creating AppSec Teams
@@ -2603,16 +3178,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Wed:
       no-time:
         - name: Incident Response Playbook
@@ -2620,6 +3198,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     no-day:
       no-time:
         - name: Netflix Resilience Engineering
@@ -2627,6 +3206,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Mon:
       no-time:
         - name: Threat Modeling Tools
@@ -2634,6 +3214,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
   Adrian Winckles:
     Wed:
       no-time:
@@ -2643,11 +3224,13 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Education
         - name: Software Defined Everything (SDx)
           url: /Working-Sessions/Education/Software-Defined-Everything-(SDx).html
           location: no-location
           mode: organizing
           status: done
+          track: Education
   Timo Pagel:
     Wed:
       no-time:
@@ -2657,21 +3240,25 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Education
         - name: JIRA Risk Workflow
           url: /Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html
           location: no-location
           mode: participating
           status: draft
+          track: ''
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
     no-day:
       no-time:
         - name: 'Best practices in using SAST, DAST, IAST and RASP Tools'
@@ -2679,21 +3266,25 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: Creation and Optimization of a Docker Security Workshop
           url: /Working-Sessions/Education/Docker-Seucrity-Workshop.html
           location: no-location
           mode: organizing
           status: draft
+          track: Education
         - name: Docker Security
           url: /Working-Sessions/DevSecOps/Docker-Security.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Netflix Security Automation
           url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Tue:
       no-time:
         - name: Draft SAMM2 - the "DevOps release"
@@ -2701,11 +3292,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
     Thu:
       no-time:
         - name: ELK Security Dashboards
@@ -2713,12 +3306,14 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Evaluation/Optimization/Creation of Training Slides
           url: >-
             /Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html
           location: no-location
           mode: organizing
           status: draft
+          track: Education
     Mon:
       no-time:
         - name: Juice Shop
@@ -2726,7 +3321,8 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
-    Evening:
+          track: Owasp Projects
+    Eve:
       no-time:
         - name: Teaching Attacker perspective to Developers
           url: >-
@@ -2734,6 +3330,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Education
   Bjoern Kimminich:
     Wed:
       no-time:
@@ -2743,34 +3340,40 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Education
         - name: GPG Infrastructure for OWASP
           url: /Working-Sessions/Owasp/GPG-Infrastructure-for-OWASP.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
-    Evening:
+          track: DevSecOps
+    Eve:
       no-time:
         - name: CTFs
           url: /Working-Sessions/Education/CTFs.html
           location: no-location
           mode: participating
           status: draft
+          track: Education
         - name: Security Book Club
           url: /Working-Sessions/Education/Security-Book-Club.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Teaching Attacker perspective to Developers
           url: >-
             /Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html
           location: no-location
           mode: organizing
           status: done
+          track: Education
     Thu:
       no-time:
         - name: Evaluation/Optimization/Creation of Training Slides
@@ -2779,39 +3382,46 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Education
         - name: NextGen Security Scanners
           url: /Working-Sessions/Tools/NextGen-SecurityScanners.html
           location: no-location
           mode: participating
           status: done
+          track: Tools
         - name: Securing Legacy Applications
           url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Visit Bletchley Park
           url: /Working-Sessions/Education/visit-Bletchley-Park.html
           location: no-location
           mode: participating
           status: review-content
+          track: ''
     Mon:
       no-time:
         - name: GitHub Organization Reboot
           url: /Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html
           location: no-location
           mode: organizing
-          status: done
+          status: featured
+          track: Owasp Projects
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
           location: no-location
           mode: organizing
           status: featured
+          track: Owasp Projects
         - name: Security Guild vs Security Champions
           url: >-
             /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
     Fri:
       no-time:
         - name: IAM for REST APIs
@@ -2819,6 +3429,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
     Tue:
       no-time:
         - name: Implications of Owasp Top 10 2017
@@ -2827,6 +3438,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
   Devesh Bhatt:
     Wed:
       no-time:
@@ -2836,11 +3448,14 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Education
+      AM-1:
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: featured
+          track: CISO
     Fri:
       no-time:
         - name: Bug Bounty Playbook
@@ -2848,6 +3463,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     Tue:
       no-time:
         - name: Creating AppSec Talent (next 100k professionals)
@@ -2855,21 +3471,25 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Responsible Disclosure
           url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
           location: no-location
           mode: organizing
           status: more-content
+          track: Security Crowdsourcing
         - name: Responsible Disclosure
           url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
           location: no-location
           mode: participating
           status: more-content
+          track: Security Crowdsourcing
     Mon:
       no-time:
         - name: TLS for Local IoT
@@ -2877,17 +3497,20 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
         - name: Threat Modeling Diagramming Techniques
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Thu:
       no-time:
         - name: Threat Modeling IoT Devices
@@ -2895,6 +3518,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
   Nikita Garia:
     Wed:
       no-time:
@@ -2904,11 +3528,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Education
         - name: Media Handling Playbook
           url: /Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     Fri:
       no-time:
         - name: Bug Bounty Playbook
@@ -2916,16 +3542,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: OWASP Internet of Things Project
           url: /Working-Sessions/IoT/Internet-of-Things-Project.html
           location: no-location
           mode: participating
           status: draft
+          track: Owasp Projects
         - name: Ransomware Playbook
           url: /Working-Sessions/Security-Playbooks/Ransomware-Playbook.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     Tue:
       no-time:
         - name: Creating AppSec Talent (next 100k professionals)
@@ -2933,16 +3562,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Responsible Disclosure
           url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
           location: no-location
           mode: participating
           status: more-content
+          track: Security Crowdsourcing
     no-day:
       no-time:
         - name: Netflix Security Automation
@@ -2950,6 +3582,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Thu:
       no-time:
         - name: Women in Cyber
@@ -2957,14 +3590,16 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
+          track: ''
   Marco Morana:
     Wed:
-      no-time:
+      AM-1:
         - name: Application Security Guide for CISO
           url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
+          location: Room-4
           mode: organizing
           status: review-content
+          track: CISO
     no-day:
       no-time:
         - name: CISO Survey
@@ -2972,24 +3607,29 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: CISO
   Ingo Hanke:
     Wed:
-      no-time:
+      AM-1:
         - name: Application Security Guide for CISO
           url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: featured
+          track: CISO
+      no-time:
         - name: The Future of Privacy
           url: /Working-Sessions/The-future-of-privacy.html
           location: no-location
           mode: organizing
           status: done
+          track: ''
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -2998,11 +3638,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Projects
     Tue:
       no-time:
         - name: Implications of Owasp Top 10 2017
@@ -3011,11 +3653,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: O-Saft
           url: /Working-Sessions/Owasp-Projects/O-Saft.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
     Thu:
       no-time:
         - name: Owasp Chapter Treasury
@@ -3023,29 +3667,36 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Owasp
   Yan Kravchenko:
     Wed:
-      no-time:
+      AM-1:
         - name: Application Security Guide for CISO
           url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: featured
+          track: CISO
+      PM-3:
         - name: Cyber Insurance
           url: /Working-Sessions/CISO/Cyber-Insurance.html
-          location: no-location
+          location: Room-4
           mode: organizing
           status: review-content
+          track: CISO
+      PM-1:
         - name: InfoSec Warranties and Guarantees
           url: /Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html
-          location: no-location
+          location: Room-4
           mode: organizing
           status: review-content
+          track: CISO
     no-day:
       no-time:
         - name: CISO Survey
@@ -3053,6 +3704,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: CISO
     Tue:
       no-time:
         - name: Draft SAMM2 - the "DevOps release"
@@ -3060,23 +3712,22 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
     Mon:
-      no-time:
+      PM-2:
         - name: Growing the AppSec Industry
           url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
-          location: no-location
+          location: Room-4
           mode: organizing
           status: review-content
+          track: CISO
+      no-time:
         - name: Playbooks Common Format
           url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
           location: no-location
           mode: participating
           status: improve-content
-        - name: SAMM Metrics for Enterprise
-          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
-          location: no-location
-          mode: organizing
-          status: done
+          track: Security Playbooks
     Thu:
       no-time:
         - name: Maturity Models tool
@@ -3084,30 +3735,43 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Review and improve the 12 SAMM practices
           url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
+      PM-3:
+        - name: SAMM Metrics for Enterprise
+          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
+          location: Room-4
+          mode: organizing
+          status: done
+          track: CISO
   Adam Shostack:
     Wed:
-      no-time:
+      AM-1:
         - name: Application Security Guide for CISO
           url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
+      no-time:
         - name: Security Guidance and Feedback in IDE
           url: >-
             /Working-Sessions/DevSecOps/Security-Guidance-and-Feedback-in-IDE.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Threat Modeling OWASP Pages
           url: /Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html
           location: no-location
           mode: participating
           status: improve-content
+          track: Threat Model
     Tue:
       no-time:
         - name: Lightweight Threat Modeling Process
@@ -3116,16 +3780,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Mon:
       no-time:
         - name: Threat Modeling Diagramming Techniques
@@ -3134,6 +3801,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
     Thu:
       no-time:
         - name: Threat Modeling IoT Devices
@@ -3141,19 +3809,22 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
         - name: Visit Bletchley Park
           url: /Working-Sessions/Education/visit-Bletchley-Park.html
           location: no-location
           mode: participating
           status: review-content
+          track: ''
   Tal Argoni:
     Wed:
-      no-time:
+      AM-1:
         - name: Application Security Guide for CISO
           url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
     no-day:
       no-time:
         - name: CISO Survey
@@ -3161,6 +3832,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: CISO
     Tue:
       no-time:
         - name: Testing Guide v5
@@ -3168,6 +3840,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Projects
   Marc Rimbau:
     no-day:
       no-time:
@@ -3177,30 +3850,35 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: ''
         - name: 'Best practices in using SAST, DAST, IAST and RASP Tools'
           url: /Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html
           location: no-location
           mode: participating
           status: draft
+          track: Tools
         - name: Security Knowledge Framework
           url: /Working-Sessions/Owasp-Projects/Security-Knowledge-Framework.html
           location: no-location
           mode: organizing
           status: draft
+          track: ''
     Mon:
-      no-time:
+      AM-1:
         - name: Cheat Sheets
           url: /Working-Sessions/Owasp-Projects/Cheatsheets.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: more-content
-    Evening:
+          track: Owasp Projects
+    Eve:
       no-time:
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Tue:
       no-time:
         - name: Draft SAMM2 - the "DevOps release"
@@ -3208,28 +3886,33 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: O-Saft
           url: /Working-Sessions/Owasp-Projects/O-Saft.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
     Fri:
       no-time:
         - name: IAM for REST APIs
@@ -3237,11 +3920,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: OWASP Risk Rating Management Project
           url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
     Thu:
       no-time:
         - name: Maturity Models tool
@@ -3249,11 +3934,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: NextGen Security Scanners
           url: /Working-Sessions/Tools/NextGen-SecurityScanners.html
           location: no-location
           mode: participating
           status: done
+          track: Tools
     Wed:
       no-time:
         - name: Threat and Vulnerability Management
@@ -3261,11 +3948,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp Projects
   Anuruddha Hewawasam:
     no-day:
       no-time:
@@ -3275,13 +3964,15 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: ''
     Mon:
-      no-time:
+      AM-1:
         - name: Cheat Sheets
           url: /Working-Sessions/Owasp-Projects/Cheatsheets.html
-          location: no-location
+          location: Room-1
           mode: participating
           status: more-content
+          track: Owasp Projects
     Wed:
       no-time:
         - name: OWASP Bug Bounty
@@ -3289,16 +3980,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: more-content
+          track: Security Crowdsourcing
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp Projects
     Fri:
       no-time:
         - name: OWASP Risk Rating Management Project
@@ -3306,13 +4000,15 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
-    Evening:
+          track: Owasp Projects
+    Eve:
       no-time:
         - name: Security Book Club
           url: /Working-Sessions/Education/Security-Book-Club.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
   Mohammad Febri Ramadlan:
     no-day:
       no-time:
@@ -3322,6 +4018,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: ''
     Fri:
       no-time:
         - name: OWASP Risk Rating Management Project
@@ -3329,6 +4026,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
     Thu:
       no-time:
         - name: Women in Cyber
@@ -3336,6 +4034,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
+          track: ''
   Stephen de Vries:
     Tue:
       no-time:
@@ -3344,27 +4043,32 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: DevSecOps
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
           location: no-location
           mode: participating
           status: improve-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
     Mon:
       no-time:
         - name: Threat Modeling Tools
@@ -3372,6 +4076,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
   Neil Barlow:
     Tue:
       no-time:
@@ -3380,13 +4085,15 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: DevSecOps
     Wed:
-      no-time:
+      AM-1:
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: featured
+          track: CISO
     Thu:
       no-time:
         - name: ELK Security Dashboards
@@ -3394,11 +4101,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Women in Cyber
           url: /Working-Sessions/Women-in-Cyber.html
           location: no-location
           mode: participating
           status: Done
+          track: ''
     no-day:
       no-time:
         - name: Netflix Resilience Engineering
@@ -3406,11 +4115,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Netflix Security Automation
           url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
   Amani Altarawneh:
     Fri:
       no-time:
@@ -3419,31 +4130,37 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: DoS Playbook
           url: /Working-Sessions/Security-Playbooks/DoS-Playbook.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
         - name: Future of .Net Containers
           url: /Working-Sessions/Research/Future-of-.Net-Containers.html
           location: no-location
           mode: participating
           status: review-content
+          track: Research
         - name: OWASP Internet of Things Project
           url: /Working-Sessions/IoT/Internet-of-Things-Project.html
           location: no-location
           mode: participating
           status: draft
+          track: Owasp Projects
         - name: OWASP Risk Rating Management Project
           url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: Ransomware Playbook
           url: /Working-Sessions/Security-Playbooks/Ransomware-Playbook.html
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     Mon:
       no-time:
         - name: Data behind Owasp Top 10 2017
@@ -3452,16 +4169,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Projects
         - name: Top 10 Selection Criteria
           url: /Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
     Wed:
       no-time:
         - name: OWASP Bug Bounty
@@ -3469,26 +4189,31 @@ by_Participant:
           location: no-location
           mode: participating
           status: more-content
+          track: Security Crowdsourcing
         - name: The Future of Privacy
           url: /Working-Sessions/The-future-of-privacy.html
           location: no-location
           mode: participating
           status: done
+          track: ''
         - name: Webgoat
           url: /Working-Sessions/Owasp-Projects/WebGoat.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp Projects
     Thu:
       no-time:
         - name: Reverse Engineering APK's with Bytecodeviewer
@@ -3496,16 +4221,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Tools
         - name: Threat Modeling IoT Devices
           url: /Working-Sessions/Threat-Model/Threat-Modeling-IoT-Devices.html
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
         - name: Women in Cyber
           url: /Working-Sessions/Women-in-Cyber.html
           location: no-location
           mode: participating
           status: Done
+          track: ''
   Jason Haddix:
     Fri:
       no-time:
@@ -3514,6 +4242,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     Tue:
       no-time:
         - name: Crowdsourcing Security Knowledge
@@ -3522,6 +4251,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Crowdsourcing
   Sam Houston:
     Fri:
       no-time:
@@ -3530,6 +4260,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Playbooks
     Tue:
       no-time:
         - name: Crowdsourcing Security Knowledge
@@ -3538,6 +4269,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Security Crowdsourcing
   Tobias Gondrom:
     no-day:
       no-time:
@@ -3546,6 +4278,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: CISO
   Azzeddine Ramrami:
     no-day:
       no-time:
@@ -3554,6 +4287,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: ''
     Fri:
       no-time:
         - name: OWASP Game Security Framework
@@ -3561,22 +4295,25 @@ by_Participant:
           location: no-location
           mode: organizing
           status: needs-content
+          track: Owasp Projects
   Seba:
     Thu:
-      Evening:
+      Eve:
         - name: Closing party
           url: /Working-Sessions/closing-party.html
           location: no-location
           mode: organizing
           status: ''
+          track: ''
   All:
     Thu:
-      Evening:
+      Eve:
         - name: Closing party
           url: /Working-Sessions/closing-party.html
           location: no-location
           mode: participating
           status: ''
+          track: ''
   Vandana Verma:
     Tue:
       no-time:
@@ -3585,11 +4322,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Education
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
           location: no-location
           mode: participating
           status: review-content
+          track: Education
     no-day:
       no-time:
         - name: Netflix Resilience Engineering
@@ -3597,11 +4336,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
         - name: Netflix Security Automation
           url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
           location: no-location
           mode: participating
           status: draft
+          track: DevSecOps
     Thu:
       no-time:
         - name: Women in Cyber
@@ -3609,6 +4350,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
+          track: ''
   Claudia Casanovas:
     Mon:
       no-time:
@@ -3618,6 +4360,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Owasp Top 10 2017
     Tue:
       no-time:
         - name: OWASP Projects Reviews
@@ -3625,6 +4368,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Projects
   Brian Glas:
     Mon:
       no-time:
@@ -3634,6 +4378,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
     Tue:
       no-time:
         - name: Implications of Owasp Top 10 2017
@@ -3642,6 +4387,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
   Anant Shrivastava:
     Mon:
       no-time:
@@ -3651,6 +4397,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
   Jason Li:
     Mon:
       no-time:
@@ -3660,11 +4407,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
         - name: Threat Modeling Schema
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Schema.html
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
     Tue:
       no-time:
         - name: Implications of Owasp Top 10 2017
@@ -3673,27 +4422,32 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Projects
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
     Thu:
       no-time:
         - name: NextGen Security Scanners
@@ -3701,6 +4455,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Tools
     Fri:
       no-time:
         - name: OWASP Risk Rating Management Project
@@ -3708,6 +4463,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Owasp Projects
     Wed:
       no-time:
         - name: Writing Security Tests
@@ -3715,6 +4471,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: better-content
+          track: DevSecOps
   Kevin Greene:
     Mon:
       no-time:
@@ -3724,27 +4481,26 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Top 10 2017
         - name: Is the Owasp Top 10 Data Collection Open
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html
           location: no-location
           mode: participating
           status: review-content
-        - name: SAMM Metrics for Enterprise
-          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
-          location: no-location
-          mode: participating
-          status: done
+          track: Owasp Top 10 2017
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Top 10 Selection Criteria
           url: /Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
     Tue:
       no-time:
         - name: Draft SAMM2 - the "DevOps release"
@@ -3752,18 +4508,21 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
     Thu:
       no-time:
         - name: Review and improve the 12 SAMM practices
@@ -3771,19 +4530,30 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
+      PM-3:
+        - name: SAMM Metrics for Enterprise
+          url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
+          location: Room-4
+          mode: participating
+          status: done
+          track: CISO
   Adam Obrien:
     Mon:
-      no-time:
+      AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          location: no-location
+          location: Room-3
           mode: participating
           status: review-content
+          track: Agile AppSec
+      PM-3:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
-          location: no-location
+          location: Room-4
           mode: participating
           status: review-content
+          track: CISO
     Tue:
       no-time:
         - name: Draft SAMM2 - the "DevOps release"
@@ -3791,11 +4561,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
     Thu:
       no-time:
         - name: Maturity Models tool
@@ -3803,11 +4575,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Review and improve the 12 SAMM practices
           url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
   Steve Springett:
     Mon:
       no-time:
@@ -3816,6 +4590,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: more-content
+          track: Owasp Projects
   Sebastien Deleersnyder:
     Tue:
       no-time:
@@ -3824,17 +4599,20 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: OwaspSAMM
         - name: Include OWASP projects as resources for the SAMM practices
           url: >-
             /Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html
           location: no-location
           mode: organizing
           status: draft
+          track: OwaspSAMM
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
           mode: organizing
           status: draft
+          track: OwaspSAMM
     Thu:
       no-time:
         - name: Maturity Models tool
@@ -3842,12 +4620,14 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Review and improve the 12 SAMM practices
           url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
           location: no-location
           mode: organizing
           status: draft
-  Viktor Lindström:
+          track: OwaspSAMM
+  Viktor Lindstrom:
     Tue:
       no-time:
         - name: Draft SAMM2 - the "DevOps release"
@@ -3855,11 +4635,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
     Thu:
       no-time:
         - name: Maturity Models tool
@@ -3867,11 +4649,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
         - name: Review and improve the 12 SAMM practices
           url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
+        - name: Visit Bletchley Park
+          url: /Working-Sessions/Education/visit-Bletchley-Park.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: ''
   PhotoBox:
     Fri:
       no-time:
@@ -3880,11 +4670,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Research
         - name: GraphQL Security Review
           url: /Working-Sessions/Research/GraphQL-Security-Review.html
           location: no-location
           mode: participating
           status: review-content
+          track: Research
   Achim Hoffmann:
     Wed:
       no-time:
@@ -3893,11 +4685,13 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Owasp
         - name: The Future of Privacy
           url: /Working-Sessions/The-future-of-privacy.html
           location: no-location
           mode: participating
           status: done
+          track: ''
     Tue:
       no-time:
         - name: O-Saft
@@ -3905,6 +4699,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Owasp Projects
   Tamer Elzayyat:
     no-day:
       no-time:
@@ -3913,12 +4708,14 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: ''
         - name: Security Architecture Recommendations for IoT
           url: >-
             /Working-Sessions/IoT/Security-Architecture-Recommendations-for-IoT.html
           location: no-location
           mode: participating
           status: draft
+          track: ''
     Fri:
       no-time:
         - name: OWASP Internet of Things Project
@@ -3926,6 +4723,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Owasp Projects
     Mon:
       no-time:
         - name: TLS for Local IoT
@@ -3933,6 +4731,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
     Thu:
       no-time:
         - name: Threat Modeling IoT Devices
@@ -3940,8 +4739,9 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
   Leon Juranic:
-    Evening:
+    Eve:
       no-time:
         - name: Hackathon Daily Sessions
           url: >-
@@ -3949,6 +4749,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Security Crowdsourcing
   Ade Yoseman Putra:
     Mon:
       no-time:
@@ -3957,6 +4758,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Owasp Projects
     Fri:
       no-time:
         - name: OWASP Risk Rating Management Project
@@ -3964,11 +4766,13 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Owasp Projects
         - name: Role of Security Certification
           url: /Working-Sessions/Education/Role-of-Security-Certifications.html
           location: no-location
           mode: organizing
           status: done
+          track: Education
   Geoff Hill:
     Tue:
       no-time:
@@ -3978,6 +4782,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Threat Model
     Mon:
       no-time:
         - name: Threat Modeling Tools
@@ -3985,6 +4790,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
   Denis Pilipchuk:
     Tue:
       no-time:
@@ -3994,11 +4800,13 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
     Thu:
       no-time:
         - name: Threat Modeling Cloud Migrations
@@ -4006,6 +4814,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
     Mon:
       no-time:
         - name: Threat Modeling Tools
@@ -4013,6 +4822,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
   Bernhard Mueller:
     Wed:
       no-time:
@@ -4021,6 +4831,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Mobile Security
     Tue:
       no-time:
         - name: MSTG Book Sprint - Mobile App Security Testing
@@ -4028,13 +4839,36 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Mobile Security
     Mon:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
           location: no-location
           mode: organizing
           status: done
+          track: Mobile Security
+      PM-1:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: organizing
+          status: done
+          track: Mobile Security
+      PM-2:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: organizing
+          status: done
+          track: Mobile Security
+      PM3:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: organizing
+          status: done
+          track: Mobile Security
     Fri:
       no-time:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
@@ -4042,6 +4876,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Mobile Security
     Thu:
       no-time:
         - name: MSTG Book Sprint - iOS Testing Guide
@@ -4049,6 +4884,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Mobile Security
   Sven Schleier:
     Wed:
       no-time:
@@ -4057,6 +4893,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Mobile Security
     Tue:
       no-time:
         - name: MSTG Book Sprint - Mobile App Security Testing
@@ -4064,13 +4901,36 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Mobile Security
     Mon:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
           location: no-location
           mode: organizing
           status: done
+          track: Mobile Security
+      PM-1:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: organizing
+          status: done
+          track: Mobile Security
+      PM-2:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: organizing
+          status: done
+          track: Mobile Security
+      PM3:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: organizing
+          status: done
+          track: Mobile Security
     Fri:
       no-time:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
@@ -4078,6 +4938,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Mobile Security
     Thu:
       no-time:
         - name: MSTG Book Sprint - iOS Testing Guide
@@ -4085,6 +4946,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: featured
+          track: Mobile Security
   tbd.:
     Wed:
       no-time:
@@ -4093,6 +4955,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Mobile Security
   T.b.d.:
     Tue:
       no-time:
@@ -4101,13 +4964,36 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Mobile Security
     Mon:
-      no-time:
+      AM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
           location: no-location
           mode: participating
           status: done
+          track: Mobile Security
+      PM-1:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: participating
+          status: done
+          track: Mobile Security
+      PM-2:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: participating
+          status: done
+          track: Mobile Security
+      PM3:
+        - name: MSTG Book Sprint - Mobile Operating Systems
+          url: /Working-Sessions/Mobile-Security/MSTG_01.html
+          location: no-location
+          mode: participating
+          status: done
+          track: Mobile Security
     Fri:
       no-time:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
@@ -4115,6 +5001,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Mobile Security
     Thu:
       no-time:
         - name: MSTG Book Sprint - iOS Testing Guide
@@ -4122,6 +5009,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Mobile Security
   Josh Grossman:
     no-day:
       no-time:
@@ -4131,6 +5019,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Top 10 2017
     Mon:
       no-time:
         - name: Top 10 Selection Criteria
@@ -4138,6 +5027,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Top 10 2017
   Kim Carter:
     Tue:
       no-time:
@@ -4146,6 +5036,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Owasp Projects
   Daniel Miessler:
     Fri:
       no-time:
@@ -4154,11 +5045,13 @@ by_Participant:
           location: no-location
           mode: organizing
           status: needs-content
+          track: Owasp Projects
         - name: OWASP Internet of Things Project
           url: /Working-Sessions/IoT/Internet-of-Things-Project.html
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Projects
   Katy Anton:
     no-day:
       no-time:
@@ -4167,6 +5060,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
+          track: Owasp Projects
     Tue:
       no-time:
         - name: What Should be Added to the Top 10
@@ -4175,6 +5069,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Top 10 2017
   Kate Hartmann:
     Thu:
       no-time:
@@ -4183,16 +5078,19 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Owasp
         - name: Owasp Latam Region
           url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp
         - name: Owasp Student Chapters
           url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
           location: no-location
           mode: participating
           status: done
+          track: Owasp
     no-day:
       no-time:
         - name: Owasp-Website
@@ -4200,6 +5098,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Owasp
   Paolo Perego:
     Wed:
       no-time:
@@ -4208,6 +5107,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: more-content
+          track: Owasp Projects
   Dougal Kennedy:
     Thu:
       no-time:
@@ -4216,6 +5116,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: Tools
     Tue:
       no-time:
         - name: Testing Guide v5
@@ -4223,6 +5124,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Owasp Projects
   Danny Grander:
     Thu:
       no-time:
@@ -4231,6 +5133,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: DevSecOps
   Lucas Ferreira:
     Thu:
       no-time:
@@ -4239,6 +5142,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: DevSecOps
   Duncan Hurwood:
     Mon:
       no-time:
@@ -4248,6 +5152,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Agile AppSec
   Kevin Sheldrake:
     Mon:
       no-time:
@@ -4256,11 +5161,13 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: DevSecOps
         - name: TLS for Local IoT
           url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
           location: no-location
           mode: participating
           status: done
+          track: DevSecOps
   Matteo Meucci:
     Tue:
       no-time:
@@ -4269,6 +5176,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Owasp Projects
   Akshay Sharma:
     Wed:
       no-time:
@@ -4277,6 +5185,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
+          track: ''
   Tony UV:
     Tue:
       no-time:
@@ -4285,11 +5194,13 @@ by_Participant:
           location: no-location
           mode: organizing
           status: improve-content
+          track: Threat Model
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
           location: no-location
           mode: organizing
           status: featured
+          track: Threat Model
     Wed:
       no-time:
         - name: Threat Modeling OWASP Pages
@@ -4297,6 +5208,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: improve-content
+          track: Threat Model
   Ceara Treacy:
     Thu:
       no-time:
@@ -4305,6 +5217,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: Threat Model
     Tue:
       no-time:
         - name: Threat Modeling Templates
@@ -4312,6 +5225,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: featured
+          track: Threat Model
   Robert Hurlbut:
     Wed:
       no-time:
@@ -4320,6 +5234,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
     Tue:
       no-time:
         - name: Threat Modeling Where do I Start?
@@ -4327,6 +5242,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
+          track: Threat Model
   Adam O'Brien:
     Tue:
       no-time:
@@ -4335,6 +5251,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
+          track: OwaspSAMM
   Talal Albacha:
     Fri:
       no-time:
@@ -4343,6 +5260,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
+          track: Research
   Johan Peeters (1 extra space in car):
     Thu:
       no-time:
@@ -4351,14 +5269,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
-  Viktor Lindstrom:
-    Thu:
-      no-time:
-        - name: Visit Bletchley Park
-          url: /Working-Sessions/Education/visit-Bletchley-Park.html
-          location: no-location
-          mode: participating
-          status: review-content
+          track: ''
   Scott Treacy:
     no-day:
       no-time:
@@ -4367,6 +5278,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: ''
+          track: DevSecOps
   Nanne Baars:
     Wed:
       no-time:
@@ -4375,6 +5287,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
+          track: Owasp Projects
   ade yoseman putra:
     Thu:
       no-time:
@@ -4383,6 +5296,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
+          track: ''
   Lisa Raynaud:
     Thu:
       no-time:
@@ -4391,6 +5305,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
+          track: ''
   Simon Bennetts:
     Wed:
       no-time:
@@ -4399,6 +5314,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: more-content
+          track: Owasp Projects
   Aruna Katugampola:
     Wed:
       no-time:
@@ -4407,3 +5323,4 @@ by_Participant:
           location: no-location
           mode: participating
           status: more-content
+          track: Owasp Projects

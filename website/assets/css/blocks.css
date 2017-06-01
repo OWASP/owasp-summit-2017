@@ -761,6 +761,10 @@
 .schedule table td .track {
   font-size: 80%;
 }
+.schedule table td .track-info {
+  font-size: 8px;
+  padding: 0px;
+}
 .schedule table td hr {
   border-color: #ededed;
   padding: 0px;

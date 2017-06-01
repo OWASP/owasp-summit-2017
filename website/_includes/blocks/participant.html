@@ -27,8 +27,8 @@
 </h3>{% if page.image != null %}<img src="{{ page.image }}" alt="{{ page.title }}" class="participant"/>{% endif %}
 {{ content }}
 <h2>Working Sessions Schedule</h2>
-<ul>
-  <li>{% assign day = 'Mon' %}<b>{{ day}}</b>
+<ul>{% assign day = 'Mon' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
     <ul>{% for time in schedule_Data[day]                     %}
       <li>{{ time[0] }}
         <ul>{%    for session in time[1]                  %}
@@ -36,8 +36,8 @@
         </ul>
       </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Tue' %}<b>{{ day}}</b>
+  </li>{% endif                                                      %}{% assign day = 'Tue' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
     <ul>{% for time in schedule_Data[day]                     %}
       <li>{{ time[0] }}
         <ul>{%    for session in time[1]                  %}
@@ -45,8 +45,8 @@
         </ul>
       </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Wed' %}<b>{{ day}}</b>
+  </li>{% endif                                                      %}{% assign day = 'Wed' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
     <ul>{% for time in schedule_Data[day]                     %}
       <li>{{ time[0] }}
         <ul>{%    for session in time[1]                  %}
@@ -54,8 +54,8 @@
         </ul>
       </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Thu' %}<b>{{ day}}</b>
+  </li>{% endif                                                      %}{% assign day = 'Thu' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
     <ul>{% for time in schedule_Data[day]                     %}
       <li>{{ time[0] }}
         <ul>{%    for session in time[1]                  %}
@@ -63,8 +63,8 @@
         </ul>
       </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Fri' %}<b>{{ day}}</b>
+  </li>{% endif                                                      %}{% assign day = 'Fri' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
     <ul>{% for time in schedule_Data[day]                     %}
       <li>{{ time[0] }}
         <ul>{%    for session in time[1]                  %}
@@ -72,8 +72,8 @@
         </ul>
       </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'no-day' %}<b>{{ day}}</b>
+  </li>{% endif                                                      %}{% assign day = 'no-day' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
     <ul>{% for time in schedule_Data[day]                     %}
       <li>{{ time[0] }}
         <ul>{%    for session in time[1]                  %}
@@ -81,7 +81,7 @@
         </ul>
       </li>{% endfor                                             %}
     </ul>
-  </li>
+  </li>{% endif                                                      %}
 </ul>
 <h2>contact details</h2>
 <ul>{% if page.email != null %}

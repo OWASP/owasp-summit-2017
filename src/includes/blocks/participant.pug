@@ -21,42 +21,39 @@
 //        | {% endfor %}
 
 mixin add-participations-on-day
-    b {{ day}}
-    ul
-        | {% for time in schedule_Data[day]                     %}
-        li {{ time[0] }}
-            ul
-                | {%    for session in time[1]                  %}
-                li
-                    a(href='{{ session.url }}') {{ session.name }}
-                    span &#32 : {{ session.location }} , {{ session.mode }}
-                    | {% if session.status == 'draft' %}
-                    span &#32 (DRAFT)
-                    | {% endif %}
-                | {% endfor                                     %}
-        | {% endfor                                             %}
+    | {% if schedule_Data[day]                                      %}
+    li
+        b {{ day}}
+        ul
+            | {% for time in schedule_Data[day]                     %}
+            li {{ time[0] }}
+                ul
+                    | {%    for session in time[1]                  %}
+                    li
+                        a(href='{{ session.url }}') {{ session.name }}
+                        span &#32 : {{ session.location }} , {{ session.mode }}
+                        | {% if session.status == 'draft' %}
+                        span &#32 (DRAFT)
+                        | {% endif %}
+                    | {% endfor                                     %}
+            | {% endfor                                             %}
+    | {% endif                                                      %}
 
 mixin add-participations
     h2 Working Sessions Schedule
     ul
-        li
-            | {% assign day = 'Mon' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Tue' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Wed' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Thu' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Fri' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'no-day' %}
-            + add-participations-on-day
+        | {% assign day = 'Mon' %}
+        + add-participations-on-day
+        | {% assign day = 'Tue' %}
+        + add-participations-on-day
+        | {% assign day = 'Wed' %}
+        + add-participations-on-day
+        | {% assign day = 'Thu' %}
+        + add-participations-on-day
+        | {% assign day = 'Fri' %}
+        + add-participations-on-day
+        | {% assign day = 'no-day' %}
+        + add-participations-on-day
 
 
 mixin add-participations_old

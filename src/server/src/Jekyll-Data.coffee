@@ -83,44 +83,22 @@ class Jekyll_Data
       for day in days.split(',')
         for location in locations.split(',')
           for time in times.split(',')
+
             schedule.by_Day[day]                  ?= {}
             schedule.by_Day[day][location]        ?= {}
             schedule.by_Day[day][location][time]  ?= []
-            schedule.by_Day[day][location][time].add name: name, url: data.url
+            schedule.by_Day[day][location][time].add name: name, url: data.url , track : data.metadata.track || ''
 
             map_User = (user,mode)->
-              schedule.by_Participant[user]                       ?= {}
-              schedule.by_Participant[user][day]                  ?= {}
-              schedule.by_Participant[user][day][time]      ?= []
-              schedule.by_Participant[user][day][time].add name: name, url: data.url, location: location, mode:mode, status: data.metadata.status
-#              schedule.by_Participant[user][day][location]        ?= {}
-#              schedule.by_Participant[user][day][location][time]  ?= []
-#              schedule.by_Participant[user][day][location][time].add name: name, url: data.url, mode:mode
+              schedule.by_Participant[user]                     ?= {}
+              schedule.by_Participant[user][day]                ?= {}
+              schedule.by_Participant[user][day][time]          ?= []
+              schedule.by_Participant[user][day][time].add name: name, url: data.url, location: location, mode:mode, status: data.metadata.status, track : data.metadata.track
 
             for organizer in organizers
               map_User organizer, 'organizing'
             for participant in participants
               map_User participant, 'participating'
-
-#            for organizer in organizers
-#              schedule.by_Participant[organizer]                       ?= {}
-#              schedule.by_Participant[organizer][day]                  ?= {}
-#              schedule.by_Participant[organizer][day][location]        ?= {}
-#              schedule.by_Participant[organizer][day][location][time]  ?= []
-#              schedule.by_Participant[organizer][day][location][time].add name: name, url: data.url, mode: 'organizing'
-
-
-#    # Map by_Participant
-#    for name, data of @.working_Sessions_Data when data.metadata.type is 'workshop'
-#      organizers = data.metadata.organizers
-#      for organizer in organizers
-#        schedule.by_Participant[organizer] ?= {}
-#        schedule.by_Participant[organizer]
-#        #console.log organizer
-
-
-
-    #console.log schedule.json_Pretty()
 
     schedule.save_Json              @.file_Json_Schedule
     yaml.safeDump(schedule).save_As @.file_Yaml_Schedule

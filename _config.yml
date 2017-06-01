@@ -18,5 +18,4 @@ exclude:
   - _Participants
   - _Working-Sessions
   - pages/for-editors
-  - schedule
-  - posts
+  - _schedule
