@@ -25,4 +25,3 @@ Result of workshop should be a short (only a few pages) overview on how to integ
  1. Discuss and decide the contents of a "MVP" TM for a continuous integration (CI) process.
  2. Define integration points for TM during CI.
  3. Define short (10 items or less) frameworks for threat types, countermeasure types, component types. Enable these frameworks to tie into larger libraries that will get defined outside the scope of this lighteight process.
-    
