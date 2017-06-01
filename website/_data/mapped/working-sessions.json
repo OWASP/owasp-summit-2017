@@ -10,7 +10,18 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      }
+    ],
     "related-to": [
       {
         "name": "Integrating Security Tools in the SDL",
@@ -26,7 +37,10 @@
       "organizers": [
         "Steven Wierckx"
       ],
-      "participants": [],
+      "participants": [
+        "Helen Bravo",
+        "Madhu Akula"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -52,8 +66,23 @@
     ],
     "participants": [
       {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
         "remote": false
       }
     ],
@@ -74,7 +103,10 @@
         "Claudia Cassanovas"
       ],
       "participants": [
-        "Johan Peeters"
+        "Johan Peeters",
+        "Chris Cooper",
+        "Nuno Loureiro",
+        "Tiago Mendo"
       ],
       "topics": []
     }
@@ -98,7 +130,28 @@
         "name": "Claudia Cassanovas"
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Erez Yalon",
+        "url": "/Participants/Erez-Yalon.html",
+        "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Ohad Rabinovich",
+        "url": "/Participants/Ohad-Rabinovich.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -114,7 +167,12 @@
         "Johanna Curiel",
         "Claudia Cassanovas"
       ],
-      "participants": [],
+      "participants": [
+        "Erez Yalon",
+        "Nuno Loureiro",
+        "Ohad Rabinovich",
+        "Tiago Mendo"
+      ],
       "topics": []
     }
   },
@@ -128,6 +186,21 @@
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
+      },
+      {
+        "name": "Erez Yalon",
+        "url": "/Participants/Erez-Yalon.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Ohad Rabinovich",
+        "url": "/Participants/Ohad-Rabinovich.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -140,7 +213,10 @@
       "when-day": "",
       "organizers": [],
       "participants": [
-        "Dinis Cruz"
+        "Dinis Cruz",
+        "Erez Yalon",
+        "Madhu Akula",
+        "Ohad Rabinovich"
       ],
       "related-to": [],
       "topics": []
@@ -206,9 +282,24 @@
         "remote": false
       },
       {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
+      },
+      {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
       },
       {
         "name": "Mamta Vuppu",
@@ -216,9 +307,29 @@
         "remote": false
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Phil Parker",
         "url": "/Participants/Phil-Parker.html",
         "remote": false
+      },
+      {
+        "name": "Rahul Raghavan",
+        "url": "/Participants/remote/Rahul-Raghavan.html",
+        "remote": true
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -240,7 +351,15 @@
         "Avi Douglen",
         "Irene Michlin",
         "Mamta Vuppu",
-        "Phil Parker"
+        "Phil Parker",
+        "Avi Douglen",
+        "Fraser Scott",
+        "Helen Bravo",
+        "Madhu Akula",
+        "Nuno Loureiro",
+        "Rahul Raghavan",
+        "Tiago Mendo",
+        "Victor Vidigal Ribeiro"
       ],
       "topics": []
     }
@@ -301,6 +420,9 @@
       "technology": "",
       "related-to": [],
       "status": "review-content",
+      "when-day": "Thu",
+      "when-time": "AM-1",
+      "location": "Room-4",
       "organizers": [
         "Dinis Cruz",
         "Ante Gulam"
@@ -316,17 +438,21 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Ross Tanner",
-        "url": "/Participants/Ross-Tanner.html",
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
       },
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "name": "Ross Tanner",
+        "url": "/Participants/Ross-Tanner.html",
         "remote": false
       }
     ],
     "related-to": [
+      {
+        "name": "Crowdsourcing Security Knowledge",
+        "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html"
+      },
       {
         "name": "Recruiting AppSec Talent",
         "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html"
@@ -334,10 +460,6 @@
       {
         "name": "Role of Security Certification",
         "url": "/Working-Sessions/Education/Role-of-Security-Certifications.html"
-      },
-      {
-        "name": "Crowdsourcing Security Knowledge",
-        "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html"
       }
     ],
     "metadata": {
@@ -353,7 +475,7 @@
         "Crowdsourcing Security Knowledge"
       ],
       "status": "review-content",
-      "when-day": "Evening",
+      "when-day": "Eve",
       "organizers": [],
       "participants": [
         "Ross Tanner",
@@ -371,7 +493,23 @@
       }
     ],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -383,7 +521,11 @@
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Isuru Tharanga",
+        "Nuno Loureiro",
+        "Tiago Mendo"
+      ],
       "topics": [
         "Pentest"
       ]
@@ -411,13 +553,13 @@
     ],
     "participants": [
       {
-        "name": "Dinis Cruz",
-        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "name": "Dicky Stafford",
+        "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
         "remote": false
       },
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
       },
       {
@@ -426,13 +568,38 @@
         "remote": false
       },
       {
-        "name": "Robert Morschel",
-        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
         "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
       },
       {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
       }
     ],
@@ -461,7 +628,12 @@
         "Francois Raynaud",
         "Don Gibson",
         "Robert Morschel",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Dicky Stafford",
+        "Felipe Zipitria",
+        "Isuru Tharanga",
+        "Madhu Akula",
+        "Naushad"
       ],
       "topics": [
         "SOC",
@@ -480,7 +652,13 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -490,11 +668,16 @@
       "track": "CISO",
       "technology": "",
       "related-to": [],
-      "status": "draft",
+      "status": "review-content",
+      "when-day": "Thu",
+      "when-time": "PM-2",
+      "location": "Room-4",
       "organizers": [
         "Don Gibson"
       ],
-      "participants": [],
+      "participants": [
+        "Don Gibson"
+      ],
       "topics": []
     }
   },
@@ -516,13 +699,23 @@
     ],
     "participants": [
       {
-        "name": "Timo Pagel",
-        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
         "remote": false
       },
       {
-        "name": "Bjoern Kimminich",
-        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
         "remote": false
       }
     ],
@@ -546,7 +739,9 @@
       ],
       "participants": [
         "Timo Pagel",
-        "Bjoern Kimminich"
+        "Bjoern Kimminich",
+        "Devesh Bhatt",
+        "Nikita Garia"
       ],
       "related-to": [],
       "topics": []
@@ -565,6 +760,16 @@
     ],
     "participants": [
       {
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
         "name": "Don Gibson",
         "url": "/Participants/ticket-8h/Don-Gibson.html",
         "remote": false
@@ -575,18 +780,23 @@
         "remote": false
       },
       {
-        "name": "Avi Douglen",
-        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Tal Argoni",
+        "url": "/Participants/remote/Tal-Argoni.html",
+        "remote": true
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
         "remote": false
       },
       {
         "name": "Yan Kravchenko",
         "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
-        "remote": false
-      },
-      {
-        "name": "Robert Morschel",
-        "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
       }
     ],
@@ -608,6 +818,8 @@
       ],
       "status": "review-content",
       "when-day": "Wed",
+      "when-time": "AM-1",
+      "location": "Room-4",
       "organizers": [
         "Marco Morana"
       ],
@@ -616,7 +828,11 @@
         "Ingo Hanke",
         "Avi Douglen",
         "Yan Kravchenko",
-        "Robert Morschel"
+        "Robert Morschel",
+        "Adam Shostack",
+        "Avi Douglen",
+        "Tal Argoni",
+        "Tiago Mendo"
       ],
       "topics": []
     }
@@ -632,7 +848,18 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Anuruddha Hewawasam",
+        "url": "/Participants/remote/Anuruddha-Hewawasam.html",
+        "remote": true
+      },
+      {
+        "name": "Mohammad Febri Ramadlan",
+        "url": "/Participants/remote/Mohammad-Febri-Ramadlan.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -644,7 +871,10 @@
       "organizers": [
         "Marc Rimbau"
       ],
-      "participants": [],
+      "participants": [
+        "Anuruddha Hewawasam",
+        "Mohammad Febri Ramadlan"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -688,18 +918,8 @@
     ],
     "participants": [
       {
-        "name": "Neil Barlow",
-        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
-        "remote": false
-      },
-      {
         "name": "Dicky Stafford",
         "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
-        "remote": false
-      },
-      {
-        "name": "Fraser Scott",
-        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
         "remote": false
       },
       {
@@ -708,13 +928,33 @@
         "remote": false
       },
       {
-        "name": "Stephen de Vries",
-        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
         "remote": false
       },
       {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
+        "name": "Rahul Raghavan",
+        "url": "/Participants/remote/Rahul-Raghavan.html",
+        "remote": true
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
         "remote": false
       }
     ],
@@ -738,7 +978,10 @@
         "Fraser Scott",
         "Francois Raynaud",
         "Stephen de Vries",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Fraser Scott",
+        "Madhu Akula",
+        "Rahul Raghavan"
       ],
       "topics": []
     }
@@ -754,7 +997,18 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Erez Yalon",
+        "url": "/Participants/Erez-Yalon.html",
+        "remote": false
+      },
+      {
+        "name": "Ohad Rabinovich",
+        "url": "/Participants/Ohad-Rabinovich.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -768,7 +1022,10 @@
       "organizers": [
         "Dave Wichers"
       ],
-      "participants": [],
+      "participants": [
+        "Erez Yalon",
+        "Ohad Rabinovich"
+      ],
       "topics": []
     }
   },
@@ -784,8 +1041,8 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
       },
       {
@@ -794,8 +1051,8 @@
         "remote": false
       },
       {
-        "name": "Avi Douglen",
-        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       },
       {
@@ -888,7 +1145,38 @@
     "url": "/Working-Sessions/Security-Playbooks/Bug-Bounty-Playbook.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
+      {
+        "name": "Jason Haddix",
+        "url": "/Participants/remote/Jason-Haddix.html",
+        "remote": true
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      },
+      {
+        "name": "Sam Houston",
+        "url": "/Participants/Sam-Houston.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -900,7 +1188,14 @@
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Amani Altarawneh",
+        "Devesh Bhatt",
+        "Isuru Tharanga",
+        "Jason Haddix",
+        "Nikita Garia",
+        "Sam Houston"
+      ],
       "topics": []
     }
   },
@@ -917,8 +1212,23 @@
     ],
     "participants": [
       {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Kevin Fielder",
+        "url": "/Participants/Kevin-Fielder.html",
         "remote": false
       },
       {
@@ -927,13 +1237,13 @@
         "remote": false
       },
       {
-        "name": "Yan Kravchenko",
-        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
         "remote": false
       },
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
         "remote": false
       }
     ],
@@ -976,7 +1286,10 @@
         "Dinis Cruz",
         "Mateo Martinez",
         "Yan Kravchenko",
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Devesh Bhatt",
+        "Kevin Fielder",
+        "Neil Barlow"
       ],
       "related-to": [],
       "topics": []
@@ -995,23 +1308,13 @@
     ],
     "participants": [
       {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
-        "remote": false
-      },
-      {
-        "name": "Mateo Martinez",
-        "url": "/Participants/summit-editors/Mateo-Martinez.html",
-        "remote": false
-      },
-      {
-        "name": "Yan Kravchenko",
-        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
-        "remote": false
-      },
-      {
-        "name": "Ingo Hanke",
-        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
         "remote": false
       },
       {
@@ -1020,8 +1323,28 @@
         "remote": false
       },
       {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
         "remote": false
       }
     ],
@@ -1034,6 +1357,8 @@
       "status": "featured",
       "description": "Round-table of CISO (and future CISOs) to share ideas on what is going on at this level",
       "when-day": "Wed",
+      "when-time": "AM-1",
+      "location": "Room-4",
       "organizers": [
         "Ante Gulam"
       ],
@@ -1043,7 +1368,9 @@
         "Yan Kravchenko",
         "Ingo Hanke",
         "Francois Raynaud",
-        "Robert Morschel"
+        "Robert Morschel",
+        "Devesh Bhatt",
+        "Neil Barlow"
       ],
       "related-to": [],
       "topics": []
@@ -1059,6 +1386,16 @@
       }
     ],
     "participants": [
+      {
+        "name": "Marco Morana",
+        "url": "/Participants/ticket-8h-owasp/Marco-Morana.html",
+        "remote": false
+      },
+      {
+        "name": "Tal Argoni",
+        "url": "/Participants/remote/Tal-Argoni.html",
+        "remote": true
+      },
       {
         "name": "Yan Kravchenko",
         "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
@@ -1083,7 +1420,9 @@
         "Tobias Gondrom"
       ],
       "participants": [
-        "Yan Kravchenko"
+        "Yan Kravchenko",
+        "Marco Morana",
+        "Tal Argoni"
       ],
       "related-to": [],
       "topics": []
@@ -1132,12 +1471,12 @@
     ],
     "related-to": [
       {
-        "name": "Teaching Attacker perspective to Developers",
-        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
-      },
-      {
         "name": "Juice Shop",
         "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
+      },
+      {
+        "name": "Teaching Attacker perspective to Developers",
+        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
       }
     ],
     "metadata": {
@@ -1152,7 +1491,7 @@
         "Juice Shop"
       ],
       "status": "draft",
-      "when-day": "Evening",
+      "when-day": "Eve",
       "organizers": [],
       "participants": [
         "Bjoern Kimminich"
@@ -1167,13 +1506,23 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
-        "remote": false
+        "name": "Anuruddha Hewawasam",
+        "url": "/Participants/remote/Anuruddha-Hewawasam.html",
+        "remote": true
+      },
+      {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
       },
       {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       }
     ],
@@ -1194,10 +1543,14 @@
       "track": "Owasp Projects",
       "status": "more-content",
       "when-day": "Mon",
+      "when-time": "AM-1",
+      "location": "Room-1",
       "organizers": [],
       "participants": [
         "Marc Rimbau",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Anuruddha Hewawasam",
+        "Isuru Tharanga"
       ],
       "related-to": [],
       "topics": []
@@ -1238,7 +1591,7 @@
       "related-to": [],
       "status": "",
       "when-day": "Thu",
-      "when-time": "Evening",
+      "when-time": "Eve",
       "organizers": [
         "Francois Raynaud",
         "Dinis Cruz",
@@ -1304,6 +1657,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-1",
+      "location": "Room-1",
       "organizers": [],
       "participants": [
         "Irene Michlin"
@@ -1318,8 +1673,32 @@
     "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      }
+    ],
     "related-to": [
+      {
+        "name": "Creating AppSec Teams",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html"
+      },
+      {
+        "name": "Growing the AppSec Industry",
+        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
+      },
       {
         "name": "Recruiting AppSec Talent",
         "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html"
@@ -1327,14 +1706,6 @@
       {
         "name": "Security Champions",
         "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
-      },
-      {
-        "name": "Growing the AppSec Industry",
-        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
-      },
-      {
-        "name": "Creating AppSec Teams",
-        "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html"
       }
     ],
     "metadata": {
@@ -1352,7 +1723,11 @@
       ],
       "status": "review-content",
       "when-day": "Tue",
-      "participants": [],
+      "participants": [
+        "Chris Cooper",
+        "Devesh Bhatt",
+        "Nikita Garia"
+      ],
       "organizers": [],
       "topics": []
     }
@@ -1375,20 +1750,42 @@
         "remote": false
       },
       {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
+        "remote": false
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
+      },
+      {
+        "name": "Ross Tanner",
+        "url": "/Participants/Ross-Tanner.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      },
+      {
+        "name": "Vandana Verma",
+        "url": "/Participants/remote/Vandana-Verma.html",
+        "remote": true
       }
     ],
     "related-to": [
-      {
-        "name": "Recruiting AppSec Talent",
-        "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html"
-      },
-      {
-        "name": "Security Champions",
-        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
-      },
       {
         "name": "CISO",
         "url": "/Working-Sessions/CISO/index.html"
@@ -1396,6 +1793,14 @@
       {
         "name": "Creating AppSec Talent (next 100k professionals)",
         "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html"
+      },
+      {
+        "name": "Recruiting AppSec Talent",
+        "url": "/Working-Sessions/Education/Recruiting-AppSec-Talent.html"
+      },
+      {
+        "name": "Security Champions",
+        "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
       }
     ],
     "metadata": {
@@ -1417,7 +1822,14 @@
       "when-day": "Tue",
       "participants": [
         "Avi Douglen",
-        "Robert Morschel"
+        "Robert Morschel",
+        "Avi Douglen",
+        "Devesh Bhatt",
+        "Madhu Akula",
+        "Naushad",
+        "Ross Tanner",
+        "Tiago Mendo",
+        "Vandana Verma"
       ],
       "topics": []
     }
@@ -1440,12 +1852,12 @@
     "participants": [],
     "related-to": [
       {
-        "name": "Evaluation/Optimization/Creation of Training Slides",
-        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
-      },
-      {
         "name": "Docker Security",
         "url": "/Working-Sessions/DevSecOps/Docker-Security.html"
+      },
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
       }
     ],
     "metadata": {
@@ -1496,7 +1908,23 @@
     "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Jason Haddix",
+        "url": "/Participants/remote/Jason-Haddix.html",
+        "remote": true
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Sam Houston",
+        "url": "/Participants/Sam-Houston.html",
+        "remote": false
+      }
+    ],
     "related-to": [
       {
         "name": "AppSec Job Fair",
@@ -1514,7 +1942,11 @@
       "status": "review-content",
       "when-day": "Tue",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Jason Haddix",
+        "Madhu Akula",
+        "Sam Houston"
+      ],
       "topics": []
     }
   },
@@ -1534,16 +1966,26 @@
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
       }
     ],
     "related-to": [
       {
-        "name": "InfoSec Warranties and Guarantees",
-        "url": "/Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html"
-      },
-      {
         "name": "Growing the AppSec Industry",
         "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
+      },
+      {
+        "name": "InfoSec Warranties and Guarantees",
+        "url": "/Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html"
       },
       {
         "name": "Securing Legacy Applications",
@@ -1562,11 +2004,15 @@
       ],
       "status": "review-content",
       "when-day": "Wed",
+      "when-time": "PM-3",
+      "location": "Room-4",
       "organizers": [
         "Yan Kravchenko"
       ],
       "participants": [
-        "Dinis Cruz"
+        "Dinis Cruz",
+        "Nuno Loureiro",
+        "Tiago Mendo"
       ],
       "topics": []
     }
@@ -1623,8 +2069,33 @@
     ],
     "participants": [
       {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Anant Shrivastava",
+        "url": "/Participants/remote/Anant-Shrivastava.html",
+        "remote": true
+      },
+      {
         "name": "Brian Glas",
         "url": "/Participants/ticket-24h-sponsor/Brian-Glas.html",
+        "remote": false
+      },
+      {
+        "name": "Erez Yalon",
+        "url": "/Participants/Erez-Yalon.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
       },
       {
@@ -1633,9 +2104,34 @@
         "remote": false
       },
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
         "remote": false
+      },
+      {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
+      },
+      {
+        "name": "Ohad Rabinovich",
+        "url": "/Participants/Ohad-Rabinovich.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -1655,7 +2151,17 @@
       "participants": [
         "Brian Glas",
         "Ingo Hanke",
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Amani Altarawneh",
+        "Anant Shrivastava",
+        "Erez Yalon",
+        "Felipe Zipitria",
+        "Isuru Tharanga",
+        "Jason Li",
+        "Kevin Greene",
+        "Ohad Rabinovich",
+        "Tiago Mendo",
+        "Victor Vidigal Ribeiro"
       ],
       "related-to": [],
       "topics": []
@@ -1672,8 +2178,23 @@
     ],
     "participants": [
       {
+        "name": "Adam Obrien",
+        "url": "/Participants/Adam-Obrien.html",
+        "remote": false
+      },
+      {
         "name": "Ante Gulam",
         "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
         "remote": false
       },
       {
@@ -1682,14 +2203,24 @@
         "remote": false
       },
       {
+        "name": "Mamta Vuppu",
+        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      },
+      {
+        "name": "Rahul Raghavan",
+        "url": "/Participants/remote/Rahul-Raghavan.html",
+        "remote": true
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
       },
       {
-        "name": "Mamta Vuppu",
-        "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
-        "remote": false
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [
@@ -1710,6 +2241,8 @@
       ],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "AM-1",
+      "location": "Room-3",
       "organizers": [
         "David Clarke"
       ],
@@ -1717,7 +2250,12 @@
         "Ante Gulam",
         "Irene Michlin",
         "Robert Morschel",
-        "Mamta Vuppu"
+        "Mamta Vuppu",
+        "Adam Obrien",
+        "Chris Cooper",
+        "Helen Bravo",
+        "Rahul Raghavan",
+        "Victor Vidigal Ribeiro"
       ],
       "topics": []
     }
@@ -1785,6 +2323,11 @@
         "remote": false
       },
       {
+        "name": "John Fitzgerald",
+        "url": "/Participants/ticket-8h/John-Fitzgerald.html",
+        "remote": false
+      },
+      {
         "name": "Scott Treacy",
         "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
         "remote": false
@@ -1807,7 +2350,8 @@
       ],
       "participants": [
         "Francois Raynaud",
-        "Scott Treacy"
+        "Scott Treacy",
+        "John Fitzgerald"
       ],
       "related-to": [],
       "topics": []
@@ -1826,13 +2370,8 @@
     ],
     "participants": [
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
-        "remote": false
-      },
-      {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
       },
       {
@@ -1841,8 +2380,23 @@
         "remote": false
       },
       {
-        "name": "Avi Douglen",
-        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       }
     ],
@@ -1853,7 +2407,7 @@
       "type": "workshop",
       "track": "DevSecOps",
       "status": "draft",
-      "when-day": "Evening",
+      "when-day": "Eve",
       "organizers": [
         "Francois Raynaud"
       ],
@@ -1861,7 +2415,10 @@
         "Francois Raynaud",
         "Marc Rimbau",
         "Felipe Zipitria",
-        "Avi Douglen"
+        "Avi Douglen",
+        "Avi Douglen",
+        "Fraser Scott",
+        "Madhu Akula"
       ],
       "related-to": [],
       "topics": []
@@ -1902,7 +2459,18 @@
     "url": "/Working-Sessions/Security-Playbooks/DoS-Playbook.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -1914,7 +2482,10 @@
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Amani Altarawneh",
+        "Isuru Tharanga"
+      ],
       "topics": []
     }
   },
@@ -1925,13 +2496,33 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Timo Pagel",
-        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "name": "Erez Yalon",
+        "url": "/Participants/Erez-Yalon.html",
+        "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
         "remote": false
       },
       {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Ohad Rabinovich",
+        "url": "/Participants/Ohad-Rabinovich.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
         "remote": false
       }
     ],
@@ -1955,7 +2546,11 @@
       "organizers": [],
       "participants": [
         "Timo Pagel",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Erez Yalon",
+        "Helen Bravo",
+        "Madhu Akula",
+        "Ohad Rabinovich"
       ],
       "topics": []
     }
@@ -1973,6 +2568,21 @@
     ],
     "participants": [
       {
+        "name": "Adam Obrien",
+        "url": "/Participants/Adam-Obrien.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
+      },
+      {
         "name": "Marc Rimbau",
         "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
@@ -1983,17 +2593,17 @@
         "remote": false
       },
       {
-        "name": "Yan Kravchenko",
-        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
-        "remote": false
-      },
-      {
         "name": "Timo Pagel",
         "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
         "remote": false
       },
       {
         "name": "Viktor Lindström"
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -2013,7 +2623,10 @@
         "Mateo Martinez",
         "Yan Kravchenko",
         "Timo Pagel",
-        "Viktor Lindström"
+        "Viktor Lindström",
+        "Adam Obrien",
+        "Avi Douglen",
+        "Kevin Greene"
       ],
       "related-to": [],
       "topics": []
@@ -2061,16 +2674,6 @@
     ],
     "participants": [
       {
-        "name": "Neil Barlow",
-        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
-        "remote": false
-      },
-      {
-        "name": "Fraser Scott",
-        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
-        "remote": false
-      },
-      {
         "name": "Ante Gulam",
         "url": "/Participants/Ante-Gulam.html",
         "remote": false
@@ -2081,8 +2684,28 @@
         "remote": false
       },
       {
-        "name": "Timo Pagel",
-        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
         "remote": false
       },
       {
@@ -2091,8 +2714,8 @@
         "remote": false
       },
       {
-        "name": "Johan Peeters",
-        "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
         "remote": false
       }
     ],
@@ -2117,7 +2740,9 @@
         "Francois Raynaud",
         "Timo Pagel",
         "Robert Morschel",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Helen Bravo",
+        "Madhu Akula"
       ],
       "topics": []
     }
@@ -2127,8 +2752,18 @@
     "url": "/Working-Sessions/Education/index.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "John Fitzgerald",
+        "url": "/Participants/ticket-8h/John-Fitzgerald.html",
+        "remote": false
+      }
+    ],
     "related-to": [
+      {
+        "name": "Growing the AppSec Industry",
+        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
+      },
       {
         "name": "Juice Shop",
         "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
@@ -2148,10 +2783,6 @@
       {
         "name": "Webgoat",
         "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
-      },
-      {
-        "name": "Growing the AppSec Industry",
-        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
       }
     ],
     "metadata": {
@@ -2168,7 +2799,9 @@
         "Webgoat"
       ],
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "John Fitzgerald"
+      ],
       "topics": []
     }
   },
@@ -2188,16 +2821,21 @@
         "name": "Bjoern Kimminich",
         "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
         "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
       }
     ],
     "related-to": [
       {
-        "name": "Teaching Attacker perspective to Developers",
-        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
-      },
-      {
         "name": "Application Security BSc/Masters Curriculum Design",
         "url": "/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html"
+      },
+      {
+        "name": "Creation and Optimization of a Docker Security Workshop",
+        "url": "/Working-Sessions/Education/Docker-Seucrity-Workshop.html"
       },
       {
         "name": "Juice Shop",
@@ -2208,12 +2846,12 @@
         "url": "/Working-Sessions/Owasp-Projects/NodeGoat.html"
       },
       {
-        "name": "Webgoat",
-        "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
+        "name": "Teaching Attacker perspective to Developers",
+        "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html"
       },
       {
-        "name": "Creation and Optimization of a Docker Security Workshop",
-        "url": "/Working-Sessions/Education/Docker-Seucrity-Workshop.html"
+        "name": "Webgoat",
+        "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
       }
     ],
     "metadata": {
@@ -2236,7 +2874,8 @@
         "Timo Pagel"
       ],
       "participants": [
-        "Bjoern Kimminich"
+        "Bjoern Kimminich",
+        "Helen Bravo"
       ],
       "topics": []
     }
@@ -2255,6 +2894,11 @@
     "organizers": [],
     "participants": [
       {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
         "name": "PhotoBox"
       }
     ],
@@ -2270,7 +2914,8 @@
       "when-day": "Fri",
       "organizers": [],
       "participants": [
-        "PhotoBox"
+        "PhotoBox",
+        "Amani Altarawneh"
       ],
       "topics": [
         ".Net",
@@ -2317,6 +2962,11 @@
     "organizers": [],
     "participants": [
       {
+        "name": "Adam Obrien",
+        "url": "/Participants/Adam-Obrien.html",
+        "remote": false
+      },
+      {
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
@@ -2330,6 +2980,11 @@
         "name": "Phil Parker",
         "url": "/Participants/Phil-Parker.html",
         "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -2342,11 +2997,15 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-3",
+      "location": "Room-4",
       "organizers": [],
       "participants": [
         "Dinis Cruz",
         "Francois Raynaud",
-        "Phil Parker"
+        "Phil Parker",
+        "Adam Obrien",
+        "Tiago Mendo"
       ],
       "topics": [
         "GDPR"
@@ -2399,7 +3058,13 @@
       }
     ],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Tamer Elzayyat",
+        "url": "/Participants/remote/Tamer-Elzayyat.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -2411,7 +3076,9 @@
       "related-to": [],
       "status": "draft",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Tamer Elzayyat"
+      ],
       "topics": [
         "IoT"
       ]
@@ -2428,7 +3095,13 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -2441,7 +3114,9 @@
       "organizers": [
         "Bjoern Kimminich"
       ],
-      "participants": [],
+      "participants": [
+        "Felipe Zipitria"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -2492,8 +3167,23 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Ross Tanner",
+        "url": "/Participants/Ross-Tanner.html",
+        "remote": false
+      }
+    ],
     "related-to": [
+      {
+        "name": "Creating AppSec Talent (next 100k professionals)",
+        "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html"
+      },
       {
         "name": "Cyber Insurance",
         "url": "/Working-Sessions/CISO/Cyber-Insurance.html"
@@ -2501,10 +3191,6 @@
       {
         "name": "Education",
         "url": "/Working-Sessions/Education/index.html"
-      },
-      {
-        "name": "Creating AppSec Talent (next 100k professionals)",
-        "url": "/Working-Sessions/Education/Creating-AppSec-Talent.html"
       }
     ],
     "metadata": {
@@ -2520,10 +3206,15 @@
       ],
       "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-2",
+      "location": "Room-4",
       "organizers": [
         "Yan Kravchenko"
       ],
-      "participants": [],
+      "participants": [
+        "Nuno Loureiro",
+        "Ross Tanner"
+      ],
       "topics": []
     }
   },
@@ -2556,7 +3247,7 @@
         "Juice Shop"
       ],
       "status": "draft",
-      "when-day": "Evening",
+      "when-day": "Eve",
       "organizers": [
         "Leon Juranic"
       ],
@@ -2601,8 +3292,8 @@
     ],
     "participants": [
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
         "remote": false
       },
       {
@@ -2611,13 +3302,18 @@
         "remote": false
       },
       {
-        "name": "Bjoern Kimminich",
-        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       },
       {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
         "remote": false
       }
     ],
@@ -2637,7 +3333,8 @@
         "Marc Rimbau",
         "Dinis Cruz",
         "Bjoern Kimminich",
-        "Robert Morschel"
+        "Robert Morschel",
+        "Tiago Mendo"
       ],
       "related-to": [],
       "topics": [
@@ -2658,13 +3355,13 @@
     ],
     "participants": [
       {
-        "name": "Bjoern Kimminich",
-        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
       },
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
         "remote": false
       },
       {
@@ -2673,8 +3370,43 @@
         "remote": false
       },
       {
+        "name": "Erez Yalon",
+        "url": "/Participants/Erez-Yalon.html",
+        "remote": false
+      },
+      {
         "name": "Felipe Zipitria",
         "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      },
+      {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
+        "remote": false
+      },
+      {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       },
       {
@@ -2683,8 +3415,18 @@
         "remote": false
       },
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Ohad Rabinovich",
+        "url": "/Participants/Ohad-Rabinovich.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
         "remote": false
       }
     ],
@@ -2706,7 +3448,16 @@
         "Brian Glas",
         "Felipe Zipitria",
         "Mateo Martinez",
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Avi Douglen",
+        "Erez Yalon",
+        "Ingo Hanke",
+        "Isuru Tharanga",
+        "Jason Li",
+        "Kevin Greene",
+        "Nuno Loureiro",
+        "Ohad Rabinovich",
+        "Tiago Mendo"
       ],
       "related-to": [],
       "topics": []
@@ -2724,8 +3475,18 @@
     "organizers": [],
     "participants": [
       {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
+      {
         "name": "Mamta Vuppu",
         "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
         "remote": false
       }
     ],
@@ -2741,7 +3502,9 @@
       "when-day": "Wed",
       "organizers": [],
       "participants": [
-        "Mamta Vuppu"
+        "Mamta Vuppu",
+        "Isuru Tharanga",
+        "Naushad"
       ],
       "topics": [
         "SOC"
@@ -2809,6 +3572,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Wed",
+      "when-time": "PM-1",
+      "location": "Room-4",
       "organizers": [
         "Yan Kravchenko"
       ],
@@ -2826,7 +3591,18 @@
       }
     ],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      }
+    ],
     "related-to": [
       {
         "name": "A comparison of strength and weaknesses of specific FOSS tools",
@@ -2856,7 +3632,10 @@
         "A comparison of strength and weaknesses of specific FOSS tools"
       ],
       "status": "draft",
-      "participants": [],
+      "participants": [
+        "Helen Bravo",
+        "Nuno Loureiro"
+      ],
       "organizers": [],
       "topics": [
         "SAST"
@@ -2879,6 +3658,11 @@
         "remote": false
       },
       {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
@@ -2887,6 +3671,11 @@
         "name": "Mamta Vuppu",
         "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
         "remote": false
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -2906,7 +3695,9 @@
       "participants": [
         "Ante Gulam",
         "Irene Michlin",
-        "Mamta Vuppu"
+        "Mamta Vuppu",
+        "Avi Douglen",
+        "Victor Vidigal Ribeiro"
       ],
       "topics": []
     }
@@ -2927,9 +3718,19 @@
         "remote": false
       },
       {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
+      },
+      {
+        "name": "Rahul Raghavan",
+        "url": "/Participants/remote/Rahul-Raghavan.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -2948,7 +3749,9 @@
       ],
       "participants": [
         "Ante Gulam",
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Chris Cooper",
+        "Rahul Raghavan"
       ],
       "topics": []
     }
@@ -2966,6 +3769,11 @@
       {
         "name": "Ante Gulam",
         "url": "/Participants/Ante-Gulam.html",
+        "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
         "remote": false
       }
     ],
@@ -2993,7 +3801,8 @@
         "David Clarke"
       ],
       "participants": [
-        "Ante Gulam"
+        "Ante Gulam",
+        "Helen Bravo"
       ],
       "topics": []
     }
@@ -3065,7 +3874,23 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Erez Yalon",
+        "url": "/Participants/Erez-Yalon.html",
+        "remote": false
+      },
+      {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
+      },
+      {
+        "name": "Ohad Rabinovich",
+        "url": "/Participants/Ohad-Rabinovich.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -3079,7 +3904,11 @@
       "organizers": [
         "Dave Wichers"
       ],
-      "participants": [],
+      "participants": [
+        "Erez Yalon",
+        "Kevin Greene",
+        "Ohad Rabinovich"
+      ],
       "topics": []
     }
   },
@@ -3095,6 +3924,11 @@
       }
     ],
     "participants": [
+      {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
       {
         "name": "Timo Pagel",
         "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
@@ -3119,7 +3953,8 @@
         "Dinis Cruz"
       ],
       "participants": [
-        "Timo Pagel"
+        "Timo Pagel",
+        "Chris Cooper"
       ],
       "related-to": [],
       "topics": []
@@ -3162,8 +3997,23 @@
     ],
     "participants": [
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
       },
       {
@@ -3172,9 +4022,14 @@
         "remote": false
       },
       {
-        "name": "Ade Yoseman Putra",
-        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
         "remote": true
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
       },
       {
         "name": "Timo Pagel",
@@ -3182,9 +4037,9 @@
         "remote": false
       },
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
-        "remote": false
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [
@@ -3226,7 +4081,11 @@
         "Ingo Hanke",
         "Ade Yoseman Putra",
         "Timo Pagel",
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Amani Altarawneh",
+        "Madhu Akula",
+        "Tiago Mendo",
+        "Victor Vidigal Ribeiro"
       ],
       "related-to": [],
       "topics": [
@@ -3298,18 +4157,8 @@
     ],
     "participants": [
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
-        "remote": false
-      },
-      {
-        "name": "Felipe Zipitria",
-        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
-        "remote": false
-      },
-      {
-        "name": "Robert Morschel",
-        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
         "remote": false
       },
       {
@@ -3318,13 +4167,38 @@
         "remote": false
       },
       {
-        "name": "Stephen de Vries",
-        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "name": "Denis Pilipchuk",
+        "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
         "remote": false
       },
       {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
         "remote": false
       }
     ],
@@ -3345,7 +4219,11 @@
         "Robert Morschel",
         "Avi Douglen",
         "Stephen de Vries",
-        "Irene Michlin"
+        "Irene Michlin",
+        "Adam Shostack",
+        "Avi Douglen",
+        "Denis Pilipchuk",
+        "Jason Li"
       ],
       "related-to": [],
       "topics": []
@@ -3487,6 +4365,7 @@
       "technology": "Mobile",
       "status": "done",
       "when-day": "Mon",
+      "when-time": "AM-1,PM-1,PM-2,PM3",
       "description": "In this book sprint we produce content for the \"Mobile Operating Systems\" chapter of the Mobile Security Testing Guide.",
       "organizers": [
         "Bernhard Mueller",
@@ -3619,18 +4498,13 @@
     ],
     "participants": [
       {
-        "name": "Sebastien Deleersnyder",
-        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "name": "Adam Obrien",
+        "url": "/Participants/Adam-Obrien.html",
         "remote": false
       },
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
-        "remote": false
-      },
-      {
-        "name": "Yan Kravchenko",
-        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
       },
       {
@@ -3639,7 +4513,24 @@
         "remote": false
       },
       {
-        "name": "Viktor Lindström"
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      },
+      {
+        "name": "Viktor Lindstrom",
+        "url": "/Participants/ticket-24h/Viktor-Lindstrom.html",
+        "remote": false
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -3660,7 +4551,9 @@
         "Marc Rimbau",
         "Yan Kravchenko",
         "Irene Michlin",
-        "Viktor Lindström"
+        "Viktor Lindstrom",
+        "Adam Obrien",
+        "Avi Douglen"
       ],
       "related-to": [],
       "topics": [
@@ -3678,7 +4571,13 @@
       }
     ],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -3690,7 +4589,9 @@
       "status": "review-content",
       "when-day": "Wed",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Nikita Garia"
+      ],
       "topics": [
         "GDPR"
       ]
@@ -3738,18 +4639,13 @@
     ],
     "participants": [
       {
-        "name": "Denis Pilipchuk",
-        "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
-        "remote": false
-      },
-      {
-        "name": "Naushad",
-        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
-        "remote": false
-      },
-      {
         "name": "Bolot Kerimbaev",
         "url": "/Participants/ticket-24h/Bolot-Kerimbaev.html",
+        "remote": false
+      },
+      {
+        "name": "Denis Pilipchuk",
+        "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
         "remote": false
       },
       {
@@ -3758,14 +4654,19 @@
         "remote": false
       },
       {
+        "name": "Kuai Hinojosa",
+        "url": "/Participants/remote/Kuai-Hinojosa.html",
+        "remote": true
+      },
+      {
         "name": "Marc Rimbau",
         "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       },
       {
-        "name": "Kuai Hinojosa",
-        "url": "/Participants/remote/Kuai-Hinojosa.html",
-        "remote": true
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -3820,8 +4721,10 @@
       "owasp-project": "yes",
       "track": "CISO",
       "technology": "",
-      "status": "draft",
+      "status": "review-content",
       "when-day": "Mon",
+      "when-time": "PM-3",
+      "location": "Room-4",
       "organizers": [
         "Ante Gulam"
       ],
@@ -3839,14 +4742,29 @@
     "organizers": [],
     "participants": [
       {
+        "name": "Dicky Stafford",
+        "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
+        "remote": false
+      },
+      {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
+        "remote": false
+      },
+      {
         "name": "Neil Barlow",
         "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
         "remote": false
       },
       {
-        "name": "Dicky Stafford",
-        "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
-        "remote": false
+        "name": "Vandana Verma",
+        "url": "/Participants/remote/Vandana-Verma.html",
+        "remote": true
       }
     ],
     "related-to": [
@@ -3873,7 +4791,10 @@
       "organizers": [],
       "participants": [
         "Neil Barlow",
-        "Dicky Stafford"
+        "Dicky Stafford",
+        "Fraser Scott",
+        "Naushad",
+        "Vandana Verma"
       ],
       "topics": []
     }
@@ -3885,11 +4806,6 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Neil Barlow",
-        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
-        "remote": false
-      },
-      {
         "name": "Dicky Stafford",
         "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
         "remote": false
@@ -3900,9 +4816,34 @@
         "remote": false
       },
       {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      },
+      {
         "name": "Timo Pagel",
         "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
         "remote": false
+      },
+      {
+        "name": "Vandana Verma",
+        "url": "/Participants/remote/Vandana-Verma.html",
+        "remote": true
       }
     ],
     "related-to": [
@@ -3924,7 +4865,11 @@
         "Neil Barlow",
         "Dicky Stafford",
         "Francois Raynaud",
-        "Timo Pagel"
+        "Timo Pagel",
+        "Fraser Scott",
+        "Madhu Akula",
+        "Nikita Garia",
+        "Vandana Verma"
       ],
       "topics": []
     }
@@ -3969,13 +4914,18 @@
         "remote": false
       },
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
         "remote": false
       },
       {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       }
     ],
@@ -3991,7 +4941,8 @@
       "participants": [
         "Bjoern Kimminich",
         "Marc Rimbau",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Jason Li"
       ],
       "related-to": [],
       "topics": []
@@ -4021,7 +4972,13 @@
     "url": "/Working-Sessions/DevSecOps/Node-Security-Round-Table.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4033,7 +4990,9 @@
       "related-to": [],
       "status": "review-content",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Tiago Mendo"
+      ],
       "topics": []
     }
   },
@@ -4053,7 +5012,13 @@
         "remote": true
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      }
+    ],
     "related-to": [
       {
         "name": "Education",
@@ -4080,7 +5045,9 @@
       "organizers": [
         "Kim Carter"
       ],
-      "participants": [],
+      "participants": [
+        "Tiago Mendo"
+      ],
       "related-to": [],
       "topics": [
         "Node"
@@ -4105,13 +5072,18 @@
     ],
     "participants": [
       {
+        "name": "Ingo Hanke",
+        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "remote": false
+      },
+      {
         "name": "Marc Rimbau",
         "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       },
       {
-        "name": "Ingo Hanke",
-        "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
         "remote": false
       }
     ],
@@ -4130,7 +5102,8 @@
       "when-day": "Tue",
       "participants": [
         "Marc Rimbau",
-        "Ingo Hanke"
+        "Ingo Hanke",
+        "Tiago Mendo"
       ],
       "related-to": [],
       "topics": [
@@ -4143,7 +5116,18 @@
     "url": "/Working-Sessions/Security-Crowdsourcing/Owasp-Bug-Bounty.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Anuruddha Hewawasam",
+        "url": "/Participants/remote/Anuruddha-Hewawasam.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4154,7 +5138,10 @@
       "status": "more-content",
       "when-day": "Wed",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Amani Altarawneh",
+        "Anuruddha Hewawasam"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -4170,7 +5157,13 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4182,7 +5175,9 @@
       "organizers": [
         "Avi Douglen"
       ],
-      "participants": [],
+      "participants": [
+        "Avi Douglen"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -4238,7 +5233,23 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      },
+      {
+        "name": "Tamer Elzayyat",
+        "url": "/Participants/remote/Tamer-Elzayyat.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4252,7 +5263,11 @@
       "organizers": [
         "Daniel Miessler"
       ],
-      "participants": [],
+      "participants": [
+        "Amani Altarawneh",
+        "Nikita Garia",
+        "Tamer Elzayyat"
+      ],
       "related-to": [],
       "topics": [
         "IoT"
@@ -4347,9 +5362,29 @@
     ],
     "participants": [
       {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Anuruddha Hewawasam",
+        "url": "/Participants/remote/Anuruddha-Hewawasam.html",
+        "remote": true
+      },
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
+        "remote": false
+      },
+      {
         "name": "Marc Rimbau",
         "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
+      },
+      {
+        "name": "Mohammad Febri Ramadlan",
+        "url": "/Participants/remote/Mohammad-Febri-Ramadlan.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -4364,7 +5399,11 @@
         "Ade Yoseman Putra"
       ],
       "participants": [
-        "Marc Rimbau"
+        "Marc Rimbau",
+        "Amani Altarawneh",
+        "Anuruddha Hewawasam",
+        "Jason Li",
+        "Mohammad Febri Ramadlan"
       ],
       "related-to": [],
       "topics": []
@@ -4381,7 +5420,18 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Kate Hartmann",
+        "url": "/Participants/remote/Kate-Hartmann.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4393,7 +5443,10 @@
       "track": "Owasp",
       "status": "done",
       "when-day": "Thu",
-      "participants": [],
+      "participants": [
+        "Avi Douglen",
+        "Kate Hartmann"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -4409,7 +5462,18 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Kate Hartmann",
+        "url": "/Participants/remote/Kate-Hartmann.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4422,7 +5486,10 @@
       "organizers": [
         "Mateo Martinez"
       ],
-      "participants": [],
+      "participants": [
+        "Felipe Zipitria",
+        "Kate Hartmann"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -4508,7 +5575,18 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Kate Hartmann",
+        "url": "/Participants/remote/Kate-Hartmann.html",
+        "remote": true
+      }
+    ],
     "related-to": [
       {
         "name": "Education",
@@ -4526,7 +5604,10 @@
       "organizers": [
         "Mateo Martinez"
       ],
-      "participants": [],
+      "participants": [
+        "Felipe Zipitria",
+        "Kate Hartmann"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -4544,13 +5625,13 @@
     ],
     "participants": [
       {
-        "name": "Bjoern Kimminich",
-        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
-        "remote": false
+        "name": "Anant Shrivastava",
+        "url": "/Participants/remote/Anant-Shrivastava.html",
+        "remote": true
       },
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
         "remote": false
       },
       {
@@ -4564,6 +5645,11 @@
         "remote": false
       },
       {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
         "name": "Mateo Martinez",
         "url": "/Participants/summit-editors/Mateo-Martinez.html",
         "remote": false
@@ -4572,6 +5658,11 @@
         "name": "Scott Treacy",
         "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
         "remote": false
+      },
+      {
+        "name": "Tal Argoni",
+        "url": "/Participants/remote/Tal-Argoni.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -4590,7 +5681,9 @@
         "Brian Glas",
         "Felipe Zipitria",
         "Mateo Martinez",
-        "Scott Treacy"
+        "Scott Treacy",
+        "Anant Shrivastava",
+        "Tal Argoni"
       ],
       "related-to": [],
       "topics": []
@@ -4601,7 +5694,13 @@
     "url": "/Working-Sessions/Owasp/Owasp-Website.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Kate Hartmann",
+        "url": "/Participants/remote/Kate-Hartmann.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4610,7 +5709,9 @@
       "track": "Owasp",
       "status": "draft",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Kate Hartmann"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -4628,13 +5729,8 @@
     ],
     "participants": [
       {
-        "name": "Dinis Cruz",
-        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
-        "remote": false
-      },
-      {
-        "name": "Mateo Martinez",
-        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
       },
       {
@@ -4643,8 +5739,23 @@
         "remote": false
       },
       {
-        "name": "Avi Douglen",
-        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Mark Stanislav",
+        "url": "/Participants/remote/Mark-Stanislav.html",
+        "remote": true
+      },
+      {
+        "name": "Mateo Martinez",
+        "url": "/Participants/summit-editors/Mateo-Martinez.html",
+        "remote": false
+      },
+      {
+        "name": "Pravir Chandra",
+        "url": "/Participants/Pravir-Chandra.html",
         "remote": false
       },
       {
@@ -4674,7 +5785,9 @@
         "Mateo Martinez",
         "Brian Glas",
         "Avi Douglen",
-        "Yan Kravchenko"
+        "Yan Kravchenko",
+        "Mark Stanislav",
+        "Pravir Chandra"
       ],
       "related-to": [],
       "topics": []
@@ -4783,7 +5896,18 @@
     "url": "/Working-Sessions/Security-Playbooks/Ransomware-Playbook.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4795,7 +5919,10 @@
       "status": "review-content",
       "when-day": "Fri",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Amani Altarawneh",
+        "Nikita Garia"
+      ],
       "topics": []
     }
   },
@@ -4839,7 +5966,33 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      },
+      {
+        "name": "Ross Tanner",
+        "url": "/Participants/Ross-Tanner.html",
+        "remote": false
+      },
+      {
+        "name": "Vandana Verma",
+        "url": "/Participants/remote/Vandana-Verma.html",
+        "remote": true
+      }
+    ],
     "related-to": [
       {
         "name": "AppSec Job Fair",
@@ -4863,7 +6016,13 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
-      "participants": [],
+      "participants": [
+        "Avi Douglen",
+        "Chris Cooper",
+        "Nikita Garia",
+        "Ross Tanner",
+        "Vandana Verma"
+      ],
       "organizers": [
         "Avi Douglen"
       ],
@@ -4902,8 +6061,18 @@
     ],
     "participants": [
       {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
         "remote": false
       }
     ],
@@ -4919,7 +6088,9 @@
         "Devesh Bhatt"
       ],
       "participants": [
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Devesh Bhatt",
+        "Nikita Garia"
       ],
       "related-to": [],
       "topics": []
@@ -4941,7 +6112,18 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Dougal Kennedy",
+        "url": "/Participants/remote/Dougal-Kennedy.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -4954,7 +6136,10 @@
       "organizers": [
         "Johanna Curiel"
       ],
-      "participants": [],
+      "participants": [
+        "Amani Altarawneh",
+        "Dougal Kennedy"
+      ],
       "related-to": [],
       "topics": [
         "Mobile"
@@ -4974,13 +6159,8 @@
     ],
     "participants": [
       {
-        "name": "Yan Kravchenko",
-        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
-        "remote": false
-      },
-      {
-        "name": "Robert Morschel",
-        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "name": "Adam Obrien",
+        "url": "/Participants/Adam-Obrien.html",
         "remote": false
       },
       {
@@ -4989,7 +6169,22 @@
         "remote": false
       },
       {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
         "name": "Viktor Lindström"
+      },
+      {
+        "name": "Yan Kravchenko",
+        "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -5008,7 +6203,9 @@
         "Yan Kravchenko",
         "Robert Morschel",
         "Irene Michlin",
-        "Viktor Lindström"
+        "Viktor Lindström",
+        "Adam Obrien",
+        "Kevin Greene"
       ],
       "related-to": [],
       "topics": []
@@ -5062,6 +6259,16 @@
     ],
     "participants": [
       {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
+      },
+      {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
@@ -5069,11 +6276,11 @@
     ],
     "related-to": [
       {
-        "name": "OwaspSAMM",
-        "url": "/Working-Sessions/OwaspSAMM/index.html"
+        "name": "Appsec Metrics"
       },
       {
-        "name": "Appsec Metrics"
+        "name": "OwaspSAMM",
+        "url": "/Working-Sessions/OwaspSAMM/index.html"
       }
     ],
     "metadata": {
@@ -5087,12 +6294,16 @@
         "Appsec Metrics"
       ],
       "status": "done",
-      "when-day": "Mon",
+      "when-day": "Thu",
+      "when-time": "PM-3",
+      "location": "Room-4",
       "organizers": [
         "Yan Kravchenko"
       ],
       "participants": [
-        "Robert Morschel"
+        "Robert Morschel",
+        "Helen Bravo",
+        "Kevin Greene"
       ],
       "topics": []
     }
@@ -5121,7 +6332,13 @@
     "url": "/Working-Sessions/Technologies/SOC.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Don Gibson",
+        "url": "/Participants/ticket-8h/Don-Gibson.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/technology",
@@ -5130,7 +6347,9 @@
       "technology": "",
       "description": "SOC (Security Operations Center) is a key part of the Security capabilities.",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Don Gibson"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -5145,6 +6364,11 @@
         "name": "Don Gibson",
         "url": "/Participants/ticket-8h/Don-Gibson.html",
         "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
       }
     ],
     "related-to": [
@@ -5164,7 +6388,8 @@
       "status": "draft",
       "organizers": [],
       "participants": [
-        "Don Gibson"
+        "Don Gibson",
+        "Madhu Akula"
       ],
       "topics": []
     }
@@ -5183,6 +6408,11 @@
         "name": "Ante Gulam",
         "url": "/Participants/Ante-Gulam.html",
         "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -5199,7 +6429,8 @@
         "David Clarke"
       ],
       "participants": [
-        "Ante Gulam"
+        "Ante Gulam",
+        "Helen Bravo"
       ],
       "topics": []
     }
@@ -5221,19 +6452,29 @@
         "remote": false
       },
       {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [
       {
-        "name": "Securing the CI Pipeline",
-        "url": "/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html"
-      },
-      {
         "name": "Integrating Security Tools in the SDL",
         "url": "/Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html"
+      },
+      {
+        "name": "Securing the CI Pipeline",
+        "url": "/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html"
       },
       {
         "name": "Security Guidance and Feedback in IDE",
@@ -5255,7 +6496,9 @@
       "when-day": "Fri",
       "participants": [
         "Avi Douglen",
-        "Robert Morschel"
+        "Robert Morschel",
+        "Helen Bravo",
+        "Victor Vidigal Ribeiro"
       ],
       "organizers": [],
       "topics": [
@@ -5279,6 +6522,16 @@
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -5293,7 +6546,9 @@
         "Danny Grander"
       ],
       "participants": [
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Nuno Loureiro",
+        "Tiago Mendo"
       ],
       "related-to": [],
       "topics": []
@@ -5317,29 +6572,39 @@
     ],
     "participants": [
       {
+        "name": "Bjoern Kimminich",
+        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
         "name": "Don Gibson",
         "url": "/Participants/ticket-8h/Don-Gibson.html",
         "remote": false
       },
       {
-        "name": "Bjoern Kimminich",
-        "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
         "remote": false
       },
       {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
       }
     ],
     "related-to": [
       {
-        "name": "Cyber Insurance",
-        "url": "/Working-Sessions/CISO/Cyber-Insurance.html"
-      },
-      {
         "name": "CISO",
         "url": "/Working-Sessions/CISO/index.html"
+      },
+      {
+        "name": "Cyber Insurance",
+        "url": "/Working-Sessions/CISO/Cyber-Insurance.html"
       },
       {
         "name": "InfoSec Warranties and Guarantees",
@@ -5366,7 +6631,9 @@
       "participants": [
         "Don Gibson",
         "Bjoern Kimminich",
-        "Irene Michlin"
+        "Irene Michlin",
+        "Helen Bravo",
+        "Tiago Mendo"
       ],
       "topics": [
         "SAST"
@@ -5394,23 +6661,38 @@
     ],
     "participants": [
       {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
+      },
+      {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
         "remote": false
       }
     ],
     "related-to": [
       {
-        "name": "Integrating Security Tools in the SDL",
-        "url": "/Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html"
+        "name": "Best practices in using SAST, DAST, IAST and RASP Tools",
+        "url": "/Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html"
       },
       {
         "name": "CISO",
         "url": "/Working-Sessions/CISO/index.html"
       },
       {
-        "name": "Best practices in using SAST, DAST, IAST and RASP Tools",
-        "url": "/Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html"
+        "name": "Integrating Security Tools in the SDL",
+        "url": "/Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html"
       },
       {
         "name": "Scaling Static Analysis Reviews and Deployments",
@@ -5430,7 +6712,10 @@
       ],
       "status": "draft",
       "participants": [
-        "Johan Peeters"
+        "Johan Peeters",
+        "Fraser Scott",
+        "Helen Bravo",
+        "Nuno Loureiro"
       ],
       "organizers": [
         "Felipe Zipitria"
@@ -5451,7 +6736,13 @@
       }
     ],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Tamer Elzayyat",
+        "url": "/Participants/remote/Tamer-Elzayyat.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -5461,7 +6752,9 @@
       "track": "",
       "status": "draft",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Tamer Elzayyat"
+      ],
       "related-to": [],
       "topics": [
         "IoT"
@@ -5475,13 +6768,18 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Dinis Cruz",
-        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
-        "remote": false
+        "name": "Anuruddha Hewawasam",
+        "url": "/Participants/remote/Anuruddha-Hewawasam.html",
+        "remote": true
       },
       {
         "name": "Bjoern Kimminich",
         "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
       }
     ],
@@ -5495,11 +6793,12 @@
       "technology": "",
       "related-to": [],
       "status": "review-content",
-      "when-day": "Evening",
+      "when-day": "Eve",
       "organizers": [],
       "participants": [
         "Dinis Cruz",
-        "Bjoern Kimminich"
+        "Bjoern Kimminich",
+        "Anuruddha Hewawasam"
       ],
       "topics": []
     }
@@ -5514,16 +6813,14 @@
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
+      },
+      {
+        "name": "Ross Tanner",
+        "url": "/Participants/Ross-Tanner.html",
+        "remote": false
       }
     ],
     "related-to": [
-      {
-        "name": "Threat-Model"
-      },
-      {
-        "name": "DevSecOps",
-        "url": "/Working-Sessions/DevSecOps/index.html"
-      },
       {
         "name": "CISO",
         "url": "/Working-Sessions/CISO/index.html"
@@ -5537,12 +6834,19 @@
         "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html"
       },
       {
+        "name": "DevSecOps",
+        "url": "/Working-Sessions/DevSecOps/index.html"
+      },
+      {
         "name": "Education",
         "url": "/Working-Sessions/Education/index.html"
       },
       {
         "name": "Security Guild vs Security Champions",
         "url": "/Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html"
+      },
+      {
+        "name": "Threat-Model"
       }
     ],
     "metadata": {
@@ -5559,7 +6863,8 @@
       "when-day": "Tue",
       "organizers": [],
       "participants": [
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Ross Tanner"
       ],
       "topics": []
     }
@@ -5575,7 +6880,13 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/track",
@@ -5586,7 +6897,9 @@
         "Ante Gulam"
       ],
       "description": "Working Sessions for Security Crowdsourcing",
-      "participants": [],
+      "participants": [
+        "Devesh Bhatt"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -5604,7 +6917,28 @@
       }
     ],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
+        "remote": false
+      },
+      {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      }
+    ],
     "related-to": [
       {
         "name": "Scaling Static Analysis Reviews and Deployments",
@@ -5623,7 +6957,12 @@
       ],
       "status": "review-content",
       "when-day": "Wed",
-      "participants": [],
+      "participants": [
+        "Adam Shostack",
+        "Fraser Scott",
+        "Helen Bravo",
+        "Tiago Mendo"
+      ],
       "organizers": [],
       "topics": [
         "IDE",
@@ -5647,11 +6986,6 @@
         "remote": false
       },
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
-        "remote": false
-      },
-      {
         "name": "Bjoern Kimminich",
         "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
         "remote": false
@@ -5662,6 +6996,11 @@
         "remote": false
       },
       {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
@@ -5669,16 +7008,16 @@
     ],
     "related-to": [
       {
+        "name": "CISO",
+        "url": "/Working-Sessions/CISO/index.html"
+      },
+      {
         "name": "Integrating Security into an Spotify Model",
         "url": "/Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html"
       },
       {
         "name": "Security Champions",
         "url": "/Working-Sessions/Agile-AppSec/Security-Champions.html"
-      },
-      {
-        "name": "CISO",
-        "url": "/Working-Sessions/CISO/index.html"
       }
     ],
     "metadata": {
@@ -5743,6 +7082,11 @@
     "organizers": [],
     "participants": [
       {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
@@ -5760,7 +7104,8 @@
       "status": "draft",
       "organizers": [],
       "participants": [
-        "Dinis Cruz"
+        "Dinis Cruz",
+        "Chris Cooper"
       ],
       "topics": []
     }
@@ -5771,6 +7116,11 @@
     "topics": [],
     "organizers": [],
     "participants": [
+      {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
       {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
@@ -5789,7 +7139,8 @@
       "when-day": "Wed",
       "organizers": [],
       "participants": [
-        "Johan Peeters"
+        "Johan Peeters",
+        "Isuru Tharanga"
       ],
       "topics": []
     }
@@ -5989,6 +7340,11 @@
     ],
     "participants": [
       {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
@@ -5997,6 +7353,16 @@
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
         "remote": false
+      },
+      {
+        "name": "Kevin Sheldrake",
+        "url": "/Participants/ticket-8h/Kevin-Sheldrake.html",
+        "remote": false
+      },
+      {
+        "name": "Tamer Elzayyat",
+        "url": "/Participants/remote/Tamer-Elzayyat.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -6013,7 +7379,10 @@
       ],
       "participants": [
         "Francois Raynaud",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Devesh Bhatt",
+        "Kevin Sheldrake",
+        "Tamer Elzayyat"
       ],
       "related-to": [],
       "topics": [
@@ -6035,8 +7404,28 @@
     ],
     "participants": [
       {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
         "remote": false
       },
       {
@@ -6046,6 +7435,14 @@
       }
     ],
     "related-to": [
+      {
+        "name": "CTFs",
+        "url": "/Working-Sessions/Education/CTFs.html"
+      },
+      {
+        "name": "Evaluation/Optimization/Creation of Training Slides",
+        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
+      },
       {
         "name": "Juice Shop",
         "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
@@ -6057,14 +7454,6 @@
       {
         "name": "Webgoat",
         "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
-      },
-      {
-        "name": "CTFs",
-        "url": "/Working-Sessions/Education/CTFs.html"
-      },
-      {
-        "name": "Evaluation/Optimization/Creation of Training Slides",
-        "url": "/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html"
       }
     ],
     "metadata": {
@@ -6080,13 +7469,17 @@
         "Webgoat"
       ],
       "status": "done",
-      "when-day": "Evening",
+      "when-day": "Eve",
       "organizers": [
         "Bjoern Kimminich"
       ],
       "participants": [
         "Robert Morschel",
-        "Timo Pagel"
+        "Timo Pagel",
+        "Chris Cooper",
+        "Felipe Zipitria",
+        "Nuno Loureiro",
+        "Tiago Mendo"
       ],
       "topics": []
     }
@@ -6104,9 +7497,39 @@
     ],
     "participants": [
       {
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
+        "name": "Dougal Kennedy",
+        "url": "/Participants/remote/Dougal-Kennedy.html",
+        "remote": true
+      },
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
+        "remote": false
+      },
+      {
         "name": "Mateo Martinez",
         "url": "/Participants/summit-editors/Mateo-Martinez.html",
         "remote": false
+      },
+      {
+        "name": "Tal Argoni",
+        "url": "/Participants/remote/Tal-Argoni.html",
+        "remote": true
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [
@@ -6127,7 +7550,13 @@
         "Matteo Meucci"
       ],
       "participants": [
-        "Mateo Martinez"
+        "Mateo Martinez",
+        "Chris Cooper",
+        "Dougal Kennedy",
+        "Jason Li",
+        "Tal Argoni",
+        "Tiago Mendo",
+        "Victor Vidigal Ribeiro"
       ],
       "related-to": [],
       "topics": []
@@ -6146,13 +7575,18 @@
     ],
     "participants": [
       {
+        "name": "Achim Hoffmann",
+        "url": "/Participants/ticket-24h-owasp/Achim-Hoffmann.html",
+        "remote": false
+      },
+      {
         "name": "Akshay Sharma",
         "url": "/Participants/summit-editors/Akshay-Sharma.html",
         "remote": false
       },
       {
-        "name": "Achim Hoffmann",
-        "url": "/Participants/ticket-24h-owasp/Achim-Hoffmann.html",
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
         "remote": false
       },
       {
@@ -6176,7 +7610,8 @@
       "participants": [
         "Akshay Sharma",
         "Achim Hoffmann",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Amani Altarawneh"
       ],
       "related-to": [],
       "topics": []
@@ -6200,48 +7635,8 @@
     ],
     "participants": [
       {
-        "name": "Robert Hurlbut",
-        "url": "/Participants/remote/Robert-Hurlbut.html",
-        "remote": true
-      },
-      {
-        "name": "Stephen de Vries",
-        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
-        "remote": false
-      },
-      {
         "name": "Adam Shostack",
         "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
-        "remote": false
-      },
-      {
-        "name": "Marco Morana",
-        "url": "/Participants/ticket-8h-owasp/Marco-Morana.html",
-        "remote": false
-      },
-      {
-        "name": "Sebastien Deleersnyder",
-        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
-        "remote": false
-      },
-      {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
-        "remote": false
-      },
-      {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
-        "remote": false
-      },
-      {
-        "name": "Dinis Cruz",
-        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
-        "remote": false
-      },
-      {
-        "name": "Robert Morschel",
-        "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
       },
       {
@@ -6250,13 +7645,53 @@
         "remote": false
       },
       {
-        "name": "Irene Michlin",
-        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
       },
       {
         "name": "Geoff Hill",
         "url": "/Participants/ticket-8h/Geoff-Hill.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "remote": false
+      },
+      {
+        "name": "Marco Morana",
+        "url": "/Participants/ticket-8h-owasp/Marco-Morana.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Hurlbut",
+        "url": "/Participants/remote/Robert-Hurlbut.html",
+        "remote": true
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Sebastien Deleersnyder",
+        "url": "/Participants/ticket-24h-sponsor/Sebastien-Deleersnyder.html",
+        "remote": false
+      },
+      {
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
         "remote": false
       }
     ],
@@ -6288,7 +7723,9 @@
         "Robert Morschel",
         "Avi Douglen",
         "Irene Michlin",
-        "Geoff Hill"
+        "Geoff Hill",
+        "Irene Michlin",
+        "Marco Morana"
       ],
       "related-to": [],
       "topics": []
@@ -6307,13 +7744,13 @@
     ],
     "participants": [
       {
-        "name": "Dinis Cruz",
-        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
       },
       {
-        "name": "Avi Douglen",
-        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
       },
       {
@@ -6379,7 +7816,13 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Denis Pilipchuk",
+        "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -6394,7 +7837,9 @@
       "organizers": [
         "Don Gibson"
       ],
-      "participants": [],
+      "participants": [
+        "Denis Pilipchuk"
+      ],
       "topics": []
     }
   },
@@ -6403,7 +7848,28 @@
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
+        "remote": false
+      },
+      {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
+      }
+    ],
     "related-to": [
       {
         "name": "Playbooks Common Format",
@@ -6421,7 +7887,12 @@
       "status": "draft",
       "when-day": "Mon",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Adam Shostack",
+        "Avi Douglen",
+        "Devesh Bhatt",
+        "Victor Vidigal Ribeiro"
+      ],
       "topics": []
     }
   },
@@ -6435,7 +7906,33 @@
       }
     ],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
+        "remote": false
+      },
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Ceara Treacy",
+        "url": "/Participants/remote/Ceara-Treacy.html",
+        "remote": true
+      },
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Tamer Elzayyat",
+        "url": "/Participants/remote/Tamer-Elzayyat.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -6447,7 +7944,13 @@
       "status": "draft",
       "when-day": "Thu",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Adam Shostack",
+        "Amani Altarawneh",
+        "Ceara Treacy",
+        "Devesh Bhatt",
+        "Tamer Elzayyat"
+      ],
       "related-to": [],
       "topics": [
         "IoT"
@@ -6466,6 +7969,11 @@
       }
     ],
     "participants": [
+      {
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
+        "remote": false
+      },
       {
         "name": "Avi Douglen",
         "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
@@ -6501,7 +8009,8 @@
         "Tony UV"
       ],
       "participants": [
-        "Avi Douglen"
+        "Avi Douglen",
+        "Adam Shostack"
       ],
       "topics": []
     }
@@ -6513,11 +8022,6 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Robert Hurlbut",
-        "url": "/Participants/remote/Robert-Hurlbut.html",
-        "remote": true
-      },
-      {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
@@ -6526,6 +8030,11 @@
         "name": "Mamta Vuppu",
         "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
         "remote": false
+      },
+      {
+        "name": "Robert Hurlbut",
+        "url": "/Participants/remote/Robert-Hurlbut.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -6552,7 +8061,13 @@
     "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Schema.html",
     "topics": [],
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -6562,7 +8077,9 @@
       "status": "draft",
       "when-day": "Mon",
       "organizers": [],
-      "participants": [],
+      "participants": [
+        "Jason Li"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -6580,13 +8097,8 @@
     ],
     "participants": [
       {
-        "name": "Dinis Cruz",
-        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
-        "remote": false
-      },
-      {
-        "name": "Jason Li",
-        "url": "/Participants/ticket-24h/Jason-Li.html",
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
         "remote": false
       },
       {
@@ -6595,13 +8107,43 @@
         "remote": false
       },
       {
+        "name": "Ceara Treacy",
+        "url": "/Participants/remote/Ceara-Treacy.html",
+        "remote": true
+      },
+      {
+        "name": "Denis Pilipchuk",
+        "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
+        "remote": false
+      },
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "remote": false
+      },
+      {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
       },
       {
-        "name": "Stephen de Vries",
-        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
+        "remote": false
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
         "remote": false
       },
       {
@@ -6610,8 +8152,8 @@
         "remote": false
       },
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "name": "Stephen de Vries",
+        "url": "/Participants/ticket-24h-invoice/Stephen-de-Vries.html",
         "remote": false
       }
     ],
@@ -6641,7 +8183,14 @@
         "Irene Michlin",
         "Stephen de Vries",
         "Robert Morschel",
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Adam Shostack",
+        "Avi Douglen",
+        "Ceara Treacy",
+        "Denis Pilipchuk",
+        "Isuru Tharanga",
+        "Jason Li",
+        "Naushad"
       ],
       "topics": []
     }
@@ -6653,6 +8202,31 @@
     "organizers": [],
     "participants": [
       {
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "remote": false
+      },
+      {
+        "name": "Denis Pilipchuk",
+        "url": "/Participants/ticket-24h/Denis-Pilipchuk.html",
+        "remote": false
+      },
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
         "name": "Geoff Hill",
         "url": "/Participants/ticket-8h/Geoff-Hill.html",
         "remote": false
@@ -6663,13 +8237,33 @@
         "remote": false
       },
       {
-        "name": "Robert Morschel",
-        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
+      {
+        "name": "Johan Peeters",
+        "url": "/Participants/ticket-24h/Johan-Peeters.html",
         "remote": false
+      },
+      {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
       },
       {
         "name": "Mamta Vuppu",
         "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
+        "remote": false
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
       },
       {
@@ -6678,9 +8272,9 @@
         "remote": false
       },
       {
-        "name": "Johan Peeters",
-        "url": "/Participants/ticket-24h/Johan-Peeters.html",
-        "remote": false
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -6701,7 +8295,16 @@
         "Robert Morschel",
         "Mamta Vuppu",
         "Stephen de Vries",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Avi Douglen",
+        "Denis Pilipchuk",
+        "Devesh Bhatt",
+        "Felipe Zipitria",
+        "Fraser Scott",
+        "Isuru Tharanga",
+        "Kevin Greene",
+        "Naushad",
+        "Victor Vidigal Ribeiro"
       ],
       "topics": []
     }
@@ -6713,9 +8316,9 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Robert Hurlbut",
-        "url": "/Participants/remote/Robert-Hurlbut.html",
-        "remote": true
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
+        "remote": false
       },
       {
         "name": "Irene Michlin",
@@ -6726,6 +8329,21 @@
         "name": "Mamta Vuppu",
         "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
         "remote": false
+      },
+      {
+        "name": "Naushad",
+        "url": "/Participants/ticket-24h-sponsor/Naushad.html",
+        "remote": false
+      },
+      {
+        "name": "Robert Hurlbut",
+        "url": "/Participants/remote/Robert-Hurlbut.html",
+        "remote": true
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -6743,7 +8361,10 @@
       "participants": [
         "Robert Hurlbut",
         "Irene Michlin",
-        "Mamta Vuppu"
+        "Mamta Vuppu",
+        "Adam Shostack",
+        "Naushad",
+        "Victor Vidigal Ribeiro"
       ],
       "topics": []
     }
@@ -6803,8 +8424,8 @@
     ],
     "participants": [
       {
-        "name": "Francois Raynaud",
-        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "name": "Avi Douglen",
+        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
       },
       {
@@ -6813,18 +8434,28 @@
         "remote": false
       },
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
       },
       {
-        "name": "Avi Douglen",
-        "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
+        "name": "Helen Bravo",
+        "url": "/Participants/Helen-Bravo.html",
         "remote": false
       },
       {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Madhu Akula",
+        "url": "/Participants/remote/Madhu-Akula.html",
+        "remote": true
+      },
+      {
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       },
       {
@@ -6857,7 +8488,10 @@
         "Avi Douglen",
         "Irene Michlin",
         "Robert Morschel",
-        "Timo Pagel"
+        "Timo Pagel",
+        "Avi Douglen",
+        "Helen Bravo",
+        "Madhu Akula"
       ],
       "related-to": [],
       "topics": []
@@ -6879,7 +8513,23 @@
         "remote": true
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -6894,7 +8544,11 @@
         "Dave Wichers",
         "Josh Grossman"
       ],
-      "participants": [],
+      "participants": [
+        "Amani Altarawneh",
+        "Kevin Greene",
+        "Tiago Mendo"
+      ],
       "topics": []
     }
   },
@@ -6938,8 +8592,11 @@
     ],
     "participants": [
       {
-        "name": "Marc Rimbau",
-        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
+        "name": "Adam O'Brien"
+      },
+      {
+        "name": "Adam Obrien",
+        "url": "/Participants/Adam-Obrien.html",
         "remote": false
       },
       {
@@ -6948,12 +8605,14 @@
         "remote": false
       },
       {
-        "name": "Timo Pagel",
-        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "name": "Marc Rimbau",
+        "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
       },
       {
-        "name": "Adam O'Brien"
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
       },
       {
         "name": "Viktor Lindström"
@@ -6976,7 +8635,8 @@
         "Felipe Zipitria",
         "Timo Pagel",
         "Adam O'Brien",
-        "Viktor Lindström"
+        "Viktor Lindström",
+        "Adam Obrien"
       ],
       "related-to": [],
       "topics": []
@@ -7057,7 +8717,18 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -7070,7 +8741,10 @@
         "Talal Albacha"
       ],
       "when-day": "Fri",
-      "participants": [],
+      "participants": [
+        "Nuno Loureiro",
+        "Tiago Mendo"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -7099,6 +8773,11 @@
         "name": "Mamta Vuppu",
         "url": "/Participants/ticket-8h/Mamta-Vuppu.html",
         "remote": false
+      },
+      {
+        "name": "Rahul Raghavan",
+        "url": "/Participants/remote/Rahul-Raghavan.html",
+        "remote": true
       }
     ],
     "related-to": [
@@ -7125,7 +8804,8 @@
       "participants": [
         "Ante Gulam",
         "Irene Michlin",
-        "Mamta Vuppu"
+        "Mamta Vuppu",
+        "Rahul Raghavan"
       ],
       "topics": []
     }
@@ -7141,13 +8821,18 @@
     ],
     "participants": [
       {
-        "name": "Dinis Cruz",
-        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
+        "name": "Adam Shostack",
+        "url": "/Participants/ticket-24h-owasp/Adam-Shostack.html",
         "remote": false
       },
       {
         "name": "Bjoern Kimminich",
         "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
+        "remote": false
+      },
+      {
+        "name": "Dinis Cruz",
+        "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
       },
       {
@@ -7179,7 +8864,8 @@
         "Dinis Cruz",
         "Bjoern Kimminich",
         "Steven Wierckx",
-        "Viktor Lindstrom"
+        "Viktor Lindstrom",
+        "Adam Shostack"
       ],
       "need-transportation": "Viktor Lindstrom",
       "topics": []
@@ -7246,7 +8932,23 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Isuru Tharanga",
+        "url": "/Participants/remote/Isuru-Tharanga.html",
+        "remote": true
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      }
+    ],
     "related-to": [
       {
         "name": "Education",
@@ -7272,7 +8974,11 @@
       "organizers": [
         "Nanne Baars"
       ],
-      "participants": [],
+      "participants": [
+        "Amani Altarawneh",
+        "Isuru Tharanga",
+        "Tiago Mendo"
+      ],
       "related-to": [],
       "topics": [
         "Java"
@@ -7286,13 +8992,33 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Katy Anton",
-        "url": "/Participants/Katy-Anton.html",
+        "name": "Erez Yalon",
+        "url": "/Participants/Erez-Yalon.html",
         "remote": false
       },
       {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
+        "remote": false
+      },
+      {
+        "name": "Katy Anton",
+        "url": "/Participants/Katy-Anton.html",
+        "remote": false
+      },
+      {
+        "name": "Kevin Greene",
+        "url": "/Participants/remote/Kevin-Greene.html",
+        "remote": true
+      },
+      {
+        "name": "Ohad Rabinovich",
+        "url": "/Participants/Ohad-Rabinovich.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
         "remote": false
       }
     ],
@@ -7316,7 +9042,11 @@
       "organizers": [],
       "participants": [
         "Katy Anton",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Erez Yalon",
+        "Kevin Greene",
+        "Ohad Rabinovich",
+        "Tiago Mendo"
       ],
       "topics": []
     }
@@ -7328,12 +9058,9 @@
     "organizers": [],
     "participants": [
       {
-        "name": "Neil Barlow",
-        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
         "remote": false
-      },
-      {
-        "name": "ade yoseman putra"
       },
       {
         "name": "Francois Raynaud",
@@ -7341,9 +9068,37 @@
         "remote": false
       },
       {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
         "name": "Lisa Raynaud",
         "url": "/Participants/funded/Lisa-Raynaud.html",
         "remote": false
+      },
+      {
+        "name": "Mohammad Febri Ramadlan",
+        "url": "/Participants/remote/Mohammad-Febri-Ramadlan.html",
+        "remote": true
+      },
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
+      },
+      {
+        "name": "Nikita Garia",
+        "url": "/Participants/summit-editors/Nikita-Garia.html",
+        "remote": false
+      },
+      {
+        "name": "Vandana Verma",
+        "url": "/Participants/remote/Vandana-Verma.html",
+        "remote": true
+      },
+      {
+        "name": "ade yoseman putra"
       }
     ],
     "related-to": [],
@@ -7361,7 +9116,12 @@
         "Neil Barlow",
         "ade yoseman putra",
         "Francois Raynaud",
-        "Lisa Raynaud"
+        "Lisa Raynaud",
+        "Amani Altarawneh",
+        "Fraser Scott",
+        "Mohammad Febri Ramadlan",
+        "Nikita Garia",
+        "Vandana Verma"
       ],
       "topics": []
     }
@@ -7400,9 +9160,14 @@
     ],
     "participants": [
       {
-        "name": "Robert Morschel",
-        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
         "remote": false
+      },
+      {
+        "name": "Anuruddha Hewawasam",
+        "url": "/Participants/remote/Anuruddha-Hewawasam.html",
+        "remote": true
       },
       {
         "name": "Avi Douglen",
@@ -7415,14 +9180,54 @@
         "remote": false
       },
       {
-        "name": "Timo Pagel",
-        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "name": "Chris Cooper",
+        "url": "/Participants/ticket-24h/Chris-Cooper.html",
+        "remote": false
+      },
+      {
+        "name": "Felipe Zipitria",
+        "url": "/Participants/summit-editors/Felipe-Zipitria.html",
+        "remote": false
+      },
+      {
+        "name": "Fraser Scott",
+        "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
+        "remote": false
+      },
+      {
+        "name": "Jason Li",
+        "url": "/Participants/ticket-24h/Jason-Li.html",
         "remote": false
       },
       {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
         "remote": false
+      },
+      {
+        "name": "Rahul Raghavan",
+        "url": "/Participants/remote/Rahul-Raghavan.html",
+        "remote": true
+      },
+      {
+        "name": "Robert Morschel",
+        "url": "/Participants/ticket-24h/Robert-Morschel.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      },
+      {
+        "name": "Timo Pagel",
+        "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
+        "remote": false
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [
@@ -7451,7 +9256,17 @@
         "Avi Douglen",
         "Bjoern Kimminich",
         "Timo Pagel",
-        "Johan Peeters"
+        "Johan Peeters",
+        "Amani Altarawneh",
+        "Anuruddha Hewawasam",
+        "Avi Douglen",
+        "Chris Cooper",
+        "Felipe Zipitria",
+        "Fraser Scott",
+        "Jason Li",
+        "Rahul Raghavan",
+        "Tiago Mendo",
+        "Victor Vidigal Ribeiro"
       ],
       "topics": [
         "TDD"
@@ -7476,6 +9291,21 @@
     ],
     "participants": [
       {
+        "name": "Amani Altarawneh",
+        "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
+        "remote": false
+      },
+      {
+        "name": "Anuruddha Hewawasam",
+        "url": "/Participants/remote/Anuruddha-Hewawasam.html",
+        "remote": true
+      },
+      {
+        "name": "Aruna Katugampola",
+        "url": "/Participants/ticket-24h-sponsor/Aruna-Katugampola.html",
+        "remote": false
+      },
+      {
         "name": "Marc Rimbau",
         "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
@@ -7484,6 +9314,21 @@
         "name": "Mateo Martinez",
         "url": "/Participants/summit-editors/Mateo-Martinez.html",
         "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
+        "name": "Tiago Mendo",
+        "url": "/Participants/ticket-24h/Tiago-Mendo.html",
+        "remote": false
+      },
+      {
+        "name": "Victor Vidigal Ribeiro",
+        "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -7500,7 +9345,13 @@
       ],
       "participants": [
         "Marc Rimbau",
-        "Mateo Martinez"
+        "Mateo Martinez",
+        "Amani Altarawneh",
+        "Anuruddha Hewawasam",
+        "Aruna Katugampola",
+        "Nuno Loureiro",
+        "Tiago Mendo",
+        "Victor Vidigal Ribeiro"
       ],
       "related-to": [],
       "topics": [

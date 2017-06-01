@@ -18,9 +18,15 @@ mixin show-owasp-project
     br
 
 mixin show-when-day
-    | {% if page.when-day %}
-    b When: {{ page.when-day }}
-    | {% endif %}
+    b When: {{ data.metadata.when-day  }}
+    br
+
+mixin show-when-time
+    b Time: {{ data.metadata.when-time }}
+    br
+
+mixin show-location
+    b Location: {{ data.metadata.location  }}
     br
 
 .working-session
@@ -33,6 +39,8 @@ mixin show-when-day
             + show-participants
             + show-owasp-project
             + show-when-day
+            + show-when-time
+            + show-location
         hr
         | {{ content }}
         + show-related-to

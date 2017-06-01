@@ -36,6 +36,10 @@ describe 'Jekyll_Data', ->
 
       @.file_Json_Participants.assert_File_Exists()
 
+  it 'map_Schedule', ->
+    using jekyll_Data, ->
+      @.map_Schedule()
+
   it 'map_Tracks_Data', ->
     using jekyll_Data, ->
       data = @.map_Tracks_Data()
@@ -54,15 +58,21 @@ describe 'Jekyll_Data', ->
 
   it 'resolve_Names', ->
     using jekyll_Data, ->
-      test_Names        = ['Bernhard Mueller' , 'Sven Schleier','Abc']
+      test_Names = ['Bernhard Mueller' , 'Sven Schleier','Abc']
       @.resolve_Names test_Names
            .assert_Is [ { name: 'Bernhard Mueller', url: '/Participants/ticket-24h-owasp/Bernhard-Mueller.html' , remote:false},
                         { name: 'Sven Schleier'   ,url: '/Participants/funded/Sven-Schleier.html'               , remote:false},
                         { name: 'Abc' } ]
 
+  it 'resolve_Participants_XRef', ->
+    using jekyll_Data, ->
+      name = 'The Future of Privacy'
+      base_List = @.working_Sessions_Data[name].metadata.participants
+      @.resolve_Participants_XRef base_List, name
+
   it 'resolve_Related_To',->
     using jekyll_Data, ->
-      name                  = 'Education'
+      name = 'Education'
       @.resolve_Related_To name
         .assert_Contains ['NodeGoat', 'Juice Shop']
 
@@ -90,6 +100,8 @@ describe 'Jekyll_Data', ->
     using jekyll_Data.working_Session(name), ->
       @.name.assert_Is name
 
+
+  ########################################################
   # bugs
 
   it 'bug - related-to not showing in Education Track', ->
@@ -101,9 +113,13 @@ describe 'Jekyll_Data', ->
 
       first_Mapping = @.resolve_Related_To(name).assert_Contains 'Juice Shop'
       final_Mapping = @.resolve_Working_Sessions(first_Mapping).assert_Is_Not []        # bug was inside this function
-      final_Mapping[0].assert_Is { name: 'Juice Shop', url: '/Working-Sessions/Owasp-Projects/Juice-Shop.html' }
 
   it 'bug -  related-to not showing in Securing Legacy Applications', ->
     using jekyll_Data, ->
       using @.working_Session('Securing Legacy Applications'), ->
         @['related-to'].size().assert_Is 3                          # this is working
+
+  it 'bug - Participants list not correct in WorkingSession data', ->
+    name = 'The Future of Privacy'
+    using jekyll_Data.working_Session(name), ->
+      @.participants.size().assert_Is_Bigger_Than 3       # this value was wrong (it was 3)

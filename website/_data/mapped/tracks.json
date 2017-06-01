@@ -113,6 +113,21 @@
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
+      },
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Kevin Fielder",
+        "url": "/Participants/Kevin-Fielder.html",
+        "remote": false
+      },
+      {
+        "name": "Neil Barlow",
+        "url": "/Participants/ticket-24h-sponsor/Neil-Barlow.html",
+        "remote": false
       }
     ],
     "related-to": [
@@ -146,7 +161,13 @@
         {
           "name": "AppSec Article 5 - Collective Defence Agreement",
           "url": "/Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html",
-          "when-day": "",
+          "when-day": "Thu",
+          "status": "review-content"
+        },
+        {
+          "name": "AppSec for CISOs",
+          "url": "/Working-Sessions/CISO/AppSec-for-CISOs.html",
+          "when-day": "Thu",
           "status": "review-content"
         },
         {
@@ -186,29 +207,23 @@
           "status": "review-content"
         },
         {
+          "name": "Mobilising Business Lines for Security",
+          "url": "/Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html",
+          "when-day": "Mon",
+          "status": "review-content"
+        },
+        {
           "name": "SAMM Metrics for Enterprise",
           "url": "/Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html",
-          "when-day": "Mon",
+          "when-day": "Thu",
           "status": "done"
         }
       ],
       "draft": [
         {
-          "name": "AppSec for CISOs",
-          "url": "/Working-Sessions/CISO/AppSec-for-CISOs.html",
-          "when-day": "",
-          "status": "draft"
-        },
-        {
           "name": "CISO Survey",
           "url": "/Working-Sessions/CISO/CISO-Survey.html",
           "when-day": "",
-          "status": "draft"
-        },
-        {
-          "name": "Mobilising Business Lines for Security",
-          "url": "/Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html",
-          "when-day": "Mon",
           "status": "draft"
         }
       ]
@@ -234,6 +249,11 @@
       {
         "name": "Scott Treacy",
         "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
+        "remote": false
+      },
+      {
+        "name": "John Fitzgerald",
+        "url": "/Participants/ticket-8h/John-Fitzgerald.html",
         "remote": false
       }
     ],
@@ -304,7 +324,7 @@
         {
           "name": "DevSecOps vs SecDevOps",
           "url": "/Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html",
-          "when-day": "Evening",
+          "when-day": "Eve",
           "status": "draft"
         },
         {
@@ -363,8 +383,18 @@
     "url": "/Working-Sessions/Education/index.html",
     "description": "Working Sessions related to Education",
     "organizers": [],
-    "participants": [],
+    "participants": [
+      {
+        "name": "John Fitzgerald",
+        "url": "/Participants/ticket-8h/John-Fitzgerald.html",
+        "remote": false
+      }
+    ],
     "related-to": [
+      {
+        "name": "Growing the AppSec Industry",
+        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
+      },
       {
         "name": "Juice Shop",
         "url": "/Working-Sessions/Owasp-Projects/Juice-Shop.html"
@@ -384,10 +414,6 @@
       {
         "name": "Webgoat",
         "url": "/Working-Sessions/Owasp-Projects/WebGoat.html"
-      },
-      {
-        "name": "Growing the AppSec Industry",
-        "url": "/Working-Sessions/CISO/Growing-the-AppSec-Industry.html"
       }
     ],
     "working-sessions": {
@@ -425,7 +451,7 @@
         {
           "name": "Security Book Club",
           "url": "/Working-Sessions/Education/Security-Book-Club.html",
-          "when-day": "Evening",
+          "when-day": "Eve",
           "status": "review-content"
         },
         {
@@ -437,7 +463,7 @@
         {
           "name": "Teaching Attacker perspective to Developers",
           "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html",
-          "when-day": "Evening",
+          "when-day": "Eve",
           "status": "done"
         }
       ],
@@ -445,7 +471,7 @@
         {
           "name": "CTFs",
           "url": "/Working-Sessions/Education/CTFs.html",
-          "when-day": "Evening",
+          "when-day": "Eve",
           "status": "draft"
         },
         {
@@ -734,6 +760,16 @@
         "name": "Scott Treacy",
         "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
         "remote": false
+      },
+      {
+        "name": "Anant Shrivastava",
+        "url": "/Participants/remote/Anant-Shrivastava.html",
+        "remote": true
+      },
+      {
+        "name": "Tal Argoni",
+        "url": "/Participants/remote/Tal-Argoni.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -858,6 +894,16 @@
         "name": "Yan Kravchenko",
         "url": "/Participants/ticket-24h/Yan-Kravchenko.html",
         "remote": false
+      },
+      {
+        "name": "Mark Stanislav",
+        "url": "/Participants/remote/Mark-Stanislav.html",
+        "remote": true
+      },
+      {
+        "name": "Pravir Chandra",
+        "url": "/Participants/Pravir-Chandra.html",
+        "remote": false
       }
     ],
     "related-to": [
@@ -969,14 +1015,20 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "Devesh Bhatt",
+        "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      }
+    ],
     "related-to": [],
     "working-sessions": {
       "ok": [
         {
           "name": "AppSec Job Fair",
           "url": "/Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html",
-          "when-day": "Evening",
+          "when-day": "Eve",
           "status": "review-content"
         },
         {
@@ -1020,7 +1072,7 @@
         {
           "name": "Hackathon Daily Sessions",
           "url": "/Working-Sessions/Security-Crowdsourcing/Hackathon-Daily-Sessions.html",
-          "when-day": "Evening",
+          "when-day": "Eve",
           "status": "draft"
         }
       ]
@@ -1192,6 +1244,16 @@
       {
         "name": "Geoff Hill",
         "url": "/Participants/ticket-8h/Geoff-Hill.html",
+        "remote": false
+      },
+      {
+        "name": "Irene Michlin",
+        "url": "/Participants/ticket-8h/Irene-Michlin.html",
+        "remote": false
+      },
+      {
+        "name": "Marco Morana",
+        "url": "/Participants/ticket-8h-owasp/Marco-Morana.html",
         "remote": false
       }
     ],

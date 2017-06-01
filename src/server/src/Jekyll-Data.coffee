@@ -11,6 +11,8 @@ class Jekyll_Data
     @.folder_Working_Sessions     = @.folder_Root.path_Combine('Working-Sessions')
     @.file_Json_Participants      = @.folder_Data_Mapped.path_Combine 'participants.json'
     @.file_Yaml_Participants      = @.folder_Data_Mapped.path_Combine 'participants.yml'
+    @.file_Json_Schedule          = @.folder_Data_Mapped.path_Combine 'schedule.json'
+    @.file_Yaml_Schedule          = @.folder_Data_Mapped.path_Combine 'schedule.yml'
     @.file_Json_Topics            = @.folder_Data_Mapped.path_Combine 'topics.json'
     @.file_Yaml_Topics            = @.folder_Data_Mapped.path_Combine 'topics.yml'
     @.file_Json_Tracks            = @.folder_Data_Mapped.path_Combine 'tracks.json'
@@ -45,9 +47,9 @@ class Jekyll_Data
       url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
       metadata = @.map_Participant_Raw_Data file.file_Contents()
       data[name] =
-        name    : name
-        url     : url
-        metadata: metadata
+        name     : name
+        url      : url
+        metadata : metadata
 
     sorted_Data = {}
     for key in data._keys().sort()
@@ -57,6 +59,74 @@ class Jekyll_Data
     yaml.safeDump(sorted_Data).save_As @.file_Yaml_Participants         # save data as yml file
     return data
 
+  map_Schedule: ->
+    schedule =
+      by_Day        : {}
+      by_Participant: {}
+
+    # Map by_Day
+    for name, data of @.working_Sessions_Data when data.metadata.type is 'workshop'
+      days         = data.metadata['when-day' ] || 'no-day'
+      times        = data.metadata['when-time'] || 'no-time'
+      locations    = data.metadata['location' ] || 'no-location'
+      organizers   = data.metadata.organizers
+      participants = data.metadata.participants
+
+#      if days is 'no-day'
+#        schedule.by_Day['no-day'] ?= []
+#        schedule.by_Day['no-day'].add name
+#        for organizer in organizers
+#          schedule.by_Participant[organizer]           ?= {}
+#          schedule.by_Participant[organizer]['no-day'] ?= []
+#          schedule.by_Participant[organizer]['no-day'].add name
+#      else
+      for day in days.split(',')
+        for location in locations.split(',')
+          for time in times.split(',')
+            schedule.by_Day[day]                  ?= {}
+            schedule.by_Day[day][location]        ?= {}
+            schedule.by_Day[day][location][time]  ?= []
+            schedule.by_Day[day][location][time].add name: name, url: data.url
+
+            map_User = (user,mode)->
+              schedule.by_Participant[user]                       ?= {}
+              schedule.by_Participant[user][day]                  ?= {}
+              schedule.by_Participant[user][day][time]      ?= []
+              schedule.by_Participant[user][day][time].add name: name, url: data.url, location: location, mode:mode, status: data.metadata.status
+#              schedule.by_Participant[user][day][location]        ?= {}
+#              schedule.by_Participant[user][day][location][time]  ?= []
+#              schedule.by_Participant[user][day][location][time].add name: name, url: data.url, mode:mode
+
+            for organizer in organizers
+              map_User organizer, 'organizing'
+            for participant in participants
+              map_User participant, 'participating'
+
+#            for organizer in organizers
+#              schedule.by_Participant[organizer]                       ?= {}
+#              schedule.by_Participant[organizer][day]                  ?= {}
+#              schedule.by_Participant[organizer][day][location]        ?= {}
+#              schedule.by_Participant[organizer][day][location][time]  ?= []
+#              schedule.by_Participant[organizer][day][location][time].add name: name, url: data.url, mode: 'organizing'
+
+
+#    # Map by_Participant
+#    for name, data of @.working_Sessions_Data when data.metadata.type is 'workshop'
+#      organizers = data.metadata.organizers
+#      for organizer in organizers
+#        schedule.by_Participant[organizer] ?= {}
+#        schedule.by_Participant[organizer]
+#        #console.log organizer
+
+
+
+    #console.log schedule.json_Pretty()
+
+    schedule.save_Json              @.file_Json_Schedule
+    yaml.safeDump(schedule).save_As @.file_Yaml_Schedule
+
+
+    data
 
   map_Tracks_Data: ()->
     data = {}
@@ -141,7 +211,7 @@ class Jekyll_Data
         url         : url
         topics      : @.resolve_Topics  metadata.topics       || []    # change to topics after refactoing of content mappings
         organizers  : @.resolve_Names   metadata.organizers   || []
-        participants: @.resolve_Names   metadata.participants || []
+        participants: @.resolve_Names   @.resolve_Participants_XRef(metadata.participants || [], name)
         'related-to': @.resolve_Working_Sessions @.resolve_Related_To name
         metadata    : metadata
 
@@ -168,14 +238,23 @@ class Jekyll_Data
           result.add name : name
     result
 
-  resolve_Related_To: (name)->
-    data = @.working_Sessions_Data[name]
-    result = data.metadata['related-to'] || []
-    for key,value of @.working_Sessions_Data
-      if name in value.metadata['related-to']
-        result.add key
+  resolve_Participants_XRef: (base_List, working_Session_Name)->
+    result = base_List
+    for name, data of @.participants_Data
+      if data.metadata['working-sessions'].contains working_Session_Name
+        result.add name
+    result.unique().sort()
 
-    result.unique()
+  resolve_Related_To: (name)->
+    result = []
+    data = @.working_Sessions_Data[name]
+    if data
+      result = data.metadata['related-to'] || []
+      for key,value of @.working_Sessions_Data
+        if name in value.metadata['related-to']
+          result.add key
+
+    result.unique().sort()
 
 
   resolve_Topics: (names)->
