@@ -7,7 +7,7 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Tue
-participants : 
+participants : Ade Yoseman Putra
 organizers   : Avi Douglen
 ---
 
