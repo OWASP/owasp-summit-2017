@@ -17,7 +17,7 @@ participants : Dinis Cruz
 
 ## Why
 
-Cyber Insurance is already a large market. This Working Session will focus on how well is the cyber insurance market is working, and how cost-effective it is.
+Cyber Insurance is already a large market. This Working Session will focus on how well the cyber insurance market is working, and how cost-effective it is.
 
 ## What
 
