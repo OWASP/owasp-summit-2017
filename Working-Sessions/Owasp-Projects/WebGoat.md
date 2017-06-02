@@ -7,7 +7,7 @@ technology   : Java
 status       : done
 when-day     : Wed
 organizers   : Nanne Baars
-participants :
+participants : Ade Yoseman Putra
 ---
 
 ## Why

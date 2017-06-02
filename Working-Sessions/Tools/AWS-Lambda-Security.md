@@ -16,18 +16,16 @@ participants: Dinis Cruz
 
 ## What
 
- -  How to do security reviews on code running on [AWS Lambda](https://aws.amazon.com/lambda)?
- - How to add Security to is DevOps practices?
+ - How to do security reviews on code running on [AWS Lambda](https://aws.amazon.com/lambda)?
+ - How to add Security to DevOps practices?
  - How to detect malicious functions?
  - What features are missing?
  - Are users aware of existing features?
 
 ## Who
 
-... target audience ...
+The target audience for this Working Session is:
 
-**To Invite:**
-
-* AWS Security team
-* AWS Lambda developers
-* AWS Lamba users
+- AWS Security team
+- AWS Lambda developers
+- AWS Lamba users

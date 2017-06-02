@@ -7,41 +7,47 @@ organizers   : Ingo Hanke
 track        :
 status       : done
 when-day     : Wed
-participants : Akshay Sharma, Achim Hoffmann,Johan Peeters
+participants : Akshay Sharma, Achim Hoffmann, Johan Peeters
 ---
 
 Is there a future for privacy?
 
-The target of this session is to illuminate security of personal data from a strategic point of view:
-Risks, controls & measures, and future trends.
-At the end of this discussion process there could be a set of expert statements concerning now and future
+## Why
+
+The target of this session is to illuminate the security of personal data from a strategic point of view:
+risks, controls and measures, and future trends.
+At the end of this session there should be a set of expert statements concerning now and future
 challenges for improving the security of personal data.
-This set of statements we can use for a public OWASP privacy-campaign.
-During OWASP Summit 2011 there was already a session concerning privacy (see(1)) - the widespread results of
-this workshop may serve as a basis for this session.
+We can use the statements to launch a public OWASP campaign on privacy.
+A session concerning privacy was held during the OWASP Summit 2011 (see (1)) - the results of
+that workshop may serve as a basis for the 2017 session.
 
-You may say: Privacy is not a principal point in the work of OWASP. But let me counter:
-- Privacy is a very important topic for really everyone, it's a topic of information security - so it should be for OWASP too.
-- Improving privacy in future will be primarily a software challenge - especially for web applications and IoT. That is OWASP.
-- OWASP is well known by experts, but not in the public. I think OWASP should have more weight in public discussion. And a privacy campaign might be a tool to raise public attention.
+It is possible to argue that privacy is not a priority in the work of OWASP, but I disagree.
+- Privacy is a very important topic for everyone. As it relates to information security, it should be a priority for OWASP.
+- Improving privacy in the future will primarily be a software challenge, especially for web applications and IoT. That is OWASP.
+- OWASP is well known by experts, but not by the public. I think OWASP should have more weight in public discussion, and a privacy campaign is a good way to raise OWASP's public profile.
 
-Questions:
+## What
+
 - Personal data risk assessment: Definition and categorization of assets, criticality, vulnerabilities, threat vectors, risks.
-  Which work is already done, what has still to be worked out?
-- Privacy-"triage": which kinds of data are already "lost", which can still be saved?
-- Which technical solutions we will be needed in future - not what is technical possible but what is needed
+  What work is already done, what remains to be worked out?
+- Privacy-"triage": what kinds of data are already "lost", what can still be saved?
+- Which technical solutions will we need in the future - not what is technically possible but what is needed
   from the viewpoint of individuals?
-- Which are the upcoming challenges of web application security for improving privacy / protection of personal data?
-- Who are the stakeholders of these technical developments
-- Which driving forces can be used for kick-off development processes?
-
+- What are the upcoming challenges of web application security for improving privacy/protection of personal data?
+- Who are the stakeholders of these technical developments?
+- Which driving forces can be used to kick-off development processes?
 
 Potential outcomes
 - OWASP Privacy statements
 - Concept of a campaign and compliance of OWASP community and foundation, road map
 
-Participants:
+## Who
+
+The target audience for this Working Session is:
+
 - Everyone who cares about privacy.
 
-References:
+## References:
+
 (1) OWASP Summit 2011 Working Session "Privacy" ( https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073 )

@@ -9,17 +9,25 @@ organizers  : Geoff Hill
 participants: Marc Rimbau,Felipe Zipitria,Robert Morschel,Avi Douglen,Stephen de Vries,Irene Michlin
 ---
 
-- Build a lightweight threat modeling process with artifacts (e.g. - RACI, DFDs, etc.) for Agile and/or DevOps environments
-- For Agile environment, build a "how to" explaining incremental threat modeling, to concentrate on the features required for the current iteration.
-- For starting threat modeling on existing project/codebase - how to start without the need to cover everything (a bit similar to introducing tests to legacy software, but  not quite).
-- Build a *application component* library to compliment other libraries(attack, threat, weakness, etc) used as part of threat models
-- Review current threat (not attack) libraries or categorizations (like STRIDE) and build a threat library that encapsulates threats seen today to leverage in app threat models.
-- We need a countermeasure library.  Help build this and define a schema for this.  Leverage other OWASP content ideally (e.g. ASVS, cheat sheets, SKF mitigation guidance, etc.)
+## Why
 
-## ARTIFACT
+This Working Session aims to produce an overview of how to integrate threat modelling into a continuous integration process.
 
-Result of workshop should be a short (only a few pages) overview on how to integrate Threat Modeling into a continuous integration process.
 
- 1. Discuss and decide the contents of a "MVP" TM for a continuous integration (CI) process.
- 2. Define integration points for TM during CI.
- 3. Define short (10 items or less) frameworks for threat types, countermeasure types, component types. Enable these frameworks to tie into larger libraries that will get defined outside the scope of this lighteight process.
+## What 
+
+- Build a lightweight threat modelling process with artefacts (e.g. - RACI, DFDs, etc.) for Agile and/or DevOps environments
+- For Agile environments, build a "how to" guide explaining incremental threat modelling that concentrates on the features required for the current iteration
+- How to start threat modelling on an existing project/codebase without the need to cover everything (similar to introducing tests to legacy software)
+- Build an *application component* library to compliment other libraries (attack, threat, weakness, etc.) used as part of threat models
+- Review current threat (not attack) libraries or categorisations (like STRIDE) and build a threat library that encapsulates threats seen today to leverage in app threat models.
+- Build and define a schema for a countermeasure library, leveraging other OWASP content (e.g. ASVS, cheat sheets, SKF mitigation guidance, etc.)
+- Discuss and decide the contents of a "MVP" TM for a continuous integration (CI) process.
+- Define integration points for TM during CI.
+- Define short (10 items or less) frameworks for threat types, countermeasure types, and component types. Enable these frameworks to tie into larger libraries that will get defined outside the scope of this lightweight process.
+
+## Who
+
+The target audience for this Working Session is:
+
+--Add text--
