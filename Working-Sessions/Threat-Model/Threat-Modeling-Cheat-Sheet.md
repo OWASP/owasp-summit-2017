@@ -8,7 +8,7 @@ description : OWASP cheat sheet will provide prescriptive guidance on threat mod
 status      : improve-content
 when-day    : Tue
 organizers  : Tony UV
-participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin, Robert Morschel, Stephen de Vries
+participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin, Robert Morschel, Stephen de Vries, Duncan Hurwood
 ---
 
 
