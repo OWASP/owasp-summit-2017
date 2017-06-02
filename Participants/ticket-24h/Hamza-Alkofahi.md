@@ -5,7 +5,7 @@ type            : participant
 job-title       : Phd Student - Research Assistant
 company         : Auburn University
 travel-from     : United States
-image           : https://lh3.googleusercontent.com/JPIlGIq2RvZjFBFnUiEWxnuCU2Z1CezPMPACqApxwNNhjEB-dWFmWiexUli-NaDPHa0owKV7zqRfm7atcYU3l1wDxG7D06A8pZs
+image           : https://lh3.googleusercontent.com/-cqDAbhrVfVo/AAAAAAAAAAI/AAAAAAAAAAA/AAyYBF59xfuGLAzBadb9-E2PGuinS6BwkA/s192-c-mo/photo.jpg
 linkedin        :
 twiter          :
 facebook        :
