@@ -153,6 +153,26 @@ by_Room:
             /Working-Sessions/Owasp-Top-10-2017/Synchronize-Multiple-Owasp-Top-10s.html
           track: Owasp Top 10
           locked: false
+        - name: TM-1
+          url: /Working-Sessions/Threat-Model/TM-1.html
+          track: Threat Model
+          locked: false
+        - name: TM-2
+          url: /Working-Sessions/Threat-Model/TM-2.html
+          track: Threat Model
+          locked: false
+        - name: TM-3
+          url: /Working-Sessions/Threat-Model/TM-3.html
+          track: Threat Model
+          locked: false
+        - name: TM-4
+          url: /Working-Sessions/Threat-Model/TM-4.html
+          track: Threat Model
+          locked: false
+        - name: TM-5
+          url: /Working-Sessions/Threat-Model/TM-5.html
+          track: Threat Model
+          locked: false
         - name: Threat Modeling pure Javascript Applications
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-pure-Javascript-Applications.html
@@ -1053,6 +1073,26 @@ by_Track:
           locked: false
     Threat Model:
       no-time:
+        - name: TM-1
+          url: /Working-Sessions/Threat-Model/TM-1.html
+          location: no-location
+          locked: false
+        - name: TM-2
+          url: /Working-Sessions/Threat-Model/TM-2.html
+          location: no-location
+          locked: false
+        - name: TM-3
+          url: /Working-Sessions/Threat-Model/TM-3.html
+          location: no-location
+          locked: false
+        - name: TM-4
+          url: /Working-Sessions/Threat-Model/TM-4.html
+          location: no-location
+          locked: false
+        - name: TM-5
+          url: /Working-Sessions/Threat-Model/TM-5.html
+          location: no-location
+          locked: false
         - name: Threat Modeling pure Javascript Applications
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-pure-Javascript-Applications.html
@@ -3978,6 +4018,76 @@ by_Participant:
           status: review-content
           track: CISO
           locked: false
+  Duncan Hurwood:
+    Tue:
+      PM-1:
+        - name: Agile Practices for Security Teams
+          url: >-
+            /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
+          location: Room-3
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+          locked: false
+        - name: Create Jira Workflows for Security Playbooks
+          url: >-
+            /Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html
+          location: Room-5
+          mode: participating
+          status: review-content
+          track: Security Playbooks
+          locked: false
+      PM-2:
+        - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
+          location: Room-6
+          mode: participating
+          status: improve-content
+          track: Threat Model
+          locked: false
+      AM1:
+        - name: Threat Modeling Templates
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
+          location: Room-6
+          mode: participating
+          status: featured
+          track: Threat Model
+          locked: false
+      no-time:
+        - name: Using Security Risks to Measure Agile Practices
+          url: >-
+            /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+          locked: false
+        - name: Using Security Risks to Measure Agile Practices
+          url: >-
+            /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+          locked: false
+    Mon:
+      PM-2:
+        - name: Security Guild vs Security Champions
+          url: >-
+            /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Agile AppSec
+          locked: false
+      PM-3:
+        - name: Threat Modeling Tools
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
   Fraser Scott:
     Tue:
       PM-1:
@@ -4489,6 +4599,90 @@ by_Participant:
           mode: participating
           status: ''
           track: DevSecOps
+          locked: false
+  Ade Yoseman Putra:
+    Eve:
+      no-time:
+        - name: AppSec Job Fair
+          url: /Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Security Crowdsourcing
+          locked: false
+    Wed:
+      no-time:
+        - name: Application Security BSc/Masters Curriculum Design
+          url: >-
+            /Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html
+          location: no-location
+          mode: participating
+          status: featured
+          track: Education
+          locked: false
+        - name: Webgoat
+          url: /Working-Sessions/Owasp-Projects/WebGoat.html
+          location: no-location
+          mode: participating
+          status: done
+          track: Owasp Projects
+          locked: false
+        - name: ZAP
+          url: /Working-Sessions/Owasp-Projects/ZAP.html
+          location: no-location
+          mode: participating
+          status: more-content
+          track: Owasp Projects
+          locked: false
+    Mon:
+      PM-3:
+        - name: Juice Shop
+          url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
+          location: Room-3
+          mode: participating
+          status: featured
+          track: Owasp Projects
+          locked: false
+    Fri:
+      no-time:
+        - name: OWASP Risk Rating Management Project
+          url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
+          location: no-location
+          mode: organizing
+          status: done
+          track: Owasp Projects
+          locked: false
+        - name: Role of Security Certification
+          url: /Working-Sessions/Education/Role-of-Security-Certifications.html
+          location: no-location
+          mode: organizing
+          status: done
+          track: Education
+          locked: false
+    Tue:
+      no-time:
+        - name: Recruiting AppSec Talent
+          url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Education
+          locked: false
+        - name: Testing Guide v5
+          url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Owasp Projects
+          locked: false
+    Thu:
+      no-time:
+        - name: Women in Cyber
+          url: /Working-Sessions/Women-in-Cyber.html
+          location: no-location
+          mode: participating
+          status: Done
+          track: no-track
           locked: false
   Isuru Tharanga:
     Wed:
@@ -6406,6 +6600,74 @@ by_Participant:
           status: Done
           track: no-track
           locked: false
+  James Osborn:
+    Fri:
+      no-time:
+        - name: Bug Bounty Playbook
+          url: /Working-Sessions/Security-Playbooks/Bug-Bounty-Playbook.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Security Playbooks
+          locked: false
+        - name: DoS Playbook
+          url: /Working-Sessions/Security-Playbooks/DoS-Playbook.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Security Playbooks
+          locked: false
+        - name: OWASP Game Security Framework
+          url: /Working-Sessions/Owasp-Projects/Game-Security-Framework.html
+          location: no-location
+          mode: participating
+          status: needs-content
+          track: Owasp Projects
+          locked: false
+    Mon:
+      PM-3:
+        - name: Data behind Owasp Top 10 2017
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html
+          location: Room-2
+          mode: participating
+          status: featured
+          track: Owasp Top 10 2017
+          locked: false
+    Wed:
+      no-time:
+        - name: JIRA Risk Workflow
+          url: /Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html
+          location: no-location
+          mode: participating
+          status: draft
+          track: no-track
+          locked: false
+        - name: Writing Security Tests
+          url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
+          location: no-location
+          mode: participating
+          status: better-content
+          track: DevSecOps
+          locked: false
+    Tue:
+      no-time:
+        - name: Testing Guide v5
+          url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
+          location: no-location
+          mode: participating
+          status: review-content
+          track: Owasp Projects
+          locked: false
+      PM-2:
+        - name: What Should be Added to the Top 10
+          url: >-
+            /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
+          location: Room-2
+          mode: participating
+          status: review-content
+          track: Owasp Top 10 2017
+          locked: false
   Jason Haddix:
     Fri:
       no-time:
@@ -7017,41 +7279,6 @@ by_Participant:
           mode: organizing
           status: draft
           track: Security Crowdsourcing
-          locked: false
-  Ade Yoseman Putra:
-    Mon:
-      PM-3:
-        - name: Juice Shop
-          url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
-          location: Room-3
-          mode: participating
-          status: featured
-          track: Owasp Projects
-          locked: false
-    Fri:
-      no-time:
-        - name: OWASP Risk Rating Management Project
-          url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
-          location: no-location
-          mode: organizing
-          status: done
-          track: Owasp Projects
-          locked: false
-        - name: Role of Security Certification
-          url: /Working-Sessions/Education/Role-of-Security-Certifications.html
-          location: no-location
-          mode: organizing
-          status: done
-          track: Education
-          locked: false
-    Wed:
-      no-time:
-        - name: Webgoat
-          url: /Working-Sessions/Owasp-Projects/WebGoat.html
-          location: no-location
-          mode: participating
-          status: done
-          track: Owasp Projects
           locked: false
   Geoff Hill:
     Tue:
@@ -7756,17 +7983,6 @@ by_Participant:
           status: review-content
           track: DevSecOps
           locked: false
-  Duncan Hurwood:
-    Mon:
-      PM-2:
-        - name: Security Guild vs Security Champions
-          url: >-
-            /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
-          location: Room-1
-          mode: participating
-          status: review-content
-          track: Agile AppSec
-          locked: false
   Kevin Sheldrake:
     Mon:
       PM-1:
@@ -7928,7 +8144,7 @@ by_Participant:
           status: done
           track: Owasp Projects
           locked: false
-  ade yoseman putra:
+  Lisa Raynaud:
     Thu:
       no-time:
         - name: Women in Cyber
@@ -7938,7 +8154,7 @@ by_Participant:
           status: Done
           track: no-track
           locked: false
-  Lisa Raynaud:
+  Petty Meisari:
     Thu:
       no-time:
         - name: Women in Cyber

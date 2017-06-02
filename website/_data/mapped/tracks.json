@@ -541,6 +541,11 @@
         "name": "Kuai Hinojosa",
         "url": "/Participants/remote/Kuai-Hinojosa.html",
         "remote": true
+      },
+      {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -760,6 +765,11 @@
         "name": "Scott Treacy",
         "url": "/Participants/ticket-24h-sponsor/Scott-Treacy.html",
         "remote": false
+      },
+      {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
       },
       {
         "name": "Anant Shrivastava",
@@ -1307,6 +1317,36 @@
           "name": "Diffing and Version Control Threat Models",
           "url": "/Working-Sessions/Threat-Model/Diffing-and-Version-Control-Threat-Models.html",
           "when-day": "Fri",
+          "status": "draft"
+        },
+        {
+          "name": "TM-1",
+          "url": "/Working-Sessions/Threat-Model/TM-1.html",
+          "when-day": "",
+          "status": "draft"
+        },
+        {
+          "name": "TM-2",
+          "url": "/Working-Sessions/Threat-Model/TM-2.html",
+          "when-day": "",
+          "status": "draft"
+        },
+        {
+          "name": "TM-3",
+          "url": "/Working-Sessions/Threat-Model/TM-3.html",
+          "when-day": "",
+          "status": "draft"
+        },
+        {
+          "name": "TM-4",
+          "url": "/Working-Sessions/Threat-Model/TM-4.html",
+          "when-day": "",
+          "status": "draft"
+        },
+        {
+          "name": "TM-5",
+          "url": "/Working-Sessions/Threat-Model/TM-5.html",
+          "when-day": "",
           "status": "draft"
         },
         {

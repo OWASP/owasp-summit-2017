@@ -310,6 +310,11 @@
         "remote": false
       },
       {
+        "name": "Duncan Hurwood",
+        "url": "/Participants/ticket-8h/Duncan-Hurwood.html",
+        "remote": false
+      },
+      {
         "name": "Fraser Scott",
         "url": "/Participants/ticket-8h-sponsor/Fraser-Scott.html",
         "remote": false
@@ -387,6 +392,7 @@
         "Irene Michlin",
         "Mamta Vuppu",
         "Phil Parker",
+        "Duncan Hurwood",
         "Avi Douglen",
         "Fraser Scott",
         "Hamza Alkofahi",
@@ -474,6 +480,11 @@
     "organizers": [],
     "participants": [
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
@@ -515,7 +526,8 @@
       "organizers": [],
       "participants": [
         "Ross Tanner",
-        "Francois Raynaud"
+        "Francois Raynaud",
+        "Ade Yoseman Putra"
       ],
       "topics": []
     }
@@ -747,6 +759,11 @@
     ],
     "participants": [
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
         "name": "Bjoern Kimminich",
         "url": "/Participants/summit-editors/Bjoern-Kimminich.html",
         "remote": false
@@ -798,6 +815,7 @@
       "participants": [
         "Timo Pagel",
         "Bjoern Kimminich",
+        "Ade Yoseman Putra",
         "Carlos Serrao",
         "Devesh Bhatt",
         "Hamza Alkofahi",
@@ -1224,6 +1242,11 @@
         "remote": true
       },
       {
+        "name": "James Osborn",
+        "url": "/Participants/remote/James-Osborn.html",
+        "remote": true
+      },
+      {
         "name": "Jason Haddix",
         "url": "/Participants/remote/Jason-Haddix.html",
         "remote": true
@@ -1254,6 +1277,7 @@
         "Amani Altarawneh",
         "Devesh Bhatt",
         "Isuru Tharanga",
+        "James Osborn",
         "Jason Haddix",
         "Nikita Garia",
         "Sam Houston"
@@ -1704,6 +1728,11 @@
     "organizers": [],
     "participants": [
       {
+        "name": "Duncan Hurwood",
+        "url": "/Participants/ticket-8h/Duncan-Hurwood.html",
+        "remote": false
+      },
+      {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
@@ -1723,7 +1752,8 @@
       "location": "Room-5",
       "organizers": [],
       "participants": [
-        "Irene Michlin"
+        "Irene Michlin",
+        "Duncan Hurwood"
       ],
       "topics": [
         "Jira"
@@ -2186,6 +2216,11 @@
         "remote": true
       },
       {
+        "name": "James Osborn",
+        "url": "/Participants/remote/James-Osborn.html",
+        "remote": true
+      },
+      {
         "name": "Jason Li",
         "url": "/Participants/ticket-24h/Jason-Li.html",
         "remote": false
@@ -2237,6 +2272,7 @@
         "Felipe Zipitria",
         "Hamza Alkofahi",
         "Isuru Tharanga",
+        "James Osborn",
         "Jason Li",
         "Kevin Greene",
         "Ohad Rabinovich",
@@ -2551,6 +2587,11 @@
         "name": "Isuru Tharanga",
         "url": "/Participants/remote/Isuru-Tharanga.html",
         "remote": true
+      },
+      {
+        "name": "James Osborn",
+        "url": "/Participants/remote/James-Osborn.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -2566,7 +2607,8 @@
       "organizers": [],
       "participants": [
         "Amani Altarawneh",
-        "Isuru Tharanga"
+        "Isuru Tharanga",
+        "James Osborn"
       ],
       "topics": []
     }
@@ -4050,6 +4092,11 @@
         "remote": false
       },
       {
+        "name": "James Osborn",
+        "url": "/Participants/remote/James-Osborn.html",
+        "remote": true
+      },
+      {
         "name": "Timo Pagel",
         "url": "/Participants/ticket-24h-owasp/Timo-Pagel.html",
         "remote": false
@@ -4074,7 +4121,8 @@
       ],
       "participants": [
         "Timo Pagel",
-        "Chris Cooper"
+        "Chris Cooper",
+        "James Osborn"
       ],
       "related-to": [],
       "topics": []
@@ -4778,6 +4826,11 @@
     ],
     "participants": [
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
         "name": "Bolot Kerimbaev",
         "url": "/Participants/ticket-24h/Bolot-Kerimbaev.html",
         "remote": false
@@ -4826,7 +4879,8 @@
         "Bolot Kerimbaev",
         "Jeroen Willemsen",
         "Marc Rimbau",
-        "Kuai Hinojosa"
+        "Kuai Hinojosa",
+        "Ade Yoseman Putra"
       ],
       "related-to": [],
       "topics": [
@@ -5315,7 +5369,13 @@
         "remote": false
       }
     ],
-    "participants": [],
+    "participants": [
+      {
+        "name": "James Osborn",
+        "url": "/Participants/remote/James-Osborn.html",
+        "remote": true
+      }
+    ],
     "related-to": [],
     "metadata": {
       "layout": "blocks/working-session",
@@ -5329,7 +5389,9 @@
         "Daniel Miessler",
         "Azzeddine Ramrami"
       ],
-      "participants": [],
+      "participants": [
+        "James Osborn"
+      ],
       "related-to": [],
       "topics": []
     }
@@ -5754,6 +5816,11 @@
     ],
     "participants": [
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
         "name": "Anant Shrivastava",
         "url": "/Participants/remote/Anant-Shrivastava.html",
         "remote": true
@@ -5811,6 +5878,7 @@
         "Felipe Zipitria",
         "Mateo Martinez",
         "Scott Treacy",
+        "Ade Yoseman Putra",
         "Anant Shrivastava",
         "Tal Argoni"
       ],
@@ -6103,6 +6171,11 @@
     ],
     "participants": [
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
         "name": "Avi Douglen",
         "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
@@ -6152,6 +6225,7 @@
       "status": "review-content",
       "when-day": "Tue",
       "participants": [
+        "Ade Yoseman Putra",
         "Avi Douglen",
         "Chris Cooper",
         "Nikita Garia",
@@ -7547,6 +7621,111 @@
       ]
     }
   },
+  "TM-1": {
+    "name": "TM-1",
+    "url": "/Working-Sessions/Threat-Model/TM-1.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
+    "metadata": {
+      "layout": "blocks/working-session",
+      "title": "TM-1",
+      "type": "workshop",
+      "owasp-project": "no",
+      "track": "Threat Model",
+      "technology": "",
+      "related-to": [],
+      "status": "draft",
+      "organizers": [],
+      "participants": [],
+      "topics": []
+    }
+  },
+  "TM-2": {
+    "name": "TM-2",
+    "url": "/Working-Sessions/Threat-Model/TM-2.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
+    "metadata": {
+      "layout": "blocks/working-session",
+      "title": "TM-2",
+      "type": "workshop",
+      "owasp-project": "no",
+      "track": "Threat Model",
+      "technology": "",
+      "related-to": [],
+      "status": "draft",
+      "organizers": [],
+      "participants": [],
+      "topics": []
+    }
+  },
+  "TM-3": {
+    "name": "TM-3",
+    "url": "/Working-Sessions/Threat-Model/TM-3.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
+    "metadata": {
+      "layout": "blocks/working-session",
+      "title": "TM-3",
+      "type": "workshop",
+      "owasp-project": "no",
+      "track": "Threat Model",
+      "technology": "",
+      "related-to": [],
+      "status": "draft",
+      "organizers": [],
+      "participants": [],
+      "topics": []
+    }
+  },
+  "TM-4": {
+    "name": "TM-4",
+    "url": "/Working-Sessions/Threat-Model/TM-4.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
+    "metadata": {
+      "layout": "blocks/working-session",
+      "title": "TM-4",
+      "type": "workshop",
+      "owasp-project": "no",
+      "track": "Threat Model",
+      "technology": "",
+      "related-to": [],
+      "status": "draft",
+      "organizers": [],
+      "participants": [],
+      "topics": []
+    }
+  },
+  "TM-5": {
+    "name": "TM-5",
+    "url": "/Working-Sessions/Threat-Model/TM-5.html",
+    "topics": [],
+    "organizers": [],
+    "participants": [],
+    "related-to": [],
+    "metadata": {
+      "layout": "blocks/working-session",
+      "title": "TM-5",
+      "type": "workshop",
+      "owasp-project": "no",
+      "track": "Threat Model",
+      "technology": "",
+      "related-to": [],
+      "status": "draft",
+      "organizers": [],
+      "participants": [],
+      "topics": []
+    }
+  },
   "Teaching Attacker perspective to Developers": {
     "name": "Teaching Attacker perspective to Developers",
     "url": "/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html",
@@ -7659,6 +7838,11 @@
     ],
     "participants": [
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
         "name": "Chris Cooper",
         "url": "/Participants/ticket-24h/Chris-Cooper.html",
         "remote": false
@@ -7666,6 +7850,11 @@
       {
         "name": "Dougal Kennedy",
         "url": "/Participants/remote/Dougal-Kennedy.html",
+        "remote": true
+      },
+      {
+        "name": "James Osborn",
+        "url": "/Participants/remote/James-Osborn.html",
         "remote": true
       },
       {
@@ -7713,8 +7902,10 @@
       ],
       "participants": [
         "Mateo Martinez",
+        "Ade Yoseman Putra",
         "Chris Cooper",
         "Dougal Kennedy",
+        "James Osborn",
         "Jason Li",
         "Tal Argoni",
         "Tiago Mendo",
@@ -7922,6 +8113,11 @@
         "remote": false
       },
       {
+        "name": "Duncan Hurwood",
+        "url": "/Participants/ticket-8h/Duncan-Hurwood.html",
+        "remote": false
+      },
+      {
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
@@ -7970,7 +8166,8 @@
         "Francois Raynaud",
         "Irene Michlin",
         "Robert Morschel",
-        "Stephen de Vries"
+        "Stephen de Vries",
+        "Duncan Hurwood"
       ],
       "topics": []
     }
@@ -8296,6 +8493,11 @@
         "remote": false
       },
       {
+        "name": "Duncan Hurwood",
+        "url": "/Participants/ticket-8h/Duncan-Hurwood.html",
+        "remote": false
+      },
+      {
         "name": "Francois Raynaud",
         "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
         "remote": false
@@ -8365,6 +8567,7 @@
         "Stephen de Vries",
         "Robert Morschel",
         "Francois Raynaud",
+        "Duncan Hurwood",
         "Adam Shostack",
         "Avi Douglen",
         "Ceara Treacy",
@@ -8396,6 +8599,11 @@
       {
         "name": "Devesh Bhatt",
         "url": "/Participants/summit-editors/Devesh-Bhatt.html",
+        "remote": false
+      },
+      {
+        "name": "Duncan Hurwood",
+        "url": "/Participants/ticket-8h/Duncan-Hurwood.html",
         "remote": false
       },
       {
@@ -8485,6 +8693,7 @@
         "Mamta Vuppu",
         "Stephen de Vries",
         "Johan Peeters",
+        "Duncan Hurwood",
         "Avi Douglen",
         "Denis Pilipchuk",
         "Devesh Bhatt",
@@ -8972,6 +9181,11 @@
         "remote": false
       },
       {
+        "name": "Duncan Hurwood",
+        "url": "/Participants/ticket-8h/Duncan-Hurwood.html",
+        "remote": false
+      },
+      {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
@@ -9012,6 +9226,8 @@
         "Ante Gulam",
         "Irene Michlin",
         "Mamta Vuppu",
+        "Duncan Hurwood",
+        "Duncan Hurwood",
         "Rahul Raghavan"
       ],
       "topics": []
@@ -9216,6 +9432,11 @@
         "remote": false
       },
       {
+        "name": "James Osborn",
+        "url": "/Participants/remote/James-Osborn.html",
+        "remote": true
+      },
+      {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
         "remote": false
@@ -9270,6 +9491,7 @@
         "Katy Anton",
         "Johan Peeters",
         "Erez Yalon",
+        "James Osborn",
         "Josh Grossman",
         "Kevin Greene",
         "Ohad Rabinovich",
@@ -9284,6 +9506,11 @@
     "topics": [],
     "organizers": [],
     "participants": [
+      {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
       {
         "name": "Amani Altarawneh",
         "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
@@ -9320,12 +9547,12 @@
         "remote": false
       },
       {
+        "name": "Petty Meisari"
+      },
+      {
         "name": "Vandana Verma",
         "url": "/Participants/remote/Vandana-Verma.html",
         "remote": true
-      },
-      {
-        "name": "ade yoseman putra"
       }
     ],
     "related-to": [],
@@ -9341,9 +9568,10 @@
       "organizers": [],
       "participants": [
         "Neil Barlow",
-        "ade yoseman putra",
+        "Ade Yoseman Putra",
         "Francois Raynaud",
         "Lisa Raynaud",
+        "Petty Meisari",
         "Amani Altarawneh",
         "Fraser Scott",
         "Mohammad Febri Ramadlan",
@@ -9427,6 +9655,11 @@
         "remote": false
       },
       {
+        "name": "James Osborn",
+        "url": "/Participants/remote/James-Osborn.html",
+        "remote": true
+      },
+      {
         "name": "Jason Li",
         "url": "/Participants/ticket-24h/Jason-Li.html",
         "remote": false
@@ -9496,6 +9729,7 @@
         "Felipe Zipitria",
         "Fraser Scott",
         "Hamza Alkofahi",
+        "James Osborn",
         "Jason Li",
         "Rahul Raghavan",
         "Tiago Mendo",
@@ -9523,6 +9757,11 @@
       }
     ],
     "participants": [
+      {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
       {
         "name": "Amani Altarawneh",
         "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
@@ -9584,6 +9823,7 @@
       "participants": [
         "Marc Rimbau",
         "Mateo Martinez",
+        "Ade Yoseman Putra",
         "Amani Altarawneh",
         "Anuruddha Hewawasam",
         "Aruna Katugampola",
