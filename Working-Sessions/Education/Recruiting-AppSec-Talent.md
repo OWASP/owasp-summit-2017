@@ -13,7 +13,7 @@ organizers   : Avi Douglen
 
 ## Why
 
-AppSec and InfoSec talent are difficult to find these days, for several reasons. It is a challenge for industry to accept professionals who are unhappy with their current employment, and would like to work in security, but only have experience in other areas of business. There are also many people just starting out in industry, and with no track record they cannot prove to a potential employer what they can achieve.  
+AppSec and InfoSec talent are difficult to find these days, for several reasons. It is a challenge for industry to accept professionals who are unhappy with their current employment, and would like to work in security, but only have experience in other areas of business. There are also many people just starting out in industry, and without experience they cannot prove to a potential employer what they can achieve.  
 
 All the while, there is a lack of, and high demand for, professionals who can get the AppSec job done. 
 
@@ -31,6 +31,8 @@ All the while, there is a lack of, and high demand for, professionals who can ge
  - What can be done to improve morale and increase retention? 
  - What are common career paths into AppSec and InfoSec? How can newbies break into the field, and how can senior practitioners advance? 
  - What effects do globalisation and remote working technologies have on recruitment? 
+ 
+## Definition of Done
  
 > Need to consider what will be the output of this session. 
 
