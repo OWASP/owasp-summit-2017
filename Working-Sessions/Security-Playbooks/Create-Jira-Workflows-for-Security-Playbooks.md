@@ -10,7 +10,7 @@ when-day     : Tue
 when-time    : PM-1
 location     : Room-5
 organizers   :
-participants : Irene Michlin, Duncan Hurwood
+participants : Irene Michlin,Duncan Hurwood
 ---
 
 ## Why
