@@ -45,6 +45,9 @@ A10 - Underprotected APIs:
     - name: Chris Cooper
       url: /Participants/ticket-24h/Chris-Cooper.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Johan Peeters
       url: /Participants/ticket-24h/Johan-Peeters.html
       remote: false
@@ -77,6 +80,7 @@ A10 - Underprotected APIs:
     participants:
       - Johan Peeters
       - Chris Cooper
+      - Hamza Alkofahi
       - Josh Grossman
       - Nuno Loureiro
       - Tiago Mendo
@@ -96,6 +100,9 @@ A7 - Insufficient Attack Protection:
   participants:
     - name: Erez Yalon
       url: /Participants/Erez-Yalon.html
+      remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
       remote: false
     - name: Josh Grossman
       url: /Participants/remote/Josh-Grossman.html
@@ -127,6 +134,7 @@ A7 - Insufficient Attack Protection:
       - Claudia Cassanovas
     participants:
       - Erez Yalon
+      - Hamza Alkofahi
       - Josh Grossman
       - Nuno Loureiro
       - Ohad Rabinovich
@@ -209,6 +217,9 @@ Agile Practices for Security Teams:
     - name: Fraser Scott
       url: /Participants/ticket-8h-sponsor/Fraser-Scott.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Helen Bravo
       url: /Participants/Helen-Bravo.html
       remote: false
@@ -259,6 +270,7 @@ Agile Practices for Security Teams:
       - Phil Parker
       - Avi Douglen
       - Fraser Scott
+      - Hamza Alkofahi
       - Helen Bravo
       - Madhu Akula
       - Nuno Loureiro
@@ -421,6 +433,9 @@ AppSec SOC Monitoring Visualisation:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Isuru Tharanga
       url: /Participants/remote/Isuru-Tharanga.html
       remote: true
@@ -460,6 +475,7 @@ AppSec SOC Monitoring Visualisation:
       - Carlos Serrao
       - Dicky Stafford
       - Felipe Zipitria
+      - Hamza Alkofahi
       - Isuru Tharanga
       - Madhu Akula
       - Naushad
@@ -517,6 +533,9 @@ Application Security BSc/Masters Curriculum Design:
     - name: Devesh Bhatt
       url: /Participants/summit-editors/Devesh-Bhatt.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Nikita Garia
       url: /Participants/summit-editors/Nikita-Garia.html
       remote: false
@@ -549,6 +568,7 @@ Application Security BSc/Masters Curriculum Design:
       - Bjoern Kimminich
       - Carlos Serrao
       - Devesh Bhatt
+      - Hamza Alkofahi
       - Nikita Garia
     related-to: []
     topics: []
@@ -599,7 +619,7 @@ Application Security Guide for CISO:
       - CISO Survey
     status: review-content
     when-day: Wed
-    when-time: AM-1
+    when-time: PM-2
     location: Room-4
     organizers:
       - Marco Morana
@@ -1268,6 +1288,7 @@ Creating AppSec Teams:
       url: /Participants/ticket-24h-sponsor/Dinis-Cruz.html
       remote: false
   participants:
+    - name: ABC
     - name: Avi Douglen
       url: /Participants/ticket-24h-owasp/Avi-Douglen.html
       remote: false
@@ -1321,6 +1342,7 @@ Creating AppSec Teams:
     participants:
       - Avi Douglen
       - Robert Morschel
+      - ABC
       - Avi Douglen
       - Devesh Bhatt
       - Madhu Akula
@@ -1519,6 +1541,9 @@ Data behind Owasp Top 10 2017:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Ingo Hanke
       url: /Participants/ticket-24h-owasp/Ingo-Hanke.html
       remote: false
@@ -1566,6 +1591,7 @@ Data behind Owasp Top 10 2017:
       - Anant Shrivastava
       - Erez Yalon
       - Felipe Zipitria
+      - Hamza Alkofahi
       - Isuru Tharanga
       - Jason Li
       - Kevin Greene
@@ -2459,6 +2485,9 @@ Implications of Owasp Top 10 2017:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Ingo Hanke
       url: /Participants/ticket-24h-owasp/Ingo-Hanke.html
       remote: false
@@ -2508,6 +2537,7 @@ Implications of Owasp Top 10 2017:
       - Francois Raynaud
       - Avi Douglen
       - Erez Yalon
+      - Hamza Alkofahi
       - Ingo Hanke
       - Isuru Tharanga
       - Jason Li
@@ -3050,6 +3080,9 @@ Lightweight Threat Modeling Process:
     - name: Felipe Zipitria
       url: /Participants/summit-editors/Felipe-Zipitria.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Irene Michlin
       url: /Participants/ticket-8h/Irene-Michlin.html
       remote: false
@@ -3073,7 +3106,7 @@ Lightweight Threat Modeling Process:
     track: Threat Model
     status: review-content
     when-day: Tue
-    when-time: AM-1
+    when-time: PM-1
     location: Room-1
     organizers:
       - Geoff Hill
@@ -3087,6 +3120,7 @@ Lightweight Threat Modeling Process:
       - Adam Shostack
       - Avi Douglen
       - Denis Pilipchuk
+      - Hamza Alkofahi
       - Jason Li
     related-to: []
     topics: []
@@ -3566,6 +3600,9 @@ NextGen Security Scanners:
     - name: Bjoern Kimminich
       url: /Participants/summit-editors/Bjoern-Kimminich.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Jason Li
       url: /Participants/ticket-24h/Jason-Li.html
       remote: false
@@ -3588,6 +3625,7 @@ NextGen Security Scanners:
       - Bjoern Kimminich
       - Marc Rimbau
       - Johan Peeters
+      - Hamza Alkofahi
       - Jason Li
     related-to: []
     topics: []
@@ -3807,6 +3845,9 @@ OWASP Internet of Things Project:
     - name: Amani Altarawneh
       url: /Participants/ticket-24h/Amani-Altarawneh.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Nikita Garia
       url: /Participants/summit-editors/Nikita-Garia.html
       remote: false
@@ -3827,6 +3868,7 @@ OWASP Internet of Things Project:
       - Daniel Miessler
     participants:
       - Amani Altarawneh
+      - Hamza Alkofahi
       - Nikita Garia
       - Tamer Elzayyat
     related-to: []
@@ -3904,6 +3946,9 @@ OWASP Risk Rating Management Project:
     - name: Anuruddha Hewawasam
       url: /Participants/remote/Anuruddha-Hewawasam.html
       remote: true
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Jason Li
       url: /Participants/ticket-24h/Jason-Li.html
       remote: false
@@ -3927,6 +3972,7 @@ OWASP Risk Rating Management Project:
       - Marc Rimbau
       - Amani Altarawneh
       - Anuruddha Hewawasam
+      - Hamza Alkofahi
       - Jason Li
       - Mohammad Febri Ramadlan
     related-to: []
@@ -5360,6 +5406,9 @@ TLS for Local IoT:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Johan Peeters
       url: /Participants/ticket-24h/Johan-Peeters.html
       remote: false
@@ -5388,6 +5437,7 @@ TLS for Local IoT:
       - Johan Peeters
       - Carlos Serrao
       - Devesh Bhatt
+      - Hamza Alkofahi
       - Kevin Sheldrake
       - Tamer Elzayyat
     related-to: []
@@ -5539,6 +5589,9 @@ The Future of Privacy:
     - name: Amani Altarawneh
       url: /Participants/ticket-24h/Amani-Altarawneh.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Johan Peeters
       url: /Participants/ticket-24h/Johan-Peeters.html
       remote: false
@@ -5558,6 +5611,7 @@ The Future of Privacy:
       - Achim Hoffmann
       - Johan Peeters
       - Amani Altarawneh
+      - Hamza Alkofahi
     related-to: []
     topics: []
 Threat Model:
@@ -5929,6 +5983,9 @@ Threat Modeling Templates:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Irene Michlin
       url: /Participants/ticket-8h/Irene-Michlin.html
       remote: false
@@ -5979,6 +6036,7 @@ Threat Modeling Templates:
       - Avi Douglen
       - Ceara Treacy
       - Denis Pilipchuk
+      - Hamza Alkofahi
       - Isuru Tharanga
       - Jason Li
       - Naushad
@@ -6006,6 +6064,9 @@ Threat Modeling Tools:
       remote: false
     - name: Geoff Hill
       url: /Participants/ticket-8h/Geoff-Hill.html
+      remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
       remote: false
     - name: Irene Michlin
       url: /Participants/ticket-8h/Irene-Michlin.html
@@ -6060,6 +6121,7 @@ Threat Modeling Tools:
       - Devesh Bhatt
       - Felipe Zipitria
       - Fraser Scott
+      - Hamza Alkofahi
       - Isuru Tharanga
       - Kevin Greene
       - Naushad
@@ -6166,6 +6228,9 @@ Threat and Vulnerability Management:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Helen Bravo
       url: /Participants/Helen-Bravo.html
       remote: false
@@ -6204,6 +6269,7 @@ Threat and Vulnerability Management:
       - Robert Morschel
       - Timo Pagel
       - Avi Douglen
+      - Hamza Alkofahi
       - Helen Bravo
       - Madhu Akula
     related-to: []
@@ -6469,6 +6535,9 @@ Visit Bletchley Park:
     - name: Dinis Cruz
       url: /Participants/ticket-24h-sponsor/Dinis-Cruz.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Steven Wierckx
       url: /Participants/ticket-24h-sponsor/Steven-Wierckx.html
       remote: false
@@ -6494,6 +6563,7 @@ Visit Bletchley Park:
       - Steven Wierckx
       - Viktor Lindstrom
       - Adam Shostack
+      - Hamza Alkofahi
     need-transportation: Viktor Lindstrom
     topics: []
 WAF Best Practices:
@@ -6728,6 +6798,9 @@ Writing Security Tests:
     - name: Fraser Scott
       url: /Participants/ticket-8h-sponsor/Fraser-Scott.html
       remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
+      remote: false
     - name: Jason Li
       url: /Participants/ticket-24h/Jason-Li.html
       remote: false
@@ -6777,6 +6850,7 @@ Writing Security Tests:
       - Chris Cooper
       - Felipe Zipitria
       - Fraser Scott
+      - Hamza Alkofahi
       - Jason Li
       - Rahul Raghavan
       - Tiago Mendo
@@ -6802,6 +6876,9 @@ ZAP:
       remote: true
     - name: Aruna Katugampola
       url: /Participants/ticket-24h-sponsor/Aruna-Katugampola.html
+      remote: false
+    - name: Hamza Alkofahi
+      url: /Participants/ticket-24h/Hamza-Alkofahi.html
       remote: false
     - name: Marc Rimbau
       url: /Participants/ticket-24h-invoice/Marc-Rimbau.html
@@ -6835,6 +6912,7 @@ ZAP:
       - Amani Altarawneh
       - Anuruddha Hewawasam
       - Aruna Katugampola
+      - Hamza Alkofahi
       - Nuno Loureiro
       - Tiago Mendo
       - Victor Vidigal Ribeiro

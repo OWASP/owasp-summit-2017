@@ -71,6 +71,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
         "remote": false
@@ -112,6 +117,7 @@
       "participants": [
         "Johan Peeters",
         "Chris Cooper",
+        "Hamza Alkofahi",
         "Josh Grossman",
         "Nuno Loureiro",
         "Tiago Mendo"
@@ -142,6 +148,11 @@
       {
         "name": "Erez Yalon",
         "url": "/Participants/Erez-Yalon.html",
+        "remote": false
+      },
+      {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
         "remote": false
       },
       {
@@ -184,6 +195,7 @@
       ],
       "participants": [
         "Erez Yalon",
+        "Hamza Alkofahi",
         "Josh Grossman",
         "Nuno Loureiro",
         "Ohad Rabinovich",
@@ -303,6 +315,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Helen Bravo",
         "url": "/Participants/Helen-Bravo.html",
         "remote": false
@@ -372,6 +389,7 @@
         "Phil Parker",
         "Avi Douglen",
         "Fraser Scott",
+        "Hamza Alkofahi",
         "Helen Bravo",
         "Madhu Akula",
         "Nuno Loureiro",
@@ -601,6 +619,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Isuru Tharanga",
         "url": "/Participants/remote/Isuru-Tharanga.html",
         "remote": true
@@ -655,6 +678,7 @@
         "Carlos Serrao",
         "Dicky Stafford",
         "Felipe Zipitria",
+        "Hamza Alkofahi",
         "Isuru Tharanga",
         "Madhu Akula",
         "Naushad"
@@ -738,6 +762,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Nikita Garia",
         "url": "/Participants/summit-editors/Nikita-Garia.html",
         "remote": false
@@ -771,6 +800,7 @@
         "Bjoern Kimminich",
         "Carlos Serrao",
         "Devesh Bhatt",
+        "Hamza Alkofahi",
         "Nikita Garia"
       ],
       "related-to": [],
@@ -848,7 +878,7 @@
       ],
       "status": "review-content",
       "when-day": "Wed",
-      "when-time": "AM-1",
+      "when-time": "PM-2",
       "location": "Room-4",
       "organizers": [
         "Marco Morana"
@@ -1779,6 +1809,9 @@
     ],
     "participants": [
       {
+        "name": "ABC"
+      },
+      {
         "name": "Avi Douglen",
         "url": "/Participants/ticket-24h-owasp/Avi-Douglen.html",
         "remote": false
@@ -1859,6 +1892,7 @@
       "participants": [
         "Avi Douglen",
         "Robert Morschel",
+        "ABC",
         "Avi Douglen",
         "Devesh Bhatt",
         "Madhu Akula",
@@ -2137,6 +2171,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Ingo Hanke",
         "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
         "remote": false
@@ -2196,6 +2235,7 @@
         "Anant Shrivastava",
         "Erez Yalon",
         "Felipe Zipitria",
+        "Hamza Alkofahi",
         "Isuru Tharanga",
         "Jason Li",
         "Kevin Greene",
@@ -3451,6 +3491,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Ingo Hanke",
         "url": "/Participants/ticket-24h-owasp/Ingo-Hanke.html",
         "remote": false
@@ -3519,6 +3564,7 @@
         "Francois Raynaud",
         "Avi Douglen",
         "Erez Yalon",
+        "Hamza Alkofahi",
         "Ingo Hanke",
         "Isuru Tharanga",
         "Jason Li",
@@ -4253,6 +4299,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
@@ -4286,7 +4337,7 @@
       "track": "Threat Model",
       "status": "review-content",
       "when-day": "Tue",
-      "when-time": "AM-1",
+      "when-time": "PM-1",
       "location": "Room-1",
       "organizers": [
         "Geoff Hill"
@@ -4301,6 +4352,7 @@
         "Adam Shostack",
         "Avi Douglen",
         "Denis Pilipchuk",
+        "Hamza Alkofahi",
         "Jason Li"
       ],
       "related-to": [],
@@ -4973,6 +5025,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Jason Li",
         "url": "/Participants/ticket-24h/Jason-Li.html",
         "remote": false
@@ -5001,6 +5058,7 @@
         "Bjoern Kimminich",
         "Marc Rimbau",
         "Johan Peeters",
+        "Hamza Alkofahi",
         "Jason Li"
       ],
       "related-to": [],
@@ -5299,6 +5357,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Nikita Garia",
         "url": "/Participants/summit-editors/Nikita-Garia.html",
         "remote": false
@@ -5324,6 +5387,7 @@
       ],
       "participants": [
         "Amani Altarawneh",
+        "Hamza Alkofahi",
         "Nikita Garia",
         "Tamer Elzayyat"
       ],
@@ -5431,6 +5495,11 @@
         "remote": true
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Jason Li",
         "url": "/Participants/ticket-24h/Jason-Li.html",
         "remote": false
@@ -5461,6 +5530,7 @@
         "Marc Rimbau",
         "Amani Altarawneh",
         "Anuruddha Hewawasam",
+        "Hamza Alkofahi",
         "Jason Li",
         "Mohammad Febri Ramadlan"
       ],
@@ -7426,6 +7496,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
         "remote": false
@@ -7461,6 +7536,7 @@
         "Johan Peeters",
         "Carlos Serrao",
         "Devesh Bhatt",
+        "Hamza Alkofahi",
         "Kevin Sheldrake",
         "Tamer Elzayyat"
       ],
@@ -7676,6 +7752,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Johan Peeters",
         "url": "/Participants/ticket-24h/Johan-Peeters.html",
         "remote": false
@@ -7697,7 +7778,8 @@
         "Akshay Sharma",
         "Achim Hoffmann",
         "Johan Peeters",
-        "Amani Altarawneh"
+        "Amani Altarawneh",
+        "Hamza Alkofahi"
       ],
       "related-to": [],
       "topics": []
@@ -8217,6 +8299,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Irene Michlin",
         "url": "/Participants/ticket-8h/Irene-Michlin.html",
         "remote": false
@@ -8278,6 +8365,7 @@
         "Avi Douglen",
         "Ceara Treacy",
         "Denis Pilipchuk",
+        "Hamza Alkofahi",
         "Isuru Tharanga",
         "Jason Li",
         "Naushad"
@@ -8319,6 +8407,11 @@
       {
         "name": "Geoff Hill",
         "url": "/Participants/ticket-8h/Geoff-Hill.html",
+        "remote": false
+      },
+      {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
         "remote": false
       },
       {
@@ -8393,6 +8486,7 @@
         "Devesh Bhatt",
         "Felipe Zipitria",
         "Fraser Scott",
+        "Hamza Alkofahi",
         "Isuru Tharanga",
         "Kevin Greene",
         "Naushad",
@@ -8531,6 +8625,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Helen Bravo",
         "url": "/Participants/Helen-Bravo.html",
         "remote": false
@@ -8582,6 +8681,7 @@
         "Robert Morschel",
         "Timo Pagel",
         "Avi Douglen",
+        "Hamza Alkofahi",
         "Helen Bravo",
         "Madhu Akula"
       ],
@@ -8938,6 +9038,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Steven Wierckx",
         "url": "/Participants/ticket-24h-sponsor/Steven-Wierckx.html",
         "remote": false
@@ -8967,7 +9072,8 @@
         "Bjoern Kimminich",
         "Steven Wierckx",
         "Viktor Lindstrom",
-        "Adam Shostack"
+        "Adam Shostack",
+        "Hamza Alkofahi"
       ],
       "need-transportation": "Viktor Lindstrom",
       "topics": []
@@ -9311,6 +9417,11 @@
         "remote": false
       },
       {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
+        "remote": false
+      },
+      {
         "name": "Jason Li",
         "url": "/Participants/ticket-24h/Jason-Li.html",
         "remote": false
@@ -9379,6 +9490,7 @@
         "Chris Cooper",
         "Felipe Zipitria",
         "Fraser Scott",
+        "Hamza Alkofahi",
         "Jason Li",
         "Rahul Raghavan",
         "Tiago Mendo",
@@ -9419,6 +9531,11 @@
       {
         "name": "Aruna Katugampola",
         "url": "/Participants/ticket-24h-sponsor/Aruna-Katugampola.html",
+        "remote": false
+      },
+      {
+        "name": "Hamza Alkofahi",
+        "url": "/Participants/ticket-24h/Hamza-Alkofahi.html",
         "remote": false
       },
       {
@@ -9465,6 +9582,7 @@
         "Amani Altarawneh",
         "Anuruddha Hewawasam",
         "Aruna Katugampola",
+        "Hamza Alkofahi",
         "Nuno Loureiro",
         "Tiago Mendo",
         "Victor Vidigal Ribeiro"

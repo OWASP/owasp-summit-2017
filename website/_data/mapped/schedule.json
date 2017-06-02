@@ -404,7 +404,7 @@
         ]
       },
       "Room-1": {
-        "AM-1": [
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -858,13 +858,15 @@
         ]
       },
       "Room-4": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
             "track": "CISO",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "CISO Round table",
             "url": "/Working-Sessions/CISO/CISO-Round-Table.html",
@@ -1710,7 +1712,7 @@
         ]
       },
       "Threat Model": {
-        "AM-1": [
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -2136,13 +2138,15 @@
         ]
       },
       "CISO": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
             "track": "CISO",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "CISO Round table",
             "url": "/Working-Sessions/CISO/CISO-Round-Table.html",
@@ -3498,6 +3502,207 @@
         ]
       }
     },
+    "Hamza Alkofahi": {
+      "Tue": {
+        "AM-1": [
+          {
+            "name": "A10 - Underprotected APIs",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "A7 - Insufficient Attack Protection",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          },
+          {
+            "name": "Agile Practices for Security Teams",
+            "url": "/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html",
+            "location": "Room-3",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Agile AppSec",
+            "locked": false
+          },
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "Implications of Owasp Top 10 2017",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
+        "no-time": [
+          {
+            "name": "Threat Modeling Templates",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Templates.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ]
+      },
+      "Thu": {
+        "no-time": [
+          {
+            "name": "AppSec SOC Monitoring Visualisation",
+            "url": "/Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "done",
+            "track": "DevSecOps",
+            "locked": false
+          },
+          {
+            "name": "NextGen Security Scanners",
+            "url": "/Working-Sessions/Tools/NextGen-SecurityScanners.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "done",
+            "track": "Tools",
+            "locked": false
+          },
+          {
+            "name": "Visit Bletchley Park",
+            "url": "/Working-Sessions/Education/visit-Bletchley-Park.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "",
+            "locked": false
+          }
+        ]
+      },
+      "Wed": {
+        "no-time": [
+          {
+            "name": "Application Security BSc/Masters Curriculum Design",
+            "url": "/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Education",
+            "locked": false
+          },
+          {
+            "name": "The Future of Privacy",
+            "url": "/Working-Sessions/The-future-of-privacy.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "done",
+            "track": "",
+            "locked": false
+          },
+          {
+            "name": "Threat and Vulnerability Management",
+            "url": "/Working-Sessions/DevSecOps/Threat-Vuln-Management.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "draft",
+            "track": "DevSecOps",
+            "locked": false
+          },
+          {
+            "name": "Writing Security Tests",
+            "url": "/Working-Sessions/DevSecOps/Writing-Security-Tests.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "better-content",
+            "track": "DevSecOps",
+            "locked": false
+          },
+          {
+            "name": "ZAP",
+            "url": "/Working-Sessions/Owasp-Projects/ZAP.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "more-content",
+            "track": "Owasp Projects",
+            "locked": false
+          }
+        ]
+      },
+      "Mon": {
+        "PM-3": [
+          {
+            "name": "Data behind Owasp Top 10 2017",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          },
+          {
+            "name": "Threat Modeling Tools",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "TLS for Local IoT",
+            "url": "/Working-Sessions/IoT/TLS-for-Local-IoT.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "done",
+            "track": "DevSecOps",
+            "locked": "true"
+          }
+        ]
+      },
+      "Fri": {
+        "no-time": [
+          {
+            "name": "OWASP Internet of Things Project",
+            "url": "/Working-Sessions/IoT/Internet-of-Things-Project.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "draft",
+            "track": "Owasp Projects",
+            "locked": false
+          },
+          {
+            "name": "OWASP Risk Rating Management Project",
+            "url": "/Working-Sessions/Owasp-Projects/Risk-Rating-Management.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "done",
+            "track": "Owasp Projects",
+            "locked": false
+          }
+        ]
+      }
+    },
     "Josh Grossman": {
       "Tue": {
         "AM-1": [
@@ -3843,7 +4048,7 @@
             "locked": false
           }
         ],
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -4659,6 +4864,24 @@
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
+          },
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          },
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
           }
         ],
         "PM-2": [
@@ -4698,24 +4921,6 @@
             "mode": "participating",
             "status": "draft",
             "track": "OwaspSAMM",
-            "locked": false
-          },
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "Room-1",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Threat Model",
-            "locked": false
-          },
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "Room-1",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Threat Model",
             "locked": false
           }
         ],
@@ -4779,7 +4984,7 @@
         ]
       },
       "Wed": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -4980,6 +5185,15 @@
             "status": "review-content",
             "track": "Security Playbooks",
             "locked": false
+          },
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
           }
         ],
         "AM-1": [
@@ -4990,15 +5204,6 @@
             "mode": "participating",
             "status": "review-content",
             "track": "Agile AppSec",
-            "locked": false
-          },
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "Room-1",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Threat Model",
             "locked": false
           }
         ],
@@ -6214,7 +6419,7 @@
         ]
       },
       "Wed": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -6295,7 +6500,7 @@
         ]
       },
       "Wed": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -6304,7 +6509,9 @@
             "status": "review-content",
             "track": "CISO",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "CISO Round table",
             "url": "/Working-Sessions/CISO/CISO-Round-Table.html",
@@ -6357,7 +6564,9 @@
             "status": "review-content",
             "track": "Agile AppSec",
             "locked": false
-          },
+          }
+        ],
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -6745,7 +6954,7 @@
             "locked": false
           }
         ],
-        "AM-1": [
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -7442,7 +7651,7 @@
     },
     "Marco Morana": {
       "Wed": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -7470,7 +7679,7 @@
     },
     "Ingo Hanke": {
       "Wed": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -7479,7 +7688,9 @@
             "status": "review-content",
             "track": "CISO",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "CISO Round table",
             "url": "/Working-Sessions/CISO/CISO-Round-Table.html",
@@ -7564,7 +7775,7 @@
     },
     "Yan Kravchenko": {
       "Wed": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -7573,7 +7784,9 @@
             "status": "review-content",
             "track": "CISO",
             "locked": false
-          },
+          }
+        ],
+        "AM-1": [
           {
             "name": "CISO Round table",
             "url": "/Working-Sessions/CISO/CISO-Round-Table.html",
@@ -7693,7 +7906,7 @@
     },
     "Adam Shostack": {
       "Wed": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -7726,7 +7939,7 @@
         ]
       },
       "Tue": {
-        "AM-1": [
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -7796,7 +8009,7 @@
     },
     "Tal Argoni": {
       "Wed": {
-        "AM-1": [
+        "PM-2": [
           {
             "name": "Application Security Guide for CISO",
             "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
@@ -7903,15 +8116,6 @@
             "status": "draft",
             "track": "OwaspSAMM",
             "locked": false
-          },
-          {
-            "name": "Lightweight Threat Modeling Process",
-            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
-            "location": "Room-1",
-            "mode": "participating",
-            "status": "review-content",
-            "track": "Threat Model",
-            "locked": false
           }
         ],
         "PM-3": [
@@ -7922,6 +8126,17 @@
             "mode": "participating",
             "status": "review-content",
             "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "Lightweight Threat Modeling Process",
+            "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
+            "location": "Room-1",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
             "locked": false
           }
         ],
@@ -8159,7 +8374,9 @@
             "status": "review-content",
             "track": "DevSecOps",
             "locked": false
-          },
+          }
+        ],
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -8577,6 +8794,21 @@
         ]
       }
     },
+    "ABC": {
+      "Tue": {
+        "PM-2": [
+          {
+            "name": "Creating AppSec Teams",
+            "url": "/Working-Sessions/Education/Creating-AppSec-Teams.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Education",
+            "locked": false
+          }
+        ]
+      }
+    },
     "Vandana Verma": {
       "Tue": {
         "PM-2": [
@@ -8746,7 +8978,7 @@
             "locked": false
           }
         ],
-        "AM-1": [
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -9322,7 +9554,7 @@
     },
     "Geoff Hill": {
       "Tue": {
-        "AM-1": [
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
@@ -9350,7 +9582,7 @@
     },
     "Denis Pilipchuk": {
       "Tue": {
-        "AM-1": [
+        "PM-1": [
           {
             "name": "Lightweight Threat Modeling Process",
             "url": "/Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html",
