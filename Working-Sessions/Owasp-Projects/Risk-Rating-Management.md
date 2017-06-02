@@ -5,7 +5,7 @@ type        : workshop
 track       : Owasp Projects
 status      : done
 when-day    : Fri
-organizers  : Ade Yoseman Putra
+organizers  : Ade Yoseman Putra, Mohammad Febri Ramadlan
 participants: Marc Rimbau
 ---
 
