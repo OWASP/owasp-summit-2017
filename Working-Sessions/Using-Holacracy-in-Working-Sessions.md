@@ -13,18 +13,20 @@ participants :
 
 ## Why
 
-Holacracy is a very interesting organization model which could work really well on Tracks and even Working Sessions
+Holacracy is a very interesting organization model which could work well on Tracks and even Working Sessions.
 
 ## What
 
- - create a model that could be used in the Summit (ideally before the Summit Starts)
- - find Track and Working Sessions organisers that are willing to try this out
- - find companies who have used it and ask them to share their experiences
+ - Create a model that could be used in the Summit (ideally before the Summit Starts)
+ - Find Track and Working Sessions organisers that are willing to try this out
+ - Find companies who have used it and ask them to share their experiences
 
 ## Who
 
+The target audience for this Working Session is:
+
  - Working Sessions organisers
- - Companies using Holacracy
+ - Companies using holacracy
 
 ## References
 
