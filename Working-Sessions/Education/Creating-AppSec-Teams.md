@@ -27,6 +27,12 @@ This Working Session will focus on how to create an AppSec team, a difficult cha
  - Define AppSec team's services and practices
  - The role of security champions
  - Using development-focused 'AppSec Squads' to help facilitate the creation, testing, and deployment of security fixes
+ 
+## Definition of Done
+
+This Working Session will publish a document containing the following:
+
+--add text--
 
 ## Who
 
