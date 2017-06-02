@@ -63,7 +63,8 @@ class Jekyll_Data
 
   map_Schedule: ->
     schedule =
-      by_Day        : {}
+      by_Room        : {}
+      by_Track       : {}
       by_Participant: {}
 
     # Map by_Day
@@ -71,17 +72,25 @@ class Jekyll_Data
       days         = data.metadata['when-day' ] || 'no-day'
       times        = data.metadata['when-time'] || 'no-time'
       locations    = data.metadata['location' ] || 'no-location'
+      track        = data.metadata.track        || 'no-track'
       organizers   = data.metadata.organizers
       participants = data.metadata.participants
+
 
       for day in days.split(',')
         for location in locations.split(',')
           for time in times.split(',')
 
-            schedule.by_Day[day]                  ?= {}
-            schedule.by_Day[day][location]        ?= {}
-            schedule.by_Day[day][location][time]  ?= []
-            schedule.by_Day[day][location][time].add name: name, url: data.url , track : data.metadata.track || '' , locked: data.metadata.locked || false
+            schedule.by_Room[day]                  ?= {}
+            schedule.by_Room[day][location]        ?= {}
+            schedule.by_Room[day][location][time]  ?= []
+            schedule.by_Room[day][location][time].add name: name, url: data.url , track : data.metadata.track || '' , locked: data.metadata.locked || false
+
+            schedule.by_Track[day]                 ?= {}
+            schedule.by_Track[day][track]          ?= {}
+            schedule.by_Track[day][track][time]    ?= []
+            schedule.by_Track[day][track][time].add name: name, url: data.url , track : track , locked: data.metadata.locked || false
+
 
             map_User = (user,mode)->
               schedule.by_Participant[user]                     ?= {}

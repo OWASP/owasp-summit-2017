@@ -76,6 +76,11 @@
         "remote": false
       },
       {
+        "name": "Josh Grossman",
+        "url": "/Participants/remote/Josh-Grossman.html",
+        "remote": true
+      },
+      {
         "name": "Nuno Loureiro",
         "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
         "remote": false
@@ -107,6 +112,7 @@
       "participants": [
         "Johan Peeters",
         "Chris Cooper",
+        "Josh Grossman",
         "Nuno Loureiro",
         "Tiago Mendo"
       ],
@@ -137,6 +143,11 @@
         "name": "Erez Yalon",
         "url": "/Participants/Erez-Yalon.html",
         "remote": false
+      },
+      {
+        "name": "Josh Grossman",
+        "url": "/Participants/remote/Josh-Grossman.html",
+        "remote": true
       },
       {
         "name": "Nuno Loureiro",
@@ -173,6 +184,7 @@
       ],
       "participants": [
         "Erez Yalon",
+        "Josh Grossman",
         "Nuno Loureiro",
         "Ohad Rabinovich",
         "Tiago Mendo"
@@ -559,6 +571,11 @@
     ],
     "participants": [
       {
+        "name": "Carlos Serrao",
+        "url": "/Participants/remote/Carlos-Serrao.html",
+        "remote": true
+      },
+      {
         "name": "Dicky Stafford",
         "url": "/Participants/ticket-24h-sponsor/Dicky-Stafford.html",
         "remote": false
@@ -635,6 +652,7 @@
         "Don Gibson",
         "Robert Morschel",
         "Johan Peeters",
+        "Carlos Serrao",
         "Dicky Stafford",
         "Felipe Zipitria",
         "Isuru Tharanga",
@@ -710,6 +728,11 @@
         "remote": false
       },
       {
+        "name": "Carlos Serrao",
+        "url": "/Participants/remote/Carlos-Serrao.html",
+        "remote": true
+      },
+      {
         "name": "Devesh Bhatt",
         "url": "/Participants/summit-editors/Devesh-Bhatt.html",
         "remote": false
@@ -746,6 +769,7 @@
       "participants": [
         "Timo Pagel",
         "Bjoern Kimminich",
+        "Carlos Serrao",
         "Devesh Bhatt",
         "Nikita Garia"
       ],
@@ -2845,6 +2869,11 @@
         "remote": false
       },
       {
+        "name": "Carlos Serrao",
+        "url": "/Participants/remote/Carlos-Serrao.html",
+        "remote": true
+      },
+      {
         "name": "Helen Bravo",
         "url": "/Participants/Helen-Bravo.html",
         "remote": false
@@ -2897,6 +2926,7 @@
       ],
       "participants": [
         "Bjoern Kimminich",
+        "Carlos Serrao",
         "Helen Bravo"
       ],
       "topics": []
@@ -2989,6 +3019,11 @@
         "remote": false
       },
       {
+        "name": "Carlos Serrao",
+        "url": "/Participants/remote/Carlos-Serrao.html",
+        "remote": true
+      },
+      {
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
@@ -3027,6 +3062,7 @@
         "Francois Raynaud",
         "Phil Parker",
         "Adam Obrien",
+        "Carlos Serrao",
         "Tiago Mendo"
       ],
       "topics": [
@@ -3321,6 +3357,11 @@
         "remote": false
       },
       {
+        "name": "Carlos Serrao",
+        "url": "/Participants/remote/Carlos-Serrao.html",
+        "remote": true
+      },
+      {
         "name": "Dinis Cruz",
         "url": "/Participants/ticket-24h-sponsor/Dinis-Cruz.html",
         "remote": false
@@ -3358,6 +3399,7 @@
         "Dinis Cruz",
         "Bjoern Kimminich",
         "Robert Morschel",
+        "Carlos Serrao",
         "Tiago Mendo"
       ],
       "related-to": [],
@@ -3717,6 +3759,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Tue",
+      "when-time": "PM-2",
+      "location": "Room-3",
       "organizers": [
         "David Clarke"
       ],
@@ -4917,34 +4961,6 @@
       "topics": []
     }
   },
-  "New Top 10 - Deserialisation Vulnerabilities": {
-    "name": "New Top 10 - Deserialisation Vulnerabilities",
-    "url": "/Working-Sessions/Owasp-Top-10-2017/New-Top-10-Deserialisation-Vulnerabilities.html",
-    "topics": [],
-    "organizers": [
-      {
-        "name": "Josh Grossman",
-        "url": "/Participants/remote/Josh-Grossman.html",
-        "remote": true
-      }
-    ],
-    "participants": [],
-    "related-to": [],
-    "metadata": {
-      "layout": "blocks/working-session",
-      "title": "New Top 10 - Deserialisation Vulnerabilities",
-      "type": "workshop",
-      "track": "Owasp Top 10 2017",
-      "technology": "",
-      "related-to": [],
-      "status": "draft",
-      "organizers": [
-        "Josh Grossman"
-      ],
-      "participants": [],
-      "topics": []
-    }
-  },
   "NextGen Security Scanners": {
     "name": "NextGen Security Scanners",
     "url": "/Working-Sessions/Tools/NextGen-SecurityScanners.html",
@@ -5324,8 +5340,8 @@
     "organizers": [
       {
         "name": "Katy Anton",
-        "url": "/Participants/Katy-Anton.html",
-        "remote": false
+        "url": "/Participants/remote/Katy-Anton.html",
+        "remote": true
       }
     ],
     "participants": [],
@@ -7395,6 +7411,11 @@
     ],
     "participants": [
       {
+        "name": "Carlos Serrao",
+        "url": "/Participants/remote/Carlos-Serrao.html",
+        "remote": true
+      },
+      {
         "name": "Devesh Bhatt",
         "url": "/Participants/summit-editors/Devesh-Bhatt.html",
         "remote": false
@@ -7438,6 +7459,7 @@
       "participants": [
         "Francois Raynaud",
         "Johan Peeters",
+        "Carlos Serrao",
         "Devesh Bhatt",
         "Kevin Sheldrake",
         "Tamer Elzayyat"
@@ -7461,6 +7483,11 @@
       }
     ],
     "participants": [
+      {
+        "name": "Carlos Serrao",
+        "url": "/Participants/remote/Carlos-Serrao.html",
+        "remote": true
+      },
       {
         "name": "Chris Cooper",
         "url": "/Participants/ticket-24h/Chris-Cooper.html",
@@ -7534,6 +7561,7 @@
       "participants": [
         "Robert Morschel",
         "Timo Pagel",
+        "Carlos Serrao",
         "Chris Cooper",
         "Felipe Zipitria",
         "Nuno Loureiro",
@@ -8787,6 +8815,11 @@
     ],
     "participants": [
       {
+        "name": "Carlos Serrao",
+        "url": "/Participants/remote/Carlos-Serrao.html",
+        "remote": true
+      },
+      {
         "name": "Nuno Loureiro",
         "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
         "remote": false
@@ -8810,6 +8843,7 @@
       ],
       "when-day": "Fri",
       "participants": [
+        "Carlos Serrao",
         "Nuno Loureiro",
         "Tiago Mendo"
       ],
@@ -9002,6 +9036,11 @@
     ],
     "participants": [
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
         "name": "Amani Altarawneh",
         "url": "/Participants/ticket-24h/Amani-Altarawneh.html",
         "remote": false
@@ -9043,6 +9082,7 @@
         "Nanne Baars"
       ],
       "participants": [
+        "Ade Yoseman Putra",
         "Amani Altarawneh",
         "Isuru Tharanga",
         "Tiago Mendo"
@@ -9070,9 +9110,14 @@
         "remote": false
       },
       {
+        "name": "Josh Grossman",
+        "url": "/Participants/remote/Josh-Grossman.html",
+        "remote": true
+      },
+      {
         "name": "Katy Anton",
-        "url": "/Participants/Katy-Anton.html",
-        "remote": false
+        "url": "/Participants/remote/Katy-Anton.html",
+        "remote": true
       },
       {
         "name": "Kevin Greene",
@@ -9114,6 +9159,7 @@
         "Katy Anton",
         "Johan Peeters",
         "Erez Yalon",
+        "Josh Grossman",
         "Kevin Greene",
         "Ohad Rabinovich",
         "Tiago Mendo"

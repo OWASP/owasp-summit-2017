@@ -552,11 +552,6 @@ Owasp Top 10 2017:
           /Working-Sessions/Owasp-Top-10-2017/How-is-the-Top-10-Used-in-Real-World.html
         when-day: ''
         status: draft
-      - name: New Top 10 - Deserialisation Vulnerabilities
-        url: >-
-          /Working-Sessions/Owasp-Top-10-2017/New-Top-10-Deserialisation-Vulnerabilities.html
-        when-day: ''
-        status: draft
       - name: Recommending ESAPI in Top 10
         url: /Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html
         when-day: Mon

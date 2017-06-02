@@ -123,19 +123,11 @@
       "layout": "blocks/page-participant",
       "title": "Ade Yoseman Putra",
       "type": "participant-remote",
-      "time": "Vacation",
-      "expenses": "owasp",
-      "funded": "no",
-      "funded-who": "OWASP Community fund",
-      "travel-from": "Jakarta",
-      "flight-cost": "1000",
-      "ticket-cost": "1500",
-      "funded-amount": "1000 (Owasp Outreach Funds)",
-      "required-funds": "2500",
       "job-title": "Jakarta Chapter Leader",
       "email": "ade.putra@owasp.org",
       "twitter": "OwaspJakarta",
-      "status": "broken-links",
+      "chapter-leader": "Jakarta",
+      "status": "more-content",
       "working-sessions": []
     }
   },
@@ -741,6 +733,37 @@
       "ticket": "5x8h",
       "status": "empty",
       "working-sessions": []
+    }
+  },
+  "Carlos Serrao": {
+    "name": "Carlos Serrao",
+    "url": "/Participants/remote/Carlos-Serrao.html",
+    "metadata": {
+      "layout": "blocks/page-participant",
+      "title": "Carlos Serrão",
+      "type": "participant-remote",
+      "job-title": "Assistant Professor, R&D, Entrepreneur",
+      "company": "Instituto Universitário de Lisboa (ISCTE-IUL)",
+      "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAo7AAAAJGU0ODQwZDNmLTFkNDUtNDAxOS1iZWNiLTdmZmZmNzQ2MDdjMg.jpg",
+      "linkedin": "carlosserrao",
+      "twiter": "pontocom",
+      "facebook": "carlosserrao",
+      "website": "http://ciencia.iscte-iul.pt/cjcs/en",
+      "email": "carlos.serrao@owasp.org",
+      "project-leader": "",
+      "chapter-leader": "Portuguese chapter",
+      "when-day": "",
+      "status": "empty",
+      "working-sessions": [
+        "Application Security BSc/Masters Curriculum Design",
+        "Teaching Attacker perspective to Developers",
+        "Evaluation/Optimization/Creation of Training Slides",
+        "Using ML and AI to detect Attacks",
+        "IAM for REST APIs",
+        "GDPR and DPO AppSec implications",
+        "AppSec SOC Monitoring Visualisation",
+        "TLS for Local IoT"
+      ]
     }
   },
   "Ceara Treacy": {
@@ -1925,17 +1948,22 @@
       "layout": "blocks/page-participant",
       "title": "Josh Grossman",
       "type": "participant-remote",
-      "job-title": "",
+      "job-title": "Team Leader and Application Security Consultant",
+      "company": "Comsec Global",
       "image": "https://pbs.twimg.com/profile_images/856433281214099456/zV995oDu_400x400.jpg",
-      "linkedin": "",
-      "twiter": "JoshCGrossman",
+      "linkedin": "https://www.linkedin.com/in/joshuacgrossman/",
+      "twitter": "JoshCGrossman",
       "facebook": "",
       "website": "",
       "email": "",
       "project-leader": "",
       "chapter-leader": "",
       "status": "empty",
-      "working-sessions": []
+      "working-sessions": [
+        "What Should be Added to the Top 10",
+        "A10 - Underprotected APIs",
+        "A7 - Insufficient Attack Protection"
+      ]
     }
   },
   "Juan Calderon": {
@@ -1987,23 +2015,23 @@
   },
   "Katy Anton": {
     "name": "Katy Anton",
-    "url": "/Participants/Katy-Anton.html",
+    "url": "/Participants/remote/Katy-Anton.html",
     "metadata": {
       "layout": "blocks/page-participant",
       "title": "Katy Anton",
-      "type": "participant",
-      "job-title": "",
-      "company": "",
-      "travel-from": "",
-      "image": "",
-      "linkedin": "",
-      "twiter": "",
+      "type": "participant-remote",
+      "job-title": "Veracode",
+      "company": "Veracode",
+      "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAALrAAAAJDA0ZTkxYmIwLTZlMmMtNGRiNi04YTYzLTkxNmZhZjg5Y2JjOA.jpg",
+      "linkedin": "katyanton/",
+      "twiter": "katyanton",
       "facebook": "",
       "website": "",
-      "email": "",
-      "ticket": "",
+      "email": "katy.anton@owasp.org",
+      "project-leader": "",
+      "chapter-leader": "OWASP Bristol",
       "when-day": "",
-      "status": "empty",
+      "status": "done",
       "working-sessions": []
     }
   },
