@@ -55,13 +55,11 @@ class Server
     @
 
   start_Server_SSL: =>
-    #pfx_File       = process.env.MM_SSL_PFX
-    #pfx_Passphrase = process.env.MM_SSL_PWD
     options =
-      key: fs.readFileSync('./src/server/cert/key.pem'),
-      cert: fs.readFileSync('./src/server/cert/cert.pem')
-      #pfx: fs.readFileSync pfx_File
-      #passphrase: pfx_Passphrase
+      #key: fs.readFileSync('./src/server/cert/key.pem'),
+      #cert: fs.readFileSync('./src/server/cert/cert.pem')
+      key: fs.readFileSync('./cert/privkey.pem'),
+      cert: fs.readFileSync('./cert/fullchain.pem')
 
     @.server      = https.createServer(options, @.app).listen @.port
 
