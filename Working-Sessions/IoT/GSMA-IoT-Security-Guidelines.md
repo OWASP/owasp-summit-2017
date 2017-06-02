@@ -23,6 +23,11 @@ _(from [IoT Security Guidelines Overview](http://www.gsma.com/iot/iot-security-g
 
 ...what text...
 
+## Definition of Done
+
+This Working Session will publish a document containing the following:
+
+
 ## Who
 
 ... target audience ...
