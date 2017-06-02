@@ -3106,7 +3106,7 @@ Lightweight Threat Modeling Process:
     track: Threat Model
     status: review-content
     when-day: Tue
-    when-time: PM-1
+    when-time: 'AM-1,PM-1'
     location: Room-1
     organizers:
       - Geoff Hill
@@ -5736,6 +5736,8 @@ Threat Modeling Cheat Sheet & Lightweight Threat Modeling:
       domain agnostic.
     status: improve-content
     when-day: Tue
+    when-time: PM-2
+    location: Room-6
     organizers:
       - Tony UV
     participants:
@@ -6022,6 +6024,8 @@ Threat Modeling Templates:
       industries can leverage within their respective AppSec groups.
     status: featured
     when-day: Tue
+    when-time: AM1
+    location: Room-6
     organizers:
       - Tony UV
     participants:
@@ -6156,12 +6160,13 @@ Threat Modeling Where do I Start?:
     layout: blocks/working-session
     title: Threat Modeling Where do I Start?
     type: workshop
-    owasp-project: 'no'
     track: Threat Model
     technology: ''
     related-to: []
     status: review-content
-    when-day: Tue
+    when-day: 'Mon,Tue'
+    when-time: Eve
+    location: Room-6
     organizers: []
     participants:
       - Robert Hurlbut

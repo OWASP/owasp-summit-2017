@@ -18,7 +18,7 @@ by_Room:
         - name: Application Security Verification Standard
           url: >-
             /Working-Sessions/Owasp-Projects/Application-Security-Verification-Standard.html
-          track: ''
+          track: no-track
           locked: false
         - name: Applying Top 10 to Standards
           url: >-
@@ -40,7 +40,7 @@ by_Room:
           locked: false
         - name: Browser Security
           url: /Working-Sessions/Browser-security.html
-          track: ''
+          track: no-track
           locked: false
         - name: CISO Survey
           url: /Working-Sessions/CISO/CISO-Survey.html
@@ -48,7 +48,7 @@ by_Room:
           locked: false
         - name: CRSFGuard
           url: /Working-Sessions/Owasp-Projects/CRSFGuard.html
-          track: ''
+          track: no-track
           locked: false
         - name: Create CheatSheet Writing Security Unit Tests
           url: >-
@@ -70,7 +70,7 @@ by_Room:
           locked: false
         - name: GSMA IoT Security Guidelines
           url: /Working-Sessions/IoT/GSMA-IoT-Security-Guidelines.html
-          track: ''
+          track: no-track
           locked: false
         - name: How is the Top 10 Used in Real World
           url: >-
@@ -116,7 +116,7 @@ by_Room:
           locked: false
         - name: Radical Candor
           url: /Working-Sessions/Radical-Candor.html
-          track: ''
+          track: no-track
           locked: false
         - name: SRE Security Activities
           url: /Working-Sessions/DevSecOps/SRE-Security-Activities.html
@@ -134,11 +134,11 @@ by_Room:
         - name: Security Architecture Recommendations for IoT
           url: >-
             /Working-Sessions/IoT/Security-Architecture-Recommendations-for-IoT.html
-          track: ''
+          track: no-track
           locked: false
         - name: Security Knowledge Framework
           url: /Working-Sessions/Owasp-Projects/Security-Knowledge-Framework.html
-          track: ''
+          track: no-track
           locked: false
         - name: Security Labels
           url: /Working-Sessions/Research/Security-Labels.html
@@ -146,7 +146,7 @@ by_Room:
           locked: false
         - name: Security-Review-pure-Javascript-Applications
           url: /Working-Sessions/Security-Review-pure-Javascript-Applications.html
-          track: ''
+          track: no-track
           locked: false
         - name: Synchronize Multiple Owasp Top 10s
           url: >-
@@ -170,7 +170,7 @@ by_Room:
           locked: false
         - name: Using Holacracy in Working Sessions
           url: /Working-Sessions/Using-Holacracy-in-Working-Sessions.html
-          track: ''
+          track: no-track
           locked: false
         - name: WAF Best Practices
           url: /Working-Sessions/DevSecOps/WAF-best-practices.html
@@ -243,11 +243,25 @@ by_Room:
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
           track: Education
           locked: false
+        - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
+          track: Threat Model
+          locked: false
       PM-3:
         - name: Crowdsourcing Security Knowledge
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
           track: Security Crowdsourcing
+          locked: false
+      AM1:
+        - name: Threat Modeling Templates
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
+          track: Threat Model
+          locked: false
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
+          track: Threat Model
           locked: false
     Villa-1:
       AM-1:
@@ -282,6 +296,12 @@ by_Room:
           track: Mobile Security
           locked: false
     Room-1:
+      AM-1:
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          track: Threat Model
+          locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
@@ -317,18 +337,6 @@ by_Room:
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
           track: Owasp Projects
-          locked: false
-        - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          track: Threat Model
-          locked: false
-        - name: Threat Modeling Templates
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          track: Threat Model
-          locked: false
-        - name: Threat Modeling Where do I Start?
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
-          track: Threat Model
           locked: false
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
@@ -448,16 +456,16 @@ by_Room:
           locked: false
         - name: Visit Bletchley Park
           url: /Working-Sessions/Education/visit-Bletchley-Park.html
-          track: ''
+          track: no-track
           locked: false
         - name: Women in Cyber
           url: /Working-Sessions/Women-in-Cyber.html
-          track: ''
+          track: no-track
           locked: false
       Eve:
         - name: Closing party
           url: /Working-Sessions/closing-party.html
-          track: ''
+          track: no-track
           locked: false
     Villa-2:
       AM-1:
@@ -532,7 +540,7 @@ by_Room:
           locked: false
         - name: JIRA Risk Workflow
           url: /Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html
-          track: ''
+          track: no-track
           locked: false
         - name: Media Handling Playbook
           url: /Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html
@@ -562,7 +570,7 @@ by_Room:
           locked: false
         - name: The Future of Privacy
           url: /Working-Sessions/The-future-of-privacy.html
-          track: ''
+          track: no-track
           locked: false
         - name: Threat Modeling OWASP Pages
           url: /Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html
@@ -850,375 +858,388 @@ by_Room:
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
           track: Threat Model
           locked: false
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
+          track: Threat Model
+          locked: false
 by_Track:
   no-day:
     Tools:
       no-time:
         - name: A comparison of strength and weaknesses of specific FOSS tools
           url: /Working-Sessions/Tools/Comparison-of-FOSS-Tools.html
-          track: Tools
+          location: no-location
           locked: false
         - name: AWS Lambda Security
           url: /Working-Sessions/Tools/AWS-Lambda-Security.html
-          track: Tools
+          location: no-location
           locked: false
         - name: 'Best practices in using SAST, DAST, IAST and RASP Tools'
           url: /Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html
-          track: Tools
+          location: no-location
           locked: false
     Owasp Projects:
       no-time:
         - name: Align Developers Guide and ASVS
           url: >-
             /Working-Sessions/Owasp-Projects/Align-Developers-Guide-and-ASVS.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: Benchmark Project
           url: /Working-Sessions/Owasp-Projects/Benchmark-Project.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: Create CheatSheet Writing Security Unit Tests
           url: >-
             /Working-Sessions/Owasp-Projects/Create-CheatSheet-Writing
             Security-Unit-Tests.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: OWASP Proactive Controls
           url: /Working-Sessions/Owasp-Projects/Proactive-Controls.html
-          track: Owasp Projects
+          location: no-location
           locked: false
     no-track:
       no-time:
         - name: Application Security Verification Standard
           url: >-
             /Working-Sessions/Owasp-Projects/Application-Security-Verification-Standard.html
-          track: no-track
+          location: no-location
           locked: false
         - name: Browser Security
           url: /Working-Sessions/Browser-security.html
-          track: no-track
+          location: no-location
           locked: false
         - name: CRSFGuard
           url: /Working-Sessions/Owasp-Projects/CRSFGuard.html
-          track: no-track
+          location: no-location
           locked: false
         - name: GSMA IoT Security Guidelines
           url: /Working-Sessions/IoT/GSMA-IoT-Security-Guidelines.html
-          track: no-track
+          location: no-location
           locked: false
         - name: Radical Candor
           url: /Working-Sessions/Radical-Candor.html
-          track: no-track
+          location: no-location
           locked: false
         - name: Security Architecture Recommendations for IoT
           url: >-
             /Working-Sessions/IoT/Security-Architecture-Recommendations-for-IoT.html
-          track: no-track
+          location: no-location
           locked: false
         - name: Security Knowledge Framework
           url: /Working-Sessions/Owasp-Projects/Security-Knowledge-Framework.html
-          track: no-track
+          location: no-location
           locked: false
         - name: Security-Review-pure-Javascript-Applications
           url: /Working-Sessions/Security-Review-pure-Javascript-Applications.html
-          track: no-track
+          location: no-location
           locked: false
         - name: Using Holacracy in Working Sessions
           url: /Working-Sessions/Using-Holacracy-in-Working-Sessions.html
-          track: no-track
+          location: no-location
           locked: false
     Owasp Top 10 2017:
       no-time:
         - name: Applying Top 10 to Standards
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Applying-Top-10-to-Standards.html
-          track: Owasp Top 10 2017
+          location: no-location
           locked: false
         - name: How is the Top 10 Used in Real World
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/How-is-the-Top-10-Used-in-Real-World.html
-          track: Owasp Top 10 2017
+          location: no-location
           locked: false
         - name: Top 10 merge with Proactive Controls
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Top-10-merge-with-Proactive-Controls.html
-          track: Owasp Top 10 2017
+          location: no-location
           locked: false
     Research:
       no-time:
         - name: BeyondCorp for internal Web Applications
           url: >-
             /Working-Sessions/Research/BeyondCorp-for-internal-Web-Applications.html
-          track: Research
+          location: no-location
           locked: false
         - name: LANGSEC Language-theoretic Security
           url: /Working-Sessions/Research/LANGSEC-Language-theoretic-Security.html
-          track: Research
+          location: no-location
           locked: false
         - name: Protobuf for Data Validation Between Services
           url: >-
             /Working-Sessions/Research/Protobuf-for-Data-Validation-Between-Services.html
-          track: Research
+          location: no-location
           locked: false
         - name: Security Labels
           url: /Working-Sessions/Research/Security-Labels.html
-          track: Research
+          location: no-location
           locked: false
     CISO:
       no-time:
         - name: CISO Survey
           url: /Working-Sessions/CISO/CISO-Survey.html
-          track: CISO
+          location: no-location
           locked: false
     Education:
       no-time:
         - name: Creation and Optimization of a Docker Security Workshop
           url: /Working-Sessions/Education/Docker-Seucrity-Workshop.html
-          track: Education
+          location: no-location
           locked: false
         - name: Cyber Security Economics
           url: /Working-Sessions/Education/Cyber-Security-Economics.html
-          track: Education
+          location: no-location
           locked: false
     DevSecOps:
       no-time:
         - name: Docker Security
           url: /Working-Sessions/DevSecOps/Docker-Security.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Integrating Security Tools in the SDL
           url: /Working-Sessions/DevSecOps/Integrating-Security-Tools-in-SDL.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Netflix Resilience Engineering
           url: /Working-Sessions/DevSecOps/Netflix-Resilience-Engineering.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Netflix Security Automation
           url: /Working-Sessions/DevSecOps/Netflix-Security-Automation.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Node Security Round Table
           url: /Working-Sessions/DevSecOps/Node-Security-Round-Table.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: SRE Security Activities
           url: /Working-Sessions/DevSecOps/SRE-Security-Activities.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Securing the CI Pipeline
           url: /Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: WAF Best Practices
           url: /Working-Sessions/DevSecOps/WAF-best-practices.html
-          track: DevSecOps
+          location: no-location
           locked: false
     Owasp:
       no-time:
         - name: OWASP Chapter Leader Handbook
           url: /Working-Sessions/Owasp/Owasp-Chapter-Handbook.html
-          track: Owasp
+          location: no-location
           locked: false
         - name: Owasp-Website
           url: /Working-Sessions/Owasp/Owasp-Website.html
-          track: Owasp
+          location: no-location
           locked: false
     Agile AppSec:
       no-time:
         - name: Scaling Agile Planning and Education.md
           url: >-
             /Working-Sessions/Agile-AppSec/Scaling-Agile-Planning-and-Education.html
-          track: Agile AppSec
+          location: no-location
           locked: false
     Owasp Top 10:
       no-time:
         - name: Synchronize Multiple Owasp Top 10s
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Synchronize-Multiple-Owasp-Top-10s.html
-          track: Owasp Top 10
+          location: no-location
           locked: false
     Threat Model:
       no-time:
         - name: Threat Modeling pure Javascript Applications
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-pure-Javascript-Applications.html
-          track: Threat Model
+          location: no-location
           locked: false
         - name: Use Threat Models to Lock Developers Briefs
           url: >-
             /Working-Sessions/Threat-Model/Use-Threat-Models-to-Lock-Developers-Briefs.html
-          track: Threat Model
+          location: no-location
           locked: false
   Tue:
     Owasp Top 10 2017:
       AM-1:
         - name: A10 - Underprotected APIs
           url: /Working-Sessions/Owasp-Top-10-2017/A10-Underprotected-APIs.html
-          track: Owasp Top 10 2017
+          location: Room-2
           locked: false
       PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/A7-Insufficient-Attack-Protection.html
-          track: Owasp Top 10 2017
+          location: Room-2
           locked: false
       PM-3:
         - name: Implications of Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html
-          track: Owasp Top 10 2017
+          location: Room-2
           locked: false
       PM-2:
         - name: What Should be Added to the Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html
-          track: Owasp Top 10 2017
+          location: Room-2
           locked: false
     Agile AppSec:
       PM-1:
         - name: Agile Practices for Security Teams
           url: >-
             /Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html
-          track: Agile AppSec
+          location: Room-3
           locked: false
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
-          track: Agile AppSec
+          location: Room-3
           locked: false
       PM-2:
         - name: Integrating Security into a Portfolio Kanban
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Portfolio-Kanban.html
-          track: Agile AppSec
+          location: Room-3
           locked: false
       no-time:
         - name: Security Champions
           url: /Working-Sessions/Agile-AppSec/Security-Champions.html
-          track: Agile AppSec
+          location: no-location
           locked: false
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
-          track: Agile AppSec
+          location: no-location
           locked: false
     DevSecOps:
       AM-1:
         - name: BDD for Cloud Security
           url: /Working-Sessions/DevSecOps/BDD-for-Cloud-Security.html
-          track: DevSecOps
+          location: Room-4
           locked: false
     Security Playbooks:
       PM-1:
         - name: Create Jira Workflows for Security Playbooks
           url: >-
             /Working-Sessions/Security-Playbooks/Create-Jira-Workflows-for-Security-Playbooks.html
-          track: Security Playbooks
+          location: Room-5
           locked: false
     Education:
       AM-1:
         - name: Creating AppSec Talent (next 100k professionals)
           url: /Working-Sessions/Education/Creating-AppSec-Talent.html
-          track: Education
+          location: Room-6
           locked: false
       PM-2:
         - name: Creating AppSec Teams
           url: /Working-Sessions/Education/Creating-AppSec-Teams.html
-          track: Education
+          location: Room-6
           locked: false
       no-time:
         - name: Recruiting AppSec Talent
           url: /Working-Sessions/Education/Recruiting-AppSec-Talent.html
-          track: Education
+          location: no-location
           locked: false
     Security Crowdsourcing:
       PM-3:
         - name: Crowdsourcing Security Knowledge
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html
-          track: Security Crowdsourcing
+          location: Room-6
           locked: false
       no-time:
         - name: Responsible Disclosure
           url: /Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
-          track: Security Crowdsourcing
+          location: no-location
           locked: false
     OwaspSAMM:
       AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
-          track: OwaspSAMM
+          location: Villa-1
           locked: false
       PM-1:
         - name: Include OWASP projects as resources for the SAMM practices
           url: >-
             /Working-Sessions/OwaspSAMM/Include-OWASP-projects-as-resources-for-SAMM.html
-          track: OwaspSAMM
+          location: Villa-2
           locked: false
       no-time:
         - name: Update SAMM model to take into account Agile and DevOps
           url: /Working-Sessions/OwaspSAMM/Update-SAMM-model-to-Agile-DevOps.html
-          track: OwaspSAMM
+          location: no-location
           locked: false
     Threat Model:
+      AM-1:
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
             /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
-          track: Threat Model
+          location: Room-1
           locked: false
-      no-time:
+      PM-2:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          track: Threat Model
+          location: Room-6
           locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          track: Threat Model
+          location: Room-6
           locked: false
+      Eve:
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
-          track: Threat Model
+          location: Room-6
           locked: false
     Mobile Security:
       AM-1:
         - name: MSTG Book Sprint - Mobile App Security Testing
           url: /Working-Sessions/Mobile-Security/MSTG_02.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-1:
         - name: MSTG Book Sprint - Mobile App Security Testing
           url: /Working-Sessions/Mobile-Security/MSTG_02.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-2:
         - name: MSTG Book Sprint - Mobile App Security Testing
           url: /Working-Sessions/Mobile-Security/MSTG_02.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-3:
         - name: MSTG Book Sprint - Mobile App Security Testing
           url: /Working-Sessions/Mobile-Security/MSTG_02.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
     Owasp Projects:
       no-time:
         - name: NodeGoat
           url: /Working-Sessions/Owasp-Projects/NodeGoat.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: O-Saft
           url: /Working-Sessions/Owasp-Projects/O-Saft.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: OWASP Projects Reviews
           url: /Working-Sessions/Owasp-Projects/OWASP-Projects-Review.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: Testing Guide v5
           url: /Working-Sessions/Owasp-Projects/Testing-Guide-v5.html
-          track: Owasp Projects
+          location: no-location
           locked: false
   Thu:
     CISO:
@@ -1226,189 +1247,189 @@ by_Track:
         - name: AppSec Article 5 - Collective Defence Agreement
           url: >-
             /Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html
-          track: CISO
+          location: Room-4
           locked: false
       PM-2:
         - name: AppSec for CISOs
           url: /Working-Sessions/CISO/AppSec-for-CISOs.html
-          track: CISO
+          location: Room-4
           locked: false
       PM-3:
         - name: SAMM Metrics for Enterprise
           url: /Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html
-          track: CISO
+          location: Room-4
           locked: false
     DevSecOps:
       no-time:
         - name: AppSec SOC Monitoring Visualisation
           url: /Working-Sessions/DevSecOps/AppSec-SoC-Monitoring-Visualisation.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: ELK Security Dashboards
           url: /Working-Sessions/DevSecOps/ELK-Security-Dashboards.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Securing GitHub Integrations
           url: /Working-Sessions/DevSecOps/Securing-GitHub-Integrations.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Securing Legacy Applications
           url: /Working-Sessions/DevSecOps/Securing-Legacy-Applications.html
-          track: DevSecOps
+          location: no-location
           locked: false
     no-track:
       Eve:
         - name: Closing party
           url: /Working-Sessions/closing-party.html
-          track: no-track
+          location: no-location
           locked: false
       no-time:
         - name: Visit Bletchley Park
           url: /Working-Sessions/Education/visit-Bletchley-Park.html
-          track: no-track
+          location: no-location
           locked: false
         - name: Women in Cyber
           url: /Working-Sessions/Women-in-Cyber.html
-          track: no-track
+          location: no-location
           locked: false
     Security Crowdsourcing:
       no-time:
         - name: Cross-Company Hackathons
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Cross-Company-Hackathons.html
-          track: Security Crowdsourcing
+          location: no-location
           locked: false
         - name: Internal Bug Bounties Programmes
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Internal-Bug-Bounties-Programmes.html
-          track: Security Crowdsourcing
+          location: no-location
           locked: false
         - name: Lessons learned from public bug bounties programmes
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Lessons-learned-from-public-bug-bounties-programmes.html
-          track: Security Crowdsourcing
+          location: no-location
           locked: false
     Education:
       no-time:
         - name: Evaluation/Optimization/Creation of Training Slides
           url: >-
             /Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html
-          track: Education
+          location: no-location
           locked: false
     Agile AppSec:
       no-time:
         - name: Integrating Security into a Sales Channel
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-a-Sales-Channel.html
-          track: Agile AppSec
+          location: no-location
           locked: false
         - name: Integrating Security into an Spotify Model
           url: >-
             /Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html
-          track: Agile AppSec
+          location: no-location
           locked: false
     Mobile Security:
       AM-1:
         - name: MSTG Book Sprint - iOS Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_04.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-1:
         - name: MSTG Book Sprint - iOS Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_04.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-2:
         - name: MSTG Book Sprint - iOS Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_04.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-3:
         - name: MSTG Book Sprint - iOS Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_04.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
     OwaspSAMM:
       no-time:
         - name: Maturity Models tool
           url: /Working-Sessions/OwaspSAMM/Maturity-Models-Tool.html
-          track: OwaspSAMM
+          location: no-location
           locked: false
         - name: Review and improve the 12 SAMM practices
           url: /Working-Sessions/OwaspSAMM/Review-improve-12-SAMM-practices.html
-          track: OwaspSAMM
+          location: no-location
           locked: false
     Tools:
       no-time:
         - name: NextGen Security Scanners
           url: /Working-Sessions/Tools/NextGen-SecurityScanners.html
-          track: Tools
+          location: no-location
           locked: false
         - name: Reverse Engineering APK's with Bytecodeviewer
           url: /Working-Sessions/Tools/Bytecodevierwer.html
-          track: Tools
+          location: no-location
           locked: false
     Owasp:
       no-time:
         - name: Owasp Chapter Treasury
           url: /Working-Sessions/Owasp/Owasp-Chapter-Treasury.html
-          track: Owasp
+          location: no-location
           locked: false
         - name: Owasp Latam Region
           url: /Working-Sessions/Owasp/Owasp-Latam-Region.html
-          track: Owasp
+          location: no-location
           locked: false
         - name: Owasp Student Chapters
           url: /Working-Sessions/Owasp/Owasp-Student-Chapters.html
-          track: Owasp
+          location: no-location
           locked: false
     Threat Model:
       no-time:
         - name: Threat Modeling Cloud Migrations
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cloud-Migrations.html
-          track: Threat Model
+          location: no-location
           locked: false
         - name: Threat Modeling IoT Devices
           url: /Working-Sessions/Threat-Model/Threat-Modeling-IoT-Devices.html
-          track: Threat Model
+          location: no-location
           locked: false
         - name: Threat Modeling by Feature and Layer
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-by-Feature-and-Layer.html
-          track: Threat Model
+          location: no-location
           locked: false
   Eve:
     Security Crowdsourcing:
       no-time:
         - name: AppSec Job Fair
           url: /Working-Sessions/Security-Crowdsourcing/AppSec-Job-Fair.html
-          track: Security Crowdsourcing
+          location: no-location
           locked: false
         - name: Hackathon Daily Sessions
           url: >-
             /Working-Sessions/Security-Crowdsourcing/Hackathon-Daily-Sessions.html
-          track: Security Crowdsourcing
+          location: no-location
           locked: false
     Education:
       no-time:
         - name: CTFs
           url: /Working-Sessions/Education/CTFs.html
-          track: Education
+          location: no-location
           locked: false
         - name: Security Book Club
           url: /Working-Sessions/Education/Security-Book-Club.html
-          track: Education
+          location: no-location
           locked: false
         - name: Teaching Attacker perspective to Developers
           url: >-
             /Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html
-          track: Education
+          location: no-location
           locked: false
     DevSecOps:
       no-time:
         - name: DevSecOps vs SecDevOps
           url: /Working-Sessions/DevSecOps/DevSecOps-vs-SecDevOps.html
-          track: DevSecOps
+          location: no-location
           locked: false
   Wed:
     Security Playbooks:
@@ -1416,366 +1437,371 @@ by_Track:
         - name: AppSec Review and Pentest Playbook
           url: >-
             /Working-Sessions/Security-Playbooks/AppSec-Review-and-Pentest-Playbook.html
-          track: Security Playbooks
+          location: no-location
           locked: false
         - name: Incident Response Playbook
           url: /Working-Sessions/Security-Playbooks/Incident-Response-Playbook.html
-          track: Security Playbooks
+          location: no-location
           locked: false
         - name: Media Handling Playbook
           url: /Working-Sessions/Security-Playbooks/Media-Handling-Playbook.html
-          track: Security Playbooks
+          location: no-location
           locked: false
         - name: Security Monitoring Playbooks
           url: >-
             /Working-Sessions/Security-Playbooks/Security-Monitoring-Playbooks.html
-          track: Security Playbooks
+          location: no-location
           locked: false
     Education:
       no-time:
         - name: Application Security BSc/Masters Curriculum Design
           url: >-
             /Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html
-          track: Education
+          location: no-location
           locked: false
         - name: Software Defined Everything (SDx)
           url: /Working-Sessions/Education/Software-Defined-Everything-(SDx).html
-          track: Education
+          location: no-location
           locked: false
     CISO:
       PM-2:
         - name: Application Security Guide for CISO
           url: /Working-Sessions/CISO/Application-Security-Guide-for-CISO.html
-          track: CISO
+          location: Room-4
           locked: false
       AM-1:
         - name: CISO Round table
           url: /Working-Sessions/CISO/CISO-Round-Table.html
-          track: CISO
+          location: Room-4
           locked: false
       PM-3:
         - name: Cyber Insurance
           url: /Working-Sessions/CISO/Cyber-Insurance.html
-          track: CISO
+          location: Room-4
           locked: false
       PM-1:
         - name: InfoSec Warranties and Guarantees
           url: /Working-Sessions/CISO/InfoSec-Warranties-and-Guarantees.html
-          track: CISO
+          location: Room-4
           locked: false
     Owasp:
       no-time:
         - name: GPG Infrastructure for OWASP
           url: /Working-Sessions/Owasp/GPG-Infrastructure-for-OWASP.html
-          track: Owasp
+          location: no-location
           locked: false
     no-track:
       no-time:
         - name: JIRA Risk Workflow
           url: /Working-Sessions/DevSecOps/JIRA-Risk-Workflow.html
-          track: no-track
+          location: no-location
           locked: false
         - name: The Future of Privacy
           url: /Working-Sessions/The-future-of-privacy.html
-          track: no-track
+          location: no-location
           locked: false
     Mobile Security:
       AM-1:
         - name: MSTG Book Sprint - Android Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_03.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-1:
         - name: MSTG Book Sprint - Android Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_03.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-2:
         - name: MSTG Book Sprint - Android Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_03.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-3:
         - name: MSTG Book Sprint - Android Testing Guide
           url: /Working-Sessions/Mobile-Security/MSTG_03.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
     Security Crowdsourcing:
       no-time:
         - name: OWASP Bug Bounty
           url: /Working-Sessions/Security-Crowdsourcing/Owasp-Bug-Bounty.html
-          track: Security Crowdsourcing
+          location: no-location
           locked: false
     Owasp Projects:
       no-time:
         - name: Owasp Orizon Reboot
           url: /Working-Sessions/Owasp-Projects/Orizon-Reboot.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: Webgoat
           url: /Working-Sessions/Owasp-Projects/WebGoat.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: ZAP
           url: /Working-Sessions/Owasp-Projects/ZAP.html
-          track: Owasp Projects
+          location: no-location
           locked: false
     DevSecOps:
       no-time:
         - name: Security Guidance and Feedback in IDE
           url: >-
             /Working-Sessions/DevSecOps/Security-Guidance-and-Feedback-in-IDE.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
-          track: DevSecOps
+          location: no-location
           locked: false
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
-          track: DevSecOps
+          location: no-location
           locked: false
     Threat Model:
       no-time:
         - name: Threat Modeling OWASP Pages
           url: /Working-Sessions/Threat-Model/Threat-Model-Owasp-Pages.html
-          track: Threat Model
+          location: no-location
           locked: false
         - name: Threat Modeling Scaling and Security Champions
           url: /Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html
-          track: Threat Model
+          location: no-location
           locked: false
         - name: Using JIRA and Confluence to Store Threat Model Data
           url: >-
             /Working-Sessions/Threat-Model/Using-JIRA-and-Confluence-to-Store-Threat-Model-Data.html
-          track: Threat Model
+          location: no-location
           locked: false
   Fri:
     Security Playbooks:
       no-time:
         - name: Bug Bounty Playbook
           url: /Working-Sessions/Security-Playbooks/Bug-Bounty-Playbook.html
-          track: Security Playbooks
+          location: no-location
           locked: false
         - name: DoS Playbook
           url: /Working-Sessions/Security-Playbooks/DoS-Playbook.html
-          track: Security Playbooks
+          location: no-location
           locked: false
         - name: Due Diligence Playbook
           url: /Working-Sessions/Security-Playbooks/Due-Diligence-Playbook.html
-          track: Security Playbooks
+          location: no-location
           locked: false
         - name: Ransomware Playbook
           url: /Working-Sessions/Security-Playbooks/Ransomware-Playbook.html
-          track: Security Playbooks
+          location: no-location
           locked: false
     Threat Model:
       no-time:
         - name: Diffing and Version Control Threat Models
           url: >-
             /Working-Sessions/Threat-Model/Diffing-and-Version-Control-Threat-Models.html
-          track: Threat Model
+          location: no-location
           locked: false
     Research:
       no-time:
         - name: Future of .Net Containers
           url: /Working-Sessions/Research/Future-of-.Net-Containers.html
-          track: Research
+          location: no-location
           locked: false
         - name: GraphQL Security Review
           url: /Working-Sessions/Research/GraphQL-Security-Review.html
-          track: Research
+          location: no-location
           locked: false
         - name: Using ML and AI to detect Attacks
           url: /Working-Sessions/Research/Using-ML-and-AI-to-detect-attacks.html
-          track: Research
+          location: no-location
           locked: false
     Owasp Projects:
       no-time:
         - name: IAM for REST APIs
           url: /Working-Sessions/Owasp-Projects/IAM-for-REST-APIs.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: OWASP Game Security Framework
           url: /Working-Sessions/Owasp-Projects/Game-Security-Framework.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: OWASP Internet of Things Project
           url: /Working-Sessions/IoT/Internet-of-Things-Project.html
-          track: Owasp Projects
+          location: no-location
           locked: false
         - name: OWASP Risk Rating Management Project
           url: /Working-Sessions/Owasp-Projects/Risk-Rating-Management.html
-          track: Owasp Projects
+          location: no-location
           locked: false
     Mobile Security:
       AM-1:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
           url: /Working-Sessions/Mobile-Security/MSTG_05.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-1:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
           url: /Working-Sessions/Mobile-Security/MSTG_05.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-2:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
           url: /Working-Sessions/Mobile-Security/MSTG_05.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-3:
         - name: MSTG Book Sprint - Reverse Engineering and Cracking
           url: /Working-Sessions/Mobile-Security/MSTG_05.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
     Education:
       no-time:
         - name: Role of Security Certification
           url: /Working-Sessions/Education/Role-of-Security-Certifications.html
-          track: Education
+          location: no-location
           locked: false
     Tools:
       no-time:
         - name: Scaling Static Analysis Reviews and Deployments
           url: >-
             /Working-Sessions/Tools/Scaling-Static-Analysis-Reviews-and-Deployments.html
-          track: Tools
+          location: no-location
           locked: false
     Owasp Top 10 2017:
       no-time:
         - name: Sign Ceremony for Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Sign-Ceremony-for-Owasp-Top-10-2017.html
-          track: Owasp Top 10 2017
+          location: no-location
           locked: false
   Mon:
     Owasp Projects:
       PM-3:
         - name: Cheat Sheets
           url: /Working-Sessions/Owasp-Projects/Cheatsheets.html
-          track: Owasp Projects
+          location: Room-1
           locked: false
         - name: Juice Shop
           url: /Working-Sessions/Owasp-Projects/Juice-Shop.html
-          track: Owasp Projects
+          location: Room-3
           locked: false
       PM-1:
         - name: Dependency Check
           url: /Working-Sessions/Owasp-Projects/Dependency-Check.html
-          track: Owasp Projects
+          location: Room-3
           locked: false
       PM-2:
         - name: GitHub Organization Reboot
           url: /Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html
-          track: Owasp Projects
+          location: Room-3
           locked: false
     Owasp Top 10 2017:
       PM-3:
         - name: Data behind Owasp Top 10 2017
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html
-          track: Owasp Top 10 2017
+          location: Room-2
           locked: false
         - name: Top 10 Selection Criteria
           url: /Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html
-          track: Owasp Top 10 2017
+          location: Room-2
           locked: false
       PM-1:
         - name: Is the Owasp Top 10 Data Collection Open
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Is-the-Owasp-Top-Data-Collection-Open.html
-          track: Owasp Top 10 2017
+          location: Room-2
           locked: false
       PM-2:
         - name: Recommending ESAPI in Top 10
           url: >-
             /Working-Sessions/Owasp-Top-10-2017/Recommending-ESAPI-in-Top-10.html
-          track: Owasp Top 10 2017
+          location: Room-2
           locked: false
     CISO:
       PM-1:
         - name: GDPR and DPO AppSec implications
           url: /Working-Sessions/CISO/GDRP-DPO-and-AppSec.html
-          track: CISO
+          location: Room-4
           locked: false
       PM-2:
         - name: Growing the AppSec Industry
           url: /Working-Sessions/CISO/Growing-the-AppSec-Industry.html
-          track: CISO
+          location: Room-4
           locked: false
       PM-3:
         - name: Mobilising Business Lines for Security
           url: /Working-Sessions/CISO/Mobilising-Business-Lines-for-Security.html
-          track: CISO
+          location: Room-4
           locked: false
     Mobile Security:
       AM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-1:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-2:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
       PM-3:
         - name: MSTG Book Sprint - Mobile Operating Systems
           url: /Working-Sessions/Mobile-Security/MSTG_01.html
-          track: Mobile Security
+          location: Villa-2
           locked: false
     Security Playbooks:
       PM-1:
         - name: Playbooks Common Format
           url: /Working-Sessions/Security-Playbooks/Playbooks-Common-Format.html
-          track: Security Playbooks
+          location: Room-5
           locked: false
       PM-3:
         - name: Playbooks vs Handbooks
           url: /Working-Sessions/Security-Playbooks/Playbooks-vs-Handbooks.html
-          track: Security Playbooks
+          location: Room-5
           locked: false
       PM-2:
         - name: Security Playbooks Diagrams
           url: >-
             /Working-Sessions/Security-Playbooks/Security-Playbooks-Diagrams.html
-          track: Security Playbooks
+          location: Room-5
           locked: false
     Agile AppSec:
       PM-2:
         - name: Security Guild vs Security Champions
           url: >-
             /Working-Sessions/Agile-AppSec/Security-Guild-vs-Security-Champions.html
-          track: Agile AppSec
+          location: Room-1
           locked: false
     DevSecOps:
       PM-1:
         - name: TLS for Local IoT
           url: /Working-Sessions/IoT/TLS-for-Local-IoT.html
-          track: DevSecOps
+          location: Room-1
           locked: 'true'
     Threat Model:
       PM-1:
         - name: Threat Modeling Diagramming Techniques
           url: >-
             /Working-Sessions/Threat-Model/Threat-Modeling-Diagramming-Techniques.html
-          track: Threat Model
+          location: Room-6
           locked: false
       PM-2:
         - name: Threat Modeling Schema
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Schema.html
-          track: Threat Model
+          location: Room-6
           locked: false
       PM-3:
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
-          track: Threat Model
+          location: Room-6
+          locked: false
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
+          location: Room-6
           locked: false
 by_Participant:
   Steven Wierckx:
@@ -1795,7 +1821,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-          track: ''
+          track: no-track
           locked: false
   Helen Bravo:
     no-day:
@@ -2311,7 +2337,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
-          track: ''
+          track: no-track
           locked: false
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
@@ -2376,7 +2402,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
-          track: ''
+          track: no-track
           locked: false
         - name: Writing Security Tests
           url: /Working-Sessions/DevSecOps/Writing-Security-Tests.html
@@ -2414,6 +2440,14 @@ by_Participant:
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-1:
         - name: A7 - Insufficient Attack Protection
           url: >-
@@ -2448,10 +2482,10 @@ by_Participant:
           status: review-content
           track: Owasp Top 10 2017
           locked: false
-      no-time:
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -2477,7 +2511,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-          track: ''
+          track: no-track
           locked: false
     Wed:
       no-time:
@@ -2494,7 +2528,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
-          track: ''
+          track: no-track
           locked: false
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
@@ -3119,7 +3153,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-          track: ''
+          track: no-track
           locked: false
       Eve:
         - name: Closing party
@@ -3127,7 +3161,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: ''
-          track: ''
+          track: no-track
           locked: false
     Wed:
       AM-1:
@@ -3152,7 +3186,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
-          track: ''
+          track: no-track
           locked: false
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
@@ -3177,17 +3211,17 @@ by_Participant:
           status: review-content
           track: Education
           locked: false
-      no-time:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: improve-content
           track: Threat Model
           locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -3482,6 +3516,13 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
+        - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
+          location: Room-6
+          mode: participating
+          status: improve-content
+          track: Threat Model
+          locked: false
       AM-1:
         - name: Draft SAMM2 - the "DevOps release"
           url: /Working-Sessions/OwaspSAMM/Draft-SAMM2-the-DevOps-release.html
@@ -3489,6 +3530,22 @@ by_Participant:
           mode: participating
           status: draft
           track: OwaspSAMM
+          locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
           locked: false
       PM-3:
         - name: Implications of Owasp Top 10 2017
@@ -3514,23 +3571,17 @@ by_Participant:
           status: review-content
           track: Education
           locked: false
-        - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          location: no-location
-          mode: participating
-          status: improve-content
-          track: Threat Model
-          locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
           locked: false
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -3705,6 +3756,14 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-2:
         - name: Integrating Security into a Portfolio Kanban
           url: >-
@@ -3714,28 +3773,30 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
-      no-time:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: improve-content
           track: Threat Model
           locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
           locked: false
+      Eve:
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Threat Model
           locked: false
+      no-time:
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
@@ -3802,6 +3863,14 @@ by_Participant:
           status: review-content
           track: Threat Model
           locked: false
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
   Mamta Vuppu:
     Tue:
       PM-1:
@@ -3830,14 +3899,15 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
-      no-time:
+      Eve:
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Threat Model
           locked: false
+      no-time:
         - name: Using Security Risks to Measure Agile Practices
           url: >-
             /Working-Sessions/Agile-AppSec/Using-Security-Risks-to-Measure-Agile-Practices.html
@@ -3875,6 +3945,14 @@ by_Participant:
       PM-3:
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
           location: Room-6
           mode: participating
           status: review-content
@@ -3949,7 +4027,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
     no-day:
       no-time:
@@ -4090,9 +4168,10 @@ by_Participant:
           status: review-content
           track: Owasp Projects
           locked: false
+      Eve:
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Threat Model
@@ -4128,6 +4207,14 @@ by_Participant:
           location: Room-6
           mode: participating
           status: draft
+          track: Threat Model
+          locked: false
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
+          location: Room-6
+          mode: participating
+          status: review-content
           track: Threat Model
           locked: false
     Fri:
@@ -4270,7 +4357,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
       Eve:
         - name: Closing party
@@ -4278,7 +4365,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: ''
-          track: ''
+          track: no-track
           locked: false
     Tue:
       AM-1:
@@ -4313,16 +4400,18 @@ by_Participant:
           status: review-content
           track: Agile AppSec
           locked: false
+      PM-2:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: improve-content
           track: Threat Model
           locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -4493,10 +4582,10 @@ by_Participant:
           status: review-content
           track: Owasp Top 10 2017
           locked: false
-      no-time:
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -4706,6 +4795,13 @@ by_Participant:
           status: review-content
           track: Education
           locked: false
+        - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
+          location: Room-6
+          mode: participating
+          status: improve-content
+          track: Threat Model
+          locked: false
       AM-1:
         - name: Define Agile Security Practices
           url: /Working-Sessions/Agile-AppSec/Define-Agile-Security-Practices.html
@@ -4713,6 +4809,14 @@ by_Participant:
           mode: participating
           status: review-content
           track: Agile AppSec
+          locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
           locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
@@ -4723,17 +4827,10 @@ by_Participant:
           status: review-content
           track: Threat Model
           locked: false
-      no-time:
-        - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
-          url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          location: no-location
-          mode: participating
-          status: improve-content
-          track: Threat Model
-          locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -5004,6 +5101,15 @@ by_Participant:
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      AM-1:
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
@@ -5040,17 +5146,18 @@ by_Participant:
           status: review-content
           track: Education
           locked: false
-      no-time:
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
           locked: false
+      Eve:
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Threat Model
@@ -5077,6 +5184,14 @@ by_Participant:
       PM-3:
         - name: Threat Modeling Tools
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Tools.html
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
           location: Room-6
           mode: participating
           status: review-content
@@ -5116,7 +5231,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
-          track: ''
+          track: no-track
           locked: false
         - name: Threat and Vulnerability Management
           url: /Working-Sessions/DevSecOps/Threat-Vuln-Management.html
@@ -5293,7 +5408,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-          track: ''
+          track: no-track
           locked: false
     Mon:
       PM-2:
@@ -5514,7 +5629,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
   Marco Morana:
     Wed:
@@ -5559,7 +5674,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: done
-          track: ''
+          track: no-track
           locked: false
     Mon:
       PM-3:
@@ -5725,6 +5840,15 @@ by_Participant:
           track: Threat Model
           locked: false
     Tue:
+      AM-1:
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
@@ -5734,17 +5858,18 @@ by_Participant:
           status: review-content
           track: Threat Model
           locked: false
-      no-time:
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
           locked: false
+      Eve:
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: review-content
           track: Threat Model
@@ -5757,6 +5882,14 @@ by_Participant:
           location: Room-6
           mode: participating
           status: draft
+          track: Threat Model
+          locked: false
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
+          location: Room-6
+          mode: participating
+          status: review-content
           track: Threat Model
           locked: false
     Thu:
@@ -5773,7 +5906,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-          track: ''
+          track: no-track
           locked: false
   Tal Argoni:
     Wed:
@@ -5812,7 +5945,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
-          track: ''
+          track: no-track
           locked: false
         - name: 'Best practices in using SAST, DAST, IAST and RASP Tools'
           url: /Working-Sessions/Tools/Sast-Dast-Iast-Rasp.html
@@ -5826,7 +5959,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
-          track: ''
+          track: no-track
           locked: false
     Mon:
       PM-3:
@@ -5854,6 +5987,14 @@ by_Participant:
           mode: participating
           status: draft
           track: OwaspSAMM
+          locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
           locked: false
       PM-3:
         - name: Implications of Owasp Top 10 2017
@@ -5945,7 +6086,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
-          track: ''
+          track: no-track
           locked: false
     Mon:
       PM-3:
@@ -6006,7 +6147,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
-          track: ''
+          track: no-track
           locked: false
     Fri:
       no-time:
@@ -6024,7 +6165,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
   Stephen de Vries:
     Tue:
@@ -6043,6 +6184,14 @@ by_Participant:
           status: review-content
           track: DevSecOps
           locked: false
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
@@ -6052,17 +6201,18 @@ by_Participant:
           status: review-content
           track: Threat Model
           locked: false
-      no-time:
+      PM-2:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: improve-content
           track: Threat Model
           locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -6109,7 +6259,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
     no-day:
       no-time:
@@ -6210,7 +6360,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
-          track: ''
+          track: no-track
           locked: false
         - name: Webgoat
           url: /Working-Sessions/Owasp-Projects/WebGoat.html
@@ -6254,7 +6404,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
   Jason Haddix:
     Fri:
@@ -6314,7 +6464,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: draft
-          track: ''
+          track: no-track
           locked: false
     Fri:
       no-time:
@@ -6333,7 +6483,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: ''
-          track: ''
+          track: no-track
           locked: false
   All:
     Thu:
@@ -6343,7 +6493,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: ''
-          track: ''
+          track: no-track
           locked: false
   ABC:
     Tue:
@@ -6396,7 +6546,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
   Claudia Casanovas:
     Mon:
@@ -6479,6 +6629,15 @@ by_Participant:
           status: review-content
           track: Owasp Top 10 2017
           locked: false
+      AM-1:
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
@@ -6496,16 +6655,17 @@ by_Participant:
           status: review-content
           track: Owasp Projects
           locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
           locked: false
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -6757,7 +6917,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: review-content
-          track: ''
+          track: no-track
           locked: false
   PhotoBox:
     Fri:
@@ -6791,7 +6951,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
-          track: ''
+          track: no-track
           locked: false
     Tue:
       no-time:
@@ -6810,7 +6970,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
-          track: ''
+          track: no-track
           locked: false
         - name: Security Architecture Recommendations for IoT
           url: >-
@@ -6818,7 +6978,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: draft
-          track: ''
+          track: no-track
           locked: false
     Fri:
       no-time:
@@ -6895,6 +7055,15 @@ by_Participant:
           locked: false
   Geoff Hill:
     Tue:
+      AM-1:
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: organizing
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
@@ -6915,6 +7084,15 @@ by_Participant:
           locked: false
   Denis Pilipchuk:
     Tue:
+      AM-1:
+        - name: Lightweight Threat Modeling Process
+          url: >-
+            /Working-Sessions/Threat-Model/Lightweight-Threat-Modeling-Process.html
+          location: Room-1
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
       PM-1:
         - name: Lightweight Threat Modeling Process
           url: >-
@@ -6924,10 +7102,10 @@ by_Participant:
           status: review-content
           track: Threat Model
           locked: false
-      no-time:
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -7624,21 +7802,22 @@ by_Participant:
           location: no-location
           mode: participating
           status: done
-          track: ''
+          track: no-track
           locked: false
   Tony UV:
     Tue:
-      no-time:
+      PM-2:
         - name: Threat Modeling Cheat Sheet & Lightweight Threat Modeling
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Cheat-Sheet.html
-          location: no-location
+          location: Room-6
           mode: organizing
           status: improve-content
           track: Threat Model
           locked: false
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: organizing
           status: featured
           track: Threat Model
@@ -7663,10 +7842,10 @@ by_Participant:
           track: Threat Model
           locked: false
     Tue:
-      no-time:
+      AM1:
         - name: Threat Modeling Templates
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Templates.html
-          location: no-location
+          location: Room-6
           mode: participating
           status: featured
           track: Threat Model
@@ -7681,11 +7860,20 @@ by_Participant:
           status: review-content
           track: Threat Model
           locked: false
-    Tue:
-      no-time:
+    Mon:
+      Eve:
         - name: Threat Modeling Where do I Start?
           url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
-          location: no-location
+          location: Room-6
+          mode: participating
+          status: review-content
+          track: Threat Model
+          locked: false
+    Tue:
+      Eve:
+        - name: Threat Modeling Where do I Start?
+          url: /Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html
+          location: Room-6
           mode: participating
           status: review-content
           track: Threat Model
@@ -7718,7 +7906,7 @@ by_Participant:
           location: no-location
           mode: organizing
           status: review-content
-          track: ''
+          track: no-track
           locked: false
   Scott Treacy:
     no-day:
@@ -7748,7 +7936,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
   Lisa Raynaud:
     Thu:
@@ -7758,7 +7946,7 @@ by_Participant:
           location: no-location
           mode: participating
           status: Done
-          track: ''
+          track: no-track
           locked: false
   Simon Bennetts:
     Wed:

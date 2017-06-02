@@ -1,15 +1,31 @@
 
+<!--mixin show-room-->
+<!--    td.text-center-->
+<!--        .room-name {{ site.data.venue[room].name }}-->
+<!--        .room-key {{ room }}-->
+<!--    td-->
+<!--        | {% assign time = 'AM-1'  %}-->
+<!--        + show-session-at-time-->
+<!--    td-->
+<!--        | {% assign time = 'PM-1'  %}-->
+<!--        + show-session-at-time-->
+<!--    td-->
+<!--        | {% assign time = 'PM-2'  %}-->
+<!--        + show-session-at-time-->
+<!--    td-->
+<!--        | {% assign time = 'PM-3'  %}-->
+<!--        + show-session-at-time-->
+<!--    td-->
+<!--        | {% assign time = 'Eve'  %}-->
+<!--        + show-session-at-time-->
+<!--    td-->
+<!--        | {% assign time = 'no-time'  %}-->
+<!--        + show-session-at-time-->
 <div class="page-content">
   <div class="schedule">
     <h3>{{ page.title }}</h3>
     <hr/>
-    <ul><b>Daily Schedule: &#32;&#32;&#32;</b><a href="./Mon.html">Monday</a><span>&#32;|&#32;</span><a href="./Tue.html">Tuesday</a><span>&#32;|&#32;</span>
-      <!--a(href='./Wed.html') Wednesday-->
-      <!--span &#32;|&#32;-->
-      <!--a(href='./Thu.html' ) Thursday-->
-      <!--span &#32;|&#32;-->
-      <!--a(href='./Fri.html'   ) Friday--><span>&#32;|&#32;Back to &#32;</span><a href="/pages/schedule">Schedule list</a>
-    </ul>
+    <ul><b>Daily Schedule: &#32;&#32;&#32;</b><a href="./Mon.html">Monday</a><span>&#32;|&#32;</span><a href="./Tue.html">Tuesday</a><span>&#32;|&#32;</span><a href="./Wed.html">Wednesday</a><span>&#32;|&#32;</span><a href="./Thu.html">Thursday</a><span>&#32;|&#32;</span><a href="./Fri.html">Friday</a><span>&#32;|&#32;Back to &#32;</span><a href="/pages/schedule">Schedule list</a></ul>
     <hr/>
     <table class="table">
       <thead>
@@ -37,307 +53,48 @@
         <th class="text-center">
           <h4>(no-time)</h4>
         </th>
-      </thead>
-      <tr>{% assign room = 'Room-1'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'Room-2'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'Room-3'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'Room-4'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'Room-5'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'Room-6'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'Villa-1'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'Villa-2'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'Villa-3'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
-      <tr>{% assign room = 'no-location'  %}{% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-        <td class="text-center">
-          <div class="room-name">{{ site.data.venue[room].name }}</div>
-          <div class="room-key">{{ room }}</div>
-        </td>
-        <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-        <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ session.track }}</div>{% endfor                                     %}
-        </td>
-      </tr>
+      </thead>{% assign tracks = site.data.mapped.schedule.by_Track[page.day] %}
+      {% assign times = "AM-1,PM-1,PM-2,PM-3,Eve,no-time" | split: ',' %}
+      {% for track in tracks %}
+      <tr>
+        <td class="text-center">{{ track[0] }}</td>{% for time in times %}
+        <td>{% for session in track[1][time]              %}
+          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked                      %}<span class="glyphicon glyphicon-lock"></span>{% endif                                  %}</div>
+          <div class="track-info">{{ session.location }}</div>{% endfor                                     %}
+        </td>{% endfor%}
+        <!--    + show-room-->
+      </tr>{% endfor %}
+      <!--tr-->
+      <!--    | {% assign room = 'Room-1'  %}-->
+      <!--    + show-room-->
+      <!--tr-->
+      <!--    | {% assign room = 'Room-2'  %}-->
+      <!--    + show-room-->
+      <!--tr-->
+      <!--    | {% assign room = 'Room-3'  %}-->
+      <!--    + show-room-->
+      <!--tr-->
+      <!--    | {% assign room = 'Room-4'  %}-->
+      <!--    + show-room-->
+      <!--tr-->
+      <!--    | {% assign room = 'Room-5'  %}-->
+      <!--    + show-room-->
+      <!--tr-->
+      <!--    | {% assign room = 'Room-6'  %}-->
+      <!--    + show-room-->
+      <!--tr-->
+      <!--    | {% assign room = 'Villa-1'  %}-->
+      <!--    + show-room-->
+      <!--tr-->
+      <!--    | {% assign room = 'Villa-2'  %}-->
+      <!--    + show-room-->
+      <!--tr-->
+      <!--    | {% assign room = 'Villa-3'  %}-->
+      <!--    + show-room-->
+      <!---->
+      <!--tr-->
+      <!--    | {% assign room = 'no-location'  %}-->
+      <!--    + show-room-->
     </table>
   </div>
 </div>

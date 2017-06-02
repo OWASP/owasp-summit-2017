@@ -16,8 +16,8 @@ See [Summit Schedule](./summit-schedule.html) for a mapping of all Working Sessi
 * [Thursday](./Thu.html)
 * [Friday](./Fri.html)
 
-<!--**By Track**
-* [Monday](./by-track/Mon.html)-->
+**By Track**
+* [Monday](./by-track/Mon.html)
 
 ### Track's Schedules
 

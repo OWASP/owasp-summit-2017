@@ -1298,7 +1298,7 @@
         {
           "name": "Threat Modeling Where do I Start?",
           "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html",
-          "when-day": "Tue",
+          "when-day": "Mon,Tue",
           "status": "review-content"
         }
       ],

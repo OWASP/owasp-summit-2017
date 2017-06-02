@@ -1,36 +1,41 @@
 mixin show-session-at-time
-    | {% for session in day_Data[time]              %}
+    | {% for session in track[1][time]              %}
     div
         a(href="{{session.url}}") {{ session.name }}
-        | {% if session.locked %}
+        | {% if session.locked                      %}
         span.glyphicon.glyphicon-lock
-        | {% endif             %}
-    .track-info {{ session.track }}
+        | {% endif                                  %}
+    .track-info {{ session.location }}
     | {% endfor                                     %}
 
-mixin show-room
-    | {% assign day_Data = site.data.mapped.schedule.by_Track[page.day][room] %}
-    td.text-center
-        .room-name {{ site.data.venue[room].name }}
-        .room-key {{ room }}
+mixin show-track
+    td.text-center {{ track[0] }}
+    | {% for time in times %}
     td
-        | {% assign time = 'AM-1'  %}
         + show-session-at-time
-    td
-        | {% assign time = 'PM-1'  %}
-        + show-session-at-time
-    td
-        | {% assign time = 'PM-2'  %}
-        + show-session-at-time
-    td
-        | {% assign time = 'PM-3'  %}
-        + show-session-at-time
-    td
-        | {% assign time = 'Eve'  %}
-        + show-session-at-time
-    td
-        | {% assign time = 'no-time'  %}
-        + show-session-at-time
+    | {% endfor%}
+//mixin show-room
+//    td.text-center
+//        .room-name {{ site.data.venue[room].name }}
+//        .room-key {{ room }}
+//    td
+//        | {% assign time = 'AM-1'  %}
+//        + show-session-at-time
+//    td
+//        | {% assign time = 'PM-1'  %}
+//        + show-session-at-time
+//    td
+//        | {% assign time = 'PM-2'  %}
+//        + show-session-at-time
+//    td
+//        | {% assign time = 'PM-3'  %}
+//        + show-session-at-time
+//    td
+//        | {% assign time = 'Eve'  %}
+//        + show-session-at-time
+//    td
+//        | {% assign time = 'no-time'  %}
+//        + show-session-at-time
 
 .page-content
     .schedule
@@ -43,11 +48,11 @@ mixin show-room
             span &#32;|&#32;
             a(href='./Tue.html'  ) Tuesday
             span &#32;|&#32;
-            //a(href='./Wed.html') Wednesday
-            //span &#32;|&#32;
-            //a(href='./Thu.html' ) Thursday
-            //span &#32;|&#32;
-            //a(href='./Fri.html'   ) Friday
+            a(href='./Wed.html') Wednesday
+            span &#32;|&#32;
+            a(href='./Thu.html' ) Thursday
+            span &#32;|&#32;
+            a(href='./Fri.html'   ) Friday
             span &#32;|&#32;Back to &#32;
             a(href='/pages/schedule') Schedule list
 
@@ -73,34 +78,44 @@ mixin show-room
                     .day-time 20:00 to 23:59
                 th.text-center
                     h4 (no-time)
-            tr
-                | {% assign room = 'Room-1'  %}
-                + show-room
-            tr
-                | {% assign room = 'Room-2'  %}
-                + show-room
-            tr
-                | {% assign room = 'Room-3'  %}
-                + show-room
-            tr
-                | {% assign room = 'Room-4'  %}
-                + show-room
-            tr
-                | {% assign room = 'Room-5'  %}
-                + show-room
-            tr
-                | {% assign room = 'Room-6'  %}
-                + show-room
-            tr
-                | {% assign room = 'Villa-1'  %}
-                + show-room
-            tr
-                | {% assign room = 'Villa-2'  %}
-                + show-room
-            tr
-                | {% assign room = 'Villa-3'  %}
-                + show-room
 
+            | {% assign tracks = site.data.mapped.schedule.by_Track[page.day] %}
+            | {% assign times = "AM-1,PM-1,PM-2,PM-3,Eve,no-time" | split: ',' %}
+
+
+            | {% for track in tracks %}
             tr
-                | {% assign room = 'no-location'  %}
-                + show-room
+                + show-track
+                //    + show-room
+            | {% endfor %}
+            //tr
+            //    | {% assign room = 'Room-1'  %}
+            //    + show-room
+            //tr
+            //    | {% assign room = 'Room-2'  %}
+            //    + show-room
+            //tr
+            //    | {% assign room = 'Room-3'  %}
+            //    + show-room
+            //tr
+            //    | {% assign room = 'Room-4'  %}
+            //    + show-room
+            //tr
+            //    | {% assign room = 'Room-5'  %}
+            //    + show-room
+            //tr
+            //    | {% assign room = 'Room-6'  %}
+            //    + show-room
+            //tr
+            //    | {% assign room = 'Villa-1'  %}
+            //    + show-room
+            //tr
+            //    | {% assign room = 'Villa-2'  %}
+            //    + show-room
+            //tr
+            //    | {% assign room = 'Villa-3'  %}
+            //    + show-room
+            //
+            //tr
+            //    | {% assign room = 'no-location'  %}
+            //    + show-room

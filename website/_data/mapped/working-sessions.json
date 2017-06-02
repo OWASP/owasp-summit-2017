@@ -4337,7 +4337,7 @@
       "track": "Threat Model",
       "status": "review-content",
       "when-day": "Tue",
-      "when-time": "PM-1",
+      "when-time": "AM-1,PM-1",
       "location": "Room-1",
       "organizers": [
         "Geoff Hill"
@@ -7959,6 +7959,8 @@
       "description": "OWASP cheat sheet will provide prescriptive guidance on threat modeling activities, tasks, and output deliverables that should be produced as part of one of three varying methodologies (software centric, security centric, risk centric approaches) and tailored to application environments that are domain agnostic.",
       "status": "improve-content",
       "when-day": "Tue",
+      "when-time": "PM-2",
+      "location": "Room-6",
       "organizers": [
         "Tony UV"
       ],
@@ -8350,6 +8352,8 @@
       "description": "OWASP Threat Modeling Templates will provide templates for addressing applications templates for which participants can leverage as starter kits for their respective threat modeling efforts.  The intent is to develop, maintain, and enhance a suite of templates that cover different application types, deployment models to which multiple MNCs across various industries can leverage within their respective AppSec groups.",
       "status": "featured",
       "when-day": "Tue",
+      "when-time": "AM1",
+      "location": "Room-6",
       "organizers": [
         "Tony UV"
       ],
@@ -8537,12 +8541,13 @@
       "layout": "blocks/working-session",
       "title": "Threat Modeling Where do I Start?",
       "type": "workshop",
-      "owasp-project": "no",
       "track": "Threat Model",
       "technology": "",
       "related-to": [],
       "status": "review-content",
-      "when-day": "Tue",
+      "when-day": "Mon,Tue",
+      "when-time": "Eve",
+      "location": "Room-6",
       "organizers": [],
       "participants": [
         "Robert Hurlbut",
