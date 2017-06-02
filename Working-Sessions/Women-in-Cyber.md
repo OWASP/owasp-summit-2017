@@ -11,7 +11,7 @@ related-to   :
 status       : Done
 when-day     : Thu
 organizers   :
-participants : Neil Barlow,ade yoseman putra,Francois Raynaud,Lisa Raynaud
+participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari
 ---
 
 
