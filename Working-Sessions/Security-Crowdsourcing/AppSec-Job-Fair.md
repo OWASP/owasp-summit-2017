@@ -9,7 +9,7 @@ related-to   : Recruiting AppSec Talent,Role of Security Certification,Crowdsour
 status       : review-content
 when-day     : Eve
 organizers   :
-participants : Ross Tanner,Francois Raynaud
+participants : Ross Tanner,Francois Raynaud,Ade Yoseman Putra
 ---
 
 ## Why
