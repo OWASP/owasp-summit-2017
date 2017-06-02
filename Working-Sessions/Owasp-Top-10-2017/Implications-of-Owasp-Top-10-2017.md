@@ -6,6 +6,8 @@ owasp-project: yes
 track        : Owasp Top 10 2017
 status       : review-content
 when-day     : Tue
+when-time    : PM-3
+location     : Room-2
 organizers   : Dave Wichers
 participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria,Mateo Martinez,Francois Raynaud
 ---

@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Tue
+when-time    : AM-1
+location     : Room-4
 organizers   : Stephen de Vries
 participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud,Stephen de Vries,Johan Peeters
 ---

@@ -1,6 +1,6 @@
 ---
 layout       : blocks/page-component
 component    : schedule/summit.html
-title        : Threat Model Schedule
+title        : Summit Schedule
 type         : schedule
 ---

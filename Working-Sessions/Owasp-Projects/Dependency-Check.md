@@ -8,6 +8,8 @@ status       : more-content
 track        : Owasp Projects
 owasp-project: yes
 when-day     : Mon
+when-time    : PM-1
+location     : Room-3
 organizers   : Steve Springett
 participants : Johan Peeters
 ---

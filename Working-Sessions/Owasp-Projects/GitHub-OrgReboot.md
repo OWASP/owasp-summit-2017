@@ -6,6 +6,8 @@ track        : Owasp Projects
 status       : featured
 description  : The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them.
 when-day     : Mon
+when-time    : PM-2
+location     : Room-3
 organizers   : Bjoern Kimminich
 participants :
 ---

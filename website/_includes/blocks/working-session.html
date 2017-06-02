@@ -1,69 +1,34 @@
-
+{% assign data = site.data.mapped.working-sessions[page.title]   %}
 <div class="working-session">
   <div class="container">
     <h1>{{ page.title }}</h1>
-    <div class="ws-metadata">{% if page.track != null %}
-      <p>Track: &#32;<a href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}">{{ page.track }}</a></p>{% endif %}
-      {% if page.technology != null %}
-      {% assign technologies = page.technology | split: ',' %}
-      <p>
-        Technology: &#32;
-        {% for technology in technologies %}
-          {% assign match = site.pages | where: 'title', technology %}
-          {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span> {{ technology }}</span>  {% endif %}
-          {% if forloop.last != true %}<span>,</span>  {% endif %}
-        {% endfor %}
-      </p>{% endif %}
-      {% if page.organizers != null %}
-      {% assign organizers = page.organizers | split: ',' %}
-      <p>
-        Organizer(s): &#32;
-        {% for organizer in organizers %}
-          {% assign match = site.pages | where: 'title', organizer %}
-          {% if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>  {% else %}<span>{{ organizer }}</span>  {% endif %}
-          {% if forloop.last != true %}<span>,</span>  {% endif %}
-        {% endfor %}
-      </p>{% endif %}
-      {% assign ws-participants = "" %}
-      {% assign all-participants = site.pages | where: 'type', 'participant' %}
-      {% for participant in all-participants %}
-      {%    if  participant.working-sessions contains page.title %}
-      {%        assign ws-participants = ws-participants | append: participant.title  | append: ',' %}
-      {%    endif %}
-      {% endfor %}
-      {% assign ws-participants = ws-participants | append: page.participants %}
-      {% if ws-participants != "" %}
-      {%    assign participants = ws-participants | split: ',' %}
-      <p>
-        Participants(s): &#32;
-        {% for participant in participants %}
-        {%    assign match = site.pages | where: 'title', participant %}
-        {%    if match[0] %}<a href="{{match[0].url}}">{{ match[0].title }}</a>{%    else %}<span>{{ participant }}</span>{%    endif %}
-        {%    if forloop.last != true %}<span>,</span>{%    endif %}
-        {% endfor %}
-      </p>{% endif %}{% if page.owasp-project and page.track != 'Project Summit' %}
-      <p>Part of the &#32;<a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a></p>{% endif %}{% if page.when-day %}
-      <p>When: {{ page.when-day }}</p>{% endif %}
+    <div class="ws-metadata">{% if page.track != null %}<b>Track: &#32;</b><a href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}">{{ page.track }}</a>{% endif %}<br/>{% if data.topics.size > 0                    %}<b>Topics: &#32;</b>{%    for topic in data.topics                %}
+      {%        if topic.url                        %}<a href="{{topic .url}}">{{ topic.name }}</a>{%        else                                %}<span>{{ topic.name }}</span>{%        endif                               %}
+      {%        if forloop.last != true %}<span>,</span>{%        endif %}
+      {%    endfor                                  %}
+      {%  endif                                     %}<br/>
+      {% assign title = 'Organizer(s)'              %}
+      {% assign list  = data.organizers             %}{% if list.size > 0                           %}<b>{{title}}: &#32;</b>{%    for item in list                        %}
+      {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
+      {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
+      {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
+      {%    endfor                                  %}<br/>{% endif                                      %}
+      {% assign title = 'Participants(s)'           %}
+      {% assign list  = data.participants           %}{% if list.size > 0                           %}<b>{{title}}: &#32;</b>{%    for item in list                        %}
+      {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
+      {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
+      {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
+      {%    endfor                                  %}<br/>{% endif                                      %}{% if page.owasp-project and page.track != 'Project Summit' %}<b>Part of the &#32;</b><a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a>{% endif %}<br/><b>When: &#32;</b><a href="/pages/schedule/{{data.metadata.when-day}}.html">{{data.metadata.when-day}}</a><br/><b>Time: {{ data.metadata.when-time }}</b><br/><b>Location: {{ data.metadata.location  }}</b><br/>
     </div>
-    <hr/>{{ content }}
-    {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
-    {% assign related-to = page.related-to    %}
-    {%  for working-session in match  %}
-          {% assign related-to = related-to | append: "," | append: working-session.title %}
-    {%    endfor                      %}
-    {% if related-to != null %}
-    <h2>Related Working Session(s)</h2>
+    <hr/>{{ content }}{% if data.related-to.size > 0                 %}
+    <h3>Related Working Session(s)</h3>
     <ul>
-      {%    assign working-sessions = related-to | split: ',' %}
-      {%    for working-session in working-sessions  %}
-      {%        if working-session != ''    %}
-      {%            assign match = site.pages | where: 'title', working-session %}
-      {%            if match[0]             %}
-      <li><a href="{{match[0].url}}">{{ match[0].title }}</a></li>{%            else                    %}
-      <li> {{ working-session }}</li>{%            endif                   %}
-      {%        endif                       %}
-      {%    endfor                          %}
-    </ul>{% endif                                  %}<br/>
+      {%  for working-session in data.related-to  %}
+      {%    if working-session .url                     %}
+      <li><a href="{{working-session .url}}">{{ working-session.name }}</a></li>{%    else                                        %}
+      <li> {{ working-session.name }}</li>{%    endif                                       %}
+      {%  endfor                                        %}
+    </ul>{%  endif                                             %}<br/>
     <hr/>
     <p>Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a></p>
     <p>Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a></p>

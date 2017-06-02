@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Mon
+when-time    : PM-3
+location     : Room-2
 organizers   : Dave Wichers,Josh Grossman
 participants :
 ---

@@ -7,7 +7,7 @@ track        : Agile AppSec
 technology   :
 related-to   : Integrating Security into an Spotify Model
 status       : review-content
-when-day     : Mon
+when-day     : Tue
 when-time    : AM-1
 location     : Room-3
 organizers   : David Clarke

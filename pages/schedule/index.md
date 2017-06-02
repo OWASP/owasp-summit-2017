@@ -30,7 +30,7 @@ any conflicts
 ### Evening Working Sessions
 
 These working
-{% assign evening-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day','Evening'%}
+{% assign evening-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day','Eve'%}
 {% for session in evening-sessions %}* [{{ session.title}}]({{ session.url}})
 {% endfor %}
 
@@ -38,3 +38,9 @@ These working
 ### Consolidated Summit Schedule
 
 Here is the [Summit Schedule](./summit-schedule.html) showing all data from all Tracks
+
+* [Monday](./Mon.html)
+* [Tuesday](./Tue.html)
+* [Wednesday](./Wed.html)
+* [Thursday](./Thu.html)
+* [Friday](./Fri.html)

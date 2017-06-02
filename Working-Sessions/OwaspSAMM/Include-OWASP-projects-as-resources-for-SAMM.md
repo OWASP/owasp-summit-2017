@@ -6,6 +6,8 @@ owasp-project: no
 track        : OwaspSAMM
 status       : draft
 when-day     : Tue
+when-time    : PM-1
+location     : Villa-2
 organizers   : Sebastien Deleersnyder
 participants:
 ---
