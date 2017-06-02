@@ -6,7 +6,7 @@ track        : Threat Model
 technology   :
 related-to   :
 status       : review-content
-when-day     : Mon,Tue
+when-day     : Mon,Tue,Wed,Thu
 when-time    : Eve
 location     : Room-6
 organizers   :
