@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Tue
+when-time    : PM-2
+location     : Room-3
 organizers   : David Clarke
 participants : Ante Gulam,Irene Michlin, Mamta Vuppu
 ---
