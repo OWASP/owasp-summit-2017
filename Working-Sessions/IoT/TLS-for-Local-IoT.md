@@ -84,14 +84,14 @@ Once implemented, IoT and embedded vendors will need to be encouraged to use TLS
 
 Over on https://github.com/rtfcode/tls-srp I have created some supporting info for test/dev:
 * Apache configuration for a TLS-SRP vhost - I know Apache isn't very IoT but it's just a demo.
-** httpd.conf.diff - two changes yo your apache config.
-** httpd-srp.conf - a vhost config using gnutls_module.
-** index.shtml - basic index that reports SRP username.
+* httpd.conf.diff - two changes yo your apache config.
+* httpd-srp.conf - a vhost config using gnutls_module.
+* index.shtml - basic index that reports SRP username.
 * stunnel-5.41-srp.patch - patch to implement client/server SRP in stunnel - useful for testing.
 * stunnel - configs to use the patched stunnel.
-** http2srp.conf - use a normal browser with a TLS-SRP server.
-** srp2http.conf - use a TLS-SRP browser with a normal server.
-** password.srpv - SRP verfier file for server end of stunnel.
+* http2srp.conf - use a normal browser with a TLS-SRP server.
+* srp2http.conf - use a TLS-SRP browser with a normal server.
+* password.srpv - SRP verfier file for server end of stunnel.
 * README.txt - a concise description of all these files and how to make them work.
 
 Using these files/configs, it is possible to turn a non-SRP web server into a SRP web server; simply bind your web server to loopback and run a srp2http stunnel to present TLS-SRP to the network and connect to the web server locally.
