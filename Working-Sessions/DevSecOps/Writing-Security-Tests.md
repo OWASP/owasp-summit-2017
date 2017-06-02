@@ -25,6 +25,10 @@ This Working Session will look at Security Tests, a special type of test that co
  - Instrumenting code to inject payloads
  - Running tests in parallel with builds or in-line
  - Inserting error handling into tests so that tests differentiate between an internal error and test failure
+ 
+## Definition of Done
+
+This Working Session will produce guidelines for writing security tests.
 
 ## Who
 

@@ -10,7 +10,7 @@ when-day    : Tue
 when-time   : PM-2
 location    : Room-6
 organizers  : Tony UV
-participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin, Robert Morschel, Stephen de Vries
+participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin,Robert Morschel,Stephen de Vries,Duncan Hurwood
 ---
 
 

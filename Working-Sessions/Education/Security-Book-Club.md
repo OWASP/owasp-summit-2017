@@ -25,6 +25,11 @@ It's time to share them and have a group-wide 'book club' working session.
  - Review books and share what was special about them
  - Participants to bring 3 books that changed their lives
  - Agree on top 5 or 10 security books to read (maybe create a couple of 'topics')
+ 
+## Definition of Done
+
+This Working Session will publish a list of the top 5 or 10 security books that everyone with an interest in security should read.
+
 
 ## Who
 

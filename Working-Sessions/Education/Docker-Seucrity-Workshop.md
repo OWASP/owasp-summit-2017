@@ -13,17 +13,26 @@ participants :
 Docker, Docker, Docker
 
 ## Why
-As every modern company integrates docker, a workshop is needed to show the potential risks. Most risks are not new, but have higher impacts.
+As every modern company integrates Docker, a workshop is needed to show the potential risks. Most risks are not new, but have higher impacts.
 
 ## What
 As a starting point, the workshop from [Timo Pagel](https://github.com/wurstbrot/docker-security-workshop) will be used. 
 
 ## Outcome
+
 The outcome will be a workshop, integrated into the OWASP Education Project. The hands-on workshop will have:
+
 - a small concept
 - a training environment (e.g. virtualbox/vagrant/docker) and
 - slides
 
+## Definition of Done
+
+--add text--
+
 ## Who
+
+The target audience for this Working Session is:
+
 - Docker Security Experts
-- Users of docker with the wish to learn more about docker
+- Users of Docker who wish to learn more about Docker
