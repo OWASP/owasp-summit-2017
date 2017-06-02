@@ -7,6 +7,8 @@ technology   : IoT
 track        : Threat Model
 status       : draft
 when-day     : Thu
+when-time    : PM-2,PM-3
+location     : Room-6
 organizers   :
 participants :
 ---

@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-1
+location     : Room-6
 organizers   :
 participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu
 ---
