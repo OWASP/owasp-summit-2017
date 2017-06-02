@@ -5,8 +5,8 @@ type            : participant-remote
 job-title       : Veracode
 company         : Veracode
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAALrAAAAJDA0ZTkxYmIwLTZlMmMtNGRiNi04YTYzLTkxNmZhZjg5Y2JjOA.jpg
-linkedin        : https://www.linkedin.com/in/katyanton/
-twiter          : @katyanton
+linkedin        : katyanton/
+twiter          : katyanton
 facebook        :
 website         :
 email           : katy.anton@owasp.org
