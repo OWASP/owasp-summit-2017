@@ -13,7 +13,7 @@ email           : katy.anton@owasp.org
 project-leader  : 
 chapter-leader  : OWASP Bristol
 when-day        :
-status          : empty
+status          : done
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
