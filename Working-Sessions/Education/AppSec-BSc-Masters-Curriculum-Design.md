@@ -7,7 +7,7 @@ track        : Education
 when-day     : Wed
 description  : Part of OWASP's main purpose is to "Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software" and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next generation as well especially with the acknowledged skill shortage in the whole sector that exists.
 organizers   : Adrian Winckles,Felipe Zipitria
-participants : Timo Pagel,Bjoern Kimminich
+participants : Timo Pagel,Bjoern Kimminich,Ade Yoseman Putra
 
 ---
 ## Why
