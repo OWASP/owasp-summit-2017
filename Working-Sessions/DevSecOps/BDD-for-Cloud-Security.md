@@ -25,10 +25,14 @@ Developers, and operations and security teams need to collaborate on building an
 - Find existing tools/solutions that can be used as base implementations, e.g. Netflix's Security Monkey? NCC Group AWS auditor?
 - Link specs to standards (CSA, NIST, etc.)?
 
+## Definition of Done
+
+This Working Session will publish BDD specifications for those requirements (no implementation code, just specs), and will link the specs to CSA, NIST, and other standards.
+
 ## Who
 
 The target audience for this Working Session is:
 
-- Cloud Security Architects
-- Security Teams
+- Cloud Security architects
+- Security teams
 - Cloud Ops
