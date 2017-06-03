@@ -3,11 +3,11 @@ layout          : blocks/page-participant
 title           : Peleus Uhley
 type            : participant
 job-title       : Lead Security Strategist
-company         : Adobe
+company         : Adobe Systems Incorporated
 travel-from     : San Francisco
 image           :
 linkedin        :
-twiter          :
+twiter          : peleusuhley
 facebook        :
 website         :
 email           :
@@ -15,7 +15,7 @@ project-leader  :
 chapter-leader  :
 ticket          : 5x24h
 status          : empty
-working-sessions:
+working-sessions: Security Guild vs Security Champions,Security Champions,Incident Response Playbook,Lessons learned from public bug bounties programmes,Cross-Company Hackathons,Internal Bug Bounties Programmes,Using ML and AI to detect Attacks,Bug Bounty Playbook
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
