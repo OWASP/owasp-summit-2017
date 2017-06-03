@@ -10,7 +10,7 @@ when-day     : Wed
 when-time    : PM-1
 location     : Room-6
 organizers   :
-participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu
+participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström
 ---
 
 This Working Session will explore scaling threat modelling in enterprise.
