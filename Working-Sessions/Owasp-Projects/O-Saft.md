@@ -33,6 +33,14 @@ The Working Session will focus on the internal redesign and some improvements th
 - Build a sophisticated knowledge database with search capabilities (probably using Python NLTK)
 - Is there a need for a GTK-based GUI (i.e. using YAD)?
 
+## Definition of Done
+
+- Updated and more efficient O-Saft
+- Improved tools
+- New knowledge base
+
 ## Who
 
 The target audience for this Working Session is:
+
+--Add text--

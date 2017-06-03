@@ -25,6 +25,10 @@ This Working Session will discuss EASPI (Enterprise Security API), which is reco
  - Review use of ESAPI
  - Map out reasons for continuing to refer to it
  - Create proposal with outcome
+ 
+## Definition of Done
+
+- Proposal for future of OWASP ESAPI project
 
 ## Who
 

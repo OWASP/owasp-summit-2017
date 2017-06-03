@@ -23,32 +23,34 @@ This Working Session will explore how OWASP can gain maximum benefit from its us
 
 ## What
 
-* What makes GitHub so special among its peers?
-* How are other successful OSS organizations using GitHub?
-* How can OWASP use GitHub more to its benefit?
-* How high should the quality bar for OWASP org repositories be in the
+- What makes GitHub so special among its peers?
+- How are other successful OSS organizations using GitHub?
+- How can OWASP use GitHub more to its benefit?
+- How high should the quality bar for OWASP org repositories be in the
   future?
-* What are best practices and user expectations for OSS these days?
-* How can we prevent new erosion after a "tabula rasa" cleanup or
+- What are best practices and user expectations for OSS these days?
+- How can we prevent new erosion after a "tabula rasa" clean-up or
   "reboot"?
 
-## Potential outcomes
+## Definition of Done
 
-* GitHub repository owner guidelines
-* GitHub org admin guidelines
-* Addendum to the Project Leader Handbook specific for Code and Tool
+The following are the potential outcomes of the Working Session:
+
+- GitHub repository owner guidelines
+- GitHub org admin guidelines
+- Addendum to the Project Leader Handbook specific for Code and Tool
   projects
-* Extended/New quality checklist for Code and Tool projects
-* Templates (e.g. `README.md`, `LICENSE`, `CONTRIBUTING.md` etc.) for a
+- Extended/New quality checklist for Code and Tool projects
+- Templates (e.g. `README.md`, `LICENSE`, `CONTRIBUTING.md` etc.) for a
   repo under OWASP org
-* Instructions for 3rd party QA/CI tool setup (e.g. Travis-CI,
+- Instructions for 3rd party QA/CI tool setup (e.g. Travis-CI,
   Code Climate etc.)
 
 ## Who
 
 The target audience for this Working Session is:
 
-* Project leaders of OWASP Code or Tool projects
-* Contributors to OWASP Code or Tool projects
-* Software engineers/craftsmen
-* GitHub power users
+- Project leaders of OWASP Code or Tool projects
+- Contributors to OWASP Code or Tool projects
+- Software engineers/craftsmen
+- GitHub power users
