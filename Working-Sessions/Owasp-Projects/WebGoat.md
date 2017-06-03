@@ -26,6 +26,12 @@ This Working Session will explore how WebGoat can be improved.
  different; the explanation about a specific vulnerability and mitigation can be shared
 - Develop more lesson content, for example lessons specifically about crypto 
 
+## Definition of Done
+
+- New test cases
+- New shared knowledge base
+- New lesson content, including content on how to fix vulnerabilities
+
 ##  Who
 
 The target audience for this Working Session is:
