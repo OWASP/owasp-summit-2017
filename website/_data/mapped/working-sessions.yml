@@ -502,6 +502,9 @@ AppSec for CISOs:
     - name: Don Gibson
       url: /Participants/ticket-8h/Don-Gibson.html
       remote: false
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
   related-to: []
   metadata:
     layout: blocks/working-session
@@ -519,6 +522,7 @@ AppSec for CISOs:
       - Don Gibson
     participants:
       - Don Gibson
+      - Nuno Loureiro
     topics: []
 Application Security BSc/Masters Curriculum Design:
   name: Application Security BSc/Masters Curriculum Design
@@ -605,6 +609,9 @@ Application Security Guide for CISO:
     - name: Ingo Hanke
       url: /Participants/ticket-24h-owasp/Ingo-Hanke.html
       remote: false
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
     - name: Robert Morschel
       url: /Participants/ticket-24h/Robert-Morschel.html
       remote: false
@@ -643,6 +650,7 @@ Application Security Guide for CISO:
       - Robert Morschel
       - Adam Shostack
       - Avi Douglen
+      - Nuno Loureiro
       - Tal Argoni
       - Tiago Mendo
     topics: []
@@ -1003,6 +1011,9 @@ CISO Round table:
     - name: Neil Barlow
       url: /Participants/ticket-24h-sponsor/Neil-Barlow.html
       remote: false
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
     - name: Robert Morschel
       url: /Participants/ticket-24h/Robert-Morschel.html
       remote: false
@@ -1033,6 +1044,7 @@ CISO Round table:
       - Robert Morschel
       - Devesh Bhatt
       - Neil Barlow
+      - Nuno Loureiro
     related-to: []
     topics: []
 CISO Survey:
@@ -1436,6 +1448,9 @@ Crowdsourcing Security Knowledge:
     - name: Madhu Akula
       url: /Participants/remote/Madhu-Akula.html
       remote: true
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
     - name: Sam Houston
       url: /Participants/Sam-Houston.html
       remote: false
@@ -1458,6 +1473,7 @@ Crowdsourcing Security Knowledge:
     participants:
       - Jason Haddix
       - Madhu Akula
+      - Nuno Loureiro
       - Sam Houston
     topics: []
 Cyber Insurance:
@@ -1579,6 +1595,9 @@ Data behind Owasp Top 10 2017:
     - name: Kevin Greene
       url: /Participants/remote/Kevin-Greene.html
       remote: true
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
     - name: Ohad Rabinovich
       url: /Participants/Ohad-Rabinovich.html
       remote: false
@@ -1619,6 +1638,7 @@ Data behind Owasp Top 10 2017:
       - James Osborn
       - Jason Li
       - Kevin Greene
+      - Nuno Loureiro
       - Ohad Rabinovich
       - Tiago Mendo
       - Victor Vidigal Ribeiro
@@ -1868,6 +1888,9 @@ Docker Security:
     - name: Erez Yalon
       url: /Participants/Erez-Yalon.html
       remote: false
+    - name: Francois Raynaud
+      url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
+      remote: false
     - name: Helen Bravo
       url: /Participants/Helen-Bravo.html
       remote: false
@@ -1900,6 +1923,7 @@ Docker Security:
     participants:
       - Timo Pagel
       - Johan Peeters
+      - Francois Raynaud
       - Erez Yalon
       - Helen Bravo
       - Madhu Akula
@@ -2212,6 +2236,9 @@ GDPR and DPO AppSec implications:
     - name: Francois Raynaud
       url: /Participants/ticket-24h-sponsor/Francois-Raynaud.html
       remote: false
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
     - name: Phil Parker
       url: /Participants/Phil-Parker.html
       remote: false
@@ -2237,6 +2264,7 @@ GDPR and DPO AppSec implications:
       - Phil Parker
       - Adam Obrien
       - Carlos Serrao
+      - Nuno Loureiro
       - Tiago Mendo
     topics:
       - GDPR
@@ -3648,6 +3676,9 @@ NextGen Security Scanners:
     - name: Marc Rimbau
       url: /Participants/ticket-24h-invoice/Marc-Rimbau.html
       remote: false
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
   related-to: []
   metadata:
     layout: blocks/working-session
@@ -3663,6 +3694,7 @@ NextGen Security Scanners:
       - Johan Peeters
       - Hamza Alkofahi
       - Jason Li
+      - Nuno Loureiro
     related-to: []
     topics: []
 Node:
@@ -4661,6 +4693,9 @@ SAMM Metrics for Enterprise:
     - name: Kevin Greene
       url: /Participants/remote/Kevin-Greene.html
       remote: true
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
     - name: Robert Morschel
       url: /Participants/ticket-24h/Robert-Morschel.html
       remote: false
@@ -4687,6 +4722,7 @@ SAMM Metrics for Enterprise:
       - Robert Morschel
       - Helen Bravo
       - Kevin Greene
+      - Nuno Loureiro
     topics: []
 SAST:
   name: SAST
@@ -6079,6 +6115,7 @@ Threat Modeling Scaling and Security Champions:
     - name: Robert Hurlbut
       url: /Participants/remote/Robert-Hurlbut.html
       remote: true
+    - name: Viktor Lindström
   related-to: []
   metadata:
     layout: blocks/working-session
@@ -6096,6 +6133,7 @@ Threat Modeling Scaling and Security Champions:
       - Robert Hurlbut
       - Irene Michlin
       - Mamta Vuppu
+      - Viktor Lindström
     topics: []
 Threat Modeling Schema:
   name: Threat Modeling Schema
@@ -6269,6 +6307,7 @@ Threat Modeling Tools:
     - name: Victor Vidigal Ribeiro
       url: /Participants/remote/Victor-Vidigal-Ribeiro.html
       remote: true
+    - name: Viktor Lindström
   related-to: []
   metadata:
     layout: blocks/working-session
@@ -6291,6 +6330,7 @@ Threat Modeling Tools:
       - Stephen de Vries
       - Johan Peeters
       - Duncan Hurwood
+      - Viktor Lindström
       - Avi Douglen
       - Denis Pilipchuk
       - Devesh Bhatt
@@ -6326,6 +6366,7 @@ Threat Modeling Where do I Start?:
     - name: Victor Vidigal Ribeiro
       url: /Participants/remote/Victor-Vidigal-Ribeiro.html
       remote: true
+    - name: Viktor Lindström
   related-to: []
   metadata:
     layout: blocks/working-session
@@ -6343,6 +6384,7 @@ Threat Modeling Where do I Start?:
       - Robert Hurlbut
       - Irene Michlin
       - Mamta Vuppu
+      - Viktor Lindström
       - Adam Shostack
       - Naushad
       - Victor Vidigal Ribeiro
@@ -6470,6 +6512,9 @@ Top 10 Selection Criteria:
     - name: Kevin Greene
       url: /Participants/remote/Kevin-Greene.html
       remote: true
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
     - name: Tiago Mendo
       url: /Participants/ticket-24h/Tiago-Mendo.html
       remote: false
@@ -6491,6 +6536,7 @@ Top 10 Selection Criteria:
     participants:
       - Amani Altarawneh
       - Kevin Greene
+      - Nuno Loureiro
       - Tiago Mendo
     topics: []
 Top 10 merge with Proactive Controls:
@@ -6856,6 +6902,9 @@ What Should be Added to the Top 10:
     - name: Kevin Greene
       url: /Participants/remote/Kevin-Greene.html
       remote: true
+    - name: Nuno Loureiro
+      url: /Participants/ticket-24h/Nuno-Loureiro.html
+      remote: false
     - name: Ohad Rabinovich
       url: /Participants/Ohad-Rabinovich.html
       remote: false
@@ -6885,6 +6934,7 @@ What Should be Added to the Top 10:
       - James Osborn
       - Josh Grossman
       - Kevin Greene
+      - Nuno Loureiro
       - Ohad Rabinovich
       - Tiago Mendo
     topics: []

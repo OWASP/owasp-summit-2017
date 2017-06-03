@@ -717,6 +717,11 @@
         "name": "Don Gibson",
         "url": "/Participants/ticket-8h/Don-Gibson.html",
         "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -736,7 +741,8 @@
         "Don Gibson"
       ],
       "participants": [
-        "Don Gibson"
+        "Don Gibson",
+        "Nuno Loureiro"
       ],
       "topics": []
     }
@@ -858,6 +864,11 @@
         "remote": false
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
@@ -909,6 +920,7 @@
         "Robert Morschel",
         "Adam Shostack",
         "Avi Douglen",
+        "Nuno Loureiro",
         "Tal Argoni",
         "Tiago Mendo"
       ],
@@ -1424,6 +1436,11 @@
         "remote": false
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
@@ -1456,7 +1473,8 @@
         "Francois Raynaud",
         "Robert Morschel",
         "Devesh Bhatt",
-        "Neil Barlow"
+        "Neil Barlow",
+        "Nuno Loureiro"
       ],
       "related-to": [],
       "topics": []
@@ -2020,6 +2038,11 @@
         "remote": true
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Sam Houston",
         "url": "/Participants/Sam-Houston.html",
         "remote": false
@@ -2047,6 +2070,7 @@
       "participants": [
         "Jason Haddix",
         "Madhu Akula",
+        "Nuno Loureiro",
         "Sam Houston"
       ],
       "topics": []
@@ -2231,6 +2255,11 @@
         "remote": true
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Ohad Rabinovich",
         "url": "/Participants/Ohad-Rabinovich.html",
         "remote": false
@@ -2275,6 +2304,7 @@
         "James Osborn",
         "Jason Li",
         "Kevin Greene",
+        "Nuno Loureiro",
         "Ohad Rabinovich",
         "Tiago Mendo",
         "Victor Vidigal Ribeiro"
@@ -2625,6 +2655,11 @@
         "remote": false
       },
       {
+        "name": "Francois Raynaud",
+        "url": "/Participants/ticket-24h-sponsor/Francois-Raynaud.html",
+        "remote": false
+      },
+      {
         "name": "Helen Bravo",
         "url": "/Participants/Helen-Bravo.html",
         "remote": false
@@ -2671,6 +2706,7 @@
       "participants": [
         "Timo Pagel",
         "Johan Peeters",
+        "Francois Raynaud",
         "Erez Yalon",
         "Helen Bravo",
         "Madhu Akula",
@@ -3116,6 +3152,11 @@
         "remote": false
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Phil Parker",
         "url": "/Participants/Phil-Parker.html",
         "remote": false
@@ -3145,6 +3186,7 @@
         "Phil Parker",
         "Adam Obrien",
         "Carlos Serrao",
+        "Nuno Loureiro",
         "Tiago Mendo"
       ],
       "topics": [
@@ -5097,6 +5139,11 @@
         "name": "Marc Rimbau",
         "url": "/Participants/ticket-24h-invoice/Marc-Rimbau.html",
         "remote": false
+      },
+      {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
       }
     ],
     "related-to": [],
@@ -5113,7 +5160,8 @@
         "Marc Rimbau",
         "Johan Peeters",
         "Hamza Alkofahi",
-        "Jason Li"
+        "Jason Li",
+        "Nuno Loureiro"
       ],
       "related-to": [],
       "topics": []
@@ -6480,6 +6528,11 @@
         "remote": true
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Robert Morschel",
         "url": "/Participants/ticket-24h/Robert-Morschel.html",
         "remote": false
@@ -6514,7 +6567,8 @@
       "participants": [
         "Robert Morschel",
         "Helen Bravo",
-        "Kevin Greene"
+        "Kevin Greene",
+        "Nuno Loureiro"
       ],
       "topics": []
     }
@@ -8410,6 +8464,9 @@
         "name": "Robert Hurlbut",
         "url": "/Participants/remote/Robert-Hurlbut.html",
         "remote": true
+      },
+      {
+        "name": "Viktor Lindström"
       }
     ],
     "related-to": [],
@@ -8428,7 +8485,8 @@
       "participants": [
         "Robert Hurlbut",
         "Irene Michlin",
-        "Mamta Vuppu"
+        "Mamta Vuppu",
+        "Viktor Lindström"
       ],
       "topics": []
     }
@@ -8678,6 +8736,9 @@
         "name": "Victor Vidigal Ribeiro",
         "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
         "remote": true
+      },
+      {
+        "name": "Viktor Lindström"
       }
     ],
     "related-to": [],
@@ -8702,6 +8763,7 @@
         "Stephen de Vries",
         "Johan Peeters",
         "Duncan Hurwood",
+        "Viktor Lindström",
         "Avi Douglen",
         "Denis Pilipchuk",
         "Devesh Bhatt",
@@ -8751,6 +8813,9 @@
         "name": "Victor Vidigal Ribeiro",
         "url": "/Participants/remote/Victor-Vidigal-Ribeiro.html",
         "remote": true
+      },
+      {
+        "name": "Viktor Lindström"
       }
     ],
     "related-to": [],
@@ -8770,6 +8835,7 @@
         "Robert Hurlbut",
         "Irene Michlin",
         "Mamta Vuppu",
+        "Viktor Lindström",
         "Adam Shostack",
         "Naushad",
         "Victor Vidigal Ribeiro"
@@ -8941,6 +9007,11 @@
         "remote": true
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Tiago Mendo",
         "url": "/Participants/ticket-24h/Tiago-Mendo.html",
         "remote": false
@@ -8965,6 +9036,7 @@
       "participants": [
         "Amani Altarawneh",
         "Kevin Greene",
+        "Nuno Loureiro",
         "Tiago Mendo"
       ],
       "topics": []
@@ -9469,6 +9541,11 @@
         "remote": true
       },
       {
+        "name": "Nuno Loureiro",
+        "url": "/Participants/ticket-24h/Nuno-Loureiro.html",
+        "remote": false
+      },
+      {
         "name": "Ohad Rabinovich",
         "url": "/Participants/Ohad-Rabinovich.html",
         "remote": false
@@ -9506,6 +9583,7 @@
         "James Osborn",
         "Josh Grossman",
         "Kevin Greene",
+        "Nuno Loureiro",
         "Ohad Rabinovich",
         "Tiago Mendo"
       ],

@@ -3959,8 +3959,28 @@
         ],
         "PM-3": [
           {
+            "name": "Crowdsourcing Security Knowledge",
+            "url": "/Working-Sessions/Security-Crowdsourcing/Crowdsourcing-Security-Knowledge.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Security Crowdsourcing",
+            "locked": false
+          },
+          {
             "name": "Implications of Owasp Top 10 2017",
             "url": "/Working-Sessions/Owasp-Top-10-2017/Implications-of-Owasp-Top-10-2017.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
+        "PM-2": [
+          {
+            "name": "What Should be Added to the Top 10",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/What-Should-be-Added-to-the-Top-10.html",
             "location": "Room-2",
             "mode": "participating",
             "status": "review-content",
@@ -3990,6 +4010,28 @@
             "locked": false
           }
         ],
+        "PM-2": [
+          {
+            "name": "Application Security Guide for CISO",
+            "url": "/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html",
+            "location": "Room-4",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "CISO",
+            "locked": false
+          }
+        ],
+        "AM-1": [
+          {
+            "name": "CISO Round table",
+            "url": "/Working-Sessions/CISO/CISO-Round-Table.html",
+            "location": "Room-4",
+            "mode": "participating",
+            "status": "featured",
+            "track": "CISO",
+            "locked": false
+          }
+        ],
         "PM-3": [
           {
             "name": "Cyber Insurance",
@@ -4002,7 +4044,82 @@
           }
         ]
       },
+      "Thu": {
+        "PM-2": [
+          {
+            "name": "AppSec for CISOs",
+            "url": "/Working-Sessions/CISO/AppSec-for-CISOs.html",
+            "location": "Room-4",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "CISO",
+            "locked": false
+          }
+        ],
+        "no-time": [
+          {
+            "name": "NextGen Security Scanners",
+            "url": "/Working-Sessions/Tools/NextGen-SecurityScanners.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "done",
+            "track": "Tools",
+            "locked": false
+          },
+          {
+            "name": "Securing GitHub Integrations",
+            "url": "/Working-Sessions/DevSecOps/Securing-GitHub-Integrations.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "DevSecOps",
+            "locked": false
+          }
+        ],
+        "PM-3": [
+          {
+            "name": "SAMM Metrics for Enterprise",
+            "url": "/Working-Sessions/CISO/SAMM-Metrics-for-Enterprise.html",
+            "location": "Room-4",
+            "mode": "participating",
+            "status": "done",
+            "track": "CISO",
+            "locked": false
+          }
+        ]
+      },
       "Mon": {
+        "PM-3": [
+          {
+            "name": "Data behind Owasp Top 10 2017",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Data-behind-OWASP-Top-10-2017.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "featured",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          },
+          {
+            "name": "Top 10 Selection Criteria",
+            "url": "/Working-Sessions/Owasp-Top-10-2017/Top-10-Selection-Criteria.html",
+            "location": "Room-2",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Owasp Top 10 2017",
+            "locked": false
+          }
+        ],
+        "PM-1": [
+          {
+            "name": "GDPR and DPO AppSec implications",
+            "url": "/Working-Sessions/CISO/GDRP-DPO-and-AppSec.html",
+            "location": "Room-4",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "CISO",
+            "locked": false
+          }
+        ],
         "PM-2": [
           {
             "name": "Growing the AppSec Industry",
@@ -4032,19 +4149,6 @@
             "location": "no-location",
             "mode": "participating",
             "status": "draft",
-            "track": "DevSecOps",
-            "locked": false
-          }
-        ]
-      },
-      "Thu": {
-        "no-time": [
-          {
-            "name": "Securing GitHub Integrations",
-            "url": "/Working-Sessions/DevSecOps/Securing-GitHub-Integrations.html",
-            "location": "no-location",
-            "mode": "participating",
-            "status": "review-content",
             "track": "DevSecOps",
             "locked": false
           }
@@ -6526,6 +6630,15 @@
       },
       "no-day": {
         "no-time": [
+          {
+            "name": "Docker Security",
+            "url": "/Working-Sessions/DevSecOps/Docker-Security.html",
+            "location": "no-location",
+            "mode": "participating",
+            "status": "draft",
+            "track": "DevSecOps",
+            "locked": false
+          },
           {
             "name": "Netflix Security Automation",
             "url": "/Working-Sessions/DevSecOps/Netflix-Security-Automation.html",
@@ -11437,6 +11550,82 @@
         ]
       },
       "Mon": {
+        "Eve": [
+          {
+            "name": "Threat Modeling Where do I Start?",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ]
+      },
+      "Tue": {
+        "Eve": [
+          {
+            "name": "Threat Modeling Where do I Start?",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ]
+      },
+      "Thu": {
+        "Eve": [
+          {
+            "name": "Threat Modeling Where do I Start?",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ]
+      }
+    },
+    "Viktor Lindström": {
+      "Wed": {
+        "PM-1": [
+          {
+            "name": "Threat Modeling Scaling and Security Champions",
+            "url": "/Working-Sessions/Threat-Model/Scaling-Threat-Modeling.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ],
+        "Eve": [
+          {
+            "name": "Threat Modeling Where do I Start?",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ]
+      },
+      "Mon": {
+        "PM-3": [
+          {
+            "name": "Threat Modeling Tools",
+            "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Tools.html",
+            "location": "Room-6",
+            "mode": "participating",
+            "status": "review-content",
+            "track": "Threat Model",
+            "locked": false
+          }
+        ],
         "Eve": [
           {
             "name": "Threat Modeling Where do I Start?",
