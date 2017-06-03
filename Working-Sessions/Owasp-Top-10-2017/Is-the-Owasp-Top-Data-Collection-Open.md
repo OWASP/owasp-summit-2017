@@ -33,13 +33,17 @@ See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/beh
  - Provide evidence on Openness
  - Review evidence provided
  - Reach a conclusion
+ 
+## Definition of Done
+
+...Add text...
 
 ## Who
 
 The target audience for this Working Session is:
 
- - Security Professionals
- - OWASP Community
+ - Security professionals
+ - OWASP community
 
 ## References:
 
