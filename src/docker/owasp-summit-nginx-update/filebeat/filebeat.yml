@@ -1,56 +1,15 @@
-##################### Filebeat Configuration Example #########################
-# https://www.elastic.co/guide/en/beats/filebeat/index.html
-
-#=========================== Filebeat prospectors =============================
-
-filebeat.prospectors:
-
-- input_type: log
-
-  paths:
-    - /var/log/nginx/tls-access.log
-    #- /var/log/nginx/logs-error.log
-  document_type: nginx-access
-
-  fields:
-    source: filebeat_42
-
-
-#-------------------------- Elasticsearch output ------------------------------
-#output.elasticsearch:
-  #hosts: ["elk.owaspsummit.org:9200"]
-  #protocol: "https"
-  #username: "elastic"
-  #password: "changeme"
-
-#----------------------------- Logstash output --------------------------------
-output:
-  logstash:
-    hosts: ["elk:5044"]
-    bulk_max_size: 1024
-  ssl.certificate_authorities: ["/etc/pki/tls/certs/logstash-beats.crt"]
-
-  #ssl.certificate_authorities: ["/etc/pki/root/ca.pem"]
-  #ssl.certificate: "/etc/pki/client/cert.pem"
-  #ssl.key: "/etc/pki/client/cert.key"
-
-#================================ Logging =====================================
-#logging.level: debug
-#logging.selectors: ["*"]
-
-
-
 filebeat:
   prospectors:
     -
       document_type: nginx-access
       paths:
-        - nginx-access.log
+        - /var/log/nginx/tls-access.log
+
 output:
   logstash:
     enabled: true
     hosts:
-      - "localhost:5044"
-    tls:
+      - "elk:5044"
+    ssl:
       certificate_authorities:
-        - logstash-beats.crt
+        - /etc/pki/tls/certs/logstash-beats.crt

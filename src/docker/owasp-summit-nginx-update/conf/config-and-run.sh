@@ -8,6 +8,8 @@ if [ -z "$CERT_PWD" ]; then
  echo "[ERROR]export CERT_PWD environment variable is not set"
  exit 1
 fi
+
+# risk this key has been compromised
 unzip -P ${CERT_PWD} ./encrypted-cert.zip           # unzip tls cert
 
 
