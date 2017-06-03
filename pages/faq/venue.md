@@ -69,3 +69,10 @@ Please make a copy of this remote participant template (https://github.com/OWASP
 
 To register as an Onsite participant:
 To add your name to this repo please fork the repo and create your page here (https://github.com/OWASP/owasp-summit-2017/tree/master/Participants)
+
+#### 6. Where do i stay before or after the summit?
+There are multiple options. Some of the preferred ones are below:
+https://www.booking.com/hotel/gb/exhimiltonkeynes.nl.html
+
+or check with Woburn directly
+http://www.centerparcs.co.uk/hotels_apartments
