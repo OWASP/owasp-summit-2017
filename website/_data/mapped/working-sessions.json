@@ -8201,6 +8201,8 @@
       "related-to": [],
       "status": "draft",
       "when-day": "Thu",
+      "when-time": "PM-1",
+      "location": "Room-6",
       "organizers": [
         "Don Gibson"
       ],
@@ -8312,6 +8314,8 @@
       "track": "Threat Model",
       "status": "draft",
       "when-day": "Thu",
+      "when-time": "PM-2,PM-3",
+      "location": "Room-6",
       "organizers": [],
       "participants": [
         "Adam Shostack",
@@ -8374,6 +8378,8 @@
       "description": "OWASP Threat Modeling Pages provide global AppSec professionals and companies worldwide with a central reference point to OWASP project, tools, and references that are related to Application Threat Modeling. These pages will provide as a gateway for threat modelers to leverage OWASP threat modeling content as well as other OWASP content and tools that support application threat modeling objectives.",
       "status": "improve-content",
       "when-day": "Wed",
+      "when-time": "AM-1",
+      "location": "Room-6",
       "organizers": [
         "Tony UV"
       ],
@@ -8416,6 +8422,8 @@
       "related-to": [],
       "status": "review-content",
       "when-day": "Wed",
+      "when-time": "PM-1",
+      "location": "Room-6",
       "organizers": [],
       "participants": [
         "Robert Hurlbut",
@@ -8444,9 +8452,9 @@
       "type": "workshop",
       "track": "Threat Model",
       "status": "draft",
-      "when-day": "Mon",
-      "when-time": "PM-2",
-      "location": "Room-6",
+      "when-day": "",
+      "when-time": "",
+      "location": "",
       "organizers": [],
       "participants": [
         "Jason Li"
@@ -8554,7 +8562,7 @@
       "description": "OWASP Threat Modeling Templates will provide templates for addressing applications templates for which participants can leverage as starter kits for their respective threat modeling efforts.  The intent is to develop, maintain, and enhance a suite of templates that cover different application types, deployment models to which multiple MNCs across various industries can leverage within their respective AppSec groups.",
       "status": "featured",
       "when-day": "Tue",
-      "when-time": "AM1",
+      "when-time": "AM-1",
       "location": "Room-6",
       "organizers": [
         "Tony UV"
@@ -8754,7 +8762,7 @@
       "technology": "",
       "related-to": [],
       "status": "review-content",
-      "when-day": "Mon,Tue",
+      "when-day": "Mon,Tue,Wed,Thu",
       "when-time": "Eve",
       "location": "Room-6",
       "organizers": [],
@@ -8785,6 +8793,8 @@
       "related-to": [],
       "status": "draft",
       "when-day": "Thu",
+      "when-time": "AM-1",
+      "location": "Room-6",
       "organizers": [],
       "participants": [],
       "topics": []
@@ -9111,6 +9121,8 @@
       "related-to": [],
       "status": "draft",
       "when-day": "Wed",
+      "when-time": "PM-3",
+      "location": "Room-6",
       "organizers": [],
       "participants": [],
       "topics": []

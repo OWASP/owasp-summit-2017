@@ -1308,7 +1308,7 @@
         {
           "name": "Threat Modeling Where do I Start?",
           "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html",
-          "when-day": "Mon,Tue",
+          "when-day": "Mon,Tue,Wed,Thu",
           "status": "review-content"
         }
       ],
@@ -1370,7 +1370,7 @@
         {
           "name": "Threat Modeling Schema",
           "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Schema.html",
-          "when-day": "Mon",
+          "when-day": "",
           "status": "draft"
         },
         {

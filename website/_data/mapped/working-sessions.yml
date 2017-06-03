@@ -5926,6 +5926,8 @@ Threat Modeling Cloud Migrations:
     related-to: []
     status: draft
     when-day: Thu
+    when-time: PM-1
+    location: Room-6
     organizers:
       - Don Gibson
     participants:
@@ -6004,6 +6006,8 @@ Threat Modeling IoT Devices:
     track: Threat Model
     status: draft
     when-day: Thu
+    when-time: 'PM-2,PM-3'
+    location: Room-6
     organizers: []
     participants:
       - Adam Shostack
@@ -6052,6 +6056,8 @@ Threat Modeling OWASP Pages:
       that support application threat modeling objectives.
     status: improve-content
     when-day: Wed
+    when-time: AM-1
+    location: Room-6
     organizers:
       - Tony UV
     participants:
@@ -6083,6 +6089,8 @@ Threat Modeling Scaling and Security Champions:
     related-to: []
     status: review-content
     when-day: Wed
+    when-time: PM-1
+    location: Room-6
     organizers: []
     participants:
       - Robert Hurlbut
@@ -6105,9 +6113,9 @@ Threat Modeling Schema:
     type: workshop
     track: Threat Model
     status: draft
-    when-day: Mon
-    when-time: PM-2
-    location: Room-6
+    when-day: ''
+    when-time: ''
+    location: ''
     organizers: []
     participants:
       - Jason Li
@@ -6182,7 +6190,7 @@ Threat Modeling Templates:
       industries can leverage within their respective AppSec groups.
     status: featured
     when-day: Tue
-    when-time: AM1
+    when-time: AM-1
     location: Room-6
     organizers:
       - Tony UV
@@ -6327,7 +6335,7 @@ Threat Modeling Where do I Start?:
     technology: ''
     related-to: []
     status: review-content
-    when-day: 'Mon,Tue'
+    when-day: 'Mon,Tue,Wed,Thu'
     when-time: Eve
     location: Room-6
     organizers: []
@@ -6355,6 +6363,8 @@ Threat Modeling by Feature and Layer:
     related-to: []
     status: draft
     when-day: Thu
+    when-time: AM-1
+    location: Room-6
     organizers: []
     participants: []
     topics: []
@@ -6607,6 +6617,8 @@ Using JIRA and Confluence to Store Threat Model Data:
     related-to: []
     status: draft
     when-day: Wed
+    when-time: PM-3
+    location: Room-6
     organizers: []
     participants: []
     topics: []
