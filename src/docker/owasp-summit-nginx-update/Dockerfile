@@ -7,5 +7,7 @@ COPY    ./conf/config-and-run.sh /etc/nginx/config-and-run.sh
 COPY    ./filebeat/filebeat.yml /etc/filebeat/filebeat.yml
 #RUN     service filebeat restart
 
+RUN     git pull origin
+
 CMD     /etc/nginx/config-and-run.sh
 
