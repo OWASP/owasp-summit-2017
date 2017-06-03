@@ -8,7 +8,7 @@ technology    :
 related-to    : Creation and Optimization of a Docker Security Workshop
 status        : draft
 organizers    :
-participants  : Timo Pagel, Johan Peeters
+participants  : Timo Pagel, Johan Peeters,Francois Raynaud
 ---
 
 With the advent of Devops, businesses almost cannot avoid containers. They make deploying servers and services significantly easier and more efficient. One of the most widely used tools for deploying containers is Docker.
