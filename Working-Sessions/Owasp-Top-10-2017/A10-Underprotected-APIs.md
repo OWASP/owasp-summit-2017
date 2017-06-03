@@ -21,7 +21,7 @@ https://www.owasp.org/index.php/Top_10_2017-A10-Underprotected_APIs
 
 ## Why
 
-The new Owasp Top 2017 introduces this new category; this Working Session presents an opportunity to challenge or support it.
+The new OWASP Top 2017 introduces this new category; this Working Session presents an opportunity to challenge or support it.
 
 ## What
 
@@ -29,9 +29,15 @@ The new Owasp Top 2017 introduces this new category; this Working Session presen
  - Review current description and text
  - What are the pros and cons of this category
  - Is this category important enough to be added to the new Top 10?
+ 
+## Definition of Done
+
+...Add text...
 
 ## Who
 
- - Security Professionals
+The target audience for this Working Session is:
+
+ - Security professionals
  - AppSec teams
  - Tool vendors
