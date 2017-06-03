@@ -10,20 +10,30 @@ organizers   :
 participants :
 ---
 
-...intro text...
+>The OWASP Top 10 is a powerful awareness document for web application security. It represents a broad consensus about the most critical security risks to web applications. Project members include a variety of security experts from around the world who have shared their expertise to produce this list.
+[OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 ## Why
 
-...why text...
+The OWASP Top 10 2017 will be released in July or August 2017 after a public comment period ending on June 30. This Working Session will consider how to help users get maximum benefit from the 2017 version. 
 
 ## What
 
- - List standards that currently use Owasp Top 10 (PCI, etc...)
+ - List standards that currently use OWASP Top 10 (PCI, etc...)
  - Map out how they use it
  - Map out what worked and what didn't work (i.e. cases where Top 10 was not correctly used or recommended)
- - Provide explicit guidance on how to use the new Owasp Top 10 2017
- - Create plan to reach out to current users of Top 10 (PCI) and proactively engage with them in updating it to the 2017 version
+ - Provide explicit guidance on how to use the new OWASP Top 10 2017
+ - Create plan to reach out to current users of Top 10 (PCI) and proactively engage with them to update to the 2017 version
+ 
+## Definition of Done
+
+- Comprehensive list of standards that use OWASP Top 10
+- Guidelines for using OWASP Top 10 2017
+- Roadmap to encourage current Top 10 users to update to OWASP Top 10 2017
+
 
 ## Who
+
+The target audience for this Working Session is:
 
  - Companies that use or recommend the Owasp Top 10
