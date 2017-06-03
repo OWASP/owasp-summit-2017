@@ -75,7 +75,7 @@ gulp.task 'default'    , ['styles', 'pug', 'build-data', 'build'],->
     gulp.watch 'src/**/*.pug'                 , ['pug'        ]
     gulp.watch 'src/**/*.jade'                , ['pug'        ]
 
-    gulp.watch 'Logistics/**/*.md'            , ['reload-page']
-    gulp.watch 'Participants/**/*.md'         , ['reload-page']
+    gulp.watch 'Logistics/**/*.md'            , ['build-data', 'reload-page-all']
+    gulp.watch 'Participants/**/*.md'         , ['build-data', 'reload-page-all']
     gulp.watch 'Working-Sessions/**/*.md'     , ['build-data', 'reload-page-all']
     #gulp.watch 'Working-Sessions/**/*.md'     , ['reload-page']

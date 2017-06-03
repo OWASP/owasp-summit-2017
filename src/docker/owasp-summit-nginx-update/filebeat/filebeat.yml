@@ -9,40 +9,27 @@ filebeat.prospectors:
 
   paths:
     - /var/log/nginx/tls-access.log
-    - /var/log/nginx/logs-error.log
+    #- /var/log/nginx/logs-error.log
   document_type: nginx-access
 
-  #exclude_lines: ["^DBG"]
-  #include_lines: ["^ERR", "^WARN"]
-  #exclude_files: [".gz$"]
-  #fields:
-  #  level: debug
-  #  review: 1
+  fields:
+    source: filebeat_42
 
-  ### Multiline options
-  #multiline.pattern: ^\[
-  #multiline.negate: false
-  #multiline.match: after
-
-#================================ General =====================================
-
-#name:
-#tags: ["service-X", "web-tier"]
-#fields:
-#  env: staging
-
-#================================ Outputs =====================================
 
 #-------------------------- Elasticsearch output ------------------------------
-output.elasticsearch:
-  hosts: ["elk.owaspsummit.org:9200"]
+#output.elasticsearch:
+  #hosts: ["elk.owaspsummit.org:9200"]
   #protocol: "https"
   #username: "elastic"
   #password: "changeme"
 
 #----------------------------- Logstash output --------------------------------
-#output.logstash:
-  #hosts: ["elk.owaspsummit.org:5044"]
+output:
+  logstash:
+    hosts: ["elk:5044"]
+    bulk_max_size: 1024
+  ssl.certificate_authorities: ["/etc/pki/tls/certs/logstash-beats.crt"]
+
   #ssl.certificate_authorities: ["/etc/pki/root/ca.pem"]
   #ssl.certificate: "/etc/pki/client/cert.pem"
   #ssl.key: "/etc/pki/client/cert.key"
@@ -50,3 +37,20 @@ output.elasticsearch:
 #================================ Logging =====================================
 #logging.level: debug
 #logging.selectors: ["*"]
+
+
+
+filebeat:
+  prospectors:
+    -
+      document_type: nginx-access
+      paths:
+        - nginx-access.log
+output:
+  logstash:
+    enabled: true
+    hosts:
+      - "localhost:5044"
+    tls:
+      certificate_authorities:
+        - logstash-beats.crt

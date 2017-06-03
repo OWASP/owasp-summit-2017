@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-echo "starting redirect to https"
+./build.sh
+
+echo "starting Summit website on Nginx"
 export name=owasp-summit-nginx
 
 docker stop ${name}
@@ -9,7 +11,8 @@ docker rm ${name}
 docker run  -d -p 80:80 -p 3443:443 -e CERT_PWD="${CERT_PWD}" --name=${name} diniscruz/owasp-summit-nginx
 docker ps
 
-#docker logs owasp-summit-nginx
+sleep 2
+docker logs owasp-summit-nginx
 
 #docker exec -it owasp-summit-nginx bash
 
