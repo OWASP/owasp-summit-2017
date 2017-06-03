@@ -31,14 +31,18 @@ Given the controversy surrounding the current Top 10 2017 RC1, it is very import
 
  - Create a 'Top 10 Selection Criteria'
  - Apply the selection criteria to the all versions of the OWASP Top 10 (and see how they rank)
- - Create framework for it to be used on the other Working Sessions in the OWASP Top 10 2017 Track
+ - Create framework for it to be used in the other Working Sessions in the OWASP Top 10 2017 Track
+ 
+## Definition of Done
+
+- 'Top 10 Selection Criteria' published
+- Framework for top 10 criteria to be used in other OWASP Top 10 2017 Working Sessions
 
 ## Who
 
 The target audience for this Working Session is:
 
  - OWASP Top 10 2017 Track participants
-
 
 ## References
 
