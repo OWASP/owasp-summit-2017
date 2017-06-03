@@ -1,7 +1,7 @@
 FROM    nginx
 
 RUN     apt update
-RUN     apt install -y git vim
+RUN     apt install -y git unzip
 
 WORKDIR /home
 RUN     git clone https://github.com/DinisCruz/owasp-summit-2017-site.git

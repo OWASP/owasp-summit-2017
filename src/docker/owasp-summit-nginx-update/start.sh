@@ -6,7 +6,7 @@ export name=owasp-summit-nginx
 docker stop ${name}
 docker rm ${name}
 
-docker run  -d -p 80:80 --name=${name} diniscruz/owasp-summit-nginx
+docker run  -d -p 80:80 -p 3443:443 -e CERT_PWD="${CERT_PWD}" --name=${name} diniscruz/owasp-summit-nginx
 docker ps
 
 
