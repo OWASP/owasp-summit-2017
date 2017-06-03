@@ -7,6 +7,8 @@ related-to  : Cheat Sheets, Templates, Tools
 description : OWASP Threat Modeling Pages provide global AppSec professionals and companies worldwide with a central reference point to OWASP project, tools, and references that are related to Application Threat Modeling. These pages will provide as a gateway for threat modelers to leverage OWASP threat modeling content as well as other OWASP content and tools that support application threat modeling objectives.
 status      : improve-content
 when-day    : Wed
+when-time   : AM-1
+location    : Room-6
 organizers  : Tony UV
 participants: Avi Douglen
 ---

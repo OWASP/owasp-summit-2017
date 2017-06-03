@@ -7,3 +7,4 @@ node_modules
 .jekyll-metadata
 emails.yml
 _config.yml
+cert

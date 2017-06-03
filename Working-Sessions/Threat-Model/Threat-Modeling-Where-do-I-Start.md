@@ -2,14 +2,15 @@
 layout       : blocks/working-session
 title        : Threat Modeling Where do I Start?
 type         : workshop
-owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
 status       : review-content
-when-day     : Tue
+when-day     : Mon,Tue,Wed,Thu
+when-time    : Eve
+location     : Room-6
 organizers   :
-participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu
+participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström
 ---
 
 With regard to threat modelling, the single most common question developers ask me is 'Where do I start?'

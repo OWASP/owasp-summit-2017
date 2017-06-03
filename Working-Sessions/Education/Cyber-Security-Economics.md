@@ -22,6 +22,12 @@ participants :
  - The economics of Cyber Attacks
  - Making it expensive to attack and exploit
  - Creating Security Strategy from Cyber Security Economics
+ 
+## Definition of Done
+
+This Working Session will publish a document containing the following:
+
+--add text--
 
 ## Who
 

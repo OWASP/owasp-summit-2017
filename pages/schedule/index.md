@@ -1,12 +1,27 @@
 ---
 layout  : blocks/page-content
-title  : Summit Schedule (Draft)
+title  : Summit Schedule
 ---
+
+### Summit Schedule (all Working Sessions)
+
+See [Summit Schedule](./summit-schedule.html) for a mapping of all Working Sessions on all days
+
+### Daily Schedules
+
+**By room**
+* [Monday](./Mon.html)
+* [Tuesday](./Tue.html)
+* [Wednesday](./Wed.html)
+* [Thursday](./Thu.html)
+* [Friday](./Fri.html)
+
+**By Track**
+* [Monday](./by-track/Mon.html)
 
 ### Track's Schedules
 
-Here are the individual Track's schedules which will occur on the main Conference center
-from 10 till 5
+Ihe individual Track's schedules
 
 * [Agile-AppSec](./tracks/Agile-AppSec.html)
 * [CISO](./tracks/CISO.html)
@@ -33,14 +48,3 @@ These working
 {% assign evening-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day','Eve'%}
 {% for session in evening-sessions %}* [{{ session.title}}]({{ session.url}})
 {% endfor %}
-
-
-### Consolidated Summit Schedule
-
-Here is the [Summit Schedule](./summit-schedule.html) showing all data from all Tracks
-
-* [Monday](./Mon.html)
-* [Tuesday](./Tue.html)
-* [Wednesday](./Wed.html)
-* [Thursday](./Thu.html)
-* [Friday](./Fri.html)

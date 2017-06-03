@@ -63,7 +63,8 @@ class Jekyll_Data
 
   map_Schedule: ->
     schedule =
-      by_Day        : {}
+      by_Room        : {}
+      by_Track       : {}
       by_Participant: {}
 
     # Map by_Day
@@ -71,23 +72,32 @@ class Jekyll_Data
       days         = data.metadata['when-day' ] || 'no-day'
       times        = data.metadata['when-time'] || 'no-time'
       locations    = data.metadata['location' ] || 'no-location'
+      track        = data.metadata.track        || 'no-track'
+      locked       = data.metadata.locked       || false
       organizers   = data.metadata.organizers
       participants = data.metadata.participants
+
 
       for day in days.split(',')
         for location in locations.split(',')
           for time in times.split(',')
 
-            schedule.by_Day[day]                  ?= {}
-            schedule.by_Day[day][location]        ?= {}
-            schedule.by_Day[day][location][time]  ?= []
-            schedule.by_Day[day][location][time].add name: name, url: data.url , track : data.metadata.track || '' , locked: data.metadata.locked || false
+            schedule.by_Room[day]                  ?= {}
+            schedule.by_Room[day][location]        ?= {}
+            schedule.by_Room[day][location][time]  ?= []
+            schedule.by_Room[day][location][time].add name: name, url: data.url , track : track       , locked: locked
+
+            schedule.by_Track[day]                 ?= {}
+            schedule.by_Track[day][track]          ?= {}
+            schedule.by_Track[day][track][time]    ?= []
+            schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , locked: locked
+
 
             map_User = (user,mode)->
               schedule.by_Participant[user]                     ?= {}
               schedule.by_Participant[user][day]                ?= {}
               schedule.by_Participant[user][day][time]          ?= []
-              schedule.by_Participant[user][day][time].add name: name, url: data.url, location: location, mode:mode, status: data.metadata.status, track : data.metadata.track, locked: data.metadata.locked || false
+              schedule.by_Participant[user][day][time].add name: name, url: data.url, location: location, mode:mode, status: data.metadata.status, track : track, locked: locked|| false
 
             for organizer in organizers
               map_User organizer, 'organizing'

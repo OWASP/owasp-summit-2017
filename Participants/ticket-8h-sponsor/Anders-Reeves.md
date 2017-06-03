@@ -1,20 +1,18 @@
 ---
 layout          : blocks/page-participant
-title           : PhotoBox (7th)
+title           : Anders Reeves
 type            : participant
 job-title       :
 company         : PhotoBox Group
 travel-from     :
-image           :
+image           : https://2.bp.blogspot.com/-U8ktOqKw_8o/WQC-fiHBEDI/AAAAAAAHErU/nHVnU3JkEH8W-fTRcvDjx3daIRIYsRu9wCK4B/s113/Me.JPG
 linkedin        :
-twiter          :
+twiter          : AndersReeves
 facebook        :
-website         :
+website         : http://blog.andersreeves.com/
 email           :
-project-leader  :
-chapter-leader  :
 ticket          : 5x8h
-status          : empty
+status          : add-content
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

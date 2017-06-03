@@ -9,7 +9,7 @@ mixin show-session-at-time
     | {% endfor                                     %}
 
 mixin show-room
-    | {% assign day_Data = site.data.mapped.schedule.by_Day[page.day][room] %}
+    | {% assign day_Data = site.data.mapped.schedule.by_Room[page.day][room] %}
     td.text-center
         .room-name {{ site.data.venue[room].name }}
         .room-key {{ room }}

@@ -541,6 +541,11 @@
         "name": "Kuai Hinojosa",
         "url": "/Participants/remote/Kuai-Hinojosa.html",
         "remote": true
+      },
+      {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
       }
     ],
     "related-to": [],
@@ -762,6 +767,11 @@
         "remote": false
       },
       {
+        "name": "Ade Yoseman Putra",
+        "url": "/Participants/remote/Ade-Yoseman-Putra.html",
+        "remote": true
+      },
+      {
         "name": "Anant Shrivastava",
         "url": "/Participants/remote/Anant-Shrivastava.html",
         "remote": true
@@ -834,12 +844,6 @@
         {
           "name": "How is the Top 10 Used in Real World",
           "url": "/Working-Sessions/Owasp-Top-10-2017/How-is-the-Top-10-Used-in-Real-World.html",
-          "when-day": "",
-          "status": "draft"
-        },
-        {
-          "name": "New Top 10 - Deserialisation Vulnerabilities",
-          "url": "/Working-Sessions/Owasp-Top-10-2017/New-Top-10-Deserialisation-Vulnerabilities.html",
           "when-day": "",
           "status": "draft"
         },
@@ -1304,7 +1308,7 @@
         {
           "name": "Threat Modeling Where do I Start?",
           "url": "/Working-Sessions/Threat-Model/Threat-Modeling-Where-do-I-Start.html",
-          "when-day": "Tue",
+          "when-day": "Mon,Tue",
           "status": "review-content"
         }
       ],
@@ -1313,6 +1317,36 @@
           "name": "Diffing and Version Control Threat Models",
           "url": "/Working-Sessions/Threat-Model/Diffing-and-Version-Control-Threat-Models.html",
           "when-day": "Fri",
+          "status": "draft"
+        },
+        {
+          "name": "TM-1",
+          "url": "/Working-Sessions/Threat-Model/TM-1.html",
+          "when-day": "",
+          "status": "draft"
+        },
+        {
+          "name": "TM-2",
+          "url": "/Working-Sessions/Threat-Model/TM-2.html",
+          "when-day": "",
+          "status": "draft"
+        },
+        {
+          "name": "TM-3",
+          "url": "/Working-Sessions/Threat-Model/TM-3.html",
+          "when-day": "",
+          "status": "draft"
+        },
+        {
+          "name": "TM-4",
+          "url": "/Working-Sessions/Threat-Model/TM-4.html",
+          "when-day": "",
+          "status": "draft"
+        },
+        {
+          "name": "TM-5",
+          "url": "/Working-Sessions/Threat-Model/TM-5.html",
+          "when-day": "",
           "status": "draft"
         },
         {

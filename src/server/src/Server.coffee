@@ -32,23 +32,12 @@ class Server
 
       console.log '[request] /update'
       console.time(".... Updating site");
-      run_Command 'git', 'pull', ->
-        run_Command 'npm',['run','build-data'], ->
-          run_Command './node_modules/.bin/gulp',['styles','pug','build'],->
-            console.timeEnd(".... Updating site");
-            res.json { thanks: 'server-updated'}
-#      'git'.start_Process_Redirect_Console 'pull'
-#           .on 'exit', ()->
-#              'npm'.start_Process_Redirect_Console 'run build-data'
-#                .on 'exit', ()->
-#                  childProcess = './node_modules/.bin/gulp'.start_Process 'styles','pug','build'
-#                  childProcess.stdout.on 'data', (data)-> console.log(data.str().trim())
-#                  childProcess.stderr.on 'data', (data)-> console.log(data.str().trim())
-#                  console.log '----------------'
-#                  console.log req.url
-#                  childProcess.on 'exit', ()->
-#                    res.json { thanks: 'server-updated'}
-
+      run_Command 'git', ['reset','--hard','HEAD'], ->
+        run_Command 'git', 'pull', ->
+          run_Command 'npm',['run','build-data'], ->
+            run_Command './node_modules/.bin/gulp',['styles','pug','build'],->
+              console.timeEnd(".... Updating site");
+              res.json { thanks: 'server-updated'}
     @
 
   add_Controllers: ->
@@ -66,13 +55,11 @@ class Server
     @
 
   start_Server_SSL: =>
-    #pfx_File       = process.env.MM_SSL_PFX
-    #pfx_Passphrase = process.env.MM_SSL_PWD
     options =
-      key: fs.readFileSync('./src/server/cert/key.pem'),
-      cert: fs.readFileSync('./src/server/cert/cert.pem')
-      #pfx: fs.readFileSync pfx_File
-      #passphrase: pfx_Passphrase
+      #key: fs.readFileSync('./src/server/cert/key.pem'),
+      #cert: fs.readFileSync('./src/server/cert/cert.pem')
+      key: fs.readFileSync('./cert/privkey.pem'),
+      cert: fs.readFileSync('./cert/fullchain.pem')
 
     @.server      = https.createServer(options, @.app).listen @.port
 

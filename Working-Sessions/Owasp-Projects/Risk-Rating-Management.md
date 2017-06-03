@@ -23,11 +23,9 @@ The OWASP Risk Rating Management Project will help owners/developers to avoid th
 
 Add 'what' text . . .
 
+## Definition of Done
 
-
-
-
-
+...Add text...
 
 ## Who
 
@@ -35,10 +33,10 @@ The target audience for this Working Session is:
 
 - OWASP ZAP, Arachni, and other OSS scanner developers
 - Burp, Acunetix, and other commercial scanner developers
-- Javascript front end developers
+- JavaScript front-end developers
 - Web application developers
-- Security Auditors
-- Security Consultants
-- Pentesters
-- Security Analysts
+- Security auditors
+- Security consultants
+- Pen testers
+- Security analysts
 
