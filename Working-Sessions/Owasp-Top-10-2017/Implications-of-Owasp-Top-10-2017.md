@@ -29,6 +29,10 @@ hot topics that need further discussion and debate.
 - List areas where the Top 10 should be used, and explicitly list where it shouldn't
 - _.... What else should be covered in this Working Session?...._
 
+## Definition of Done
+
+...Add text...
+
 ## Who
 
 The target audience for this Working Session is:
