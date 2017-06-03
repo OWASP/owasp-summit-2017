@@ -8,6 +8,7 @@ title    : FAQ
 The 24h-5day tickets cover catering/lodging from Monday morning until Friday evening (exact hours to be verified).
 This does not include Sunday night.
 
+
 #### 2.  I have a non-UK VAT number, can you apply the reverse charge VAT mechanism?
 
 OWASP charges UK VAT (value added tax) of 19% on all tickets, which can be claimed back from your national tax authorities.
@@ -21,6 +22,7 @@ those events actually take place."
 The UK VAT that you incur may be recoverable by making a claim under the Refund Directive 2008/9/EC. This involves making a claim directly
 to your national tax authorities via their electronic portal.
 
+
 #### 3. How do I get to the summit?
 
 RAIL
@@ -32,6 +34,7 @@ www.nationalrail.co.uk.
 
 
 ROAD
+
 From the North using the M1
 
 Leave at junction 13, take the second exit on the roundabout and then turn right at the traffic signals onto the A507, which is signposted to Ampthill. Continue on the A507 for 4 miles to Millbrook roundabout. Take the third exit into Fordfield Road. The entrance to Center Parcs, Woburn Forest is 500 yards on the right.
@@ -46,13 +49,14 @@ We recommend you use the A421 (past Milton Keynes and Bedford), then take the A5
 
 The entrance to Center Parcs, Woburn Forest is 500 yards on the right.
 
+
 #### 4. How do I update my schedule and register for working sessions?
 In order to update your schedule, follow the below mentioned steps:
 
 1. Visit your profile page. For e.g., http://owaspsummit.org/Participants/ticket-24h-sponsor/Francois-Raynaud.html
 2. Click on "Edit this page here" at the bottom of your profile page
 3. This will take you to the Github page to edit the content. Click on the pen icon "Edit this file"
-https://github.com/OWASP/owasp-summit-2017/blob/master/Participants/ticket-24h-sponsor/Francois-Raynaud.md
+(e.g., https://github.com/OWASP/owasp-summit-2017/blob/master/Participants/ticket-24h-sponsor/Francois-Raynaud.md)
 
 4. On the next page, add the "working sessions:" that you want to attend. (Please have a tab space after the colon ":")
 
@@ -61,19 +65,24 @@ https://github.com/OWASP/owasp-summit-2017/blob/master/Participants/ticket-24h-s
 6. When merged, it should reflect on your main profile page after a slight delay of a minute or so.
 
 
-#### 5.How to register as a participant on GitHub?
+#### 5. How do I register as a participant on GitHub?
 There are two types of participants -- Onsite and Remote
 
-To register as a Remote participant:
+To register as a remote participant:
 
-Please make a copy of this remote participant template (https://github.com/OWASP/owasp-summit-2017/blob/master/Participants/_template/remote-participant.md) and add it to this folder (https://github.com/OWASP/owasp-summit-2017/tree/master/Participants/remote)
+Please make a copy of this remote participant template (https://github.com/OWASP/owasp-summit-2017/blob/master/Participants/_template/remote-participant.md) and add it to this folder (https://github.com/OWASP/owasp-summit-2017/tree/master/Participants/remote).
 
-To register as an Onsite participant:
-To add your name to this repo, please fork the repo and create your page here (https://github.com/OWASP/owasp-summit-2017/tree/master/Participants)
+For onsite participants:
 
-#### 6. Where do I stay before or after the summit?
-There are multiple options. Some of the preferred ones are below:
+To add your name to this repo, please fork the repo and create your page here (https://github.com/OWASP/owasp-summit-2017/tree/master/Participants).
+
+
+#### 6. Where can I stay before or after the summit?
+
+There are multiple options. Some of the preferred ones are available at:
+
 https://www.booking.com/hotel/gb/exhimiltonkeynes.nl.html
 
-or check with Woburn directly
+You can also check with Woburn directly at:
+
 http://www.centerparcs.co.uk/hotels_apartments
