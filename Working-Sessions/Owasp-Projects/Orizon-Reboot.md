@@ -43,7 +43,7 @@ years, until in 2017 I kickstarted the Orizon project again from scratch.
 - How will Orizon integrate with Dependency Checker and OWASP ZAP?
 - Should Orizon only support J2EE, or should it also support Android?
 
-### Outcomes
+## Definition of Done
 
 - A team of people interesting in working on Orizon
 - Some agile milestones
