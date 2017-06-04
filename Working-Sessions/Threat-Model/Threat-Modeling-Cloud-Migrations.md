@@ -28,6 +28,10 @@ This Working Session will create a framework to help companies identify and mana
 - What is the attack surface? 
 - Can it go further?
 
+## Definition of Done
+
+- Framework to help companies identify and manage the risks involved in moving to the cloud
+
 ## Who
 
 The target audience for this Working Session is:
