@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : AppSec Article 5 - Collective Defence Agreement
+title        : InfoSec Article 5 - Collective Defence Agreement
 type         : workshop
 track        : CISO
 technology   :
@@ -35,10 +35,11 @@ This Working Session aims to discuss and agree a first draft of 'AppSec Article 
  - Create a first definition of AppSec Article 5 (with rules of engagement)
  - Create a first list of companies that will sign the first version
  
-## Definition of Done
+## Outcomes
 
-- The first version of 'AppSec Article 5', a framework document to promote collaboration between companies and to create a shared mission to protect customer data and company assets
-- List of companies that will sign the first version
+- Create one page document with the statement supported by FAQ 
+- Commitment to go to the boards for commitment
+- Signed letter of intent (CISO's and Heads of)
 
 ## Who
 
@@ -49,3 +50,11 @@ The target audience for this Working Session is:
 ## References
 
  - [Collective defence - Article 5](http://www.nato.int/cps/cn/natohq/topics_110496.htm)
+ 
+ # Working materials
+
+## Content
+
+ - The draft version of 'InfoSec Article 5', a framework document to promote collaboration between companies and to create a shared mission to protect customer data and company assets
+
+## List of companies that will sign the first version
