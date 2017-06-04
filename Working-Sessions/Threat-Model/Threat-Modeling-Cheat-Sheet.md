@@ -45,14 +45,17 @@ Because some teams may find the heavyweight approach too cumbersome and onerous,
  - Weakness library management and integration
  - Lightweight Threat Modeling Steps
  ** What should a lightweight process produce?
- ** What are the simplest list of steps we can follow to arrive at that deliverable?
+ ** What are the simplest steps we can follow to arrive at that deliverable?
+ 
+## Definition of Done
 
+- Threat modelling cheat sheets published for heavy and light-weight approaches
 
 ## Who
 
 The target audience for this Working Session is:
 
- * Application Architects (for DFD creation, templating)
- * Web developers of varying language backgrounds (.NET, Java, PHP, *.js, etc.)
- * DBAs/ DB Developers
- * Security professionals w/ application architecture, software development experience
+ - Application Architects (for DFD creation, templating)
+ - Web developers of varying language backgrounds (.NET, Java, PHP, .js, etc.)
+ - DBAs/ DB Developers
+ - Security professionals w/ application architecture, software development experience
