@@ -183,11 +183,13 @@ class Jekyll_Data
     # normalise some data  todo: refactor calls using helper methods
     data['participants'] =  data['participants']?.split(',')  || []                       # making the participants value an array
     data['organizers'  ] =  data['organizers'  ]?.split(',')  || []                       # making the participants value an array
+    data['invited'     ] =  data['invited'     ]?.split(',')  || []
     data['related-to'  ] =  data['related-to'  ]?.split(',')  || []
     data['topics'      ] =  data['technology'  ]?.split(',')  || []                       # todo: refactor technology to topics in data
 
     data['participants'] = (item.trim() for item in data['participants'] when item != '') # trim all fields to cover for leading or training spaces
     data['organizers'  ] = (item.trim() for item in data['organizers'  ] when item != '')
+    data['invited'     ] = (item.trim() for item in data['invited'     ] when item != '')
     data['related-to'  ] = (item.trim() for item in data['related-to'  ] when item != '')
     data['topics'      ] = (item.trim() for item in data['topics'      ] when item != '')
 
@@ -207,6 +209,7 @@ class Jekyll_Data
         topics      : @.resolve_Topics  metadata.topics       || []    # change to topics after refactoring of content mappings
         organizers  : @.resolve_Names   metadata.organizers   || []
         participants: @.resolve_Names   @.resolve_Participants_XRef(metadata.participants || [], name)
+        invited     : @.resolve_Names   metadata.invited      || []
         'related-to': @.resolve_Working_Sessions @.resolve_Related_To name
         metadata    : metadata
 

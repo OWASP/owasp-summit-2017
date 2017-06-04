@@ -18,6 +18,12 @@
       {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
       {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
       {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
+      {%    endfor                                  %}<br/>{% endif                                      %}
+      {% assign title = 'Invited'                   %}
+      {% assign list  = data.invited                %}{% if list.size > 0                           %}<b>{{title}}: &#32;</b>{%    for item in list                        %}
+      {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
+      {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
+      {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
       {%    endfor                                  %}<br/>{% endif                                      %}{% if page.owasp-project and page.track != 'Project Summit' %}<b>Part of the &#32;</b><a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a>{% endif %}<br/><b>When: &#32;</b><a href="/pages/schedule/{{data.metadata.when-day}}.html">{{data.metadata.when-day}}</a><br/><b>Time: {{ data.metadata.when-time }}</b><br/><b>Location: {{ data.metadata.location  }}</b><br/>
     </div>
     <hr/>{{ content }}{% if data.related-to.size > 0                 %}
