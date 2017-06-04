@@ -21,6 +21,10 @@ participants: Dinis Cruz
  - How to detect malicious functions?
  - What features are missing?
  - Are users aware of existing features?
+ 
+## Definition of Done
+
+...add text...
 
 ## Who
 
