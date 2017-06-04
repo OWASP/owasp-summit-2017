@@ -15,7 +15,7 @@ participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty
 ---
 
 
-Organisations need women to lead projects, including OWASP, where there is room for more female leaders.
+Organisations including OWASP, need women to lead projects, and these organisations have room for more female leaders.
 
 Women currently represent only 11 percent of the cyber security workforce worldwide. This statistic is cause for alarm because it’s a key factor in the massive talent shortage that is impacting this crucially important field. It is estimated that, as of now, there are 1 million unfilled cyber security jobs, and that number is growing fast.
 
@@ -25,11 +25,15 @@ Without women pursuing careers in cyber security, the industry is missing out on
 
 ## Why
 
-The low number of women in cyber security, and ways that we might encourage more women into the field, have received a lot of attention recently. This led me to ponder why I think it is important that more women become cyber security professionals.
+The low number of women in cyber security, and ways that we might encourage more women into the field, have received a lot of attention recently. This led me to ponder why it is important that more women become cyber security professionals.
 
 ## What
 
 I believe that women and others from a broad range of backgrounds can help to re-formulate some of the fundamental principles of cyber security, to answer in a meaningful way questions such as 'What is it that information security enables organisations and people to do?' 'What are the values we hold dear that information security supports?', or ‘What freedoms can we create through cyber security?’
+
+## Definition of Done
+
+...Add text...
 
 ## Who
 
