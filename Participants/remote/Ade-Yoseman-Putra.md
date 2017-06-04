@@ -2,7 +2,7 @@
 layout          : blocks/page-participant
 title           : Ade Yoseman Putra
 type            : participant-remote
-job-title       : Jakarta Chapter Leader 
+job-title       : Information Security Consultant
 email           : ade.putra@owasp.org
 twitter         : OwaspJakarta
 chapter-leader  : Jakarta
