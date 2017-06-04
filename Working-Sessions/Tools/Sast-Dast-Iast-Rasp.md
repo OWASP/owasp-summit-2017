@@ -34,6 +34,6 @@ There are many tools that can help an organisation to check vulnerabilities in t
 The target audience for this Working Session is:
 
 - AppSec professionals
-- *ST and RASP service providers
+- *ST* and RASP service providers
 - Consulting companies
 - Standards bodies
