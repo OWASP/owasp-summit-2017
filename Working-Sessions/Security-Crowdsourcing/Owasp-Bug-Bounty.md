@@ -16,6 +16,10 @@ The OWASP bug bounty programme is the opportunity you are looking for to hack in
 
 At this Working Session, you can learn how we are trying to make web applications safe and how, as a bounty hunter, you can help us to make them more secure.
 
+## Definition of Done
+
+...Add text...
+
 ## Who
 
 The target audience for this Working Session is:
