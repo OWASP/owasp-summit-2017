@@ -4,9 +4,11 @@ title        : The Future of Privacy
 type         : workshop
 owasp-project: no
 organizers   : Ingo Hanke
-track        :
+track        : CISO
 status       : done
 when-day     : Wed
+when-time    : PM-3
+location     : Room-2
 participants : Akshay Sharma, Achim Hoffmann, Johan Peeters
 ---
 

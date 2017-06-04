@@ -7,6 +7,8 @@ technology   : SOC
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-1
+location     : Room-5
 organizers   :
 participants : Mamta Vuppu
 ---

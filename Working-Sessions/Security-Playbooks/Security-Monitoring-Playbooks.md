@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-3
+location     : Room-5
 organizers   :
 participants : Johan Peeters
 ---

@@ -5,6 +5,8 @@ type         : workshop
 status       : more-content
 track        : Security Crowdsourcing
 when-day     : Tue
+when-time    : PM-1,PM-2
+location     : Room-5
 organizers   : Devesh Bhatt
 participants : Francois Raynaud
 ---

@@ -6,6 +6,8 @@ owasp-project : no
 track         : OwaspSAMM
 status        : draft
 when-day      : Tue
+when-time     : PM-2
+location      : Villa-1
 organizers    : Sebastien Deleersnyder
 participants  : Marc Rimbau,Felipe Zipitria, Timo Pagel, Adam O'Brien, Viktor Lindstrom
 ---

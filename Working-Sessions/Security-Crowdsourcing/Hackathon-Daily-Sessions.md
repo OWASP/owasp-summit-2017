@@ -8,6 +8,7 @@ related-to   : Juice Shop
 status       : draft
 when-day     : Mon,Tue,Wed,The
 when-time    : Eve
+location     : Villa-3
 organizers   : Leon Juranic
 participants :
 ---
