@@ -30,7 +30,7 @@ It is also important to discuss using SAST to provide a security benchmark for a
 
 ## Definition of Done
 
-- Guidelines for SAST in companies with multiple development teams
+- Guidelines for using SAST in companies with multiple development teams
 
 ## Who
 
