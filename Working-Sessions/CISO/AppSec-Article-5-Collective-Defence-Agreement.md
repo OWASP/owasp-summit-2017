@@ -50,8 +50,10 @@ The target audience for this Working Session is:
 ## References
 
  - [Collective defence - Article 5](http://www.nato.int/cps/cn/natohq/topics_110496.htm)
- 
- # Working materials
+
+--- 
+
+# Working materials
 
 ## Content
 
