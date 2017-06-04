@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : PM-1
 location     : Room-4
 organizers   :
-participants : Dinis Cruz,Francois Raynaud, Phil Parker
+participants : Dinis Cruz,Francois Raynaud, Phil Parker, Ante Gulam
 ---
 
 ## Why
