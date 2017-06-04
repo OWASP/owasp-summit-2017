@@ -24,10 +24,14 @@ Customers and regulatory bodies tend to be more understanding when communication
 ## What
 
  - Create Media Handling Playbook
+ 
+## Definition of Done
+
+- Media Handling Playbook
 
 ## Who
 
 The target audience for this Working Session is:
 
- - Security Teams
- - PR and Legal departments
+ - Security teams
+ - PR and legal departments
