@@ -3,10 +3,10 @@ layout       : blocks/working-session
 title        : Cheat Sheets
 type         : workshop
 track        : Owasp Projects
-status       : more-content
-when-day     : Mon
+when-day     : Tue
 when-time    : PM-3
 location     : Room-1
+status       : draft
 organizers   :
 participants : Marc Rimbau,Johan Peeters
 ---

@@ -2,6 +2,12 @@ require 'fluentnode'
 
 yaml = require('js-yaml');
 
+sort_By_Key = (data)->
+  sorted_Data = {}
+  for key in data._keys().sort()
+    sorted_Data[key] = data[key]
+  return sorted_Data
+
 class Jekyll_Data
   constructor: ->
     @.folder_Root                 = wallaby?.localProjectDir || __dirname.path_Combine '../../../'
@@ -23,6 +29,7 @@ class Jekyll_Data
     @.participants_Data           = @.file_Json_Participants    .load_Json()                        # cache these for faster access to their data
     @.working_Sessions_Data       = @.file_Json_Working_Sessions.load_Json()                        # todo: there are a couple race conditions related to the sequence of load and cross mappings
     @.topics_Data                 = @.file_Json_Topics          .load_Json()
+    @.schedule_Data               = @.file_Json_Schedule        .load_Json()
 
   map_Participant_Raw_Data: (raw_Data)->
     data         = {}                                                                               # where we are going to store the mapped data
@@ -104,9 +111,13 @@ class Jekyll_Data
             for participant in participants
               map_User participant, 'participating'
 
+      schedule.by_Track[day] = sort_By_Key schedule.by_Track[day]
+
+
+
     schedule.save_Json              @.file_Json_Schedule
     yaml.safeDump(schedule).save_As @.file_Yaml_Schedule
-
+    @.schedule_Data = schedule
 
     data
 
