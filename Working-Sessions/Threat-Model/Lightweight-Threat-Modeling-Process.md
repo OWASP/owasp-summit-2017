@@ -28,6 +28,14 @@ This Working Session aims to produce an overview of how to integrate threat mode
 - Define integration points for TM during CI.
 - Define short (10 items or less) frameworks for threat types, countermeasure types, and component types. Enable these frameworks to tie into larger libraries that will get defined outside the scope of this lightweight process.
 
+## Definition of Done
+
+- Lightweight threat modelling process with artefacts for Agile and/or DevOps environments built
+- "How to" guide for Agile environments built
+- *Application component* library built
+- Schema for a countermeasure library built and defined
+- Short (10 items or less) frameworks for threat types, countermeasure types, and component types defined
+
 ## Who
 
 The target audience for this Working Session is:
