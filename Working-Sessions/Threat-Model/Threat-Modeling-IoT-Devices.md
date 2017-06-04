@@ -25,10 +25,13 @@ Structured thinking about what might go wrong is an essential part of engineerin
 
 ## What
 
-I [Adam] see two potential outcomes:
+* Sample threat model for a thing
+* Engineering tradeoff discussion documents for common suggestions (eg, "change password on deploy" vs "cloud management")
 
-* Sample threat model for a thing?
-* Engineering tradeoff discussion documents for common suggestions? (eg, "change password on deploy" vs "cloud management")
+## Definition of Done
+
+- Sample threat model
+- Discussion documents
 
 ## Who
 
