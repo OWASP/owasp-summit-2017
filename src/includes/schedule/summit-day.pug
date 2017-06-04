@@ -1,3 +1,5 @@
+include ../mixins/schedule.jade
+
 mixin show-session-at-time
     | {% for session in day_Data[time]              %}
     div
@@ -35,21 +37,23 @@ mixin show-room
 .page-content
     .schedule
         h3 {{ page.title }}
-
         hr
         ul
-            b Daily Schedule: &#32;&#32;&#32;
-            a(href='./Mon.html'   ) Monday
-            span &#32;|&#32;
-            a(href='./Tue.html'  ) Tuesday
-            span &#32;|&#32;
-            a(href='./Wed.html') Wednesday
-            span &#32;|&#32;
-            a(href='./Thu.html' ) Thursday
-            span &#32;|&#32;
-            a(href='./Fri.html'   ) Friday
-            span &#32;|&#32;Back to &#32;
-            a(href='/pages/schedule') Schedule list
+            + add-days-links
+            + add-schedule-links
+
+            //b Daily Schedule: &#32;&#32;&#32;
+            //a(href='./Mon.html'   ) Monday
+            //span &#32;|&#32;
+            //a(href='./Tue.html'  ) Tuesday
+            //span &#32;|&#32;
+            //a(href='./Wed.html') Wednesday
+            //span &#32;|&#32;
+            //a(href='./Thu.html' ) Thursday
+            //span &#32;|&#32;
+            //a(href='./Fri.html'   ) Friday
+            //span &#32;|&#32;Back to &#32;
+            //a(href='/pages/schedule') Schedule list
 
         hr
         table.table

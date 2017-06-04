@@ -2,12 +2,12 @@
 layout       : blocks/working-session
 title        : Hackathon Daily Sessions
 type         : workshop
-owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   : Juice Shop
 status       : draft
-when-day     : Eve
+when-day     : Mon,Tue,Wed,The
+when-time    : Eve
 organizers   : Leon Juranic
 participants :
 ---
