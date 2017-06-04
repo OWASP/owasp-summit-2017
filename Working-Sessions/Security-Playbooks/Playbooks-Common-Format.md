@@ -28,6 +28,11 @@ The Working Session will explore these issues to prepare for the various Playboo
  - Review current formats
  - Define common playbook format
  - Create plan for how it will be used on the Playbook Working Sessions
+ 
+## Definition of Done
+
+- Template for playbooks
+- Plan for how template will be used in the Playbook Working Sessions.
 
 ## Who
 
