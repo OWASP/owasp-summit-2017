@@ -24,6 +24,10 @@ This Working Session aims to use the community attending the Summit to perform a
 
  - Perform Security review to GraphQL
  - Improve existing Security documentation and guidance
+ 
+## Definition of Done
+
+- Revised security documentation and guidance
 
 ## Who
 
