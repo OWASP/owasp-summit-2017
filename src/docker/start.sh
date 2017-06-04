@@ -10,8 +10,8 @@ docker rm owasp-summit
 docker run --rm --name owasp-summit -it -p 3443:3443 -d diniscruz/owasp-summit
 
 docker ps
-sleep 1
-open https://192.168.99.100:3443
+#sleep 1
+#open https://192.168.99.100:3443
 
 docker logs -f owasp-summit
 

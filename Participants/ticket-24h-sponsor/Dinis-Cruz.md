@@ -15,7 +15,9 @@ working-sessions:
 ---
 
 
-Dinis Cruz is a Developer and Application Security Engineer focused on how to develop secure applications. A key drive is on 'Automating Application Security Knowledge and Workflows' which is the main concept behind the OWASP O2 Platform.
+Dinis Cruz is a CISO, Developer and Application Security Engineer focused on how to develop secure applications.
+
+A key drive is on 'Automating Application Security Knowledge and Workflows' which also happens to be the main concept behind the OWASP O2 Platform.
 
 After many years (and multiple roles) Dinis is still very active at OWASP, currently leading the O2 Platform project and helping out other projects and initiatives.
 
