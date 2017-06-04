@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : SAMM Metrics for Enterprise
+title        : SAMM Metrics for Enterprises
 type         : workshop
 track        : CISO
 technology   :
@@ -31,3 +31,16 @@ OWASP SAMM is not geared for this out of the box, but can be leveraged very effe
  - Future CISOs
  - Metrics analysts
  - AppSec analysts
+
+## Outcomes
+
+- Compile the list of OpenSAMM controls that should be done by central security teams
+- Compile the list of OpenSAMM controls that should be done by individual teams (operational/development)
+- Create a Top 10 questions for enterprises that the OpenSAMM based asessment should answer
+ 
+---
+
+# Working materials
+
+- Definition of OpenSAMM for enterprises
+
