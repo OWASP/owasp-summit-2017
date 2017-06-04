@@ -23,6 +23,10 @@ participants :
 
 ...what text...
 
+## Definition of Done
+
+...Add text...
+
 ## Who
 
 ... target audience ...
