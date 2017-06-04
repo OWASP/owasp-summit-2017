@@ -29,6 +29,10 @@ The Working Session will create Security Monitoring Playbooks.
 ## What
 
  - Create Security Monitoring Playbooks for use by the Community
+ 
+## Definition of Done
+
+- Security Monitoring Playbooks
 
 ## Who
 
