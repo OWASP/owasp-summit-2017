@@ -20,6 +20,10 @@ When that happens, it is imperative that clean workflows (aka playbooks) exist, 
 ## What
 
  - Create Ransomware Playbook
+ 
+## Definition of Done
+
+- Ransomware Playbook
 
 ## Who
 
