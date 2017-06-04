@@ -1,7 +1,7 @@
 ---
 layout       : blocks/page-component
-component    : schedule/summit-day.html
+component    : schedule/summit-day-by-room.html
 day          : Mon
-title        : Summit Schedule for Monday
+title        : Summit Schedule for Monday (by Room)
 type         : schedule
 ---
