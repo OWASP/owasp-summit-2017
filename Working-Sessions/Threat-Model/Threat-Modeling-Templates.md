@@ -45,7 +45,10 @@ Threat modelling needs greater adoption into current SDLC methodologies. Many de
  * Threat library for each template developed
  * Design mitigations or programmatic countermeasures recommended for associated threat library for each template
  * Weakness library management and integration
+ 
+## Definition of Done
 
+- 5 threat modelling templates created
 
 ## Who
 

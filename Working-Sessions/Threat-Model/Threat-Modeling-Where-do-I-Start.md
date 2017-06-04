@@ -28,6 +28,10 @@ For an organisation or group to understand and use threat modelling, they should
 - Who should be involved? 
 - For starting threat modelling on an existing project/codebase - how to start without the need to cover everything (this shares some similarities with introducing tests to legacy software)
 
+## Definition of Done
+
+- Guidelines for the effective use of threat modelling
+
 ## Who
 
 The target audience for this Working Session is:

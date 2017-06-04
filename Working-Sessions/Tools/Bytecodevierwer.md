@@ -19,8 +19,6 @@ This workshop is the result of five months of research into pen testing mobile A
 
 ## What
 
-12, 13 June - 2017
-
 This workshop will provide attendees with knowledge on the following areas:
 
 - The process of pen testing Mobile Android applications vs Web Apps
@@ -44,7 +42,11 @@ Reverse engineering APKS with Bytecodevierwer (Pre-release 3.0.0) features:
 - Signing APKS after de-compilation in Smali
 - Improved search functionality
 
-### Who
+## Definition of Done
+
+... add text...
+
+## Who
 
 The target audience for this Working Session is:
 
