@@ -51,11 +51,14 @@ The target audience for this Working Session is:
 
  - [Collective defence - Article 5](http://www.nato.int/cps/cn/natohq/topics_110496.htm)
 
+
 --- 
 
 # Working materials
 
-## Content
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
 
  - The draft version of 'InfoSec Article 5', a framework document to promote collaboration between companies and to create a shared mission to protect customer data and company assets
 
