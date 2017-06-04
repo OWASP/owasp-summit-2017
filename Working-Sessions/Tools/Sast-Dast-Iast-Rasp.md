@@ -24,6 +24,11 @@ There are many tools that can help an organisation to check vulnerabilities in t
  - How to parse and filter results? 
  - Draft recommendations for writing specific tests
 
+## Definition of Done
+
+- Cheat sheets for tools usage
+- Draft recommendations for writing specific tests
+
 ## Who
 
 The target audience for this Working Session is:
