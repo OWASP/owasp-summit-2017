@@ -28,6 +28,10 @@ This Working Session aims to leverage the knowledge of those who have experience
 -	What are the risks?
 -	What commercial companies can run a bug bounty?
 
+## Definition of Done
+
+- Playbook for internal bug bounties
+
 ## Who
 
 The target audience for this Working Session is:

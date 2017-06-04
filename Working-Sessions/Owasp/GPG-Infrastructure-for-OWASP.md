@@ -22,6 +22,11 @@ OWASP needs an organisational and technical infrastructure to sign documents and
 * Leaders should have a GPG key signed by OWASP's "master key" at end of the Summit
 * TBD …
 
+## Definition of Done
+
+- GPG infrastructure for OWASP
+- GPG key signed by OWASP's "master key" at end of the Summit
+
 ## Who
 
 The target audience for this Working Session is:
