@@ -233,7 +233,7 @@ class Jekyll_Data
 
   resolve_Related_To: (name)->
     result = []
-    data = @.working_Sessions_Data[name]
+    data = @.working_Sessions_Data?[name]
     if data
       result = data.metadata['related-to'] || []
       for key,value of @.working_Sessions_Data
@@ -247,7 +247,7 @@ class Jekyll_Data
     result = []
     if names
       for name in names
-        data = @.topics_Data[name]
+        data = @.topics_Data?[name]
         if data
           result.add
             name   : name
@@ -261,7 +261,7 @@ class Jekyll_Data
     result = []
     if names
       for name in names
-        data = @.working_Sessions_Data[name]
+        data = @.working_Sessions_Data?[name]
         if data
           result.add
             name   : name
@@ -271,7 +271,7 @@ class Jekyll_Data
     result
 
   working_Session: (name)->
-    @.working_Sessions_Data[name] || null
+    @.working_Sessions_Data?[name] || null
 
 
 
