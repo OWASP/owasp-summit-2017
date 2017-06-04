@@ -56,10 +56,10 @@ class Server
 
   start_Server_SSL: =>
     options =
-      #key: fs.readFileSync('./src/server/cert/key.pem'),
-      #cert: fs.readFileSync('./src/server/cert/cert.pem')
-      key: fs.readFileSync('./cert/privkey.pem'),
-      cert: fs.readFileSync('./cert/fullchain.pem')
+      key: fs.readFileSync('./src/server/cert/key.pem'),
+      cert: fs.readFileSync('./src/server/cert/cert.pem')
+      #key: fs.readFileSync('./cert/privkey.pem'),
+      #cert: fs.readFileSync('./cert/fullchain.pem')
 
     @.server      = https.createServer(options, @.app).listen @.port
 

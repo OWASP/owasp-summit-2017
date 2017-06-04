@@ -1,4 +1,4 @@
-FROM        diniscruz/owasp-summit
+FROM        diniscruz/owasp-summit-base
 
 RUN         git pull origin
 
