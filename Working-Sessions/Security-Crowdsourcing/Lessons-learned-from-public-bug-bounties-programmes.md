@@ -24,6 +24,11 @@ This Working Session seeks to leverage this knowledge and experience present at 
 -	How to improve bug bounty programmes 
 -	How to anticipate and therefore avoid problems
 
+## Definition of Done
+
+- List of top 10 lessons from bug bounty experts
+- Guidelines on improving bug bounty programmes
+
 ## Who
 
 The target audience for this Working Session is:
