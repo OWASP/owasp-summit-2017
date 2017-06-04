@@ -29,6 +29,9 @@ A cross-company hackathon is a great way to create and develop a culture of coll
 - Rewards systems
 -	Where and how will the hackathon fit within the development lifecycle?
 
+## Definition of Done
+
+- Playbook on cross-company hackathons
 
 ## Who
 
