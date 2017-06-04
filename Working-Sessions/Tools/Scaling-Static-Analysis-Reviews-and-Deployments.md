@@ -28,6 +28,10 @@ The challenges to discuss in this Working Session include the following:
 
 It is also important to discuss using SAST to provide a security benchmark for applications, websites, and IoT devices.
 
+## Definition of Done
+
+- Guidelines for using SAST in companies with multiple development teams
+
 ## Who
 
 The target audience for this Working Session is:
