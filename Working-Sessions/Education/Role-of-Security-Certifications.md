@@ -8,8 +8,10 @@ technology   :
 related-to   :
 status       : done
 when-day     : Fri
+Time         : 13:00 to 14:30
+Location     : Maulden
 organizers   : Ade Yoseman Putra
-participants :
+participants : Mohammad Febri Ramadlan, Petty Meisari
 ---
 
 Security certifications may or may not be helpful in furthering a security career, but many security professionals feel they must "comply" with the unspoken expectation that certifications are essential for career advancement. 
