@@ -17,3 +17,7 @@ Working-Sessions:
 
  - Sharing data collected
  - Improving visualizations and data mappings
+ 
+## Definition of Done
+ 
+... Add text... 
