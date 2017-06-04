@@ -28,6 +28,10 @@ This Working Session will discuss and create JIRA workflows for security playboo
  - Create Jira Workflows for Security Playbooks
  - Create examples of those Workflows in action
  - Publish them to Jira marketplace
+ 
+## Definition of Done
+
+- Jira Workflows for Security Playbooks, published to Jira marketplace
 
 ## Who
 
