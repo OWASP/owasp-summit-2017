@@ -10,7 +10,8 @@ when-day     : Mon
 when-time    : PM-1
 location     : Room-4
 organizers   :
-participants : Dinis Cruz,Francois Raynaud, Phil Parker
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam
+invited:     : Neil Barlow, Kevin Fielder
 ---
 
 ## Why
@@ -36,3 +37,18 @@ Questions/topics to consider:
  - DPOs (and DPOs Service providers)
  - CISOs
  - Heads of InfoSec
+ 
+ 
+## Outcomes
+
+- Generate the list of 10 questions for the ICO to clarify the implications for AppSec specifically
+- Generate the list of questions for the ICO regarding general implications
+
+---
+
+# Working materials
+
+# List of questions (AppSec implications)
+
+# List of questions (General implications)
+
