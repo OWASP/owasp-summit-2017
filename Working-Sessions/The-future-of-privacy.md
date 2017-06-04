@@ -16,7 +16,7 @@ Is there a future for privacy?
 
 The target of this session is to illuminate the security of personal data from a strategic point of view:
 risks, controls and measures, and future trends.
-At the end of this session there should be a set of expert statements concerning now and future
+At the end of this session there should be a set of expert statements concerning current and future
 challenges for improving the security of personal data.
 We can use the statements to launch a public OWASP campaign on privacy.
 A session concerning privacy was held during the OWASP Summit 2011 (see (1)) - the results of
@@ -38,7 +38,8 @@ It is possible to argue that privacy is not a priority in the work of OWASP, but
 - Who are the stakeholders of these technical developments?
 - Which driving forces can be used to kick-off development processes?
 
-Potential outcomes
+## Definition of Done
+
 - OWASP Privacy statements
 - Concept of a campaign and compliance of OWASP community and foundation, road map
 
