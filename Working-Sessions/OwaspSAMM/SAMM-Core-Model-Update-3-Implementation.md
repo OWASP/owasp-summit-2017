@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : SAMM - Core Model Update #3 - Implementation
+title        : SAMM - Core Model Update 3 - Implementation
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
