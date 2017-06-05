@@ -22,6 +22,10 @@ The OWASP community is growing in the Latam region and there is a need for a vis
 
 - Plan next OWASP Latam Tour and APPSEC Conferences
 
+## Definition of Done
+
+- Roadmap/ 5-year plan for OWASP in Latin America
+
 ## Who
 
 The target audience for this Working Session is:
