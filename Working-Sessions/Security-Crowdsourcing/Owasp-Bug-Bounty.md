@@ -6,6 +6,8 @@ owasp-project: yes
 track        : Security Crowdsourcing
 status       : more-content
 when-day     : Wed
+when-time    : AM-1
+location     : Room-3
 organizers   :
 participants :
 ---

@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Fri
+when-time    : PM-3
+location     : Room-6
 organizers   : Dave Wichers
 participants :
 ---

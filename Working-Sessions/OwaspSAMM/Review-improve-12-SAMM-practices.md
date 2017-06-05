@@ -6,6 +6,8 @@ owasp-project : no
 track         : OwaspSAMM
 status        : draft
 when-day      : Thu
+when-time     : AM-1,PM-1,PM-2
+location      : Villa-1
 organizers    : Sebastien Deleersnyder
 participants  : Yan Kravchenko, Robert Morschel, Irene Michlin, Viktor Lindstrom
 ---

@@ -13,8 +13,9 @@ email           : geoff.hill@tutamantic.com
 mobile          : 07 858 955 963
 status          : done
 ticket          : 5x8h
-working-sessions:
-# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
+working-sessions: Growing the AppSec Industry, Security Guild vs Security Champions, Threat Modeling Diagramming Techniques, Application Security Guide for CISO, Threat Modeling OWASP Pages, Security Guidance and Feedback in IDE, Writing Security Tests, Integrating Security into an Spotify Model, Maturity Models tool, Review and improve the 12 SAMM practices, SAMM Metrics for Enterprise
+
+
 ---
 
 Founder of Artis-Secure (security consultancy, specifically sSDLC) and Tutamantic (software enabler).

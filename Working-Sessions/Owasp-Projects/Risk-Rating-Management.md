@@ -1,12 +1,14 @@
 ---
-layout      : blocks/working-session
-title       : OWASP Risk Rating Management Project
-type        : workshop
-track       : Owasp Projects
-status      : done
-when-day    : Fri
-organizers  : Ade Yoseman Putra
-participants: Marc Rimbau
+layout       : blocks/working-session
+title        : OWASP Risk Rating Management Project
+type         : workshop
+track        : Owasp Projects
+status       : done
+when-day     : Fri
+when-time    : AM-1
+location     : Room-2
+organizers   : Ade Yoseman Putra
+participants : Marc Rimbau
 ---
 
 ## Why

@@ -6,6 +6,8 @@ track        : Owasp Projects
 technology   : REST
 status       : done
 when-day     : Fri
+when-time    : AM-1
+location     : Room-3
 organizers   : Johan Peeters
 participants : Marc Rimbau,Dinis Cruz,Bjoern Kimminich, Robert Morschel
 ---

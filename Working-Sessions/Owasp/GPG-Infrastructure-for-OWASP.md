@@ -1,12 +1,14 @@
 ---
-layout      : blocks/working-session
-title       : GPG Infrastructure for OWASP
-type        : workshop
-track       : Owasp
-status      : done
-when-day    : Wed
-organizers  : Achim Hoffmann
-participants: Bjoern Kimminich
+layout       : blocks/working-session
+title        : GPG Infrastructure for OWASP
+type         : workshop
+track        : Owasp
+status       : done
+when-day     : Wed
+when-time    : AM-1
+location     : Room-3
+organizers   : Achim Hoffmann
+participants : Bjoern Kimminich
 ---
 
 ## Why

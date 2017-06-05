@@ -7,6 +7,8 @@ status       : more-content
 track        : Owasp Projects
 owasp-project: yes
 when-day     : Wed
+when-time    : PM-2
+location     : Room-3
 organizers   : Paolo Perego
 participants :
 ---

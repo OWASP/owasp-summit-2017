@@ -7,8 +7,10 @@ track        : Agile AppSec
 technology   :
 related-to   : JIRA Risk Workflow
 status       : review-content
-when-day     : Tue
-organizers   : David Clarke
+when-day     : Thu
+when-time    : PM-2
+location     : Room-2
+organizers   : Dinis Cruz
 participants : Ante Gulam, Irene Michlin, Mamta Vuppu, Duncan Hurwood
 ---
 

@@ -2,14 +2,14 @@
 layout       : blocks/working-session
 title        : Women in Cyber
 type         : workshop
-track        :
-technology   : IoT
 layout       : blocks/working-session
-track        :
+track        : CISO
 technology   :
 related-to   : 
-status       : Done
-when-day     : Thu
+status       : done
+when-day     : Fri
+when-time    : AM-2
+location     : Room-2
 organizers   :
 participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari
 ---

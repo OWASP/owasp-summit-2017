@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : definition-of-done
 when-day     : Thu
+when-time    : PM-3
+location     : Room-5
 organizers   :
 participants :
 ---

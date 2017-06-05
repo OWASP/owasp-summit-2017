@@ -9,7 +9,7 @@ related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec In
 status       : review-content
 when-day     : Tue
 when-time    : AM-1
-location     : Room-6
+location     : Room-4
 participants :
 organizers   :
 ---

@@ -10,7 +10,7 @@ status       : review-content
 organizers   : Dinis Cruz
 when-day     : Tue
 when-time    : PM-2
-location     : Room-6
+location     : Room-4
 participants : Avi Douglen, Robert Morschel,ABC
 ---
 

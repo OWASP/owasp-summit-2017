@@ -7,6 +7,8 @@ technology    : Node
 owasp-project : yes
 status        : draft
 when-day      : Thu
+when-time     : PM-3
+location      : Villa-1
 organizers    : Dinis Cruz
 participants  : Sebastien Deleersnyder,Marc Rimbau, Yan Kravchenko,Irene Michlin, Viktor Lindstrom
 ---

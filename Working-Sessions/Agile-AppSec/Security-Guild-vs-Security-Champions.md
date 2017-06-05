@@ -10,7 +10,7 @@ status       : review-content
 when-day     : Mon
 when-time    : PM-2
 location     : Room-1
-organizers   : David Clarke
+organizers   :
 participants : Ante Gulam,Francois Raynaud,Bjoern Kimminich, Duncan Hurwood, Robert Morschel
 ---
 

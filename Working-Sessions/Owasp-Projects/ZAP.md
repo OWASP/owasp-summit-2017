@@ -6,6 +6,8 @@ track        : Owasp Projects
 technology   : Java
 status       : more-content
 when-day     : Wed
+when-time    : PM-3
+location     : Room-3
 organizers   : Simon Bennetts
 participants : Marc Rimbau, Mateo Martinez,Ade Yoseman Putra
 ---

@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Tue
 when-time    : PM-3
-location     : Room-6
+location     : Room-5
 organizers   :
 participants :
 ---

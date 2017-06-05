@@ -10,7 +10,7 @@ status       : review-content
 when-day     : Tue
 when-time    : AM-1
 location     : Room-3
-organizers   : David Clarke
+organizers   :
 participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu
 ---
 

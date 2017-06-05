@@ -7,6 +7,8 @@ technology   : .Net,Docker
 related-to   :
 status       : review-content
 when-day     : Fri
+when-time    : PM-2
+location     : Room-1
 organizers   :
 participants : PhotoBox
 ---

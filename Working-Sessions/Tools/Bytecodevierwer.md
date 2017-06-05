@@ -5,6 +5,8 @@ type         : workshop
 track        : Tools
 technology   : Mobile
 when-day     : Thu
+when-time    : PM-3
+location     : Room-2
 status       : done
 organizers   : Johanna Curiel
 participants :

@@ -8,6 +8,8 @@ status       : review-content
 organizers   : Talal Albacha
 when-day     : Wed
 when-day     : Fri
+when-time    : AM-1
+location     : Room-1
 participants :
 ---
 

@@ -8,6 +8,8 @@ technology   : IDE,SAST
 related-to   : Scaling Static Analysis Reviews and Deployments
 status       : review-content
 when-day     : Wed
+when-time    : AM-1
+location     : Room-1
 participants :
 organizers   :
 ---
