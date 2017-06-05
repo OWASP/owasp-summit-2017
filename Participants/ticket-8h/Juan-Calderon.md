@@ -16,7 +16,7 @@ chapter-leader  :
 funded-who      :
 ticket          : 5x8h
 status          : done
-working-sessions:AppSec Review and Pentest Playbook, Crowdsourcing Security Knowledge, NextGen Security Scanners,Owasp Latam Region,SAMM Metrics for Enterprises,Securing Legacy Applications,WAF Best Practices,ZAP,Browser Security
+working-sessions: AppSec Review and Pentest Playbook, Crowdsourcing Security Knowledge, NextGen Security Scanners,Owasp Latam Region,SAMM Metrics for Enterprises,Securing Legacy Applications,WAF Best Practices,ZAP,Browser Security
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

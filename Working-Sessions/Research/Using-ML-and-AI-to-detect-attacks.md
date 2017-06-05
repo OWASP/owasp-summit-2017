@@ -32,6 +32,10 @@ This Working Session will share common practices; what works today, and what is 
  - How to make learning algorithms aware of malicious data?
  - Can AI be used to reduce false positive findings in security scanners?
  - How can we spread the message among developers and security communities? 
+ 
+## Definition of Done
+
+...add text...
 
 ## Who
 
