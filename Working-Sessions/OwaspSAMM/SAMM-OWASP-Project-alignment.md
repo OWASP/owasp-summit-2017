@@ -9,7 +9,7 @@ when-day     : Tue
 when-time    : PM-2
 location     : Villa-1
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Bjoern Kimminich
 ---
 
 Align SAMM with other OWASP projects. Include OWASP projects as resources for the SAMM practices in SAMM v2.0 (started online [here](https://www.owasp.org/index.php/Category:SAMM-Resources))

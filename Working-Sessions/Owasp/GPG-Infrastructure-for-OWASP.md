@@ -8,7 +8,7 @@ when-day     : Wed
 when-time    : AM-1
 location     : Room-3
 organizers   : Achim Hoffmann
-participants : Bjoern Kimminich
+participants :
 ---
 
 ## Why

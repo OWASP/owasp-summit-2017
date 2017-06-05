@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : SAMM - Core Model Update #1 - Intro
+title        : SAMM - Core Model Update 2 - Dev Methods
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
