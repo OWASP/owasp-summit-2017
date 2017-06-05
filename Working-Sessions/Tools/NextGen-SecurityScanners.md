@@ -5,6 +5,8 @@ type         : workshop
 track        : Tools
 status       : done
 when-day     : Thu
+when-time    : PM-2
+location     : Room-5
 organizers   :
 participants : Bjoern Kimminich,Marc Rimbau,Johan Peeters
 ---
@@ -21,7 +23,7 @@ Today's security scanners were built for yesterday's web applications, based on 
 - How to further assist users during proxied manual pen tests?
 - How can vulnerable applications like [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) be used by scanner vendors as a sample victim?
 
-### Potential outcomes
+## Definition of Done
 
 - OWASP ZAP extensions for JavaScript client-side code analysis
 - Improvements of OWASP ZAP Ajax Spider

@@ -9,13 +9,13 @@ related-to   :
 status       : review-content
 when-day     : Tue
 when-time    : PM-3
-location     : Room-6
+location     : Room-5
 organizers   :
 participants :
 ---
 
-Given the current skills shortage in all fields of security, it is essential that we maximize resources and opportunities for
-talent looking for interesting and profitable engagements, and companies looking for talent.
+Given the current skills shortage in all fields of security, it is essential that we maximise resources and opportunities for
+talent looking for interesting and profitable engagements, and for companies looking for talent.
 
 ## Why
 
@@ -34,6 +34,10 @@ This Working Session will address this problem by exploring the possibility of c
  - What is the financial model that makes sense for both talent and hiring companies?
  - How would this talent marketplace benefit companies and security talent?
  - Is OWASP leadership a good benchmark for talent?
+ 
+## Definition of Done
+
+- Roadmap for a skills market for security talent
 
 ## Who
 

@@ -6,6 +6,8 @@ organizers   :
 track        : Owasp
 status       : done
 when-day     : Thu
+when-time    : AM-1
+location     : Room-3
 organizers   : Ingo Hanke
 participants :
 ---

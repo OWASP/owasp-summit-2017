@@ -26,3 +26,8 @@ mixin show-participants
     | {% assign title = 'Participants(s)'           %}
     | {% assign list  = data.participants           %}
     + show-users-with-links
+
+mixin show-invites
+    | {% assign title = 'Invited'                   %}
+    | {% assign list  = data.invited                %}
+    + show-users-with-links

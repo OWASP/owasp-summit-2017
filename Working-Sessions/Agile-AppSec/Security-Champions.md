@@ -6,6 +6,8 @@ track        : Agile AppSec
 related-to   : Threat-Model,DevSecOps,CISO
 status       : review-content
 when-day     : Tue
+when-time    : PM-3
+location     : Room-3
 organizers   :
 participants : Francois Raynaud
 ---

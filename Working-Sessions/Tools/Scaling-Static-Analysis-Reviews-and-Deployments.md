@@ -8,6 +8,8 @@ technology   : SAST
 related-to   : Securing the CI Pipeline,Integrating Security Tools in the SDL
 status       : review-content
 when-day     : Fri
+when-time    : PM-1
+location     : Room-1
 participants : Avi Douglen, Robert Morschel
 organizers   :
 ---
@@ -27,6 +29,10 @@ The challenges to discuss in this Working Session include the following:
  - Presenting findings in developer's IDEs
 
 It is also important to discuss using SAST to provide a security benchmark for applications, websites, and IoT devices.
+
+## Definition of Done
+
+- Guidelines for using SAST in companies with multiple development teams
 
 ## Who
 

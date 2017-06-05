@@ -10,7 +10,7 @@ twitter         : laramies
 facebook        :
 ticket          : 5x8h
 status          : done
-working sessions: Threat Model, GDPR, Devsecops
+working sessions: Threat Model, GDPR, DevSecOps
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

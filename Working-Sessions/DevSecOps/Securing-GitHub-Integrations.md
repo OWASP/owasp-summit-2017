@@ -5,6 +5,8 @@ type         : workshop
 track        : DevSecOps
 status       : review-content
 when-day     : Thu
+when-time    : PM-2
+location     : Room-1
 organizers   : Danny Grander
 participants : Francois Raynaud
 ---

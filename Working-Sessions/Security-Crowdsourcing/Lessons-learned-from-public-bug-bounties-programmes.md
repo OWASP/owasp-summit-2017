@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : definition-of-done
 when-day     : Thu
+when-time    : PM-1
+location     : Room-5
 organizers   :
 participants :
 ---
@@ -23,6 +25,11 @@ This Working Session seeks to leverage this knowledge and experience present at 
 -	Top 10 lessons that people have learned
 -	How to improve bug bounty programmes 
 -	How to anticipate and therefore avoid problems
+
+## Definition of Done
+
+- List of top 10 lessons from bug bounty experts
+- Guidelines on improving bug bounty programmes
 
 ## Who
 

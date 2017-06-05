@@ -11,7 +11,7 @@ when-day     : Mon
 when-time    : PM-3
 location     : Room-6
 organizers   :
-participants : Geoff Hill, Irene Michlin, Robert Morschel, Mamta Vuppu, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindström
+participants : Geoff Hill, Irene Michlin, Robert Morschel, Mamta Vuppu, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindström, Christian Martorella
 ---
 
 This session is a discovery session on what threat modelling tools exist currently and what their benefits and weaknesses are.
@@ -26,6 +26,10 @@ A good overview of the number of threat modelling tools available will enable mo
 - What complexity do we want?
    - What information should be included in the threat model?
 - What kind of integration do we want with other systems?
+
+## Definition of Done
+
+... Add text...
 
 ## Who
 

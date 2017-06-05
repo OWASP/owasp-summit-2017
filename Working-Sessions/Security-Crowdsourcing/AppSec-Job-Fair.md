@@ -7,7 +7,9 @@ track        : Security Crowdsourcing
 technology   :
 related-to   : Recruiting AppSec Talent,Role of Security Certification,Crowdsourcing Security Knowledge
 status       : review-content
-when-day     : Eve
+when-day     : Tue
+when-time    : Eve
+location     : Villa-1
 organizers   :
 participants : Ross Tanner,Francois Raynaud,Ade Yoseman Putra
 ---
@@ -25,6 +27,10 @@ This session will also be a great place to have thoughtful conversations about d
  - Companies and recruiters will present job opportunities
  - Informal conversations about the current state of the job market
  - Explore the concept of working 2 days a week on a specific project (while employed by another company)
+ 
+## Definition of Done
+
+... Add text...
 
 ## Who
 

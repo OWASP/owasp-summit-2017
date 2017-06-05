@@ -6,6 +6,8 @@ owasp-project: no
 track        : DevSecOps
 status       : draft
 when-day     : Wed
+when-time    : PM-1
+location     : Room-1
 organizers   : Don Gibson
 participants : Francois Raynaud,Dinis Cruz,Marc Rimbau,Avi Douglen,Irene Michlin, Robert Morschel, Timo Pagel
 ---

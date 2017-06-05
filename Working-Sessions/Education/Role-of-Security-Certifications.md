@@ -8,8 +8,8 @@ technology   :
 related-to   :
 status       : done
 when-day     : Fri
-Time         : 13:00 to 14:30
-Location     : Maulden
+when-time    : PM-1
+location     : Room-6
 organizers   : Ade Yoseman Putra
 participants : Mohammad Febri Ramadlan, Petty Meisari
 ---

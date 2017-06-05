@@ -4,7 +4,9 @@ title        : OWASP Projects Reviews
 type         : workshop
 track        : Owasp Projects
 status       : draft
-when-day     : Tue
+when-day     :
+when-time    :
+location     :
 organizers   : Claudia Casanovas,Johanna Curiel
 participants :
 ---

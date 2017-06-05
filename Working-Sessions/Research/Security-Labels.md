@@ -21,6 +21,10 @@ participants : Dinis Cruz
 
 ...what text...
 
+## Definition of Done
+
+...add text...
+
 ## Who
 
 ... target audience ...

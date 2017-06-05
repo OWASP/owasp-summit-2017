@@ -7,6 +7,8 @@ technology   : GDPR
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-2
+location     : Room-5
 organizers   :
 participants :
 ---
@@ -24,10 +26,14 @@ Customers and regulatory bodies tend to be more understanding when communication
 ## What
 
  - Create Media Handling Playbook
+ 
+## Definition of Done
+
+- Media Handling Playbook
 
 ## Who
 
 The target audience for this Working Session is:
 
- - Security Teams
- - PR and Legal departments
+ - Security teams
+ - PR and legal departments

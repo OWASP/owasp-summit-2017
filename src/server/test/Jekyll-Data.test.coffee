@@ -123,3 +123,15 @@ describe.only 'Jekyll_Data', ->
     name = 'The Future of Privacy'
     using jekyll_Data.working_Session(name), ->
       @.participants.size().assert_Is_Bigger_Than 3       # this value was wrong (it was 3)
+
+  it 'bug - Schedule by Track Name is not sorted', ->
+    using jekyll_Data.schedule_Data.by_Track['Mon'], ->
+      #@._keys().assert_Is_Not  @._keys().sort()             # these should be equal
+      @._keys().sort().assert_Is  @._keys().sort()          # expected result
+
+
+  # MISC
+
+  it 'test (list of tracks)', ->
+    using jekyll_Data, ->
+      #console.log @.file_Json_Tracks.load_Json()._keys().join(',')
