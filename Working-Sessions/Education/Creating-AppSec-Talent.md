@@ -8,6 +8,8 @@ technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
 status       : review-content
 when-day     : Tue
+when-time    : AM-1
+location     : Room-4
 participants :
 organizers   :
 ---
@@ -24,6 +26,10 @@ Given the massive skills shortage in the AppSec industry, we need innovative sol
  - What can be done at university level?
  - What can be done at college level?
  - 'Ethical Hacking' and 'Bug Bounties' have a tool to excite new members
+ 
+## Definition of Done
+
+--add text--
 
 ## Who
 

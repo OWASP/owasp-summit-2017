@@ -1,0 +1,29 @@
+mixin show-topics
+    | {% if data.topics.size > 0                    %}
+    b Topics: &#32;
+    | {%    for topic in data.topics                %}
+    | {%        if topic.url                        %}
+    a(href='{{topic .url}}') {{ topic.name }}
+    | {%        else                                %}
+    span {{ topic.name }}
+    | {%        endif                               %}
+    | {%        if forloop.last != true %}
+    span ,
+    | {%        endif %}
+    | {%    endfor                                  %}
+    | {%  endif                                     %}
+    br
+
+mixin show-related-to
+    | {% if data.related-to.size > 0                 %}
+    h3 Related Working Session(s)
+    ul
+        | {%  for working-session in data.related-to  %}
+        | {%    if working-session .url                     %}
+        li
+            a(href='{{working-session .url}}') {{ working-session.name }}
+        | {%    else                                        %}
+        li  {{ working-session.name }}
+        | {%    endif                                       %}
+        | {%  endfor                                        %}
+    | {%  endif                                             %}

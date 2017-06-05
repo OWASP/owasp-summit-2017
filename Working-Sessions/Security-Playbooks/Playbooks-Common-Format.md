@@ -7,6 +7,8 @@ technology   :
 related-to   : Threat Modeling Diagramming Techniques
 status       : improve-content
 when-day     : Mon
+when-time    : PM-1
+location     : Room-5
 organizers   :
 participants : Yan Kravchenko
 ---
@@ -26,6 +28,11 @@ The Working Session will explore these issues to prepare for the various Playboo
  - Review current formats
  - Define common playbook format
  - Create plan for how it will be used on the Playbook Working Sessions
+ 
+## Definition of Done
+
+- Template for playbooks
+- Plan for how template will be used in the Playbook Working Sessions.
 
 ## Who
 

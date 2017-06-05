@@ -10,16 +10,25 @@ status       : draft
 participants : Johan Peeters
 organizers   : Felipe Zipitria
 ---
+## Why
 
-A key element of DevOps is the securing of the CI Pipeline.
+A key element of DevOps that this Working Session will consider, is the securing of the CI Pipeline.
 
-Doing CI builds, testing and deployments have lots of advantages, when made correctly. Using libraries from 3rd parties in your build, which can be on compromised servers, or even signing your packages or artifacts automatically could end in you delivering compromised software to others.
+Doing CI builds, testing, and deployments have many advantages when done correctly. Using libraries from 3rd parties in your build, which can be on compromised servers, or even signing your packages or artifacts automatically, could result with you delivering compromised software to others.
 
-## Potential outcomes
+## What
 
-- A set of practices for DevOps and Developers?
-- CheatSheet for developers who use third party services?
-- Recommendations for 3rd party service providers? (e.g: provide warning messages of possible insecurities?)
+- Identify best practice for DevOps and Developers
+- Agree what to include in a cheat sheet for developers who use third party services
+- Agree recommendations for 3rd party service providers (for example, provide warning messages of possible insecurities)
+
+## Definition of Done
+
+This Working Session will publish:
+
+- A set of practices for DevOps and Developers
+- Cheat sheet for developers who use third party services
+- Recommendations for 3rd party service providers 
 
 ## Who
 

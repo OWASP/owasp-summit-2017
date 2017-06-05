@@ -6,6 +6,8 @@ owasp-project: yes
 track        : Owasp
 status       : more-content
 when-day     : Thu
+when-time    : PM-2
+location     : Room-3
 organizers   : Mateo Martinez
 participants :
 ---
@@ -19,6 +21,10 @@ The OWASP community is growing in the Latam region and there is a need for a vis
 ## What
 
 - Plan next OWASP Latam Tour and APPSEC Conferences
+
+## Definition of Done
+
+- Roadmap/ 5-year plan for OWASP in Latin America
 
 ## Who
 

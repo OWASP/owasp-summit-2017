@@ -7,9 +7,11 @@ track        : Agile AppSec
 technology   :
 related-to   : JIRA Risk Workflow
 status       : review-content
-when-day     : Tue
-organizers   : David Clarke
-participants : Ante Gulam, Irene Michlin, Mamta Vuppu
+when-day     : Thu
+when-time    : PM-2
+location     : Room-2
+organizers   : Dinis Cruz
+participants : Ante Gulam, Irene Michlin, Mamta Vuppu, Duncan Hurwood
 ---
 
 ## Why
@@ -28,10 +30,15 @@ is that the less Agile a team is, the more risks it will have and the harder it 
  - What other metrics can be used to measure Agile Practices (outside risk)
  - How is this currently being tracked?
 
+## Definition of Done
+
+- Agreed list of risk metrics
+- Dashboards that visualise the data collected
+
 ## Who
 
 The target audience for this Working Session is:
 
 - Security professionals
-- CISO's
+- CISOs
 - Agile practitioners

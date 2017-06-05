@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-1
+location     : Room-4
 organizers   : Yan Kravchenko
 participants :
 ---

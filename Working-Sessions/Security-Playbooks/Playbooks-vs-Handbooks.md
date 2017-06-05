@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Mon
+when-time    : PM-3
+location     : Room-5
 organizers   :
 participants :
 ---
@@ -32,6 +34,10 @@ This Working Session will discuss and clarify these issues with the aim of agree
 
  - Clarify concepts
  - Agree on definition of Playbook
+ 
+## Definition of Done
+
+- Agreed definition of Playbook 
 
 ## Who
 

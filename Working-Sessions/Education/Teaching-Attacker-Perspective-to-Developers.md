@@ -7,7 +7,7 @@ track          : Education
 technology     :
 related-to     : Juice Shop,NodeGoat,Webgoat
 status         : done
-when-day       : Evening
+when-day       : Eve
 organizers     : Bjoern Kimminich
 participants   : Robert Morschel, Timo Pagel
 ---
@@ -23,8 +23,10 @@ participants   : Robert Morschel, Timo Pagel
 
 ## Why
 
-In this working session, we can share our experience with various tools
+In this working session, we will share our experience with various tools
 and services used in practical developer security training sessions.
+
+## What
 
 - How to sell the idea of "breaking" things to developers who typically have constructive mindsets
 - How to integrate exercises into instructor-led training sessions
@@ -33,7 +35,7 @@ and services used in practical developer security training sessions.
 - Run-through of open source tools (like WebGoat, Security Shepherd, Juice Shop)
 - Are vendor demo applications (like AltoroMutual) an option?
 
-## Potential Outcome
+## Definition of Done
 
 - Recommendation for a _Learning Path_ guiding developers through
   various hands-on sessions in an appropriate order (e.g. with
@@ -44,5 +46,9 @@ and services used in practical developer security training sessions.
 ## Who
 
 The target audience for this Working Session is:
+
+- Developers
+- Instructors
+
 
 

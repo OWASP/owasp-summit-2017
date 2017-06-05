@@ -8,6 +8,8 @@ technology   : SAST
 related-to   : Cyber Insurance,CISO,InfoSec Warranties and Guarantees
 status       : review-content
 when-day     : Thu
+when-time    : PM-3
+location     : Room-1
 organizers   : Lucas Ferreira
 participants : Don Gibson,Bjoern Kimminich,Irene Michlin
 ---

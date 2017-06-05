@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : draft
 when-day     : Mon
+when-time    : PM-1
+location     : Room-6
 organizers   :
 participants :
 ---
@@ -21,6 +23,10 @@ OWASP should have content for different types of diagram, different (for example
 ## What
 
 ...what text...
+
+## Definition of Done
+
+...Add text...
 
 ## Who
 

@@ -6,8 +6,10 @@ track        : Owasp Projects
 technology   : Java
 status       : done
 when-day     : Wed
+when-time    : PM-1
+location     : Room-3
 organizers   : Nanne Baars
-participants :
+participants : Ade Yoseman Putra
 ---
 
 ## Why
@@ -25,6 +27,12 @@ This Working Session will explore how WebGoat can be improved.
 - Develop a shared knowledge base for different Goat implementations. Only the language implementation details are 
  different; the explanation about a specific vulnerability and mitigation can be shared
 - Develop more lesson content, for example lessons specifically about crypto 
+
+## Definition of Done
+
+- New test cases
+- New shared knowledge base
+- New lesson content, including content on how to fix vulnerabilities
 
 ##  Who
 

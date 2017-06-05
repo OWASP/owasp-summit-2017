@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : draft
 when-day     : Wed
+when-time    : PM-3
+location     : Room-6
 organizers   :
 participants :
 ---
@@ -21,6 +23,10 @@ participants :
 ## What
 
 ...what text...
+
+## Definition of Done
+
+...add text...
 
 ## Who
 

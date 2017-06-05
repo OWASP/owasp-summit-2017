@@ -4,7 +4,7 @@ title       : DevSecOps vs SecDevOps
 type        : workshop
 track       : DevSecOps
 status      : draft
-when-day    : Evening
+when-day    : Eve
 organizers  : Francois Raynaud
 participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria,Avi Douglen
 ---
@@ -21,6 +21,10 @@ As a community, we need to clarify these terms so that our message is consistent
 
 - Agree on what each term means, perhaps even considering OpsSecDev, OpsDevSec, and BizSecDevOps.
 - Create clear definitions of these terms
+
+## Definition of Done
+
+The Working Session will deliver clear definitions of the terms DevSecOps, SecDevOps, OpsSecDev, OpsDevSec, and BizSecDevOps.
 
 ## Who
 

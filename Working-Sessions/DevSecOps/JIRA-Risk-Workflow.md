@@ -3,9 +3,11 @@ layout       : blocks/working-session
 title        : JIRA Risk Workflow
 type         : workshop
 owasp-project: no
-track        :
+track        : DevSecOps
 status       : draft
 when-day     : Wed
+when-time    : PM-3
+location     : Room-1
 organizers   : Dinis Cruz
 participants : Timo Pagel
 ---

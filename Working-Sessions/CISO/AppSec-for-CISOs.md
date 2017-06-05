@@ -6,7 +6,10 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   :
-status       : draft
+status       : review-content
+when-day     : Thu
+when-time    : PM-2
+location     : Room-4
 organizers   : Don Gibson
 participants :
 ---
@@ -26,9 +29,9 @@ The aim of this Working Session is to examine AppSec from the vantage point of t
 
 - What to beware of
 - How to build teams and policies
-- What frameworks to look out for, 
-- Technologies, 
-- Hints and tips.
+- What frameworks to look out for 
+- Technologies 
+- Hints and tips
 
 ## Who
 

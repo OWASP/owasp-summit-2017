@@ -1,12 +1,14 @@
 ---
-layout      : blocks/working-session
-title       : GPG Infrastructure for OWASP
-type        : workshop
-track       : Owasp
-status      : done
-when-day    : Wed
-organizers  : Achim Hoffmann
-participants: Bjoern Kimminich
+layout       : blocks/working-session
+title        : GPG Infrastructure for OWASP
+type         : workshop
+track        : Owasp
+status       : done
+when-day     : Wed
+when-time    : AM-1
+location     : Room-3
+organizers   : Achim Hoffmann
+participants :
 ---
 
 ## Why
@@ -21,6 +23,11 @@ OWASP needs an organisational and technical infrastructure to sign documents and
 * Technical infrastructure: e-mail addresses, owasp.org/GPG
 * Leaders should have a GPG key signed by OWASP's "master key" at end of the Summit
 * TBD …
+
+## Definition of Done
+
+- GPG infrastructure for OWASP
+- GPG key signed by OWASP's "master key" at end of the Summit
 
 ## Who
 

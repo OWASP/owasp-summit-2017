@@ -8,8 +8,10 @@ technology   :
 related-to   :
 status       : draft
 when-day     : Thu
+when-time    : PM-1
+location     : Room-1
 organizers   : Dicky Stafford
-participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud, Timo Pagel, Robert Morschel, Johan Peeters
+participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud, Timo Pagel, Robert Morschel, Johan Peeters, Bjoern Kimminich
 
 ---
 

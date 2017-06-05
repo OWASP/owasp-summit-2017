@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Fri
+when-time    : PM-3
+location     : Room-5
 organizers   :
 participants :
 ---
@@ -20,6 +22,10 @@ When that happens, it is imperative that clean workflows (aka playbooks) exist, 
 ## What
 
  - Create Ransomware Playbook
+ 
+## Definition of Done
+
+- Ransomware Playbook
 
 ## Who
 

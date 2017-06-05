@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : definition-of-done
 when-day     : Thu
+when-time    : AM-1
+location     : Room-5
 organizers   :
 participants :
 ---
@@ -27,6 +29,10 @@ This Working Session aims to leverage the knowledge of those who have experience
 -	What are the governance issues?
 -	What are the risks?
 -	What commercial companies can run a bug bounty?
+
+## Definition of Done
+
+- Playbook for internal bug bounties
 
 ## Who
 

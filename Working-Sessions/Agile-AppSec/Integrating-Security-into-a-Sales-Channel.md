@@ -8,7 +8,9 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Thu
-organizers   : David Clarke
+when-time    : AM-1
+location     : Room-2
+organizers   :
 participants : Ante Gulam,Francois Raynaud
 ---
 

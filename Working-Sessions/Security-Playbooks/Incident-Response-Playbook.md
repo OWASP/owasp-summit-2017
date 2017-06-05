@@ -7,20 +7,27 @@ technology   : SOC
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-1
+location     : Room-5
 organizers   :
 participants : Mamta Vuppu
 ---
 
 ## Why
 
-Responding to Security Incidents should not be an improvised or non-scripted activity. It is key that workflows and action-plans
-    are created in advance, so that the team's response is consistent, focused and repeatable.
+Responding to security incidents should not be an improvised or non-scripted activity. It is important that workflows and action-plans are created in advance, so that the team's response to an incident is consistent, focused and repeatable.
 
 ## What
 
- - Create Security Monitoring Playbooks that can be used by the Community
+ - Create Security Monitoring playbooks that can be used by the Community
+ 
+## Definition of Done
+
+- Security Monitoring playbooks 
 
 ## Who
+
+The target audience for this Working Session is:
 
  - Security teams
  - SOC teams

@@ -6,6 +6,8 @@ owasp-project: no
 track        : DevSecOps
 status       : draft
 when-day     : Wed
+when-time    : PM-1
+location     : Room-1
 organizers   : Don Gibson
 participants : Francois Raynaud,Dinis Cruz,Marc Rimbau,Avi Douglen,Irene Michlin, Robert Morschel, Timo Pagel
 ---
@@ -14,12 +16,22 @@ Closing the circle
 
 ## Why
 
-This stream is designed to allow members to understand the full data and threat lifecycle, how to manage them and communicate them to all levels, from Board members to Developers.
+This Working Session will allow members to understand the full data and threat lifecycle, how to manage them, and how to communicate them to all levels, from board members to developers.
 
 ## What
 
-Systems, processes, ideas and tips to push this through your company.
+- Systems
+- Processes
+- Ideas and tips to manage threats and vulnerabilities in your company.
+
+## Definition of Done
+
+This Working Session will publish ideas and tips to help companies understand and manage threats and vulnerabilities.
 
 ## Who
 
-Security Architects, CISO and people who are looking at the bigger picture.
+The target audience for this Working Session is:
+
+- Security Architects
+- CISOs
+- People looking at the bigger picture

@@ -1,4 +1,23 @@
-
+{% assign schedule_Data = site.data.mapped.schedule.by_Participant[page.title] %}
+<!--mixin add-participations-on-day_old-->
+<!--    | {% if day != null %}-->
+<!--    | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}-->
+<!--    b {{ day }}-->
+<!--    | {% endif %}-->
+<!--    ul-->
+<!--        | {% for page in day-working-sessions  %}-->
+<!--        | {%    if page.participants contains user or page.organizers contains user %}-->
+<!--        li-->
+<!--            a(href="{{page.url}}") {{ page.title }}-->
+<!--            | {%    if page.organizers contains user %}-->
+<!--            span &#32; (organizing)-->
+<!--            | {%    endif %}-->
+<!--        |{%     endif %}-->
+<!--        |{%     if  working-sessions contains page.title  %}-->
+<!--        li-->
+<!--            a(href="{{page.url}}") {{ page.title }}-->
+<!--        | {%    endif %}-->
+<!--        | {% endfor %}-->
 <h1>{{ page.title }}</h1>
 <h3>
   {{page.job-title }}
@@ -7,95 +26,62 @@
   {% endif                   %}
 </h3>{% if page.image != null %}<img src="{{ page.image }}" alt="{{ page.title }}" class="participant"/>{% endif %}
 {{ content }}
-{% assign user              = page.title  %}
-{% assign working-sessions  = page.working-sessions  %}
 <h2>Working Sessions Schedule</h2>
-<ul>
-  <li>{% assign day = 'Mon' %}
-    {% if day != null %}
-    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
-    <ul>
-      {% for page in day-working-sessions  %}
-      {%    if page.participants contains user or page.organizers contains user %}
-      <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
-      {%     if  working-sessions contains page.title  %}
-      <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
-      {% endfor %}
+<ul>{% assign day = 'Mon' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
+    <ul>{% for time in schedule_Data[day]                     %}
+      <li>{{ time[0] }}
+        <ul>{%    for session in time[1]                  %}
+          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
+        </ul>
+      </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Tue' %}
-    {% if day != null %}
-    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
-    <ul>
-      {% for page in day-working-sessions  %}
-      {%    if page.participants contains user or page.organizers contains user %}
-      <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
-      {%     if  working-sessions contains page.title  %}
-      <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
-      {% endfor %}
+  </li>{% endif                                                      %}{% assign day = 'Tue' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
+    <ul>{% for time in schedule_Data[day]                     %}
+      <li>{{ time[0] }}
+        <ul>{%    for session in time[1]                  %}
+          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
+        </ul>
+      </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Wed' %}
-    {% if day != null %}
-    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
-    <ul>
-      {% for page in day-working-sessions  %}
-      {%    if page.participants contains user or page.organizers contains user %}
-      <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
-      {%     if  working-sessions contains page.title  %}
-      <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
-      {% endfor %}
+  </li>{% endif                                                      %}{% assign day = 'Wed' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
+    <ul>{% for time in schedule_Data[day]                     %}
+      <li>{{ time[0] }}
+        <ul>{%    for session in time[1]                  %}
+          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
+        </ul>
+      </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Thu' %}
-    {% if day != null %}
-    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
-    <ul>
-      {% for page in day-working-sessions  %}
-      {%    if page.participants contains user or page.organizers contains user %}
-      <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
-      {%     if  working-sessions contains page.title  %}
-      <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
-      {% endfor %}
+  </li>{% endif                                                      %}{% assign day = 'Thu' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
+    <ul>{% for time in schedule_Data[day]                     %}
+      <li>{{ time[0] }}
+        <ul>{%    for session in time[1]                  %}
+          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
+        </ul>
+      </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Fri' %}
-    {% if day != null %}
-    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
-    <ul>
-      {% for page in day-working-sessions  %}
-      {%    if page.participants contains user or page.organizers contains user %}
-      <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
-      {%     if  working-sessions contains page.title  %}
-      <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
-      {% endfor %}
+  </li>{% endif                                                      %}{% assign day = 'Fri' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
+    <ul>{% for time in schedule_Data[day]                     %}
+      <li>{{ time[0] }}
+        <ul>{%    for session in time[1]                  %}
+          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
+        </ul>
+      </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li>{% assign day = 'Evening' %}
-    {% if day != null %}
-    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
-    <ul>
-      {% for page in day-working-sessions  %}
-      {%    if page.participants contains user or page.organizers contains user %}
-      <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
-      {%     if  working-sessions contains page.title  %}
-      <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
-      {% endfor %}
+  </li>{% endif                                                      %}{% assign day = 'no-day' %}{% if schedule_Data[day]                                      %}
+  <li><b>{{ day}}</b>
+    <ul>{% for time in schedule_Data[day]                     %}
+      <li>{{ time[0] }}
+        <ul>{%    for session in time[1]                  %}
+          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
+        </ul>
+      </li>{% endfor                                             %}
     </ul>
-  </li>
-  <li><b><i>(not scheduled)</i></b>{% assign day = null %}
-    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.when-day == null' %}
-    {% if day != null %}
-    {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}<b>{{ day }}</b>{% endif %}
-    <ul>
-      {% for page in day-working-sessions  %}
-      {%    if page.participants contains user or page.organizers contains user %}
-      <li><a href="{{page.url}}">{{ page.title }}</a>{%    if page.organizers contains user %}<span>&#32; (organizing)</span>{%    endif %}</li>{%     endif %}
-      {%     if  working-sessions contains page.title  %}
-      <li><a href="{{page.url}}">{{ page.title }}</a></li>{%    endif %}
-      {% endfor %}
-    </ul>
-  </li>
+  </li>{% endif                                                      %}
 </ul>
 <h2>contact details</h2>
 <ul>{% if page.email != null %}

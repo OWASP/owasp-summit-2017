@@ -23,6 +23,10 @@ new 'community supported top 10' will generate
 
 ...what text...
 
+## Definition of Done
+
+...Add text...
+
 ## Who
 
 ... target audience ...

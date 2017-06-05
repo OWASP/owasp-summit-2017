@@ -5,9 +5,11 @@ type         : workshop
 track        : Owasp Projects
 status       : review-content
 description  : The OWASP Testing Guide v4 includes a "best practice" penetration testing framework which users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues. Nowadays the Testing Guide has become the standard to perform a Web Application Penetration Testing and many Companies all around the world have adopted it. It is vital for the project mantaining an updated project that represents the state of the art for WebAppSec.
-when-day     : Tue
+when-day     :
+when-time    :
+location     :
 organizers   : Matteo Meucci
-participants : Mateo Martinez
+participants : Mateo Martinez,Ade Yoseman Putra
 ---
 
 This is the OWASP Testing Guide Project Roadmap for v5.
@@ -19,16 +21,16 @@ http://www.owasp.org/index.php/OWASP_Testing_Project
 
 The OWASP Testing Guide v4 includes a "best practice" penetration testing framework which users can implement in their own organisations. The Testing Guide v4 also includes a "low level" penetration testing guide that describes techniques for testing the most common web application and web service security issues. Today the Testing Guide is the standard to perform Web Application Penetration Testing, and many companies around the world have adopted it. It is vital to maintain an updated project that represents the state of the art for WebAppSec.
 
-The aim of the Working Session is to discuss the scope and content of OWASP Testing Guide v5.
+The aim of the Working Session is to discuss and define the scope and content of OWASP Testing Guide v5.
 
-### Main goals
+## Definition of Done
 
-- Review all the sections in v4,
-- Align the project with the ASVS and OWASP Top 10 vulnerabilities
-- Create a more readable guide, eliminating some sections that are not useful
-- Insert new testing techniques
-- Rationalize some sections as Session Management Testing,
-- Create a new section: Client side security and Firefox extensions testing
+- All sections in v4 reviewed
+- Project aligned with the ASVS and OWASP Top 10 vulnerabilities
+- A more readable guide created that eliminates sections that are not useful
+- New testing techniques inserted
+- Some sections rationalised as Session Management Testing
+- New section created: Client side security and Firefox extensions testing
 
 ### Project v5 Deadlines:
 
@@ -45,4 +47,6 @@ The aim of the Working Session is to discuss the scope and content of OWASP Test
 ## Who
 
 The target audience for this Working Session is:
+
+... Add text...
 

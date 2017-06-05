@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Mon
+when-time    : PM-2
+location     : Room-5
 organizers   :
 participants :
 ---
@@ -33,6 +35,10 @@ Threat Connect also looks interesting:
 ## What
 
  - Create and publish multiple Security Playbooks Diagrams
+ 
+## Definition of Done
+
+- Security playbooks diagrams published
 
 ## Who
 
