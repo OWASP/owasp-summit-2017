@@ -9,7 +9,7 @@ related-to   : Recruiting AppSec Talent,Role of Security Certification,Crowdsour
 status       : review-content
 when-day     : Tue
 when-time    : Eve
-location     : Villa-1
+location     : Villa-2
 organizers   :
 participants : Ross Tanner,Francois Raynaud,Ade Yoseman Putra
 ---
