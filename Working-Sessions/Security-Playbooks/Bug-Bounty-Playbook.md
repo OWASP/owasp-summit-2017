@@ -25,7 +25,11 @@ This Working Session will create a bug bounty playbook.
 
 ## What
 
- - Create Bug Bounty Playbook
+ - Create Bug bounty playbook
+ 
+## Definition of Done
+
+- Bug bounty playbook 
 
 ## Who
 

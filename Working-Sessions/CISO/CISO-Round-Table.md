@@ -9,7 +9,7 @@ when-day     : Wed
 when-time    : AM-1
 location     : Room-4
 organizers   : Ante Gulam
-participants : Dinis Cruz,Mateo Martinez,Yan Kravchenko,Ingo Hanke,Francois Raynaud, Robert Morschel
+participants : Dinis Cruz,Mateo Martinez,Yan Kravchenko,Ingo Hanke,Francois Raynaud, Robert Morschel, Ante Gulam
 ---
 
 Round-table of CISO (and future CISOs) to share ideas on what is going on at this level

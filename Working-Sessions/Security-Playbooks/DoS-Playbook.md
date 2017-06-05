@@ -23,7 +23,11 @@ When that happens, it is essential that very clean workflows (aka playbooks) exi
 
 ## What
 
- - Create DoS Playbook
+ - Create DoS playbook
+ 
+## Definition of Done
+
+- DoS playbook
 
 ## Who
 

@@ -24,6 +24,10 @@ This Working Session will debate whether companies on .NET stacks doing CI deplo
  - Share research and real-world usage of .Net in Docker
  - Review current roadmap
  - Will Microsoft release a Docker alternative?
+ 
+## Definition of Done
+
+- Revised roadmap
 
 ## Who
 

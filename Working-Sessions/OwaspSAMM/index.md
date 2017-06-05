@@ -15,8 +15,9 @@ The SAMM Summit is not a regular conference with speaking slots, but a summit wh
 
 This is an excellent opportunity to influence the direction of SAMM and exchange experiences with your peers.
 
-## Objectives
-Main objectives for the 2017 SAMM Summit are:
+## Objectives/ Definition of Done
+
+The main objectives for the 2017 SAMM Summit are:
 
 1. Draft SAMM2, the "DevOps release"
 2. Assure SAMM leverages other OWASP projects as part of the SAMM practices
