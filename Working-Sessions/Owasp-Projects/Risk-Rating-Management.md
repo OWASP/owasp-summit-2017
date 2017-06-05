@@ -7,8 +7,8 @@ status       : done
 when-day     : Fri
 when-time    : AM-1
 location     : Room-2
-organizers   : Ade Yoseman Putra
-participants : Marc Rimbau
+organizers   : Ade Yoseman Putra, Mohammad Febri Ramadlan
+participants : Marc Rimbau, Petty Meisari
 ---
 
 ## Why
@@ -23,7 +23,18 @@ The OWASP Risk Rating Management Project will help owners/developers to avoid th
 
 ## What
 
-Add 'what' text . . .
+OWASP Risk Rating Management Project is a tool projects aim to educate user who want to assessment more than one or many web application using owasp risk rating mathodologies.
+
+Installation Guide
+
+Clone or download reporsitory from: https://github.com/mohammadfebrir/owasp-riskrating.git
+Save on your local htdocs (xampp/wampp) or /var/www/html/ (lammp)
+Install composer requirement
+Run in command: php artisan serve
+
+more details
+https://github.com/mohammadfebrir/owasp-riskrating
+
 
 ## Definition of Done
 
