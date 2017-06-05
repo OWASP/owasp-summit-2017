@@ -30,6 +30,11 @@ This Working Session will focus on financial tasks, accountability, and transpar
 - One-page cheat sheet for chapter treasurers
 - All outcomes may serve as proposals for discussion with foundation
 
+## Definition of Done
+
+- Agreed set of rules for recording information
+- Cheat sheet for chapter treasurers
+
 ## Who
 
 The target audience for this Working Session is:
