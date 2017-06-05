@@ -25,6 +25,11 @@ Responsible disclosure is a great way to test your assets using multiple perspec
 - Success stories
 - What is the future of responsible disclosure?
 
+## Definition of Done
+
+- Checklists to keep in mind before starting a programme
+- Responsible Disclosure legal framework accepted EU/country wide
+
 ## Who
 
 The target audience for this Working Session is:
