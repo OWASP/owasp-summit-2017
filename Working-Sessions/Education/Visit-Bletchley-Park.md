@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Thu
+when-time    : PM-1,PM-2,PM-3
+location     :
 organizers   : Johan Peeters (1 extra space in car)
 participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom
 need-transportation: Viktor Lindstrom

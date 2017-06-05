@@ -5,6 +5,8 @@ type         : workshop
 track        : Tools
 status       : done
 when-day     : Thu
+when-time    : PM-2
+location     : Room-5
 organizers   :
 participants : Bjoern Kimminich,Marc Rimbau,Johan Peeters
 ---

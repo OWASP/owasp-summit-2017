@@ -9,6 +9,7 @@ related-to   :
 status       : 
 when-day     : Thu
 when-time    : Eve
+location     : Villa-3
 organizers   : Francois Raynaud,Dinis Cruz,Seba
 participants : All
 ---

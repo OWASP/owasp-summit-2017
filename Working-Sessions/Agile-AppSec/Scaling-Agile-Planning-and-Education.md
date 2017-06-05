@@ -7,7 +7,7 @@ track        : Agile AppSec
 technology   :
 related-to   :
 status       : draft
-organizers   : David Clarke
+organizers   :
 participants : Ante Gulam
 ---
 

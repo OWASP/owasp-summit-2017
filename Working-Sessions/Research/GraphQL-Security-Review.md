@@ -7,7 +7,9 @@ track        : Research
 technology   :
 related-to   : Threat Model
 status       : review-content
-when-day     : Fri
+when-day     : Wed
+when-time    : Eve
+location     : Villa-1
 organizers   :
 participants : PhotoBox
 ---

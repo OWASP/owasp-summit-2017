@@ -9,7 +9,7 @@ mixin show-session-at-time
     | {% endfor                                     %}
 
 mixin show-room-day
-    | {% assign day_Data = site.data.mapped.schedule.by_Day[day][room] %}
+    | {% assign day_Data = site.data.mapped.schedule.by_Room[day][room] %}
     | {% assign time = 'AM-1'  %}
     + show-session-at-time
     | {% assign time = 'PM-1'  %}
@@ -24,7 +24,7 @@ mixin show-room-day
     + show-session-at-time
 
 mixin show-room
-    td
+    //td
         h4 {{ room }}
     td
         | {% assign day = 'Mon'  %}
@@ -43,7 +43,7 @@ mixin show-room
         + show-room-day
 
 .page-content
-    .container
+        //.container
         .schedule
             h3 Summit schedule
             p
@@ -51,7 +51,7 @@ mixin show-room
 
             table.table
                 thead
-                    th.text-center
+                    //th.text-center
                         h4 (location)
                     th.text-center
                         h4 Monday
@@ -80,6 +80,12 @@ mixin show-room
                     + show-room
                 tr
                     | {% assign room = 'Villa-1'  %}
+                    + show-room
+                tr
+                    | {% assign room = 'Villa-2'  %}
+                    + show-room
+                tr
+                    | {% assign room = 'Villa-3'  %}
                     + show-room
                 tr
                     | {% assign room = 'no-location'  %}

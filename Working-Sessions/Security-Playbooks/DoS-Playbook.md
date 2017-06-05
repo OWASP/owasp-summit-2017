@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Fri
+when-time    : PM-1
+location     : Room-5
 organizers   :
 participants :
 ---

@@ -5,7 +5,9 @@ type         : workshop
 owasp-project: yes
 track        : Owasp Projects
 technology   : IoT
-status       : draft
+status       : review-content
+when-time    : PM-1
+location     : Room-3
 when-day     : Fri
 organizers   : Daniel Miessler
 participants :

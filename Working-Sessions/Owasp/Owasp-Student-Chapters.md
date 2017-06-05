@@ -6,6 +6,8 @@ owasp-project: yes
 track        : Owasp
 status       : done
 when-day     : Thu
+when-time    : PM-1
+location     : Room-3
 organizers   : Mateo Martinez
 participants :
 ---

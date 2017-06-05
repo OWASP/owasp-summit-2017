@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : draft
 when-day     : Fri
+when-time    : AM-1
+location     : Room-6
 organizers   :
 participants : Irene Michlin
 ---

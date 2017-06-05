@@ -8,9 +8,9 @@ technology   :
 related-to   : JIRA Risk Workflow
 status       : review-content
 when-day     : Thu
-when-time    :
-location     :
-organizers   : David Clarke
+when-time    : PM-2
+location     : Room-2
+organizers   : Dinis Cruz
 participants : Ante Gulam, Irene Michlin, Mamta Vuppu, Duncan Hurwood
 ---
 
