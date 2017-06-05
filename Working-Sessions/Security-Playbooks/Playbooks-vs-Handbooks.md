@@ -34,6 +34,10 @@ This Working Session will discuss and clarify these issues with the aim of agree
 
  - Clarify concepts
  - Agree on definition of Playbook
+ 
+## Definition of Done
+
+- Agreed definition of Playbook 
 
 ## Who
 
