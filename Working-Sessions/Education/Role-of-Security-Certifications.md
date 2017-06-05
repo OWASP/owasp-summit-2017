@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : done
 when-day     : Fri
+when-time    : PM-1
+location     : Room-6
 organizers   : Ade Yoseman Putra
 participants :
 ---

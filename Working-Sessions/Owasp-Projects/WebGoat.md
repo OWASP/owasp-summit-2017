@@ -6,6 +6,8 @@ track        : Owasp Projects
 technology   : Java
 status       : done
 when-day     : Wed
+when-time    : PM-1
+location     : Room-3
 organizers   : Nanne Baars
 participants : Ade Yoseman Putra
 ---

@@ -8,6 +8,8 @@ technology   : TDD
 related-to   : Testing Guide v5
 status       : better-content
 when-day     : Wed
+when-time    : PM-2
+location     : Room-1
 organizers   : Dinis Cruz
 participants : Robert Morschel,Avi Douglen,Bjoern Kimminich, Timo Pagel,Johan Peeters
 ---

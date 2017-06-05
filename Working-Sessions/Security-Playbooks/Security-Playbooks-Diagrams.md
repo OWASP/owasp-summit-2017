@@ -35,6 +35,10 @@ Threat Connect also looks interesting:
 ## What
 
  - Create and publish multiple Security Playbooks Diagrams
+ 
+## Definition of Done
+
+- Security playbooks diagrams published
 
 ## Who
 

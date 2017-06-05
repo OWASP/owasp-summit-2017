@@ -20,6 +20,10 @@ Holacracy is a very interesting organization model which could work well on Trac
  - Create a model that could be used in the Summit (ideally before the Summit Starts)
  - Find Track and Working Sessions organisers that are willing to try this out
  - Find companies who have used it and ask them to share their experiences
+ 
+## Definition of Done
+
+- Holacracy model for use during the Summit
 
 ## Who
 

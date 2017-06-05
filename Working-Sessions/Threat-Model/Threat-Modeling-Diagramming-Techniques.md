@@ -24,6 +24,10 @@ OWASP should have content for different types of diagram, different (for example
 
 ...what text...
 
+## Definition of Done
+
+...Add text...
+
 ## Who
 
 The target audience for this Working Session is:

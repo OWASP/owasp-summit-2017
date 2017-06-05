@@ -2,6 +2,12 @@ require 'fluentnode'
 
 yaml = require('js-yaml');
 
+sort_By_Key = (data)->
+  sorted_Data = {}
+  for key in data._keys().sort()
+    sorted_Data[key] = data[key]
+  return sorted_Data
+
 class Jekyll_Data
   constructor: ->
     @.folder_Root                 = wallaby?.localProjectDir || __dirname.path_Combine '../../../'
@@ -23,6 +29,7 @@ class Jekyll_Data
     @.participants_Data           = @.file_Json_Participants    .load_Json()                        # cache these for faster access to their data
     @.working_Sessions_Data       = @.file_Json_Working_Sessions.load_Json()                        # todo: there are a couple race conditions related to the sequence of load and cross mappings
     @.topics_Data                 = @.file_Json_Topics          .load_Json()
+    @.schedule_Data               = @.file_Json_Schedule        .load_Json()
 
   map_Participant_Raw_Data: (raw_Data)->
     data         = {}                                                                               # where we are going to store the mapped data
@@ -104,9 +111,13 @@ class Jekyll_Data
             for participant in participants
               map_User participant, 'participating'
 
+      schedule.by_Track[day] = sort_By_Key schedule.by_Track[day]
+
+
+
     schedule.save_Json              @.file_Json_Schedule
     yaml.safeDump(schedule).save_As @.file_Yaml_Schedule
-
+    @.schedule_Data = schedule
 
     data
 
@@ -172,11 +183,13 @@ class Jekyll_Data
     # normalise some data  todo: refactor calls using helper methods
     data['participants'] =  data['participants']?.split(',')  || []                       # making the participants value an array
     data['organizers'  ] =  data['organizers'  ]?.split(',')  || []                       # making the participants value an array
+    data['invited'     ] =  data['invited'     ]?.split(',')  || []
     data['related-to'  ] =  data['related-to'  ]?.split(',')  || []
     data['topics'      ] =  data['technology'  ]?.split(',')  || []                       # todo: refactor technology to topics in data
 
     data['participants'] = (item.trim() for item in data['participants'] when item != '') # trim all fields to cover for leading or training spaces
     data['organizers'  ] = (item.trim() for item in data['organizers'  ] when item != '')
+    data['invited'     ] = (item.trim() for item in data['invited'     ] when item != '')
     data['related-to'  ] = (item.trim() for item in data['related-to'  ] when item != '')
     data['topics'      ] = (item.trim() for item in data['topics'      ] when item != '')
 
@@ -196,6 +209,7 @@ class Jekyll_Data
         topics      : @.resolve_Topics  metadata.topics       || []    # change to topics after refactoring of content mappings
         organizers  : @.resolve_Names   metadata.organizers   || []
         participants: @.resolve_Names   @.resolve_Participants_XRef(metadata.participants || [], name)
+        invited     : @.resolve_Names   metadata.invited      || []
         'related-to': @.resolve_Working_Sessions @.resolve_Related_To name
         metadata    : metadata
 
@@ -233,7 +247,7 @@ class Jekyll_Data
 
   resolve_Related_To: (name)->
     result = []
-    data = @.working_Sessions_Data[name]
+    data = @.working_Sessions_Data?[name]
     if data
       result = data.metadata['related-to'] || []
       for key,value of @.working_Sessions_Data
@@ -247,7 +261,7 @@ class Jekyll_Data
     result = []
     if names
       for name in names
-        data = @.topics_Data[name]
+        data = @.topics_Data?[name]
         if data
           result.add
             name   : name
@@ -261,7 +275,7 @@ class Jekyll_Data
     result = []
     if names
       for name in names
-        data = @.working_Sessions_Data[name]
+        data = @.working_Sessions_Data?[name]
         if data
           result.add
             name   : name
@@ -271,7 +285,7 @@ class Jekyll_Data
     result
 
   working_Session: (name)->
-    @.working_Sessions_Data[name] || null
+    @.working_Sessions_Data?[name] || null
 
 
 

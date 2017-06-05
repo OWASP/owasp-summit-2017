@@ -8,6 +8,8 @@ technology   : TLS
 owasp-project: yes
 status       : done
 when-day     : Tue
+when-time    : PM-1
+location     : Room-1
 organizers   : Achim Hoffmann
 participants : Marc Rimbau, Ingo Hanke
 ---

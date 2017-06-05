@@ -8,7 +8,9 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Thu
-organizers   : David Clarke
+when-time    : PM-1
+location     : Room-2
+organizers   :
 participants : Ante Gulam
 ---
 

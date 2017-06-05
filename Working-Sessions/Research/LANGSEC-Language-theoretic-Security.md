@@ -27,6 +27,10 @@ participants : Johan Peeters
 
 ...what text...
 
+## Definition of Done
+
+...add text...
+
 ## Who
 
 ... target audience ...

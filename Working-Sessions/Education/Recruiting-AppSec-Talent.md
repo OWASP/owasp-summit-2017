@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Tue
+when-time    : PM-1
+location     : Room-4
 participants : Ade Yoseman Putra
 organizers   : Avi Douglen
 ---

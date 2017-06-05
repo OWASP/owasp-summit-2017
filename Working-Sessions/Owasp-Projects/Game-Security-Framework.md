@@ -6,6 +6,8 @@ owasp-project: yes
 track        : Owasp Projects
 status       : needs-content
 when-day     : Fri
+when-time    : PM-2
+location     : Room-3
 organizers   : Daniel Miessler,Azzeddine Ramrami
 participants :
 ---

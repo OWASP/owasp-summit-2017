@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-3
+location     : Room-5
 organizers   :
 participants : Johan Peeters
 ---
@@ -29,6 +31,10 @@ The Working Session will create Security Monitoring Playbooks.
 ## What
 
  - Create Security Monitoring Playbooks for use by the Community
+ 
+## Definition of Done
+
+- Security Monitoring Playbooks
 
 ## Who
 

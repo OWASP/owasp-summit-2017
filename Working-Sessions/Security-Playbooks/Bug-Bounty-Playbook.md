@@ -7,6 +7,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Fri
+when-time    : AM-1
+location     : Room-5
 organizers   :
 participants :
 ---
@@ -23,7 +25,11 @@ This Working Session will create a bug bounty playbook.
 
 ## What
 
- - Create Bug Bounty Playbook
+ - Create Bug bounty playbook
+ 
+## Definition of Done
+
+- Bug bounty playbook 
 
 ## Who
 

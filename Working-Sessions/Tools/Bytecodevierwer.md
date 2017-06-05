@@ -5,6 +5,8 @@ type         : workshop
 track        : Tools
 technology   : Mobile
 when-day     : Thu
+when-time    : PM-3
+location     : Room-2
 status       : done
 organizers   : Johanna Curiel
 participants :
@@ -18,8 +20,6 @@ Because Bytecodeviewer is possibly the best open source tool to reverse engineer
 This workshop is the result of five months of research into pen testing mobile APK's @Securify.nl
 
 ## What
-
-12, 13 June - 2017
 
 This workshop will provide attendees with knowledge on the following areas:
 
@@ -44,7 +44,11 @@ Reverse engineering APKS with Bytecodevierwer (Pre-release 3.0.0) features:
 - Signing APKS after de-compilation in Smali
 - Improved search functionality
 
-### Who
+## Definition of Done
+
+... add text...
+
+## Who
 
 The target audience for this Working Session is:
 

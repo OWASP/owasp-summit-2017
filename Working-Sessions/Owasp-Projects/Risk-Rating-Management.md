@@ -1,14 +1,14 @@
 ---
-layout      : blocks/working-session
-title       : OWASP Risk Rating Management Project
-type        : workshop
-track       : Owasp Projects
-status      : done
-when-day    : Fri
-Time        : 10:00 to 12:00
-Location    : Maulden
-organizers  : Ade Yoseman Putra, Mohammad Febri Ramadlan
-participants: Marc Rimbau, Petty Meisari
+layout       : blocks/working-session
+title        : OWASP Risk Rating Management Project
+type         : workshop
+track        : Owasp Projects
+status       : done
+when-day     : Fri
+when-time    : AM-1
+location     : Room-2
+organizers   : Ade Yoseman Putra, Mohammad Febri Ramadlan
+participants : Marc Rimbau, Petty Meisari
 ---
 
 ## Why

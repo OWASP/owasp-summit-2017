@@ -7,6 +7,8 @@ status       : done
 technology   : Node
 description  : NodeGoat is a deliberately insecure NodeJS web application maintained by a small collection of OWASP leaders/members, designed to teach web application security and the importance of moving the finding and fixing of defects to within the Development Teams Sprints.
 when-day     : Tue
+when-time    : AM-1
+location     : Room-1
 organizers   : Kim Carter
 participants :
 ---

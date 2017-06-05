@@ -10,11 +10,11 @@ See [Summit Schedule](./summit-schedule.html) for a mapping of all Working Sessi
 ### Daily Schedules
 
 **By room**
-* [Monday](./Mon.html)
-* [Tuesday](./Tue.html)
-* [Wednesday](./Wed.html)
-* [Thursday](./Thu.html)
-* [Friday](./Fri.html)
+* [Monday](./by-room/Mon.html)
+* [Tuesday](./by-room/Tue.html)
+* [Wednesday](./by-room/Wed.html)
+* [Thursday](./by-room/Thu.html)
+* [Friday](./by-room/Fri.html)
 
 **By Track**
 * [Monday](./by-track/Mon.html)

@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : definition-of-done
 when-day     : Thu
+when-time    : PM-3
+location     : Room-5
 organizers   :
 participants :
 ---
@@ -29,6 +31,9 @@ A cross-company hackathon is a great way to create and develop a culture of coll
 - Rewards systems
 -	Where and how will the hackathon fit within the development lifecycle?
 
+## Definition of Done
+
+- Playbook on cross-company hackathons
 
 ## Who
 
