@@ -23,6 +23,10 @@ The Student Chapter community is growing and we need to define a direction and e
 - Discuss the future of OWASP Student Chapters
 - Discuss content of Student Chapter Leader Handbook
 
+## Definition of Done
+
+- Draft Student Chapter Leader Handbook
+
 ## Who
 
 The target audience for this Working Session is:

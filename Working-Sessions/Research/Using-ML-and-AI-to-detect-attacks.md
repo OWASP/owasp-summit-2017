@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Using ML and AI to detect Attacks
+title        : Machine Learning and Security
 type         : workshop
 owasp-project: no
 track        : Research

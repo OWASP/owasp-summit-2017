@@ -38,7 +38,13 @@ https://github.com/mohammadfebrir/owasp-riskrating
 
 ## Definition of Done
 
-...Add text...
+ How to use OWASP Risk Rating Methodology: 
+ Step 1: Identifying a Risk 
+ Step 2: Factors for Estimating Likelihood 
+ Step 3: Factors for Estimating Impact 
+ Step 4: Determining Severity of the Risk 
+ Step 5: Deciding What to Fix 
+ Step 6: Customizing Your Risk Rating Model
 
 ## Who
 

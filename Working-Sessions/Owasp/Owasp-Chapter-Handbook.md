@@ -32,13 +32,18 @@ This Working Session will discuss and agree on any open issues. The session will
     - creating a new chapter
 - All outcomes are not final, and will serve as input for Foundation
 
+## Definition of Done
+
+- Revised draft of OWASP CHapter Handbook
+- Cheat sheets for chapter leaders, new leaders, and new chapters
+
 ## Who
 
 The target audience for this Working Session is:
 
 - Chapter Leaders
 - Anyone who works in chapter management
-- Foundation Staff dealing with chapters or community
+- Foundation staff dealing with chapters or community
 
 ## Links
 - [OWASP Chapter Leader Handbook outline draft](https://docs.google.com/document/d/1uupqip9TiejURbznt_Dk6t1H--8foRJxcVQ2gdmUj-s/)
