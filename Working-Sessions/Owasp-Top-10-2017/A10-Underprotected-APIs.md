@@ -11,7 +11,7 @@ when-day     : Tue
 when-time    : AM-1
 location     : Room-2
 organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
-participants : Johan Peeters
+participants : Johan Peeters,Bjoern Kimminich
 ---
 
 > Modern applications often involve rich client applications and APIs, such as JavaScript in the browser and mobile apps, that connect to an API of some kind (SOAP/XML, REST/JSON, RPC, GWT, etc.). These APIs are often unprotected and contain numerous vulnerabilities.
