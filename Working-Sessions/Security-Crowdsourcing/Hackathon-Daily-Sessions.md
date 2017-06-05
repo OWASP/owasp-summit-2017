@@ -15,6 +15,14 @@ participants :
 
 The following related working session(s) contain a _hands-on_ work aspect. Some sessions might even be held as a _Hackathon_ session entirely.
 
+## What
+
+...Add text...
+
+## Definition of Done
+
+...Add text...
+
 ## references
 
  - [http://2013.appsecusa.org/2013/activities/bug-bounty-group-hack/index.html](http://2013.appsecusa.org/2013/activities/bug-bounty-group-hack/index.html)
