@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Threat Modeling: What can go wrong with JuiceShop?
+title        : Threat Modeling - What can go wrong with JuiceShop?
 type         : workshop
 owasp-project: no
 track        : Threat Model

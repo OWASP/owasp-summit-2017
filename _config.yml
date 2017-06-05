@@ -24,6 +24,7 @@ exclude:
   - src
   - website/_temp_files
   - _pages/for-editors
+  - _pages/schedule
   - _Participants
   - _Working-Sessions
 
