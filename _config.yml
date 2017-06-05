@@ -23,7 +23,7 @@ exclude:
   - Logistics/archive
   - src
   - website/_temp_files
-  - pages/for-editors
+  - _pages/for-editors
   - _Participants
   - _Working-Sessions
 
