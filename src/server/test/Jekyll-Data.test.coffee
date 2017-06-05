@@ -1,15 +1,15 @@
 Jekyll_Data = require '../src/Jekyll-Data'
 
-describe.only 'Jekyll_Data', ->
+describe 'Jekyll_Data', ->
 
   jekyll_Data = null
 
   beforeEach ->
     jekyll_Data = new Jekyll_Data()
     using jekyll_Data,->
-      @.participants_Data     ._keys().size().assert_Is_Bigger_Than 140
-      @.working_Sessions_Data ._keys().size().assert_Is_Bigger_Than 140
-      @.topics_Data._keys()   .size().assert_Is_Bigger_Than 7
+      #@.participants_Data     ._keys().size().assert_Is_Bigger_Than 140
+      #@.working_Sessions_Data ._keys().size().assert_Is_Bigger_Than 140
+      #@.topics_Data._keys()   .size().assert_Is_Bigger_Than 7
 
   it 'constructor', ->
     using jekyll_Data, ->
@@ -129,6 +129,13 @@ describe.only 'Jekyll_Data', ->
       #@._keys().assert_Is_Not  @._keys().sort()             # these should be equal
       @._keys().sort().assert_Is  @._keys().sort()          # expected result
 
+  it 'bug - Working Sessions data contains tracks and other files', ->
+    using jekyll_Data.working_Sessions_Data, ->
+      @['CISO'].assert_Is_Not_Null()                # all these show the problem
+      @['CISO'].metadata.type.assert_Is 'track'     # but can't fix this since the tracks calculation need this
+      @._keys().size().assert_Is_Bigger_Than 180
+      #assert_Is_Null @['CISO']
+      #@._keys().size().assert_Is_Smaller_Than 180
 
   # MISC
 

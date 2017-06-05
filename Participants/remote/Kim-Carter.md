@@ -16,7 +16,6 @@ job-title       : Security focussed Technologist
 image           : https://avatars0.githubusercontent.com/u/2862029
 twitter         : binarymist
 status          : done
-role            : Workshop-Admin
 ---
 
 ## Kim Carter

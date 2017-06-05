@@ -1,3 +1,4 @@
+---
 layout           : blocks/page-participant
 title            : Danny Grander
 type             : participant

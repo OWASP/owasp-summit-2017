@@ -7,6 +7,7 @@ image           : https://pbs.twimg.com/profile_images/2670576625/adcfaf60fdafb3
 linkedin        : wichers
 twitter         : wichers
 facebook        :
+pre-summit      : Sun
 status          : done
 ticket          :
 working sessions:

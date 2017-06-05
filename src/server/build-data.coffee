@@ -1,4 +1,5 @@
-jekyll_Data = require('./src/Jekyll-Data');
+jekyll_Data      = require('./src/Jekyll-Data');
+map_Participants =
 
 first_Build =  (data)=>
   if data.file_Json_Participants.file_Exists() is false
@@ -16,4 +17,5 @@ using new jekyll_Data(), ->
   @.map_Topics_Data()
   @.map_Tracks_Data()
   @.map_Schedule()
+  @.participants.map_Lists()
   console.timeEnd(".... Build Data in");

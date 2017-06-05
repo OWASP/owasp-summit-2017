@@ -1,12 +1,7 @@
 require 'fluentnode'
 
-yaml = require('js-yaml');
-
-sort_By_Key = (data)->
-  sorted_Data = {}
-  for key in data._keys().sort()
-    sorted_Data[key] = data[key]
-  return sorted_Data
+yaml         = require('js-yaml');
+Participants = require './Participants'
 
 class Jekyll_Data
   constructor: ->
@@ -30,6 +25,9 @@ class Jekyll_Data
     @.working_Sessions_Data       = @.file_Json_Working_Sessions.load_Json()                        # todo: there are a couple race conditions related to the sequence of load and cross mappings
     @.topics_Data                 = @.file_Json_Topics          .load_Json()
     @.schedule_Data               = @.file_Json_Schedule        .load_Json()
+
+    @.participants                = new Participants(this)
+
 
   map_Participant_Raw_Data: (raw_Data)->
     data         = {}                                                                               # where we are going to store the mapped data
@@ -111,9 +109,7 @@ class Jekyll_Data
             for participant in participants
               map_User participant, 'participating'
 
-      schedule.by_Track[day] = sort_By_Key schedule.by_Track[day]
-
-
+      schedule.by_Track[day] = @.sort_By_Key schedule.by_Track[day]
 
     schedule.save_Json              @.file_Json_Schedule
     yaml.safeDump(schedule).save_As @.file_Yaml_Schedule
@@ -201,6 +197,8 @@ class Jekyll_Data
     for file in @.folder_Working_Sessions.files_Recursive() when file.not_Contains('_template')
       metadata = @.map_Working_Session_Raw_Data file.file_Contents()
 
+      #continue if metadata.type != 'workshop'    # can't apply this fix this since the tracks calculation need this
+
       name = metadata.title || ''
       url      = '/' + file      .remove(@.folder_Root).replace('.md','.html')
       data[name] =
@@ -223,6 +221,22 @@ class Jekyll_Data
     @.working_Sessions_Data = sorted_Data
 
     data
+
+  save_Data: (data, json_File, yaml_File)->
+
+    if json_File
+      data.save_Json             json_File                        # save data as json file
+    if yaml_File
+      yaml.safeDump(data).save_As yaml_File                         # save data as yml file
+
+    return data
+
+  sort_By_Key: (data)->
+    sorted_Data = {}
+    for key in data._keys().sort()
+      sorted_Data[key] = data[key]
+    return sorted_Data
+
 
   resolve_Names: (names)->
     result = []

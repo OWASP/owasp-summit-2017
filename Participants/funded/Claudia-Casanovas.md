@@ -18,6 +18,7 @@ email           : Claudia.Aviles-Casanovas@owasp.org
 linkedin        :
 twitter         :
 facebook        :
+pre-summit      : Sat,Sun
 status          : empty
 ---
 
