@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : TM-3
+title        : Threat Modeling: What to do about JuiceShop?
 type         : workshop
 owasp-project: no
 track        : Threat Model
@@ -11,20 +11,20 @@ organizers   :
 participants :
 ---
 
-...intro text...
+Get together to use the models of Juiceshop to find problems with it, learn threat modeling, and deliver examples.
 
 ## Why
 
-...why text...
+Dinis proposed a set of evening sessions to create threat model artifacts & examples for the JuiceShop vulnerable app.
 
 ## What
 
-...what text...
+Using the list of issues with JuiceShop "propose" various ways to fix it.  (Obviously, this is at odds with the real goal of JuiceShop, which is to be vulnerable, but ways to fix it will act as useful models, and complete the threat model.)
 
 ## Definition of Done
 
-...add text...
-
+Documented suggested fixes.
 ## Who
 
-... target audience ...
+Participants in the threat modeling track, participants interested in juiceshop, those who want to learn to threat model.
+
