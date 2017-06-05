@@ -8,8 +8,10 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Tue
+when-time    : AM-1
+location     : Room-5
 organizers   : Stephen de Vries
-participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Stephen de Vries, Johan Peeters
+participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud,Stephen de Vries,Johan Peeters
 ---
 
 ## Why
@@ -23,10 +25,14 @@ Developers, and operations and security teams need to collaborate on building an
 - Find existing tools/solutions that can be used as base implementations, e.g. Netflix's Security Monkey? NCC Group AWS auditor?
 - Link specs to standards (CSA, NIST, etc.)?
 
+## Definition of Done
+
+This Working Session will publish BDD specifications for those requirements (no implementation code, just specs), and will link the specs to CSA, NIST, and other standards.
+
 ## Who
 
 The target audience for this Working Session is:
 
-- Cloud Security Architects
-- Security Teams
+- Cloud Security architects
+- Security teams
 - Cloud Ops

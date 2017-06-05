@@ -5,6 +5,8 @@ type         : workshop
 status       : more-content
 track        : Security Crowdsourcing
 when-day     : Tue
+when-time    : PM-1,PM-2
+location     : Room-5
 organizers   : Devesh Bhatt
 participants : Francois Raynaud
 ---
@@ -22,6 +24,11 @@ Responsible disclosure is a great way to test your assets using multiple perspec
 - How to benefit best from a responsible disclosure programme
 - Success stories
 - What is the future of responsible disclosure?
+
+## Definition of Done
+
+- Checklists to keep in mind before starting a programme
+- Responsible Disclosure legal framework accepted EU/country wide
 
 ## Who
 

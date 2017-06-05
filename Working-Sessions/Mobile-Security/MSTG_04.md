@@ -7,6 +7,8 @@ owasp-project   : yes
 technology      : Mobile
 status          : featured
 when-day        : Thu
+when-time       : AM-1,PM-1,PM-2,PM-3
+location        : Villa-2
 description     : In this book sprint we produce content for the "iOS Testing Guide" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : T.b.d.
@@ -38,6 +40,10 @@ Associated chapters in the MSTG:
 - [Testing Platform Interaction](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06h-Testing-Platform-Interaction.md)
 - [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06i-Testing-Code-Quality-and-Build-Settings.md)
 
+## Definition of Done
+
+This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
+
 ## How to Join
 
 Follow the "Edit this page here" link at the bottom of this page and add yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions.
@@ -47,3 +53,9 @@ More things to do once you have signed up:
 - Make yourself familiar with the [existing content](https://github.com/OWASP/owasp-mstg). Or even better, start contributing right away :)
 - Ping us on the [OWASP MSTG Slack channel](https://owasp.slack.com/messages/project-mobile_omtg/details/) (sushi2k or bernhardm).
 - If you have rooted Android / jailbroken iOS devices, please bring them along to the session.
+
+## Who
+
+The target audience for this Working Session is:
+
+--add text--

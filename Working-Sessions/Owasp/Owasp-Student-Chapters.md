@@ -6,6 +6,8 @@ owasp-project: yes
 track        : Owasp
 status       : done
 when-day     : Thu
+when-time    : PM-1
+location     : Room-3
 organizers   : Mateo Martinez
 participants :
 ---
@@ -20,6 +22,10 @@ The Student Chapter community is growing and we need to define a direction and e
 
 - Discuss the future of OWASP Student Chapters
 - Discuss content of Student Chapter Leader Handbook
+
+## Definition of Done
+
+- Draft Student Chapter Leader Handbook
 
 ## Who
 

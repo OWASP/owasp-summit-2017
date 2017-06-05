@@ -8,6 +8,8 @@ technology   : TDD
 related-to   : Testing Guide v5
 status       : better-content
 when-day     : Wed
+when-time    : PM-2
+location     : Room-1
 organizers   : Dinis Cruz
 participants : Robert Morschel,Avi Douglen,Bjoern Kimminich, Timo Pagel,Johan Peeters
 ---
@@ -25,6 +27,10 @@ This Working Session will look at Security Tests, a special type of test that co
  - Instrumenting code to inject payloads
  - Running tests in parallel with builds or in-line
  - Inserting error handling into tests so that tests differentiate between an internal error and test failure
+ 
+## Definition of Done
+
+This Working Session will produce guidelines for writing security tests.
 
 ## Who
 

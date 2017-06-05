@@ -8,6 +8,8 @@ technology   : IDE,SAST
 related-to   : Scaling Static Analysis Reviews and Deployments
 status       : review-content
 when-day     : Wed
+when-time    : AM-1
+location     : Room-1
 participants :
 organizers   :
 ---
@@ -18,12 +20,16 @@ This Working Session will consider how the best location to provide security gui
 
 ## What
 
- - Review state-of-the art and understand what works and what doesn't work
+ - Review current state of security guidance and understand what works and what doesn't work
  - When should security guidance be provided to developers?
  - What is the best way to present this information?
  - How to use gamification techniques/workflows to create a positive and engaged environment
  - Who should write the guidance?
  - Create industry-wide guidance (avoid reinventing the wheel)
+ 
+## Definition of Done
+
+This Working Session will create industry-wide security guidelines.
 
 ## Who
 

@@ -1,13 +1,15 @@
 ---
 layout       : blocks/working-session
-title        : Using ML and AI to detect Attacks
+title        : Machine Learning and Security
 type         : workshop
 owasp-project: no
 track        : Research
 status       : review-content
 organizers   : Talal Albacha
 when-day     : Wed
-when-day     : Friday
+when-day     : Fri
+when-time    : AM-1
+location     : Room-1
 participants :
 ---
 
@@ -30,6 +32,10 @@ This Working Session will share common practices; what works today, and what is 
  - How to make learning algorithms aware of malicious data?
  - Can AI be used to reduce false positive findings in security scanners?
  - How can we spread the message among developers and security communities? 
+ 
+## Definition of Done
+
+...add text...
 
 ## Who
 

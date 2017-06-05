@@ -18,10 +18,15 @@ participants :
 
 ## What
 
- - Collect real-world examples of how companies are using the Owasp Top 10
- - Map cases where Top 10 was abused (in its used or in product's marketing)
+ - Collect real-world examples of how companies use the OWASP Top 10
+ - Map cases where Top 10 was abused (in its use or in product's marketing)
  - Normalise data and find patterns
  - Provide recommendations for new Top 10 (aligned to how it is used)
+ 
+## Definition of Done
+
+- Recommendations for Top 10 2017
+
 
 ## Who
 

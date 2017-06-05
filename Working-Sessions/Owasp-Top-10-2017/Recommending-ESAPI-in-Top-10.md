@@ -6,7 +6,9 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : draft
-when-day     : Mon
+when-day     : 
+when-time    : 
+location     : 
 organizers   : Dave Wichers
 participants :
 ---
@@ -23,9 +25,17 @@ This Working Session will discuss EASPI (Enterprise Security API), which is reco
  - Review use of ESAPI
  - Map out reasons for continuing to refer to it
  - Create proposal with outcome
+ 
+## Definition of Done
+
+- Proposal for future of OWASP ESAPI project
 
 ## Who
 
 The target audience for this Working Session is:
 
  - OWASP Top 10 2017 authors and contributors
+
+## Status
+
+This session was dropped as it's unnecessary. T10 team agrees we should drop references to ESAPI in the 2017 update. It's simply legacy content that was never removed but we've received feedback that we should and we agree.

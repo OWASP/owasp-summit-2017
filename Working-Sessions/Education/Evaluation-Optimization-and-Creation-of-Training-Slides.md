@@ -6,30 +6,39 @@ owasp-project  : no (but maybe during the summit)
 track          : Education
 technology     :
 related-to     : Teaching Attacker perspective to Developers,Application Security BSc/Masters Curriculum Design,Juice Shop,NodeGoat,Webgoat
-status         : draft
-when-day       : Thu
+status         : need-content
+when-day       : Wed
+when-time      : PM-3
+location       : Room-2
 organizers     : Timo Pagel
 participants   : Bjoern Kimminich
 ---
 
-### Context
-Security trainings have a high priority in many security frameworks like OWASP OpenSAMM. In some Agile Security Lifecycles trainings are mandatory before you start with anything else.
-To start with trainings, you need slides with different scopes.
+## Why
 
-### What
+Security training is a high priority in many security frameworks, such as OWASP OpenSAMM. In some Agile Security Lifecycles, training must take place before anything else.
+
+To start training, you need slides with different scopes.
+
+## What
+
 In this workshop we will:
-* Determine the needs for training slides, as there are university courses, one week trainings, one day trainings and one hour trainings. In Addition, the skills in secrurity of developers vary a lot.
-* Share existing training slides and discous the pros and cons, slides are for example [WebapSec in a Nutshell (short)](http://webappsec-nutshell.kimminich.de/#/), [Web Application Security Training (long one)](https://de.slideshare.net/BjrnKimminich/web-application-security-21684264), [University Module (very long)](https://drive.google.com/open?id=0B2KKdB7MPO7xTEwtWkkwTnl5VFk)
-* Share ideas about how to structure training slides
-* Share ideas about how to create training slides for different audience, without having redundant slides in different training slides
-* Share ideas about how to document interactive demonstrations, which are often not part of training slides
-* Optimization of training slides
+- Determine the need for training slides, as there are university courses, and training sessions that last for one week, one day, or even one hour. In addition, individual developers' skills in security can vary.
+- Share existing training slides and discuss their pros and cons. Slides are for example [WebapSec in a Nutshell (short)](http://webappsec-nutshell.kimminich.de/#/), [Web Application Security Training (long)](https://de.slideshare.net/BjrnKimminich/web-application-security-21684264), [University Module (very long)](https://drive.google.com/open?id=0B2KKdB7MPO7xTEwtWkkwTnl5VFk)
+- Share ideas about how to structure training slides
+- Share ideas about how to create training slides for different audiences that can be used at all levels
+- Share ideas about how to document interactive demonstrations, which are often not included in training slides
+- Optimising training slides
 
-### Potential Outcome
-Participents will have an overview of existing sources for training slides. 
-A boundle of slides are created and integrated into the [OWASP Education Project](https://www.owasp.org/index.php/Category:OWASP_Education_Project#tab=Main).
+## Definition of Done
 
-### Who
-* Web Application Security Trainers
-* Web Application Security Researchers
-* Security Champions
+- Participants will have an overview of existing resources for training slides. 
+- The Session will create a bundle of slides are created and integrate them into the [OWASP Education Project](https://www.owasp.org/index.php/Category:OWASP_Education_Project#tab=Main).
+
+## Who
+
+The target audience for this Working Session is:
+
+- Web Application Security trainers
+- Web Application Security researchers
+- Security champions

@@ -4,7 +4,11 @@
   "description": "Summit 2017 website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-data": "coffee ./src/server/build-data.coffee",
+    "test": "node ./node_modules/mocha/bin/mocha --compilers coffee:coffee-script/register --recursive -R list src/server/test",
+    "test-watch": "npm test -- --watch",
+    "start": "coffee src/server/main.coffee"
+
   },
   "author": "",
   "license": "ISC",
@@ -17,5 +21,11 @@
     "gulp-less": "^3.3.0",
     "gulp-notify": "^3.0.0",
     "gulp-shell": "^0.6.3"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "fluentnode": "^0.6.5",
+    "js-yaml": "^3.8.4",
+    "mocha": "^3.4.2"
   }
 }

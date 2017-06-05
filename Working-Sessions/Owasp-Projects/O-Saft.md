@@ -8,8 +8,10 @@ technology   : TLS
 owasp-project: yes
 status       : done
 when-day     : Tue
+when-time    : PM-1
+location     : Room-1
 organizers   : Achim Hoffmann
-participants : Marc Rimbau, Ingo Hanke
+participants : Marc Rimbau, Ingo Hanke,Bjoern Kimminich
 ---
 
 [OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related configurations, behaviours and vulnerabilities.
@@ -33,6 +35,14 @@ The Working Session will focus on the internal redesign and some improvements th
 - Build a sophisticated knowledge database with search capabilities (probably using Python NLTK)
 - Is there a need for a GTK-based GUI (i.e. using YAD)?
 
+## Definition of Done
+
+- Updated and more efficient O-Saft
+- Improved tools
+- New knowledge base
+
 ## Who
 
 The target audience for this Working Session is:
+
+--Add text--

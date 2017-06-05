@@ -8,8 +8,10 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Tue
-organizers   : David Clarke
-participants : Ante Gulam,Avi Douglen,Irene Michlin, Mamta Vuppu, Phil Parker
+when-time    : PM-1
+location     : Room-3
+organizers   :
+participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Phil Parker,Duncan Hurwood
 ---
 
 ## Why

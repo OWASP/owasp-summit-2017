@@ -6,6 +6,8 @@ track        : Owasp Projects
 technology   : REST
 status       : done
 when-day     : Fri
+when-time    : AM-1
+location     : Room-3
 organizers   : Johan Peeters
 participants : Marc Rimbau,Dinis Cruz,Bjoern Kimminich, Robert Morschel
 ---
@@ -30,7 +32,7 @@ REST APIs are ubiquitous, yet there is a lack of solid insights into securing RE
 - JWT/JOSE
 - HoK
 
-### Potential outcomes
+## Definition of Done
 
 - A new version of the REST Security Cheatsheet.
 - One or more demonstrators.

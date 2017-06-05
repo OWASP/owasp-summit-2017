@@ -8,6 +8,8 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Fri
+when-time    : PM-3
+location     : Room-6
 organizers   : Dave Wichers
 participants :
 ---
@@ -20,6 +22,10 @@ Summit's Working Sessions, participants both at the Summit and remotely can agre
 ## What
 
  - Sign the OWASP Top 10 2017 version
+ 
+## Definition of Done
+
+- OWASP Top 10 2017 is signed
 
 ## Who
 

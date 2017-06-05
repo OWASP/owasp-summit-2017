@@ -15,15 +15,14 @@
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(/website/assets/fonts/y7lebkjgREBJK96VQi37Zogp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');
-  /*src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(https://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37Zogp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');*/
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url('/website/assets/fonts/y7lebkjgREBJK96VQi37Zogp9Q8gbYrhqGlRav_IXfk.woff2') format('woff2'), url('/website/assets/fonts/Roboto-Slab-Regular.woff') format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 @font-face {
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 500;
-  src: local('Oswald Medium'), local('Oswald-Medium'), url(/website/assets/fonts/KuTkTNzljLi-9-e4QiI83pBw1xU1rKptJj_0jans920.woff2) format('woff2');
+  src: local('Oswald Medium'), local('Oswald-Medium'), url('/website/assets/fonts/KuTkTNzljLi-9-e4QiI83pBw1xU1rKptJj_0jans920.woff2') format('woff2'), url('/website/assets/fonts/oswald-medium-webfont.woff') format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 
@@ -754,12 +753,36 @@
 
 .schedule {
   background-color: #f9f9f9;
+  padding: 10px;
+}
+.schedule .glyphicon-lock {
+  color: #ff7b7d;
+  font-size: 10px   ;
+  padding: 5px    ;
+}
+.schedule .room-name {
+  font-size: 16px;
+}
+.schedule .room-key {
+  font-size: 9px;
+}
+.schedule .day_Title {
+  font-size: 150%;
+}
+.schedule table .day-time {
+  font-size: 10px;
+  padding: 0px;
+  margin: -5px;
 }
 .schedule table td a {
   font-size: 80%;
 }
 .schedule table td .track {
   font-size: 80%;
+}
+.schedule table td .track-info {
+  font-size: 8px;
+  padding: 0px;
 }
 .schedule table td hr {
   border-color: #ededed;

@@ -7,6 +7,8 @@ technology   : SOC
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-1
+location     : Room-5
 organizers   :
 participants : Mamta Vuppu
 ---
@@ -17,7 +19,11 @@ Responding to security incidents should not be an improvised or non-scripted act
 
 ## What
 
- - Create Security Monitoring Playbooks that can be used by the Community
+ - Create Security Monitoring playbooks that can be used by the Community
+ 
+## Definition of Done
+
+- Security Monitoring playbooks 
 
 ## Who
 

@@ -1,0 +1,15 @@
+filebeat:
+  prospectors:
+    -
+      document_type: nginx-access
+      paths:
+        - /var/log/nginx/tls-access.log
+
+output:
+  logstash:
+    enabled: true
+    hosts:
+      - "elk:5044"
+    ssl:
+      certificate_authorities:
+        - /etc/pki/tls/certs/logstash-beats.crt

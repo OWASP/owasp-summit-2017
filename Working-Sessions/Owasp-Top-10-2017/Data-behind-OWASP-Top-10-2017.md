@@ -6,6 +6,8 @@ description  : Due to its wide use, acceptance and need for trusted results, it 
 track        : Owasp Top 10 2017
 status       : featured
 when-day     : Mon
+when-time    : PM-3
+location     : Room-2
 organizers   : Dave Wichers,Johanna Curiel,Claudia Casanovas
 participants : Brian Glas,Ingo Hanke,Francois Raynaud
 ---
@@ -16,7 +18,7 @@ Due to its wide use, acceptance, and need for trusted results, it is essential t
 
 The OWASP Top 10 2017 did a 'request for data' which might not have reached as wide an audience as it should have reached.
 
-The Summit, and this Working Session, provide a perfect opportunity to allow the current data set to be understood and for new data sets/analysis to be submitted/analysed (these will validate the current Top 10 items, or provide evident for changes).
+The Summit, and this Working Session, provide a perfect opportunity to allow the current data set to be understood and for new data sets/analysis to be submitted/analysed. The new data will validate the current Top 10 items, or provide evidence for changes.
 
 ## What
 
@@ -25,13 +27,15 @@ The Summit, and this Working Session, provide a perfect opportunity to allow the
  - Review data provided and compare with existing Top 10 items
  - (If relevant) create evidence for changes
 
-## Outcome
+## Definition of Done
 
  - Majority of participants to agree on the data set supporting the final Top 10 2017 mappings
  
 ## Who
 
 The target audience for this Working Session is:
+
+...Add text...
 
 ## References
 

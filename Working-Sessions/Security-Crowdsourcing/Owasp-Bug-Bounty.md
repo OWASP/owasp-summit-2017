@@ -6,6 +6,8 @@ owasp-project: yes
 track        : Security Crowdsourcing
 status       : more-content
 when-day     : Wed
+when-time    : AM-1
+location     : Room-3
 organizers   :
 participants :
 ---
@@ -15,6 +17,10 @@ participants :
 The OWASP bug bounty programme is the opportunity you are looking for to hack into defender libraries & ZAP.
 
 At this Working Session, you can learn how we are trying to make web applications safe and how, as a bounty hunter, you can help us to make them more secure.
+
+## Definition of Done
+
+...Add text...
 
 ## Who
 

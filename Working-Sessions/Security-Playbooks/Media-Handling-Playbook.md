@@ -7,25 +7,33 @@ technology   : GDPR
 related-to   :
 status       : review-content
 when-day     : Wed
+when-time    : PM-2
+location     : Room-5
 organizers   :
 participants :
 ---
 
 ## Why
 
-When (not if) a security incident occurs (from ransomware, to PII information disclosure, to Owasp top 10 exploitation), having a
-  clear plan for how to handle the media (and customers) is absolutely critical. This is very related to GDPR notice requirements.
+This Working Session will create a Media Handling Playbook.
 
-Multiple scenarios need to have been previously created with trigger points previously defined.
+When, not if, a security incident occurs, and whether the incident takes the shape of ransomware, a PII information disclosure, or an OWASP Top 10 exploitation, it is critical to have a clear plan in place for how to handle customers and the media. This is especially true in the context of GDPR notice requirements.
 
-Customers and regulatory bodies tend to be quite understanding when the communications about an incident are: quick, accurate and
-  technically correct.
+Multiple scenarios with defined trigger points must be agreed and in place. 
+
+Customers and regulatory bodies tend to be more understanding when communications about an incident are quick, accurate, and technically correct.
 
 ## What
 
  - Create Media Handling Playbook
+ 
+## Definition of Done
+
+- Media Handling Playbook
 
 ## Who
 
- - Security Teams
- - PR and Legal departments
+The target audience for this Working Session is:
+
+ - Security teams
+ - PR and legal departments
