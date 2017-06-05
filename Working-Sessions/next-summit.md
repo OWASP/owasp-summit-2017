@@ -7,7 +7,7 @@ track        :
 technology   :
 related-to   :
 status       : 
-when-day     : 
+when-day     : Wed
 when-time    : Eve
 location     : 
 organizers   : Francois Raynaud,Dinis Cruz,Seba,Neil Barlow
