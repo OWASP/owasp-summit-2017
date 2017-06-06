@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Securing GitHub Integrations
 type         : workshop
 track        : DevSecOps
-status       : review-content
+status       : need-more content
 when-day     : Thu
 when-time    : PM-2
 location     : Room-1
@@ -26,6 +26,10 @@ Currently, the GitHub security model does not allow the granularity required to 
 
 ... Add content 
 
+## Outcomes
+
+...Add content...
+
 ## Who
 
 The target audience for this Working Session is:
@@ -43,3 +47,13 @@ Email exchange with GitHub on the topic of having multiple GitHub Accounts:
 > Note that this is what is currently being recommended by those service providers, see for example https://twitter.com/snyksec/status/791922582584856577
 >
 >It would be great if the GitHub Security team could work with organizations like OWASP and its community to find a way to improve the current situation (which doesn't scale and is bound to back-fire when one of those service providers is compromised, exposing thousands of customers' private repos).
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
