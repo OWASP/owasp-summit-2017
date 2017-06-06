@@ -6,7 +6,7 @@ track        : CISO
 technology   : GDPR
 related-to   :
 status       : final stage
-when-day     : Mon
+when-day     : Mon,Thu
 when-time    : PM-1
 location     : Room-4
 organizers   :
