@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp Projects
 related-to   : Cheat Sheets, A10 - Underprotected APIs
 technology   : REST
-status       : Final stage
+status       : Final stage; missing working materials
 when-day     : Fri
 when-time    : AM-1
 location     : Room-3
