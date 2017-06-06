@@ -10,7 +10,7 @@ when-time    : PM-1
 location     : Room-6
 status       : Improve outcomes
 organizers   : Adam Shostack
-participants : Dinis Cruz
+participants : Dinis Cruz,Bjoern Kimminich
 invited      : Bjoern Kimminich
 ---
 

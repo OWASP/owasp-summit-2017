@@ -11,7 +11,7 @@ when-day     : Tue
 when-time    : AM-1
 location     : Room-2
 organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
-participants : Johan Peeters,Bjoern Kimminich
+participants : Johan Peeters
 ---
 
 Built using well-known techniques and being able to leverage existing infrastructures, the popularity of APIs is on a constant rise. Still, being fundamentally different, APIs come with a completely new risk profile.

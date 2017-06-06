@@ -11,7 +11,7 @@ when-time    : AM-1
 location     : Room-6
 status       : Improve outcomes
 organizers   :
-participants :
+participants : Bjoern Kimminich
 ---
 
 Get together to use the models of Juiceshop to find problems with it, learn threat modeling, and deliver examples.
