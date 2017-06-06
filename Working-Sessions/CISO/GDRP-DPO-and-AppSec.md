@@ -5,7 +5,7 @@ type         : workshop
 track        : CISO
 technology   : GDPR
 related-to   :
-status       : review-content
+status       : final stage
 when-day     : Mon
 when-time    : PM-1
 location     : Room-4
@@ -36,7 +36,7 @@ This Working Session will discuss some aspects of GDPR, including the role of th
 
 ---
 
-# Working materials
+## Working materials
 
 We need to be much more focused on the questions to ask and provide as much information about the answers that we are able to figure out.
 
