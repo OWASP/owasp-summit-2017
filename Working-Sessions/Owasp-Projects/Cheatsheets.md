@@ -6,7 +6,7 @@ track        : Owasp Projects
 when-day     : Tue
 when-time    : PM-3
 location     : Room-1
-status       : draft
+status       : Final stage; missing working materials
 organizers   :
 participants : Marc Rimbau,Johan Peeters
 ---
