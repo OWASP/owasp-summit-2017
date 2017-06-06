@@ -13,13 +13,17 @@ organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
 participants :
 ---
 
-https://www.owasp.org/index.php/Top_10_2017-A7-Insufficient_Attack_Protection
+Based on analysis of more than 2.3 million vulnerabilities in more than 50,000 applications, the OWASP Top 10 2017 introduces two new categories: Insufficient Attack Protection and Underprotected APIs.
 
-> The majority of applications and APIs lack the basic ability to detect, prevent, and respond to both manual and automated attacks. Attack protection goes far beyond basic input validation and involves automatically detecting, logging, responding to, and even blocking exploit attempts. Application owners also need to be able to deploy patches quickly to protect against attacks.
+Since one of the basic security capabilities is being able to detect, prevent, and respond to manual and automated attacks, every modern application needs to have the ability to block these attacks. Thus, companies need to decide whether they want to be one of those organizations that put their business, employees, and their customers at risk with a code that has obvious vulnerabilities.
 
 ## Why
 
-The new OWASP Top 2017 introduces this new category; this Working Session presents an opportunity to challenge or support it.
+The OWASP Top 2017 introduces Insufficient Attack Protection as a new Top 10 category, and this Working Session will present an opportunity to challenge or support its addition to the new Top 10.
+
+While the introduction of Underprotected APIs is considered by most as a good addition, Insufficient Attack Protection managed to generate a significant number of negative comments such as that A7 is just a WAF vendor pitch. While the same could have been said for 2FA when security industry started pushing it, the idea behind A7 is much more than a sales pitch.
+
+The idea behind A7 is the "Security-as-Code" principle meaning that security professionals should translate every security requirement, every threat model, and every security architecture into code that could be run during development, build, test, and deployment process.
 
 ## What
 
@@ -30,7 +34,7 @@ The new OWASP Top 2017 introduces this new category; this Working Session presen
  
 ## Definition of Done
 
-...Add text...
+This Working Session will decide whether the Underprotected APIs category will be added to the Top 10.
 
 ## Who
 
@@ -39,6 +43,8 @@ The target audience for this Working Session is:
  - Security professionals
  - AppSec teams
  - Tool vendors
+ - Application developers
+ - Application architects
 
 
 ## References
