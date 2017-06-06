@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : CISO Round table
 type         : workshop
 track        : CISO
-status       : featured
+status       : add more content
 description  : Round-table of CISO (and future CISOs) to share ideas on what is going on at this level
 when-day     : Wed
 when-time    : AM-1
@@ -25,8 +25,22 @@ CISO hands-on support for Security initiatives is a key factor of success
  - What is the role of AppSec
  - What is the team structure and budgets
  - What is the best way to present security to the Board
+ 
+## Outcomes
+
+..add content...
 
 ## Who
 
 - CISOs
 - future CISOs
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
