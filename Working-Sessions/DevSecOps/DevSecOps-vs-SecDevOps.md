@@ -8,7 +8,8 @@ when-day    : Wed
 when-time   : Eve
 location    : Villa-3
 organizers  : Francois Raynaud
-participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria,Avi Douglen
+participants: Marc Rimbau, Felipe Zipitria, Avi Douglen
+invite      : Ante Gulam, Colin Domoney
 ---
 
 This Working Session will be a light-hearted, round-table discussion on this very important topic in our community.
