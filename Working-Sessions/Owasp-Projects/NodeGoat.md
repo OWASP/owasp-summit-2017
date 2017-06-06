@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : NodeGoat
 type         : workshop
 track        : Owasp Projects
-status       : done
+status       : need-more content
 technology   : Node
 description  : NodeGoat is a deliberately insecure NodeJS web application maintained by a small collection of OWASP leaders/members, designed to teach web application security and the importance of moving the finding and fixing of defects to within the Development Teams Sprints.
 when-day     : Tue
@@ -29,7 +29,7 @@ Some of the ideas to be discussed and implemented at the Working Session include
 - Address the same defect types with examples using different Node libraries and architectures
 - Upgrade dependencies and make sure the same defect approaches are being applied [across the entire application](https://github.com/OWASP/NodeGoat/issues/82)
 
-## Definition of Done
+## Outcomes
 
 --Add text--
 
@@ -38,6 +38,16 @@ Some of the ideas to be discussed and implemented at the Working Session include
 The target audience for this Working Session is:
 
 --Add text--
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
 
 
 
