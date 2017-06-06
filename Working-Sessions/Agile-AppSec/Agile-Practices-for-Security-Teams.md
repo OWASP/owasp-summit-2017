@@ -6,7 +6,7 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   :
-status       : review-content
+status       : need-more content
 when-day     : Tue
 when-time    : PM-1
 location     : Room-3
@@ -26,6 +26,10 @@ Agile practices have been around for quite some time now and a lot of organisati
 - Situational awareness in Agile environments
 - Optimising Agile SDLC security 
 
+## Outcomes
+
+...add content...
+
 ## Who
 
 The target audience for this Working Session is:
@@ -34,3 +38,13 @@ The target audience for this Working Session is:
 - Security professionals
 - DevSecOps
 - Security champions
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...Add content...

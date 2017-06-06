@@ -6,7 +6,7 @@ layout       : blocks/working-session
 track        : CISO
 technology   :
 related-to   : 
-status       : done
+status       : missing Outcomes, working materials
 when-day     : Fri
 when-time    : AM-2
 location     : Room-2
@@ -31,7 +31,7 @@ The low number of women in cyber security, and ways that we might encourage more
 
 I believe that women and others from a broad range of backgrounds can help to re-formulate some of the fundamental principles of cyber security, to answer in a meaningful way questions such as 'What is it that information security enables organisations and people to do?' 'What are the values we hold dear that information security supports?', or ‘What freedoms can we create through cyber security?’
 
-## Definition of Done
+## Outcomes
 
 ...Add text...
 
@@ -49,3 +49,13 @@ The target audience for this Working Session is:
  - Philosophers
  - Organisational and learning specialists
  - Educators
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

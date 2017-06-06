@@ -5,10 +5,11 @@ type         : workshop
 owasp-project: no
 organizers   : Ingo Hanke
 track        : CISO
-status       : done
+status       : Final stage
 when-day     : Thu
 when-time    : PM-1
 location     : Room-4
+organizer    : 
 participants : Akshay Sharma, Achim Hoffmann, Johan Peeters
 ---
 
@@ -40,7 +41,7 @@ It is possible to argue that privacy is not a priority in the work of OWASP, but
 - Who are the stakeholders of these technical developments?
 - Which driving forces can be used to kick-off development processes?
 
-## Definition of Done
+## Outcomes
 
 - OWASP Privacy statements
 - Concept of a campaign and compliance of OWASP community and foundation, road map
@@ -54,3 +55,12 @@ The target audience for this Working Session is:
 ## References:
 
 (1) OWASP Summit 2011 Working Session "Privacy" ( https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073 )
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+... add content...
