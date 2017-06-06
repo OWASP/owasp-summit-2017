@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : ...
+title           : Simon Whittaker
 type            : participant-remote
 job-title       : Security Consultant
 company         : Vertical Structure Ltd
