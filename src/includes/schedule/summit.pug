@@ -46,7 +46,17 @@ mixin show-room
     .schedule
         h3 {{ page.title }}
 
-        p Here is the full Summit schedule (for alernative views
+        p Here is the full Summit schedule (for alternative views of this schedule see links below)
+
+        .alert.alert-success
+            strong Info: We are still making changes to the schedule
+            br
+            span If you have a conflict with one of the sessions please contact an &#32;
+                a(href='https://owaspsummit.org/Logistics/Summit-Team.html') Summit Editor
+                span &#32; or open an &#32;
+                a(href='https://github.com/OWASP/owasp-summit-2017/issues') Github Issue
+                span &#32; asap with your request. Note that you can still &#32;
+                a(href='https://owaspsummit.org/2017/05/23/You-can-still-Create-new-Working-Sessions.html') add new Working Sessions
         table.table
             thead
                 //th.text-center

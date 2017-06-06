@@ -5,31 +5,26 @@ component   : schedule/summit.html
 title       : Summit Schedule
 ---
 
-> NOTE THAT WE ARE STILL MAKING CHANGES, SO IF YOU HAVE A CONFLICT WITH ONE OF THE SESSIONS, PLEASE CONTACT AN SUMMIT EDITOR ASAP WITH YOUR CHANGE REQUEST
+### Alternative views of Summit Schedule
 
-#### Full Schedule
+**By Room:**
 
-See [Summit Schedule](./summit-schedule.html) for a mapping of all Working Sessions on all days
+* [Monday](./by-room/Mon.html)
+* [Tuesday](./by-room/Tue.html)
+* [Wednesday](./by-room/Wed.html)
+* [Thursday](./by-room/Thu.html)
+* [Friday](./by-room/Fri.html)
 
-#### Daily Schedule - by room
+**By Track:**
 
-&nbsp;&nbsp;&nbsp;- [Monday](./by-room/Mon.html),
-[Tuesday](./by-room/Tue.html) ,
-[Wednesday](./by-room/Wed.html),
-[Thursday](./by-room/Thu.html) ,
-[Friday](./by-room/Fri.html)
-
-#### Daily Schedule - By Track:
-&nbsp;&nbsp;&nbsp;- [Monday](./by-track/Mon.html),
-[Tuesday](./by-track/Tue.html),
-[Wednesday](./by-track/Wed.html),
-[Thursday](./by-track/Thu.html) ,
-[Friday](./by-track/Fri.html)
+* [Monday](./by-track/Mon.html)
+* [Tuesday](./by-track/Tue.html)
+* [Wednesday](./by-track/Wed.html)
+* [Thursday](./by-track/Thu.html)
+* [Friday](./by-track/Fri.html)
 
 
-### Track's Schedules
-
-Here  are the individual Track's schedules
+**Individual Track's schedules:**
 
 * [Agile-AppSec](./tracks/Agile-AppSec.html)
 * [CISO](./tracks/CISO.html)
