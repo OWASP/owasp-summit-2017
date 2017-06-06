@@ -6,7 +6,7 @@ owasp-project  : no
 track          : Education
 technology     :
 related-to     : Juice Shop,NodeGoat,Webgoat
-status         : done
+status         : final stage 
 when-day       : Mon,Tue
 when-time      : Eve
 location       : Villa-3
@@ -37,7 +37,7 @@ and services used in practical developer security training sessions.
 - Run-through of open source tools (like WebGoat, Security Shepherd, Juice Shop)
 - Are vendor demo applications (like AltoroMutual) an option?
 
-## Definition of Done
+## Outomes 
 
 - Recommendation for a _Learning Path_ guiding developers through
   various hands-on sessions in an appropriate order (e.g. with
@@ -51,6 +51,20 @@ The target audience for this Working Session is:
 
 - Developers
 - Instructors
+
+--- 
+
+## Working materials
+
+- Recommendation for a _Learning Path_ guiding developers through
+  various hands-on sessions in an appropriate order (e.g. with
+  increasing difficulty)
+- draft _Best Practice_ for developer-focused security training
+- Developer training draft  _Antipatterns_ and _Pitfalls_
+
+### Content
+
+... add content ...
 
 
 
