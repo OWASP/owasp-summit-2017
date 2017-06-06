@@ -2,7 +2,6 @@
 layout       : blocks/working-session
 title        : Threat Modeling: What is JuiceShop
 type         : workshop
-owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
