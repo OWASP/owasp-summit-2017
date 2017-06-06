@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Testing Guide v5
 type         : workshop
 track        : Owasp Projects
-status       : review-content
+status       : Final stage; missing target audience; missing working materials
 description  : The OWASP Testing Guide v4 includes a "best practice" penetration testing framework which users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues. Nowadays the Testing Guide has become the standard to perform a Web Application Penetration Testing and many Companies all around the world have adopted it. It is vital for the project mantaining an updated project that represents the state of the art for WebAppSec.
 when-day     :
 when-time    :
@@ -23,7 +23,7 @@ The OWASP Testing Guide v4 includes a "best practice" penetration testing framew
 
 The aim of the Working Session is to discuss and define the scope and content of OWASP Testing Guide v5.
 
-## Definition of Done
+## Outcomes
 
 - All sections in v4 reviewed
 - Project aligned with the ASVS and OWASP Top 10 vulnerabilities
@@ -48,5 +48,20 @@ The aim of the Working Session is to discuss and define the scope and content of
 
 The target audience for this Working Session is:
 
-... Add text...
+- pen testers
+...add more...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+- Draft Testing Guide
+- Draft new section: Client side security and Firefox extensions testing
+
+### Content
+
+...add content...
+
 
