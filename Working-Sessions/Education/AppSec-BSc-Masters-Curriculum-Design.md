@@ -40,13 +40,15 @@ This Working Session will deliver the following documents:
 
 ## Who
 
+The target audience for this Working Session is:
+
 - OWASP project leaders whose projects have an educational element (probably all OWASP Project leaders)
 - Application Security trainers  
 - Academics involved in AppSec and InfoSec 
 - Any employer involved in recruiting graduates into application security related roles
 - Other organisations/professional bodies interested in Application Security educational programmes
 
-The target audience for this Working Session is:
+---
 
 ## Working materials
 
