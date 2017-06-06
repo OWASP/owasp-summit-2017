@@ -10,25 +10,25 @@ when-day    : Tue
 when-time   : AM-1
 location    : Room-6
 organizers  : Tony UV
-participants: Dinis Cruz,Jason Li,Avi Douglen,Irene Michlin,Stephen de Vries,Robert Morschel,Francois Raynaud, Duncan Hurwood
+participants: Dinis Cruz,Jason Li,Avi Douglen,Irene Michlin,Stephen de Vries,Robert Morschel,Francois Raynaud, Duncan Hurwood,Johan Peeters
 ---
 
 This Working Session aims to create five threat modelling templates, that may include some of the following:  
 
  - Traditional web applications
  - Web services
- - Mobile client applications 
+ - Mobile client applications
  - IoT Devices
  - JS based Frameworks
  - Intra & Inter Cloud VPC Components
- 
-These may also expand to include combinations of client-side applications to expose server-side applications (e.g. - mobile-web API, IoT-to web API, etc.). 
- 
+
+These may also expand to include combinations of client-side applications to expose server-side applications (e.g. - mobile-web API, IoT-to web API, etc.).
+
 The Threat Modelling will begin with a suite of deliverables to help threat modelling practitioners consider a broad range of possible application components for each type of template. Each component may be related to an associated actor, associated trust boundaries within and beyond the application domain, data flows, associated protocols, 3rd party dependencies, etc.  For each template that they download, leverage, and use as part of their threat modelling project, the intent is get practitioners to understand the following:
 
   - Implicit/Explicit Trust boundaries within the attack surface and at the edge of the surface boundary
   - Relevant system or application level actors and associated privileges making calls to other app components
-  - Possible inherent attack surface of a templated application 
+  - Possible inherent attack surface of a templated application
   - Inherent threats to consider for different deployment models (architecture)
   - Proposed countermeasures to consider for each application threat modelling template.  
   - Associated protocols associated with various templates
@@ -45,7 +45,7 @@ Threat modelling needs greater adoption into current SDLC methodologies. Many de
  * Threat library for each template developed
  * Design mitigations or programmatic countermeasures recommended for associated threat library for each template
  * Weakness library management and integration
- 
+
 ## Definition of Done
 
 - 5 threat modelling templates created
@@ -58,5 +58,3 @@ The target audience for this Working Session is:
  - Web developers of varying language backgrounds (.NET, Java, PHP, .js, etc.)
  - DBAs/ DB Developers
  - Security professionals with application architecture and software development experience
-
-
