@@ -42,7 +42,7 @@ The following are the potential outcomes of the Working Session:
   projects
 - Extended/New quality checklist for Code and Tool projects
 - Templates (e.g. `README.md`, `LICENSE`, `CONTRIBUTING.md` etc.) for a
-  repo under OWASP org
+  repo under OWASP org (see <https://github.com/OWASP/github-template>)
 - Instructions for 3rd party QA/CI tool setup (e.g. Travis-CI,
   Code Climate etc.)
 
