@@ -6,7 +6,10 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : draft
+when-day     : Mon
+when-time    : PM-3
+location     : Room-6
+status       : Improve outcomes
 organizers   :
 participants :
 ---
@@ -23,7 +26,8 @@ Create models/diagrams that show various aspects of Juiceshop (model 1: what's t
 
 ## Definition of Done
 
-set of models checked in.  Possibly also sets of requirements or assumptions.
+Set of models checked in.  Possibly also sets of requirements or assumptions.
+
 ## Who
 
 Participants in the threat modeling track, participants interested in juiceshop, those who want to learn to threat model.
