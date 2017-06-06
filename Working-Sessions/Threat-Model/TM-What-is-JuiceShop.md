@@ -1,10 +1,10 @@
 ---
 layout       : blocks/working-session
-title        : TM - What is JuiceShop
+title        : TM - What is Juice Shop
 type         : workshop
 track        : Threat Model
 technology   :
-related-to   :
+related-to   : Juice Shop
 when-day     : Mon
 when-time    : PM-3
 location     : Room-6
@@ -17,11 +17,11 @@ Get together to create models (diagrams) of Juiceshop to help us find problems w
 
 ## Why
 
-Dinis proposed a set of evening sessions to create threat model artifacts & examples for the JuiceShop vulnerable app.
+Dinis proposed a set of evening sessions to create threat model artifacts & examples for the Juice Shop vulnerable app.
 
 ## What
 
-Create models/diagrams that show various aspects of Juiceshop (model 1: what's the app?  model 2: how does it get deployed?  Model 3? How is it "developed and maintained"?  Other models as seem possibly interesting), and apply various techniques to answer the question "what are we working on?"
+Create models/diagrams that show various aspects of Juice Shop (model 1: what's the app?  model 2: how does it get deployed?  Model 3? How is it "developed and maintained"?  Other models as seem possibly interesting), and apply various techniques to answer the question "what are we working on?"
 
 ## Definition of Done
 
@@ -29,4 +29,4 @@ Set of models checked in.  Possibly also sets of requirements or assumptions.
 
 ## Who
 
-Participants in the threat modeling track, participants interested in juiceshop, those who want to learn to threat model.
+Participants in the threat modeling track, participants interested in Juice Shop, those who want to learn to threat model.
