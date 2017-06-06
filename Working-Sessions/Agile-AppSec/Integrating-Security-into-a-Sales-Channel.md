@@ -27,6 +27,10 @@ The main purpose of this working session is to discuss and discover new ways of 
 - Process re-engineering to fit security needs
 - Automating security over sales workstreams
 
+## Outcomes
+
+...Add content...
+
 ## Who
 
 The target audience for this Working Session is:
@@ -36,3 +40,12 @@ The target audience for this Working Session is:
 - Agile practitioners
 - DevSecOps
 - SecDevOps
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+...add content...
