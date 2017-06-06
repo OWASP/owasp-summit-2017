@@ -63,7 +63,7 @@ The target audience for this Working Session is:
 
 ## Working materials
 
--draft of the Mobile Security Testing Guide (MSTG) (please add as much information as possible before the sessions)
+- Draft of the Mobile Security Testing Guide (MSTG) (please add as much information as possible before the sessions)
 
 ### Content
 
