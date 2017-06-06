@@ -1,12 +1,15 @@
 ---
 layout       : blocks/working-session
-title        : Threat Modeling: What to do about JuiceShop?
+title        : TM - What to do about JuiceShop?
 type         : workshop
 owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : draft
+when-day     : Mon
+when-time    : PM-3
+location     : Room-6
+status       : Improve outcomes
 organizers   :
 participants :
 ---
