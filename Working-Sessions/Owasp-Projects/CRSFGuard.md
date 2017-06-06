@@ -23,6 +23,8 @@ participants :
 
 ## Outcomes
 
+...add content...
+
 ## Who
 
 ... target audience ...
