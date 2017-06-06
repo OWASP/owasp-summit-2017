@@ -6,7 +6,7 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   :
-status       : review-content
+status       : need more content
 when-day     : Thu
 when-time    : PM-1
 location     : Room-2
@@ -31,6 +31,13 @@ This working session will focus on increasing our knowledge of how best to integ
  - Does it make sense to integrate security into a Spotify Model?
  - What are the best practices?
  - How should these practices be measured?
+ 
+## Outcomes
+
+- Best practice cheat sheet for interating Agile Security into the Spotify model
+
+. . .Add text. . .
+
 
 ## Who
 
@@ -53,3 +60,14 @@ The target audience for this Working Session is:
  - [Scaling Agile Using Spotify's Framework](https://www.scrumalliance.org/community/articles/2015/december/scaling-agile-using-spotify-s-framework)
  - [Don't Copy the Spotify Model](https://www.infoq.com/news/2016/10/no-spotify-model)
  - [Don't copy the Spotify Model, do copy the Spotify attitude](https://www.happymelly.com/dont-copy-spotify-model)
+ 
+ --- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
+
