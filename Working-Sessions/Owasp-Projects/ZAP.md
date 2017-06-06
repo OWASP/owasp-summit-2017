@@ -4,7 +4,7 @@ title        : ZAP
 type         : workshop
 track        : Owasp Projects
 technology   : Java
-status       : more-content
+status       : need-more content
 when-day     : Wed
 when-time    : PM-3
 location     : Room-3
@@ -23,7 +23,7 @@ This session will allow attendees to:
 * Discuss where and how ZAP needs to be improved
 * Learn about how to contribute to ZAP
 
-## Definition of Done
+## Outcomes
 
 ...Add text...
 
@@ -32,3 +32,13 @@ This session will allow attendees to:
 The target audience for this Working Session is:
 
 ...Add text...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
