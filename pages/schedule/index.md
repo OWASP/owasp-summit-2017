@@ -1,11 +1,9 @@
 ---
-layout  : blocks/page-content
-title  : Summit Schedule
+#layout     : blocks/page-content
+layout      : blocks/page-component
+component   : schedule/summit.html
+title       : Summit Schedule
 ---
-
-### Summit Schedule (all Working Sessions)
-
-Here are the multiple ways to you can see the current Schedule
 
 > NOTE THAT WE ARE STILL MAKING CHANGES, SO IF YOU HAVE A CONFLICT WITH ONE OF THE SESSIONS, PLEASE CONTACT AN SUMMIT EDITOR ASAP WITH YOUR CHANGE REQUEST
 
@@ -45,22 +43,5 @@ Here  are the individual Track's schedules
 * [Research](./tracks/Research.html)
 * [Security-Crowdsourcing](./tracks/Security-Crowdsourcing.html)
 * [Security- laybooks](./tracks/Security-Playbooks.html)
-* [Threat Model](./tracks/Threat-Model.html)
 
 
-### Daily participants
-
-If you are only going to be attending the Summit for a couple days then make
-sure that your Participant page has the ```when-day:``` field correctly set.
-
-You can also use the ```locked:true``` to represent the working sessions whose time should not be moved around.
-
-Please contact the Summit team ASAP if you spot
-any conflicts
-
-### Evening Working Sessions
-
-These working
-{% assign evening-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day','Eve'%}
-{% for session in evening-sessions %}* [{{ session.title}}]({{ session.url}})
-{% endfor %}
