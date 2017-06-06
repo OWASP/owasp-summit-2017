@@ -6,7 +6,7 @@ owasp-project  : no
 track          : Education
 technology     :
 related-to     : Teaching Attacker perspective to Developers,Juice Shop
-status         : draft; need more content
+status         : need more content
 when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-1
