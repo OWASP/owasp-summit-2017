@@ -6,9 +6,13 @@ owasp-project: no
 track        : DevSecOps
 technology   : CI,SAST
 related-to   : Integrating Security Tools in the SDL,CISO
+when-day     : Tue
+when-time    : PM-2
+location     : Villa-1
 status       : Final stage
 participants : Johan Peeters
 organizers   : Felipe Zipitria
+invited      : Dinis Cruz
 ---
 ## Why
 
