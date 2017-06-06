@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Mon
-when-time    : PM-3
+when-time    : PM-2
 location     : Room-6
 organizers   :
 participants : Geoff Hill, Irene Michlin, Robert Morschel, Mamta Vuppu, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindström, Christian Martorella

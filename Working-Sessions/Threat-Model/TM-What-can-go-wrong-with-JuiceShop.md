@@ -5,8 +5,8 @@ type         : workshop
 track        : Threat Model
 technology   :
 related-to   :
-when-day     : Mon
-when-time    : PM-3
+when-day     : Tue
+when-time    : PM-1
 location     : Room-6
 status       : Improve outcomes
 organizers   : Adam Shostack

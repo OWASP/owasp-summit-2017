@@ -6,7 +6,7 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   :
-status       : draft
+status       : need more content
 organizers   : Ante Gulam
 participants :
 ---
@@ -23,11 +23,11 @@ participants :
  - Making it expensive to attack and exploit
  - Creating Security Strategy from Cyber Security Economics
  
-## Definition of Done
+## Outcomes 
 
 This Working Session will publish a document containing the following:
 
---add text--
+... add content ...
 
 ## Who
 
@@ -39,3 +39,13 @@ This Working Session will publish a document containing the following:
  - [Economics and Security Resource Page](http://www.cl.cam.ac.uk/~rja14/econsec.html)
  - [Introducing the Economics of Cybersecurity](https://www.nap.edu/read/12997/chapter/3)
  - [Cyber Security Economics (MOOC)](https://online-learning.tudelft.nl/courses/cyber-security-economics/)
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... add content ...

@@ -19,8 +19,8 @@ The project looks to define a structure for various IoT sub-projects such as Att
 
 ### Resources from Owasp.org
 - [IoT Attack Surface Areas](https://www.owasp.org/index.php/IoT_Attack_Surface_Areas)
-- [](https://www.owasp.org/index.php/IoT_Testing_Guides)
-- [](https://www.owasp.org/index.php/IoT_Security_Guidance)
+- [IoT Testing Guide](https://www.owasp.org/index.php/IoT_Testing_Guides)
+- [IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance)
 - [Principles of IoT Security](https://www.owasp.org/index.php/Principles_of_IoT_Security)
 - [IoT Framework Assessment](https://www.owasp.org/index.php/IoT_Framework_Assessment)
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)

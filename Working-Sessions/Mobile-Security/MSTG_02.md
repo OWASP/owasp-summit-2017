@@ -5,7 +5,7 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : Final stage; missing target audience; missing working materials
+status          : Final stage; missing working materials
 when-day        : Tue
 when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
@@ -55,7 +55,10 @@ More things to do once you have signed up:
 
 The target audience for this Working Session is:
 
---Add text--
+- Developers
+- Security Testers
+- Reverse Engineers
+- Everyone else with good writing skills and some technical know-how :)
 
 --- 
 

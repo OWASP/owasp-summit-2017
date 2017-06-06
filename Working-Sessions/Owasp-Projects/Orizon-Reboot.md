@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Owasp Orizon Reboot
 type         : workshop
 technology   : Java
-status       : more-content
+status       : need-more content
 track        : Owasp Projects
 owasp-project: yes
 when-day     : Wed
@@ -45,19 +45,28 @@ years, until in 2017 I kickstarted the Orizon project again from scratch.
 - How will Orizon integrate with Dependency Checker and OWASP ZAP?
 - Should Orizon only support J2EE, or should it also support Android?
 
-## Definition of Done
+## Outcomes
 
-- A team of people interesting in working on Orizon
+- A team of people interested in working on Orizon
 - Some agile milestones
 
 ## Who
 
 The target audience for this Working Session is:
 
-ToDo: --Add content--
-
+--Add content--
 
 ## Links
 
 - OWASP Orizon [page](https://www.owasp.org/index.php/Category:OWASP_Orizon_Project)
 - GitHub repository: [here](https://github.com/thesp0nge/owasp-orizon)
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

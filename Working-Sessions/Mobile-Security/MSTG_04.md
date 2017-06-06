@@ -5,7 +5,7 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : featured
+status          : Final stage; missing working materials
 when-day        : Thu
 when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
@@ -40,7 +40,7 @@ Associated chapters in the MSTG:
 - [Testing Platform Interaction](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06h-Testing-Platform-Interaction.md)
 - [Testing Code Quality and Build Settings](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06i-Testing-Code-Quality-and-Build-Settings.md)
 
-## Definition of Done
+## Outcomes
 
 This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
 
@@ -58,4 +58,17 @@ More things to do once you have signed up:
 
 The target audience for this Working Session is:
 
---add text--
+- Developers
+- Security Testers
+- Reverse Engineers
+- Everyone else with good writing skills and some technical know-how :)
+
+--- 
+
+## Working materials
+
+- First draft of the Mobile Security Testing Guide (MSTG)(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
