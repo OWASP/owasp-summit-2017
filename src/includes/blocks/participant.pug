@@ -1,25 +1,5 @@
 | {% assign schedule_Data = site.data.mapped.schedule.by_Participant[page.title] %}
 
-//mixin add-participations-on-day_old
-//    | {% if day != null %}
-//    | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}
-//    b {{ day }}
-//    | {% endif %}
-//    ul
-//        | {% for page in day-working-sessions  %}
-//        | {%    if page.participants contains user or page.organizers contains user %}
-//        li
-//            a(href="{{page.url}}") {{ page.title }}
-//            | {%    if page.organizers contains user %}
-//            span &#32; (organizing)
-//            | {%    endif %}
-//        |{%     endif %}
-//        |{%     if  working-sessions contains page.title  %}
-//        li
-//            a(href="{{page.url}}") {{ page.title }}
-//        | {%    endif %}
-//        | {% endfor %}
-
 mixin add-participations-on-day
     | {% if schedule_Data[day]                                      %}
     li
@@ -55,36 +35,6 @@ mixin add-participations
         | {% assign day = 'no-day' %}
         + add-participations-on-day
 
-
-mixin add-participations_old
-    | {% assign user              = page.title  %}
-    | {% assign working-sessions  = page.working-sessions  %}
-    h2 Working Sessions Schedule
-    ul
-        li
-            | {% assign day = 'Mon' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Tue' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Wed' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Thu' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Fri' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Evening' %}
-            + add-participations-on-day
-        li
-            b
-                i (not scheduled)
-            | {% assign day = null %}
-            | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.when-day == null' %}
-            + add-participations-on-day
 
 mixin add-email
     | {% if page.email != null %}
@@ -135,6 +85,7 @@ img.participant(src='{{ page.image }}' alt='{{ page.title }}')
 
 
 | {{ content }}
+
 
 + add-participations
 

@@ -1,23 +1,4 @@
 {% assign schedule_Data = site.data.mapped.schedule.by_Participant[page.title] %}
-<!--mixin add-participations-on-day_old-->
-<!--    | {% if day != null %}-->
-<!--    | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}-->
-<!--    b {{ day }}-->
-<!--    | {% endif %}-->
-<!--    ul-->
-<!--        | {% for page in day-working-sessions  %}-->
-<!--        | {%    if page.participants contains user or page.organizers contains user %}-->
-<!--        li-->
-<!--            a(href="{{page.url}}") {{ page.title }}-->
-<!--            | {%    if page.organizers contains user %}-->
-<!--            span &#32; (organizing)-->
-<!--            | {%    endif %}-->
-<!--        |{%     endif %}-->
-<!--        |{%     if  working-sessions contains page.title  %}-->
-<!--        li-->
-<!--            a(href="{{page.url}}") {{ page.title }}-->
-<!--        | {%    endif %}-->
-<!--        | {% endfor %}-->
 <h1>{{ page.title }}</h1>
 <h3>
   {{page.job-title }}
