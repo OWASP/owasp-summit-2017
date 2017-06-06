@@ -7,7 +7,9 @@ track          : Education
 technology     :
 related-to     : Teaching Attacker perspective to Developers,Juice Shop
 status         : draft
-when-day       : Eve
+when-day       : Tue,Wed
+when-time      : Eve
+location       : Villa-1
 organizers     :
 participants   : Bjoern Kimminich
 ---

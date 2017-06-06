@@ -6,10 +6,11 @@ include ../mixins/working-session.jade
 | {% assign track_ws_draft = data.working-sessions.draft                          %}
 
 mixin track-schedule
-    b
-        | See &#32;
-        a(href="/pages/schedule/tracks/{{ page.title | replace: ' ', '-'}}.html") schedule
-        | &#32; for this track
+    | {% include schedule/track.html %}
+    //b
+    //    | See &#32;
+    //    a(href="/pages/schedule/tracks/{{ page.title | replace: ' ', '-'}}.html") schedule
+    //    | &#32; for this track
 
 
 .working-session
@@ -22,22 +23,22 @@ mixin track-schedule
         br
         + track-schedule
 
-        h3 Working sessions in this Track
-        ul
-            | {% for track in track_ws_ok %}
-            li
-                a(href='{{ track.url }}') {{ track.name }}
-            | {% endfor %}
-
-        | {% if track_ws_draft.size > 0 %}
-        ul
-            li
-                b In draft status (i.e. need content):
-                ul
-                    | {% for track in track_ws_draft %}
-                    li
-                        a(href='{{ track.url }}') {{ track.name }}
-                    | {% endfor %}
+        //h3 Working sessions in this Track
+        //ul
+        //    | {% for track in track_ws_ok %}
+        //    li
+        //        a(href='{{ track.url }}') {{ track.name }}
+        //    | {% endfor %}
+        //
+        //| {% if track_ws_draft.size > 0 %}
+        //ul
+        //    li
+        //        b In draft status (i.e. need content):
+        //        ul
+        //            | {% for track in track_ws_draft %}
+        //            li
+        //                a(href='{{ track.url }}') {{ track.name }}
+        //            | {% endfor %}
 
         | {% endif %}
         + show-related-to

@@ -4,7 +4,7 @@ title        : SAMM - Conducting Assessments
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Mon
 when-time    : PM-2
 location     : Villa-1

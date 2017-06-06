@@ -70,7 +70,8 @@ class Jekyll_Data
     schedule =
       by_Room        : {}
       by_Track       : {}
-      by_Participant: {}
+      by_Time        : {}
+      by_Participant : {}
 
     # Map by_Day
     for name, data of @.working_Sessions_Data when data.metadata.type is 'workshop'
@@ -79,7 +80,10 @@ class Jekyll_Data
       locations    = data.metadata['location' ] || 'no-location'
       track        = data.metadata.track        || 'no-track'
       locked       = data.metadata.locked       || false
+      status       = data.metadata.status
+      invited      = data.metadata.invited
       organizers   = data.metadata.organizers
+      panelists    = data.metadata.panelists
       participants = data.metadata.participants
 
 
@@ -95,19 +99,27 @@ class Jekyll_Data
             schedule.by_Track[day]                 ?= {}
             schedule.by_Track[day][track]          ?= {}
             schedule.by_Track[day][track][time]    ?= []
-            schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , locked: locked
+            schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , locked: locked, status: status
 
+            schedule.by_Time[time]                 ?= {}
+            schedule.by_Time[time][track]          ?= {}
+            schedule.by_Time[time][track][day]     ?= []
+            schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , locked: locked, status: status
 
             map_User = (user,mode)->
               schedule.by_Participant[user]                     ?= {}
               schedule.by_Participant[user][day]                ?= {}
               schedule.by_Participant[user][day][time]          ?= []
-              schedule.by_Participant[user][day][time].add name: name, url: data.url, location: location, mode:mode, status: data.metadata.status, track : track, locked: locked|| false
+              schedule.by_Participant[user][day][time].add name: name, url: data.url, location: location, mode: mode, status: status, track : track, locked: locked
 
+            for invite in invited
+              map_User invite  , 'invited'
             for organizer in organizers
-              map_User organizer, 'organizing'
+              map_User organizer  , 'organizing'
             for participant in participants
               map_User participant, 'participating'
+            for panelist in panelists
+              map_User panelist  , 'panelist'
 
       schedule.by_Track[day] = @.sort_By_Key schedule.by_Track[day]
 
@@ -115,7 +127,7 @@ class Jekyll_Data
     yaml.safeDump(schedule).save_As @.file_Yaml_Schedule
     @.schedule_Data = schedule
 
-    data
+    return schedule
 
   map_Tracks_Data: ()->
     data = {}
@@ -180,6 +192,7 @@ class Jekyll_Data
     data['participants'] =  data['participants']?.split(',')  || []                       # making the participants value an array
     data['organizers'  ] =  data['organizers'  ]?.split(',')  || []                       # making the participants value an array
     data['invited'     ] =  data['invited'     ]?.split(',')  || []
+    data['panelists'   ] =  data['panelists'   ]?.split(',')  || []
     data['related-to'  ] =  data['related-to'  ]?.split(',')  || []
     data['topics'      ] =  data['technology'  ]?.split(',')  || []                       # todo: refactor technology to topics in data
 
@@ -187,6 +200,7 @@ class Jekyll_Data
     data['organizers'  ] = (item.trim() for item in data['organizers'  ] when item != '')
     data['invited'     ] = (item.trim() for item in data['invited'     ] when item != '')
     data['related-to'  ] = (item.trim() for item in data['related-to'  ] when item != '')
+    data['panelists'   ] = (item.trim() for item in data['panelists'   ] when item != '')
     data['topics'      ] = (item.trim() for item in data['topics'      ] when item != '')
 
     return data                                                           # return mapped data

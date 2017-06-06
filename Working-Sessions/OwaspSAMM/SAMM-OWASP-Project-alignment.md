@@ -4,7 +4,7 @@ title        : SAMM - OWASP Project alignment
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Tue
 when-time    : PM-2
 location     : Villa-1

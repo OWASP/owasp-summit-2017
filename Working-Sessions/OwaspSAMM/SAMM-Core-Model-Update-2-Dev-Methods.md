@@ -4,7 +4,7 @@ title        : SAMM - Core Model Update 2 - Dev Methods
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Tue
 when-time    : AM-1
 location     : Villa-1

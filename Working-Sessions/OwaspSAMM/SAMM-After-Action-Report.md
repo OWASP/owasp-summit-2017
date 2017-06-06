@@ -4,7 +4,7 @@ title        : SAMM - After Action Report
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Fri
 when-time    : AM-1
 location     : Villa-1

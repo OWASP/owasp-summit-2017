@@ -4,7 +4,7 @@ title        : SAMM - Core Model Update 1 - Intro
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Mon
 when-time    : PM-3
 location     : Villa-1

@@ -4,7 +4,7 @@ title        : SAMM - Outreach and Marketing
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Thu
 when-time    : PM-1
 location     : Villa-1

@@ -7,7 +7,9 @@ track        : Education
 technology   :
 related-to   :
 status       : review-content
-when-day     : Eve
+when-day     : Tue
+when-time    : Eve
+location     : Villa-2
 organizers   :
 participants : Dinis Cruz,Bjoern Kimminich
 ---

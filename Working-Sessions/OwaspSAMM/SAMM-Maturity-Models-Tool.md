@@ -5,7 +5,7 @@ type          : workshop
 track         : OwaspSAMM
 technology    : Node
 owasp-project : yes
-status        : draft
+status        : need-outcomes
 when-day      : Fri
 when-time     : PM-1
 location      : Villa-1

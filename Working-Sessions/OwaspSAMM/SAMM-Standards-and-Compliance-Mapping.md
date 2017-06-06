@@ -4,7 +4,7 @@ title        : SAMM - Standards and Compliance Mapping
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Thu
 when-time    : PM-2
 location     : Villa-1

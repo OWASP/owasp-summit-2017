@@ -4,7 +4,9 @@ title       : DevSecOps vs SecDevOps
 type        : workshop
 track       : DevSecOps
 status      : draft
-when-day    : Eve
+when-day    : Wed
+when-time   : Eve
+location    : Villa-3
 organizers  : Francois Raynaud
 participants: Francois Raynaud,Marc Rimbau,Felipe Zipitria,Avi Douglen
 ---

@@ -38,7 +38,9 @@ describe 'Jekyll_Data', ->
 
   it 'map_Schedule', ->
     using jekyll_Data, ->
-      @.map_Schedule()
+      schedule = @.map_Schedule()
+      schedule._keys().assert_Is [ 'by_Room', 'by_Track','by_Time', 'by_Participant' ]
+      schedule.by_Time['PM-1']['CISO']['Mon'][0]._keys().assert_Is ['name', 'url','location','locked','status']
 
   it 'map_Tracks_Data', ->
     using jekyll_Data, ->

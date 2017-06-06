@@ -6,7 +6,7 @@ owasp-project: no
 track        : DevSecOps
 technology   : Web Application Firewall
 related-to   :
-status       : 
+status       : draft
 when-day     : 
 when-time    : 
 organizers   : Scott Treacy

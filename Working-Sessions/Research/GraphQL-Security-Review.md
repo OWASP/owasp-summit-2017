@@ -9,7 +9,7 @@ related-to   : Threat Model
 status       : review-content
 when-day     : Wed
 when-time    : Eve
-location     : Villa-1
+location     : Villa-3
 organizers   :
 participants : PhotoBox
 ---

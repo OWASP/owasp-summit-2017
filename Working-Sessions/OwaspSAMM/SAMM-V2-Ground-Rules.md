@@ -4,7 +4,7 @@ title        : SAMM - V2 Ground Rules
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Mon
 when-time    : AM-1
 location     : Villa-1

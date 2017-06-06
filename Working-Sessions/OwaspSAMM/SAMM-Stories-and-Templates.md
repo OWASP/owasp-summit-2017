@@ -4,7 +4,7 @@ title        : SAMM - Stories and Templates
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes
 when-day     : Tue
 when-time    : PM-3
 location     : Villa-1

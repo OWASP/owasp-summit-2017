@@ -7,7 +7,9 @@ track          : Education
 technology     :
 related-to     : Juice Shop,NodeGoat,Webgoat
 status         : done
-when-day       : Eve
+when-day       : Mon,Tue
+when-time      : Eve
+location       : Villa-3
 organizers     : Bjoern Kimminich
 participants   : Robert Morschel, Timo Pagel
 ---
