@@ -27,6 +27,10 @@ _(improve text)_
  - How does it work in practice
  - Exporting Risk JIRA Workflow into Atlassian Marketplace
  - _(add more)_
+ 
+## Outcomes
+
+...Add text...
 
 ## Who
 
@@ -43,3 +47,13 @@ The target audience for this working session is:
 - http://blog.diniscruz.com/2016/03/updated-jira-risk-workflow-now-with.html
 - http://blog.diniscruz.com/2015/12/jira-workflows-for-handing-appsec-risks.html
 - https://leanpub.com/secdevops
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
