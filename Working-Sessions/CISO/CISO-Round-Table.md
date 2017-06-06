@@ -11,6 +11,7 @@ location     : Room-4
 organizers   : Anders Reeves
 panelists    : Ante Gulam, Neil Barlow, Dinis Cruz,Kevin Fielder,Yan Kravchenko
 participants : Dinis Cruz,Mateo Martinez,Ingo Hanke,Francois Raynaud, Robert Morschel
+invited      : Asadur Rahman
 ---
 
 Round-table of CISO (and future CISOs) to share ideas on what is going on at this level
