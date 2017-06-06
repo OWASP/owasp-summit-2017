@@ -38,4 +38,3 @@ The target audience for this Working Session is:
 - Application architects
 - DBAs/DB experts
 - Web developers
--
