@@ -5,7 +5,7 @@ type         : workshop
 track        : Education
 technology   :
 related-to   :
-status       : review-content
+status       : missing Outcomes; missing Working materials
 when-day     : Tue
 when-time    : PM-1
 location     : Room-4
@@ -34,7 +34,7 @@ All the while, there is a lack of, and high demand for, professionals who can ge
  - What are common career paths into AppSec and InfoSec? How can newbies break into the field, and how can senior practitioners advance? 
  - What effects do globalisation and remote working technologies have on recruitment? 
  
-## Definition of Done
+## Outcomes 
  
 > Need to consider what will be the output of this session. 
 
@@ -49,3 +49,13 @@ The target audience for this Working Session is:
  - Recruitment agencies
  - Human resources
  - Universities
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... add content ...
