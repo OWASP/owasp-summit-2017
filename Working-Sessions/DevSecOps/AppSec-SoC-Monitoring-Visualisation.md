@@ -5,7 +5,7 @@ type         : workshop
 track        : DevSecOps
 technology   : SOC,GDPR
 related-to   : CISO
-status       : done
+status       : Final stage
 when-day     : Thu
 when-time    : AM-1
 location     : Room-1
@@ -43,7 +43,7 @@ The Working Session will assess the role, the work, and the importance of a SOC 
  - How does SOC help with GDPR requirements
  - What to look for - tricks, tips and ideas
  
-## Definition of Done:
+## Outcomes
 
 This Working Session will publish a document containing the following:
 
@@ -60,3 +60,13 @@ The target audience for this Working Session is:
  - InfoSec and AppSec professionals
  - Business analysts
  - CISOs
+ 
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
