@@ -4,7 +4,7 @@ title        : Threat and Vulnerability Management
 type         : workshop
 owasp-project: no
 track        : DevSecOps
-status       : draft
+status       : Final stage; missing Working Materials
 when-day     : Wed
 when-time    : PM-1
 location     : Room-1
@@ -24,7 +24,7 @@ This Working Session will allow members to understand the full data and threat l
 - Processes
 - Ideas and tips to manage threats and vulnerabilities in your company.
 
-## Definition of Done
+## Outcomes
 
 This Working Session will publish ideas and tips to help companies understand and manage threats and vulnerabilities.
 
@@ -35,3 +35,13 @@ The target audience for this Working Session is:
 - Security Architects
 - CISOs
 - People looking at the bigger picture
+
+--- 
+
+## Working materials
+
+Draft ideas and tips to help companies understand and manage threats and vulnerabilities. 
+
+### Content
+
+...add content...

@@ -11,7 +11,7 @@ when-time    : PM-1
 location     : Room-4
 organizers   :
 participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam
-invited      : Neil Barlow, Kevin Fielder
+invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden, Anders Reeves
 ---
 
 ## Why
