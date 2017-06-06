@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp Projects
 related-to   : Cheat Sheets, A10 - Underprotected APIs
 technology   : REST
-status       : done
+status       : Final stage
 when-day     : Fri
 when-time    : AM-1
 location     : Room-3
@@ -33,7 +33,7 @@ REST APIs are ubiquitous, yet there is a lack of solid insights into securing RE
 - JWT/JOSE
 - HoK
 
-## Definition of Done
+## Outcomes
 
 - A new version of the REST Security Cheatsheet.
 - One or more demonstrators.
@@ -52,3 +52,15 @@ The target audience for this Working Session is:
 
 - [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 - [Protect your REST APIs with JWT tokens](http://yo1peeters.blogspot.com/2017/06/protect-your-rest-apis-with-jwt-tokens.html)
+
+--- 
+
+## Working materials
+
+(please add as much information as possible before the sessions)
+
+- Revised draft of REST Security Cheatsheet
+
+### Content
+
+...add content...
