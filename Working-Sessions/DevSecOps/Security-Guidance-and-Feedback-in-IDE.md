@@ -6,7 +6,7 @@ owasp-project: no
 track        : DevSecOps
 technology   : IDE,SAST
 related-to   : Scaling Static Analysis Reviews and Deployments
-status       : review-content
+status       : missing-Working materials
 when-day     : Wed
 when-time    : AM-1
 location     : Room-1
@@ -27,7 +27,7 @@ This Working Session will consider how the best location to provide security gui
  - Who should write the guidance?
  - Create industry-wide guidance (avoid reinventing the wheel)
  
-## Definition of Done
+## Outcomes
 
 This Working Session will create industry-wide security guidelines.
 
@@ -39,3 +39,13 @@ The target audience for this Working Session is:
  - IDE developers
  - AppSec professionals
  - Tool makers
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
