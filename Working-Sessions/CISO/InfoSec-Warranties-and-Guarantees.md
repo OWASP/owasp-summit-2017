@@ -32,6 +32,10 @@ This Working Session will examine the need for InfoSec warranties and guarantees
  - Are we in a 'market for lemons'?
  - The role of Government Agencies
  - What lessons can be learned from the Food and Public Safety agencies (and activities)?
+ 
+## Outcomes
+
+...Add content...
 
 ## Who
 
@@ -50,3 +54,14 @@ The target audience for this Working Session is:
  - [BBC Click - 29/04/2017](https://www.bbc.co.uk/programmes/b08p1nts) - BBC Click investigates a company claiming to offer 'absolute security' and discovers all is not what it seems.
  - [OWASP Security Labeling System Project](https://www.owasp.org/index.php/OWASP_Security_Labeling_System_Project)
  - [Market for Lemons](https://en.wikipedia.org/wiki/The_Market_for_Lemons)
+ 
+---
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
+
