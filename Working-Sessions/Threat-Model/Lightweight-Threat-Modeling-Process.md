@@ -4,7 +4,7 @@ title        : Lightweight Threat Modeling Process
 type         : workshop
 track        : Threat Model
 status       : review-content
-when-day     : Tue
+when-day     : Wed
 when-time    : PM-1,PM-2
 location     : Room-6
 organizers   : Geoff Hill
