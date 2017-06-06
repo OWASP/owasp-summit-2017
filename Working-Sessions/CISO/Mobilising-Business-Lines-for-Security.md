@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: yes
 track        : CISO
 technology   :
-status       : review-content
+status       : final stage
 when-day     : Mon
 when-time    : PM-3
 location     : Room-4
@@ -23,7 +23,7 @@ This Working Session will discuss how to mobilise business lines for security, o
 
  - Panel with industry player with experience on this topics which provide answers to the questions
 
-## Output
+## Outcomes
 
  - Answer specific questions
 
