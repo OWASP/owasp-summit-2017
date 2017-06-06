@@ -1,14 +1,17 @@
 ---
 layout       : blocks/working-session
-title        : Threat Modeling - What can go wrong with JuiceShop?
+title        : TM - What can go wrong with JuiceShop?
 type         : workshop
-owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : draft
-organizers   :
-participants :
+when-day     : Mon
+when-time    : PM-3
+location     : Room-6
+status       : Improve outcomes
+organizers   : Adam Shostack
+participants : Dinis Cruz
+invited      : Bjoern Kimminich
 ---
 
 Get together to use the models of Juiceshop to find problems with it, learn threat modeling, and deliver examples.
