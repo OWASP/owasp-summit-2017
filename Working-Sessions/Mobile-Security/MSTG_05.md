@@ -44,7 +44,7 @@ Associated chapters in the MSTG:
 - [iOS Anti-Reversing Defenses](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06j-Testing-Resiliency-Against-Reverse-Engineering.md)
 - [Assessing Anti-Reverse Engineering Schemes](Document/0x07b-Assessing-Anti-Reverse-Engineering-Schemes.md)
 
-## Definition of Done
+## Outcomes
 
 This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
 
@@ -63,3 +63,13 @@ More things to do once you have signed up:
 The target audience for this Working Session is:
 
 --Add text--
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
