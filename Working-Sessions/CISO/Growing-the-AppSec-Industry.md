@@ -41,7 +41,9 @@ This Working Session will consider the size and potential of the AppSec market, 
  - AppSec professionals
  - [Jeremiah Grossman](https://twitter.com/jeremiahg)
  
- ## Working materials
+---
+
+## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 
