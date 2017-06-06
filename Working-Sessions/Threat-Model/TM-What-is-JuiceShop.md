@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Threat Modeling: What is JuiceShop
+title        : TM - What is JuiceShop
 type         : workshop
 track        : Threat Model
 technology   :
