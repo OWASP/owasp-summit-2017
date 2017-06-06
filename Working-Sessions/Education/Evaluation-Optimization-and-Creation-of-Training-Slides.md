@@ -48,7 +48,7 @@ The target audience for this Working Session is:
 ## Working materials
 
 - An overview of existing resources for training slides. 
-- Add content
+- Add content 
 
 ### Content
 
