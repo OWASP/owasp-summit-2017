@@ -5,7 +5,7 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : featured
+status          : Final stage; missing target audience; missing working materials
 when-day        : Tue
 when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
@@ -37,7 +37,7 @@ Associated chapters in the MSTG:
 - [Security Testing in the Application Development Lifecycle](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x07-Security-Testing-SDLC.md)
 - [Testing Tools](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x08-Testing-Tools.md)
 
-## Definition of Done
+## Outcomes
 
 This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
 
@@ -53,6 +53,18 @@ More things to do once you have signed up:
 
 ## Who
 
+The target audience for this Working Session is:
+
 --Add text--
+
+--- 
+
+## Working materials
+
+- Draft of the Mobile Security Testing Guide (MSTG) (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
 
 
