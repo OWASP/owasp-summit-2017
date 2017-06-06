@@ -4,7 +4,7 @@ title        : Security Champions
 type         : workshop
 track        : Agile AppSec
 related-to   : Threat-Model,DevSecOps,CISO
-status       : review-content
+status       : final stage
 when-day     : Tue
 when-time    : PM-3
 location     : Room-3
@@ -38,7 +38,7 @@ The main purpose of this working session is to discuss the role of Security Cham
  - Is being a Security Champion worth including in your LinkedIn profile?
  - What is the Security Champion's role in Threat Modelling?
  
-## Definition of Done
+## Outcomes
 
 - Agreed definition of security champions' roles, responsibilities, and OKR
 - Agreed structure to help companies create networks of security champions
@@ -60,3 +60,19 @@ The target audience for this Working Session is:
  - https://securingthehuman.sans.org/blog/2015/01/19/creating-a-security-champions-network
  - http://blog.diniscruz.com/2016/10/if-you-dont-have-security-champion-get.html
  - http://blog.diniscruz.com/2015/01/does-your-team-has-security-champion-if.html
+ 
+ --- 
+
+## Working materials
+
+--(please add as much information as possible before the sessions)--
+
+- Draft definition of security champions' roles, responsibilities, and OKR
+- Draft structure to help companies create networks of security champions
+- Draft plan for forum for security champions
+
+### Content
+
+...add content...
+
+
