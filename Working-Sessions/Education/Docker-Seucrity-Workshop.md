@@ -8,7 +8,7 @@ technology   : Docker
 related-to   : Evaluation/Optimization/Creation of Training Slides, Docker Security
 status       : draft
 organizers   : Timo Pagel
-participants :
+participants : Johan Peeters
 ---
 Docker, Docker, Docker
 
@@ -16,7 +16,7 @@ Docker, Docker, Docker
 As every modern company integrates Docker, a workshop is needed to show the potential risks. Most risks are not new, but have higher impacts.
 
 ## What
-As a starting point, the workshop from [Timo Pagel](https://github.com/wurstbrot/docker-security-workshop) will be used. 
+As a starting point, the workshop from [Timo Pagel](https://github.com/wurstbrot/docker-security-workshop) will be used.
 
 ## Outcome
 

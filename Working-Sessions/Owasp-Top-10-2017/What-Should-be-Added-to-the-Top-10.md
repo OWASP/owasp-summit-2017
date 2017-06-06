@@ -10,7 +10,7 @@ when-day     : Tue
 when-time    : PM-2
 location     : Room-2
 organizers   :
-participants : Katy Anton,Johan Peeters
+participants : Katy Anton
 ---
 
 ## Why
@@ -21,7 +21,7 @@ There are many opinions about the existing Top 10 categories. This Working Sessi
 
  - Add data and information about Top 10 Categories
  - Which existing categories should be replaced?
- 
+
 ## Definition of Done
 
 - Agreed list of OWASP Top 10 2017 categories
