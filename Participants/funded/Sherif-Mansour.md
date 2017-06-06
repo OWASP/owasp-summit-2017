@@ -15,12 +15,10 @@ email           :
 linkedin        : sherif-mansour-88a73b3
 twitter         : Kerberosmansour
 facebook        :
-when-days       :
-ticket          : 3x8h
+when-days       : Fri
+ticket          : 1x24h
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
-
-## Sam Stepanyan
 
 <!-- put more details about participant here -->
