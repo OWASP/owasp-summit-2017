@@ -6,7 +6,7 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   : JIRA Risk Workflow
-status       : review-content
+status       : final stage
 when-day     : Thu
 when-time    : PM-2
 location     : Room-2
@@ -30,7 +30,7 @@ is that the less Agile a team is, the more risks it will have and the harder it 
  - What other metrics can be used to measure Agile Practices (outside risk)
  - How is this currently being tracked?
 
-## Definition of Done
+## Outcomes
 
 - Agreed list of risk metrics
 - Dashboards that visualise the data collected
@@ -42,3 +42,13 @@ The target audience for this Working Session is:
 - Security professionals
 - CISOs
 - Agile practitioners
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
