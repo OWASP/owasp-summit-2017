@@ -31,6 +31,10 @@ This Working Session will discuss how best to secure these legacy applications.
  - How to insure these applications
  - How SAST technology tends to be very effective in legacy applications
 
+## Outcome
+
+...add content...
+
 ## Who
 
 The target audience for this Working Session is:
@@ -41,3 +45,13 @@ The target audience for this Working Session is:
 ## References
 
  - [Legacy-SecDevOps (AppSec Management Debrief](http://blog.diniscruz.com/2017/04/presentation-legacy-secdevops-appsec.html)
+ 
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
