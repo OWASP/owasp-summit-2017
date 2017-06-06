@@ -99,18 +99,18 @@ class Jekyll_Data
             schedule.by_Track[day]                 ?= {}
             schedule.by_Track[day][track]          ?= {}
             schedule.by_Track[day][track][time]    ?= []
-            schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , locked: locked, status: status
+            schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , locked: locked
 
             schedule.by_Time[time]                 ?= {}
             schedule.by_Time[time][track]          ?= {}
             schedule.by_Time[time][track][day]     ?= []
             schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , locked: locked, status: status
 
-            map_User = (user,mode)->
-              schedule.by_Participant[user]                     ?= {}
-              schedule.by_Participant[user][day]                ?= {}
-              schedule.by_Participant[user][day][time]          ?= []
-              schedule.by_Participant[user][day][time].add name: name, url: data.url, location: location, mode: mode, status: status, track : track, locked: locked
+            map_User = (user,role)->
+              schedule.by_Participant[user]             ?= {}
+              schedule.by_Participant[user][time]       ?= {}
+              schedule.by_Participant[user][time][day]  ?= []
+              schedule.by_Participant[user][time][day].add name: name, url: data.url, location: location, role: role, status: status, track : track, locked: locked
 
             for invite in invited
               map_User invite  , 'invited'

@@ -761,12 +761,28 @@
   font-size: 10px   ;
   padding: 5px    ;
 }
+.schedule-track .location {
+  font-size: 8px;
+  font-style: italic;
+}
+.schedule-track .role {
+  font-size: 12px;
+  font-style: italic;
+}
 .schedule-track .time {
   font-size: 16px;
 }
-.schedule-track .location {
-  font-size: 8px;
-  padding: 0px;
+.schedule-track .invited {
+  color: red;
+}
+.schedule-track .participating {
+  color: blue;
+}
+.schedule-track .organizing {
+  color: blue;
+}
+.schedule-track .panelist {
+  color: blue;
 }
 
 .schedule {

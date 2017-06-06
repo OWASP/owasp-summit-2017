@@ -1,8 +1,9 @@
 
 <div class="schedule-track">
-  <h3>Scheduled Working Sessions</h3>{% assign times  = "AM-1,PM-1,PM-2,PM-3,Eve" | split: ',' %}
-  {% assign days   = "Mon,Tue,Wed,Thu,Fri"     | split: ',' %}
-  {% assign track  = page.title                             %}
+  {% assign times        = "AM-1,PM-1,PM-2,PM-3,Eve" | split: ',' %}
+  {% assign days         = "Mon,Tue,Wed,Thu,Fri"     | split: ',' %}
+  {% assign participant  = page.title                             %}
+  <h3>Scheduled Working Sessions for {{ participant }}</h3>
   <table class="table table-striped">
     <thead>
       <th><b>(when)</b></th>
@@ -22,15 +23,16 @@
         <h4>Friday</h4>
       </th>
     </thead>{% for time in times %}
-      {% if site.data.mapped.schedule.by_Time[time][track] %}
+      {% if site.data.mapped.schedule.by_Participant[participant][time] %}
     <tr>
       <td class="text-center">
         <div class="time">{{ time }}</div>
       </td>{% for day in days %}
-        {% assign working-sessions = site.data.mapped.schedule.by_Time[time][track][day]  %}
+        {% assign working-sessions = site.data.mapped.schedule.by_Participant[participant][time][day]  %}
       <td>
         <div class="session-name">{% for working-session in working-sessions      %}<a href="{{working-session.url}}">{{ working-session.name }}</a>{% if working-session .locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}
           {% if working-session.status == 'draft' %}<span class="glyphicon glyphicon-warning-sign"></span>{% endif %}
+          <div class="role">    {{ working-session.role }}</div>
           <div class="location">{{ working-session.location }}</div>{% endfor %}
         </div>
       </td>  {% endfor %}

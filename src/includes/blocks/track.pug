@@ -2,12 +2,6 @@ include ../mixins/users.jade
 include ../mixins/working-session.jade
 
 | {% assign data           = site.data.mapped.tracks[page.title]                        %}
-| {% assign track_ws_ok    = data.working-sessions.ok                             %}
-| {% assign track_ws_draft = data.working-sessions.draft                          %}
-
-mixin track-schedule
-    | {% include schedule/track.html %}
-
 
 .working-session
     .container
@@ -17,9 +11,8 @@ mixin track-schedule
         br
         + show-participants
         br
-        + track-schedule
+        | {% include schedule/track.html %}
         + show-related-to
-
         | {{ content }}
         br
         hr
