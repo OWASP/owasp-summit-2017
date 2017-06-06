@@ -6,7 +6,7 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   :
-status       : done
+status       : final stage
 when-day     : Fri
 when-time    : PM-1
 location     : Room-6
@@ -30,7 +30,7 @@ In this Working Session, a security management expert will consider and discuss 
 - Which certificates may be helpful
 - Possible alternatives to the certification process
 
-## Definition of Done
+## Outcomes
 
 This Working Session will publish a list of ten certifications, including a short description, prerequisites, exam costs, available courses, and links to study materials, as well as online practice test links.
 
@@ -42,3 +42,13 @@ The target audience for this Working Session is:
 - IT security engineers
 - Security enthusiasts
 - Security analysts
+
+--- 
+
+## Working materials
+
+Draft list of ten certifications, including short descriptions, prerequisites, exam costs, available courses,  lnks to study materials, and draft list of online practice test links.
+
+### Content
+
+... add content ...
