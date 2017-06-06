@@ -37,7 +37,7 @@ REST APIs are ubiquitous, yet there is a lack of solid insights into securing RE
 - A new version of the REST Security Cheatsheet.
 - One or more demonstrators.
 
-## Who 
+## Who
 
 The target audience for this Working Session is:
 
@@ -45,3 +45,9 @@ The target audience for this Working Session is:
 - SPA developers
 - Mobile developers
 - Authors of the REST security cheat sheet
+
+
+## Links
+
+- [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+- [Protect your REST APIs with JWT tokens](http://yo1peeters.blogspot.com/2017/06/protect-your-rest-apis-with-jwt-tokens.html)
