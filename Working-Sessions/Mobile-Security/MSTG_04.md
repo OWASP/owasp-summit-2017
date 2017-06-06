@@ -63,8 +63,6 @@ The target audience for this Working Session is:
 - Reverse Engineers
 - Everyone else with good writing skills and some technical know-how :)
 
---add text--
-
 --- 
 
 ## Working materials
