@@ -1,6 +1,6 @@
 ---
 layout   : blocks/page-content
-title    : FAQ
+title    : Organisers Duties
 ---
 
 #### 1. **What is the role of a Working Session organiser at the OWASP Summit, and what activities will I be responsible for?**
@@ -54,13 +54,3 @@ If you are a Working Session organiser, please start mapping the ‘Outcomes’ 
 This is your time to create something special.
 
 Thanks again for giving OWASP and the Security industry your most valuable assets: your time and knowledge.
-
-
-
-
-
-
-
-
-
-
