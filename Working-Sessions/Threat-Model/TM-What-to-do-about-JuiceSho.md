@@ -6,8 +6,8 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-when-day     : Mon
-when-time    : PM-3
+when-day     : Tue
+when-time    : AM-1
 location     : Room-6
 status       : Improve outcomes
 organizers   :
