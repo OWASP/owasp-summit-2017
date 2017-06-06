@@ -27,7 +27,7 @@ This Working Session will aim to define those Practices in easy-to-use and scala
  - Who uses Agile in Security activities? (and are they called 'Agile Security Practices'?)
  - Can a focused and pragmatic list of 'Agile Security Practices' be defined? If so, what is on the list?
  
-## Definition of Done
+## Outcomes
 
 - Agreed definition and list of 'Agile Security Practices'
 
@@ -40,3 +40,14 @@ The target audience for this Working Session is:
 - Agile practitioners
 - DevSecOps
 - SecDevOps
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+- Draft definition of 'Agile Security Practices'
+- Draft list of 'Agile Security Practices'
