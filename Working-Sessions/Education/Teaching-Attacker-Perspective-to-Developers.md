@@ -37,7 +37,7 @@ and services used in practical developer security training sessions.
 - Run-through of open source tools (like WebGoat, Security Shepherd, Juice Shop)
 - Are vendor demo applications (like AltoroMutual) an option?
 
-## Outomes 
+## Outcomes 
 
 - Recommendation for a _Learning Path_ guiding developers through
   various hands-on sessions in an appropriate order (e.g. with
