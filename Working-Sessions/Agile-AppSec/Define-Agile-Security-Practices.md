@@ -6,7 +6,7 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   : Integrating Security into an Spotify Model
-status       : review-content
+status       : need more content
 when-day     : Tue
 when-time    : AM-1
 location     : Room-3
