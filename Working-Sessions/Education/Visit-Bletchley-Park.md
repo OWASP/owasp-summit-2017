@@ -10,9 +10,8 @@ status       : review-content
 when-day     : Thu
 when-time    : PM-1,PM-2,PM-3
 location     :
-organizers   : Johan Peeters (1 extra space in car)
+organizers   : Johan Peeters
 participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder
-need-transportation: Viktor Lindstrom
 ---
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
@@ -40,10 +39,12 @@ We also need to know what arrangements we need to make for transport. So, if you
 ### Transport Arrangements:
 
 Have vehicle with N open slots:
+* Johan Peeters: 1 extra seat
 
 Need transport:
 * Adam Shostack
+* Viktor Lindstrom
 
 ## Who
 
-Anyone interested in the history of our field.
+Anyone interested in the history of our field. Note that, barring some financial windfall, you will be expected to pay entrance fees. In the event of commercial transport needing to be arranged, this will need to be paid for as well.
