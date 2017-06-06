@@ -4,7 +4,7 @@ title        : JIRA Risk Workflow
 type         : workshop
 owasp-project: no
 track        : DevSecOps
-status       : draft
+status       : missing Outcomes; missing working materials
 when-day     : Wed
 when-time    : PM-3
 location     : Room-1
