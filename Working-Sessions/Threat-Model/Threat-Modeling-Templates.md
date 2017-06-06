@@ -7,7 +7,7 @@ related-to  : Threat Modeling Cheat Sheets
 description : OWASP Threat Modeling Templates will provide templates for addressing applications templates for which participants can leverage as starter kits for their respective threat modeling efforts.  The intent is to develop, maintain, and enhance a suite of templates that cover different application types, deployment models to which multiple MNCs across various industries can leverage within their respective AppSec groups.
 status      : featured
 when-day    : Tue
-when-time   : AM-1
+when-time   : 
 location    : Room-6
 organizers  : Tony UV
 participants: Dinis Cruz,Jason Li,Avi Douglen,Irene Michlin,Stephen de Vries,Robert Morschel,Francois Raynaud, Duncan Hurwood,Johan Peeters
