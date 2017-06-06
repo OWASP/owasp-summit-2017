@@ -6,7 +6,7 @@ owasp-project  : no (but maybe during the summit)
 track          : Education
 technology     :
 related-to     : Teaching Attacker perspective to Developers,Application Security BSc/Masters Curriculum Design,Juice Shop,NodeGoat,Webgoat
-status         : need-content
+status         : final stage
 when-day       : Wed
 when-time      : PM-3
 location       : Room-2
@@ -30,10 +30,10 @@ In this workshop we will:
 - Share ideas about how to document interactive demonstrations, which are often not included in training slides
 - Optimising training slides
 
-## Definition of Done
+## Outcomes
 
 - Participants will have an overview of existing resources for training slides. 
-- The Session will create a bundle of slides are created and integrate them into the [OWASP Education Project](https://www.owasp.org/index.php/Category:OWASP_Education_Project#tab=Main).
+- The Session will create a bundle of slides and integrate them into the [OWASP Education Project](https://www.owasp.org/index.php/Category:OWASP_Education_Project#tab=Main).
 
 ## Who
 
@@ -42,3 +42,14 @@ The target audience for this Working Session is:
 - Web Application Security trainers
 - Web Application Security researchers
 - Security champions
+
+--- 
+
+## Working materials
+
+- An overview of existing resources for training slides. 
+- Add content 
+
+### Content
+
+... add content ...
