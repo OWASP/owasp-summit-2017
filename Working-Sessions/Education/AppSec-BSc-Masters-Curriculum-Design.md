@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : Application Security BSc/Masters Curriculum Design
 type         : workshop
-status       : featured
+status       : final stage; missing working materials
 track        : Education
 when-day     : Wed
 when-time    : AM-1
@@ -30,7 +30,7 @@ There is an opportunity for OWASP to pull together its wide-ranging expertise, p
 - Establish which OWASP Projects are useful to help shape and support curricula in Application Security
 - Determine a mechanism by which regional/local deliveries of the curriculum could be supported by the OWASP community (for example, OWASP supporters on validation panels, critical friend on module design, guest lectures and training academics)
 
-## Definition of Done
+## Outcomes
 
 This Working Session will deliver the following documents:
 
@@ -40,12 +40,22 @@ This Working Session will deliver the following documents:
 
 ## Who
 
-The target audience for this Working Session is:
-
 - OWASP project leaders whose projects have an educational element (probably all OWASP Project leaders)
 - Application Security trainers  
 - Academics involved in AppSec and InfoSec 
 - Any employer involved in recruiting graduates into application security related roles
 - Other organisations/professional bodies interested in Application Security educational programmes
+
+The target audience for this Working Session is:
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
+
+
 
 
