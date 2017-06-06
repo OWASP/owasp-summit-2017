@@ -3,6 +3,7 @@ layout       : blocks/working-session
 title        : IAM for REST APIs
 type         : workshop
 track        : Owasp Projects
+related-to   : Cheat Sheets, A10 - Underprotected APIs
 technology   : REST
 status       : done
 when-day     : Fri
@@ -44,10 +45,10 @@ The target audience for this Working Session is:
 - Back-end REST services developers
 - SPA developers
 - Mobile developers
-- Authors of the REST security cheat sheet
+- Authors of the REST Security Cheat Sheet
 
 
-## Links
+## References
 
 - [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 - [Protect your REST APIs with JWT tokens](http://yo1peeters.blogspot.com/2017/06/protect-your-rest-apis-with-jwt-tokens.html)
