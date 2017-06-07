@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : PM-2
 location     : Room-2
 organizers   : Dave Wichers
-participants :
+participants : Tiffany Long
 ---
 
 ## Why
@@ -29,6 +29,7 @@ See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/beh
 
 ## What
 
+ - Agree upon definition of 'Openness'
  - Provide evidence on lack of Openness
  - Provide evidence on Openness
  - Review evidence provided
@@ -36,7 +37,8 @@ See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/beh
  
 ## Outcomes 
 
-... Add content ...
+- Framework to apply to the current and future process for the Top 10
+- Framework suggestions for other simularly created documentation processes
 
 ## Who
 
