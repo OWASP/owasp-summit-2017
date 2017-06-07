@@ -23,17 +23,13 @@ This Working Session will focus on financial tasks, accountability, and transpar
 - What physical assets can a chapter buy? Who is monitoring those assets and where are they kept?
 - Should we publish local chapter incomes and expenditure?
 
-## Potential outcomes
-
-- Clarifying responsibilities and accountabilities
-- Set of rules: what should be and what must be recorded? How?
-- One-page cheat sheet for chapter treasurers
-- All outcomes may serve as proposals for discussion with foundation
-
 ## Outcomes
 
 - Agreed set of rules for recording information
 - Cheat sheet for chapter treasurers
+- Clarifying responsibilities and accountabilities
+- Set of rules: what should be and what must be recorded? How?
+- All outcomes may serve as proposals for discussion with foundation
 
 ## Who
 
