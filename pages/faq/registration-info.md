@@ -1,6 +1,6 @@
 ---
 layout   : blocks/page-content
-title    : FAQ
+title    : Registering and updating information
 ---
 
 #### 1. How do I update my schedule and register for working sessions?
