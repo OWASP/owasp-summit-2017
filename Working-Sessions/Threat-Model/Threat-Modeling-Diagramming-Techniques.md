@@ -6,7 +6,7 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : draft
+status       : need-more content
 when-day     : Mon
 when-time    : PM-1
 location     : Room-6
@@ -18,13 +18,13 @@ Diagrams are a fundamental building block for putting mental models where they c
 
 ## Why
 
-OWASP should have content for different types of diagram, different (for example, structured and unstructured) ways to store those diagrams, and how to use each type.
+OWASP should have content for different types of diagram, different ways to store those diagrams (for example, structured and unstructured), and how to use each type.
 
 ## What
 
 ...what text...
 
-## Definition of Done
+## Outcomes
 
 ...Add text...
 
@@ -34,3 +34,15 @@ The target audience for this Working Session is:
 
 - Those who threat model
 - Those who consume threat models
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
