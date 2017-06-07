@@ -14,19 +14,31 @@ organizers   : Steve Springett
 participants : Johan Peeters
 ---
 
-OWASP Dependency-Check is more than a simple tool, it consists of an entire ecosystem of components and projects that all work together to provide insight and visibility into the use of vulnerable components. An overview of the state-of-the-art of the ODC/ODT ecosystem will be demonstrated along with a gap analysis of areas where future work may be necessary.
+
+## Why
+
+Use of vulnerable components (A9) contributes to some of the worlds largest breaches. It's unique among other types of security issues in that vulnerabilities can suddently arrise at any point in the software development lifecycle with or without code changes. OWASP Depencency-Check, a project created by Jeremy Long in 2012, is a flagship OWASP project with thousdands of users and many volunteers. It has grown from a single command line tool into a full suite designed to provide visibility of vulnerable components throughout the software development lifecycle. 
 
 ## What
 
-...add content...
+* An overview of the state-of-the-art of the Dependency-Check & Dependency-Track ecosystem
+* Provide sneak peak at v2.0.0
+* Demos (may the demo gods be gracious)
+* Get direct feedback on existing and in-progress features
 
 ## Outcomes
 
-...add content...
+* Identify areas Dependency-Check and Dependency-Track need improvement
+* Learn about complimentary issues that put use of third-party components at risk
+* Learn how to contribute to the projects
 
 ## Who
 
-...target audience...
+* Security practitioners
+* CI/CD/DevOps practitioners
+* Software engineers
+* QA engineers
+* Anyone responsible for the design, creation, testing, or operation of software
 
 --- 
 
