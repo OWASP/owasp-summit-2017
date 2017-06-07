@@ -4,7 +4,7 @@ title        : SAMM - Core Model Update 1 - Intro
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes
+status       : need-outcomes; need working materials
 when-day     : Mon
 when-time    : PM-3
 location     : Villa-1
@@ -12,19 +12,39 @@ organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
 ---
 
-SAMM core model update sessions. Review and improve the 12 SAMM practices towards SAMM v2.0 draft (based on the notes of last year's summit and the SAMM calls)
-
+SAMM core model update sessions. Review and improve the 12 SAMM practices towards SAMM v2.0 draft (based on the notes of last year's summit and the SAMM calls).
 
 ## Why
 
-The SAMM core model was built 8-9 years ago, much has changed. This is an initial discussion (and limited review) of ideas or directions to take the core model. Look at the model vs implementation/prescriptive guidance
+Since the SAMM core model was built 8-9 years ago, much has changed. This workshop will allow an initial discussion, and limited review, of ideas and directions to take the core model. We will look at the model vs implementation/prescriptive guidance.
 
 ## What
 
 - Brief review of the history of SAMM
 - Brief review of core model suggestions
-- Identify pain points of the current model
+- Identify main points of the current model
+
+## Outcomes
+
+..add content...
 
 ## Who
 
-Security champions, Security architects, DevOps Roles, CISO, ...
+The target audience for this Working Session is:
+
+- Security champions
+- Security architects
+- DevOps Roles
+- CISOs
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

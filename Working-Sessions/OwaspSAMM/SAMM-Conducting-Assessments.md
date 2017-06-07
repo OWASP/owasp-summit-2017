@@ -4,7 +4,7 @@ title        : SAMM - Conducting Assessments
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes
+status       : need-outcomes, need-working materials
 when-day     : Mon
 when-time    : PM-2
 location     : Villa-1
@@ -16,13 +16,29 @@ Conducting SAMM assessments
 
 ## Why
 
-SAMM assessments can be conducted in varying ways, it would be good to learn from each other by describing the different way we conduct SAMM assessments.
+SAMM assessments can be conducted in varying ways and it would be useful to learn from each other by describing the different ways we conduct SAMM assessments.
 
 ## What
 
 - Participants share how they conduct assessments
-- Discussion on pro/cons and future model
+- Discussion of pro/cons and future model
+
+## Outcomes
+
+...add content...
 
 ## Who
 
+The target audience for this Working Session is:
+
 Security champions, Security architects, DevOps Roles, CISO, ...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

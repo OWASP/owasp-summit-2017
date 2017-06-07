@@ -4,7 +4,7 @@ title        : Security Architecture Recommendations for IoT
 type         : workshop
 technology   : IoT
 track        :
-status       : draft
+status       : final stage; add content 
 organizers   :
 participants :
 ---
@@ -25,7 +25,7 @@ IoT security can be divided in three key areas:
 Configuring each of those areas plays a pivotal role in securing the complete IoT infrastructure.
 Configuring each component to be secure is key in securing the overall IoT infrastructure and while there is a number of different design choices, detailed risk/cost assessments should be done.
 
-## Definition of Done
+## Outcomes
 
 A set of guidelines needed for creating a simple but secure IoT architecture by protecting the code that drives the IoT, as well as protecting and managing the IoT devices.
 
@@ -39,3 +39,13 @@ The target audience for this Working Session is:
 https://docs.microsoft.com/en-us/azure/iot-suite/iot-security-best-practices
 http://www.sciencedirect.com/science/article/pii/S1877050915008996
 https://www.symantec.com/content/dam/symantec/docs/white-papers/iot-security-reference-architecture-en.pdf
+
+--- 
+
+## Working materials
+
+Draft guidelines for creating a simple but secure IoT architecture by protecting the code that drives the IoT, as well as protecting and managing the IoT devices.
+
+### Content
+
+... add content ...

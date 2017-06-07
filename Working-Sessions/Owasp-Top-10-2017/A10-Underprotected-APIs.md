@@ -6,7 +6,7 @@ owasp-project: no
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : review-content
+status       : add content
 when-day     : Tue
 when-time    : AM-1
 location     : Room-2
@@ -31,7 +31,7 @@ The OWASP Top 2017 introduces Underprotected APIs as a new Top 10 category, and 
  - What are the pros and cons of this category?
  - Is this category important enough to be added to the new Top 10?
  
-## Definition of Done
+## Outcomes 
 
 This Working Session will decide whether the Underprotected APIs category will be added to the Top 10.
 
@@ -44,3 +44,13 @@ The target audience for this Working Session is:
  - Tool vendors
  - Application developers
  - Application architects
+
+--- 
+
+## Working materials
+
+Draft proposal whether or not to add Underprotected APIs category to the Top 10
+
+### Content
+
+... Add content ...

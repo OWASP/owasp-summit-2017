@@ -4,7 +4,7 @@ title        : Implications of Owasp Top 10 2017
 type         : workshop
 owasp-project: yes
 track        : Owasp Top 10 2017
-status       : review-content
+status       : need outcomes; need working materials
 when-day     : Tue
 when-time    : PM-3
 location     : Room-2
@@ -16,8 +16,8 @@ participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria,Mateo Mar
 
 This Working Session will facilitate collaboration on the implications of the new OWASP Top 10.
 
-As the new version of the OWASP Top 10 will be released very soon, there are a number of
-hot topics that need further discussion and debate.
+The new version of the OWASP Top 10 will be released in July or August 2017.  A number of
+hot topics need further discussion and debate.
 
 ## What
 
@@ -29,9 +29,9 @@ hot topics that need further discussion and debate.
 - List areas where the Top 10 should be used, and explicitly list where it shouldn't
 - _.... What else should be covered in this Working Session?...._
 
-## Definition of Done
-
-...Add text...
+## Outcomes
+ 
+... Add content ...
 
 ## Who
 
@@ -40,3 +40,13 @@ The target audience for this Working Session is:
 - Security Professionals
 - AppSec teams
 - Tool vendors
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...

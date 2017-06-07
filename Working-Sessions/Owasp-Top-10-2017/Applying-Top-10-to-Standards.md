@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   : PCI
 related-to   :
-status       : draft
+status       : final stage; add content
 organizers   :
 participants :
 ---
@@ -24,7 +24,7 @@ The OWASP Top 10 2017 will be released in July or August 2017 after a public com
  - Provide explicit guidance on how to use the new OWASP Top 10 2017
  - Create plan to reach out to current users of Top 10 (PCI) and proactively engage with them to update to the 2017 version
  
-## Definition of Done
+## Outcomes
 
 - Comprehensive list of standards that use OWASP Top 10
 - Guidelines for using OWASP Top 10 2017
@@ -35,3 +35,16 @@ The OWASP Top 10 2017 will be released in July or August 2017 after a public com
 The target audience for this Working Session is:
 
  - Companies that use or recommend the Owasp Top 10
+ 
+ --- 
+
+## Working materials
+
+- Draft list of standards that use OWASP Top 10
+- Draft guidelines for using OWASP Top 10 2017
+- raft roadmap to encourage current Top 10 users to update to OWASP Top 10 2017
+(please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
