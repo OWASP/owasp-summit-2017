@@ -9,7 +9,7 @@ when-time    : PM-1,PM-2
 location     : Room-5
 organizers   : Devesh Bhatt
 participants : Francois Raynaud
-invited      : Dinis Cruz
+invited      : Dinis Cruz, Sam Houston, Josh Armour
 ---
 
 Responsible disclosure is a great way to test your assets using multiple perspectives and different methodologies. This Working Session will explore creating and managing responsible disclosure programmes. 
