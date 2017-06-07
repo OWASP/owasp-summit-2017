@@ -6,9 +6,9 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   : Juice Shop
-when-day     : Tue
-when-time    : AM-1
-location     : Room-6
+when-day     : Thu
+when-time    : Eve
+location     : Villa-3
 status       : Improve outcomes
 organizers   :
 participants : Bjoern Kimminich
