@@ -52,8 +52,8 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Long list of criteria for inclusion in 'Top 10 Selection Criteria'.
-Draft framework for Top 10 criteria to be used in other OWASP Top 10 2017 Working Sesions.
+ - Long list of criteria for inclusion in 'Top 10 Selection Criteria'.
+ - Draft framework for Top 10 criteria to be used in other OWASP Top 10 2017 Working Sesions.
 (please add as much information as possible before the sessions)
 
 ### Content
