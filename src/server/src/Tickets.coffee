@@ -12,9 +12,11 @@ class Tickets
   map_Lodges: ->
     ids = ['OK413','OK414','OK415','OK416','OK426','OK427','OK428','OK309','OK310','OK312','OK313','OK314','OK315','OK316','OK319','OK320','OK321']
     data =
-      ids: ids
-      lodges: {}
+      ids       : ids
+      lodges    : {}
+      pre_summit: {}
 
+    # Summit tickets
     tickets_Data = @.file_Json_Tickets.load_Json()
     need_Room    = []
     for key,value of tickets_Data.by_Ticket
@@ -32,6 +34,10 @@ class Tickets
       data.lodges[id] =
         id   : id
         names: []
+
+    # PreSummit
+    #for key,value of @.jekyll_Data.participants_Data
+    #  console.log key
 
     @.jekyll_Data.save_Data data, @.file_Json_Lodges, @.file_Yaml_Lodges
     return data
