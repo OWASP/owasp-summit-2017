@@ -68,3 +68,13 @@ mixin email
                 td
                     | {{ participant[1].regonline }}
             | {% endfor %}
+
+        h3 Participants NOT on Regonline
+
+        ul
+            | {% for participant in participants  %}
+            |   {% if participant[1].regonline  == 'No' %}
+            li
+                a(href='{{ participant[1].url }}' target='_blank') {{ participant[1].regonline_Name }}
+            |   {% endif %}
+            | {% endfor %}

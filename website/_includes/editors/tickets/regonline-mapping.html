@@ -28,5 +28,12 @@
         <td>{{ participant[1].regonline }}</td>
       </tr>{% endfor %}
     </table>
+    <h3>Participants NOT on Regonline</h3>
+    <ul>
+      {% for participant in participants  %}
+        {% if participant[1].regonline  == 'No' %}
+      <li><a href="{{ participant[1].url }}" target="_blank">{{ participant[1].regonline_Name }}</a></li>  {% endif %}
+      {% endfor %}
+    </ul>
   </div>
 </div>
