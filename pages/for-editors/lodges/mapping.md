@@ -1,5 +1,5 @@
 ---
 layout   : blocks/page-component
-component: editors/lodges/list.html
+component: editors/lodges/mapping.html
 title    : Lodges / Mapping
 ---
