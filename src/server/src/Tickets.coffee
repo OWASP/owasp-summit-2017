@@ -41,9 +41,9 @@ class Tickets
           'when-day'     : value.metadata['when-day'] || ''
         data.by_Participant[regonline_Name] = mapping
 
-    console.log data.by_Participant._keys()
+    #console.log data.by_Participant._keys()
     data.by_Participant = @.jekyll_Data.sort_By_Key data.by_Participant
-    console.log data.by_Participant._keys()
+    #console.log data.by_Participant._keys()
     #console.log data.json_Pretty()
     #console.log data.stats.no_regonline
     @.jekyll_Data.save_Data data, @.file_Json_Tickets, @.file_Yaml_Tickets
