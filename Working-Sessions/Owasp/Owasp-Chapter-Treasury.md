@@ -9,10 +9,10 @@ when-day     : Thu
 when-time    : AM-1
 location     : Room-3
 organizers   : Ingo Hanke
-participants :
+participants : Tiffany Long
 ---
 
-This Working Session will focus on financial tasks, accountability, and transparency in OWASP. Local OWASP chapters deal with a lot of money, and chapters must justify outcomes and chapter fund balances in a legal, fiscal, and ethical manner.
+This Working Session will focus on financial tasks, accountability, and transparency in OWASP. Local OWASP chapters deal with a lot of money, and chapters must justify outcomes and chapter fund balances in a legal, fiscal, and ethical manner. The foundation for this working session will be the Chapter Leader Handbook: https://www.owasp.org/index.php/Chapter_Handbook/Chapter_4:_Chapter_Administration
 
 ## What
 
@@ -20,7 +20,7 @@ This Working Session will focus on financial tasks, accountability, and transpar
 - Compliance: Which general legal standards and regulations should we consider?
 - Are local chapter members accountable?
 - Who is controlling expenses, how do we ensure adherence to the dual-control-principle?
-- What physical assets can a chapter buy? Who is monitoring those assets and where are they kept?
+- What physical assets can a chapter buy? Who is monitoring those assets and where are they kept? How long should they be expected to serve for?
 - Should we publish local chapter incomes and expenditure?
 
 ## Potential outcomes
