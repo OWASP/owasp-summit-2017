@@ -10,7 +10,7 @@ describe 'Jekyll Data | Tickets', ->
       @.jekyll_Data.folder_Root.assert_Folder_Exists()
       @.file_Yaml_Tickets.file_Name().assert_Is 'tickets.yml'
 
-  it.only 'map_Tickets', ->
+  it 'map_Tickets', ->
     using tickets, ->
       using @.map_Tickets(), ->
 #        @.all_Participants.size().assert_Is_Bigger_Than 150
@@ -20,3 +20,10 @@ describe 'Jekyll Data | Tickets', ->
 
       @.file_Json_Tickets.assert_File_Exists()
       @.file_Yaml_Tickets.assert_File_Exists()
+
+  it 'map_Lodges', ->
+    using tickets, ->
+      using @.map_Lodges(), ->
+
+      @.file_Json_Lodges.assert_File_Exists()
+      @.file_Yaml_Lodges.assert_File_Exists()

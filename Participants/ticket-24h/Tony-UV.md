@@ -13,6 +13,7 @@ twitter         : t0nyuv
 facebook        :
 status          : need-content
 ticket          : 5x24h
+pre-summit      : Sun
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

@@ -19,6 +19,7 @@ facebook        :
 project-leader  :
 chapter-leader  :
 owasp-other     :
+pre-summit      : Sat, Sun
 status          : empty
 ticket          : 5x24h
 working-sessions:
