@@ -56,7 +56,7 @@ structure or not:
 To apply the template to your own or any new GitHub projects, simply
 follow these steps:
 
-1. simply unpack all the files from
+1. unpack all the files from
    <https://github.com/OWASP/github-template/archive/master.zip> into
    your repository base path
 2. replace all occurences of _GitHub Template_ with your own project
