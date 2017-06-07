@@ -2,15 +2,15 @@
 layout          : blocks/page-participant
 title           : Stuart Gunter
 type            : participant
-job-title       :
+job-title       : Software Security Consultant
 company         : Composable Systems
 travel-from     : United Kingdom
 image           :
-linkedin        :
+linkedin        : stuartgunter
 twiter          :
 facebook        :
-website         :
-email           :
+website         : https://www.composable.co.uk/
+email           : stuart.gunter@composable.co.uk
 project-leader  :
 chapter-leader  :
 when-day        : Mon,Tue
