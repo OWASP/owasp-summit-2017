@@ -1,6 +1,6 @@
 ---
 layout   : blocks/page-content
-title    : FAQ
+title    : VAT information
 ---
 
 #### 1.  I have a non-UK VAT number, can you apply the reverse charge VAT mechanism?
