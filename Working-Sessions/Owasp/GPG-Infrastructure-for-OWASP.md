@@ -42,7 +42,7 @@ The target audience for this Working Session is:
 
 - Draft GPG infrastructure for OWASP
 - Draft GPG key to be signed by OWASP's "master key" at end of the Summit
-- (please add as much information as possible before the sessions)
+- Please add as much information as possible before the sessions
 
 ### Content
 
