@@ -634,6 +634,35 @@
   color: #87bb40;
 }
 
+.lodges .card {
+  min-height: 300px;
+  background-color: white;
+  border: 1px solid;
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+.lodges .card:hover {
+  background-color: #b4f6a4;
+}
+.lodges .card:hover .participant-name {
+  color: white;
+}
+.lodges .card:hover .participant-title {
+  color: white;
+}
+.lodges .lodge_Id {
+  font-size: 30px;
+  text-align: center;
+}
+.lodges table th {
+  color: #87BB40;
+}
+.lodges table td {
+  vertical-align: middle !important;
+}
+
 @media screen {
   .participants .card {
     min-height: 305px;

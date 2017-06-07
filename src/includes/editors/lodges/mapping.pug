@@ -1,0 +1,23 @@
+.lodges
+    .container
+        h1 {{ page.title }}
+        .row
+            | {% for lodge in site.data.mapped.lodges.lodges%}
+            .col-xs-4.col-sm-4
+
+                .card
+                    table.table.table-striped
+                        thead
+                            th.text-center Lodge Number
+                            th.text-center Participant
+                        tbody
+                            | {% for name in lodge[1].names %}
+                            tr
+                                | {% if forloop.index == 1 %}
+                                td(rowspan='6')
+                                    .lodge_Id {{ lodge[1].id }}
+                                | {% endif %}
+                                td
+                                    | {{ name}}
+                            | {% endfor %}
+            | {% endfor %}
