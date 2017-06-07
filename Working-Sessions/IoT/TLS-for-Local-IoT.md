@@ -39,7 +39,7 @@ TLS-SRP is already implemented in the
 
 Default user credentials are already per-device for many IoT and embedded products, with the credentials printed on the bottom/back of the device or included with the user documentation.
 
-## Definition of Done
+## Outcomes
 
 Developed roadmap for TLS-SRP implementation and adoption.
 
@@ -53,9 +53,9 @@ This will include:
 The target audience for this Working Session is:
 
  - IoT:
-   - vendors,
-   - security consultants,
-   - security architects
+   - Vendors,
+   - Security consultants,
+   - Security architects
  - Penetration testers
  - Risk managers
  - Cryptographers
@@ -79,9 +79,9 @@ Implementations in the web servers will largely take the form of patches to the 
 
 Implementations in the web browsers will require:
 
-- patches to the TLS libraries (boringssl and NSS).
-- patches to the web browsers to use the new functionality.
-- a UI design that enables its use - this will likely involve a browser authentication window, a different coloured padlock (to indicate to the user that the connection is SRP and not traditional TLS) plus a logout button (to destroy the locally held credentials and close/reset the browser windows).
+- Patches to the TLS libraries (boringssl and NSS).
+- Patches to the web browsers to use the new functionality.
+- A UI design that enables its use - this will likely involve a browser authentication window, a different coloured padlock (to indicate to the user that the connection is SRP and not traditional TLS) plus a logout button (to destroy the locally held credentials and close/reset the browser windows).
 
 Implementations in the admin web interfaces will require some form of transitional functionality to cover the period where the embedded web servers implement TLS-SRP but the user browsers do not.  If the admin credentials are required during TLS negotiation for SRP, but after negotiation for traditional TLS (login page), then it might be tricky to implement these on the same TLS server, depending on web server support.  In these cases, the web server might need to support TLS-SRP on one port (with no traditional TLS fallback on that port) and traditional TLS on a separate port (if deemed desirable).
 
@@ -111,3 +111,19 @@ Over on https://github.com/rtfcode/tls-srp I have created some supporting info f
 Using these files/configs, it is possible to turn a non-SRP web server into a SRP web server; simply bind your web server to loopback and run a srp2http stunnel to present TLS-SRP to the network and connect to the web server locally.
 
 Equally, it is possible to make a web browser appear TLS-SRP enabled to test a TLS-SRP web server implementation; simply run a http2srp stunnel on your desktop and point your browser at that instead of directly at the web server
+
+--- 
+
+## Working materials
+
+Draft roadmap for TLS-SRP implementation and adoption.
+
+This will include:
+- Draft roadmap for web server implementations - community projects? liasion with web server vendors?
+- Draft roadmap for web browser implementations - community projects? liasion with web browser vendors?
+- Draft roadmap for IoT and embedded vendor adoption - publicity? industry liasion?
+
+
+### Content
+
+... Add content ...
