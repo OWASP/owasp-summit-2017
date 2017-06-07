@@ -4,7 +4,7 @@ title        : Owasp Student Chapters
 type         : workshop
 owasp-project: yes
 track        : Owasp
-status       : done
+status       : need working materials
 when-day     : Thu
 when-time    : PM-1
 location     : Room-3
@@ -23,7 +23,7 @@ The Student Chapter community is growing and we need to define a direction and e
 - Discuss the future of OWASP Student Chapters
 - Discuss content of Student Chapter Leader Handbook
 
-## Definition of Done
+## Outcomes
 
 - Draft Student Chapter Leader Handbook
 
@@ -33,3 +33,14 @@ The target audience for this Working Session is:
 
 - Chapter Leaders 
 - Project Leaders
+
+--- 
+
+## Working materials
+
+- Draft Student Chapter Leader Handbook
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...
