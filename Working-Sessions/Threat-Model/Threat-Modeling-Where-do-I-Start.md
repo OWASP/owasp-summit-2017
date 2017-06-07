@@ -6,9 +6,9 @@ track        : Threat Model
 technology   :
 related-to   :
 status       : review-content
-when-day     : Mon,Tue,Wed,Thu
+when-day     : Mon
 when-time    : Eve
-location     : Room-6
+location     : Villa-4
 organizers   :
 participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström
 ---
