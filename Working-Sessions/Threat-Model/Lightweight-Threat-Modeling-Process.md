@@ -5,7 +5,7 @@ type         : workshop
 track        : Threat Model
 status       : review-content
 when-day     : Wed
-when-time    : PM-1,PM-2
+when-time    : PM-1
 location     : Room-6
 organizers   : Geoff Hill
 participants : Marc Rimbau,Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin
