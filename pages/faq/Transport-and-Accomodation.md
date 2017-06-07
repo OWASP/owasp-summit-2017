@@ -3,6 +3,8 @@ layout   : blocks/page-content
 title    : FAQ
 ---
 
+## Transport
+
 #### 1. How do I get to the summit?
 
 You can travel to the Summit by rail or by car.
@@ -30,3 +32,15 @@ We recommend you use the A421 (past Milton Keynes and Bedford), then take the A5
 The entrance to Center Parcs, Woburn Forest is 500 yards on the right.
 
 The map co-ordinates for Center Parcs Woburn Forest are: 52.0257° N, 0.5298° W.
+
+## Accomodation
+
+#### 1. Where can I stay before or after the summit?
+
+There are multiple options. Some of the preferred ones are available at:
+
+https://www.booking.com/hotel/gb/exhimiltonkeynes.nl.html
+
+You can also check with Woburn directly at:
+
+http://www.centerparcs.co.uk/hotels_apartments
