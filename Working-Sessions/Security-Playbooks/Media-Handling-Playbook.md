@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Playbooks
 technology   : GDPR
 related-to   :
-status       : review-content
+status       : final stage; need-working materials
 when-day     : Wed
 when-time    : PM-2
 location     : Room-5
@@ -27,7 +27,7 @@ Customers and regulatory bodies tend to be more understanding when communication
 
  - Create Media Handling Playbook
  
-## Definition of Done
+## Outcomes
 
 - Media Handling Playbook
 
@@ -37,3 +37,15 @@ The target audience for this Working Session is:
 
  - Security teams
  - PR and legal departments
+ 
+ --- 
+
+## Working materials
+
+- Draft Media Handling Playbook
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
