@@ -1,3 +1,8 @@
+---
+layout   : blocks/page-content
+title    : FAQ
+---
+
 #### 1. How do I get to the summit?
 
 You can travel to the Summit by rail or by car.
