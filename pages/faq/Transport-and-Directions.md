@@ -3,7 +3,7 @@ layout   : blocks/page-content
 title    : FAQ
 ---
 
-## Transport
+## Transport and Directions
 
 #### 1. How do I get to the summit?
 
@@ -13,7 +13,7 @@ You can travel to the Summit by rail or by car.
 
 Thameslink offers a service from London St Pancras International to Flitwick Train Station, which takes approximately 50 minutes. Flitwick station is approximately 3 miles, or a 10-minute transfer away; taxis are available at the station.
 
-For further rail information, visit [National Rail](www.nationalrail.co.uk.)
+For further rail information, visit [National Rail](www.nationalrail.co.uk.).
 
 **Road**
 
@@ -33,14 +33,4 @@ The entrance to Center Parcs, Woburn Forest is 500 yards on the right.
 
 The map co-ordinates for Center Parcs Woburn Forest are: 52.0257° N, 0.5298° W.
 
-## Accomodation
 
-#### 1. Where can I stay before or after the summit?
-
-There are multiple options. Some of the preferred ones are available at:
-
-https://www.booking.com/hotel/gb/exhimiltonkeynes.nl.html
-
-You can also check with Woburn directly at:
-
-http://www.centerparcs.co.uk/hotels_apartments
