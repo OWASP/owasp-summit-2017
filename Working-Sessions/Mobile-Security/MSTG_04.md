@@ -10,6 +10,7 @@ when-day        : Thu
 when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
 description     : In this book sprint we produce content for the "iOS Testing Guide" chapter of the Mobile Security Testing Guide.
+organizers      : Bernhard Mueller, Sven Schleier
 participants    : Bernhard Mueller, Sven Schleier
 invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau
 ---
