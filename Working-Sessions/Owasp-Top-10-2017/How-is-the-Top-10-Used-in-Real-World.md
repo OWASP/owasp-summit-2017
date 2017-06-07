@@ -23,7 +23,7 @@ participants :
  - Normalise data and find patterns
  - Provide recommendations for new Top 10 (aligned to how it is used)
  
-## Definition of Done
+## Outcomes
 
 - Recommendations for Top 10 2017
 
@@ -31,3 +31,13 @@ participants :
 ## Who
 
 ... target audience ...
+
+--- 
+
+## Working materials
+
+Draft / longlist of candidates for Top 10 2017  (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
