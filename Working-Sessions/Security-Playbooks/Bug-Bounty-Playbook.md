@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : review-content
+status       : final stage; need-working materials
 when-day     : Fri
 when-time    : AM-1
 location     : Room-5
