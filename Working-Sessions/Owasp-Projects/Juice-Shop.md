@@ -11,6 +11,7 @@ when-day     : Mon
 when-time    : PM-3
 location     : Room-3
 participants : Dinis Cruz,Ingo Hanke,Ade Yoseman Putra,Timo Pagel, Francois Raynaud
+invited      : Josh Grossman
 ---
 
 ## Why

@@ -11,7 +11,7 @@ when-day     : Tue
 when-time    : Eve
 location     : Villa-2
 organizers   :
-participants : Dinis Cruz,Bjoern Kimminich
+participants : Dinis Cruz
 ---
 
 Books are the best way to learn.

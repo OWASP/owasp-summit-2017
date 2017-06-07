@@ -6,12 +6,11 @@ track        : Threat Model
 technology   :
 related-to   : Juice Shop
 when-day     : Tue
-when-time    : PM-1
-location     : Room-6
+when-time    : Eve
+location     : Villa-2
 status       : Improve outcomes
 organizers   : Adam Shostack
 participants : Dinis Cruz,Bjoern Kimminich
-invited      : Bjoern Kimminich
 ---
 
 Get together to use the models of Juice Shop to find problems with it, learn threat modeling, and deliver examples.
