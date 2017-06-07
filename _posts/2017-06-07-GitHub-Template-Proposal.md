@@ -61,7 +61,7 @@ follow these steps:
    your repository base path
 2. replace all occurences of _GitHub Template_ with your own project
    name
-3. follow the _{{**TODO:** …}_ instructions
+3. follow the `{{TODO: …}}` instructions
 
 > At the moment this is only a working draft of a template. Nothing
 > about it is mandatory at this point.
