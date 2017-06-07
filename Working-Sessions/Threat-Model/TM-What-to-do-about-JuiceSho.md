@@ -8,7 +8,7 @@ technology   :
 related-to   : Juice Shop
 when-day     : Thu
 when-time    : Eve
-location     : Villa-3
+location     : Villa-4
 status       : Improve outcomes
 organizers   :
 participants : Bjoern Kimminich

@@ -7,7 +7,7 @@ technology   :
 related-to   : Juice Shop
 when-day     : Tue
 when-time    : Eve
-location     : Villa-2
+location     : Villa-4
 status       : Improve outcomes
 organizers   : Adam Shostack
 participants : Dinis Cruz,Bjoern Kimminich
