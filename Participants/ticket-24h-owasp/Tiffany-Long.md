@@ -12,9 +12,9 @@ required-funds  : 1500
 job-title       : Community Manager
 company         : Owasp
 travel-from     : United States
-image           :
-linkedin        :
-twiter          :
+image           : https://pbs.twimg.com/profile_images/757596285113217024/whpdpXe6_400x400.jpg
+linkedin        : tmlong783
+twiter          : viewfromabook
 facebook        :
 project-leader  :
 chapter-leader  :
