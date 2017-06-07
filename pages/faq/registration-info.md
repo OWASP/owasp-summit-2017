@@ -30,7 +30,7 @@ Please make a copy of this remote participant template (https://github.com/OWASP
 
 2. To register as an onsite participant:
 
-To add your name to this repo, please fork the repo and create your page here (https://github.com/OWASP/owasp-summit-2017/tree/master/Participants).
+To add your name to this repo, please fork the repo and create your page [here](https://github.com/OWASP/owasp-summit-2017/tree/master/Participants).
 
 
 
