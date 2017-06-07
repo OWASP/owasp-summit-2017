@@ -4,7 +4,7 @@ title        : Owasp Chapter Treasury
 type         : workshop
 organizers   :
 track        : Owasp
-status       : done
+status       : need working materials
 when-day     : Thu
 when-time    : AM-1
 location     : Room-3
@@ -30,7 +30,7 @@ This Working Session will focus on financial tasks, accountability, and transpar
 - One-page cheat sheet for chapter treasurers
 - All outcomes may serve as proposals for discussion with foundation
 
-## Definition of Done
+## Outcomes
 
 - Agreed set of rules for recording information
 - Cheat sheet for chapter treasurers
@@ -41,3 +41,15 @@ The target audience for this Working Session is:
 
 - Anyone who is or may be responsible for chapter funds
 - Members of foundation dealing with funding and/or financial matters
+
+--- 
+
+## Working materials
+
+- Draft rules for recording information
+- Draft cheat sheet for chapter treasurers
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...
