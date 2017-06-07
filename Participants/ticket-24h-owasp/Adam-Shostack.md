@@ -18,7 +18,7 @@ twiter          :
 website         : https://adam.shostack.org
 ticket          : 5x24h
 status          : done
-working-sessions: Lightweight Threat Modeling Process,Threat Modeling IoT Devices,Threat Modeling Owasp Pages,Threat Modeling Templates,Threat Modeling Where do I Start?,Threat Modeling Scaling,Security Champions Threat Modeling, Visit Bletchley Park, Threat Modeling Diagramming Techniques, Application Security Guide for CISO, Threat Modeling OWASP Pages, Security Guidance and Feedback in IDE, 
+working-sessions: Lightweight Threat Modeling Process,Threat Modeling IoT Devices,Threat Modeling Owasp Pages,Threat Modeling Templates,Threat Modeling Where do I Start?,Threat Modeling Scaling,Security Champions Threat Modeling, Visit Bletchley Park, Threat Modeling Diagramming Techniques, Application Security Guide for CISO, Threat Modeling OWASP Pages, Security Guidance and Feedback in IDE, TM - What is Juice Shop, TM - What can go wrong with Juice Shop?, TM - What to do about Juice Shop?
 
 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
