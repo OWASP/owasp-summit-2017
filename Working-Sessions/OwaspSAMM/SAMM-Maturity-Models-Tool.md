@@ -8,7 +8,7 @@ owasp-project : yes
 status        : need-outcomes;need-working materials
 when-day      : Fri
 when-time     : PM-1
-location      : Villa-1
+location      : Room-4
 organizers    : Dinis Cruz
 participants  : Sebastien Deleersnyder,Marc Rimbau, Yan Kravchenko,Irene Michlin, Viktor Lindstrom
 ---
