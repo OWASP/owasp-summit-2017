@@ -6,7 +6,7 @@ track        : Threat Model
 technology   :
 related-to   : Juice Shop
 when-day     : Mon
-when-time    : PM-3
+when-time    : eve-2
 location     : Room-6
 status       : Improve outcomes
 organizers   :
