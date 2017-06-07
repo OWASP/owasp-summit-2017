@@ -4,7 +4,7 @@ title        : Data behind Owasp Top 10 2017
 type         : workshop
 description  : Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
 track        : Owasp Top 10 2017
-status       : missing target audience; add content
+status       : need target audience; need working materials
 when-day     : Mon
 when-time    : PM-3
 location     : Room-2
