@@ -1,19 +1,19 @@
 ---
 layout          : blocks/page-participant
-title           : Ohad Rabinovich
+title           : Erez Yalon
 type            : participant
-job-title       : Product Manager
+job-title       : Manager of AppSec Research
 company         : Checkmarx
 travel-from     : Israel
-image           : https://pbs.twimg.com/profile_images/1792189419/weemee.jpg
-linkedin        : ohad-rabinovich-2a14246 
-twiter          : 
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJTAAAAJDQxNGRiMjJkLWJlMjYtNDM5YS05ZmIxLTNjN2I2MjFmODE5Ng.jpg
+linkedin        : erezyalon 
+twiter          : ErezYalon
 facebook        :
-website         : 
+website         : https://www.linkedin.com/in/erezyalon/
 email           :
-when-day        : Wed,Thu,Fri
 ticket          :
-status          : empty
+status          : done
+ticket          : 5x24h
 working-sessions: A7 - Insufficient Attack Protection, Data behind Owasp Top 10 2017, Implications of Owasp Top 10 2017, Is the Owasp Top 10 Data Collection Open, What Should be Added to the Top 10, AWS Lambda Security,Docker Security, Benchmark Project
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

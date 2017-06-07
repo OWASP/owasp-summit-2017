@@ -9,7 +9,7 @@ image           : https://pbs.twimg.com/profile_images/729601316339761152/eklTN4
 email           : pparker@equalexperts.com
 linkedin        : parkerphil
 twitter         : parker0phil
-ticket          :
+ticket          : 5x24h
 ---
 
 ## Phil Parker

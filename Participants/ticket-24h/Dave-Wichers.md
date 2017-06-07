@@ -9,7 +9,7 @@ twitter         : wichers
 facebook        :
 pre-summit      : Sun
 status          : done
-ticket          :
+ticket          : 5x24
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

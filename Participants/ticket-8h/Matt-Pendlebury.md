@@ -1,18 +1,21 @@
 ---
 layout          : blocks/page-participant
-title           : Marc Rimbau
+title           : Matt Pendlebury
 type            : participant
 job-title       : Senior Security Consultant
-company         : Axa Assistance
-travel-from     : Spain
+company         : MWR InfoSecurity
+travel-from     : United Kingdom
 image           :
 linkedin        :
 twiter          :
 facebook        :
-funded-who      : self
-status          : working-sessions mappings
-ticket          : 5x24h
-working sessions:
+website         :
+email           :
+project-leader  :
+chapter-leader  :
+ticket          : 5x8h
+status          : empty
+working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

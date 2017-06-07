@@ -15,7 +15,8 @@ email           :
 project-leader  :
 chapter-leader  :
 ticket          :
-status          : empty
+status          : working-sessions mappings
+ticket          : 5x24h
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

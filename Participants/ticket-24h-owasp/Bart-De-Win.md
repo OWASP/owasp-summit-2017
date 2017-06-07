@@ -1,17 +1,24 @@
 ---
 layout          : blocks/page-participant
-title           : Bosko Stankovic
+title           : Bart De Win
 type            : participant
-job-title       : Information Security Engineer
-company         : DefenseCode
-travel-from     : Serbia
-image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAStAAAAJGEzYjNkN2RkLWU3NGItNGM0Ni04ODI3LWIyNDVjY2FjYzRjNQ.jpg
-linkedin        : boskostankovic
+job-title       :
+company         : PwC
+travel-from     : Belgium
+expenses        : owasp
+funded          : yes
+funded-who      : ???
+ticket-cost     : 1500
+funded-amount   : 1500
+image           :
+linkedin        :
 twiter          :
 facebook        :
 website         :
 email           :
-ticket          :
+project-leader  :
+chapter-leader  :
+ticket          : 5x24h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
