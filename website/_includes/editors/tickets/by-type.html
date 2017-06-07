@@ -4,6 +4,7 @@
     <h1>{{ page.title }}<a href="/pages/for-editors">Back to Editor's pages</a></h1>{% assign tickets       = site.data.mapped.tickets.by_Ticket          %}
     {% assign totals        = site.data.mapped.tickets.stats.count        %}
     {% assign no-regonline  = site.data.mapped.tickets.stats.no_regonline %}
+    {% assign regonline     = totals | minus, no-regonline                %}
     <table class="table table-striped">
       <thead>
         <th class="large-column"> Ticket type</th>
@@ -16,6 +17,11 @@
         <td>{{ ticket[1].names  | join: ' , ' }}</td>
       </tr>{% endfor %}
     </table>
-    <h4>Total # Participants: {{ totals }} (with {{ no-regonline }} not registered on Regonline)</h4>
+    <h4>Total # Participants: {{ totals }}</h4>
+    <p>with:</p>
+    <ul>
+      <li>{{ regonline    }} registered on Regonline</li>
+      <li>{{ no-regonline }} not registered on Regonline</li>
+    </ul>
   </div>
 </div>

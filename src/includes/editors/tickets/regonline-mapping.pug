@@ -32,7 +32,15 @@ mixin email
         h1 {{ page.title }}
             a(href='/pages/for-editors') Back to Editor's pages
 
+        | {% assign participants = site.data.mapped.tickets.by_Participant %}
+        | {% assign totals        = site.data.mapped.tickets.stats.count        %}
+        | {% assign no-regonline  = site.data.mapped.tickets.stats.no_regonline %}
+        | {% assign regonline     = totals | minus, no-regonline                %}
 
+        h4 Total # Participants: {{ totals }}
+        ul
+            li {{ regonline    }} registered on Regonline
+            li {{ no-regonline }} not registered on Regonline
 
         table.table.table-striped
             thead
@@ -43,7 +51,8 @@ mixin email
                 th when-day
                 th regonline
 
-            | {% assign participants = site.data.mapped.tickets.by_Participant %}
+
+
             | {% for participant in participants  %}
             tr.text-center(class='regonline-{{participant[1].regonline}}')
                 td.text-center {{ forloop.index }}

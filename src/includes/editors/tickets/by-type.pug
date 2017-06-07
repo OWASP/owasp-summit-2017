@@ -36,6 +36,7 @@ mixin email
         | {% assign tickets       = site.data.mapped.tickets.by_Ticket          %}
         | {% assign totals        = site.data.mapped.tickets.stats.count        %}
         | {% assign no-regonline  = site.data.mapped.tickets.stats.no_regonline %}
+        | {% assign regonline     = totals | minus, no-regonline                %}
 
         table.table.table-striped
             thead
@@ -54,4 +55,8 @@ mixin email
 
             | {% endfor %}
 
-        h4 Total # Participants: {{ totals }} (with {{ no-regonline }} not registered on Regonline)
+        h4 Total # Participants: {{ totals }}
+        p with:
+        ul
+            li {{ regonline    }} registered on Regonline
+            li {{ no-regonline }} not registered on Regonline
