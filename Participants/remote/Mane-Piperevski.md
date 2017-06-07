@@ -5,11 +5,11 @@ type            : participant-remote
 job-title       : IT Security Instructor and Trainer
 company         : Piperevski & Associates
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAwZAAAAJDdmODc5ZDNhLTU2YTItNGM2Ny1iOGFmLTQyN2NlZWVmMGUxNQ.jpg
-linkedin        : https://www.linkedin.com/in/mane-piperevski-93300110/
+linkedin        : mane-piperevski-93300110/
 twiter          : 
 facebook        :
-website         : www dot piperevski dot c0m
-email           : mane dot piperevski at owasp dot 0rg
+website         : www.piperevski.c0m
+email           : mane.piperevski@owasp.org
 project-leader  :
 chapter-leader  : OWASP Chapter Macedonia
 when-day        : Friday
