@@ -1,6 +1,6 @@
 ---
 layout   : blocks/page-content
-title    : FAQ
+title    : Accomodation
 ---
 
 ## Accomodation
