@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   : OWASP Proactive Controls
-status       : review-content
+status       : need working material; need content 
 when-day     : Tue
 when-time    : PM-2
 location     : Room-2
@@ -22,7 +22,7 @@ There are many opinions about the existing Top 10 categories. This Working Sessi
  - Add data and information about Top 10 Categories
  - Which existing categories should be replaced?
 
-## Definition of Done
+## Outcomes
 
 - Agreed list of OWASP Top 10 2017 categories
 
@@ -41,3 +41,14 @@ The target audience for this Working Session is:
  - "looks like you have turned the OWASP Top 10 Risks into the OWASP Top 10 proactive controls (which already exists!) Maybe that's the answer.." [twitter](https://twitter.com/JoshCGrossman/status/865295835009097728)
  - "Another day, another client with external RCE from a #Java Deserialisation vulnerability. Truly the gift which keeps on giving" from [twitter](https://twitter.com/JoshCGrossman/status/856429276488491008)
  - [OWASP Top 10 2017 — What should be there](https://medium.com/@JoshCGrossman/owasp-top-10-2017-what-should-be-there-f5500c1a938d)
+
+--- 
+
+## Working materials
+
+Long list of potential categories for inclusion in OWASP Top 10 2017 categories 
+(please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
