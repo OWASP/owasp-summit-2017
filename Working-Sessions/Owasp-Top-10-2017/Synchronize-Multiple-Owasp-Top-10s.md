@@ -10,23 +10,33 @@ organizers   :
 participants :
 ---
 
-There are multiple Owasp Top 10 lists, we need to synchronize them with the new 2017 release of the main Top 10
+There are multiple OWASP Top 10 lists, we need to synchronize them with the new 2017 release of the main Top 10
 
 Ideally there should be a refresher of all other Top 10s, so that they can benefit from the high exposure that the
-new 'community supported top 10' will generate
+new 'community-supported top 10' will generate
 
 ## Why
 
-...why text...
+... add content ...
 
 ## What
 
-...what text...
+... add content ...
 
-## Definition of Done
+## Outcomes 
 
-...Add text...
+... add content ...
 
 ## Who
 
-... target audience ...
+... add content ...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... add content ...
