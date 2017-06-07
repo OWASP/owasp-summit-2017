@@ -1,0 +1,45 @@
+Room-1 :
+  name: Kings
+  type: Classroom
+  size: 50
+
+Room-2:
+  name: Portland
+  type: Classroom
+  size: 50
+
+Room-3:
+  name: Larch
+  type: Cabaret
+  size: 30
+
+Room-4:
+  name: Montague
+  type: Cabaret
+  size: 30
+
+Room-5:
+  name: Maulden
+  type: Cabaret
+  size: 30
+
+Room-6:
+  name: Pedley
+  type: Cabaret
+  size: 30
+
+Villa-1:
+  name: OwaspSamm Villa
+
+Villa-2:
+  name: Mobile Project Villa
+
+Villa-3:
+  name: DevSecCon Villa
+
+Villa-4:
+  name: PhotoBox Villa
+
+Villa-5:
+  name: Capital One Villa
+

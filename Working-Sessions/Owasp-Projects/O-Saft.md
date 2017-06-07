@@ -6,8 +6,10 @@ track        : Owasp Projects
 organizers   : Achim Hoffmann
 technology   : TLS
 owasp-project: yes
-status       : done
+status       : Final stage; missing target audience; missing working materials
 when-day     : Tue
+when-time    : PM-1
+location     : Room-1
 organizers   : Achim Hoffmann
 participants : Marc Rimbau, Ingo Hanke
 ---
@@ -33,6 +35,24 @@ The Working Session will focus on the internal redesign and some improvements th
 - Build a sophisticated knowledge database with search capabilities (probably using Python NLTK)
 - Is there a need for a GTK-based GUI (i.e. using YAD)?
 
+## Outcomes
+
+- Updated and more efficient O-Saft
+- Improved tools
+- New knowledge base
+
 ## Who
 
 The target audience for this Working Session is:
+
+--Add text--
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

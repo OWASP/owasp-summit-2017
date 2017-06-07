@@ -1,0 +1,18 @@
+.row
+    .col-xs-0
+    .col-xs-12
+        h2 Topics
+    .col-xs-0
+br
+.row
+    .col-xs-0
+    .col-xs-12
+        .row
+            | {% for topic in site.data.mapped.topics %}
+
+            .col-xs-2.col-sm-1
+                a(href="{{topic[1].url}}") {{topic[1].name }}
+            | {% endfor %}
+    .col-xs-0
+br
+

@@ -6,8 +6,10 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
-status       : review-content
+status       : missing Outcomes; missing Working material
 when-day     : Tue
+when-time    : AM-1
+location     : Room-4
 participants :
 organizers   :
 ---
@@ -24,6 +26,10 @@ Given the massive skills shortage in the AppSec industry, we need innovative sol
  - What can be done at university level?
  - What can be done at college level?
  - 'Ethical Hacking' and 'Bug Bounties' have a tool to excite new members
+ 
+## Outcomes 
+
+... add content ...
 
 ## Who
 
@@ -33,3 +39,13 @@ The target audience for this Working Session is:
  - Recruitment agencies
  - Universities
  - Bug Bounty companies/programmes
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... add content ...

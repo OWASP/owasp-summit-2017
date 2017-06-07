@@ -20,8 +20,9 @@ email           : avi.douglen@owasp.org
 linkedin		: avidouglen
 twitter			: sec_tigger
 facebook		:
+ticket          : 5x24h
 status			: done
-working-sessions: Scaling Threat Modeling, Threat Modeling Cheat Sheet, Threat Modeling Templates, Lightweight Threat Modeling Process, Threat Modeling Tools, Threat Model Owasp Pages, Threat Modeling Diagramming Techniques, Agile Practices for Security Teams, Integrating Security into a Portfolio Kanban, Draft SAMM2 - the "DevOps release", Maturity Models tool, Creating AppSec Teams, Recruiting AppSec Talent, Application Security Guide for CISO, Writing Security Tests, DevSecOps vs SecDevOps, Threat and Vulnerability Management, Implications of Owasp Top 10 2017, Owasp Chapter Treasury, OWASP Chapter Leader Handbook
+working-sessions: Threat Modeling Scaling, Threat Modeling Cheat Sheet, Threat Modeling Templates, Lightweight Threat Modeling Process, Threat Modeling Tools,Threat Modeling Owasp Pages, Threat Modeling Diagramming Techniques, Agile Practices for Security Teams, Integrating Security into a Portfolio Kanban, Draft SAMM2 - the "DevOps release", Maturity Models tool, Creating AppSec Teams, Recruiting AppSec Talent, Application Security Guide for CISO, Writing Security Tests, DevSecOps vs SecDevOps, Threat and Vulnerability Management, Implications of Owasp Top 10 2017, Owasp Chapter Treasury, OWASP Chapter Leader Handbook
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

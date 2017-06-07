@@ -4,8 +4,10 @@ title        : OWASP Game Security Framework
 type         : workshop
 owasp-project: yes
 track        : Owasp Projects
-status       : needs-content
+status       : need-more content
 when-day     : Fri
+when-time    : PM-2
+location     : Room-3
 organizers   : Daniel Miessler,Azzeddine Ramrami
 participants :
 ---
@@ -45,7 +47,20 @@ Using this structure, security testers can clearly communicate the various aspec
 
 #### 3) Examples of real-world examples of previous attacks against games, and how the attacks map to the GSF framework components.
 
+## Outcomes
+
+...add content..
 
 ## Who
 
 ... (target audience) ...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

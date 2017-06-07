@@ -6,8 +6,10 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   :
-status       : review-content
-when-day     : Evening
+status       : need more content
+when-day     : Tue
+when-time    : Eve
+location     : Villa-2
 organizers   :
 participants : Dinis Cruz,Bjoern Kimminich
 ---
@@ -25,9 +27,24 @@ It's time to share them and have a group-wide 'book club' working session.
  - Review books and share what was special about them
  - Participants to bring 3 books that changed their lives
  - Agree on top 5 or 10 security books to read (maybe create a couple of 'topics')
+ 
+## Outcomes
+
+This Working Session will publish a list of the top 5 or 10 security books that everyone with an interest in security should read.
+
 
 ## Who
 
 The target audience for this Working Session is:
 
  - Book lovers
+
+--- 
+
+## Working materials
+
+Draft list of the top 5 or 10 security books that everyone with an interest in security should read
+
+### Content
+
+... add content ...

@@ -10,7 +10,9 @@ linkedin        : francoisraynaud
 twitter         : F_Raynaud
 facebook        :
 status          : need-content
+villa           : DevSecCon
 ticket          : 5x24h
+pre-summit      : Sat,Sun
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

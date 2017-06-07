@@ -1,3 +1,5 @@
+require 'fluentnode'
+
 browserSync = require('browser-sync').create();
 gulp        = require 'gulp'
 concat      = require 'gulp-concat'
@@ -8,6 +10,21 @@ shell       = require 'gulp-shell'
 
 
 gulp.task 'build', [], shell.task(['jekyll build --incremental'])
+
+gulp.task 'build-all', [], shell.task(['jekyll build'])
+
+
+gulp.task 'build-data', [], shell.task(['npm run build-data'])
+
+#gulp.task 'npm-tests', [], (done)->
+#    console.log "starting npm"
+#    'npm'.start_Process_Redirect_Console 'test'
+#        .on 'exit', ()->
+#            console.log "----- npm finished"
+#            'jekyll'.start_Process_Redirect_Console 'clean'
+#                    .on 'exit', ()->
+#                        console.log "----- all done"
+#                        done()
 
 
 gulp.task 'pug', ()->
@@ -23,7 +40,8 @@ gulp.task 'pug', ()->
     pug_Compile('src/includes/**/*.pug', 'website/_includes')
     pug_Compile('src/layouts/**/*.pug' , 'website/_layouts')
 
-gulp.task 'reload-page', ['build'], -> browserSync.reload()
+gulp.task 'reload-page'    , ['build'], -> browserSync.reload()
+gulp.task 'reload-page-all', ['build-all'], -> browserSync.reload()
 
 gulp.task 'styles', ->
     gulp.src('src/less/**/*.less')
@@ -34,7 +52,7 @@ gulp.task 'styles', ->
         #.pipe browserSync.reload(stream: true)          # this is not working
 
 
-gulp.task 'default'    , ['styles', 'pug', 'build'],->
+gulp.task 'default'    , ['styles', 'pug', 'build-data', 'build'],->
     browserSync.init
         online         : false                     # doesn't bind to public IP address
         port           : 9000                      # site will be available at http://localhost:9000/
@@ -55,7 +73,9 @@ gulp.task 'default'    , ['styles', 'pug', 'build'],->
 
     gulp.watch 'src/less/**/*.less'           , ['styles'     ]
     gulp.watch 'src/**/*.pug'                 , ['pug'        ]
+    gulp.watch 'src/**/*.jade'                , ['pug'        ]
 
-    gulp.watch 'Logistics/**/*.md'            , ['reload-page']
-    gulp.watch 'Participants/**/*.md'         , ['reload-page']
-    gulp.watch 'Working-Sessions/**/*.md'     , ['reload-page']
+    gulp.watch 'Logistics/**/*.md'            , ['build-data', 'reload-page-all']
+    gulp.watch 'Participants/**/*.md'         , ['build-data', 'reload-page-all']
+    gulp.watch 'Working-Sessions/**/*.md'     , ['build-data', 'reload-page-all']
+    #gulp.watch 'Working-Sessions/**/*.md'     , ['reload-page']

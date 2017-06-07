@@ -8,23 +8,30 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Fri
+when-time    : PM-3
+location     : Room-6
 organizers   : Dave Wichers
 participants :
 ---
 
 ## Why
 
-Given the controversy and comments made on the new version of the Owasp Top 10 2017, it is critical that after all the
- Summit's Working Sessions, the participants (both at the Summit and remotely) are able to agree on the final version
- and provide it with 'on the record' support for the final version (by signing it)
+Given the controversy and comments made on the new version of the OWASP Top 10 2017, it is critical that after all the
+Summit's Working Sessions, participants both at the Summit and remotely can agree on the final version of the OWASP Top 10 2017, and provide it with 'on the record' support by signing it.
 
 ## What
 
- - Sign the Owasp Top 10 2017 version
+ - Sign the OWASP Top 10 2017 version
+ 
+## Definition of Done
+
+- OWASP Top 10 2017 is signed
 
 ## Who
 
- - Owasp Top 10 2017 Authors and Contributors
- - Owasp Community and Industry
+The target audience for this Working Session is:
+
+ - OWASP Top 10 2017 Authors and Contributors
+ - OWASP Community and Industry
  - Product/Service vendors
- - Organizations that recommend the use of Owasp Top 10
+ - Organisations that recommend the use of OWASP Top 10

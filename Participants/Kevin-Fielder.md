@@ -11,7 +11,7 @@ twiter          :
 facebook        :
 website         :
 email           :
-when-day        : mon,wed,fri
+when-day        : Mon,Wed,Fri
 ticket          :
 status          : empty
 working-sessions: CISO

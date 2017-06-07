@@ -13,3 +13,4 @@ project-leader  :
 chapter-leader  :
 status          : empty
 working-sessions:
+---

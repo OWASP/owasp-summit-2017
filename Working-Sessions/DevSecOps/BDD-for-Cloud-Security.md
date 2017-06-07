@@ -6,10 +6,12 @@ owasp-project: no
 track        : DevSecOps
 technology   :
 related-to   :
-status       : review-content
+status       : Final stage
 when-day     : Tue
+when-time    : AM-1
+location     : Room-5
 organizers   : Stephen de Vries
-participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Stephen de Vries
+participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud,Stephen de Vries,Johan Peeters
 ---
 
 ## Why
@@ -23,10 +25,24 @@ Developers, and operations and security teams need to collaborate on building an
 - Find existing tools/solutions that can be used as base implementations, e.g. Netflix's Security Monkey? NCC Group AWS auditor?
 - Link specs to standards (CSA, NIST, etc.)?
 
+## Outcomes
+
+This Working Session will publish BDD specifications for those requirements (no implementation code, just specs), and will link the specs to CSA, NIST, and other standards.
+
 ## Who
 
 The target audience for this Working Session is:
 
-- Cloud Security Architects
-- Security Teams
+- Cloud Security architects
+- Security teams
 - Cloud Ops
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

@@ -18,7 +18,7 @@ This is not a conference with uni-directional presentations, this is a working s
 * DDoS, Cyber Warfare, AppSec Standards;
 
 .. and of course, working sessions on popular OWASP projects (lead by its leaders) such as:
-* Zap, Top 10, Dependency Checker
+* ZAP, Top 10, Dependency Check, Juice Shop
 * OwaspSAMM, OWASP Guides (Testing, ASVS, Core Review)
 * AppSensor and dozens more.
 

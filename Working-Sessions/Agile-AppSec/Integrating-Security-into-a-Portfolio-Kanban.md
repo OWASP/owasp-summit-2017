@@ -6,9 +6,11 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   :
-status       : review-content
+status       : need more content
 when-day     : Tue
-organizers   : David Clarke
+when-time    : PM-2
+location     : Room-3
+organizers   :
 participants : Ante Gulam,Irene Michlin, Mamta Vuppu
 ---
 
@@ -24,6 +26,10 @@ Integrating information security into the Portfolio Kanban enables organisations
 - How to mobilise programme management on security integration
 - How to create security flows towards MVP development
 
+## Outcomes
+
+...add text...
+
 ## Who
 
 The target audience for this Working Session is:
@@ -35,3 +41,13 @@ The target audience for this Working Session is:
 - Agile practitioners
 - Agile coaches
 - Project and programme managers
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...Add content...

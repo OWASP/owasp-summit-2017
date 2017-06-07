@@ -6,9 +6,11 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   : Integrating Security into an Spotify Model
-status       : review-content
-when-day     : Mon
-organizers   : David Clarke
+status       : need more content
+when-day     : Tue
+when-time    : AM-1
+location     : Room-3
+organizers   :
 participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu
 ---
 
@@ -24,6 +26,10 @@ This Working Session will aim to define those Practices in easy-to-use and scala
  - How can they be measured?
  - Who uses Agile in Security activities? (and are they called 'Agile Security Practices'?)
  - Can a focused and pragmatic list of 'Agile Security Practices' be defined? If so, what is on the list?
+ 
+## Outcomes
+
+- Agreed definition and list of 'Agile Security Practices'
 
 ## Who
 
@@ -34,3 +40,14 @@ The target audience for this Working Session is:
 - Agile practitioners
 - DevSecOps
 - SecDevOps
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+- Draft definition of 'Agile Security Practices'
+- Draft list of 'Agile Security Practices'

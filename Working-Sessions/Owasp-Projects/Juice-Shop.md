@@ -5,9 +5,11 @@ type         : workshop
 track        : Owasp Projects
 technology   : Node
 description  : OWASP Juice Shop Project is an intentionally insecure webapp for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-status       : featured
+status       : Final stage; missing working materials
 organizers   : Bjoern Kimminich
 when-day     : Mon
+when-time    : PM-3
+location     : Room-3
 participants : Dinis Cruz,Ingo Hanke,Ade Yoseman Putra,Timo Pagel, Francois Raynaud
 ---
 
@@ -30,7 +32,7 @@ Ideas for potential new hacking challenges are currently collected in
 the
 [Challenge Pack 2017](https://github.com/bkimminich/juice-shop/milestone/3)
 milestone on GitHub. In this working session we will gather,
-design and implement many of the existing, and hopefully several entirely
+design, and implement many of the existing, and hopefully several entirely
 new, challenges that we will bundle in the _OWASP Summit Challenge Pack
 2017_ for production release on the final day of the summit.
 
@@ -44,7 +46,9 @@ the CTF-extension are currently gathered as
 
 ![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
 
-### Potential outcomes
+## Outcomes
+
+This working session will gather, discuss, design, and implement the following:
 
 - Several new challenges for OWASP Juice Shop
 - Functional enhancements to place the challenges in, e.g. the
@@ -58,8 +62,7 @@ the CTF-extension are currently gathered as
 - [Updated project roadmap](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Road_Map_and_Getting_Involved)
   for OWASP Juice Shop and its CTF-extension
 
-To keep the high release stability and overall quality of OWASP Juice
-Shop
+To keep the high release stability and overall quality of OWASP Juice Shop
 [the contribution rules of the project](https://github.com/bkimminich/juice-shop/blob/master/CONTRIBUTING.md)
 apply for the summit results as well:
 
@@ -73,10 +76,20 @@ apply for the summit results as well:
 
 The target audience for this Working Session is:
 
-- Javascript developers (Knowledge of Node.js would be great but is _not
+- JavaScript developers (Knowledge of Node.js would be great but is _not
   mandatory_)
 - Web developers (Knowledge of Angular 1.x would be great but is _not
   mandatory_)
 - Web designers (the vulnerable features will _at least look good_)
 - CTFd project team and contributors
 - Security professionals
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

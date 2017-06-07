@@ -4,7 +4,9 @@ title        : Threat Modeling Schema
 type         : workshop
 track        : Threat Model
 status       : draft
-when-day     : Mon
+when-day     : 
+when-time    : 
+location     : 
 organizers   :
 participants :
 ---
@@ -18,6 +20,10 @@ participants :
 ## What
 
 ...what text...
+
+## Definition of Done
+
+...add text...
 
 ## Who
 

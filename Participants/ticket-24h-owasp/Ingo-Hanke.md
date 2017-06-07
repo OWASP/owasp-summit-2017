@@ -18,7 +18,8 @@ required-funds  : 1950
 funded-amount   : 1950
 funded-who      : OWASP German Chapter
 email           : ingo.hanke@owasp.org
-ticket          : 4x24h (tue,wed,thu,fri)
+when-day        : Tue,Wed,Thu,Fri
+ticket          : 4x24h
 status          : done
 working-sessions: Implications of Owasp Top 10 2017
 ---

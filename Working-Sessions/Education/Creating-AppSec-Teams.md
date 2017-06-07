@@ -6,10 +6,12 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,CISO
-status       : review-content
+status       : missing Outcomes; mising Working Materials
 organizers   : Dinis Cruz
 when-day     : Tue
-participants : Avi Douglen, Robert Morschel
+when-time    : PM-2
+location     : Room-4
+participants : Avi Douglen, Robert Morschel,Ade Yoseman Putra
 ---
 
 ## Why
@@ -25,6 +27,12 @@ This Working Session will focus on how to create an AppSec team, a difficult cha
  - Define AppSec team's services and practices
  - The role of security champions
  - Using development-focused 'AppSec Squads' to help facilitate the creation, testing, and deployment of security fixes
+ 
+## Outcomes 
+
+This Working Session will publish a document containing the following:
+
+... add content ...
 
 ## Who
 
@@ -32,3 +40,13 @@ The target audience for this Working Session is:
 
  - AppSec professionals
  - CISOs
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... add content ...

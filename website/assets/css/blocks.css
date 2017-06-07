@@ -15,15 +15,14 @@
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(/website/assets/fonts/y7lebkjgREBJK96VQi37Zogp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');
-  /*src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(https://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37Zogp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');*/
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url('/website/assets/fonts/y7lebkjgREBJK96VQi37Zogp9Q8gbYrhqGlRav_IXfk.woff2') format('woff2'), url('/website/assets/fonts/Roboto-Slab-Regular.woff') format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 @font-face {
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 500;
-  src: local('Oswald Medium'), local('Oswald-Medium'), url(/website/assets/fonts/KuTkTNzljLi-9-e4QiI83pBw1xU1rKptJj_0jans920.woff2) format('woff2');
+  src: local('Oswald Medium'), local('Oswald-Medium'), url('/website/assets/fonts/KuTkTNzljLi-9-e4QiI83pBw1xU1rKptJj_0jans920.woff2') format('woff2'), url('/website/assets/fonts/oswald-medium-webfont.woff') format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 
@@ -635,6 +634,44 @@
   color: #87bb40;
 }
 
+.lodges h1 a {
+  padding: 20px;
+}
+.lodges .pre-summit-card {
+  min-height: 390px !important;
+}
+.lodges .card {
+  min-height: 340px;
+  background-color: white;
+  border: 1px solid;
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+.lodges .card:hover {
+  background-color: #b4f6a4;
+}
+.lodges .card:hover .participant-name {
+  color: white;
+}
+.lodges .card:hover .participant-title {
+  color: white;
+}
+.lodges .lodge_Id {
+  font-size: 30px;
+  text-align: center;
+}
+.lodges table th {
+  color: #87BB40;
+}
+.lodges table td {
+  vertical-align: middle !important;
+}
+.lodges .when {
+  font-size: 10px;
+}
+
 @media screen {
   .participants .card {
     min-height: 305px;
@@ -752,8 +789,74 @@
   text-decoration: none;
 }
 
+.schedule-track .glyphicon-lock {
+  color: #ff7b7d;
+  font-size: 10px   ;
+  padding: 5px    ;
+}
+.schedule-track .glyphicon-warning-sign {
+  color: #ff7b7d;
+  font-size: 10px   ;
+  padding: 5px    ;
+}
+.schedule-track .alert {
+  font-size: 12px;
+  padding: 2px   ;
+  text-align: center;
+  min-width: 80px;
+}
+.schedule-track .location {
+  font-size: 8px;
+  font-style: italic;
+}
+.schedule-track .role {
+  font-size: 12px;
+  font-style: italic;
+}
+.schedule-track .time {
+  font-size: 16px;
+}
+.schedule-track .invited {
+  color: #EEA79C;
+}
+.schedule-track .participating {
+  color: #7E7F9A;
+}
+.schedule-track .organizing {
+  color: #93A987;
+}
+.schedule-track .panelist {
+  color: #B1A265;
+}
+
 .schedule {
   background-color: #f9f9f9;
+  padding: 10px;
+}
+.schedule .glyphicon-lock {
+  color: #ff7b7d;
+  font-size: 10px   ;
+  padding: 5px    ;
+}
+.schedule .room-name {
+  font-size: 16px;
+}
+.schedule .room-key {
+  font-size: 9px;
+}
+.schedule .day_Title {
+  font-size: 150%;
+}
+.schedule .session-name a {
+  font-size: 100%;
+}
+.schedule .alert a {
+  font-size: 100%;
+}
+.schedule table .day-time {
+  font-size: 10px;
+  padding: 0px;
+  margin: -5px;
 }
 .schedule table td a {
   font-size: 80%;
@@ -761,10 +864,77 @@
 .schedule table td .track {
   font-size: 80%;
 }
+.schedule table td .track-info {
+  font-size: 8px;
+  padding: 0px;
+}
 .schedule table td hr {
   border-color: #ededed;
   padding: 0px;
   margin: 0px;
+}
+.schedule-colors .Mon {
+  background: #F0D3F7;
+}
+.schedule-colors .Tue {
+  background: #B98EA7;
+}
+.schedule-colors .Wed {
+  background: #AD8086;
+}
+.schedule-colors .Thu {
+  background: #F0BDC4;
+}
+.schedule-colors .Fri {
+  background: #A39DA5;
+}
+.schedule-colors .AM-1 {
+  background: #9BF3F0;
+}
+.schedule-colors .PM-1 {
+  background: #8DDDDB;
+}
+.schedule-colors .PM-2 {
+  background: #7FC7C5;
+}
+.schedule-colors .PM-3 {
+  background: #71B1AF;
+}
+.schedule-colors .Eve {
+  background: #639B99;
+}
+.schedule-colors .Room-1 {
+  background: #FEE9EC;
+}
+.schedule-colors .Room-2 {
+  background: #FDD4DA;
+}
+.schedule-colors .Room-3 {
+  background: #FCBFC7;
+}
+.schedule-colors .Room-4 {
+  background: #FCAAB5;
+}
+.schedule-colors .Room-5 {
+  background: #FB95A3;
+}
+.schedule-colors .Room-6 {
+  background: #FA8090;
+}
+.schedule-colors .Villa-1 {
+  background: #C1BDB0;
+}
+.schedule-colors .Villa-2 {
+  background: #B5B0A0;
+}
+.schedule-colors .Villa-3 {
+  background: #A9A390;
+}
+.schedule-colors .scheduled {
+  color: #93C0A4;
+}
+.schedule-colors .not-scheduled {
+  color: #F84159;
 }
 
 .search {
@@ -904,6 +1074,10 @@
   color: white  ;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.tickets .regonline-No {
+  background: #EEA79C !important;
 }
 
 .venue {

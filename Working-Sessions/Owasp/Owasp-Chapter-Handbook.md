@@ -9,29 +9,41 @@ organizers   : Avi Douglen
 participants :
 ---
 
-The purpose of the OWASP Chapter Handbook and the OWASP Chapter Leader Handbook is to provide chapter leaders with a central place to find information about starting a chapter, organizing a chapter meeting, handling their chapter finances, and many other topics that come up in the course of running a chapter.  
-The Handbook is currently undergoing review, and the updated version is currently in draft. 
-The purpose of this Session is to discuss any open issues and reach consensus. We should also uncover new issues especially as relates to atypical chapters and the disparate manners of chapter operation.  
+The joint purpose of the OWASP Chapter Handbook and the OWASP Chapter Leader Handbook is to provide chapter leaders with a central repository of information about starting a chapter, organising a chapter meeting, handling chapter finances, etc.   
+The Handbook is currently under review, and the updated version is currently in draft form. 
+This Working Session will discuss and agree on any open issues. The session will also consider new issues, particularly those relating to atypical chapters and the different styles of chapter operations.  
 
+## What
 
-## Questions / Tasks
 - How can we simplify the Handbook(s)?
-- In what ways can we get new chapters, and new chapter leaders, up to speed most efficiently? 
+- How can we ensure that new chapters, and new chapter leaders, are kept informed of new developments? 
 - How do we validate "compliance"?
 - Requirement update process
 - New requirements
 - <List of specific issues to discuss?> 
 
 ## Potential outcomes
+
 - Clarifying responsibilities and accountabilities
 - Updated draft
-- One-page cheat sheets: for chapter leaders; for onboarding new leaders; for creating new chapter
+- One-page cheat sheets for:
+    - chapter leaders 
+    - new leaders 
+    - creating a new chapter
 - All outcomes are not final, and will serve as input for Foundation
 
+## Definition of Done
+
+- Revised draft of OWASP CHapter Handbook
+- Cheat sheets for chapter leaders, new leaders, and new chapters
+
 ## Who
+
+The target audience for this Working Session is:
+
 - Chapter Leaders
-- Anyone who is or may be involved with chapter management
-- Foundation Staff dealing with chapters or community
+- Anyone who works in chapter management
+- Foundation staff dealing with chapters or community
 
 ## Links
 - [OWASP Chapter Leader Handbook outline draft](https://docs.google.com/document/d/1uupqip9TiejURbznt_Dk6t1H--8foRJxcVQ2gdmUj-s/)

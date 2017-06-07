@@ -5,8 +5,10 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : featured
+status          : Final stage; missing working materials
 when-day        : Tue
+when-time       : AM-1,PM-1,PM-2,PM-3
+location        : Villa-2
 description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : T.b.d.
@@ -35,6 +37,10 @@ Associated chapters in the MSTG:
 - [Security Testing in the Application Development Lifecycle](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x07-Security-Testing-SDLC.md)
 - [Testing Tools](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x08-Testing-Tools.md)
 
+## Outcomes
+
+This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
+
 ## How to Join
 
 Follow the "Edit this page here" link at the bottom of this page and add yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions.
@@ -44,4 +50,24 @@ More things to do once you have signed up:
 - Make yourself familiar with the [existing content](https://github.com/OWASP/owasp-mstg). Or even better, start contributing right away :)
 - Ping us on the [OWASP MSTG Slack channel](https://owasp.slack.com/messages/project-mobile_omtg/details/) (sushi2k or bernhardm).
 - If you have rooted Android / jailbroken iOS devices, please bring them along to the session.
+
+## Who
+
+The target audience for this Working Session is:
+
+- Developers
+- Security Testers
+- Reverse Engineers
+- Everyone else with good writing skills and some technical know-how :)
+
+--- 
+
+## Working materials
+
+- Draft of the Mobile Security Testing Guide (MSTG) (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
+
 

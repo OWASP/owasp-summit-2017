@@ -6,7 +6,10 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   :
-status       : draft
+status       : needs more content
+when-day     : Thu
+when-time    : PM-2
+location     : Room-4
 organizers   : Don Gibson
 participants :
 ---
@@ -26,9 +29,13 @@ The aim of this Working Session is to examine AppSec from the vantage point of t
 
 - What to beware of
 - How to build teams and policies
-- What frameworks to look out for, 
-- Technologies, 
-- Hints and tips.
+- What frameworks to look out for 
+- Technologies 
+- Hints and tips
+
+## Outcomes
+
+.. add content..
 
 ## Who
 
@@ -37,3 +44,13 @@ The target audience for this Working Session is:
 - CISOs
 - Tech Leads 
 - Architects
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

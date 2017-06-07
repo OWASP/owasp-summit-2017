@@ -7,9 +7,12 @@ track        : Research
 technology   :
 related-to   : Threat Model
 status       : review-content
-when-day     : Fri
+when-day     : Wed
+when-time    : Eve
+location     : Villa-3
 organizers   :
 participants : PhotoBox
+invited      : Anders Reeves
 ---
 
 > GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
@@ -18,17 +21,23 @@ participants : PhotoBox
 
 ## Why
 
-Use the community attending the Summit to perform a security review to GraphQL (Threat Modeling, Code Review, Static Analysis, Pentest)
+This Working Session aims to use the community attending the Summit to perform a security review to GraphQL (Threat Modeling, Code Review, Static Analysis, Pentest).
 
 ## What
 
  - Perform Security review to GraphQL
- - Improve existing Security Documentation and guidance
+ - Improve existing Security documentation and guidance
+ 
+## Definition of Done
+
+- Revised security documentation and guidance
 
 ## Who
 
+The target audience for this Working Session is:
+
  - GraphQL developers
- - Security Researchers
+ - Security researchers
  - Companies using GraphQL
 
 ## References

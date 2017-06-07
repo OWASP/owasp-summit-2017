@@ -6,6 +6,8 @@ owasp-project: yes
 track        : Owasp Top 10 2017
 status       : review-content
 when-day     : Tue
+when-time    : PM-3
+location     : Room-2
 organizers   : Dave Wichers
 participants : Bjoern Kimminich,Marc Rimbau,Brian Glas,Felipe Zipitria,Mateo Martinez,Francois Raynaud
 ---
@@ -26,6 +28,10 @@ hot topics that need further discussion and debate.
 - What is the best way to use this new version?
 - List areas where the Top 10 should be used, and explicitly list where it shouldn't
 - _.... What else should be covered in this Working Session?...._
+
+## Definition of Done
+
+...Add text...
 
 ## Who
 

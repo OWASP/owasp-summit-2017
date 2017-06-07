@@ -7,22 +7,32 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Fri
+when-time    : PM-2
+location     : Room-5
 organizers   :
 participants : Mamta Vuppu
 ---
 
 ## Why
 
-Understanding the risk created by 3rd Party Services, Products or (future) Acquisitions is key requirement of Security teams.
+Understanding the risk created by 3rd party services, products, or future acquisitions is a key requirement for security teams.
 
-Applications, Networks and Business Process need to be reviewed, in a consistent and repeatable process.
+Applications, networks, and business processes need to be reviewed in a consistent and repeatable process. 
+
+This Working Session will create a Due Diligence playbook.
 
 ## What
 
- - Create Due Diligence Playbook
+ - Create Due Diligence playbook
  - Use of [VSAQ: Vendor Security Assessment Questionnaire](https://github.com/google/vsaq) for 3rd party assessment
+ 
+## Definition of Done
+
+- Due Diligence playbook
 
 ## Who
+
+The target audience for this Working Session is:
 
  - Security teams
  - Risk teams

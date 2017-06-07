@@ -1,0 +1,38 @@
+mixin show-users-with-links
+    | {% if list.size > 0                           %}
+    b {{title}}: &#32;
+    | {%    for item in list                        %}
+    | {%        if item.url                         %}
+    a(href='{{item.url}}') {{ item.name }}
+    | {%        else                                %}
+    span {{ item.name }}
+    | {%        endif                               %}
+    | {%        if item.remote                      %}
+    span (remotely)
+    | {%        endif                               %}
+    | {%        if forloop.last != true             %}
+    span ,
+    | {%        endif                               %}
+    | {%    endfor                                  %}
+    br
+    | {% endif                                      %}
+
+mixin show-organizers
+    | {% assign title = 'Organizer(s)'              %}
+    | {% assign list  = data.organizers             %}
+    + show-users-with-links
+
+mixin show-panelists
+    | {% assign title = 'Panelists(s)'              %}
+    | {% assign list  = data.panelists              %}
+    + show-users-with-links
+
+mixin show-participants
+    | {% assign title = 'Participants(s)'           %}
+    | {% assign list  = data.participants           %}
+    + show-users-with-links
+
+mixin show-invites
+    | {% assign title = 'Invited'                   %}
+    | {% assign list  = data.invited                %}
+    + show-users-with-links
