@@ -25,6 +25,10 @@ Ensure there is a common understanding of what was discussed, decisions made, pr
 - Review project plan
 - Celebrate!
 
+## Outcomes
+
+...add content...
+
 ## Who
 
 Security champions, Security architects, DevOps Roles, CISO, ...
