@@ -5,6 +5,7 @@ type            : participant-remote
 job-title       : Information Security Consultant
 email           : ade.putra@owasp.org
 twitter         : OwaspJakarta
+image           :
 chapter-leader  : Jakarta
 status          : more-content
 working-sessions:
