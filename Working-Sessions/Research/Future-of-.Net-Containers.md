@@ -5,7 +5,7 @@ type         : workshop
 track        : Research
 technology   : .Net,Docker
 related-to   :
-status       : review-content
+status       : final stage; need working materials
 when-day     : Fri
 when-time    : PM-2
 location     : Room-1
@@ -25,7 +25,7 @@ This Working Session will debate whether companies on .NET stacks doing CI deplo
  - Review current roadmap
  - Will Microsoft release a Docker alternative?
  
-## Definition of Done
+## Outcomes
 
 - Revised roadmap
 
@@ -35,3 +35,14 @@ The target audience for this Working Session is:
 
  - .NET Developers and Architects
  - Microsoft .NET team
+
+--- 
+
+## Working materials
+
+- Draft roadmap
+- Pplease add as much information as possible before the sessions
+
+### Content
+
+... Add content ...
