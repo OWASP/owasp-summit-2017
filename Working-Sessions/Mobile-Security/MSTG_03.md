@@ -12,7 +12,7 @@ location        : Villa-2
 description     : In this book sprint we produce content for the "Android Testing Guide" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : Bernhard Mueller, Sven Schleier
-invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau
+invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right" alt="owasp mstg"/>
