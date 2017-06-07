@@ -4,7 +4,7 @@ title        : Implications of Owasp Top 10 2017
 type         : workshop
 owasp-project: yes
 track        : Owasp Top 10 2017
-status       : missing outcomes; missing working materials; add more content
+status       : need outcomes; need working materials
 when-day     : Tue
 when-time    : PM-3
 location     : Room-2
