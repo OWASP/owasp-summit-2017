@@ -7,7 +7,7 @@ technology   :
 related-to   :
 status       : review-content
 when-day     : Mon,Tue,Wed,Thu
-when-time    : Eve
+when-time    : Eve-1
 location     : Room-6
 organizers   :
 participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström
