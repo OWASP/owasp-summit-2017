@@ -9,7 +9,7 @@ when-day     : Thu
 when-time    : AM-1
 location     : Room-3
 organizers   : Ingo Hanke
-participants : Tiffany Long
+participants : 
 ---
 
 This Working Session will focus on financial tasks, accountability, and transparency in OWASP. Local OWASP chapters deal with a lot of money, and chapters must justify outcomes and chapter fund balances in a legal, fiscal, and ethical manner. The foundation for this working session will be the Chapter Leader Handbook: https://www.owasp.org/index.php/Chapter_Handbook/Chapter_4:_Chapter_Administration
