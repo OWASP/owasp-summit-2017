@@ -23,7 +23,7 @@ _(from [IoT Security Guidelines Overview](http://www.gsma.com/iot/iot-security-g
 
 ...what text...
 
-## Definition of Done
+## Outcomes
 
 This Working Session will publish a document containing the following:
 
@@ -37,3 +37,13 @@ This Working Session will publish a document containing the following:
   - http://www.gsma.com/iot/future-iot-networks/iot-security-guidelines/
   - http://www.gsma.com/iot/iot-security-guidelines-overview-document/
   - https://twitter.com/DonAndrewBailey/status/859875875994599424
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
