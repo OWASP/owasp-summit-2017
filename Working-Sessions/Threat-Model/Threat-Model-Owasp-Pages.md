@@ -5,7 +5,7 @@ type        : workshop
 track       : Threat Model
 related-to  : Cheat Sheets, Templates, Tools
 description : OWASP Threat Modeling Pages provide global AppSec professionals and companies worldwide with a central reference point to OWASP project, tools, and references that are related to Application Threat Modeling. These pages will provide as a gateway for threat modelers to leverage OWASP threat modeling content as well as other OWASP content and tools that support application threat modeling objectives.
-status      : improve-content
+status      : final stage; need-working materials
 when-day    : Wed
 when-time   : AM-1
 location    : Room-6
@@ -29,7 +29,7 @@ This Working Session aims to update the OWASP threat modelling pages. The result
   - Build a complete 'how to' for security centric threat models
   - Provide pointers to OWASP threat modelling cheat sheets, Security Champions, Lightweight threat modelling initiatives 
   
-## Definition of Done
+## Outcomes
 
 - Revised content on OWASP threat modelling pages
 - Subpages on threat modelling methodologies with details and artefacts created
@@ -41,4 +41,16 @@ The target audience for this Working Session is:
  - Wiki ninjas
  - Experienced threat modeling evangelists
  - Project owners/session organisers for other threat modelling workshops/sessions
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
  
