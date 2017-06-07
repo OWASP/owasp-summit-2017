@@ -11,6 +11,7 @@ twiter          : ArdMhacha24
 facebook        :
 ticket          : 5x24h
 status          : need-content
+regonline       : No
 working-sessions: CISO,CISO Round table
 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
