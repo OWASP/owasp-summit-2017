@@ -18,7 +18,7 @@ This is elaborated in more detail in the description of the
 working session which is planned for the
 [OWASP Summit 2017](https://owaspsummit.org). The topic was also covered
 in my talk
-[OWASP Juice Shop: Achieving sustainability for open source projects](http://bkimminich.github.io/juice-shop/appseceu_2017.html)[📺](https://www.youtube.com/watch?v=bOSdFnFAYNc)
+[OWASP Juice Shop: Achieving sustainability for open source projects](http://bkimminich.github.io/juice-shop/appseceu_2017.html) ([📺](https://www.youtube.com/watch?v=bOSdFnFAYNc))
 from this year's AppSecEU in Belfast. It featured several _Open Source
 Antipatterns_, among them being:
 
