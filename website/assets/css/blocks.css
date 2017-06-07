@@ -1038,6 +1038,10 @@
   padding-right: 20px;
 }
 
+.tickets .regonline-No {
+  background: #EEA79C;
+}
+
 .venue {
   background: white;
   padding-bottom: 50px;

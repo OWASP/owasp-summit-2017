@@ -1,0 +1,21 @@
+
+<div class="tickets">
+  <div class="participants-table">
+    <h1>{{ page.title }}<a href="/pages/for-editors">Back to Editor's pages</a></h1>{% assign tickets       = site.data.mapped.tickets.by_Ticket          %}
+    {% assign totals        = site.data.mapped.tickets.stats.count        %}
+    {% assign no-regonline  = site.data.mapped.tickets.stats.no_regonline %}
+    <table class="table table-striped">
+      <thead>
+        <th class="large-column"> Ticket type</th>
+        <th>Count</th>
+        <th>Names</th>
+      </thead>{% for ticket in tickets  %}
+      <tr class="text-center">
+        <td class="text-center">{{ ticket[0] }}</td>
+        <td>{{ ticket[1].stats.count }}</td>
+        <td>{{ ticket[1].names  | join: ' , ' }}</td>
+      </tr>{% endfor %}
+    </table>
+    <h4>Total # Participants: {{ totals }} (with {{ no-regonline }} not registered on Regonline)</h4>
+  </div>
+</div>

@@ -14,7 +14,7 @@ linkedin        : agulam
 twitter         : ante_gulam
 facebook        :
 when-days       : Mon,Tue,Wed
-ticket          : 3x24
+ticket          : 3x24h
 regonline       : No
 status          : done
 

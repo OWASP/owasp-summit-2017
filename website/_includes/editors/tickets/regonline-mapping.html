@@ -1,0 +1,25 @@
+
+<div class="tickets">
+  <div class="participants-table">
+    <h1>{{ page.title }}<a href="/pages/for-editors">Back to Editor's pages</a></h1>
+    <table class="table table-striped">
+      <thead>
+        <th>#</th>
+        <th>Regonline Name</th>
+        <th></th>
+        <th>ticket</th>
+        <th>when-day</th>
+        <th>regonline</th>
+      </thead>{% assign participants = site.data.mapped.tickets.by_Participant %}
+      {% for participant in participants  %}
+      <tr class="text-center regonline-{{participant[1].regonline}}">
+        <td class="text-center">{{ forloop.index }}</td>
+        <td><a href="{{ participant[1].url }}" target="_blank">{{ participant[1].regonline_Name }}</a></td>
+        <td><a href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ participant[1].url | replace: '.html','.md'}}" target="_blank">edit</a></td>
+        <td>{{ participant[1].ticket }}</td>
+        <td>{{ participant[1].when-day }}</td>
+        <td>{{ participant[1].regonline }}</td>
+      </tr>{% endfor %}
+    </table>
+  </div>
+</div>

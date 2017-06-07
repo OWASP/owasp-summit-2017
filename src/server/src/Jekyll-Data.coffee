@@ -2,6 +2,7 @@ require 'fluentnode'
 
 yaml         = require('js-yaml');
 Participants = require './Participants'
+Tickets      = require './Tickets'
 
 class Jekyll_Data
   constructor: ->
@@ -27,6 +28,7 @@ class Jekyll_Data
     @.schedule_Data               = @.file_Json_Schedule        .load_Json()
 
     @.participants                = new Participants(this)
+    @.tickets                     = new Tickets(this)
 
 
   map_Participant_Raw_Data: (raw_Data)->

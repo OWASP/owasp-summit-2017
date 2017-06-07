@@ -41,8 +41,7 @@ mixin show-table
 
         | {% for participant in participants  %}
         | {%    assign metadata = participant.metadata      %}
-
-        tr.text-center
+        tr.text-center(class='regonline-{{metadata.regonline}}')
             td.text-center {{ forloop.index }}
             td
                 a(href='{{ participant.url }}' target='_blank') {{ participant.name }}
@@ -57,16 +56,17 @@ mixin show-table
                 | {{ metadata.regonline }}
         | {% endfor %}
 
-.participants-table
-    h1 Participant's Tickets
-        a(href='/pages/for-editors') Back to Editor's pages
+.tickets
+    .participants-table
+        h1 Participant's Tickets
+            a(href='/pages/for-editors') Back to Editor's pages
 
 
-    h3 With Tickets
-    | {% assign participants = site.data.mapped.participants | where_exp: 'item', "item.metadata.type == 'participant' " | where_exp: 'item', "item.metadata.ticket != ''" %}
-    + show-table
+        h3 With Tickets
+        | {% assign participants = site.data.mapped.participants | where_exp: 'item', "item.metadata.type == 'participant' " | where_exp: 'item', "item.metadata.ticket != ''" %}
+        + show-table
 
-    hr
-    h3 Without Tickets
-    | {% assign participants = site.data.mapped.participants | where_exp: 'item', "item.metadata.ticket == ''" %}
-    + show-table
+        hr
+        h3 Without Tickets
+        | {% assign participants = site.data.mapped.participants | where_exp: 'item', "item.metadata.ticket == ''" %}
+        + show-table
