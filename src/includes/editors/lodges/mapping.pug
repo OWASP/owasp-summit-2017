@@ -1,6 +1,32 @@
 .lodges
     .container
         h1 {{ page.title }}
+            a(href='/pages/for-editors') Back to Editor's pages
+        p Here are the participant's mappings (per Lodge)
+        p Note that changes will be made to the Summit mappings since the current list was created alphabetically
+        h2 Pre Summit
+        .row
+            | {% for lodge in site.data.mapped.lodges.pre_Summit%}
+            .col-xs-4.col-sm-4
+                .card.pre-summit-card
+                    table.table.table-striped
+                        thead
+                            th.text-center Lodge Number
+                            th.text-center Participant
+                        tbody
+                            | {% for participant in lodge[1] %}
+                            tr
+                                | {% if forloop.index == 1 %}
+                                td(rowspan='6')
+                                    .lodge_Id {{ lodge[0] }}
+                                | {% endif %}
+                                td
+                                    | {{ participant.name }}
+                                    .when {{ participant.when }}
+                            | {% endfor %}
+            | {% endfor %}
+
+        h2 Summit
         .row
             | {% for lodge in site.data.mapped.lodges.lodges%}
             .col-xs-4.col-sm-4

@@ -14,7 +14,7 @@ class Tickets
     data =
       ids       : ids
       lodges    : {}
-      pre_summit: {}
+      pre_Summit: {}
 
     # Summit tickets
     tickets_Data = @.file_Json_Tickets.load_Json()
@@ -36,9 +36,14 @@ class Tickets
         names: []
 
     # PreSummit
-    #for key,value of @.jekyll_Data.participants_Data
-    #  console.log key
+    names = []
+    for key,value of @.jekyll_Data.participants_Data
+      if value.metadata['pre-summit']
+        names.add name: key, when: value.metadata['pre-summit']
+    data.pre_Summit['OK314'] = names.splice(0,6)
+    data.pre_Summit['OK315'] = names.splice(0,6)
 
+    console.log data.pre_Summit
     @.jekyll_Data.save_Data data, @.file_Json_Lodges, @.file_Yaml_Lodges
     return data
 
