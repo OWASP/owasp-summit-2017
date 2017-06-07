@@ -30,7 +30,7 @@ CISO hands-on support for Security initiatives is a key factor of success
  
 ## Outcomes
 
-- document answers
+- Create document with answers
 
 ## Who
 
