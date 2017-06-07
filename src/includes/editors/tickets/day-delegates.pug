@@ -1,0 +1,30 @@
+.tickets
+    .participants-table
+        h1 {{ page.title }}
+            a(href='/pages/for-editors') Back to Editor's pages
+
+
+        | {% assign delegates = site.data.mapped.lodges.day_delegates %}
+
+        p Here is the list of the current day delegates {{ names }}
+
+        table.table.table-striped
+            thead
+                th #
+                th First Name
+                th Last Name
+                th Location
+                th Arrival Time
+                th Departure Time
+                th Arrival method
+            tbody.text-center
+                | {% for delegate in delegates  %}
+                tr
+                    td {{ forloop.index       }}
+                    td {{ delegate.first_Name }}
+                    td {{ delegate.last_Name  }}
+                    td
+                    td
+                    td
+                    td
+                | {% endfor %}

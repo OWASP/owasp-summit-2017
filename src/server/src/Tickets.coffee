@@ -12,17 +12,24 @@ class Tickets
   map_Lodges: ->
     ids = ['OK413','OK414','OK415','OK416','OK426','OK427','OK428','OK309','OK310','OK312','OK313','OK314','OK315','OK316','OK319','OK320','OK321']
     data =
-      ids       : ids
-      lodges    : {}
-      pre_Summit: {}
+      ids          : ids
+      lodges       : {}
+      pre_Summit   : {}
+      day_delegates: []
 
     # Summit tickets
     tickets_Data = @.file_Json_Tickets.load_Json()
     need_Room    = []
     for key,value of tickets_Data.by_Ticket
       if key.contains 'x24h'
-        #console.log key + ':'
         need_Room = need_Room.concat value.names
+      else
+        for name in value.names
+          first_Name = name.before(' ')
+          last_Name  = name.after(' ')
+          data.day_delegates.add first_Name : first_Name, last_Name : last_Name
+
+
 
     while need_Room.size() >0
       id = ids.pop()
@@ -43,7 +50,7 @@ class Tickets
     data.pre_Summit['OK314'] = names.splice(0,6)
     data.pre_Summit['OK315'] = names.splice(0,6)
 
-    console.log data.pre_Summit
+
     @.jekyll_Data.save_Data data, @.file_Json_Lodges, @.file_Yaml_Lodges
     return data
 
