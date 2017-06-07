@@ -9,7 +9,7 @@ when-day     : Thu
 when-time    : PM-2
 location     : Room-3
 organizers   : Mateo Martinez
-participants :
+participants :Tiffany Long
 ---
 
 This Working Session will review OWASP's position in Latin America (Latam) and plan the next steps for a growing region. Some OWASP activities planned include several global AppSec conferences, OWASP Day, and an awesome OWASP Latam Tour of more than 10 cities.
@@ -21,6 +21,8 @@ The OWASP community is growing in the Latam region and there is a need for a vis
 ## What
 
 - Plan next OWASP Latam Tour and APPSEC Conferences
+- Discuss Chapter Growth
+- Dicuss plans to help chapters meet minimum requirements and successfully interact with OWASP Foundation. 
 
 ## Definition of Done
 
