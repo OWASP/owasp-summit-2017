@@ -31,4 +31,9 @@ Ensure there is a common understanding of what was discussed, decisions made, pr
 
 ## Who
 
-Security champions, Security architects, DevOps Roles, CISO, ...
+The target audience for this Working Session is:
+
+- Security champions
+- Security architects
+- DevOps Roles
+- CISOs
