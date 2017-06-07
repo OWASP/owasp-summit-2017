@@ -11,7 +11,7 @@ when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-1
 organizers     :
-participants   : Bjoern Kimminich
+participants   :
 ---
 
 > :triangular_flag_on_post: TODO: Add fancy sales pitch for

@@ -7,7 +7,7 @@ track          : Education
 technology     :
 related-to     : Juice Shop,NodeGoat,Webgoat
 status         : final stage 
-when-day       : Mon,Tue
+when-day       : Tue
 when-time      : Eve
 location       : Villa-3
 organizers     : Bjoern Kimminich

@@ -8,7 +8,7 @@ when-day     : Thu
 when-time    : PM-2
 location     : Room-5
 organizers   :
-participants : Bjoern Kimminich,Marc Rimbau,Johan Peeters
+participants : Marc Rimbau,Johan Peeters
 ---
 
 ## Why

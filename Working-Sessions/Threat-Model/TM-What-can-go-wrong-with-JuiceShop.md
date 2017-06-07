@@ -11,7 +11,6 @@ location     : Room-6
 status       : Improve outcomes
 organizers   : Adam Shostack
 participants : Dinis Cruz,Bjoern Kimminich
-invited      : Bjoern Kimminich
 ---
 
 Get together to use the models of Juice Shop to find problems with it, learn threat modeling, and deliver examples.

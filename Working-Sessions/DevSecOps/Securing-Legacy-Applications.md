@@ -11,7 +11,7 @@ when-day     : Thu
 when-time    : PM-3
 location     : Room-1
 organizers   : Lucas Ferreira
-participants : Don Gibson,Bjoern Kimminich,Irene Michlin
+participants : Don Gibson,Irene Michlin
 ---
 
 ## Why
