@@ -21,6 +21,8 @@ The OWASP community is growing in the Latam region and there is a need for a vis
 ## What
 
 - Plan next OWASP Latam Tour and APPSEC Conferences
+- Discuss Chapter Growth
+- Dicuss plans to help chapters meet minimum requirements and successfully interact with OWASP Foundation. 
 
 ## Outcomes
 
