@@ -6,8 +6,8 @@ owasp-project: no
 track        : OwaspSAMM
 status       : need-outcomes; need working materials
 when-day     : Mon
-when-time    : AM-1
-location     : Villa-1
+when-time    : PM-1
+location     : Room-3
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
 ---
