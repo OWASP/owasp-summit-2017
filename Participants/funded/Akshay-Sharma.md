@@ -19,6 +19,8 @@ linkedin        : akshaysharmamsclis
 chapter-leader  : Bhopal 
 project-leader  :
 status          : improve-bio
+ticket          : 5x24h
+regonline       : No
 working-sessions:
 ---
 

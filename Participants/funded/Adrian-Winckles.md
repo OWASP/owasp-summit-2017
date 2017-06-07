@@ -19,6 +19,8 @@ image           : https://pbs.twimg.com/profile_images/589462457015476224/-f9sW6
 email           : Adrian.Winckles@owasp.org
 linkedin        : adrian-winckles-2582ab3
 twitter         : botflowking
+ticket          : 5x24h
+regonline       : No
 status          : update-content
 ---
 

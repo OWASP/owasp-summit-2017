@@ -15,6 +15,7 @@ twitter         : ante_gulam
 facebook        :
 when-days       : Mon,Tue,Wed
 ticket          : 3x24
+regonline       : No
 status          : done
 
 working sessions:
