@@ -11,6 +11,7 @@ twitter         : stephendv
 facebook        :
 status          : empty
 ticket          : 1x24h
+regonline       : No
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

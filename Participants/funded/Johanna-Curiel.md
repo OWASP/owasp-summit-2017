@@ -18,6 +18,9 @@ linkedin        :
 twitter         :
 facebook        :
 status          : done
+ticket          : 5x24h
+regonline       : No
+working-sessions:
 ---
 
 ## Johanna Curiel

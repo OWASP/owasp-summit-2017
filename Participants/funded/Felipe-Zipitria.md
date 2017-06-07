@@ -18,6 +18,8 @@ image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAA
 linkedin        : felipezipitria
 pre-summit      : Sun
 status          : done
+ticket          : 5x24h
+regonline       : No
 working-sessions: Writing Security Tests,Owasp Latam Region,Owasp Student Chapters,AppSec SOC Monitoring Visualisation,Teaching Attacker perspective to Developers,GitHub Organization Reboot,Data behind Owasp Top 10 2017,Threat Modeling Tools,WAF Best Practices,Visit Bletchley Park,Webgoat,Evaluation/Optimization/Creation of Training Slides
 ---
 

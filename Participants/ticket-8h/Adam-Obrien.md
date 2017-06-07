@@ -13,6 +13,7 @@ website         :
 email           :
 ticket          :
 status          : empty
+ticket          : 5x8h
 working-sessions: Draft SAMM2 - the "DevOps release", Maturity Models tool, Review and improve the 12 SAMM practices, Update SAMM model to take into account Agile and DevOps, GDPR and DPO AppSec implications, Define Agile Security Practices
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

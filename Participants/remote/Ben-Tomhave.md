@@ -5,8 +5,8 @@ type            : participant-remote
 job-title       : Principal Security Scientist
 company         : New Context
 image           : https://pbs.twimg.com/profile_images/458731837712367616/6mIwfNQE_400x400.png
-linkedin        : https://www.linkedin.com/in/btomhave/
-twiter          : https://twitter.com/falconsview
+linkedin        : btomhave
+twiter          : falconsview
 facebook        : 
 website         : http://www.secureconsulting.net/
 email           : tomhave@secureconsulting.net

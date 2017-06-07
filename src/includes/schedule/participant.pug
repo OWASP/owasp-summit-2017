@@ -1,4 +1,11 @@
+mixin show-conflicts
+    | {% if working-sessions == null        %}
+    .alert.alert-info No session
+    | {% elsif working-sessions.size > 1   %}
+    .alert.alert-danger Too many sessions
+    | {% endif                              %}
 mixin show-day
+    + show-conflicts
     .session-name
         | {% for working-session in working-sessions      %}
         a(href="{{working-session.url}}") {{ working-session.name }}
@@ -8,7 +15,7 @@ mixin show-day
         | {% if working-session.status == 'draft' %}
         span.glyphicon.glyphicon-warning-sign
         | {% endif %}
-        .role     {{ working-session.role }}
+        .role(class="{{ working-session.role }}")    {{ working-session.role }}
         .location {{ working-session.location }}
         | {% endfor %}
 
@@ -18,7 +25,6 @@ mixin show-day
     | {% assign days         = "Mon,Tue,Wed,Thu,Fri"     | split: ',' %}
     | {% assign participant  = page.title                             %}
     h3 Scheduled Working Sessions for {{ participant }}
-
 
     table.table.table-striped
         thead

@@ -1,10 +1,10 @@
 ---
 layout          : blocks/page-participant
-title           : Colin Rouse
+title           : Vlad Nisic
 type            : participant
-job-title       :
-company         : Ocado
-travel-from     :
+job-title       : Senior Sales Director, EMEA
+company         : Bugcrowd
+travel-from     : United Kingdom
 image           :
 linkedin        :
 twiter          :
@@ -13,8 +13,8 @@ website         :
 email           :
 project-leader  :
 chapter-leader  :
-when-day        : Mon,Tue,Wed
-ticket          : 3x24h
+when-day        : Tue,Wed
+ticket          : 2x24h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)

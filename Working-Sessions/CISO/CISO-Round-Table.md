@@ -10,7 +10,8 @@ when-time    : AM-1
 location     : Room-4
 organizers   : Anders Reeves
 panelists    : Ante Gulam, Neil Barlow, Dinis Cruz,Kevin Fielder,Yan Kravchenko
-participants : Dinis Cruz,Mateo Martinez,Ingo Hanke,Francois Raynaud, Robert Morschel
+participants : Mateo Martinez,Ingo Hanke,Francois Raynaud, Robert Morschel
+invited      : Asadur Rahman
 ---
 
 Round-table of CISO (and future CISOs) to share ideas on what is going on at this level
@@ -29,7 +30,7 @@ CISO hands-on support for Security initiatives is a key factor of success
  
 ## Outcomes
 
-- document answers
+- Create document with answers
 
 ## Who
 

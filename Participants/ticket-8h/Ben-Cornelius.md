@@ -1,9 +1,9 @@
 ---
 layout          : blocks/page-participant
-title           : George Simms
+title           : Ben Cornelius
 type            : participant
-job-title       :
-company         : Ocado
+job-title       : DevSecOps Engineer
+company         : ThoughtWorks
 travel-from     :
 image           :
 linkedin        :
@@ -13,7 +13,7 @@ website         :
 email           :
 project-leader  :
 chapter-leader  :
-ticket          : 5x24h
+ticket          : 5x8h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)

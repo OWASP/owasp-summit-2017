@@ -3,12 +3,21 @@ layout          : blocks/page-participant
 title           : Ante Gulam
 type            : participant
 job-title       : CSO / CISO / AppSec Evangelist
+expenses        : owasp
+funded          : yes
+funded-who      : Summit Budget
+ticket-cost     : 1200
+funded-amount   : 1200
 image           : https://pbs.twimg.com/profile_images/670381024057106433/NEc-r_gO_400x400.jpg
 email           : ante.gulam@gmail.com
 linkedin        : agulam
 twitter         : ante_gulam
 facebook        :
+when-days       : Mon,Tue,Wed
+ticket          : 3x24h
+regonline       : No
 status          : done
+
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

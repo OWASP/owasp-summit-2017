@@ -1,14 +1,21 @@
 ---
 layout          : blocks/page-participant
-title           : Colin Domoney
+title           : Slava Katok
 type            : participant
-job-title       : Veracode
-image           : https://pbs.twimg.com/profile_images/605061658977947649/TyIb7res_400x400.png
+job-title       : Cyber Security Advisor
+company         :
+travel-from     :
+image           :
 linkedin        :
-twiter          : colindomoney
+twiter          :
 facebook        :
+website         :
+email           :
+project-leader  :
+chapter-leader  :
+ticket          : 5x8h
 status          : empty
-working sessions:
+working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

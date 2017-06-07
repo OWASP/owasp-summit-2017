@@ -761,6 +761,12 @@
   font-size: 10px   ;
   padding: 5px    ;
 }
+.schedule-track .alert {
+  font-size: 12px;
+  padding: 2px   ;
+  text-align: center;
+  min-width: 80px;
+}
 .schedule-track .location {
   font-size: 8px;
   font-style: italic;
@@ -773,16 +779,16 @@
   font-size: 16px;
 }
 .schedule-track .invited {
-  color: red;
+  color: #EEA79C;
 }
 .schedule-track .participating {
-  color: blue;
+  color: #7E7F9A;
 }
 .schedule-track .organizing {
-  color: blue;
+  color: #93A987;
 }
 .schedule-track .panelist {
-  color: blue;
+  color: #B1A265;
 }
 
 .schedule {
@@ -1030,6 +1036,10 @@
   color: white  ;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.tickets .regonline-No {
+  background: #EEA79C !important;
 }
 
 .venue {

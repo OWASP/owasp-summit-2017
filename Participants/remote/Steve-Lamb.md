@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       : Technical Director
 company         : Cipher Security
 image           : https://cybersummitusa.com/wp-content/uploads/2017/03/Steve-Lamb-Bio-56.jpg
-linkedin        : https://pbs.twimg.com/profile_images/3493595637/5f3fa277d075243df905c3e795a3932f_400x400.jpeg
+linkedin        : 
 twiter          : actionlamb
 facebook        :
 website         :

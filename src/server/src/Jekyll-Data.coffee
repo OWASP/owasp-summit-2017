@@ -2,6 +2,7 @@ require 'fluentnode'
 
 yaml         = require('js-yaml');
 Participants = require './Participants'
+Tickets      = require './Tickets'
 
 class Jekyll_Data
   constructor: ->
@@ -27,6 +28,7 @@ class Jekyll_Data
     @.schedule_Data               = @.file_Json_Schedule        .load_Json()
 
     @.participants                = new Participants(this)
+    @.tickets                     = new Tickets(this)
 
 
   map_Participant_Raw_Data: (raw_Data)->
@@ -220,6 +222,7 @@ class Jekyll_Data
         url         : url
         topics      : @.resolve_Topics  metadata.topics       || []    # change to topics after refactoring of content mappings
         organizers  : @.resolve_Names   metadata.organizers   || []
+        panelists   : @.resolve_Names   metadata.panelists    || []
         participants: @.resolve_Names   @.resolve_Participants_XRef(metadata.participants || [], name)
         invited     : @.resolve_Names   metadata.invited      || []
         'related-to': @.resolve_Working_Sessions @.resolve_Related_To name

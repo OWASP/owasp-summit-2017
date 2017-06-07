@@ -20,6 +20,9 @@ linkedin        : vdbaan
 twitter         : vdbaan
 facebook        :
 status          : done
+ticket          : 5x24h
+regonline       : No
+working-sessions:
 ---
 
 At that time I will just have changed employers, and my new employer has granted me the time to attend (although it will only be my second week)

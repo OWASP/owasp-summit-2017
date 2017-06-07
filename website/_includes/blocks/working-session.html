@@ -13,6 +13,12 @@
       {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
       {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
       {%    endfor                                  %}<br/>{% endif                                      %}
+      {% assign title = 'Panelists(s)'              %}
+      {% assign list  = data.panelists              %}{% if list.size > 0                           %}<b>{{title}}: &#32;</b>{%    for item in list                        %}
+      {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
+      {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
+      {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
+      {%    endfor                                  %}<br/>{% endif                                      %}
       {% assign title = 'Participants(s)'           %}
       {% assign list  = data.participants           %}{% if list.size > 0                           %}<b>{{title}}: &#32;</b>{%    for item in list                        %}
       {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}

@@ -22,6 +22,11 @@ mixin show-organizers
     | {% assign list  = data.organizers             %}
     + show-users-with-links
 
+mixin show-panelists
+    | {% assign title = 'Panelists(s)'              %}
+    | {% assign list  = data.panelists              %}
+    + show-users-with-links
+
 mixin show-participants
     | {% assign title = 'Participants(s)'           %}
     | {% assign list  = data.participants           %}
