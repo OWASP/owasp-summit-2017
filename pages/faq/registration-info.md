@@ -24,11 +24,11 @@ In order to update your schedule, follow these steps:
 
 There are two types of participants -- Onsite and Remote
 
-   1. To register as a remote participant:
+- To register as a remote participant:
 
    Please make a copy of this remote participant template (https://github.com/OWASP/owasp-summit-    2017/blob/master/Participants/_template/remote-participant.md) and add it to this folder (https://github.com/OWASP/owasp-summit-2017/tree/master/Participants/remote).
 
-   2. To register as an onsite participant:
+- To register as an onsite participant:
 
    To add your name to this repo, please fork the repo and create your page [here](https://github.com/OWASP/owasp-summit-2017/tree/master/Participants).
 
