@@ -4,7 +4,7 @@ title        : TLS for Local IoT
 type         : workshop
 track        : DevSecOps
 technology   : TLS,IoT
-status       : done
+status       : final stage
 when-day     : Mon
 when-time    : PM-1
 location     : Room-1
@@ -60,6 +60,10 @@ The target audience for this Working Session is:
  - Risk managers
  - Cryptographers
  - PKI enthusiasts.
+ 
+ --- 
+ 
+## Working materials
 
 ## Proposal
 
@@ -112,18 +116,4 @@ Using these files/configs, it is possible to turn a non-SRP web server into a SR
 
 Equally, it is possible to make a web browser appear TLS-SRP enabled to test a TLS-SRP web server implementation; simply run a http2srp stunnel on your desktop and point your browser at that instead of directly at the web server
 
---- 
 
-## Working materials
-
-Draft roadmap for TLS-SRP implementation and adoption.
-
-This will include:
-- Draft roadmap for web server implementations - community projects? liasion with web server vendors?
-- Draft roadmap for web browser implementations - community projects? liasion with web browser vendors?
-- Draft roadmap for IoT and embedded vendor adoption - publicity? industry liasion?
-
-
-### Content
-
-... Add content ...
