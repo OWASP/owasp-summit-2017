@@ -6,7 +6,7 @@ track        : DevSecOps
 status       : need-more content
 when-day     : Wed
 when-time    : PM-2
-location     : Room-6
+location     : Villa-4
 organizers   : Danny Grander
 participants : Francois Raynaud
 ---
