@@ -4,7 +4,6 @@ title        : Juice Shop Coding Day
 type         : workshop
 track        : Juice Shop
 technology   : Node
-related-to   : Juice Shop Brainstorming
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 status       : Final stage
 organizers   : Bjoern Kimminich

@@ -4,7 +4,6 @@ title        : Juice Shop Live-Release
 type         : workshop
 track        : Juice Shop
 technology   : Node
-related-to   : Juice Shop Brainstorming,Juice Shop Coding Day,Juice Shop Coding Night
 description  : Live release of OWASP Juice Shop to publish all the work achievements of the summit and see Travis-CI & friends in action in the process.
 status       : Final stage
 organizers   : Bjoern Kimminich
