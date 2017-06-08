@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Hands on threat modeling - attacking juice shop
+title        : Hands on threat modeling - (attacking juice shop 2)
 type         : workshop
 track        : Threat Model
 technology   :
