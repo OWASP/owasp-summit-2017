@@ -10,7 +10,7 @@ status       : need more content
 when-day     : Tue
 when-time    : AM-1
 location     : Room-3
-organizers   :
+organizers   : Irene Michlin
 participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu, Bjoern Kimminich
 ---
 
