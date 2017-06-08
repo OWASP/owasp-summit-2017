@@ -6,7 +6,7 @@ job-title       : Security Consultant at Toreon
 travel-from     : Belgium
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfmAAAAJDk4NTc1MDNhLWMwMTQtNGZhZS05YTNlLTBjNDM1YzVhNmJiYQ.jpg
 linkedin        : jonasvanalderweireldt/
-twiter          : _JVAW
+twitter          : _JVAW
 facebook        :
 funded-who      : sponsor
 ticket          : 5x24h

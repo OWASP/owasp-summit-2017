@@ -7,7 +7,7 @@ company         : PhotoBox Group
 travel-from     : London
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           : clare.creeden@photobox.com 

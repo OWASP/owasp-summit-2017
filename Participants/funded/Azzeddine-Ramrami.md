@@ -15,7 +15,7 @@ company         :
 travel-from     :
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/034/332/28e320d.jpg
 linkedin        : azzeddine-ramrami-107b7a5/
-twiter          : doukkalli
+twitter          : doukkalli
 facebook        :
 project-leader  :
 chapter-leader  :

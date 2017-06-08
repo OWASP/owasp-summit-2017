@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       : Application Security Consultant 
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/16c/017/21980df.jpg
 linkedin        : talargoni
-twiter          :
+twitter          :
 facebook        :
 website         : www.triadsec.com/
 email           : tal@triadsec.com

@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : TM - What can go wrong with Juice Shop?
+title        : Hands on threat modeling - (attacking juice shop 2)
 type         : workshop
 track        : Threat Model
 technology   :
@@ -14,7 +14,7 @@ participants : Dinis Cruz
 invited      : Bjoern Kimminich
 ---
 
-Get together to use the models of Juice Shop to find problems with it, learn threat modelling, and deliver examples.
+Get together to continue to use the models of Juice Shop to find problems with it, learn threat modelling, and deliver examples.
 
 ## Why
 

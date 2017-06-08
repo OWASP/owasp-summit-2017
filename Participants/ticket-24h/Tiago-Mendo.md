@@ -7,7 +7,7 @@ company         : Probe.ly
 travel-from     : Lisbon, Portugal
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWrAAAAJGQxMmFmZjJkLWE2OTgtNDNhNy05Mzg2LTNkZTZkMTQ5MmViZQ.jpg
 linkedin        : tiagomendo
-twiter          : tmendo
+twitter          : tmendo
 facebook        :
 website         : https://mendo.pt
 email           : mendo@probe.ly

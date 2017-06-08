@@ -7,7 +7,7 @@ company         : MindedSecurity
 travel-from     : Italy
 image           : https://pbs.twimg.com/profile_images/615622625/foto_StefanoDiPaola_thumb.jpg
 linkedin        :
-twiter          : WisecWisec
+twitter          : WisecWisec
 facebook        :
 website         :
 email           :

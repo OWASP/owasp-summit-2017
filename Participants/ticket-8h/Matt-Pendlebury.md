@@ -7,7 +7,7 @@ company         : MWR InfoSecurity
 travel-from     : United Kingdom
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

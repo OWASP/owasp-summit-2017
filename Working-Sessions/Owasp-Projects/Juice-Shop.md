@@ -4,12 +4,12 @@ title        : Juice Shop
 type         : workshop
 track        : Owasp Projects
 technology   : Node
-description  : OWASP Juice Shop Project is an intentionally insecure webapp for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
+description  : Brainstorming and designing new hacking challenges and other features for OWASP Juice Shop and its CTF-extension.
 status       : Final stage
 organizers   : Bjoern Kimminich
 when-day     : Mon
 when-time    : PM-3
-location     : Room-3
+location     : Villa-5
 participants : Dinis Cruz,Ingo Hanke,Ade Yoseman Putra,Timo Pagel, Francois Raynaud
 invited      : Josh Grossman
 ---
@@ -32,10 +32,9 @@ invited      : Josh Grossman
 Ideas for potential new hacking challenges are currently collected in
 the
 [Challenge Pack 2017](https://github.com/bkimminich/juice-shop/milestone/3)
-milestone on GitHub. In this working session we will gather,
-design, and implement many of the existing, and hopefully several entirely
-new, challenges that we will bundle in the _OWASP Summit Challenge Pack
-2017_ for production release on the final day of the summit.
+milestone on GitHub. In this working session we will brainstorm & design many of the existing - and hopefully several entirely
+new - challenges that we will be implemented by on-site and remote particpants in the [Juice Shop Challenge Pack
+Coding]() evening sessions. Production release is planned for the final day of the summit in the [Juice Shop v3.3 Release]() session.
 
 ![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
 
@@ -49,41 +48,25 @@ the CTF-extension are currently gathered as
 
 ## Outcomes
 
-This working session will gather, discuss, design, and implement the following:
+This working session will gather, discuss and design the following:
 
-- Several new challenges for OWASP Juice Shop
-- Functional enhancements to place the challenges in, e.g. the
+- GitHub issues for several new challenges in OWASP Juice Shop
+- GitHub issues for new functional enhancements to place challenges in, e.g. user stories like the
   [Order Dashboard](https://github.com/bkimminich/juice-shop/issues/244)
   and
-  [Pomace Recycling user stories](https://github.com/bkimminich/juice-shop/issues/243)
-- Hint and solution sections for each new challenge are added to the
-  "Pwning OWASP Juice Shop" e-book
-- Functional and convenience improvements to the Juice Shop
+  [~~Pomace Recycling~~](https://github.com/bkimminich/juice-shop/issues/243)(_done!_)
+- GitHub issues for functional and convenience improvements to the Juice Shop
   CTF-extension
 - [Updated project roadmap](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Road_Map_and_Getting_Involved)
   for OWASP Juice Shop and its CTF-extension
-
-To keep the high release stability and overall quality of OWASP Juice Shop
-[the contribution rules of the project](https://github.com/bkimminich/juice-shop/blob/master/CONTRIBUTING.md)
-apply for the summit results as well:
-
-- Code follows existing style guides and passes all existing quality
-  gates regarding code smells, test coverage etc.
-- Each challenge comes with fully functional unit and integration tests
-- Each challenge is verified to be exploitable by corresponding
-  end-to-end tests
 
 ## Who
 
 The target audience for this Working Session is:
 
-- JavaScript developers (Knowledge of Node.js would be great but is _not
-  mandatory_)
-- Web developers (Knowledge of Angular 1.x would be great but is _not
-  mandatory_)
-- Web designers (the vulnerable features will _at least look good_)
-- CTFd project team and contributors
 - Security professionals
+- Trainers, instructors
+- Developers
 
 --- 
 

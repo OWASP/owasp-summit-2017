@@ -7,7 +7,7 @@ company         : PhotoBox Group
 travel-from     :
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/0af/386/2fa1435.jpg
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

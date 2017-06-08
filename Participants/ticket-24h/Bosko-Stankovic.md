@@ -7,7 +7,7 @@ company         : DefenseCode
 travel-from     : Serbia
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAStAAAAJGEzYjNkN2RkLWU3NGItNGM0Ni04ODI3LWIyNDVjY2FjYzRjNQ.jpg
 linkedin        : boskostankovic
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

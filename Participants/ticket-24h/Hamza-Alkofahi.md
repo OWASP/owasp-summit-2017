@@ -7,7 +7,7 @@ company         : Auburn University
 travel-from     : United States
 image           : https://lh3.googleusercontent.com/-cqDAbhrVfVo/AAAAAAAAAAI/AAAAAAAAAAA/AAyYBF59xfuGLAzBadb9-E2PGuinS6BwkA/s192-c-mo/photo.jpg
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

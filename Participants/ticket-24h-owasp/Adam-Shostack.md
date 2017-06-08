@@ -14,7 +14,7 @@ required-funds  : 4000
 job-title       : Consultant
 image           :
 linkedin        : shostack
-twiter          :
+twitter          :
 website         : https://adam.shostack.org
 ticket          : 5x24h
 status          : done

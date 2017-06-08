@@ -7,7 +7,7 @@ company         : Composable Systems
 travel-from     : United Kingdom
 image           :
 linkedin        : stuartgunter
-twiter          :
+twitter          :
 facebook        :
 website         : https://www.composable.co.uk/
 email           : stuart.gunter@composable.co.uk
