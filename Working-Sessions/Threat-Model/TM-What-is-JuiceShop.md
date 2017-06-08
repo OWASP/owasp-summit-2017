@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : TM - What is Juice Shop
+title        : Hands on threat modeling: Juice Shop (1)
 type         : workshop
 track        : Threat Model
 technology   :
@@ -14,7 +14,7 @@ participants :
 invited      : Bjoern Kimminich
 ---
 
-Get together to create models (diagrams) of Juice Shop to help us find problems with it, learn threat modelling, and deliver examples.
+Get together to create models (diagrams) of Juice Shop to help us find problems with it, learn threat modelling, and deliver examples.  This is all about answering the question of what Juice Shop is and building models of it.
 
 ## Why
 
