@@ -8,6 +8,7 @@ status       : need-more content
 when-day     : Tue
 when-time    : PM-3
 location     : Room-4
+locked       : true
 organizers   : Daniel Miessler,Azzeddine Ramrami
 participants :
 ---
