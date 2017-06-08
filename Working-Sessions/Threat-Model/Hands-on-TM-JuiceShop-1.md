@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Hands on Threat Modeling Juice Shop (topic 1)
+title        : Hands on Threat Modeling Juice Shop (Architecture)
 type         : workshop
 track        : Threat Model
 technology   :
@@ -22,7 +22,7 @@ Dinis proposed a set of evening sessions to create threat model artefacts & exam
 
 ## What
 
-- Create models/diagrams that show various aspects of Juice Shop (Model 1: What's the app?, model 2: How does it get deployed?, Model 3: How is it "developed and maintained"? etc.) 
+- Create models/diagrams that show various aspects of Juice Shop 
 - Apply various techniques to answer the question "what are we working on?"
 - Through the course of the day, we will look at various ways to slice and model Juice Shop, with a goal of being aligned with other sessions, so you can pop in for a part of the day, and learn a bit of threat modeling.
 
