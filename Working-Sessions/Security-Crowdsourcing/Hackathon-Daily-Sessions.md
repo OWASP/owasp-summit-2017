@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Crowdsourcing
 technology   :
 related-to   : Juice Shop,O-Saft,OWASP Bug Bounty
-status       : draft
+status       : need outcomes; need working materials
 when-day     : Mon,Tue,Wed,The
 when-time    : Eve
 location     : Villa-3
@@ -31,6 +31,16 @@ The _Related Working Session(s)_ below contain a _hands-on_ work aspect. Some se
 
 Refer to the _Related Working Session(s)_ below for information about their hackathon-aspect.
 
-## Definition of done
+## Outcomes 
 
 see _Related Working Session(s)_
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
