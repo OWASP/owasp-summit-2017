@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Juice Shop
+title        : Juice Shop Challenge Pack Coding
 type         : workshop
 track        : Owasp Projects
 technology   : Node
