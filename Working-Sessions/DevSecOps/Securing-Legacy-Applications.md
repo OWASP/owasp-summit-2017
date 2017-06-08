@@ -7,9 +7,9 @@ track        : DevSecOps
 technology   : SAST
 related-to   : Cyber Insurance,CISO,InfoSec Warranties and Guarantees
 status       : missing-Outcomes; missing-Working materials
-when-day     : Thu
+when-day     : Wed
 when-time    : PM-3
-location     : Room-1
+location     : Room-6
 organizers   : Lucas Ferreira
 participants : Don Gibson,Irene Michlin, Ingo Hanke
 ---

@@ -9,7 +9,7 @@ related-to   :
 status       : need-more content
 when-day     : Mon
 when-time    : PM-3
-location     : Room-6
+location     : Villa-4
 organizers   :
 participants :
 ---
