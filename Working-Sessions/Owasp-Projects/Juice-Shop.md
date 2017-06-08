@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp Projects
 technology   : Node
 description  : OWASP Juice Shop Project is an intentionally insecure webapp for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-status       : Final stage; missing working materials
+status       : Final stage
 organizers   : Bjoern Kimminich
 when-day     : Mon
 when-time    : PM-3
@@ -89,7 +89,9 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+- [Project Roadmap](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Road_Map_and_Getting_Involved)
+- GitHub issues in [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
+- [_Enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) for Juice Shop CTF-Extension
 
 ### Content
 
