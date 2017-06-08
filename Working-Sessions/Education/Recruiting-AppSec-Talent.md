@@ -9,7 +9,7 @@ status       : missing Outcomes; missing Working materials
 when-day     : Tue
 when-time    : PM-1
 location     : Room-4
-participants : Ade Yoseman Putra
+participants : Ade Yoseman Putra, Tiffany Long
 organizers   : Avi Douglen
 ---
 
@@ -37,6 +37,10 @@ All the while, there is a lack of, and high demand for, professionals who can ge
 ## Outcomes 
  
 > Need to consider what will be the output of this session. 
+Suggesed Outcomes:
+- Example career paths to guide incoming AppSec Professionals
+- Recruiters guide
+- List of suggested next steps for AppSec Managers looking for longterm growth of their team
 
 ## Who
 

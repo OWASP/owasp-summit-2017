@@ -1,20 +1,19 @@
 ---
 layout          : blocks/page-participant
-title           : Stuart Gunter
+title           : Carlos Esteves
 type            : participant
-job-title       : Software Security Consultant
-company         : Composable Systems
-travel-from     : United Kingdom
+job-title       : Head of QA
+company         : Springer Nature
+travel-from     : London
 image           :
-linkedin        : stuartgunter
+linkedin        :
 twiter          :
 facebook        :
-website         : https://www.composable.co.uk/
-email           : stuart.gunter@composable.co.uk
+website         :
+email           :
 project-leader  :
 chapter-leader  :
-when-day        : Mon,Tue
-ticket          : 1x24h,1x8h
+ticket          : 5x24h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)

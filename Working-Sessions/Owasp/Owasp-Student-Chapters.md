@@ -9,7 +9,7 @@ when-day     : Thu
 when-time    : PM-1
 location     : Room-3
 organizers   : Mateo Martinez
-participants :
+participants : Tiffany Long
 ---
 
 This Working Session will discuss Student Chapter needs and their status. Student chapters need support from local chapters and OWASP members. We need to talk about a Student Chapter Leader Handbook.

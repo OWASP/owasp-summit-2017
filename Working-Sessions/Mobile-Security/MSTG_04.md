@@ -10,7 +10,7 @@ when-day        : Thu
 when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
 description     : In this book sprint we produce content for the "iOS Testing Guide" chapter of the Mobile Security Testing Guide.
-organizers      : Bernhard Mueller,Sven Schleier
+organizers      : Bernhard Mueller,Sven Schleier, Tiffany Long
 participants    : T.b.d.
 ---
 

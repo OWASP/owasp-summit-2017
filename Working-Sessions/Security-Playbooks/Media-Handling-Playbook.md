@@ -10,7 +10,7 @@ when-day     : Wed
 when-time    : PM-2
 location     : Room-5
 organizers   :
-participants :
+participants : Tiffany Long
 ---
 
 ## Why
