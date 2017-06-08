@@ -6,7 +6,7 @@ job-title       : Information Security Consultant
 company         : Endava
 travel-from     : Romania
 image           :
-linkedin        :https://www.linkedin.com/in/sandor-lenart-5bb3a320/
+linkedin        : sandor-lenart-5bb3a320
 twiter          :
 facebook        :
 website         :
