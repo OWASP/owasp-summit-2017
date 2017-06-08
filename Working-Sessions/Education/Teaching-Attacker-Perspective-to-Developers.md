@@ -11,7 +11,7 @@ when-day       : Tue
 when-time      : Eve
 location       : Villa-3
 organizers     : Bjoern Kimminich
-participants   : Robert Morschel, Timo Pagel, Stuart Gunter
+participants   : Robert Morschel, Timo Pagel, Stuart Gunter, Tiffany Long
 ---
 
 > _Learning by doing_ is a quite successful education concept. Although
