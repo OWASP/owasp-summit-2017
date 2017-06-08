@@ -80,4 +80,4 @@ The target audience for this Working Session is:
 * **Toy Overkill** - Overwhelm students with a myriad of different
   pentesting & hacking tools during a developer training. Worst case:
   Let them use _Kali Linux_ right from the start.
-* ...
+* **Think like an attacker** https://adam.shostack.org/blog/2016/04/think-like-an-attacker-is-an-opt-in-mistake/ 
