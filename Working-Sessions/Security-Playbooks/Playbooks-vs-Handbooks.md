@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : PM-3
 location     : Room-5
 organizers   :
-participants :
+participants : Tiffany Long
 ---
 
 A [Playbook](https://en.wikipedia.org/wiki/Playbook) can be
