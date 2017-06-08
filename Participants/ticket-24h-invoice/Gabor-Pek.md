@@ -7,7 +7,7 @@ company         : Avatao
 travel-from     : Hungary
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/054/064/2dbe99f.jpg
 linkedin        : gaborpek
-twiter          : @gaborpek
+twiter          : gaborpek
 facebook        :
 website         : avatao.com
 email           : gabor.pek+owasp2017@avatao.com
