@@ -3,8 +3,8 @@ layout          : blocks/page-participant
 title           : Robert Grace
 type            : participant
 role            : Summit Content Manager
-job-title       :
-company         :
+job-title       : Summit Content Manager
+company         : Owasp
 expenses        : owasp
 funded          : yes
 funded-who      : Summit Budget
