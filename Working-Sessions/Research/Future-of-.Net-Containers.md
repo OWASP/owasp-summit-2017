@@ -5,7 +5,7 @@ type         : workshop
 track        : Research
 technology   : .Net,Docker
 related-to   :
-status       : need working materials
+status       : final stage; need working materials
 when-day     : Fri
 when-time    : PM-2
 location     : Room-1
@@ -41,9 +41,9 @@ The target audience for this Working Session is:
 ## Working materials
 
 - Draft roadmap
+
 - Please add as much information as possible before the sessions
 
 ### Content
 
 ... Add content ...
-
