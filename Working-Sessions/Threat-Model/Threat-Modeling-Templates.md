@@ -5,7 +5,7 @@ type        : workshop
 track       : Threat Model
 related-to  : Threat Modeling Cheat Sheets
 description : OWASP Threat Modeling Templates will provide templates for addressing applications templates for which participants can leverage as starter kits for their respective threat modeling efforts.  The intent is to develop, maintain, and enhance a suite of templates that cover different application types, deployment models to which multiple MNCs across various industries can leverage within their respective AppSec groups.
-status      : featured
+status      : final stage; need-working materials
 when-day    : Wed
 when-time   : AM-1
 location    : Room-6
@@ -40,13 +40,13 @@ Threat modelling needs greater adoption into current SDLC methodologies. Many de
 
 ## What
 
- * DFD for each template type  
- * Attack tree template
- * Threat library for each template developed
- * Design mitigations or programmatic countermeasures recommended for associated threat library for each template
- * Weakness library management and integration
+ - DFD for each template type  
+ - Attack tree template
+ - Threat library for each template developed
+ - Design mitigations or programmatic countermeasures recommended for associated threat library for each template
+ - Weakness library management and integration
 
-## Definition of Done
+## Outcomes
 
 - 5 threat modelling templates created
 
@@ -58,3 +58,15 @@ The target audience for this Working Session is:
  - Web developers of varying language backgrounds (.NET, Java, PHP, .js, etc.)
  - DBAs/ DB Developers
  - Security professionals with application architecture and software development experience
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

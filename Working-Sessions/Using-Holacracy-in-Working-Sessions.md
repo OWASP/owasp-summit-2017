@@ -6,7 +6,7 @@ owasp-project: no
 track        :
 technology   :
 related-to   :
-status       : improve-content
+status       : need-more content; need-working materials
 organizers   :
 participants :
 ---
@@ -21,7 +21,7 @@ Holacracy is a very interesting organization model which could work well on Trac
  - Find Track and Working Sessions organisers that are willing to try this out
  - Find companies who have used it and ask them to share their experiences
  
-## Definition of Done
+## Outcomes
 
 - Holacracy model for use during the Summit
 
@@ -38,3 +38,13 @@ The target audience for this Working Session is:
  - http://www.holacracy.org/
  - http://www.holacracy.org/how-it-works/
  - http://www.holacracy.org/wp-content/uploads/2016/08/Holacracy-WhitePaper-v5.pdf
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

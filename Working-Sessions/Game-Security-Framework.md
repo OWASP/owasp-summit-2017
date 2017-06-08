@@ -4,7 +4,7 @@ title        : OWASP Game Security Framework
 type         : workshop
 owasp-project: yes
 track        : Project Summit
-status       : draft
+status       : final stage; need-working materials
 technology   : IoT
 organizers   : Daniel Miessler
 participants :
@@ -33,7 +33,7 @@ This session will be about the various sub-projects in the project, including:
 - Business Impacts
 - and more…
 
-## Definition of Done
+## Outcomes
 
 1. We get each section of the project (sub-projects) to a working state that participants agree are a solid starting point.
 2. We have a committed project leader for each sub-project, and we have next steps for each of these.
@@ -44,5 +44,15 @@ This session will be about the various sub-projects in the project, including:
 ## Who
 
 Whether you're already in the gaming space doing security, or you're just a security person who games, or even a security person who doesn't game, we would love to get your insight into the project and help it along in its evolution.
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
 
 

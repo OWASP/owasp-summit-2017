@@ -25,7 +25,7 @@ We need some best practices that teams can adapt, if we want threat modelling to
 
 ...what text...
 
-## Definition of Done
+## Outcomes
 
 ...Add text...
 
@@ -34,3 +34,15 @@ We need some best practices that teams can adapt, if we want threat modelling to
 The target audience for this Working Session is:
 
 ... who text ...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

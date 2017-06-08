@@ -41,7 +41,8 @@ The target audience for this Working Session is:
 ## Working materials
 
 - Draft roadmap
-- Pplease add as much information as possible before the sessions
+
+- Please add as much information as possible before the sessions
 
 ### Content
 

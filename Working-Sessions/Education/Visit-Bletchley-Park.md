@@ -44,6 +44,12 @@ Have vehicle with N open slots:
 Need transport:
 * Adam Shostack
 * Viktor Lindstrom
+* Bjoern Kimminich
+
+### Tickets
+
+Do *not* require ticket (e.g. season Pass owners)
+* Bjoern Kimminich
 
 ## Who
 

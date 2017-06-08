@@ -5,7 +5,7 @@ type        : workshop
 track       : Threat Model
 related-to  : Cheat Sheets
 description : OWASP cheat sheet will provide prescriptive guidance on threat modeling activities, tasks, and output deliverables that should be produced as part of one of three varying methodologies (software centric, security centric, risk centric approaches) and tailored to application environments that are domain agnostic.
-status      : improve-content
+status      : final stage; need-working materials
 when-day    : Tue
 when-time   : PM-3
 location    : Room-6
@@ -37,7 +37,7 @@ Because some teams may find the heavyweight approach too cumbersome and onerous,
 ## What
 
  - DFD Template
- - Kill chain template
+ - Kill chain templatehttps://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Threat-Model
  - Attack tree template
  - Component enumeration techniques
  - Attack library build out and mapping
@@ -47,9 +47,9 @@ Because some teams may find the heavyweight approach too cumbersome and onerous,
  ** What should a lightweight process produce?
  ** What are the simplest steps we can follow to arrive at that deliverable?
  
-## Definition of Done
+## Outcomes
 
-- Threat modelling cheat sheets published for heavy and light-weight approaches
+- Threat modelling cheat sheets published for heavy and lightweight approaches
 
 ## Who
 
@@ -59,3 +59,16 @@ The target audience for this Working Session is:
  - Web developers of varying language backgrounds (.NET, Java, PHP, .js, etc.)
  - DBAs/ DB Developers
  - Security professionals w/ application architecture, software development experience
+ 
+ --- 
+
+## Working materials
+
+- Draft threat modelling cheat sheets published for heavy and lightweight approaches
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content
+

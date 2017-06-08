@@ -6,7 +6,7 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : review-content
+status       : need-outcomes; need-working materials
 when-day     : Mon
 when-time    : PM-2
 location     : Room-6
@@ -27,7 +27,7 @@ A good overview of the number of threat modelling tools available will enable mo
    - What information should be included in the threat model?
 - What kind of integration do we want with other systems?
 
-## Definition of Done
+## Outcomes
 
 ... Add text...
 
@@ -47,3 +47,15 @@ The target audience for this Working Session is:
 - [SeaSponge: An open sourced and client-side HTML5 Threat Modelling Tool](https://mozilla.github.io/seasponge/)
 - [SeaSponge: github](https://github.com/mozilla/seasponge)
 - [ContinuumSecurity IriusRisk](https://www.continuumsecurity.net/threat-modeling-tool/)
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

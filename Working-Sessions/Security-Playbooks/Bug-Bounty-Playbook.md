@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : review-content
+status       : final stage; need-working materials
 when-day     : Fri
 when-time    : AM-1
 location     : Room-5
@@ -27,7 +27,7 @@ This Working Session will create a bug bounty playbook.
 
  - Create Bug bounty playbook
  
-## Definition of Done
+## Outcomes
 
 - Bug bounty playbook 
 
@@ -38,3 +38,16 @@ The target audience for this Working Session is:
  - Security teams
  - Bug bounty companies
  - Bug bounty hunters
+ 
+--- 
+
+## Working materials
+
+- Bug bounty playbook 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
+

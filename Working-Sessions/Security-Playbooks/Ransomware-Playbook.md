@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : review-content
+status       : need-working materials
 when-day     : Fri
 when-time    : PM-3
 location     : Room-5
@@ -23,7 +23,7 @@ When that happens, it is imperative that clean workflows (aka playbooks) exist, 
 
  - Create Ransomware Playbook
  
-## Definition of Done
+## Outcomes
 
 - Ransomware Playbook
 
@@ -44,4 +44,16 @@ The target audience for this Working Session is:
    - [Playbook for Handling Ransomware Infections](https://www.demisto.com/playbook-for-handling-ransomware-infections/)
    - [The five Step Ransomware Defense Playbook](https://itspmagazine.com/from-the-newsroom/the-five-step-ransomware-defense-playbook)
    - [playbook-ransomware.yml](https://github.com/demisto/content/blob/master/Playbooks/playbook-ransomware.yml)
+   
+  --- 
+
+## Working materials
+
+- Draft Ransomware Playbook
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
 
