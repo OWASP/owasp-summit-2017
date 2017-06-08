@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Hands on Threat Modeling Juice Shop (ABC)
+title        : Hands on Threat Modeling Juice Shop (topic 5)
 type         : workshop
 track        : Threat Model
 technology   :
