@@ -1,9 +1,10 @@
 ---
 layout       : blocks/working-session
-title        : Juice Shop Challenge Pack Release
+title        : Juice Shop Live-Release
 type         : workshop
 track        : Owasp Projects
 technology   : Node
+related-to   : Juice Shop,Juice Shop Hands-on-coding
 description  : Live release of OWASP Juice Shop to publish all the work achievements of the summit and see Travis-CI & friends in action in the process.
 status       : Final stage
 organizers   : Bjoern Kimminich
