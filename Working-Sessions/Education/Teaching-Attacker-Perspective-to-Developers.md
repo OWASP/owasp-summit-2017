@@ -36,6 +36,7 @@ and services used in practical developer security training sessions.
 - Share experiences using current online service providers
 - Run-through of open source tools (like WebGoat, Security Shepherd, Juice Shop)
 - Are vendor demo applications (like AltoroMutual) an option?
+- What (if any) tools for pentesting (like (ZAP or Burp) do you recommend or use in dev trainings?
 
 ## Outcomes 
 
