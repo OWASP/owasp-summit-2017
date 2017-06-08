@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Juice Shop Coding Nights
+title        : Juice Shop Coding Night
 type         : workshop
 track        : Owasp Projects
 technology   : Node
