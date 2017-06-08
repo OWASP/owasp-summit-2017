@@ -11,6 +11,7 @@ location     : Villa-4
 status       : Improve outcomes; need-working materials 
 organizers   : Adam Shostack
 participants : Dinis Cruz
+invited      : Bjoern Kimminich
 ---
 
 Get together to use the models of Juice Shop to find problems with it, learn threat modelling, and deliver examples.

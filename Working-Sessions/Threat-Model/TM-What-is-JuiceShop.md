@@ -11,6 +11,7 @@ location     : Villa-4
 status       : Improve outcomes; need-working materials
 organizers   :
 participants :
+invited      : Bjoern Kimminich
 ---
 
 Get together to create models (diagrams) of Juice Shop to help us find problems with it, learn threat modelling, and deliver examples.
