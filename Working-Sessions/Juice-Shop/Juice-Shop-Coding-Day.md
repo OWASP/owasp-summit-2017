@@ -8,7 +8,7 @@ description  : Hands-on coding session series to implement new challenges and ot
 status       : Final stage
 organizers   : Bjoern Kimminich
 when-day     : Wed
-when-time    : AM-1,PM-1,PM-2,PM-3
+when-time    : AM-1,PM-1,PM-2
 location     : Villa-5
 participants :
 invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro, Josh Grossman
