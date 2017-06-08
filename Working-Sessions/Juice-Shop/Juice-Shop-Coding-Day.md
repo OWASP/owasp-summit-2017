@@ -7,7 +7,7 @@ technology   : Node
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 status       : Final stage
 organizers   : Bjoern Kimminich
-when-day     : Tue
+when-day     : Wed
 when-time    : AM-1,PM-1,PM-2,PM-3
 location     : Villa-5
 participants :
