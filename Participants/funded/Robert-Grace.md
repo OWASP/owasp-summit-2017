@@ -4,7 +4,7 @@ title           : Robert Grace
 type            : participant
 role            : Summit Content Manager
 job-title       : Summit Content Manager
-company         : Owasp
+company         : OWASP
 expenses        : owasp
 funded          : yes
 funded-who      : Summit Budget
