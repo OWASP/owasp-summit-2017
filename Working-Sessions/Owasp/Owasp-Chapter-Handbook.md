@@ -27,7 +27,6 @@ This Working Session will discuss and agree on any open issues. The session will
 - Revised draft of OWASP CHapter Handbook
 - Cheat sheets for chapter leaders, new leaders, and new chapters
 - Clarifying responsibilities and accountabilities
-- Updated draft
 - One-page cheat sheets for:
     - chapter leaders 
     - new leaders 
