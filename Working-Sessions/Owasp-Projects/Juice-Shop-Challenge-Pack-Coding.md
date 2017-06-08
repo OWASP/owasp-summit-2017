@@ -4,7 +4,7 @@ title        : Juice Shop Challenge Pack Coding
 type         : workshop
 track        : Owasp Projects
 technology   : Node
-description  : OWASP Juice Shop Project is an intentionally insecure webapp for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
+description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 status       : Final stage
 organizers   : Bjoern Kimminich
 when-day     : Mon,Tue,Wed,Thu
