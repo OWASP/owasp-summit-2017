@@ -6,7 +6,7 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : definition-of-done
+status       : need working materials
 when-day     : Thu
 when-time    : PM-1
 location     : Room-5
@@ -14,11 +14,11 @@ organizers   :
 participants :
 ---
 
-Many individuals, and many companies attending the Summit have experience running or participating in public bug bounty programmes, and they want to grow and improve this market.  
+Many individuals and companies attending the Summit have experience running or participating in public bug bounty programmes; they want to grow and improve this market.  
 
 ## Why
 
-This Working Session seeks to leverage this knowledge and experience present at the Summit to learn and understand very valuable lessons about public bug bounty programmes.  
+This Working Session seeks to leverage the knowledge and experience present at the Summit and learn and understand very valuable lessons about public bug bounty programmes.  
 
 ## What
 
@@ -26,7 +26,7 @@ This Working Session seeks to leverage this knowledge and experience present at 
 -	How to improve bug bounty programmes 
 -	How to anticipate and therefore avoid problems
 
-## Definition of Done
+## Outcomes 
 
 - List of top 10 lessons from bug bounty experts
 - Guidelines on improving bug bounty programmes
@@ -38,3 +38,15 @@ The target audience for this Working Session is:
 -	People who have participated in or managed bug bounties in the past
 -	People who want to run bug bounties in the future
 -	Companies who provide these services
+
+--- 
+
+## Working materials
+
+- Draft list of top 10 lessons from bug bounty experts
+- Draft guidelines on improving bug bounty programmes
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...

@@ -5,12 +5,13 @@ type         : workshop
 track        : Owasp Projects
 technology   : Node
 description  : OWASP Juice Shop Project is an intentionally insecure webapp for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
-status       : featured
+status       : Final stage; missing working materials
 organizers   : Bjoern Kimminich
 when-day     : Mon
 when-time    : PM-3
 location     : Room-3
 participants : Dinis Cruz,Ingo Hanke,Ade Yoseman Putra,Timo Pagel, Francois Raynaud
+invited      : Josh Grossman
 ---
 
 ## Why
@@ -46,7 +47,7 @@ the CTF-extension are currently gathered as
 
 ![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
 
-## Definition of Done
+## Outcomes
 
 This working session will gather, discuss, design, and implement the following:
 
@@ -83,3 +84,13 @@ The target audience for this Working Session is:
 - Web designers (the vulnerable features will _at least look good_)
 - CTFd project team and contributors
 - Security professionals
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

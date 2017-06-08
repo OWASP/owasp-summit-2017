@@ -6,7 +6,7 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : definition-of-done
+status       : need working materials
 when-day     : Thu
 when-time    : AM-1
 location     : Room-5
@@ -30,7 +30,7 @@ This Working Session aims to leverage the knowledge of those who have experience
 -	What are the risks?
 -	What commercial companies can run a bug bounty?
 
-## Definition of Done
+## Outcomes
 
 - Playbook for internal bug bounties
 
@@ -42,4 +42,13 @@ The target audience for this Working Session is:
 -	People who want to run bug bounties in the future
 -	Developer teams
 
+--- 
 
+## Working materials
+
+- Draft playbook for internal bug bounties
+- Please add as much information as possible before the session
+
+### Content
+
+... Add content ...

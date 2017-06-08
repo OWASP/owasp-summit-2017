@@ -8,7 +8,7 @@ expenses        : owasp
 funded          : yes
 funded-who      : Summit Editor Fund
 flight-cost     : 1000
-ticket-cost     : 0 (will buy ticket)
+ticket-cost     : 0 (bought ticket)
 funded-amount   : 1200 (with Visa)
 required-funds  : 1200
 role            : 

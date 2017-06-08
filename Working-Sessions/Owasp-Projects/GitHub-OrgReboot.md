@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : GitHub Organization Reboot
 type         : workshop
 track        : Owasp Projects
-status       : featured
+status       : Final stage; missing working materials
 description  : The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them.
 when-day     : Mon
 when-time    : PM-2
@@ -32,7 +32,7 @@ This Working Session will explore how OWASP can gain maximum benefit from its us
 - How can we prevent new erosion after a "tabula rasa" clean-up or
   "reboot"?
 
-## Definition of Done
+## Outcomes
 
 The following are the potential outcomes of the Working Session:
 
@@ -42,7 +42,7 @@ The following are the potential outcomes of the Working Session:
   projects
 - Extended/New quality checklist for Code and Tool projects
 - Templates (e.g. `README.md`, `LICENSE`, `CONTRIBUTING.md` etc.) for a
-  repo under OWASP org
+  repo under OWASP org (see <https://github.com/OWASP/github-template>)
 - Instructions for 3rd party QA/CI tool setup (e.g. Travis-CI,
   Code Climate etc.)
 
@@ -54,3 +54,23 @@ The target audience for this Working Session is:
 - Contributors to OWASP Code or Tool projects
 - Software engineers/craftsmen
 - GitHub power users
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+- Draft GitHub repository owner guidelines
+- Draft GitHub org admin guidelines
+- Draft Addendum to the Project Leader Handbook specific for Code and Tool
+  projects
+- Draft Extended/New quality checklist for Code and Tool projects
+- Draft templates (e.g. `README.md`, `LICENSE`, `CONTRIBUTING.md` etc.) for a
+  repo under OWASP org (see <https://github.com/OWASP/github-template>)
+- Draft instructions for 3rd party QA/CI tool setup (e.g. Travis-CI,
+  Code Climate etc.)
+
+### Content
+
+...add content...

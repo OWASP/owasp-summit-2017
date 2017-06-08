@@ -5,12 +5,12 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : review-content
+status       : need-working materials
 when-day     : Mon
 when-time    : PM-3
 location     : Room-5
 organizers   :
-participants :
+participants : Tiffany Long
 ---
 
 A [Playbook](https://en.wikipedia.org/wiki/Playbook) can be
@@ -35,7 +35,7 @@ This Working Session will discuss and clarify these issues with the aim of agree
  - Clarify concepts
  - Agree on definition of Playbook
  
-## Definition of Done
+## Outcomes
 
 - Agreed definition of Playbook 
 
@@ -44,3 +44,15 @@ This Working Session will discuss and clarify these issues with the aim of agree
 The target audience for this Working Session is:
 
  - Security teams
+ 
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

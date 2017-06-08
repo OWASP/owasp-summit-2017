@@ -5,7 +5,7 @@ type         : workshop
 track        : CISO
 technology   :
 related-to   :
-status       : review-content
+status       : final stage
 when-day     : Thu
 when-time    : AM-1
 location     : Room-4
@@ -54,7 +54,7 @@ The target audience for this Working Session is:
 
 --- 
 
-# Working materials
+## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 

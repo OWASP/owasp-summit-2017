@@ -21,7 +21,7 @@ linkedin        : yankravchenko
 twitter         : yanfosec
 facebook        :
 website         : https://about.me/yan.kravchenko
-ticket          : 5x24
+ticket          : 5x24h
 status          : done
 ---
 

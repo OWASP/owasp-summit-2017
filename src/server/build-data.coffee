@@ -18,4 +18,6 @@ using new jekyll_Data(), ->
   @.map_Tracks_Data()
   @.map_Schedule()
   @.participants.map_Lists()
+  @.tickets.map_Tickets()
+  @.tickets.map_Lodges()
   console.timeEnd(".... Build Data in");

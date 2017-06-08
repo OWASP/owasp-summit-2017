@@ -2,15 +2,6 @@ include ../mixins/users.jade
 include ../mixins/working-session.jade
 
 | {% assign data           = site.data.mapped.tracks[page.title]                        %}
-| {% assign track_ws_ok    = data.working-sessions.ok                             %}
-| {% assign track_ws_draft = data.working-sessions.draft                          %}
-
-mixin track-schedule
-    b
-        | See &#32;
-        a(href="/pages/schedule/tracks/{{ page.title | replace: ' ', '-'}}.html") schedule
-        | &#32; for this track
-
 
 .working-session
     .container
@@ -20,28 +11,8 @@ mixin track-schedule
         br
         + show-participants
         br
-        + track-schedule
-
-        h3 Working sessions in this Track
-        ul
-            | {% for track in track_ws_ok %}
-            li
-                a(href='{{ track.url }}') {{ track.name }}
-            | {% endfor %}
-
-        | {% if track_ws_draft.size > 0 %}
-        ul
-            li
-                b In draft status (i.e. need content):
-                ul
-                    | {% for track in track_ws_draft %}
-                    li
-                        a(href='{{ track.url }}') {{ track.name }}
-                    | {% endfor %}
-
-        | {% endif %}
+        | {% include schedule/track.html %}
         + show-related-to
-
         | {{ content }}
         br
         hr

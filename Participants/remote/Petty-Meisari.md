@@ -3,8 +3,9 @@ layout          : blocks/page-participant
 title           : Petty Meisari
 type            : participant-remote
 job-title       : Jakarta Chapter Board Member
-email           : ade.putra@owasp.org
+email           : Petty.meisari@gmail.com
 twitter         : OwaspJakarta
+image           :
 status          : more-content
 working-sessions:
 ---

@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: yes
 track        : Owasp Projects
 technology   : IoT
-status       : review-content
+status       : final stage; add content
 when-time    : PM-1
 location     : Room-3
 when-day     : Fri
@@ -19,8 +19,8 @@ The project looks to define a structure for various IoT sub-projects such as Att
 
 ### Resources from Owasp.org
 - [IoT Attack Surface Areas](https://www.owasp.org/index.php/IoT_Attack_Surface_Areas)
-- [](https://www.owasp.org/index.php/IoT_Testing_Guides)
-- [](https://www.owasp.org/index.php/IoT_Security_Guidance)
+- [IoT Testing Guide](https://www.owasp.org/index.php/IoT_Testing_Guides)
+- [IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance)
 - [Principles of IoT Security](https://www.owasp.org/index.php/Principles_of_IoT_Security)
 - [IoT Framework Assessment](https://www.owasp.org/index.php/IoT_Framework_Assessment)
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
@@ -42,7 +42,7 @@ This session will be about the various sub-projects in the project, including:
 - Recommendations for additional sub-projects
 - and more…
 
-## The Definition of Done
+## Outcomes
 
 1. We get each section of the project (sub-projects) to a working state that participants agree are a solid starting point
 2. We have a committed project leader for each sub-project, and we have next steps for each of these
@@ -54,4 +54,16 @@ This session will be about the various sub-projects in the project, including:
 
 The ideal participants here are people with some experience of IoT, either from the building, deploying, or testing worlds. We're looking for people with ideas around improving the existing sub-projects, taking on one of the sub-projects, starting a new one, or any combination of these.
 
+--- 
 
+## Working materials
+
+1. Draft starting points for each section of the project (sub-projects)
+2. Potential candidate(s) for project leader for each sub-project, and we have next steps for each of these
+3. Draft plan for spreading the word about the project and its sub-projects to the world
+4. Draft interaction plan for reaching out to other IoT project leaders for cooperation
+5. Outline for one-pagers for the Attack Surfaces and Top Vulnerabilities that can be used as quick-look guidelines for developers
+
+### Content
+
+... Add content ...

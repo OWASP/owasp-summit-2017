@@ -1,0 +1,80 @@
+mixin status
+    | {% assign page_status = metadata.status | split: ',' %}
+    | {% for status in page_status %}
+    |   {% case status %}
+    |       {% when 'draft' %}
+    .label.label-primary {{ status }}
+    |       {% when 'done' %}
+    .label.label-success {{ status }}
+    |       {% when 'empty' %}
+    .label.label-danger {{ status }}
+    |       {% else %}
+    .label.label-warning {{ status }}
+    |   {% endcase %}
+    | {% endfor %}
+
+mixin image
+    | {% if metadata.image != '' %}
+    img(src='{{ metadata.image }}' alt='{{ metadata.title }}')
+    | {% else %}
+    img(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
+    | {% endif %}
+
+mixin email
+    | {% if metadata.email != null %}
+    | {{ metadata.email }}
+    | {% else %}
+    | {{ site.data.emails[metadata.title] }}
+    | {% endif %}
+
+.tickets
+    .participants-table
+        h1 {{ page.title }}
+            a(href='/pages/for-editors') Back to Editor's pages
+
+        | {% assign participants = site.data.mapped.tickets.by_Participant %}
+        | {% assign totals        = site.data.mapped.tickets.stats.count        %}
+        | {% assign no-regonline  = site.data.mapped.tickets.stats.no_regonline %}
+        | {% assign regonline     = totals | minus, no-regonline                %}
+
+        h4 Total # Participants: {{ totals }}
+        ul
+            li {{ regonline    }} registered on Regonline
+            li {{ no-regonline }} not registered on Regonline
+
+        table.table.table-striped
+            thead
+                th #
+                th Regonline Name
+                th
+                th ticket
+                th when-day
+                th regonline
+
+
+
+            | {% for participant in participants  %}
+            tr.text-center(class='regonline-{{participant[1].regonline}}')
+                td.text-center {{ forloop.index }}
+                td
+                    a(href='{{ participant[1].url }}' target='_blank') {{ participant[1].regonline_Name }}
+                td
+                    a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ participant[1].url | replace: '.html','.md'}}" target='_blank') edit
+
+                td
+                    | {{ participant[1].ticket }}
+                td
+                    | {{ participant[1].when-day }}
+                td
+                    | {{ participant[1].regonline }}
+            | {% endfor %}
+
+        h3 Participants NOT on Regonline
+
+        ul
+            | {% for participant in participants  %}
+            |   {% if participant[1].regonline  == 'No' %}
+            li
+                a(href='{{ participant[1].url }}' target='_blank') {{ participant[1].regonline_Name }}
+            |   {% endif %}
+            | {% endfor %}

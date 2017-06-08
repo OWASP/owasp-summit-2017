@@ -16,6 +16,7 @@ chapter-leader  :
 when-day        : Mon,Tue,Wed,Thu
 ticket          : 3x24h,1x8h
 status          : empty
+regonline       : No
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

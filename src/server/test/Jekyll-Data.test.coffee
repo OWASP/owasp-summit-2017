@@ -23,7 +23,6 @@ describe 'Jekyll_Data', ->
       test_Data = @.folder_Participants.files_Recursive().first().file_Contents()
       using @.map_Participant_Raw_Data(test_Data), ->
         @._keys().assert_Contains ['title','type','image']
-        @['working-sessions'].size().assert_Bigger_Than 4
 
   it 'map_Participants_Data', ->
     using jekyll_Data, ->
@@ -38,7 +37,9 @@ describe 'Jekyll_Data', ->
 
   it 'map_Schedule', ->
     using jekyll_Data, ->
-      @.map_Schedule()
+      schedule = @.map_Schedule()
+      schedule._keys().assert_Is [ 'by_Room', 'by_Track','by_Time', 'by_Participant' ]
+      schedule.by_Time['PM-1']['CISO']['Mon'][0]._keys().assert_Is ['name', 'url','location','locked','status']
 
   it 'map_Tracks_Data', ->
     using jekyll_Data, ->
@@ -61,7 +62,7 @@ describe 'Jekyll_Data', ->
       test_Names = ['Bernhard Mueller' , 'Sven Schleier','Abc']
       @.resolve_Names test_Names
            .assert_Is [ { name: 'Bernhard Mueller', url: '/Participants/ticket-24h-owasp/Bernhard-Mueller.html' , remote:false},
-                        { name: 'Sven Schleier'   ,url: '/Participants/funded/Sven-Schleier.html'               , remote:false},
+                        { name: 'Sven Schleier'   ,url: '/Participants/ticket-24h-owasp/Sven-Schleier.html'     , remote:false},
                         { name: 'Abc' } ]
 
   it 'resolve_Participants_XRef', ->

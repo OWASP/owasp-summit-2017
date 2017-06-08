@@ -5,13 +5,13 @@ type         : workshop
 track        : CISO
 technology   : GDPR
 related-to   :
-status       : review-content
-when-day     : Mon
+status       : final stage
+when-day     : Mon,Thu
 when-time    : PM-1
 location     : Room-4
 organizers   :
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam
-invited      : Neil Barlow, Kevin Fielder
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam, Stuart Gunter
+invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden, Anders Reeves
 ---
 
 ## Why
@@ -36,7 +36,7 @@ This Working Session will discuss some aspects of GDPR, including the role of th
 
 ---
 
-# Working materials
+## Working materials
 
 We need to be much more focused on the questions to ask and provide as much information about the answers that we are able to figure out.
 

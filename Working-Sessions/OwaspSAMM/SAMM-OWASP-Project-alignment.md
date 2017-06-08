@@ -4,7 +4,7 @@ title        : SAMM - OWASP Project alignment
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : draft
+status       : need-outcomes;need-working materials
 when-day     : Tue
 when-time    : PM-2
 location     : Villa-1
@@ -24,6 +24,30 @@ SAMM provides a program level view of activities for securing software. We need 
 - Provide recommendations for addition
 - Plan of project and activity alignment
 
+## Outcomes
+
+- Recommendations for addition to SAMM
+- Plan for project and activity alignment
+
 ## Who
 
-Security champions, Security architects, DevOps Roles, CISO, ...
+The target audience for this Working Session is:
+
+- Security champions
+- Security architects
+- DevOps Roles
+- CISOs
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+https://www.owasp.org/index.php/Category:SAMM-Resources
+
+...add content...

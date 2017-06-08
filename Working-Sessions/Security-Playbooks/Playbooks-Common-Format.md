@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   : Threat Modeling Diagramming Techniques
-status       : improve-content
+status       : need-working materials
 when-day     : Mon
 when-time    : PM-1
 location     : Room-5
@@ -29,7 +29,7 @@ The Working Session will explore these issues to prepare for the various Playboo
  - Define common playbook format
  - Create plan for how it will be used on the Playbook Working Sessions
  
-## Definition of Done
+## Outcomes
 
 - Template for playbooks
 - Plan for how template will be used in the Playbook Working Sessions.
@@ -39,3 +39,15 @@ The Working Session will explore these issues to prepare for the various Playboo
 The target audience for this Working Session is:
 
  - 'Security Playbooks' Track organisers and participants
+
+--- 
+
+## Working materials
+
+- Draft template(s) for playbooks
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

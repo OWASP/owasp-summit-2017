@@ -9,12 +9,12 @@ image           : http://rtfc.org.uk/kev.jpg
 linkedin        :
 twiter          : kevsheldrake
 facebook        :
-website         : rtfc.org.uk
+website         : http://rtfc.org.uk/
 email           : rtfcode (gmail.com)
 when-day        : Mon
 ticket          : 1x8h
 status          : empty
-working-sessions: TLS for Local IoT
+working-sessions: 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

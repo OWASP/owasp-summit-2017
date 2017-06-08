@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : GPG Infrastructure for OWASP
 type         : workshop
 track        : Owasp
-status       : done
+status       : need working materials
 when-day     : Wed
 when-time    : AM-1
 location     : Room-3
@@ -13,7 +13,7 @@ participants :
 
 ## Why
 
-OWASP generates, delivers, and hosts a range of documents and tools that are widely accepted for their high quality. But there is no mechanism to make these projects tamper-proof.
+OWASP generates, delivers, and hosts a range of documents and tools that are widely accepted for their high quality; however, there is no mechanism to make these projects tamper-proof.
 
 OWASP needs an organisational and technical infrastructure to sign documents and code. This Working Session aims to create a GPG infrastructure for OWASP. 
 
@@ -24,7 +24,7 @@ OWASP needs an organisational and technical infrastructure to sign documents and
 * Leaders should have a GPG key signed by OWASP's "master key" at end of the Summit
 * TBD …
 
-## Definition of Done
+## Outcomes
 
 - GPG infrastructure for OWASP
 - GPG key signed by OWASP's "master key" at end of the Summit
@@ -36,3 +36,14 @@ The target audience for this Working Session is:
 * Board members
 * Technical staff
 
+--- 
+
+## Working materials
+
+- Draft GPG infrastructure for OWASP
+- Draft GPG key to be signed by OWASP's "master key" at end of the Summit
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...

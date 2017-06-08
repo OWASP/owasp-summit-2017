@@ -13,7 +13,7 @@ email           : yo@johanpeeters.com
 website         : https://www.johanpeeters.com
 status          : need-content
 ticket          : 5x24h
-working sessions: Threat Modeling Tools, Threat Modeling Templates, AppSec SOC Monitoring Visualisation, BDD for Cloud Security, Docker Security, ELK Security Dashboards, Securing the CI Pipeline, Writing Security Tests, TLS for Local IoT, Cheat Sheets, Dependency Check, LANGSEC Language-theoretic Security, Security Monitoring Playbooks, GDPR, IoT,NextGen Security Scanners, The Future of Privacy, What Should be Added to the Top 10, A10 - Underprotected APIs
+working sessions: Threat Modeling Tools, Threat Modeling Templates, AppSec SOC Monitoring Visualisation, BDD for Cloud Security, Docker Security, ELK Security Dashboards, Securing the CI Pipeline, Writing Security Tests, TLS for Local IoT, Cheat Sheets, Dependency Check, Security Monitoring Playbooks, GDPR, IoT,NextGen Security Scanners, The Future of Privacy, A10 - Underprotected APIs
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

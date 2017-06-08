@@ -8,6 +8,13 @@ The food main points will be located at the following villas:
   - DevSecCon Villa
   - XXX
 
+## Allergies/ Food Restrictions (vegan/kosher/halal etc)
+
+- MSG (mono sodium glutamate)
+- Nitrates and Celery
+- Caffeine (tea, coffee, chocolate)
+
+
 ## Budget available
 
 - per day

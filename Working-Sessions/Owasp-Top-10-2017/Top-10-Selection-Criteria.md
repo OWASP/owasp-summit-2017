@@ -5,12 +5,12 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : review-content
+status       : final stage; add content 
 when-day     : Mon
 when-time    : PM-1
 location     : Room-2
 organizers   : Dave Wichers,Josh Grossman
-participants : Bjoern Kimminich
+participants : Bjoern Kimminich, Tiffany Long
 ---
 
 ## Why
@@ -33,10 +33,10 @@ Given the controversy surrounding the current Top 10 2017 RC1, it is very import
  - Apply the selection criteria to the all versions of the OWASP Top 10 (and see how they rank)
  - Create framework for it to be used in the other Working Sessions in the OWASP Top 10 2017 Track
  
-## Definition of Done
+## Outcomes 
 
 - 'Top 10 Selection Criteria' published
-- Framework for top 10 criteria to be used in other OWASP Top 10 2017 Working Sessions
+- Framework for Top 10 criteria to be used in other OWASP Top 10 2017 Working Sessions
 
 ## Who
 
@@ -47,3 +47,15 @@ The target audience for this Working Session is:
 ## References
 
  - [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/behind-the-the-owasp-top-10-2017-rc1-df43236f79ff)
+
+--- 
+
+## Working materials
+
+ - Long list of criteria for inclusion in 'Top 10 Selection Criteria'.
+ - Draft framework for Top 10 criteria to be used in other OWASP Top 10 2017 Working Sesions.
+(please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...

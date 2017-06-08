@@ -6,7 +6,7 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : review-content
+status       : need working materials
 when-day     : Tue
 when-time    : PM-3
 location     : Room-5
@@ -35,7 +35,7 @@ This Working Session will address this problem by exploring the possibility of c
  - How would this talent marketplace benefit companies and security talent?
  - Is OWASP leadership a good benchmark for talent?
  
-## Definition of Done
+## Outcomes
 
 - Roadmap for a skills market for security talent
 
@@ -46,3 +46,14 @@ The target audience for this Working Session is:
  - Security professionals
  - Companies looking for talent
  - Companies looking to provide such services
+
+--- 
+
+## Working materials
+
+- Draft roadmap for a skills market for security talent
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...

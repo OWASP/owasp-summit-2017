@@ -21,6 +21,20 @@ The best way to make security 'just happen' is to integrate it within the normal
 
 ...what text...
 
+## Outcomes
+
+...add text...
+
 ## Who
 
 ... who (target audience ...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

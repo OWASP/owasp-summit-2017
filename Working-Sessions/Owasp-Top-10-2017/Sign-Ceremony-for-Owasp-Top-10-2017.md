@@ -6,7 +6,7 @@ owasp-project: no
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : review-content
+status       : need working material
 when-day     : Fri
 when-time    : PM-3
 location     : Room-6
@@ -17,13 +17,13 @@ participants :
 ## Why
 
 Given the controversy and comments made on the new version of the OWASP Top 10 2017, it is critical that after all the
-Summit's Working Sessions, participants both at the Summit and remotely can agree on the final version of the OWASP Top 10 2017, and provide it with 'on the record' support by signing it.
+Summit's Working Sessions, participants (both at the Summit and attending remotely) can agree on the final version of the OWASP Top 10 2017, and provide 'on the record' support by signing it.
 
 ## What
 
  - Sign the OWASP Top 10 2017 version
  
-## Definition of Done
+## Outcomes
 
 - OWASP Top 10 2017 is signed
 
@@ -35,3 +35,13 @@ The target audience for this Working Session is:
  - OWASP Community and Industry
  - Product/Service vendors
  - Organisations that recommend the use of OWASP Top 10
+
+--- 
+
+## Working materials
+
+Draft or long list of candidates for OWASP Top 10 2017 (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...

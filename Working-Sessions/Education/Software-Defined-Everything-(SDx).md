@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Software Defined Everything (SDx)
 type         : workshop
 track        : Education
-status       : done
+status       : missing outcomes
 when-day     : Wed
 when-time    : PM-1
 location     : Room-2
@@ -27,9 +27,9 @@ Within the IT industry, SDx or software-defined everything is still a buzz word.
 - How can SDx be simulated/emulated effectively for SDN/SDDC applications, especially where central controllers and the API are concerned? 
 - Preparing the future direction in terms of an all-inclusive approach to SDx security, including a holistic view of both application and infrastructure aspects
 
-## Definition of Done
+## Outcomes
 
---Add text--
+... add content ...
 
 
 ## Who
@@ -41,3 +41,12 @@ The target audience for this Working Session is:
 - Developers involved in end to end provisioning
 - Developers involved in automated app delivery or containers
 
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... add content ...

@@ -6,9 +6,9 @@ track        : Threat Model
 technology   :
 related-to   :
 status       : review-content
-when-day     : Mon,Tue,Wed,Thu
+when-day     : Mon
 when-time    : Eve
-location     : Room-6
+location     : Villa-4
 organizers   :
 participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström
 ---
@@ -28,7 +28,7 @@ For an organisation or group to understand and use threat modelling, they should
 - Who should be involved? 
 - For starting threat modelling on an existing project/codebase - how to start without the need to cover everything (this shares some similarities with introducing tests to legacy software)
 
-## Definition of Done
+## Outcomes
 
 - Guidelines for the effective use of threat modelling
 
@@ -41,3 +41,15 @@ The target audience for this Working Session is:
 - Security SMEs
 - SCRUM masters
 - Security champions
+
+--- 
+
+## Working materials
+
+- Draft guidelines for the effective use of threat modelling
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

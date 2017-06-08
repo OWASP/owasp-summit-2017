@@ -6,15 +6,16 @@ owasp-project: no
 track        : Research
 technology   :
 related-to   : Threat Model
-status       : review-content
+status       : need working material
 when-day     : Wed
 when-time    : Eve
-location     : Villa-1
+location     : Villa-3
 organizers   :
 participants : PhotoBox
+invited      : Anders Reeves
 ---
 
-> GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+> GraphQL is a query language for APIs and a runtime for fulfilling those queries with existing data. GraphQL provides a complete and understandable description of the data in an API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
 (from http://graphql.org/)
 
@@ -27,7 +28,7 @@ This Working Session aims to use the community attending the Summit to perform a
  - Perform Security review to GraphQL
  - Improve existing Security documentation and guidance
  
-## Definition of Done
+## Outcomes
 
 - Revised security documentation and guidance
 
@@ -55,3 +56,14 @@ The target audience for this Working Session is:
  - https://twitter.com/search?q=%23GraphQL
  - https://twitter.com/GraphQL
  - https://medium.com/the-graphqlhub/graphql-and-authentication-b73aed34bbeb
+
+--- 
+
+## Working materials
+
+- Draft revisions to security documentation and guidance
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...

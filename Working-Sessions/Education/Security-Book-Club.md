@@ -6,10 +6,12 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   :
-status       : review-content
-when-day     : Eve
+status       : need more content
+when-day     : Tue
+when-time    : Eve
+location     : Villa-2
 organizers   :
-participants : Dinis Cruz,Bjoern Kimminich
+participants : Dinis Cruz
 ---
 
 Books are the best way to learn.
@@ -26,7 +28,7 @@ It's time to share them and have a group-wide 'book club' working session.
  - Participants to bring 3 books that changed their lives
  - Agree on top 5 or 10 security books to read (maybe create a couple of 'topics')
  
-## Definition of Done
+## Outcomes
 
 This Working Session will publish a list of the top 5 or 10 security books that everyone with an interest in security should read.
 
@@ -36,3 +38,13 @@ This Working Session will publish a list of the top 5 or 10 security books that 
 The target audience for this Working Session is:
 
  - Book lovers
+
+--- 
+
+## Working materials
+
+Draft list of the top 5 or 10 security books that everyone with an interest in security should read
+
+### Content
+
+... add content ...

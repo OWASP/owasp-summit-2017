@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : OWASP Risk Rating Management Project
 type         : workshop
 track        : Owasp Projects
-status       : done
+status       : Final stage
 when-day     : Fri
 when-time    : AM-1
 location     : Room-2
@@ -23,14 +23,14 @@ The OWASP Risk Rating Management Project will help owners/developers to avoid th
 
 ## What
 
-OWASP Risk Rating Management Project is a tool projects aim to educate user who want to assessment more than one or many web application using owasp risk rating mathodologies.
+OWASP Risk Rating Management Project is a tool aimed to educate the user who wants to assess more than one web application using OWASP risk rating mathodologies.
 
 Installation Guide
 
-Clone or download reporsitory from: https://github.com/mohammadfebrir/owasp-riskrating.git
-Save on your local htdocs (xampp/wampp) or /var/www/html/ (lammp)
-Install composer requirement
-Run in command: php artisan serve
+- Clone or download repository from: https://github.com/mohammadfebrir/owasp-riskrating.git
+- Save on your local htdocs (xampp/wampp) or /var/www/html/ (lammp)
+- Install composer requirement
+- Run in command: php artisan serve
 
 more details
 https://github.com/mohammadfebrir/owasp-riskrating
@@ -58,4 +58,14 @@ The target audience for this Working Session is:
 - Security consultants
 - Pen testers
 - Security analysts
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
 

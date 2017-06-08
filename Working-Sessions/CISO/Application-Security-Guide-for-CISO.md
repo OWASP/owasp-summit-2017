@@ -6,7 +6,7 @@ owasp-project: yes
 track        : CISO
 technology   :
 related-to   : CISO Survey
-status       : review-content
+status       : needs more content
 when-day     : Wed
 when-time    : PM-2
 location     : Room-4
@@ -37,9 +37,23 @@ The guide helps CISOs navigate through the many OWASP resources so they can deli
 - OWASP coding guides, testing guides, and application security testing tools, in addition to OWASP resources for training & awareness, can help software development and engineering teams implement security reviews of source code and vulnerability testing 
 - OWASP Top Ten, a powerful awareness document for web application security, that helps to manage web and mobile application vulnerability risks, including emerging technology risks (e.g. cloud security Software as a Service, web services), by communicating vulnerability risk exposure, in terms of possible impacts to the business such as loss of data confidentiality, integrity, and availability as well as impacts to customers in terms of estimates of monetary losses and reputational damage.
 
+## Outcomes
+
+...add content...
+
 ## Who
 
 The target audience for this Working Session is:
 
 - Information security professionals who are responsible for managing and delivering application security programs, including security in the SDLC (S-SDLC)
 - Information security officers in senior management roles, including technology managers/directors responsible for managing software and application security
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
