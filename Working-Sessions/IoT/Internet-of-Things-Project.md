@@ -9,6 +9,7 @@ status       : final stage; add content
 when-day     : Mon
 when-time    : PM-3
 location     : Room-1
+locked       : true
 organizers   : Daniel Miessler
 participants : Bjoern Kimminich
 ---
