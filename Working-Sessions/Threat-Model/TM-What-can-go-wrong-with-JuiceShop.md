@@ -5,7 +5,7 @@ type         : workshop
 track        : Threat Model
 technology   :
 related-to   : Juice Shop
-when-day     : Tue
+when-day     : Wed
 when-time    : Eve
 location     : Villa-4
 status       : Improve outcomes; need-working materials 
