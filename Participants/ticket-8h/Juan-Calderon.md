@@ -7,7 +7,7 @@ company         : Borealix
 travel-from     : Mexico
 image           : https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/7/000/1cf/3dc/0f72c04.jpg
 linkedin        : juancarloscalderon
-twiter          : johnccr
+twitter          : johnccr
 facebook        : juan.c.calderon.r
 website         : www.borealixsec.com
 email           : juan.calderon@owasp.org

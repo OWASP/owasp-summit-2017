@@ -11,7 +11,7 @@ organizers   : Dinis Cruz
 when-day     : Tue
 when-time    : PM-2
 location     : Room-4
-participants : Avi Douglen, Robert Morschel,Ade Yoseman Putra,Stuart Gunter
+participants : Avi Douglen, Robert Morschel,Ade Yoseman Putra,Stuart Gunter, Tiffany Long
 ---
 
 ## Why
@@ -30,9 +30,7 @@ This Working Session will focus on how to create an AppSec team, a difficult cha
  
 ## Outcomes 
 
-This Working Session will publish a document containing the following:
-
-... add content ...
+This Working Session will publish a document containing the above.
 
 ## Who
 

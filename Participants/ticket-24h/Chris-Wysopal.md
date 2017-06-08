@@ -7,7 +7,7 @@ company         : Veracode
 travel-from     : USA
 image           : https://pbs.twimg.com/profile_images/613065292709801985/LapqXdxh.jpg
 linkedin        :
-twiter          : WeldPond
+twitter          : WeldPond
 facebook        :
 website         :
 email           :

@@ -7,7 +7,7 @@ company         : Probe.ly
 travel-from     : Lisbon, Portugal
 image           : https://d1qb2nb5cznatu.cloudfront.net/users/5255426-large?1484909238
 linkedin        : nunoloureiro
-twiter          : nunoloureiro
+twitter          : nunoloureiro
 facebook        :
 website         :
 email           : nuno.owaspsummit@probe.ly

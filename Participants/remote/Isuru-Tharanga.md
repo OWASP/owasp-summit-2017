@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       : Information Security Engineer
 image           :
 linkedin        : isuru-tharanga-135498a3
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           : isuru_tharanga@outlook.com

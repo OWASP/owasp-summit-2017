@@ -7,7 +7,7 @@ company         : Adobe Systems Incorporated
 travel-from     : San Francisco
 image           :
 linkedin        :
-twiter          : peleusuhley
+twitter          : peleusuhley
 facebook        :
 website         :
 email           :

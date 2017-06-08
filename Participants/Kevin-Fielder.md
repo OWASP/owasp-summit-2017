@@ -7,7 +7,7 @@ company         :
 travel-from     :
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAePAAAAJDhmYmQ3M2NjLTAxMWUtNDdiYy1iOTUzLTgxNmVjMGNhYWEzNg.jpg
 linkedin        : kevinfielder
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

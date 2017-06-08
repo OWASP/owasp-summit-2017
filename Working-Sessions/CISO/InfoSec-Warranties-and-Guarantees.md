@@ -11,7 +11,7 @@ when-day     : Wed
 when-time    : PM-1
 location     : Room-4
 organizers   : Yan Kravchenko
-participants :
+participants : Tiffany Long
 ---
 
 ## Why
@@ -35,7 +35,7 @@ This Working Session will examine the need for InfoSec warranties and guarantees
  
 ## Outcomes
 
-...Add content...
+Suggested Outcome:  Recommendation of the issue or warranties and guarantees. 
 
 ## Who
 

@@ -6,7 +6,7 @@ job-title       : IT Security Instructor and Trainer
 company         : Piperevski & Associates
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAwZAAAAJDdmODc5ZDNhLTU2YTItNGM2Ny1iOGFmLTQyN2NlZWVmMGUxNQ.jpg
 linkedin        : mane-piperevski-93300110/
-twiter          : 
+twitter          :
 facebook        :
 website         : www.piperevski.c0m
 email           : mane.piperevski@owasp.org

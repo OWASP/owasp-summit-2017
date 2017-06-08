@@ -7,7 +7,7 @@ company          : U.S. Department of Homeland Security
 travel-from      : United States
 image            : https://pbs.twimg.com/profile_images/763151655135277056/PYPqyooG_400x400.jpg
 linkedin         : kevgreene
-twiter           : iamkevtorious
+twitter           : iamkevtorious
 facebook         :
 website          : https://continuousassurance.org/
 email            :

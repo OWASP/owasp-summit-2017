@@ -4,7 +4,7 @@ title        : Data behind Owasp Top 10 2017
 type         : workshop
 description  : Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
 track        : Owasp Top 10 2017
-status       : need target audience; need working materials
+status       : final stage; need-working materials
 when-day     : Mon
 when-time    : PM-3
 location     : Room-2
@@ -35,7 +35,8 @@ The Summit, and this Working Session, provide a perfect opportunity to allow the
 
 The target audience for this Working Session is:
 
-...Add content ...
+- OWASP Top 10 2017 Track participants
+- OWASP community
 
 ## References
 
@@ -58,7 +59,8 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Draft data set supporting the final Top 10 2017 mappings. (please add as much information as possible before the sessions)
+Draft data set supporting the final Top 10 2017 mappings. 
+(please add as much information as possible before the sessions)
 
 ### Content
 

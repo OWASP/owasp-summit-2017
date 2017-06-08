@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : TM - What to do about Juice Shop?
+title        : Hands on threat modeling - fixing juice shop
 type         : workshop
 owasp-project: no
 track        : Threat Model
@@ -11,7 +11,8 @@ when-time    : Eve
 location     : Villa-4
 status       : Improve outcomes; need-working materials
 organizers   :
-participants : Bjoern Kimminich
+participants :
+invited      : Bjoern Kimminich
 ---
 
 Get together to use the models of Juice Shop to find problems with it, learn threat modelling, and deliver examples.

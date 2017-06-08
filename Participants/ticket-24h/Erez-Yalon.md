@@ -7,7 +7,7 @@ company         : Checkmarx
 travel-from     : Israel
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJTAAAAJDQxNGRiMjJkLWJlMjYtNDM5YS05ZmIxLTNjN2I2MjFmODE5Ng.jpg
 linkedin        : erezyalon 
-twiter          : ErezYalon
+twitter          : ErezYalon
 facebook        :
 website         : https://www.linkedin.com/in/erezyalon/
 email           :

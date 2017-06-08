@@ -7,7 +7,7 @@ company         : Capital One
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

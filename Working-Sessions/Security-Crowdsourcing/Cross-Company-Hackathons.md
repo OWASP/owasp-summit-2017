@@ -31,7 +31,7 @@ A cross-company hackathon is a great way to create and develop a culture of coll
 - Rewards systems
 -	Where and how will the hackathon fit within the development lifecycle?
 
-## Definition of Done
+## Outcomes 
 
 - Playbook on cross-company hackathons
 
@@ -42,4 +42,15 @@ The target audience for this Working Session is:
 -	CISOs
 -	Developers
 -	Product managers
+
+--- 
+
+## Working materials
+
+- Draft playbook on cross-company hackathons
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...
 
