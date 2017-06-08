@@ -35,7 +35,8 @@ The Summit, and this Working Session, provide a perfect opportunity to allow the
 
 The target audience for this Working Session is:
 
-...Add content ...
+- OWASP Top 10 2017 Track participants
+- OWASP community
 
 ## References
 
