@@ -21,20 +21,31 @@ participants : Johan Peeters
 
 ## Why
 
-...why text...
+... Add content ...
 
 ## What
 
-...what text...
+... Add content ...
 
-## Definition of Done
+## Outcomes 
 
-...add text...
+... Add content ...
 
 ## Who
 
-... target audience ...
+... Add content ...
 
 ## Resources
 
  - http://langsec.org/
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
+
