@@ -22,20 +22,16 @@ This Working Session will discuss and agree on any open issues. The session will
 - New requirements
 - <List of specific issues to discuss?> 
 
-## Potential outcomes
+## Outcomes
 
+- Revised draft of OWASP CHapter Handbook
+- Cheat sheets for chapter leaders, new leaders, and new chapters
 - Clarifying responsibilities and accountabilities
-- Updated draft
 - One-page cheat sheets for:
     - chapter leaders 
     - new leaders 
     - creating a new chapter
 - All outcomes are not final, and will serve as input for Foundation
-
-## Outcomes
-
-- Revised draft of OWASP CHapter Handbook
-- Cheat sheets for chapter leaders, new leaders, and new chapters
 
 ## Who
 
