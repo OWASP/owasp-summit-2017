@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : Juice Shop
 type         : workshop
-track        : Owasp Projects
+track        : Juice Shop
 technology   : Node
 description  : Brainstorming and designing new hacking challenges and other features for OWASP Juice Shop and its CTF-extension.
 status       : Final stage
