@@ -7,7 +7,7 @@ company         : DefenseCode
 travel-from     : Croatia
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/261/145/077bb20.jpg
 linkedin        : leon-juranic-90509b17
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

@@ -7,7 +7,7 @@ company         : Google India
 travel-from     : India
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

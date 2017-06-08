@@ -7,7 +7,7 @@ company         : PhotoBox Group
 travel-from     : London
 image           : https://2.bp.blogspot.com/-U8ktOqKw_8o/WQC-fiHBEDI/AAAAAAAHErU/nHVnU3JkEH8W-fTRcvDjx3daIRIYsRu9wCK4B/s113/Me.JPG
 linkedin        : anders-reeves-672617/
-twiter          : AndersReeves
+twitter          : AndersReeves
 facebook        :
 website         : http://blog.andersreeves.com/
 email           : me@andersreeves.com

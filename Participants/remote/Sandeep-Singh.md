@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           : sandeep.singh@owasp.org

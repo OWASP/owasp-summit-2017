@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : TM - What can go wrong with Juice Shop?
+title        : Hands on threat modeling - attacking juice shop
 type         : workshop
 track        : Threat Model
 technology   :

@@ -1,17 +1,17 @@
 ---
 layout       : blocks/working-session
-title        : Hands on threat modeling: Juice Shop (1)
+title        : Hands on Threat Modeling Juice Shop (ABC)
 type         : workshop
 track        : Threat Model
 technology   :
 related-to   : Juice Shop
 when-day     : Tue
-when-time    : Eve
+when-time    : PM3
 location     : Villa-4
 status       : Improve outcomes; need-working materials
-organizers   :
+organizers   : Adam Shostack,Bjoern Kimminich
 participants :
-invited      : Bjoern Kimminich
+invited      :
 ---
 
 Get together to create models (diagrams) of Juice Shop to help us find problems with it, learn threat modelling, and deliver examples.  This is all about answering the question of what Juice Shop is and building models of it.
@@ -24,6 +24,7 @@ Dinis proposed a set of evening sessions to create threat model artefacts & exam
 
 - Create models/diagrams that show various aspects of Juice Shop (Model 1: What's the app?, model 2: How does it get deployed?, Model 3: How is it "developed and maintained"? etc.) 
 - Apply various techniques to answer the question "what are we working on?"
+- Through the course of the day, we will look at various ways to slice and model Juice Shop, with a goal of being aligned with other sessions, so you can pop in for a part of the day, and learn a bit of threat modeling.
 
 ## Outcomes
 

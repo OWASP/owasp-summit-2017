@@ -7,7 +7,7 @@ company         : WorldPay
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

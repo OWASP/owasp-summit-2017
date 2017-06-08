@@ -15,7 +15,7 @@ company         :
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 project-leader  :
 chapter-leader  :

@@ -15,7 +15,7 @@ required-funds  : 1500
 travel-from     : United Kingdom
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAALqAAAAJGU0MGY3ZmY5LTY5ZjktNDM2MC1iMzIxLWE4YWY5MjJiOTNiNA.jpg
 linkedin        : jemma-davis-smith-6a562792
-twiter          :
+twitter          :
 facebook        :
 website         : http://www.jemarketing.co.uk/
 email           :

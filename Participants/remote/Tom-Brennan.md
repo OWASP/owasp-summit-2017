@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       : Director, McAfee
 image           : https://www.owasp.org/images/thumb/a/a4/Brennan-press.jpg/300px-Brennan-press.jpg
 linkedin        : tombrennan
-twiter          : brennantom
+twitter          : brennantom
 facebook        :
 status          : done
 working sessions:
