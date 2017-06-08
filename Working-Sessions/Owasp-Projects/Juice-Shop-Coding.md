@@ -1,9 +1,10 @@
 ---
 layout       : blocks/working-session
-title        : Juice Shop Challenge Pack Coding
+title        : Juice Shop Hands-on-coding
 type         : workshop
 track        : Owasp Projects
 technology   : Node
+related-to   : Juice Shop
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 status       : Final stage
 organizers   : Bjoern Kimminich
@@ -35,7 +36,6 @@ and other functional enhancements to the web application & CTF-extension
 identified in the [Juice Shop](Juice-Shop.md) session!
 
 ![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
-![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
 
 ## Outcomes
 

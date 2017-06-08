@@ -7,9 +7,9 @@ track          : Education
 technology     :
 related-to     : Juice Shop,NodeGoat,Webgoat
 status         : final stage 
-when-day       : Tue
-when-time      : PM-1
-location       : Room-6
+when-day       : Wed
+when-time      : PM-2
+location       : Room-2
 organizers     : Bjoern Kimminich
 participants   : Robert Morschel, Timo Pagel, Stuart Gunter, Tiffany Long
 ---
