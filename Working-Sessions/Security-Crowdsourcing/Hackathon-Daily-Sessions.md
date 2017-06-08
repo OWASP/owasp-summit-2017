@@ -4,13 +4,14 @@ title        : Hackathon Daily Sessions
 type         : workshop
 track        : Security Crowdsourcing
 technology   :
-related-to   : Juice Shop,O-Saft,OWASP Bug Bounty
+related-to   : Juice Shop,O-Saft,OWASP Bug Bounty,ZAP
 status       : draft
 when-day     : Mon,Tue,Wed,Thu
 when-time    : Eve
 location     : Villa-3
 organizers   : Leon Juranic,Bjoern Kimminich
 participants :
+invited      : Achim Hoffmann, Simon Bennetts
 ---
 
 ## Why
