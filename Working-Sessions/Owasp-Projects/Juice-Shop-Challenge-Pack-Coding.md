@@ -35,7 +35,6 @@ and other functional enhancements to the web application & CTF-extension
 identified in the [Juice Shop](Juice-Shop.md) session!
 
 ![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
-![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
 
 ## Outcomes
 
