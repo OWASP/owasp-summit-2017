@@ -9,6 +9,7 @@ when-time    : PM-1,PM-2
 location     : Room-5
 organizers   : Devesh Bhatt
 participants : Francois Raynaud
+locked       : true
 invited      : Dinis Cruz, Sam Houston, Josh Armour
 ---
 
