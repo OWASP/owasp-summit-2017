@@ -3,8 +3,8 @@ layout          : blocks/page-participant
 title           : Jemma Davis
 type            : participant
 role            : Summit Event Manager
-job-title       :
-company         :
+job-title       : Summit Event Manager
+company         : OWASP
 expenses        : owasp
 funded          : yes
 funded-who      : Summit Budget
