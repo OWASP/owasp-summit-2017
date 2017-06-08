@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : TM - What to do about Juice Shop?
+title        : Hands on threat modeling - fixing juice shop
 type         : workshop
 owasp-project: no
 track        : Threat Model
