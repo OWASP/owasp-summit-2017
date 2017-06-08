@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Juice Shop
+title        : Juice Shop Brainstorming
 type         : workshop
 track        : Juice Shop
 technology   : Node
@@ -34,7 +34,7 @@ the
 [Challenge Pack 2017](https://github.com/bkimminich/juice-shop/milestone/3)
 milestone on GitHub. In this working session we will brainstorm & design many of the existing - and hopefully several entirely
 new - challenges that we will be implemented by on-site and remote particpants in the [Juice Shop Challenge Pack
-Coding](Juice-Shop-Coding.md) evening sessions. Production release is planned for the final day of the summit in the [Juice Shop v3.3 Release](Juice-Shop-Release.md) session.
+Coding](Juice-Shop-Coding-Night.md) evening sessions. Production release is planned for the final day of the summit in the [Juice Shop v3.3 Release](Juice-Shop-Release.md) session.
 
 ![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
 
