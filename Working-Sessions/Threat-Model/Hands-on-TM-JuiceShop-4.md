@@ -1,12 +1,12 @@
 ---
 layout       : blocks/working-session
-title        : Hands on Threat Modeling Juice Shop (ABC)
+title        : Hands on Threat Modeling Juice Shop (topic 4)
 type         : workshop
 track        : Threat Model
 technology   :
 related-to   : Juice Shop
 when-day     : Tue
-when-time    : PM3
+when-time    : PM-3
 location     : Villa-4
 status       : Improve outcomes; need-working materials
 organizers   : Adam Shostack,Bjoern Kimminich
