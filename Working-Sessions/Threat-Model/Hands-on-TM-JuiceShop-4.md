@@ -6,7 +6,7 @@ track        : Threat Model
 technology   :
 related-to   : Juice Shop
 when-day     : Tue
-when-time    : PM3
+when-time    : PM-3
 location     : Villa-4
 status       : Improve outcomes; need-working materials
 organizers   : Adam Shostack,Bjoern Kimminich
