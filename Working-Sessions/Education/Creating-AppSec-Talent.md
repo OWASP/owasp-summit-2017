@@ -10,7 +10,7 @@ status       : missing Outcomes; missing Working material
 when-day     : Tue
 when-time    : AM-1
 location     : Room-4
-participants :
+participants : Tiffany Long
 organizers   :
 ---
 
@@ -20,16 +20,19 @@ Given the massive skills shortage in the AppSec industry, we need innovative sol
 
 ## What
 
+ - Identify gaps in our current meta staffing for AppSec.
  - How to scale AppSec training
  - The Role of security champions in creating the next generation of security professionals
- - Which industries should we approach to promote the idea of becoming security professionals (Developers, engineers, craftsman, AI specialists, lawyers)?
- - What can be done at university level?
- - What can be done at college level?
+ - Define audinces for future security professionals: Which industries should we approach to promote the idea of becoming security professionals (Developers, engineers, craftsman, AI specialists, lawyers)? What level of carreer should we try to capture (early/mid/advanced)? 
+ - What is the role of early carrerists?
+ - What can be done at university/college level?
+ - Should we capture folks attending bootcamps and other non-traditional educational pathways?
  - 'Ethical Hacking' and 'Bug Bounties' have a tool to excite new members
+ - How should OWASP work to reach these people
  
 ## Outcomes 
+- Road map for reaching new AppSec Professionals.
 
-... add content ...
 
 ## Who
 
