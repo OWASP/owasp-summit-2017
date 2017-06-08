@@ -11,7 +11,7 @@ when-day       : Wed
 when-time      : PM-3
 location       : Room-2
 organizers     : Timo Pagel
-participants   : Bjoern Kimminich
+participants   : Bjoern Kimminich, Tiffany Long
 ---
 
 ## Why
