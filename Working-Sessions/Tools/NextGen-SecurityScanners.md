@@ -8,7 +8,7 @@ when-day     : Thu
 when-time    : PM-2
 location     : Room-5
 organizers   :
-participants : Marc Rimbau,Johan Peeters
+participants : Johan Peeters
 invited      : Simon Bennetts
 ---
 
