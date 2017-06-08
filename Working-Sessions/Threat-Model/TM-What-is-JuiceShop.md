@@ -13,7 +13,7 @@ organizers   :
 participants :
 ---
 
-Get together to create models (diagrams) of Juiceshop to help us find problems with it, learn threat modelling, and deliver examples.
+Get together to create models (diagrams) of Juice Shop to help us find problems with it, learn threat modelling, and deliver examples.
 
 ## Why
 
