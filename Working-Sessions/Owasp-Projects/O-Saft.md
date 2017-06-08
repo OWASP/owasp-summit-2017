@@ -11,7 +11,7 @@ when-day     : Tue
 when-time    : PM-1
 location     : Room-1
 organizers   : Achim Hoffmann
-participants : Marc Rimbau, Ingo Hanke, Bjoern Kimminich
+participants : Marc Rimbau, Ingo Hanke
 ---
 
 [OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related configurations, behaviours and vulnerabilities.
