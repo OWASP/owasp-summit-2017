@@ -7,7 +7,7 @@ track        : DevSecOps
 technology   :
 related-to   :
 status       : draft
-when-day     : Thu
+when-day     : Wed
 when-time    : PM-1
 location     : Room-6
 organizers   : Dicky Stafford
