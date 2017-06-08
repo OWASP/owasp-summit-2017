@@ -10,7 +10,7 @@ when-day     : Fri
 when-time    : AM-1
 location     : Room-3
 organizers   : Johan Peeters
-participants : Marc Rimbau,Dinis Cruz,Robert Morschel
+participants : Dinis Cruz, Robert Morschel
 ---
 
 ## Why

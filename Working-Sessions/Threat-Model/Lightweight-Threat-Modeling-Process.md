@@ -8,7 +8,7 @@ when-day     : Wed
 when-time    : PM-1
 location     : Room-6
 organizers   : Geoff Hill
-participants : Marc Rimbau,Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin
+participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin
 ---
 
 ## Why

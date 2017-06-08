@@ -9,7 +9,7 @@ when-day     : Mon
 when-time    : PM-3
 location     : Villa-1
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
 ---
 
 SAMM core model update sessions. Review and improve the 12 SAMM practices towards SAMM v2.0 draft (based on the notes of last year's summit and the SAMM calls).
