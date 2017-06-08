@@ -35,7 +35,7 @@ This Working Session will examine the need for InfoSec warranties and guarantees
  
 ## Outcomes
 
-Suggested Outcome:  Recommendation of the issue or warrentiees and gaurentees. 
+Suggested Outcome:  Recommendation of the issue or warranties and guarantees. 
 
 ## Who
 
