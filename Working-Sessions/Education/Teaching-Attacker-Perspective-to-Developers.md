@@ -8,8 +8,8 @@ technology     :
 related-to     : Juice Shop,NodeGoat,Webgoat
 status         : final stage 
 when-day       : Tue
-when-time      : Eve
-location       : Villa-3
+when-time      : PM-1
+location       : Room-6
 organizers     : Bjoern Kimminich
 participants   : Robert Morschel, Timo Pagel, Stuart Gunter, Tiffany Long
 ---
@@ -39,7 +39,8 @@ and services used in practical developer security training sessions.
 - Run-through of open source tools (like WebGoat, Security Shepherd,
   Juice Shop)
 - Are vendor demo applications (like AltoroMutual) an option?
-- What (if any) tools for pentesting (like (ZAP or Burp) do you recommend or use in dev trainings?
+- What (if any) tools for pentesting (like (ZAP or Burp) do you
+  recommend or use in dev trainings?
 
 ## Outcomes
 
@@ -70,7 +71,10 @@ The target audience for this Working Session is:
 
 #### Best Practice
 
-* ...
+* **Timebox your exercises** - When giving students a (hacking) exercise
+  make sure they know how much time they have for it. At the end of the
+  timebox show the solution to the exercise live on the video projector
+  so everyone sees it at least once.
 
 #### Antipatterns / Pitfalls
 
@@ -80,4 +84,8 @@ The target audience for this Working Session is:
 * **Toy Overkill** - Overwhelm students with a myriad of different
   pentesting & hacking tools during a developer training. Worst case:
   Let them use _Kali Linux_ right from the start.
-* ...
+* **Think like an attacker** -
+  <https://adam.shostack.org/blog/2016/04/think-like-an-attacker-is-an-opt-in-mistake/>
+* **Time Cheater** - Go overtime with your _frontal lecture_ part and
+  try to make up for it by a) skipping or b) cutting the far more
+  interesting _exercises and demos_.

@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : need-more content
 when-day     : Mon
-when-time    : PM-1
+when-time    : PM-3
 location     : Room-6
 organizers   :
 participants :
