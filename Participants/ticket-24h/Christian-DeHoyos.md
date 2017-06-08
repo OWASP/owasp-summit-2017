@@ -7,7 +7,7 @@ company         : OWASP San Francisco
 travel-from     : United States
 image           : https://pbs.twimg.com/profile_images/844430776783523840/xHcvN0MX.jpg
 linkedin        : cdehoyos
-twiter          : therealdeho
+twitter          : therealdeho
 facebook        :
 website         : 
 email           : christian.dehoyos@owasp.org

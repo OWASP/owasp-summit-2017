@@ -8,7 +8,7 @@ company         : Capital One
 travel-from     : St Albans, UK
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZTAAAAJGZkODVlMTQ4LTdlNWQtNDk0OC04NzYxLTY2ODliNjEwNGVlZQ.jpg
 linkedin        : zeroxten
-twiter          : zeroXten
+twitter          : zeroXten
 facebook        :
 ticket          : 5x8h
 status          : done

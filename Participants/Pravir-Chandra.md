@@ -7,7 +7,7 @@ company         : Bloomberg LP
 travel-from     : United States
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/03b/044/2f12eb5.jpg
 linkedin        : pravirchandra
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

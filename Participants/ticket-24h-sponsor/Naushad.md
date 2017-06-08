@@ -7,7 +7,7 @@ company         : PhotoBox Group
 travel-from     : London
 image           : https://pbs.twimg.com/profile_images/787041481576112129/prX7KmUZ_400x400.jpg
 linkedin        : DrNaushad
-twiter          : https://twitter.com/Naushad_IT
+twitter          : https://twitter.com/Naushad_IT
 facebook        :
 website         : https://www.naushad.co.uk/
 email           : hello@naushad.co.uk

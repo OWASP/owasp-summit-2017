@@ -7,7 +7,7 @@ company         : Simply Business
 travel-from     : London
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

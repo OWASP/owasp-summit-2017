@@ -14,7 +14,7 @@ funded-amount   : 1500
 required-funds  : 1500
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

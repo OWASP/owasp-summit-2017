@@ -7,7 +7,7 @@ company         : Oracle
 travel-from     : London
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/04a/086/1c3ff3d.jpg
 linkedin        : adamlobrien
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

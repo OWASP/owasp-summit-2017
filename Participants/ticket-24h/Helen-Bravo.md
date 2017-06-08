@@ -7,7 +7,7 @@ company         : Checkmarx
 travel-from     : Israel
 image           : http://a4.res.cloudinary.com/allamerican/image/fetch/t_face_s270/http://speakerdata2.s3.amazonaws.com/photo/image/839226/SnowFROC2013_Bravo.jpg
 linkedin        : 
-twiter          : 
+twitter          :
 facebook        :
 website         : 
 email           :

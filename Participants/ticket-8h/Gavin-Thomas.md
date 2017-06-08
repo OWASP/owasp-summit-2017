@@ -7,7 +7,7 @@ company         : Microsoft
 travel-from     : Cheltenham, Glos, UK.
 image           : https://pbs.twimg.com/profile_images/854023187348152320/bIf80FIE_400x400.jpg
 linkedin        : 
-twiter          : MSFTSecResponse
+twitter          : MSFTSecResponse
 facebook        :
 website         : https://blogs.technet.microsoft.com/msrc/
 email           : Gavin.Thomas@Microsoft.com

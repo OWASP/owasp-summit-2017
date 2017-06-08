@@ -7,7 +7,7 @@ company         : Oracle
 travel-from     : United States
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/099/07d/3f2f46f.jpg
 linkedin        : pilipchuk
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

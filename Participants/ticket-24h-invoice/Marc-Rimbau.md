@@ -7,7 +7,7 @@ company         : Axa Assistance
 travel-from     : Spain
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 funded-who      : self
 status          : working-sessions mappings

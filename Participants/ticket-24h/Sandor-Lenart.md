@@ -7,7 +7,7 @@ company         : Endava
 travel-from     : Romania
 image           :
 linkedin        : sandor-lenart-5bb3a320
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

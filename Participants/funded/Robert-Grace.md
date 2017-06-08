@@ -15,10 +15,10 @@ required-funds  : 1500
 travel-from     : Germany
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAknAAAAJGRjYjM4YTAwLWI0OTAtNDg3Ny1iMGMxLWQwOTZmNTNlNzRkYg.jpg
 linkedin        : r-grace
-twiter          : robertgracesa1
+twitter          : robertgracesa1
 facebook        :
-website         : robert.grace.sa@gmail.com
-email           :
+website         :
+email           : robert.grace.sa@gmail.com
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h

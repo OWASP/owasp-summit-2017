@@ -7,7 +7,7 @@ company         :
 travel-from     : Cheltenham
 image           : http://rtfc.org.uk/kev.jpg
 linkedin        :
-twiter          : kevsheldrake
+twitter          : kevsheldrake
 facebook        :
 website         : http://rtfc.org.uk/
 email           : rtfcode (gmail.com)
