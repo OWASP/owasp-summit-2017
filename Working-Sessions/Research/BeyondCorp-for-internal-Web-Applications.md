@@ -11,25 +11,25 @@ organizers   :
 participants :
 ---
 
-> Virtually every company today uses firewalls to enforce perimeter security. However, this security model is problematic because, when that perimeter is breached, an attacker has relatively easy access to a company’s privileged intranet. As companies adopt mobile and cloud technologies, the perimeter is becoming increasingly difficult to enforce. Google is taking a different approach to network security. We are removing the requirement for a privileged intranet and moving our corporate applications to the Internet.
+> Virtually every company today uses firewalls to enforce perimeter security. However, this security model is problematic because, when that perimeter is breached, an attacker has relatively easy access to a company’s privileged intranet. As companies adopt mobile and cloud technologies, the perimeter is becoming increasingly difficult to enforce. Google is taking a different approach to network security. OWASP is removing the requirement for a privileged intranet and we are moving our corporate applications to the Internet.
 
 (from https://research.google.com/pubs/pub43231.html)
 
 ## Why
 
-...why text...
+... Add content ...
 
 ## What
 
-...what text...
+... Add content ...
 
-## Definition of Done
+## Outcomes
 
-...add text...
+... Add content ...
 
 ## Who
 
-... target audience ...
+... Add content ...
 
 ## References
 
@@ -38,3 +38,13 @@ BeyondCorp: A New Approach to Enterprise Security
  - https://research.google.com/pubs/pub43231.html
  - https://research.google.com/pubs/archive/43231.pdf
  - https://cloud.google.com/beyondcorp/
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
