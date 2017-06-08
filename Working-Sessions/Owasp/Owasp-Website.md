@@ -14,7 +14,7 @@ As the Summit will have the highest concentration of OWASP Leaders and Contribut
 
 This kind of activity/transformation should be done and driven by OWASP Leaders and Contributors working together (vs buying a tool or hiring external services).
 
-_From a sponsorship/cost point of view this would cost between 10,000 and 15,000 (depending on flight costs), which I think would be a great investment for OWASP._
+_From a sponsorship/cost point of view this would cost between US$10,000 and US$15,000 (depending on flight costs), which I think would be a great investment for OWASP._
 
 ## What
 
