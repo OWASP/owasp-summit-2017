@@ -2,18 +2,18 @@
 layout          : blocks/page-participant
 title           : Mustafa Kasmani
 type            : participant
-job-title       :
+job-title       : Application Security Specialist
 company         : WorldPay
-travel-from     :
+travel-from     : London
 image           :
-linkedin        :
+linkedin        : 
 twiter          :
 facebook        :
 website         :
 email           :
 ticket          :
 status          : empty
-working-sessions:
+working-sessions: 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
