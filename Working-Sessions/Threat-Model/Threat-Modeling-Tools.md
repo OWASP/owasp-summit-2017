@@ -9,7 +9,7 @@ related-to   :
 status       : need-outcomes; need-working materials
 when-day     : Mon
 when-time    : PM-2
-location     : Room-6
+location     : Villa-4
 organizers   :
 participants : Geoff Hill, Irene Michlin, Robert Morschel, Mamta Vuppu, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindström, Christian Martorella
 ---
