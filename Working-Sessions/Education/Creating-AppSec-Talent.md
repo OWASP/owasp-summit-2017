@@ -6,7 +6,7 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
-status       : missing Outcomes; missing Working material
+status       : need-working materials
 when-day     : Tue
 when-time    : AM-1
 location     : Room-4
@@ -23,16 +23,15 @@ Given the massive skills shortage in the AppSec industry, we need innovative sol
  - Identify gaps in our current meta staffing for AppSec.
  - How to scale AppSec training
  - The Role of security champions in creating the next generation of security professionals
- - Define audinces for future security professionals: Which industries should we approach to promote the idea of becoming security professionals (Developers, engineers, craftsman, AI specialists, lawyers)? What level of carreer should we try to capture (early/mid/advanced)? 
- - What is the role of early carrerists?
+ - Define audiences for future security professionals: Which industries should we approach to promote the idea of becoming security professionals (Developers, engineers, craftsmen, AI specialists, lawyers)? What level of career should we try to capture (early/mid/advanced)? 
+ - What is the role of early careerists?
  - What can be done at university/college level?
- - Should we capture folks attending bootcamps and other non-traditional educational pathways?
- - 'Ethical Hacking' and 'Bug Bounties' have a tool to excite new members
- - How should OWASP work to reach these people
+ - Should we capture people attending bootcamps and other non-traditional educational pathways?
+   - 'Ethical Hacking' and 'Bug Bounties' have a tool to excite new members
+ - How should OWASP work to reach these people?
  
 ## Outcomes 
 - Road map for reaching new AppSec Professionals.
-
 
 ## Who
 
@@ -47,7 +46,8 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+- Draft roadmap 
+(please add as much information as possible before the sessions)
 
 ### Content
 
