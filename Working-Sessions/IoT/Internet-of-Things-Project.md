@@ -6,9 +6,9 @@ owasp-project: yes
 track        : Owasp Projects
 technology   : IoT
 status       : final stage; add content
-when-time    : PM-1
-location     : Room-3
-when-day     : Fri
+when-day     : Mon
+when-time    : PM-3
+location     : Room-1
 organizers   : Daniel Miessler
 participants : Bjoern Kimminich
 ---
