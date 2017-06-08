@@ -14,7 +14,7 @@ organizers   :
 participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu, Bjoern Kimminich, Tiffany Long
 
 organizers   : Irene Michlin
-participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu, Bjoern Kimminich
+participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu, Bjoern Kimminich, Tiffany Long
 ---
 
 ## Why
