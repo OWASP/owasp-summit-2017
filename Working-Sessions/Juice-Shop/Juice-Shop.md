@@ -10,7 +10,7 @@ organizers   : Bjoern Kimminich
 when-day     : Mon
 when-time    : PM-3
 location     : Villa-5
-participants : Dinis Cruz,Ingo Hanke,Ade Yoseman Putra,Timo Pagel, Francois Raynaud
+participants : Dinis Cruz,Ade Yoseman Putra,Timo Pagel, Francois Raynaud
 invited      : Josh Grossman
 ---
 
