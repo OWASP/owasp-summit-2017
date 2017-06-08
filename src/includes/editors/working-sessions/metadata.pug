@@ -1,0 +1,75 @@
+mixin status
+    | {% case metadata.status %}
+    | {% when 'draft' %}
+    .label.label-primary {{ metadata.status }}
+    | {% when 'done' %}
+    .label.label-success done
+    | {% when 'empty' %}
+    .label.label-danger empty
+    | {% else %}
+    .label.label-default {{ metadata.status }}
+    | {% endcase %}
+
+//mixin actions
+//    a(href='{{ page.url }}' target='_blank') view
+//    a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+
+//mixin add-technologies
+    | {% if metadata.technology != null %}
+    |   {% assign technologies = page.technology | split: ',' %}
+    |   {% for technology in technologies %}
+    |   {% assign match = site.pages | where: 'title', technology %}
+    |   {% if match[0] %}
+    a(href='{{match[0].url}}') {{ match[0].title }}
+    |   {% else %}
+    span.no-technology {{ technology }}
+    |   {% endif %}
+    |   {% if forloop.last != true %}
+    span ,
+    |   {% endif %}
+    |   {% endfor %}
+    | {% endif %}
+
+.participants-table
+
+    h1 Working Session's - Metadata
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p Here are all Working Session's metadata. Summit Editors should make sure that all all Working Sessions have mapped their contact information and content
+    table.table.table-striped
+        thead
+            th #
+            th name (title)
+            th
+            th track
+            th topics
+            th organizers
+            th participants
+            th panelist
+            th invited
+            th status
+        | {% assign working-sessions = site.data.mapped.working-sessions| where_exp: 'item','item.metadata.type == "workshop"' %}
+
+        | {% for working-session in working-sessions  %}
+        | {% assign metadata = working-session.metadata      %}
+        tr
+            td.text-center {{ forloop.index }}
+            td
+                a(href='{{working-session.url}}' target='_blank') {{ working-session.name }}
+            td
+                a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ working-session.url | replace: '.html','.md' }}" target='_blank') edit
+            td
+                a(href="/Working-Sessions/{{ metadata.track | replace: ' ', '-'}}" target='_blank') {{ metadata.track }}
+            //td
+                + add-technologies
+            td {{ metadata.technology   | join: ', '}}
+            td {{ metadata.organizers   | join: ', '}}
+            td {{ metadata.participants | join: ', '}}
+            td {{ metadata.panelists    | join: ', '}}
+            td {{ metadata.invited      | join: ', '}}
+            td.text-center
+                + status
+
+        | {% endfor %}
+
+

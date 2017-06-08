@@ -1,0 +1,71 @@
+mixin status
+    | {% case working-session.metadata.status %}
+    | {% when 'draft' %}
+    .label.label-primary {{ working-session.metadata.status }}
+    | {% when 'done' %}
+    .label.label-success done
+    | {% when 'empty' %}
+    .label.label-danger empty
+    | {% else %}
+    .label.label-default {{ working-session.metadata.status }}
+    | {% endcase %}
+
+mixin actions
+    a(href='{{ page.url }}' target='_blank') view
+    a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+
+//mixin add-technologies
+//    | {% if page.technology != null %}
+//    |   {% assign technologies = page.technology | split: ',' %}
+//    |   {% for technology in technologies %}
+//    |   {% assign match = site.pages | where: 'title', technology %}
+//    |   {% if match[0] %}
+//    a(href='{{match[0].url}}') {{ match[0].title }}
+//    |   {% else %}
+//    span.no-technology {{ technology }}
+//    |   {% endif %}
+//    |   {% if forloop.last != true %}
+//    span ,
+//    |   {% endif %}
+//    |   {% endfor %}
+//    | {% endif %}
+
+.participants-table
+    | {% assign working-sessions = site.data.mapped.working-sessions | where_exp: 'item','item.metadata.type == "workshop"' | where_exp: 'item','item.metadata.organizers.size == 0 '%}
+
+    | {% assign workshops = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.organizers == null'%}
+
+    h1 Working Session's - With NO Organizers
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p.
+        These Working Sessions current have NO organizer and the content still needs some work. if you are interested in this topic,
+        please sign-up as one of the organizers! This could be a great career opportunity to show your talent, skills and professionalism.
+    table.table.table-striped
+        thead
+            th #
+            th name (title)
+            th
+            th track
+            th technologies
+            th participants
+            th status
+        | {% for working-session in working-sessions%}
+        tr
+            td.text-center {{ forloop.index }}
+            td
+                a(href='{{working-session.url}}' target='_blank') {{ working-session.name }}
+            td
+                a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ working-session.url | replace: '.html', '.md' }}" target='_blank') edit
+            td
+                a(href="/Working-Sessions/{{ working-session.metadata.track | replace: ' ', '-'}}" target='_blank') {{ working-session.metadata..track }}
+            //td
+                + add-technologies
+            td {{ working-session.metadata.technology }}
+            td {{ working-session.metadata.participants | join: ' , ' }}
+            td.text-center
+                + status
+
+        | {% endfor %}
+
+

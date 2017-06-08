@@ -1,0 +1,20 @@
+include ../mixins/users.jade
+include ../mixins/working-session.jade
+
+| {% assign data           = site.data.mapped.tracks[page.title]                        %}
+
+.working-session
+    .container
+        h1 {{ page.title }}  (Track)
+        p {{ page.description }}
+        + show-organizers
+        br
+        + show-participants
+        br
+        | {% include schedule/track.html %}
+        + show-related-to
+        | {{ content }}
+        br
+        hr
+        p Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a>
+        p Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>

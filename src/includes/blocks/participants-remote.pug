@@ -1,0 +1,11 @@
+include ../mixins/participant
+
+.participants
+    .container
+        | {{ content }}
+
+        hr
+
+        h4 Current list of remote participants
+        | {% assign type = 'participant-remote'               %}
+        + show-participants

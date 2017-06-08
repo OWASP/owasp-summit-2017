@@ -1,0 +1,30 @@
+mixin show-participants
+    .row
+        | {% for item in site.data.mapped.participants  %}
+        | {% assign participant = item[1]               %}
+        | {% assign metadata    = item[1].metadata      %}
+        | {%    if metadata.type == type                %}
+        .col-xs-4.col-sm-2
+            +participant()
+        | {%    endif                                   %}
+        | {% endfor                                     %}
+
+
+mixin participant
+    .card
+        a(href='{{participant.url}}')
+            .card-top
+                | {% if metadata.image != '' and metadata.image != null %}
+                img.img-fluid(src='{{metadata.image}}' alt='{{metadata.title | truncate: 40}}')
+                | {% else %}
+                img.img-fluid(src='/website/assets/img/blocks/400x400.png' alt='400x400 placeholder')
+                | {% endif %}
+        .card-block
+            a(href='{{participant.url}}')
+                p.participant-name {{ metadata.title | truncate: 40 }}
+                p.participant-title
+                    | {% if metadata.job-title != null %}
+                    | {{metadata.job-title | truncate: 30}}
+                    | {% else %}
+                    | ...
+                    | {% endif %}

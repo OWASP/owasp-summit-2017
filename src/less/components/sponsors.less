@@ -1,0 +1,65 @@
+@import '../variables.less';
+
+.set-sizes(@top-size, @text-size, @top-padding) {
+  .card {
+    .card-top {
+      min-height   : ~"@{top-size}px";
+      padding-top  : ~"@{top-padding}px";
+      .font-size(@text-size)
+    }
+  }
+}
+
+@media screen             {   .set-sizes(130, 25, 25); }
+@media(max-width: 890px ) {   .set-sizes(120, 20, 20); }
+@media(max-width: 650px ) {   .set-sizes(90 , 20, 20); }
+@media(max-width: 510px ) {   .set-sizes(80 , 14, 20); }
+
+
+.sponsors {
+  background: #f9f9f9;
+  //h1 {
+  //  padding-bottom: 20px;
+  //  text-transform  : uppercase;
+  //}
+  h2 {
+    text-transform  : uppercase;
+  }
+  .container {
+
+    //padding-top:50px;
+    padding-bottom: 50px;
+
+
+  }
+
+  .card {
+    background-color: white;
+    .card-top {
+      vertical-align: center;  // todo: this is not working
+      text-align    : center;
+      font-family   :'Oswald';
+
+      img { width   : 90%; }
+    }
+
+    .card-block {
+      background      : #88b949;
+      backgound-color : #88b949;
+      color           : white;
+      text-align      : center;
+    }
+  }
+}
+
+.sponsorship-options
+{
+  background: #f9f9f9;
+  h1 {
+    padding-bottom: 20px;
+    text-transform  : uppercase;
+  }
+  h2 {
+    text-transform  : uppercase;
+  }
+}

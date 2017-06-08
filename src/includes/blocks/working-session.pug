@@ -1,0 +1,53 @@
+include ../mixins/users.jade
+include ../mixins/working-session.jade
+
+| {% assign data = site.data.mapped.working-sessions[page.title]   %}
+
+mixin show-track
+    | {% if page.track != null %}
+    b Track: &#32;
+    a(href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}") {{ page.track }}
+    | {% endif %}
+    br
+
+mixin show-owasp-project
+    | {% if page.owasp-project and page.track != 'Project Summit' %}
+    b Part of the &#32;
+    a(href='/Working-Sessions/Project-Summit') OWASP Project Summit
+    | {% endif %}
+    br
+
+mixin show-when-day
+    b When: &#32;
+    a(href='/pages/schedule/by-track/{{data.metadata.when-day}}.html') {{data.metadata.when-day}}
+    br
+
+mixin show-when-time
+    b Time: {{ data.metadata.when-time }}
+    br
+
+mixin show-location
+    b Location: {{ data.metadata.location  }}
+    br
+
+.working-session
+    .container
+        h1 {{ page.title }}
+        .ws-metadata
+            + show-track
+            + show-topics
+            + show-organizers
+            + show-panelists
+            + show-participants
+            + show-invites
+            + show-owasp-project
+            + show-when-day
+            + show-when-time
+            + show-location
+        hr
+        | {{ content }}
+        + show-related-to
+        br
+        hr
+        p Back to list of <a href='/website/working-sessions.html'>all Working Sessions and Tracks</a>
+        p Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>

@@ -1,0 +1,9 @@
+doctype html
+html
+    head
+        | {% include page/header.html             %}
+    body
+        | {% include page/menu.html               %}
+        block content
+        | {% include page/footer.html             %}
+        | {% include page/google-analytics.html   %}

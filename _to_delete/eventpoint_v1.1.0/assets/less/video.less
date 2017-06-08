@@ -1,0 +1,121 @@
+.lgx-video {
+  background: url('http://placehold.it/1920x721') center center no-repeat;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  color: #ffffff;
+  .lgx-inner {
+    background: -moz-linear-gradient(top,  rgba(46, 40, 65, 0.9) 0%, rgba(220, 78, 65, 0.8) 200%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left right, color-stop(0%,rgba(46, 40, 65, 0.8)), color-stop(100%,rgba(220, 78, 65, 0.95))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(46, 40, 65, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(46, 40, 65, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(46, 40, 65, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* IE10+ */
+    background: linear-gradient(to right,  rgba(46, 40, 65, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(59, 89, 153, 0.9)', endColorstr='rgba(220, 78, 65, 0.9)',GradientType=0 ); /* IE6-9 */
+    padding: 25.8rem 0;
+  }
+
+  .video-text {
+    text-align: center;
+    p {
+      .font-size(26);
+      font-weight: 300;
+      text-transform: uppercase;
+      span {
+        display: block;
+      }
+    }
+  }
+  .video-icon {
+    text-align: center;
+      .text {
+          margin-top: 1.6rem;
+          color: @white-color;
+          display: block;
+          .font-size(16);
+      }
+
+    a {
+      .bg-rgba(@white-color, 1);
+      height: 11rem;
+      width: 11rem;
+      display: inline-block;
+      color: @brand-color;
+      border-radius: 50%;
+      img {
+        padding-top: 14px;
+        padding-left: 10px;;
+      }
+
+    }
+    &:hover {
+      a {
+        .bg-rgba(@white-color, 1);
+        img {
+          -webkit-animation-name: zoomIn;
+          animation-name: zoomIn;
+          -webkit-transform-origin: center;
+          transform-origin: center;
+          animation-duration: 600ms;
+          animation-timing-function: linear;
+        }
+      }
+    }
+  }
+  .lgx-modal {
+    .bg-rgba(@black-color, 0.8);
+    .modal-dialog {
+      background: transparent;
+      box-shadow: none;
+      width: 100%;
+      .modal-content {
+        background: transparent;
+        box-shadow: none;
+        border: 0;
+        width: 100%;
+        .modal-header {
+          border-bottom: 0;
+          .close {
+            margin-top: -36px;
+            font-size: 30px;
+            color: @white-color;
+            padding: 7px 14px 8px;
+            border-radius: 50%;
+            opacity: .8;
+            -webkit-transition: all 0.2s ease-in-out 0s;
+            -moz-transition: all 0.2s ease-in-out 0s;
+            -ms-transition: all 0.2s ease-in-out 0s;
+            -o-transition: all 0.2s ease-in-out 0s;
+            transition: all 0.2s ease-in-out 0s;
+            &:hover {
+              opacity: 1;
+            }
+          }
+        }
+        .modal-body {
+          width: 70%;
+          margin: 0 auto;
+          background: @black-color;
+          iframe {
+            width: 100%;
+            height: 650px;
+            border: 0;
+          }
+        }
+      }
+    }
+  }
+}
+
+.lgx-video-slider {
+  .lgx-inner {
+    background: -moz-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%, rgba(220, 78, 65, 0.8) 200%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left right, color-stop(0%,rgba(46, 52, 57, 0.8)), color-stop(100%,rgba(220, 78, 65, 0.95))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* IE10+ */
+    background: linear-gradient(to right,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(46, 52, 57, 0.9)', endColorstr='rgba(220, 78, 65, 0.9)',GradientType=0 ); /* IE6-9 */
+  }
+}

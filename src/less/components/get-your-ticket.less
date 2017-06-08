@@ -1,0 +1,82 @@
+@import '../variables.less';
+
+
+.set-sizes(@padding, @height, @title, @ticket, @price, @currency, @duration, @item) {
+
+  .get-your-ticket {
+    .ticket-box      { padding: ~"@{padding}px"; min-height: ~"@{height}px"; }
+    .title           {  .font-size(@title    ); }
+    .ticket-type     {  .font-size(@ticket   ); }
+    .price           {  .font-size(@price    ); }
+    .currency        {  .font-size(@currency ); }
+    .ticket-duration {  .font-size(@duration ); }
+    .glyphicon       {  .font-size(@item     ); }
+  }
+}
+
+@media screen            {   .set-sizes(40, 490, 45, 26, 45, 26, 22, 15);  }
+@media(max-width: 950px) {   .set-sizes(30, 460, 43, 22, 41, 24, 20, 15);  }
+@media(max-width: 840px) {   .set-sizes(20, 420, 41, 18, 37, 22, 17, 13);  }
+@media(max-width: 550px) {   .set-sizes( 5, 385, 39, 14, 33, 20, 14, 12);  }
+
+.get-your-ticket {
+  padding-top     : 20px;
+  padding-bottom  : 80px;
+  background      : white;
+
+  .title {
+    font-family     :'Oswald';
+    color           :#333333;
+    padding-bottom  : 50px;
+    text-transform  : uppercase;
+  }
+
+  .ticket-box
+  {
+    text-align    : center;
+    color         : white;
+  }
+  .green-box {
+    background-color                : #87BB40;
+    .price       { color            : #00549E;  }
+    .btn-primary { background-color : #00549E;  }   // change color of bootstrap button
+  }
+  .blue-box {
+    background-color                : #00549E;
+    .price       { color            : #87BB40; }
+    .btn-primary { background-color : #87BB40;  }   // change color of bootstrap button
+  }
+
+  .ticket-type {
+    font-family   :'Oswald';
+    text-transform: uppercase;
+  }
+  .price {
+    font-family:'Oswald';
+  }
+  .currency {
+    padding: 5px;
+  }
+  .ticket-duration {
+    padding-bottom: 40px;
+  }
+
+  .glyphicon-ok {
+    color         : white;
+    padding-bottom  : 20px;
+  }
+  .item {
+    color         : white;
+    padding-left  : 5px;
+    font-family   : 'Roboto Slab';
+  }
+  .buy-ticket {
+    font-family     :'Oswald';
+    padding-bottom  : 20px;
+    text-align      : center;
+    a {
+      text-transform: uppercase;
+      color         : white;
+    }
+  }
+}

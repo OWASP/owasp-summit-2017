@@ -1,0 +1,17 @@
+.row
+    .col-xs-0
+    .col-xs-12
+        h1 Tracks
+        p Here are the current Tracks (with multiple Working Sessions)
+    .col-xs-0
+.row
+    .col-xs-0
+    .col-xs-12
+        .row
+            | {% for track in site.data.mapped.tracks %}
+            .col-xs-4.col-sm-2
+                .ws-box
+                    .ws-title
+                        a(href="{{track[1].url}}") {{track[1].name | truncate: 45 }}
+            | {% endfor %}
+    .col-xs-0

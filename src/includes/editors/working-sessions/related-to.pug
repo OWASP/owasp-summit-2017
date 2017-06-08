@@ -1,0 +1,91 @@
+mixin status
+    | {% case page.status %}
+    | {% when 'draft' %}
+    .label.label-primary {{ page.status }}
+    | {% when 'done' %}
+    .label.label-success done
+    | {% when 'empty' %}
+    .label.label-danger empty
+    | {% else %}
+    .label.label-warning {{ page.status }}
+    | {% endcase %}
+
+mixin actions
+    a(href='{{ page.url }}' target='_blank') view
+    a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+
+mixin add-technologies
+    | {% if page.technology != null %}
+    |   {% assign technologies = page.technology | split: ',' %}
+    |   {% for technology in technologies %}
+    |   {% assign match = site.pages | where: 'title', technology %}
+    |   {% if match[0] %}
+    a(href='{{match[0].url}}') {{ match[0].title }}
+    |   {% else %}
+    span.no-technology {{ technology }}
+    |   {% endif %}
+    |   {% if forloop.last != true %}
+    span ,
+    |   {% endif %}
+    |   {% endfor %}
+    | {% endif %}
+
+mixin add-related-to
+    | {% assign match = site.pages | where_exp: 'item', 'item.related-to contains page.title' %}
+    | {% assign related-to = page.related-to    %}
+    | {%  for working-session in match  %}
+    |       {% assign related-to = related-to | append: "," | append: working-session.title %}
+    | {%  endfor                        %}
+
+    | {% assign working-sessions = related-to  | split: ',' %}
+    | {% for working-session in working-sessions  %}
+    | {%     if working-session != ''    %}
+    | {%         assign match = site.pages | where: 'title', working-session %}
+    | {%         if match[0]             %}
+    li
+        a(href='{{match[0].url}}') {{ match[0].title }}
+    | {%         else                    %}
+    li  {{ working-session }}
+    | {%         endif                   %}
+    | {%     endif                       %}
+    | {% endfor                          %}
+
+.participants-table
+    | {% assign workshops = site.pages | where: 'type', 'workshop' %}
+
+    h1 Working Session's - Related to
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p Here are all Working Session's related to mappings.
+    p.
+        This is a key factor in making the navigation between tracks and Working sessions to happen as smooth as possible
+        (and to allow Working Sessions to be 'discovered' via serendipity)
+    table.table.table-striped
+        thead
+            th #
+            th name (title)
+            th
+            th status
+            th track
+            th technologies
+            th related-to
+
+
+        | {% for page in workshops%}
+        tr
+            td.text-center {{ forloop.index }}
+            td
+                a(href='{{page.url}}' target='_blank') {{ page.title }}
+            td
+                a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+            td.text-center
+                + status
+            td.text-center
+                a(href="/Working-Sessions/{{ page.track | replace: ' ', '-'}}" target='_blank') {{ page.track }}
+            td.text-center
+                + add-technologies
+            td
+                + add-related-to
+        | {% endfor %}
+
+

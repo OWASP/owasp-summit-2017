@@ -1,0 +1,115 @@
+mixin table-header
+    thead
+        th #
+        th name (title)
+        //th role
+        //th project-leader
+        //th chapter-leader
+        //th owasp-other
+        th time covered by
+        th Travel from
+        th flight cost
+        th ticket cost
+        th Required funds
+        th Amount funded
+        th (subtotal)
+
+mixin table-row
+    | {% assign total_amount = total_amount | plus: page.required-funds | minus: page.funded-amount%}
+    | {% assign index        = index        | plus: 1                  %}
+    tr
+        td {{ index }}
+        td.text-left.large-column
+            a(href='{{page.url}}') {{ page.title     }}
+        //td  {{ page.project-leader     }}
+        //td  {{ page.chapter-leader     }}
+        //td  {{ page.owasp-other        }}
+        td  {{ page.time               }}
+        td  {{ page.travel-from        }}
+        td ${{ page.flight-cost        }}
+        td ${{ page.ticket-cost        }}
+        td ${{ page.required-funds     }}
+        td ${{ page.funded-amount      }}
+        td ${{ total_amount            }}
+
+mixin total_amount
+    tr
+        td
+        td
+        td
+        
+        td
+        td
+        td
+        td
+        td
+        td
+            h5 Total required:
+        td
+            h5 ${{ total_amount }}
+
+mixin data-reset
+    | {% assign total_amount = 0     %}
+    | {% assign index        = 0     %}
+
+mixin status
+    | {% assign page_status = page.status | split: ',' %}
+    | {% for status in page_status %}
+    |   {% case status %}
+    |       {% when 'draft' %}
+    .label.label-primary {{ status }}
+    |       {% when 'done' %}
+    .label.label-success {{ status }}
+    |       {% when 'empty' %}
+    .label.label-danger {{ status }}
+    |       {% else %}
+    .label.label-warning {{ status }}
+    |   {% endcase %}
+    | {% endfor %}
+
+mixin image
+    | {% if page.image != null %}
+    img(src='{{ page.image }}' alt='{{ page.title }}')
+    | {% else %}
+    img(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
+    | {% endif %}
+
+.participants-table
+
+    h1 Participant's Funding
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    h3 Participants that need funding
+
+    | {% assign participants = site.pages | where: 'expenses', 'owasp' | where_exp: 'item', 'item.funded != true' %}
+    + data-reset
+
+    table.table.table-striped.text-center
+        +table-header
+        | {% for page in participants %}
+        +table-row
+        | {% endfor %}
+        +total_amount
+
+.participants-content
+
+    //h3 Participant's Content
+
+    table.table.table-striped
+        thead
+            th name (title)
+            th image
+            th status
+            th content
+        | {% for page in participants %}
+        tr
+            td
+                h3 {{ page.title }}
+            td
+                + image
+
+            td.text-center
+                + status
+            td {{ page.content }}
+
+        | {% endfor %}

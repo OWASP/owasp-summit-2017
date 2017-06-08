@@ -1,0 +1,75 @@
+mixin status
+    | {% assign page_status = metadata.status | split: ',' %}
+    | {% for status in page_status %}
+    |   {% case status %}
+    |       {% when 'draft' %}
+    .label.label-primary {{ status }}
+    |       {% when 'done' %}
+    .label.label-success {{ status }}
+    |       {% when 'empty' %}
+    .label.label-danger {{ status }}
+    |       {% else %}
+    .label.label-warning {{ status }}
+    |   {% endcase %}
+    | {% endfor %}
+
+mixin image
+    | {% if metadata.image != '' %}
+    img(src='{{ metadata.image }}' alt='{{ metadata.title }}')
+    | {% else %}
+    img(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
+    | {% endif %}
+
+mixin email
+    | {% if metadata.email != null %}
+    | {{ metadata.email }}
+    | {% else %}
+    | {{ site.data.emails[metadata.title] }}
+    | {% endif %}
+
+.participants-table
+    h1 Participant's Contacts
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p Here are all participants contacts. Summit Editors should make sure that all all participants have mapped their contact information and content
+    table.table.table-striped
+        thead
+            th #
+            th.large-column name (title)
+            th
+            th status
+            th image
+            th email
+            th company
+            th twitter
+            th linkedin
+            th facebook
+            th website
+
+        | {% for participant in site.data.mapped.participants  %}
+        | {% assign metadata = participant[1].metadata      %}
+        tr
+            td.text-center {{ forloop.index }}
+            td
+                a(href='{{ participant[1].url }}' target='_blank') {{ participant[1].name }}
+            td
+                a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ participant[1].url | replace: '.html','.md'}}" target='_blank') edit
+            td.text-center.status-label
+                + status
+
+            td.text-center
+                + image
+            td
+                + email
+            td
+                | {{ metadata.company }}
+            td
+                a(href='https://twitter.com/{{ metadata.twitter }}' target='_blank') {{ metadata.twitter }}
+            td
+                a(href='https://www.linkedin.com/in/{{ metadata.linkedin }}' target='_blank') {{ metadata.linkedin }}
+            td
+                a(href='https://facebook.com/{{ metadata.facebook }}' target='_blank') {{ metadata.facebook }}
+            td
+                a(href='{{ metadata.website }}' target='_blank') {{ metadata.website }}
+
+        | {% endfor %}

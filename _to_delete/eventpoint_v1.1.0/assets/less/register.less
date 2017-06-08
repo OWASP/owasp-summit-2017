@@ -1,0 +1,118 @@
+.lgx-register {
+  background: url('http://placehold.it/1920x1002') center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  color: @white-color;
+  .lgx-inner {
+    .bg-rgba(@black-color, 0.9);
+  }
+  .single {
+    .bg-rgba(@black-color, 0.85);
+    border: 1px solid @brand-color;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 6px;
+    margin: 0 1rem;
+    position: relative;
+
+    .single-top {
+      padding: 4.2rem 1.5rem 2.6rem;
+      .price {
+        font-family: @lgx-heading-font;
+        .font-size(68);
+        font-weight: 700;
+        margin: 0;
+        line-height: 5rem;
+        span {
+          font-family: @lgx-base-font;
+          .font-size(26);
+          font-weight: 400;
+          color: @white-color;
+        }
+      }
+      .title {
+        font-family: @lgx-base-font;
+        .font-size(26);
+        font-weight: 400;
+        color: @white-color;
+        margin: 0;
+      }
+      p {
+        color: @white-color;
+        opacity: .8;
+      }
+    }
+    .single-bottom {
+      .bg-rgba(@white-color, .8);
+      -webkit-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+      -moz-box-shadow: 0 4px 10px rgba(0,0,0,.25);
+      box-shadow: 0 4px 10px rgba(0,0,0,.25);
+      border-radius: 4px;
+      padding: 4.2rem 1.5rem;
+      -webkit-transition: all .3s ease-in-out 0s;
+      -moz-transition: all .3s ease-in-out 0s;
+      -o-transition: all .3s ease-in-out 0s;
+      transition: all .3s ease-in-out 0s;
+      ul {
+        margin-bottom: 2.6rem;
+        li {
+          margin-bottom: .6rem;
+          color: rgba(255, 255, 255, 0.8);
+          color: rgba(46, 40, 65, 0.8);
+          i {
+            color: @brand-color2;
+          }
+          .fa-times {
+            color: @brand-color;
+          }
+        }
+      }
+    }
+    &:hover {
+      .single-top {
+        padding: 4.2rem 1.5rem 2.6rem;
+        .title {
+          -webkit-animation-name: zoomIn;
+          animation-name: zoomIn;
+          -webkit-transform-origin: center;
+          transform-origin: center;
+          animation-duration: 400ms;
+          animation-timing-function: linear;
+        }
+      }
+      .single-bottom {
+        .bg-rgba(@white-color, 1);
+
+        ul {
+
+          li {
+            color: rgba(46, 40, 65, 0.8);
+          }
+        }
+      }
+    }
+  }
+  .active {
+    .bg-rgba(@brand-color, 0.85);
+  }
+}
+
+
+.lgx-register-slider {
+  background: url('http://placehold.it/1920x1002') center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  .lgx-inner {
+    background: -moz-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%, rgba(220, 78, 65, 0.8) 200%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left right, color-stop(0%,rgba(46, 52, 57, 0.8)), color-stop(100%,rgba(220, 78, 65, 0.95))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* IE10+ */
+    background: linear-gradient(to right,  rgba(46, 52, 57, 0.9) 0%,rgba(220, 78, 65, 0.8) 200%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(46, 52, 57, 0.9)', endColorstr='rgba(220, 78, 65, 0.9)',GradientType=0 ); /* IE6-9 */
+  }
+}

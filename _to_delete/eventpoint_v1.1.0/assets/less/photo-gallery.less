@@ -1,0 +1,74 @@
+.lgx-photo-gallery {
+  .lgx-inner {
+    padding-bottom: 0;
+  }
+  .lgx-single-memoris {
+    padding: 0;
+  }
+
+  .lgx-single {
+    background: @brand-color;
+    float: left;
+    margin: 0 auto;
+    width: 25%;
+    figure {
+        position: relative;
+        figcaption {
+            .bg-rgba(@black-color, .9);
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+          -webkit-transition: all .3s ease-in-out 0s;
+          -moz-transition: all .3s ease-in-out 0s;
+          -o-transition: all .3s ease-in-out 0s;
+          transition: all .3s ease-in-out 0s;
+            .lgx-hover-link {
+                display: table;
+                height: 100%;
+                width: 100%;
+                .lgx-vertical {
+                    display: table-cell;
+                    text-align: center;
+                    vertical-align: middle;
+                    a {
+                        color: @white-color;
+                        .font-size(26);
+                        -webkit-transition: all 0.2 ease;
+                        transition: all 0.3s linear;
+                        &:hover {
+                            color: @brand-color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+      &:hover {
+          figure {
+              figcaption {
+                  opacity:  1;
+                  .lgx-hover-link {
+                      .lgx-vertical {
+                          a {
+                              color: @white-color;
+                            -webkit-animation-name: zoomIn;
+                            animation-name: zoomIn;
+                            -webkit-transform-origin: center;
+                            transform-origin: center;
+                            animation-duration: 600ms;
+                            animation-timing-function: linear;
+                            display: block;
+                              &:hover {
+                                  color: @brand-color;
+                              }
+                          }
+                      }
+                  }
+              }
+          }
+      }
+  }
+}

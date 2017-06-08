@@ -1,0 +1,46 @@
+mixin status
+    | {% assign page_status = page.status | split: ',' %}
+    | {% for status in page_status %}
+    |   {% case status %}
+    |       {% when 'draft' %}
+    .label.label-primary {{ status }}
+    |       {% when 'done' %}
+    .label.label-success {{ status }}
+    |       {% when 'empty' %}
+    .label.label-danger {{ status }}
+    |       {% else %}
+    .label.label-warning {{ status }}
+    |   {% endcase %}
+    | {% endfor %}
+
+mixin actions
+    a(href='{{ participant.url }}' target='_blank') view
+    a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+
+
+.participants-table
+    | {% assign participants = site.pages | where: 'type', 'participant' %}
+
+    h1 Participant's Content
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p Here are all participants content. Summit editors should make sure each participant has a good description of his current industry profile and areas that they want to focus at the Summit
+
+    table.table.table-striped
+        thead
+            th name (title)
+            th actions
+            th status
+            th content
+        | {% assign participants = site.pages | where: 'type', 'participant' %}
+        | {% for participant in participants %}
+        tr
+            td
+                h3 {{ participant.title }}
+            td
+                +actions
+            td
+                +status
+            td {{ participant.content }}
+
+        | {% endfor %}
