@@ -6,7 +6,7 @@ track        : Threat Model
 technology   :
 related-to   : Juice Shop
 when-day     : Tue
-when-time    : Eve
+when-time    : AM-1,PM-1,PM-2,PM-3,Eve
 location     : Villa-4
 status       : Improve outcomes; need-working materials
 organizers   :
@@ -24,6 +24,7 @@ Dinis proposed a set of evening sessions to create threat model artefacts & exam
 
 - Create models/diagrams that show various aspects of Juice Shop (Model 1: What's the app?, model 2: How does it get deployed?, Model 3: How is it "developed and maintained"? etc.) 
 - Apply various techniques to answer the question "what are we working on?"
+- Through the course of the day, we will look at various ways to slice and model Juice Shop, with a goal of being aligned with other sessions, so you can pop in for a part of the day, and learn a bit of threat modeling.
 
 ## Outcomes
 
