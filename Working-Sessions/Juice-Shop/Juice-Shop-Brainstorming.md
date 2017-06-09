@@ -29,7 +29,6 @@ cant-make-it : Ingo Hanke
 > use Juice Shop as a "guinea pig" application to check how well their
 > tools cope with JavaScript-heavy application frontends and REST APIs.
 
-![Juice Shop Screenshot Slideshow](https://github.com/bkimminich/juice-shop/blob/develop/screenshots/slideshow.gif?raw=true)
 
 ## What
 
@@ -48,6 +47,7 @@ in the
 session.
 
 ![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
+![Juice Shop Screenshot Slideshow](https://github.com/bkimminich/juice-shop/blob/develop/screenshots/slideshow.gif?raw=true)
 
 We will also consider planned functional enhancements of the
 [Juice Shop CTF-extension](https://www.npmjs.com/package/juice-shop-ctf-cli)
@@ -56,6 +56,7 @@ the CTF-extension are currently gathered as
 [_enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement).
 
 ![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
+[![asciicast](https://asciinema.org/a/120833.png)](https://asciinema.org/a/120833)
 
 ## Outcomes
 
@@ -72,7 +73,7 @@ This working session will gather, discuss and design the following:
 - [Updated project roadmap](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Road_Map_and_Getting_Involved)
   for OWASP Juice Shop and its CTF-extension
 
-| Juice Shop (Waffle.io Board)                                                                                                           | CTF-Extension (Waffle.io Board)                                                                                                                |
+| Juice Shop                                                                                                                             | CTF-Extension                                                                                                                                  |
 |:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop) |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf) |
 
