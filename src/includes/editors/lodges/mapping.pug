@@ -4,7 +4,8 @@
             a(href='/pages/for-editors') Back to Editor's pages
         p Here are the participant's mappings (per Lodge)
 
-
+        br
+        br
         h2 Pre-Summit Team (ZL4G )
         p.
             This the advanced party that is going to finalise the last operational details and
@@ -15,6 +16,7 @@
                 .card
                     h3 {{ lodge[0] }}
                     h4 {{ lodge[1].name }}
+                    br
                     ul
                         | {% for user in lodge[1].users %}
                         li {{ user }}
@@ -32,6 +34,7 @@
                 .card
                     h3 {{ lodge[0] }}
                     h4 {{ lodge[1].name }}
+                    br
                     ul
                         | {% for user in lodge[1].users %}
                         li {{ user }}
@@ -49,6 +52,7 @@
                 .card
                     h3 {{ lodge[0] }}
                     h4 {{ lodge[1].name }}
+                    br
                     ul
                         | {% for user in lodge[1].users %}
                         li {{ user }}
