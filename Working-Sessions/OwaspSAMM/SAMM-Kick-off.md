@@ -9,7 +9,7 @@ when-day     : Mon
 when-time    : AM-1
 location     : Room-3
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Don Gibson
 ---
 
 Discuss agenda - goals for this week. Welcome people who are going to participate
