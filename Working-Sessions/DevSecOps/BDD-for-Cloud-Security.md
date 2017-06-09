@@ -10,7 +10,7 @@ status       : Final stage
 when-day     : Tue
 when-time    : AM-1
 location     : Room-5
-organizers   : Stephen de Vries
+organizers   : Fraser Scott
 participants : Neil Barlow,Dicky Stafford,Francois Raynaud,Stephen de Vries,Johan Peeters
 ---
 
