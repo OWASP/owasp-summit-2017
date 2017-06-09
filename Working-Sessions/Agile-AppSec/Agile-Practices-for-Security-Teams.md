@@ -6,12 +6,12 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   :
-status       : need-more content
+status       : need-outcomes; need-working materials
 when-day     : Tue
 when-time    : PM-1
 location     : Room-3
 organizers   : Irene Michlin
-participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Phil Parker,Duncan Hurwood,Stuart Gunter, Stephen de Vries
+participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Phil Parker,Duncan Hurwood,Stuart Gunter, Stephen de Vries, Don Gibson, Robert Morschel
 
 ## Why
 
