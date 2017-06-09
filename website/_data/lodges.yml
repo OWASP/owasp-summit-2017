@@ -43,9 +43,9 @@ with-sessions:
       - Bernhard Mueller
       - Sven Schleier
       - Carlos Holguera
-      - Denis Pilipchuk
       - Alexander Antukh
       - Robert Morschel
+      - 6
   'OK312':
     name: DevSecCon Villa
     users:
@@ -159,10 +159,10 @@ quiet-lodges:
   'OK426':
     name: Quiet 5 (3x24)
     users:
+     - Denis Pilipchuk (5x24h)
      - Barracuda 3
      - Christian DeHoyos
      - Gabor Pek
-     - 4
      - 5
      - 6
   'OK427':
