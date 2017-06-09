@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : Ajay Gupta
 type            : participant
 job-title       :
-company         :
+company         : Worldpay
 travel-from     :
 image           :
 linkedin        :
