@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : A10 - Underprotected APIs
+title        : OWASP Top 10 Process Discussion
 type         : 
 owasp-project: no
 track        : Owasp Top 10 2017
