@@ -11,7 +11,7 @@ when-day     : Tue
 when-time    : PM-1
 location     : Room-3
 organizers   : Irene Michlin
-participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Phil Parker,Duncan Hurwood,Stuart Gunter, Don Gibson, Robert Morschel
+participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Phil Parker,Duncan Hurwood,Stuart Gunter, Stephen de Vries
 
 ## Why
 
