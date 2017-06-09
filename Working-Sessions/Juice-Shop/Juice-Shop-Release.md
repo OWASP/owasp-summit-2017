@@ -28,7 +28,7 @@ invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud
 > use Juice Shop as a "guinea pig" application to check how well their
 > tools cope with JavaScript-heavy application frontends and REST APIs.
 
-![Juice Shop Release](https://owaspsummit.org/Working-Sessions/Juice-Shop/juice-shop_release.png)
+![Travis-CI](https://cdn.travis-ci.com/images/logos/TravisCI-Mascot-1-20feeadb48fc2492ba741d89cb5a5c8a.png)
 
 ## What
 
@@ -72,6 +72,7 @@ The target audience for this Working Session is:
 | [![Test Coverage](https://codeclimate.com/github/bkimminich/juice-shop/badges/coverage.svg)](https://codeclimate.com/github/bkimminich/juice-shop)                          | [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=master) |
 | [![Code Climate](https://codeclimate.com/github/bkimminich/juice-shop/badges/gpa.svg)](https://codeclimate.com/github/bkimminich/juice-shop)                                | [![Code Climate](https://codeclimate.com/github/bkimminich/juice-shop-ctf/badges/gpa.svg)](https://codeclimate.com/github/bkimminich/juice-shop-ctf)                           |
 | [![bitHound Overall Score](https://www.bithound.io/github/bkimminich/juice-shop/badges/score.svg)](https://www.bithound.io/github/bkimminich/juice-shop)                    | [![bitHound Overall Score](https://www.bithound.io/github/bkimminich/juice-shop-ctf/badges/score.svg)](https://www.bithound.io/github/bkimminich/juice-shop-ctf)               |
+| [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop)](https://juice-shop.herokuapp.com)                                                                           |                                                                                                                                                                                |
 
 ### Content
 

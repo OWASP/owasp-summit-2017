@@ -27,11 +27,11 @@ invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud
 > use Juice Shop as a "guinea pig" application to check how well their
 > tools cope with JavaScript-heavy application frontends and REST APIs.
 
-![Collabocats](https://4.bp.blogspot.com/-NpmSP4VFASY/VMa6YcAAY8I/AAAAAAAAAis/jH9BHsiqR8w/s1600/octocat_collabocats-974d8e7d814eb7bd416a8cce94bd03edef6881f18546bef185ec8878720c1dbc.png)
+![Collabocats](https://octodex.github.com/images/collabocats.jpg)
 
 ## What
 
-Hands-on coding session series to implement the
+🌙-hands-on coding session series to implement the
 [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
 and other functional enhancements to the web application & CTF-extension
 identified in the [Juice Shop](Juice-Shop-Brainstorming.md) session!
@@ -95,6 +95,8 @@ All that in your own speed and schedule!
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Build Status](https://travis-ci.org/bkimminich/juice-shop.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop)                                               | [![Build Status](https://travis-ci.org/bkimminich/juice-shop-ctf.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop-ctf)                                          |
 | [![Build status](https://ci.appveyor.com/api/projects/status/903c6mnns4t7p6fa/branch/develop?svg=true)](https://ci.appveyor.com/project/bkimminich/juice-shop/branch/master) | [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=develop) |
+|  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop)                                       |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf)                                  |
+| [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop-staging)](https://juice-shop-staging.herokuapp.com)                                                            |                                                                                                                                                                                  |
 
 - GitHub issues in
   [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)

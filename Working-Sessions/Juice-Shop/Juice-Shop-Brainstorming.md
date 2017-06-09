@@ -58,6 +58,10 @@ the CTF-extension are currently gathered as
 
 ## Outcomes
 
+| Juice Shop (Waffle.io Board)                                                                                                           | CTF-Extension (Waffle.io Board)                                                                                                                |
+|:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+|  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop) |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf) |
+
 This working session will gather, discuss and design the following:
 
 - GitHub issues for several new challenges in OWASP Juice Shop
@@ -84,14 +88,10 @@ The target audience for this Working Session is:
 ## Working materials
 
 - [Project Roadmap](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Road_Map_and_Getting_Involved)
-- Implementation-ready GitHub issues in
+- GitHub issues in
   [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
-  and elsewhere
-  [![Stories in Ready](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](http://waffle.io/bkimminich/juice-shop)
-- Implementation-ready
-  [_enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+- [_Enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
   for Juice Shop CTF-Extension
-  [![Stories in Ready](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](http://waffle.io/bkimminich/juice-shop-ctf)
 
 ### Content
 
