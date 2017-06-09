@@ -4,7 +4,7 @@ title        : Juice Shop
 type         : track
 technology   :
 description  : Working Sessions related to Juice Shop
-related-to   :
+related-to   : Education
 organizers   : Bjoern Kimminich
 participants :
 ---
