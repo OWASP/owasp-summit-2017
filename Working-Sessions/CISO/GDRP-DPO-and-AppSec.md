@@ -8,7 +8,7 @@ related-to   :
 status       : review-content
 when-day     : Mon
 organizers   :
-participants : Dinis Cruz,Francois Raynaud
+participants : Dinis Cruz,Francois Raynaud, Robert Morschel
 ---
 
 ## Why
