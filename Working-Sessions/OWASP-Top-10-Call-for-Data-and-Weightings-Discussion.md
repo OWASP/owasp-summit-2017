@@ -20,7 +20,8 @@ participants :
 
 What sort of data does the Top 10 need, and where/whom do we ask for it?
 How do we weight the various types of response?  
-(See Brian Glas' blog for "Tools Augmented with Humans vs. Humans with Augmented Technology.)
+(See Brian Glas' blog for "Tools Augmented with Humans vs. Humans with Augmented Technology.) 
+https://nvisium.com/blog/2017/04/24/musings-on-the-owasp-top-10-2017-rc1-pt2/
 
 ## What
 
@@ -28,7 +29,7 @@ How do we weight the various types of response?
 
 ## Outcomes 
 
-The weightings of data will help to define the aproach in OWASP Top 10 2017 RC2, and lso can be used 
+The weightings of data will help to define the aproach in OWASP Top 10 2017 RC2, and also can be used 
 in the OWASP Top 10 2020 and 2023.  We want the community to drive this decision.
 
 ## Who
