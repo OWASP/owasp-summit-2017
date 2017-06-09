@@ -6,7 +6,7 @@ track        : Threat Model
 status       : final stage; need-working materials
 when-day     : Wed
 when-time    : PM-1
-location     : Room-6
+location     : Villa-4
 organizers   : Geoff Hill
 participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin
 ---

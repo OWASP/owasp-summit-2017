@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Hands on threat modeling - fixing juice shop
+title        : Hands on Threat Modeling Juice Shop (Fixing)
 type         : workshop
 owasp-project: no
 track        : Threat Model
@@ -10,9 +10,8 @@ when-day     : Thu
 when-time    : Eve
 location     : Villa-4
 status       : Improve outcomes; need-working materials
-organizers   :
-participants :
-invited      : Bjoern Kimminich
+organizers   : Adam Shostack,Bjoern Kimminich
+participants : Sebastien Deleersnyder
 ---
 
 Get together to use the models of Juice Shop to find problems with it, learn threat modelling, and deliver examples.
