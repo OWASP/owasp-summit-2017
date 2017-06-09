@@ -64,6 +64,10 @@ apply for the summit results as well:
 - Each challenge is verified to be exploitable by corresponding
   end-to-end tests
 
+| Juice Shop                                                                                                                          | CTF-Extension                                                                                                                               |
+|:------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
+|  [![Done Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=done&title=Done)](https://waffle.io/bkimminich/juice-shop) |  [![Done Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=done&title=Done)](https://waffle.io/bkimminich/juice-shop-ctf) |
+
 ## Who
 
 The target audience for this Working Session is:
@@ -100,7 +104,7 @@ All that in your own speed and schedule!
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-| Juice Shop (`develop` branch)                                                                                                                                                | CTF-Extension (`develop` branch)                                                                                                                                                |
+| Juice Shop                                                                                                                                                                   | CTF-Extension                                                                                                                                                                   |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Build Status](https://travis-ci.org/bkimminich/juice-shop.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop)                                               | [![Build Status](https://travis-ci.org/bkimminich/juice-shop-ctf.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop-ctf)                                          |
 | [![Build status](https://ci.appveyor.com/api/projects/status/903c6mnns4t7p6fa/branch/develop?svg=true)](https://ci.appveyor.com/project/bkimminich/juice-shop/branch/master) | [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=develop) |
