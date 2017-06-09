@@ -49,7 +49,7 @@ with-sessions:
   'OK312':
     name: DevSecCon Villa
     users:
-      - Francois Raynaud,Lisa Raynaud
+      - Francois Raynaud,Lisa Raynaud (db)
       - Sandor Lenart
       - Colin Domoney
       - Phil Parker
@@ -76,8 +76,8 @@ with-sessions:
   'OK315':
     name: Testing Guide Villa
     users:
-      - Matteo Meucci
-      - Devesh Bhatt, Nikita Garia
+      - Matteo Meucci (db)
+      - Devesh Bhatt, Nikita Garia (db)
       - Mateo Martinez
       - Tiago Mendo
       - Nuno Loureiro
