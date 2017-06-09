@@ -8,3 +8,5 @@ related-to   :
 organizers   : Bjoern Kimminich
 participants :
 ---
+
+![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo.png)
