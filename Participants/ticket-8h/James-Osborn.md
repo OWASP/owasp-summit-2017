@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : James Osborn
 type            : participant
 job-title       :
-company         : WorldPay
+company         : Worldpay
 travel-from     :
 image           :
 linkedin        :
