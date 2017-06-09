@@ -7,9 +7,9 @@ track        : Threat Model
 technology   :
 related-to   :
 status       : draft
-when-day     : Wed
-when-time    : PM-3
-location     : Room-6
+when-day     : 
+when-time    : 
+location     : 
 organizers   :
 participants :
 ---

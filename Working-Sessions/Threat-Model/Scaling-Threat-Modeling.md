@@ -8,7 +8,7 @@ related-to   :
 status       : final stage; need-working materials
 when-day     : Wed
 when-time    : PM-2
-location     : Room-6
+location     : Villa-4
 organizers   :
 participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström
 ---

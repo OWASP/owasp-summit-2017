@@ -8,7 +8,7 @@ description : OWASP cheat sheet will provide prescriptive guidance on threat mod
 status      : final stage; need-working materials
 when-day    : Wed
 when-time   : PM-3
-location    : Room-6
+location    : Villa-4
 organizers  : Tony UV
 participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin,Robert Morschel,Stephen de Vries,Duncan Hurwood
 ---

@@ -8,4 +8,3 @@ related-to   :
 organizers   : Bjoern Kimminich
 participants :
 ---
-

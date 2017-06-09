@@ -4,15 +4,15 @@ title        : Juice Shop Coding Day
 type         : workshop
 track        : Juice Shop
 technology   : Node
-related-to   : Juice Shop
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 status       : Final stage
 organizers   : Bjoern Kimminich
-when-day     : Tue
-when-time    : AM-1,PM-1,PM-2,PM-3
+when-day     : Wed
+when-time    : AM-1,PM-1,PM-2
 location     : Villa-5
 participants :
-invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro, Josh Grossman
+invited      : Ade Yoseman Putra, Amani Altarawneh, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro, Josh Grossman
+cant-make-it : Dinis Cruz
 ---
 
 ## Why
@@ -33,7 +33,7 @@ invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud
 Hands-on coding session series to implement the
 [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
 and other functional enhancements to the web application & CTF-extension
-identified in the [Juice Shop](Juice-Shop.md) session!
+identified in the [Juice Shop](Juice-Shop-Brainstorming.md) session!
 
 ![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
 
