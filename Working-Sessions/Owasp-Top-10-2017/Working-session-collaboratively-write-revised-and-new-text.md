@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Working Session - Collaboratively write revised and new text
+title        : Collaboratively write revised and new text
 type         : workshop
 owasp-project: no
 track        : Owasp Top 10 2017
