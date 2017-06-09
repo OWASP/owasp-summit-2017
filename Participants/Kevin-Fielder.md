@@ -7,11 +7,11 @@ company         :
 travel-from     :
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAePAAAAJDhmYmQ3M2NjLTAxMWUtNDdiYy1iOTUzLTgxNmVjMGNhYWEzNg.jpg
 linkedin        : kevinfielder
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :
-when-day        : mon,wed,fri
+when-day        : Mon,Wed,Fri
 ticket          :
 status          : empty
 working-sessions: CISO

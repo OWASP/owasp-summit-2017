@@ -2,34 +2,54 @@
 layout       : blocks/working-session
 title        : Threat Modeling Where do I Start?
 type         : workshop
-owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
 status       : review-content
-when-day     : Tue
+when-day     : Mon
+when-time    : Eve
+location     : Villa-4
 organizers   :
-participants : Robert Hurlbut, Irene Michlin
+participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström, Sebastien Deleersnyder
 ---
 
-Single most common question I get from Developers
+With regard to threat modelling, the single most common question developers ask me is 'Where do I start?'
 
 ## Why
 
 In order to run, you need to learn to walk. 
-For an organization / group to understand and use Threat Modeling, they need to know where to start.
+
+For an organisation or group to understand and use threat modelling, they should know where to start. This Working Session will create guidelines for the effective use of threat modelling.
 
 ## What
 
-1. What are some guidelines could we provide to help teams get started?
-2. What tools do they need?
-3. What people should be involved? 
-4. For starting threat modeling on existing project/codebase - how to start without the need to cover everything (a bit similar to introducing tests to legacy software, but  not quite).
+- What guidelines could we provide to help teams get started?
+- What tools do they need?
+- Who should be involved? 
+- For starting threat modelling on an existing project/codebase - how to start without the need to cover everything (this shares some similarities with introducing tests to legacy software)
+
+## Outcomes
+
+- Guidelines for the effective use of threat modelling
 
 ## Who
 
-... developers
-... architects
-... security SMEs
-... SCRUM masters
-... security champions
+The target audience for this Working Session is:
+
+- Developers
+- Architects
+- Security SMEs
+- SCRUM masters
+- Security champions
+
+--- 
+
+## Working materials
+
+- Draft guidelines for the effective use of threat modelling
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

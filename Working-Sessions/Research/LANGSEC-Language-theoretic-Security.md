@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : draft
 organizers   :
-participants :
+participants : Johan Peeters
 ---
 
 > The Language-theoretic approach (LANGSEC) regards the Internet insecurity epidemic as a consequence of ad hoc programming of input handling at all layers of network stacks, and in other kinds of software stacks. LANGSEC posits that the only path to trustworthy software that takes untrusted inputs is treating all valid or expected inputs as a formal language, and the respective input-handling routines as a recognizer for that language. The recognition must be feasible, and the recognizer must match the language in required computation power.
@@ -21,16 +21,31 @@ participants :
 
 ## Why
 
-...why text...
+... Add content ...
 
 ## What
 
-...what text...
+... Add content ...
+
+## Outcomes 
+
+... Add content ...
 
 ## Who
 
-... target audience ...
+... Add content ...
 
 ## Resources
 
  - http://langsec.org/
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
+

@@ -7,7 +7,7 @@ company         :
 travel-from     : United Kingdom
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/128/1c1/204156c.jpg
 linkedin        : don-gibson-a47b731
-twiter          :
+twitter          :
 facebook        :
 email           : dgibson@omniaquae.com
 funded-who      : self

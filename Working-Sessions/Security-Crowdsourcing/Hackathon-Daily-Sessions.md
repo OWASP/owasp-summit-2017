@@ -2,19 +2,34 @@
 layout       : blocks/working-session
 title        : Hackathon Daily Sessions
 type         : workshop
-owasp-project: no
 track        : Security Crowdsourcing
 technology   :
-related-to   : Juice Shop
-status       : draft
-when-day     : Evening
+related-to   : Juice Shop,O-Saft,OWASP Bug Bounty
+status       : need outcomes; need working materials
+when-day     : Mon,Tue,Wed,Thu
+when-time    : Eve
+location     : Villa-3
 organizers   : Leon Juranic
 participants :
 ---
 
-The following related working session(s) contain a _hands-on_ work aspect. Some sessions might even be held as a _Hackathon_ session entirely.
+## Why
 
-## references
+🔧TODO
 
- - http://2013.appsecusa.org/2013/activities/bug-bounty-group-hack/index.html
- - [Team OWASP - Bug Bounty Program Agreement](https://docs.google.com/document/d/1rRZ--hH417l1RiIzsXY8PAOjnjEo4fBRZSL-t4U-uJA) from AppSec USA 2013
+## What
+
+Bug Bounty Group Hack (e.g. similar to [Great OWASP Bug Bash of 2013](http://2013.appsecusa.org/2013/activities/bug-bounty-group-hack/index.html) at AppSecUSA complying with the [Team OWASP - Bug Bounty Program Agreement](https://docs.google.com/document/d/1rRZ--hH417l1RiIzsXY8PAOjnjEo4fBRZSL-t4U-uJA/edit))
+
+Refer to the _Related Working Session(s)_ below for information about their hackathon-aspect.
+
+## Outcomes 
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...

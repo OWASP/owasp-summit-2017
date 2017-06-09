@@ -1,54 +1,40 @@
+//| {% assign schedule_Data = site.data.mapped.schedule.by_Participant[page.title] %}
+//
+//mixin add-participations-on-day
+//    | {% if schedule_Data[day]                                      %}
+//    li
+//        b {{ day}}
+//        ul
+//            | {% for time in schedule_Data[day]                     %}
+//            li {{ time[0] }}
+//                ul
+//                    | {%    for session in time[1]                  %}
+//                    li
+//                        a(href='{{ session.url }}') {{ session.name }}
+//                        span &#32 : {{ session.location }} , {{ session.mode }}
+//                        | {% if session.status == 'draft' %}
+//                        span &#32 (DRAFT)
+//                        | {% endif %}
+//                    | {% endfor                                     %}
+//            | {% endfor                                             %}
+//    | {% endif                                                      %}
+//
+//mixin add-participations
+//    h2 Working Sessions Schedule
+//    ul
+//        | {% assign day = 'Mon' %}
+//        + add-participations-on-day
+//        | {% assign day = 'Tue' %}
+//        + add-participations-on-day
+//        | {% assign day = 'Wed' %}
+//        + add-participations-on-day
+//        | {% assign day = 'Thu' %}
+//        + add-participations-on-day
+//        | {% assign day = 'Fri' %}
+//        + add-participations-on-day
+//        | {% assign day = 'no-day' %}
+//        + add-participations-on-day
 
-mixin add-participations-on-day
-    | {% if day != null %}
-    | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}
-    b {{ day }}
-    | {% endif %}
-    ul
-        | {% for page in day-working-sessions  %}
-        | {%    if page.participants contains user or page.organizers contains user %}
-        li
-            a(href="{{page.url}}") {{ page.title }}
-            | {%    if page.organizers contains user %}
-            span &#32; (organizing)
-            | {%    endif %}
-        |{%     endif %}
-        |{%     if  working-sessions contains page.title  %}
-        li
-            a(href="{{page.url}}") {{ page.title }}
-        | {%    endif %}
-        | {% endfor %}
-        | {% assign working-sessions = page.working-sessions| split: ',' %}
-
-mixin add-participations
-    | {% assign user              = page.title  %}
-    | {% assign working-sessions  = page.working-sessions  %}
-    h2 Working Sessions Schedule
-    ul
-        li
-            | {% assign day = 'Mon' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Tue' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Wed' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Thu' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Fri' %}
-            + add-participations-on-day
-        li
-            | {% assign day = 'Evening' %}
-            + add-participations-on-day
-        li
-            b
-                i (not scheduled)
-            | {% assign day = null %}
-            | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.when-day == null' %}
-            + add-participations-on-day
 
 mixin add-email
     | {% if page.email != null %}
@@ -98,7 +84,7 @@ img.participant(src='{{ page.image }}' alt='{{ page.title }}')
 
 | {{ content }}
 
-+ add-participations
+| {% include schedule/participant.html %}
 
 h2 contact details
 ul
@@ -108,6 +94,11 @@ ul
     + add-linkedin
     + add-facebook
 br
+h3 (for Working Sessions organisers)
+
+p To invite {{ page.title }} to your Working Session use &#32;
+    code.highlighter-rouge invited: {{ page.title }}
+
 hr
 p Back to list of <a href='/website/participants.html'>all Participants</a>
 p Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a>

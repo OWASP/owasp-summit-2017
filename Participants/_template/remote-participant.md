@@ -3,9 +3,10 @@ layout          : blocks/page-participant
 title           : ...
 type            : participant-remote
 job-title       :
+company         :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

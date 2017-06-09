@@ -10,18 +10,18 @@ organizers   : Katy Anton
 participants :
 ---
 
-> The OWASP Top Ten Proactive Controls 2016 is a list of security techniques that should be included in every software development project. They are ordered by order of importance, with control number 1 being the most important. This document was written by developers for developers to assist those new to secure development.
+> The OWASP Top Ten Proactive Controls 2016 is a list of security techniques that should be included in every software development project. They are listed in order of importance, with control number 1 being the most important. This document was written by developers for developers to assist those new to secure development.
 
-> -  Verify for Security Early and Often
-> -   Parameterize Queries
-> -   Encode Data
-> -   Validate All Inputs
-> -   Implement Identity and Authentication Controls
-> -   Implement Appropriate Access Controls
-> -   Protect Data
-> -   Implement Logging and Intrusion Detection
-> -   Leverage Security Frameworks and Libraries
-> -   Error and Exception Handling
+> 1.  Verify for Security Early and Often
+> 2.  Parameterize Queries
+> 3.   Encode Data
+> 4.   Validate All Inputs
+> 5.  Implement Identity and Authentication Controls
+> 6.  Implement Appropriate Access Controls
+> 7.   Protect Data
+> 8.  Implement Logging and Intrusion Detection
+> 9.  Leverage Security Frameworks and Libraries
+> 10.  Error and Exception Handling
 
 (from https://www.owasp.org/index.php/OWASP_Proactive_Controls)
 
@@ -33,6 +33,20 @@ participants :
 
 ...what text...
 
+## Outcomes
+
+...Add text...
+
 ## Who
 
 ... target audience ...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

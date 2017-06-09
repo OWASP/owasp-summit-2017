@@ -6,21 +6,51 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   :
-status       : draft
+status       : needs more content
+when-day     : Thu
+when-time    : PM-2
+location     : Room-4
 organizers   : Don Gibson
 participants : Robert Morschel
 ---
 
-It seems AppSec is a nascent area for a lot of CISOs - you have secured the outside, you know where the traffic is going. You have a handle on data use and storage. But what are your apps doing? 
+It seems AppSec is a growing area for a lot of CISOs - you have secured the outside, you know where the traffic is going. You have a handle on data use and storage. But what are your apps doing? 
 
 ## Why
 
-Why? Don't you want to know? What is going to be coming? What is there already? Don't you want to shape this, guide this and ensure there aren't any nasty surprises?
+The aim of this Working Session is to examine AppSec from the vantage point of the CISO, focusing on the following questions:
+
+- What should you know?
+- What is coming down the line?
+- What is there already?
+- How to shape this, guide this, and ensure there are no nasty surprises?
 
 ## What
 
-What to look out for, how to build teams and policies, what frameworks to look out for, technologies, hints and tips.
+- What to beware of
+- How to build teams and policies
+- What frameworks to look out for 
+- Technologies 
+- Hints and tips
+
+## Outcomes
+
+.. add content..
 
 ## Who
 
-CISOs, Tech Leads and Architects
+The target audience for this Working Session is: 
+
+- CISOs
+- Tech Leads 
+- Architects
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

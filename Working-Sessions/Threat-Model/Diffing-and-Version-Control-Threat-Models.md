@@ -8,11 +8,13 @@ technology   :
 related-to   :
 status       : draft
 when-day     : Fri
+when-time    : AM-1
+location     : Room-6
 organizers   :
-participants : Irene Michlin
+participants : Irene Michlin, Steven Wierckx
 ---
 
-Threat model should be a living artefact that evolves with the project, but how to achieve it with the available tools?
+A threat model should be a living artefact that evolves with the project, but how can we achieve this with the available tools?
 We need some best practices that teams can adapt, if we want threat modelling to become a wide-spread practice.
 
 ## Why
@@ -23,6 +25,24 @@ We need some best practices that teams can adapt, if we want threat modelling to
 
 ...what text...
 
+## Outcomes
+
+...Add text...
+
 ## Who
 
-... target audience ...
+The target audience for this Working Session is:
+
+... who text ...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
