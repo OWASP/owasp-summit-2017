@@ -13,6 +13,7 @@ locked       : true
 location     : Villa-5
 participants : Dinis Cruz,Ade Yoseman Putra,Timo Pagel,Francois Raynaud
 invited      : Josh Grossman,Jannik Hollenbach
+cant-make-it : Ingo Hanke
 ---
 
 ## Why
