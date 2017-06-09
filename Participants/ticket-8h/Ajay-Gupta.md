@@ -11,6 +11,7 @@ twitter          :
 facebook        :
 website         :
 email           :
+when-day        : Tues
 ticket          : 1x8h
 status          : empty
 working-sessions:
