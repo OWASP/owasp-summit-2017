@@ -8,10 +8,10 @@ technology   :
 related-to   : 
 status       : missing Outcomes, working materials
 when-day     : Fri
-when-time    : AM-2
+when-time    : AM-1
 location     : Room-2
 organizers   :
-participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari
+participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari, Tiffany Long
 ---
 
 

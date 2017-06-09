@@ -6,9 +6,9 @@ owasp-project: no
 track        : Education
 technology   : Docker
 related-to   : Evaluation/Optimization/Creation of Training Slides, Docker Security
-status       : draft
+status       : final stage
 organizers   : Timo Pagel
-participants :
+participants : Johan Peeters
 ---
 Docker, Docker, Docker
 
@@ -16,9 +16,9 @@ Docker, Docker, Docker
 As every modern company integrates Docker, a workshop is needed to show the potential risks. Most risks are not new, but have higher impacts.
 
 ## What
-As a starting point, the workshop from [Timo Pagel](https://github.com/wurstbrot/docker-security-workshop) will be used. 
+As a starting point, the workshop from [Timo Pagel](https://github.com/wurstbrot/docker-security-workshop) will be used.
 
-## Outcome
+## Outcomes
 
 The outcome will be a workshop, integrated into the OWASP Education Project. The hands-on workshop will have:
 
@@ -26,13 +26,22 @@ The outcome will be a workshop, integrated into the OWASP Education Project. The
 - a training environment (e.g. virtualbox/vagrant/docker) and
 - slides
 
-## Definition of Done
-
---add text--
-
 ## Who
 
 The target audience for this Working Session is:
 
 - Docker Security Experts
 - Users of Docker who wish to learn more about Docker
+
+--- 
+
+## Working materials
+
+- a draft concept
+- a draft training environment (e.g. virtualbox/vagrant/docker) and
+- draft slides
+
+
+### Content
+
+... add content ...

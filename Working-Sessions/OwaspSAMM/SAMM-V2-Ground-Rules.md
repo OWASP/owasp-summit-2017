@@ -4,12 +4,12 @@ title        : SAMM - V2 Ground Rules
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes
+status       : need-outcomes; need working materials
 when-day     : Mon
-when-time    : AM-1
-location     : Villa-1
+when-time    : PM-1
+location     : Room-3
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
 ---
 
 Set the goals for this week.
@@ -20,11 +20,32 @@ Starting point for a common understanding of the goals and mindset for the SAMM 
 
 ## What
 
-- Cover high level goals for the summit
-- Mindset of how to eval core model
+- Cover high-level goals for the summit
+- Mindset of how to evaluate the core model
 - Any additional thoughts/ideas
-- Plans for continuing past the summit
+- Plans for continuing after the summit
+
+## Outcomes
+
+...add content...
 
 ## Who
 
-Security champions, Security architects, DevOps Roles, CISO, ...
+The target audience for this Working Session is:
+
+- Security champions
+- Security architects
+- DevOps Roles
+- CISOs
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

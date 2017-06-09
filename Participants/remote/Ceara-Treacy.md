@@ -15,7 +15,7 @@ company         : Regulated Software Research Centre(RSRC)in Dundalk Institute o
 travel-from     : Ireland
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxeAAAAJDk3MmIxY2M0LWIwNTEtNDEyZS1hMWFlLTkxM2VhZmFmMDU1NQ.jpg
 linkedin        : cearatreacy
-twiter          :
+twitter          :
 facebook        :
 project-leader  :
 chapter-leader  :

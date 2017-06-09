@@ -12,8 +12,9 @@ funded-amount   : 1200 (with Visa)
 required-funds  : 1200
 role            : Summit-Editor
 job-title       : Editor
+image           :
 ticket          : 5x24h
-working-sessions: Women in Cyber,Recruiting AppSec Talent,Creating AppSec Talent (next 100k professionals),Application Security BSc/Masters Curriculum Design,Responsible Disclosure,Netflix Security Automation,Media Handling Playbook,OWASP Internet of Things Project,Ransomware Playbook,Bug Bounty Playbook,
+working-sessions: Women in Cyber,Recruiting AppSec Talent,Creating AppSec Talent (next 100k professionals),Responsible Disclosure,Media Handling Playbook,OWASP Internet of Things Project,Ransomware Playbook,Bug Bounty Playbook,Visit Bletchley Park,
 
 ---
 

@@ -634,6 +634,41 @@
   color: #87bb40;
 }
 
+.lodges h1 a {
+  padding: 20px;
+}
+.lodges .card {
+  min-height: 260px;
+  background-color: white;
+  border: 1px solid;
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+.lodges .card:hover {
+  background-color: #b4f6a4;
+}
+.lodges .card:hover .participant-name {
+  color: white;
+}
+.lodges .card:hover .participant-title {
+  color: white;
+}
+.lodges .lodge_Id {
+  font-size: 30px;
+  text-align: center;
+}
+.lodges table th {
+  color: #87BB40;
+}
+.lodges table td {
+  vertical-align: middle !important;
+}
+.lodges .when {
+  font-size: 10px;
+}
+
 @media screen {
   .participants .card {
     min-height: 305px;
@@ -761,12 +796,34 @@
   font-size: 10px   ;
   padding: 5px    ;
 }
-.schedule-track .time {
-  font-size: 16px;
+.schedule-track .alert {
+  font-size: 12px;
+  padding: 2px   ;
+  text-align: center;
+  min-width: 80px;
 }
 .schedule-track .location {
   font-size: 8px;
-  padding: 0px;
+  font-style: italic;
+}
+.schedule-track .role {
+  font-size: 12px;
+  font-style: italic;
+}
+.schedule-track .time {
+  font-size: 16px;
+}
+.schedule-track .invited {
+  color: #EEA79C;
+}
+.schedule-track .participating {
+  color: #7E7F9A;
+}
+.schedule-track .organizing {
+  color: #93A987;
+}
+.schedule-track .panelist {
+  color: #B1A265;
 }
 
 .schedule {
@@ -788,6 +845,9 @@
   font-size: 150%;
 }
 .schedule .session-name a {
+  font-size: 100%;
+}
+.schedule .alert a {
   font-size: 100%;
 }
 .schedule table .day-time {
@@ -1011,6 +1071,10 @@
   color: white  ;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.tickets .regonline-No {
+  background: #EEA79C !important;
 }
 
 .venue {

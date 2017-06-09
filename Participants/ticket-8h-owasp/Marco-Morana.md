@@ -14,7 +14,7 @@ required-funds  : 2941
 job-title       :
 image           : 
 linkedin        :
-twiter          : marcomorana
+twitter          : marcomorana
 facebook        :
 website         : https://www.owasp.org/index.php/Marco_Morana
 project-leader  :

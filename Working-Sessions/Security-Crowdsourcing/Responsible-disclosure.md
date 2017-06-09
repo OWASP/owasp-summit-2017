@@ -2,13 +2,15 @@
 layout       : blocks/working-session
 title        : Responsible Disclosure
 type         : workshop
-status       : more-content
+status       : need working materials
 track        : Security Crowdsourcing
 when-day     : Tue
 when-time    : PM-1,PM-2
 location     : Room-5
 organizers   : Devesh Bhatt
 participants : Francois Raynaud
+locked       : true
+invited      : Dinis Cruz, Sam Houston, Josh Armour
 ---
 
 Responsible disclosure is a great way to test your assets using multiple perspectives and different methodologies. This Working Session will explore creating and managing responsible disclosure programmes. 
@@ -25,7 +27,7 @@ Responsible disclosure is a great way to test your assets using multiple perspec
 - Success stories
 - What is the future of responsible disclosure?
 
-## Definition of Done
+## Outcomes 
 
 - Checklists to keep in mind before starting a programme
 - Responsible Disclosure legal framework accepted EU/country wide
@@ -37,3 +39,15 @@ The target audience for this Working Session is:
 * Leading bug bounty hunters
 * Companies with mature bug bounty programmes (self-managed)
 * Third party leaders in managed bug bounties
+
+--- 
+
+## Working materials
+
+- Draft checklists to keep in mind before starting a programme
+- Draft Responsible Disclosure legal framework accepted EU/country wide
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...

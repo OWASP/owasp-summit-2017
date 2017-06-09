@@ -1,23 +1,41 @@
-{% assign schedule_Data = site.data.mapped.schedule.by_Participant[page.title] %}
-<!--mixin add-participations-on-day_old-->
-<!--    | {% if day != null %}-->
-<!--    | {%    assign day-working-sessions = site.pages | where: 'type', 'workshop' | where: 'when-day', day %}-->
-<!--    b {{ day }}-->
-<!--    | {% endif %}-->
+
+<!--| {% assign schedule_Data = site.data.mapped.schedule.by_Participant[page.title] %}-->
+<!---->
+<!--mixin add-participations-on-day-->
+<!--    | {% if schedule_Data[day]                                      %}-->
+<!--    li-->
+<!--        b {{ day}}-->
+<!--        ul-->
+<!--            | {% for time in schedule_Data[day]                     %}-->
+<!--            li {{ time[0] }}-->
+<!--                ul-->
+<!--                    | {%    for session in time[1]                  %}-->
+<!--                    li-->
+<!--                        a(href='{{ session.url }}') {{ session.name }}-->
+<!--                        span &#32 : {{ session.location }} , {{ session.mode }}-->
+<!--                        | {% if session.status == 'draft' %}-->
+<!--                        span &#32 (DRAFT)-->
+<!--                        | {% endif %}-->
+<!--                    | {% endfor                                     %}-->
+<!--            | {% endfor                                             %}-->
+<!--    | {% endif                                                      %}-->
+<!---->
+<!--mixin add-participations-->
+<!--    h2 Working Sessions Schedule-->
 <!--    ul-->
-<!--        | {% for page in day-working-sessions  %}-->
-<!--        | {%    if page.participants contains user or page.organizers contains user %}-->
-<!--        li-->
-<!--            a(href="{{page.url}}") {{ page.title }}-->
-<!--            | {%    if page.organizers contains user %}-->
-<!--            span &#32; (organizing)-->
-<!--            | {%    endif %}-->
-<!--        |{%     endif %}-->
-<!--        |{%     if  working-sessions contains page.title  %}-->
-<!--        li-->
-<!--            a(href="{{page.url}}") {{ page.title }}-->
-<!--        | {%    endif %}-->
-<!--        | {% endfor %}-->
+<!--        | {% assign day = 'Mon' %}-->
+<!--        + add-participations-on-day-->
+<!--        | {% assign day = 'Tue' %}-->
+<!--        + add-participations-on-day-->
+<!--        | {% assign day = 'Wed' %}-->
+<!--        + add-participations-on-day-->
+<!--        | {% assign day = 'Thu' %}-->
+<!--        + add-participations-on-day-->
+<!--        | {% assign day = 'Fri' %}-->
+<!--        + add-participations-on-day-->
+<!--        | {% assign day = 'no-day' %}-->
+<!--        + add-participations-on-day-->
+
 <h1>{{ page.title }}</h1>
 <h3>
   {{page.job-title }}
@@ -26,63 +44,7 @@
   {% endif                   %}
 </h3>{% if page.image != null %}<img src="{{ page.image }}" alt="{{ page.title }}" class="participant"/>{% endif %}
 {{ content }}
-<h2>Working Sessions Schedule</h2>
-<ul>{% assign day = 'Mon' %}{% if schedule_Data[day]                                      %}
-  <li><b>{{ day}}</b>
-    <ul>{% for time in schedule_Data[day]                     %}
-      <li>{{ time[0] }}
-        <ul>{%    for session in time[1]                  %}
-          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
-        </ul>
-      </li>{% endfor                                             %}
-    </ul>
-  </li>{% endif                                                      %}{% assign day = 'Tue' %}{% if schedule_Data[day]                                      %}
-  <li><b>{{ day}}</b>
-    <ul>{% for time in schedule_Data[day]                     %}
-      <li>{{ time[0] }}
-        <ul>{%    for session in time[1]                  %}
-          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
-        </ul>
-      </li>{% endfor                                             %}
-    </ul>
-  </li>{% endif                                                      %}{% assign day = 'Wed' %}{% if schedule_Data[day]                                      %}
-  <li><b>{{ day}}</b>
-    <ul>{% for time in schedule_Data[day]                     %}
-      <li>{{ time[0] }}
-        <ul>{%    for session in time[1]                  %}
-          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
-        </ul>
-      </li>{% endfor                                             %}
-    </ul>
-  </li>{% endif                                                      %}{% assign day = 'Thu' %}{% if schedule_Data[day]                                      %}
-  <li><b>{{ day}}</b>
-    <ul>{% for time in schedule_Data[day]                     %}
-      <li>{{ time[0] }}
-        <ul>{%    for session in time[1]                  %}
-          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
-        </ul>
-      </li>{% endfor                                             %}
-    </ul>
-  </li>{% endif                                                      %}{% assign day = 'Fri' %}{% if schedule_Data[day]                                      %}
-  <li><b>{{ day}}</b>
-    <ul>{% for time in schedule_Data[day]                     %}
-      <li>{{ time[0] }}
-        <ul>{%    for session in time[1]                  %}
-          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
-        </ul>
-      </li>{% endfor                                             %}
-    </ul>
-  </li>{% endif                                                      %}{% assign day = 'no-day' %}{% if schedule_Data[day]                                      %}
-  <li><b>{{ day}}</b>
-    <ul>{% for time in schedule_Data[day]                     %}
-      <li>{{ time[0] }}
-        <ul>{%    for session in time[1]                  %}
-          <li><a href="{{ session.url }}">{{ session.name }}</a><span>&#32 : {{ session.location }} , {{ session.mode }}</span>{% if session.status == 'draft' %}<span>&#32 (DRAFT)</span>{% endif %}</li>{% endfor                                     %}
-        </ul>
-      </li>{% endfor                                             %}
-    </ul>
-  </li>{% endif                                                      %}
-</ul>
+{% include schedule/participant.html %}
 <h2>contact details</h2>
 <ul>{% if page.email != null %}
   <li><a href="mailto:{{ page.email }}" target="_blank">Email</a></li>{% endif %}{% if page.website != null %}
@@ -93,6 +55,8 @@
   <li><a href="https://linkedin.com/in/{{page.linkedin}}" target="_blank">LinkedIn</a></li>{% endif %}{% if page.facebook != null %}
   <li><a href="https://facebook.com/{{page.facebook}}" target="_blank">Facebook</a></li>{% endif %}
 </ul><br/>
+<h3>(for Working Sessions organisers)</h3>
+<p>To invite {{ page.title }} to your Working Session use &#32;<code class="highlighter-rouge">invited: {{ page.title }}</code></p>
 <hr/>
 <p>Back to list of <a href='/website/participants.html'>all Participants</a></p>
 <p>Edit this page <a href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}'>here </a></p>

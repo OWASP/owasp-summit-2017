@@ -15,12 +15,25 @@ participants : Francois Raynaud
 
 Working session to cover Best practices in WAF..
 
-## Who
+## Why
 
 
 ## What
 
-## Why
 
-## Definition of done
+
+## Who
+
+
+## Outcomes
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
 

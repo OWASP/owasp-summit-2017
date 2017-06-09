@@ -4,12 +4,13 @@ title        : Webgoat
 type         : workshop
 track        : Owasp Projects
 technology   : Java
-status       : done
+status       : Final stage; missing working materials
 when-day     : Wed
 when-time    : PM-1
 location     : Room-3
 organizers   : Nanne Baars
 participants : Ade Yoseman Putra
+invited      : Tiffany Long
 ---
 
 ## Why
@@ -28,7 +29,7 @@ This Working Session will explore how WebGoat can be improved.
  different; the explanation about a specific vulnerability and mitigation can be shared
 - Develop more lesson content, for example lessons specifically about crypto 
 
-## Definition of Done
+## Outcomes
 
 - New test cases
 - New shared knowledge base
@@ -44,3 +45,13 @@ The target audience for this Working Session is:
 ## Organiser
 
 For more details, more ideas etc. contact https://github.com/OWASP/owasp-summit-2017/blob/master/Participants/Nanne-Baars.md
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

@@ -6,12 +6,12 @@ owasp-project  : no
 track          : Education
 technology     :
 related-to     : Teaching Attacker perspective to Developers,Juice Shop
-status         : draft
+status         : need more content
 when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-1
 organizers     :
-participants   : Bjoern Kimminich
+participants   : Tiffany Long
 ---
 
 > :triangular_flag_on_post: TODO: Add fancy sales pitch for
@@ -35,9 +35,10 @@ formats, tools, and frameworks.
   resources)
 
 
-## Definition of Done
+## Outcomes
 
 - TODO
+- Suggested Outcome:  A doc. for OWASP groups which walks potential leaders through the decisions and process of hosting CTFs for fun and training.
 
 ## Who
 
@@ -48,3 +49,12 @@ The target audience for this Working Session is:
 - Authors of CTF frameworks
 - Authors of vulnerable web applications
 
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...

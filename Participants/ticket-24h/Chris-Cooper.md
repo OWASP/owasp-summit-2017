@@ -7,7 +7,7 @@ company         : SureCloud
 travel-from     : London
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/0c6/0ee/256e78f.jpg
 linkedin        : itscooper
-twiter          : itscooperful
+twitter          : itscooperful
 facebook        :
 website         : https://chriscooper.co/
 email           :

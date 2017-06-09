@@ -7,9 +7,9 @@ technology   : Mobile
 when-day     : Thu
 when-time    : PM-3
 location     : Room-2
-status       : done
+status       : need-outcomes; need-working materials
 organizers   : Johanna Curiel
-participants :
+participants : Don Gibson
 ---
 
 Category: Mobile Penetration Testing (Android)
@@ -44,7 +44,7 @@ Reverse engineering APKS with Bytecodevierwer (Pre-release 3.0.0) features:
 - Signing APKS after de-compilation in Smali
 - Improved search functionality
 
-## Definition of Done
+## Outcomes
 
 ... add text...
 
@@ -54,3 +54,13 @@ The target audience for this Working Session is:
 
 - Anyone new to pen testing mobile android apps
 - Anyone new to Bytecodeviewer
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

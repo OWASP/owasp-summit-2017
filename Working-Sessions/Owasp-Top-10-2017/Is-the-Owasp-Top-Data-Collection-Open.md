@@ -5,12 +5,12 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : review-content
+status       : need outcomes; need working materials; need content 
 when-day     : Mon
 when-time    : PM-2
 location     : Room-2
 organizers   : Dave Wichers
-participants :
+participants : Tiffany Long
 ---
 
 ## Why
@@ -29,14 +29,16 @@ See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/beh
 
 ## What
 
+ - Agree upon definition of 'Openness'
  - Provide evidence on lack of Openness
  - Provide evidence on Openness
  - Review evidence provided
  - Reach a conclusion
  
-## Definition of Done
+## Outcomes 
 
-...Add text...
+- Framework to apply to the current and future process for the Top 10
+- Framework suggestions for other simularly created documentation processes
 
 ## Who
 
@@ -55,5 +57,13 @@ The target audience for this Working Session is:
  - https://twitter.com/bilbragg/status/862979506767888384
  - https://twitter.com/wichers/status/863033639063474176
 
+--- 
 
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
 

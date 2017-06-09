@@ -5,12 +5,12 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : review-content
+status       : final stage; need-working materials
 when-day     : Fri
 when-time    : PM-2
 location     : Room-5
 organizers   :
-participants : Mamta Vuppu
+participants : Mamta Vuppu, Tiffany Long
 ---
 
 ## Why
@@ -26,7 +26,7 @@ This Working Session will create a Due Diligence playbook.
  - Create Due Diligence playbook
  - Use of [VSAQ: Vendor Security Assessment Questionnaire](https://github.com/google/vsaq) for 3rd party assessment
  
-## Definition of Done
+## Outcomes
 
 - Due Diligence playbook
 
@@ -37,3 +37,15 @@ The target audience for this Working Session is:
  - Security teams
  - Risk teams
  - Legal departments
+ 
+ --- 
+
+## Working materials
+
+- Draft Due Diligence playbook
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

@@ -15,8 +15,9 @@ email           : sam.stepanyan@owasp.org
 linkedin        :
 twitter         : securestep9
 facebook        :
-when-days       :
+when-days       : Mon,Tue,Wed
 ticket          : 3x8h
+regonline       : No
 working sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

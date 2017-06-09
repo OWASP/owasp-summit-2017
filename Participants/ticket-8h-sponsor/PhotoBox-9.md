@@ -7,7 +7,7 @@ company         : PhotoBox Group
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :
@@ -15,6 +15,7 @@ project-leader  :
 chapter-leader  :
 ticket          : 5x8h
 status          : empty
+regonline       : No
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

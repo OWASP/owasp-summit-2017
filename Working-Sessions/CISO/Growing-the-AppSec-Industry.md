@@ -11,7 +11,7 @@ when-day     : Mon
 when-time    : PM-2
 location     : Room-4
 organizers   : Yan Kravchenko
-participants :
+participants : Tiffany Long
 ---
 
 ## Why

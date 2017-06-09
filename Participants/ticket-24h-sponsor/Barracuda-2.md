@@ -7,7 +7,7 @@ company         : Barracuda
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :
@@ -17,6 +17,7 @@ when-day        : Mon,Tue
 ticket          : 2x24h
 # Note: please adjust the values above to your current plan (days and ticket duration)
 status          : empty
+regonline       : No
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

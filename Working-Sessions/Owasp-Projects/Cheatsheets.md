@@ -6,9 +6,9 @@ track        : Owasp Projects
 when-day     : Tue
 when-time    : PM-3
 location     : Room-1
-status       : draft
+status       : Final stage; missing working materials
 organizers   :
-participants : Marc Rimbau,Johan Peeters
+participants : Johan Peeters, Don Gibson
 ---
 ## Why
 
@@ -25,7 +25,7 @@ The purpose of this Working Session is to revise and improve the existing OWASP 
 - Plan next steps and what should be worked on next (after the Summit)
 - Question: What would be a realistic deliverable for the Summit?
 
-## Definition of Done
+## Outcomes
 
 This Working Session will draft and publish a set of revised OWASP Cheat Sheets. 
 
@@ -38,3 +38,13 @@ The target audience for this Working Session is:
 - Application architects
 - DBAs/DB experts
 - Web developers
+
+--- 
+
+## Working materials
+
+- Draft OWASP Cheat Sheets (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

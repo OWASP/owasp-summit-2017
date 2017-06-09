@@ -7,19 +7,17 @@ author      : Bjoern Kimminich
 ---
 
 I am organizing
-[the main working session](http://owaspsummit.org/Working-Sessions/Owasp-Projects/Juice-Shop.html)
-around the
-[Juice Shop vulnerable webapp](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project).
+[the Juice Shop track](https://owaspsummit.org/Working-Sessions/Juice-Shop/)
+around
+["the most trustworthy online shop out there."](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
 To get the most out of the summit for the project, I would like to give
 you some background on the session agenda and its intended outcome:
 
 I've been assembling all existing ideas and requests for new hacking
-challenges under a GitHub milestone named
-[OWASP Summit Challenge Pack
+challenges under a GitHub milestone named [OWASP Summit Challenge Pack
 2017](https://github.com/bkimminich/juice-shop/milestone/3). There are
 other interesting things to implement for the Juice Shop project than
-just hacking challenges, e.g.
-[enhancements to the
+just hacking challenges, e.g. [enhancements to the
 CTF-extension command line tool](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)!
 🚩
 
@@ -34,7 +32,8 @@ achieve this goal together:
 1. If you didn't already, please sign up as a participant for the
    working session via a GitHub Pull Request to either your participant
    file or
-   [the working session file](https://github.com/OWASP/owasp-summit-2017/blob/master/Working-Sessions/Owasp-Projects/Juice-Shop.md)! ✍
+   [the working session file](https://github.com/OWASP/owasp-summit-2017/blob/master/Working-Sessions/Owasp-Projects/Juice-Shop.md)!
+   ✍
 2. Go through the issues of the
    [OWASP Summit Challenge Pack 2017](https://github.com/bkimminich/juice-shop/milestone/3)
    and comment on them with your design & implementation ideas! 📐
@@ -46,7 +45,8 @@ achieve this goal together:
    before you start any work! 📃
 5. Fork and clone <https://github.com/bkimminich/juice-shop>, pick any
    issue from GitHub and start coding before the summit begins! 🍴 If
-   you need help, just [ping me via email](mailto:bjoern.kimminich@owasp.org)!
+   you need help, just
+   [ping me via email](mailto:bjoern.kimminich@owasp.org)!
 
 The tasks 1-4 are somewhat mandatory for working session participants,
 because without this kind of preparation it'd be next to impossible to
@@ -64,7 +64,8 @@ companion guide ebook with hints & solutions to the new challenges?
 
 Btw, the Juice Shop working session is exceptionally well-suited for
 remote participation, as you can of course implement changes at home
-while the on-site participants do the same in the evening session(s)! 🏡
+while the on-site participants do the same in the evening session(s)!
+🏡
 
 Finally, I would like to advertise some related working sessions from
 the "Education" track which might be interesting for you as well:

@@ -7,7 +7,7 @@ company         : Hewlett Packard Enterprise
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

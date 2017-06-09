@@ -7,7 +7,7 @@ company         : Capital One
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :
@@ -16,6 +16,7 @@ chapter-leader  :
 ticket          : 5x24h
 status          : empty
 working-sessions:
+regonline       : No
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

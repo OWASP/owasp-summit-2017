@@ -7,7 +7,7 @@ company         : World First
 travel-from     : London
 image           : https://pbs.twimg.com/profile_images/489370279463100416/9lOMY22Y.jpeg
 linkedin        : asadur-rahman-34956319
-twiter          : 10arahman
+twitter          : 10arahman
 facebook        :
 website         :
 email           :

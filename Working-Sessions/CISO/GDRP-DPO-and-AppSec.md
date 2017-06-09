@@ -6,12 +6,12 @@ track        : CISO
 technology   : GDPR
 related-to   :
 status       : final stage
-when-day     : Mon
+when-day     : Mon,Thu
 when-time    : PM-1
 location     : Room-4
 organizers   :
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam
-invited      : Neil Barlow, Kevin Fielder
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam, Stuart Gunter, Don Gibson
+invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden, Anders Reeves
 ---
 
 ## Why

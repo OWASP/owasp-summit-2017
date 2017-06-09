@@ -6,13 +6,14 @@ job-title       : Group Senior Director Information Security
 company         : PhotoBox Group
 travel-from     : London
 image           : https://2.bp.blogspot.com/-U8ktOqKw_8o/WQC-fiHBEDI/AAAAAAAHErU/nHVnU3JkEH8W-fTRcvDjx3daIRIYsRu9wCK4B/s113/Me.JPG
-linkedin        : https://www.linkedin.com/in/anders-reeves-672617/
-twiter          : AndersReeves
+linkedin        : anders-reeves-672617/
+twitter          : AndersReeves
 facebook        :
 website         : http://blog.andersreeves.com/
 email           : me@andersreeves.com
 ticket          : 5x8h
 status          : add-content
+regonline       : No
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

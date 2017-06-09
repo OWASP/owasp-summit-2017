@@ -5,13 +5,14 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : done
+status          : Final stage; missing working materials
 when-day        : Fri
 when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
 description     : In this book sprint we produce content for the reverse engineering chapters of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
-participants    : T.b.d.
+participants    : Carlos Holguera, Sven Schleier
+invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right" alt="owasp mstg"/>
@@ -44,7 +45,7 @@ Associated chapters in the MSTG:
 - [iOS Anti-Reversing Defenses](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06j-Testing-Resiliency-Against-Reverse-Engineering.md)
 - [Assessing Anti-Reverse Engineering Schemes](Document/0x07b-Assessing-Anti-Reverse-Engineering-Schemes.md)
 
-## Definition of Done
+## Outcomes
 
 This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
 
@@ -62,4 +63,14 @@ More things to do once you have signed up:
 
 The target audience for this Working Session is:
 
---Add text--
+- Developers
+- Security Testers
+- Reverse Engineers
+- Everyone else with good writing skills and some technical know-how :)
+
+--- 
+
+## Working materials
+
+- Draft of the [Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
+- Jailbroken iOS devices, rooted Android devices

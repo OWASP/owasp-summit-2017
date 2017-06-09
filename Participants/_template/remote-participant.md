@@ -6,7 +6,7 @@ job-title       :
 company         :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

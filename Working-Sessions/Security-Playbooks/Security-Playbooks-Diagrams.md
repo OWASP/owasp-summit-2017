@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : review-content
+status       : need-working materials
 when-day     : Mon
 when-time    : PM-2
 location     : Room-5
@@ -38,7 +38,7 @@ Threat Connect also looks interesting:
  
 ## Definition of Done
 
-- Security playbooks diagrams published
+- Diagrams of Security Playbooks published
 
 ## Who
 
@@ -53,3 +53,15 @@ Threat Connect also looks interesting:
  - [ThreatConnect Playbook Actions: Be More Efficient and Gain Control with Automated Actions](https://threatconnect.com/blog/threatconnect-playbook-actions/)
  - [Playbooks](https://blog.phantom.us/category/playbooks/) related posts in Phantom's website
  - [COPS - Collaborative Open Playbook Standard](https://github.com/demisto/COPS)
+ 
+ --- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

@@ -4,7 +4,7 @@ title        : Machine Learning and Security
 type         : workshop
 owasp-project: no
 track        : Research
-status       : review-content
+status       : need outcomes; need working materials
 organizers   : Talal Albacha
 when-day     : Wed
 when-day     : Fri
@@ -17,7 +17,7 @@ Machine Learning (ML) and Artificial Intelligence (AI) are becoming mainstream t
 
 ## Why
 
-We are now on the cusp of a Machine Learning and Artificial Intelligence revolution. ML and AI techniques have recently re-emerged as powerful tools in various business sectors such as Fraud Detection, Anomaly Detection, and Behavioral Analysis. There are several companies and services that are exploring these technologies and have successfully used them to solve specific security challenges. 
+We are on the cusp of a Machine Learning and Artificial Intelligence revolution. ML and AI techniques have recently re-emerged as powerful tools in various business sectors such as Fraud Detection, Anomaly Detection, and Behavioral Analysis. Several companies and services are exploring these technologies and use them to solve specific security challenges successfully. 
 
 Despite the success of ML and AI, there are security risks associated with them, especially during the learning phase which can be vulnerable to threats originated by potential adversaries, with consequent impact on prediction results. 
 
@@ -33,9 +33,9 @@ This Working Session will share common practices; what works today, and what is 
  - Can AI be used to reduce false positive findings in security scanners?
  - How can we spread the message among developers and security communities? 
  
-## Definition of Done
+## Outcomes
 
-...add text...
+... Add content ...
 
 ## Who
 
@@ -45,3 +45,13 @@ The target audience for this Working Session is:
  - ML and AI researchers
  - Devops
  - SOC teams
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
