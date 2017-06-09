@@ -3,7 +3,7 @@ layout          : blocks/page-participant
 title           : David Sastre
 type            : participant
 job-title       :
-company         : WorldPay
+company         : Worldpay
 travel-from     :
 image           :
 linkedin        :
@@ -11,6 +11,7 @@ twitter          :
 facebook        :
 website         :
 email           :
+when-day        : 
 ticket          : 1x8h
 status          : empty
 working-sessions:
