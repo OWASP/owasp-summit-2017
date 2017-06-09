@@ -1,7 +1,7 @@
 ---
 layout       : blocks/working-session
 title        : OWASP Top 10 Call for Data and Weightings Discussion
-type         : 
+type         : workshop
 owasp-project: 
 track        : Owasp Top 10 2017
 technology   :
