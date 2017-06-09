@@ -48,7 +48,8 @@ This working session will implement the following:
   and
   [~~Pomace Recycling~~](https://github.com/bkimminich/juice-shop/issues/243)(_done!_)
 - Hint and solution sections for each new challenge are added to the
-  [Pwning OWASP Juice Shop](https://www.gitbook.com/book/bkimminich/pwning-owasp-juice-shop/details) e-book
+  [Pwning OWASP Juice Shop](https://www.gitbook.com/book/bkimminich/pwning-owasp-juice-shop/details)
+  e-book
 - Functional and convenience improvements to the Juice Shop
   CTF-extension
 
@@ -72,7 +73,8 @@ The target audience for this Working Session is:
 - Web developers (Knowledge of Angular 1.x would be great but is _not
   mandatory_)
 - Web designers (the vulnerable features will _at least look good_)
-- Hint/solution/documentation editors (Basic Markdown knowledge would be nice but is _not mandatory_)
+- Hint/solution/documentation editors (Basic Markdown knowledge would be
+  nice but is _not mandatory_)
 
 ### Remote Participants
 
@@ -89,7 +91,7 @@ All that in your own speed and schedule!
 
 ## Working materials
 
-| Juice Shop (`develop`)                                                                                                                                                       | Juice Shop CTF (`develop`)                                                                                                                                                      |
+| Juice Shop (`develop` branch)                                                                                                                                                | CTF-Extension (`develop` branch)                                                                                                                                                |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Build Status](https://travis-ci.org/bkimminich/juice-shop.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop)                                               | [![Build Status](https://travis-ci.org/bkimminich/juice-shop-ctf.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop-ctf)                                          |
 | [![Build status](https://ci.appveyor.com/api/projects/status/903c6mnns4t7p6fa/branch/develop?svg=true)](https://ci.appveyor.com/project/bkimminich/juice-shop/branch/master) | [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=develop) |
