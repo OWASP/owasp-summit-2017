@@ -21,4 +21,4 @@ working-sessions: A10 - Underprotected APIs, Writing Security Tests, Testing Gui
 
 Chris is a security consultant and pentester predominantly working in AppSec. He works across both public- and private-sector organisations - from small development teams to FTSE 100 companies - performing testing, consulting, and training. He currently leads the team of security consultants and pentesters at SureCloud.
 
-Chris is a small-time speaker who particuraly enjoys spreading the security gospel to end users, engineers, and developers (see his [Speaker Deck](https://speakerdeck.com/itscooper) and this [webinar](https://www.brighttalk.com/webcast/13155/218743)).
+Chris is a small-time speaker who particularly enjoys spreading the security gospel to end users, engineers, and developers (see his [Speaker Deck](https://speakerdeck.com/itscooper) and this [webinar](https://www.brighttalk.com/webcast/13155/218743)).
