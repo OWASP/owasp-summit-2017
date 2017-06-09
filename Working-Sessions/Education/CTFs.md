@@ -11,7 +11,7 @@ when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-1
 organizers     :
-participants   : Bjoern Kimminich
+participants   : Tiffany Long
 ---
 
 > :triangular_flag_on_post: TODO: Add fancy sales pitch for
@@ -38,6 +38,7 @@ formats, tools, and frameworks.
 ## Outcomes
 
 - TODO
+- Suggested Outcome:  A doc. for OWASP groups which walks potential leaders through the decisions and process of hosting CTFs for fun and training.
 
 ## Who
 

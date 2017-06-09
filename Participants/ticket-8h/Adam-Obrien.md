@@ -7,14 +7,14 @@ company         : Oracle
 travel-from     : London
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/04a/086/1c3ff3d.jpg
 linkedin        : adamlobrien
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :
 ticket          :
 status          : empty
 ticket          : 5x8h
-working-sessions: Draft SAMM2 - the "DevOps release", Maturity Models tool, Review and improve the 12 SAMM practices, Update SAMM model to take into account Agile and DevOps, GDPR and DPO AppSec implications, Define Agile Security Practices
+working-sessions: SAMM - V2 Ground Rules, SAMM - Conducting Assessments, SAMM - Core Model Update 1 - Intro, SAMM - Core Model Update 2 - Dev Methods, A7 - Insufficient Attack Protection, Creating AppSec Teams, Securing the CI Pipeline, SAMM - Core Model Update 3 - Implementation, SAMM - Core Metrics, SAMM - Outreach and Marketing, SAMM - Standards and Compliance Mapping, Securing Legacy Applications, Machine Learning and Security, Scaling Static Analysis Reviews and Deployments
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

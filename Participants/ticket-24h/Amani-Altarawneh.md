@@ -7,7 +7,7 @@ company         : Auburn University Security lab
 travel-from     : United States
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

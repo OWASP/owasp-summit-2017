@@ -7,7 +7,7 @@ company         : Checkmarx
 travel-from     : Israel
 image           : https://pbs.twimg.com/profile_images/1792189419/weemee.jpg
 linkedin        : ohad-rabinovich-2a14246 
-twiter          : 
+twitter          :
 facebook        :
 website         : 
 email           :

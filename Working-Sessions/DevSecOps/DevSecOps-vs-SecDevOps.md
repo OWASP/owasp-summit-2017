@@ -9,7 +9,7 @@ when-time   : Eve
 location    : Villa-3
 organizers  : Francois Raynaud
 participants: Marc Rimbau, Felipe Zipitria, Avi Douglen
-invited     : Ante Gulam, Colin Domoney
+invited     : Ante Gulam, Colin Domoney, Tiffany Long
 ---
 
 This Working Session will be a light-hearted, round-table discussion on this very important topic in our community.

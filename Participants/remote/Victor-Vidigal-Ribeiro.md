@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       : Software Engineering Researcher
 image           : https://avatars2.githubusercontent.com/u/107245?v=3&u=68681e68d103fd4a0f5a3636bab4be444bbf19f5&s=400
 linkedin        : victor-vidigal-aa20a730/
-twiter          : VictorVidigal
+twitter          : VictorVidigal
 facebook        : victor.vidigalribeiro
 website         : http://cos.ufrj.br/~vidigal/
 email           : victorvidigal@gmail.com

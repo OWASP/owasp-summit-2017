@@ -7,7 +7,7 @@ company         : Big Nerd Ranch
 travel-from     : United States
 image           : https://pbs.twimg.com/profile_images/856891492144734208/ceITF9fK.jpg
 linkedin        :
-twiter          : bolot
+twitter          : bolot
 facebook        :
 funded-who      : self
 status          : done

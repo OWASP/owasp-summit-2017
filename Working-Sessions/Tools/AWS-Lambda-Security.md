@@ -3,7 +3,7 @@ layout      : blocks/working-session
 title       : AWS Lambda Security
 type        : workshop
 track       : Tools
-status      : draft
+status      : need-more content
 when-day    :
 organizers  :
 participants: Dinis Cruz
@@ -22,7 +22,7 @@ participants: Dinis Cruz
  - What features are missing?
  - Are users aware of existing features?
  
-## Definition of Done
+## Outcomes
 
 ...add text...
 
@@ -33,3 +33,13 @@ The target audience for this Working Session is:
 - AWS Security team
 - AWS Lambda developers
 - AWS Lamba users
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

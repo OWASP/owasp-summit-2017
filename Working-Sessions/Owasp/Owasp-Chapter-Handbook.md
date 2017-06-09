@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : OWASP Chapter Leader Handbook
 type         : workshop
 track        : Owasp
-status       : draft
+status       : need working material
 when-day     : 
 organizers   : Avi Douglen
 participants :
@@ -11,7 +11,7 @@ participants :
 
 The joint purpose of the OWASP Chapter Handbook and the OWASP Chapter Leader Handbook is to provide chapter leaders with a central repository of information about starting a chapter, organising a chapter meeting, handling chapter finances, etc.   
 The Handbook is currently under review, and the updated version is currently in draft form. 
-This Working Session will discuss and agree on any open issues. The session will also consider new issues, particularly those relating to atypical chapters and the different styles of chapter operations.  
+This Working Session will discuss and agree on any open issues. The session will also consider new issues, particularly those relating to atypical chapters and the different styles of chapter operation.  
 
 ## What
 
@@ -22,20 +22,16 @@ This Working Session will discuss and agree on any open issues. The session will
 - New requirements
 - <List of specific issues to discuss?> 
 
-## Potential outcomes
+## Outcomes
 
+- Revised draft of OWASP CHapter Handbook
+- Cheat sheets for chapter leaders, new leaders, and new chapters
 - Clarifying responsibilities and accountabilities
-- Updated draft
 - One-page cheat sheets for:
     - chapter leaders 
     - new leaders 
     - creating a new chapter
 - All outcomes are not final, and will serve as input for Foundation
-
-## Definition of Done
-
-- Revised draft of OWASP CHapter Handbook
-- Cheat sheets for chapter leaders, new leaders, and new chapters
 
 ## Who
 
@@ -53,4 +49,15 @@ The target audience for this Working Session is:
 - [Current Chapter Leader Handbook (slides)](https://www.owasp.org/images/5/56/OWASP_February_28,_2013.pdf)
 - [Old Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook_(OLD))
 
+--- 
+
+## Working materials
+
+- Revised draft of OWASP CHapter Handbook
+- Draft cheat sheets for chapter leaders, new leaders, and new chapters
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...
 

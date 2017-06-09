@@ -1,19 +1,19 @@
 ---
 layout          : blocks/page-participant
-title           : WorldPay 2
+title           : Tatiana Yusupova
 type            : participant
-job-title       :
+job-title       : Software Developer
 company         : WorldPay
 travel-from     :
 image           :
-linkedin        :
-twiter          :
+linkedin        : https://www.linkedin.com/in/tatianayusupova
+twitter         :
 facebook        :
 website         :
 email           :
 ticket          :
 status          : empty
-working-sessions:
+working-sessions: A10 - Underprotected APIs, A7 - Insufficient Attack Protection, What Should be Added to the Top 10, Security Champions
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

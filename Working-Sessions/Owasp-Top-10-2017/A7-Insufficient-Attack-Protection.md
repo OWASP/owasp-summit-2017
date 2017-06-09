@@ -5,12 +5,12 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : review-content
+status       : final stage 
 when-day     : Tue
 when-time    : PM-1
 location     : Room-2
 organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
-participants :
+participants : Sebastien Deleersnyder
 ---
 
 Based on analysis of more than 2.3 million vulnerabilities in more than 50,000 applications, the OWASP Top 10 2017 introduces two new categories: Insufficient Attack Protection and Underprotected APIs.
@@ -21,7 +21,7 @@ Since one of the basic security capabilities is being able to detect, prevent, a
 
 The OWASP Top 2017 introduces Insufficient Attack Protection as a new Top 10 category, and this Working Session will present an opportunity to challenge or support its addition to the new Top 10.
 
-While the introduction of Underprotected APIs is considered by most as a good addition, Insufficient Attack Protection managed to generate a significant number of negative comments such as that A7 is just a WAF vendor pitch. While the same could have been said for 2FA when security industry started pushing it, the idea behind A7 is much more than a sales pitch.
+While the introduction of Underprotected APIs is considered by most as a good addition, Insufficient Attack Protection managed to generate a significant number of negative comments such as that A7 is just a WAF vendor pitch. While the same could have been said for 2FA when the security industry started pushing it, the idea behind A7 is much more than a sales pitch.
 
 The idea behind A7 is the "Security-as-Code" principle meaning that security professionals should translate every security requirement, every threat model, and every security architecture into code that could be run during development, build, test, and deployment process.
 
@@ -32,7 +32,7 @@ The idea behind A7 is the "Security-as-Code" principle meaning that security pro
  - What are the pros and cons of this category?
  - Is this category important enough to be added to the new Top 10?
  
-## Definition of Done
+## Outcomes
 
 This Working Session will decide whether the Underprotected APIs category will be added to the Top 10.
 
@@ -52,3 +52,13 @@ The target audience for this Working Session is:
  - [Abusing OWASP with 'Insufficient Attack Protection'](http://www.skeletonscribe.net/2017/04/abusing-owasp.html)
  - https://twitter.com/securestep9/status/863005880161382400
  - http://lists.owasp.org/pipermail/owasp-topten/2017-April/001422.html
+
+--- 
+
+## Working materials
+
+Draft proposal whether or not the Underprotected APIs category should be added to the Top 10.
+
+### Content
+
+... Add content ...

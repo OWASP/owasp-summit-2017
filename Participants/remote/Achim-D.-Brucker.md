@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       :
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/063/260/3d64d19.jpg
 linkedin        : adbrucker
-twiter          : adbrucker
+twitter          : adbrucker
 facebook        :
 website         : https://www.brucker.ch
 email           : adbrucker@0x5f.org

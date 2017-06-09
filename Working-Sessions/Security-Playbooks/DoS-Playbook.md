@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : review-content
+status       : final stage; need-working materials
 when-day     : Fri
 when-time    : PM-1
 location     : Room-5
@@ -25,7 +25,7 @@ When that happens, it is essential that very clean workflows (aka playbooks) exi
 
  - Create DoS playbook
  
-## Definition of Done
+## Outcomes
 
 - DoS playbook
 
@@ -35,3 +35,15 @@ The target audience for this Working Session is:
 
  - Security teams
  - SOC
+ 
+--- 
+
+## Working materials
+
+- Draft DoS playbook
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

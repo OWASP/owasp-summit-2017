@@ -6,7 +6,7 @@ job-title       :
 company         :
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/070/05d/11de117.jpg
 linkedin        : gfragkos
-twiter          :
+twitter          :
 facebook        :
 website         : https://www.invinsec.com/
 email           :

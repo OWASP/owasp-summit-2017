@@ -7,7 +7,7 @@ company         : BlackBerry
 travel-from     : Mainenhead
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

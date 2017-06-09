@@ -10,9 +10,8 @@ status       : need-more content
 when-day     : Tue
 when-time    : PM-1
 location     : Room-3
-organizers   :
-participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Phil Parker,Duncan Hurwood
----
+organizers   : Irene Michlin
+participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Phil Parker,Duncan Hurwood,Stuart Gunter, Stephen de Vries
 
 ## Why
 

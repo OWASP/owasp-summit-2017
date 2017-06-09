@@ -6,7 +6,7 @@ job-title       : Security Consultant
 company         : Vertical Structure Ltd
 image           : 
 linkedin        : 
-twiter          : vsltd
+twitter          : vsltd
 facebook        :
 website         :
 email           : simon.whittaker@verticalstructure.com

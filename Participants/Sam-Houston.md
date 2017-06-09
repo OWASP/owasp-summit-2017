@@ -7,7 +7,7 @@ company          : Bugcrowd
 travel-from      :
 image            : https://pbs.twimg.com/profile_images/567112249999757313/AmlTsp30_400x400.jpeg
 linkedin         : samhouston
-twiter           : samhouston
+twitter           : samhouston
 facebook         :
 website          :
 email            :

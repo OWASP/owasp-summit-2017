@@ -4,19 +4,19 @@ title        : SAMM - Standards and Compliance Mapping
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes
-when-day     : Thu
-when-time    : PM-2
+status       : need-outcomes; need-working materials
+when-day     : Wed
+when-time    : PM-3
 location     : Villa-1
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
 ---
 
-Map SAMM on standards or regulatory requirements
+Map SAMM on standards or regulatory requirements.
 
 ## Why
 
-SAMM aligns with components of several Standards and Compliance definitions. This session is for identifying which standard and compliance articles could be mapped to SAMM and review of the existing mappings.
+SAMM aligns with components of several Standards and Compliance definitions. This Working Session will identify which standard and compliance articles could be mapped to SAMM. The session will also review the existing mappings.
 
 ## What
 
@@ -24,7 +24,29 @@ SAMM aligns with components of several Standards and Compliance definitions. Thi
 - Identification of potential mappings
 - Plan of how to map and maintain the mappings
 
+## Outcomes
+
+- Plan of how to map and maintain the mappings
 
 ## Who
 
-Security champions, Security architects, DevOps Roles, CISO, ...
+The target audience for this Working Session is:
+
+- Security champions
+- Security architects
+- DevOps Roles
+- CISOs
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
+
+

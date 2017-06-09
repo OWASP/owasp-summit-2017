@@ -8,7 +8,7 @@ when-time    : PM-3
 location     : Room-1
 status       : Final stage; missing working materials
 organizers   :
-participants : Marc Rimbau,Johan Peeters
+participants : Johan Peeters, Don Gibson
 ---
 ## Why
 

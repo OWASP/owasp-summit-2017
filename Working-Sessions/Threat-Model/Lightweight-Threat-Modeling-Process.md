@@ -3,17 +3,17 @@ layout       : blocks/working-session
 title        : Lightweight Threat Modeling Process
 type         : workshop
 track        : Threat Model
-status       : review-content
+status       : final stage; need-working materials
 when-day     : Wed
-when-time    : PM-1,PM-2
-location     : Room-6
+when-time    : PM-1
+location     : Villa-4
 organizers   : Geoff Hill
-participants : Marc Rimbau,Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin
+participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin, Steven Wierckx
 ---
 
 ## Why
 
-This Working Session aims to produce an overview of how to integrate threat modelling into a Agile/DevOps/Continuous Integration (ADCI) process. Keep in mind that a proper lightweight process should be easily-repeatable with few moving parts (ie. steps). It should be flexible enought to be used with various taxonomies and libraries.  The focus of this session should be on creating that process.
+This Working Session aims to produce an overview of how to integrate threat modelling into a Agile/DevOps/Continuous Integration (ADCI) process. Keep in mind that a proper lightweight process should be easily-repeatable with few moving parts (ie. steps). It should be flexible enough to be used with various taxonomies and libraries.  The focus of this session should be on creating that process.
 
 
 ## What 
@@ -38,9 +38,21 @@ This Working Session aims to produce an overview of how to integrate threat mode
 ## Who
 
 The target audience for this Working Session is:
-- architects
-- designers
-- scrum leads
-- security champions
+
+- Architects
+- Designers
+- Scrum leads
+- Security champions
 - SMEs
 
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session 
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

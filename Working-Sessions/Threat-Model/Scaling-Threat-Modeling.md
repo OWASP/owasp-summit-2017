@@ -5,12 +5,12 @@ type         : workshop
 track        : Threat Model
 technology   :
 related-to   :
-status       : review-content
+status       : final stage; need-working materials
 when-day     : Wed
-when-time    : PM-1
-location     : Room-6
+when-time    : PM-2
+location     : Villa-4
 organizers   :
-participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström
+participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström, Steven Wierckx
 ---
 
 This Working Session will explore scaling threat modelling in enterprise.
@@ -26,7 +26,7 @@ To be effective, threat modelling must scale throughout an enterprise. There are
 - How do we get Security Champions involved in threat modelling?
 - What are the check points (i.e. how do you evaluate the threat models created by many teams)?
 
-## Definition of Done
+## Outcomes
 
 - Guidelines on scaling and evaluating threat modelling
 
@@ -39,3 +39,15 @@ The target audience for this Working Session is:
  -  Security Champions
  -  CISOs
  -  CTOs
+ 
+ --- 
+
+## Working materials
+
+- Draft guidelines on scaling and evaluating threat modelling
+
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

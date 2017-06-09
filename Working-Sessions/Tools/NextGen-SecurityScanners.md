@@ -3,12 +3,13 @@ layout       : blocks/working-session
 title        : NextGen Security Scanners
 type         : workshop
 track        : Tools
-status       : done
+status       : final stage; need-working materials
 when-day     : Thu
 when-time    : PM-2
 location     : Room-5
 organizers   :
-participants : Bjoern Kimminich,Marc Rimbau,Johan Peeters
+participants : Johan Peeters, Ingo Hanke
+invited      : Simon Bennetts
 ---
 
 ## Why
@@ -23,7 +24,7 @@ Today's security scanners were built for yesterday's web applications, based on 
 - How to further assist users during proxied manual pen tests?
 - How can vulnerable applications like [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) be used by scanner vendors as a sample victim?
 
-## Definition of Done
+## Outcomes
 
 - OWASP ZAP extensions for JavaScript client-side code analysis
 - Improvements of OWASP ZAP Ajax Spider
@@ -37,5 +38,15 @@ The target audience for this Working Session is:
 - Burp, Acunetix, and other commercial scanner developers
 - JavaScript frontend developers
 - Web application developers
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
 
 

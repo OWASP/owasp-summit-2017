@@ -7,7 +7,7 @@ company         : IG Group
 image           : https://pbs.twimg.com/profile_images/821053493368811521/a50bFODy_400x400.jpg
 email           : rmorschel@gmail.com
 linkedin        : robertmorschel
-twitter         : gerryhatric
+twitter         : rmorschel
 facebook        :
 website         : http://soa-probe.com
 status          : done

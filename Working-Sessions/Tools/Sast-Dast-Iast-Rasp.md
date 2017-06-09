@@ -4,7 +4,7 @@ title       : Best practices in using SAST, DAST, IAST and RASP Tools
 type        : workshop
 track       : Tools
 technology  : SAST
-status      : draft
+status      : final stage; need-working materials
 organizers  :
 participants: Marc Rimbau,Felipe Zipitria,Avi Douglen, Timo Pagel
 related-to  : Integrating Security Tools in the SDL, Securing the CI Pipeline
@@ -24,7 +24,7 @@ There are many tools that can help an organisation to check vulnerabilities in t
  - How to parse and filter results? 
  - Draft recommendations for writing specific tests
 
-## Definition of Done
+## Outcomes
 
 - Cheat sheets for tools usage
 - Draft recommendations for writing specific tests
@@ -37,3 +37,15 @@ The target audience for this Working Session is:
 - *ST* and RASP service providers
 - Consulting companies
 - Standards bodies
+
+--- 
+
+## Working materials
+
+- Draft cheat sheets for tools usage
+- Draft recommendations for writing specific tests
+(please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

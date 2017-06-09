@@ -7,7 +7,7 @@ company         :
 travel-from     : Spain
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :
