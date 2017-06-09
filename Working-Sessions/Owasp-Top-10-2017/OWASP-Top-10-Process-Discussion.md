@@ -1,7 +1,7 @@
 ---
 layout       : blocks/working-session
 title        : OWASP Top 10 Process Discussion
-type         : 
+type         : workshop
 owasp-project: no
 track        : Owasp Top 10 2017
 technology   :
