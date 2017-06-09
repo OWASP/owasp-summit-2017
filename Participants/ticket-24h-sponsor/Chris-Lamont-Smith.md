@@ -1,13 +1,13 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One (3rd)
+title           : Chris-Lamont Smith
 type            : participant
 job-title       :
 company         : Capital One
 travel-from     :
 image           :
 linkedin        :
-twitter          :
+twitter         :
 facebook        :
 website         :
 email           :
