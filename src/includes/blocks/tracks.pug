@@ -1,6 +1,3 @@
-//.featured-ws
-    .container
-| {% assign tracks = site.pages | where: 'type', 'track'  %}
 .row
     .col-xs-0
     .col-xs-12
@@ -11,10 +8,10 @@
     .col-xs-0
     .col-xs-12
         .row
-            | {% for page in tracks %}
-            .col-xs-4.col-sm-3
+            | {% for track in site.data.mapped.tracks %}
+            .col-xs-4.col-sm-2
                 .ws-box
                     .ws-title
-                        a(href="{{page.url}}") {{page.title | truncate: 45 }}
+                        a(href="{{track[1].url}}") {{track[1].name | truncate: 45 }}
             | {% endfor %}
     .col-xs-0

@@ -5,30 +5,35 @@ type         : workshop
 track        : DevSecOps
 technology   : SOC,GDPR
 related-to   : CISO
-status       : need-organizer
-organizers   :
-participants : Dinis Cruz
+status       : Final stage
+when-day     : Thu
+when-time    : AM-1
+location     : Room-1
+organizers   : Mateo Martinez
+participants : Dinis Cruz,Francois Raynaud, Don Gibson, Robert Morschel, Johan Peeters, Don Gibson
 ---
 
 ## Why
 
-Capturing logs and visualising them in a SOC (Security Operation Center) is a key activity in the asymmetric arms race against malicious actors (and bugs).
+Capturing logs and visualising them in a SOC (Security Operation Center) is a key activity in the asymmetric arms race against malicious actors and bugs.
 
-In addition to providing high value actionable information, a good SOC will allow provide a wealth of valuable metrics and visualisations for the business (from user activities/behaviour to to system performance)
+In addition to providing high-value actionable information, a good SOC will provide a wealth of valuable metrics and visualisations for the business, from user activities and behaviour to system performance.
+
+The Working Session will assess the role, the work, and the importance of a SOC within a business.
 
 ## What
 
- - What are the the key technical and operational components of SOCs
- - Map examples of SOC implementations (people, process and technologies)
- - Best practices in capturing logs and feeding them intro central locations
+ - What are the key technical and operational components of SOCs?
+ - Map examples of SOC implementations (people, processes and technologies)
+ - What are the best practices for capturing logs and feeding them into central locations?
+ - What is the business case for a larger SOC which is sponsored by another business unit (i.e. not just Security)?
+ - What are the best practices for using tools like ELK or Splunk?
+ - How to secure SOCs data and infrastructure
  - How to visualise the data collected in actionable/meaningful graphs
- - Best practices in using tools like ELK or Splunk
- - Securing SOCs data and infrastucture
- - Business case for a larger SOC which is sponsored by other business unit (i.e. not just Security)
  - How to use Machine Learning and AI to improve data capture and analysis
- - How to use Business Intelligence techniques and Big Data tools to improve analysis and visualisations
+ - How to use Business Intelligence Techniques and Big Data tools to improve analysis and visualisations
  - Using AppSensor to feed data into SOC and to respond to analysis results
- - Explore specific security incidents:
+ - Exploring specific security incidents:
     - Malware infection
     - Web Injection attack
     - Account Brute Force attacks
@@ -36,13 +41,32 @@ In addition to providing high value actionable information, a good SOC will allo
     - Business logic exploitation
     - Data extraction
  - How does SOC help with GDPR requirements
+ - What to look for - tricks, tips and ideas
+ 
+## Outcomes
+
+This Working Session will publish a document containing the following:
+
+- List of best practices for capturing logs and feeding them into central locations
+- List of best practices for using tools like ELK or Splunk
+- Guidelines for visualising SOC data collected in actionable/meaningful graphs
+- Tricks, tips and ideas 
 
 ## Who
 
+The target audience for this Working Session is:
+
  - SOC and Network Operations teams
- - InfoSec and AppSec Professionals
- - Business analysis
+ - InfoSec and AppSec professionals
+ - Business analysts
  - CISOs
+ 
+--- 
 
+## Working materials
 
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 
+### Content
+
+...add content...

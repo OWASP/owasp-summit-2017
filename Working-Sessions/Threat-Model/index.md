@@ -4,8 +4,8 @@ title        : Threat Model
 type         : track
 status       : featured
 description  : Working Sessions related to Threat Modeling Security
-organizers   : Geoff Hill,Tony UV
-participants : Robert Hurlbut,Stephen de Vries,Adam Shostack,Sebastien Deleersnyder,Steven Wierckx,Francois Raynaud,Marc Rimbau,Dinis Cruz
+organizers   : Tony UV,Steven Wierckx
+participants : Robert Hurlbut,Stephen de Vries,Adam Shostack,Marco Morana,Sebastien Deleersnyder,Francois Raynaud,Marc Rimbau,Dinis Cruz,Robert Morschel,Avi Douglen,Irene Michlin,Geoff Hill
 ---
 
 ### Summary
@@ -35,4 +35,6 @@ Work on multiple Threat Modeling topics and improve existing materials.
 - [Process for Attack Simulation & Risk Analysis, Risk Centric Threat Modeling Methodology](https://versprite.com/PASTA-abstract.pdf)
 - [STRIDE Threat Categorization Model](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
 - [Software Defined Network Threat Models](https://msdn.microsoft.com/en-us/library/ee823878(v=cs.20).aspx)
-- [Application Threat Modelling (OWASP)](https://www.owasp.org/index.php/Application_Threat_Modeling)
+- [Application Threat Modeling (OWASP)](https://www.owasp.org/index.php/Application_Threat_Modeling)
+- [Tactical Threat Modeling (SAFECode Whitepaper)](https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)
+- [Threat Modeling 101 (SAFECode Video)](https://training.safecode.org/course/threat_modeling_101)

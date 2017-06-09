@@ -1,10 +1,13 @@
 # top menu
+faq                 : /pages/faq
+schedule            : /pages/schedule
 about               : /website/about.html
 working-sessions    : /website/working-sessions.html
 participants        : /website/participants.html
 venue               : /website/venue.html
+blog                : /website/blog.html
 sponsors            : /website/sponsors.html
-summit-organization : /website/summit-organization.html
+admin               : /website/summit-organization.html
 buy-ticket          : /website/buy-ticket.html
 
 

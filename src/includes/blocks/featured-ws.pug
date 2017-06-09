@@ -1,28 +1,28 @@
 .featured-ws
     .container
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0.col-sm-0
+            .col-xs-12.col-sm-12
                 h1 Featured Working Sessions
             .col-xs-0.col-sm-1
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0.col-sm-0
+            .col-xs-12.col-sm-12
                 .row
-                    | {% for page in site.pages %}
-                    |   {% if page.title and page.type == 'workshop' and page.status == 'featured' %}
+                    | {% for working-session in site.data.mapped.working-sessions %}
+                    |   {% if working-session[1].metadata.type == 'workshop' and working-session[1].metadata.status == 'featured'%}
                     .col-xs-6.col-sm-4
                         .ws-box
                             .ws-title
-                                a(href="{{page.url}}") {{page.title | truncate: 45 }}
-                            .ws-description  {{page.description | truncate: 180 }}
+                                a(href="{{working-session[1].url}}") {{working-session[1].name | truncate: 45 }}
+                            .ws-description  {{working-session[1].metadata.description | truncate: 180 }}
                     |   {% endif %}
                     | {% endfor %}
-            .col-xs-0.col-sm-1
+            .col-xs-0.col-sm-0
         .row
-            .col-xs-0.col-sm-1
-            .col-xs-12.col-sm-10
+            .col-xs-0.col-sm-0
+            .col-xs-12.col-sm-12
                 a.btn.btn-primary(href='{{ site.data.links.working-sessions}}')
                     span.plus-sign +
                     span See all working sessions
-            .col-xs-0.col-sm-1
+            .col-xs-0.col-sm-0

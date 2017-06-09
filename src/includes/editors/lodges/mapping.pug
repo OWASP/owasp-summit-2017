@@ -1,0 +1,56 @@
+.lodges
+    .container
+        h1 {{ page.title }}
+            a(href='/pages/for-editors') Back to Editor's pages
+        p Here are the participant's mappings (per Lodge)
+
+        br
+        h2 Pre-Summit Team (ZL4G) June 10,11
+        p.
+            This the advanced party that is going to finalise the last operational details and
+            make sure everything is in place
+        .row
+            | {% for lodge in site.data.lodges.pre-summit %}
+            .col-xs-3.col-sm-3
+                .card
+                    h3 {{ lodge[0] }}
+                    h4 {{ lodge[1].name }}
+                    ul
+                        | {% for user in lodge[1].users %}
+                        li {{ user }}
+                        | {% endfor %}
+            | {% endfor %}
+
+
+        h2 Working Lodges (ZL4G) June 12,13,14,15
+        p.
+            These are the Lodges closer to the Conference Center and where multiple Working Sessions will be hosted
+            (including the Evening sessions)
+        .row
+            | {% for lodge in site.data.lodges.with-sessions %}
+            .col-xs-3.col-sm-3
+                .card
+                    h3 {{ lodge[0] }}
+                    h4 {{ lodge[1].name }}
+                    ul
+                        | {% for user in lodge[1].users %}
+                        li {{ user }}
+                        | {% endfor %}
+            | {% endfor %}
+
+
+        h2 Quiet Lodges (XL42) June 12,13,14,15
+        p.
+            These are the Lodges located a bit farther from the Conference Center with
+            no activities booked.
+        .row
+            | {% for lodge in site.data.lodges.quiet-lodges %}
+            .col-xs-3.col-sm-3
+                .card
+                    h3 {{ lodge[0] }}
+                    h4 {{ lodge[1].name }}
+                    ul
+                        | {% for user in lodge[1].users %}
+                        li {{ user }}
+                        | {% endfor %}
+            | {% endfor %}

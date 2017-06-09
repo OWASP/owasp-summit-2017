@@ -1,0 +1,72 @@
+mixin status
+    | {% assign page_status = metadata.status | split: ',' %}
+    | {% for status in page_status %}
+    |   {% case status %}
+    |       {% when 'draft' %}
+    .label.label-primary {{ status }}
+    |       {% when 'done' %}
+    .label.label-success {{ status }}
+    |       {% when 'empty' %}
+    .label.label-danger {{ status }}
+    |       {% else %}
+    .label.label-warning {{ status }}
+    |   {% endcase %}
+    | {% endfor %}
+
+mixin image
+    | {% if metadata.image != '' %}
+    img(src='{{ metadata.image }}' alt='{{ metadata.title }}')
+    | {% else %}
+    img(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
+    | {% endif %}
+
+mixin email
+    | {% if metadata.email != null %}
+    | {{ metadata.email }}
+    | {% else %}
+    | {{ site.data.emails[metadata.title] }}
+    | {% endif %}
+
+
+mixin show-table
+
+    table.table.table-striped
+        thead
+            th #
+            th.large-column name (title)
+            th
+            th ticket
+            th when-day
+            th regonline
+
+        | {% for participant in participants  %}
+        | {%    assign metadata = participant.metadata      %}
+        tr.text-center(class='regonline-{{metadata.regonline}}')
+            td.text-center {{ forloop.index }}
+            td
+                a(href='{{ participant.url }}' target='_blank') {{ participant.name }}
+            td
+                a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ participant.url | replace: '.html','.md'}}" target='_blank') edit
+
+            td
+                | {{ metadata.ticket }}
+            td
+                | {{ metadata.when-day }}
+            td
+                | {{ metadata.regonline }}
+        | {% endfor %}
+
+.tickets
+    .participants-table
+        h1 Participant's Tickets
+            a(href='/pages/for-editors') Back to Editor's pages
+
+
+        h3 With Tickets
+        | {% assign participants = site.data.mapped.participants | where_exp: 'item', "item.metadata.type == 'participant' " | where_exp: 'item', "item.metadata.ticket != ''" %}
+        + show-table
+
+        hr
+        h3 Without Tickets
+        | {% assign participants = site.data.mapped.participants | where_exp: 'item', "item.metadata.ticket == ''" %}
+        + show-table

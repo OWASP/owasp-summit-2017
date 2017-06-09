@@ -1,0 +1,49 @@
+
+mixin add-author
+    | {% assign author = site.data.mapped.participants[page.author]  %}
+    | {% if author                                                  %}
+    | {%    if author.metadata.image != null                                 %}
+    img.img-responsive(src='{{ author.metadata.image }}' alt='{{ author.name }}')
+    | {%    else                                                    %}
+    img.img-responsive(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
+    | {%    endif                                                   %}
+    .author
+        a(href='{{author.url}}') {{ author.name }}
+    | {%   else                                                     %}
+    .author {{ page.author }}
+    | {%   endif                                                    %}
+
+mixin add-date
+    .date {{ page.date | date: "%-d %B" }}
+
+mixin add-content
+    | {{ page.content }}
+
+mixin add-navigation
+    hr
+    .row
+        .col-xs-4.text-left
+            | {% if page.previous.url %}
+            a(class="prev" href="{{page.previous.url}}" title="{{ page.previous.title}}") &laquo; previous post
+            | {% endif %}
+        .col-xs-4.text-center
+            a(class="next" href="{{ site.data.links.blog }}" title="All posts")  all posts
+        .col-xs-4.text-right
+            | {% if page.next.url %}
+            a(class="next" href="{{page.next.url}}" title="{{ page.next.title}}")   next post &raquo;
+            | {% endif %}
+
+
+.blog.blog-post
+    .container
+        .row
+            .col-xs-2
+                + add-author
+                + add-date
+
+            .col-xs-10
+                br
+                h3 {{ page.title }}
+                hr
+                + add-content
+                + add-navigation

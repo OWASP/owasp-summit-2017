@@ -6,7 +6,7 @@ time            : work
 travel-from     : Cambridge
 expenses        : owasp
 funded          : yes
-funded-who      : OWASP Community Fund
+funded-who      : Owasp Outreach Funds
 flight-cost     : 0
 ticket-cost     : 1500
 funded-amount   : 1500
@@ -14,11 +14,13 @@ required-funds  : 1500
 project-leader  : 
 chapter-leader  : Cambridge
 time            : ARU
-job-title       : ....
+job-title       :
 image           : https://pbs.twimg.com/profile_images/589462457015476224/-f9sW6zr_400x400.jpg
 email           : Adrian.Winckles@owasp.org
 linkedin        : adrian-winckles-2582ab3
 twitter         : botflowking
+ticket          : 5x24h
+regonline       : No
 status          : update-content
 ---
 

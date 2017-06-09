@@ -1,33 +1,59 @@
 ---
-layout      : blocks/working-session
-title       : Securing GitHub Integrations
-type        : workshop
-status      : more-content
-track       : DevSecOps
-organizers  :
-participants:
+layout       : blocks/working-session
+title        : Securing GitHub Integrations
+type         : workshop
+track        : DevSecOps
+status       : need-more content
+when-day     : Wed
+when-time    : PM-2
+location     : Villa-4
+organizers   : Danny Grander
+participants : Francois Raynaud
 ---
+## Why
 
-As more and more services are integrated with GitHub, companies public and private repos are being exposed to a much wider set of attackers and threats.
+This Working Session will examine the need for secure GitHub integrations.
 
-At the moment the GitHub Security model does not allow the granularity required to control this access (for example read-access to only one repo), which means that the only choices tend to be either:
+As more and more services are integrated with GitHub, the public and private repos of different companies are being exposed to a much wider set of attackers and threats.
 
- a) provide no access and not use the 3rd party service (which ironically might be providing a security service)
+Currently, the GitHub security model does not allow the granularity required to control access (for example read-access to only one repo), which means that choices tend to be limited to either:
 
- b) give that 3rd party service full access to public and private repos (i.e full control to modify the code)
+ a) provide no access and no use of the 3rd party service (which ironically might provide a security service)
 
-**To Invite:**
+ b) give the 3rd party service full access to public and private repos (i.e the 3rd party has full control to modify the code)
 
-* GitHub Security Team and developers
+## What
+
+... Add content 
+
+## Outcomes
+
+...Add content...
+
+## Who
+
+The target audience for this Working Session is:
+
+* GitHub Security team and developers
 * 3rd party service providers: Travis, SNYK, Codiscope, Node Security, ....
-* GitHub corporate users which large (hundreds) numbers of GitHub repos
+* GitHub corporate users with large (hundreds) numbers of GitHub repos
 
-**Notes**
+## Note
 
-Email exchange with Github on the topic of having multiple Github Accounts
+Email exchange with GitHub on the topic of having multiple GitHub Accounts:
 
 > Since you don't allow the control of which repos to expose to 3rd party services, the only choice we have (vs giving them full access to all public and private repos) is to create a separate account for those services.
 >
 > Note that this is what is currently being recommended by those service providers, see for example https://twitter.com/snyksec/status/791922582584856577
 >
->It would be great if the GitHub Security team could work with organizations like OWASP and its community in finding a way to improve the current situation (which doesn't scale and is bound to back-fire when one of those service providers is comprised, exposing thousands of customers private repos)
+>It would be great if the GitHub Security team could work with organizations like OWASP and its community to find a way to improve the current situation (which doesn't scale and is bound to back-fire when one of those service providers is compromised, exposing thousands of customers' private repos).
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

@@ -5,6 +5,6 @@ type         : track
 technology   :
 description  : Working Sessions related to DevSecOps
 organizers   : Francois Raynaud
-participants :
+participants : Francois Raynaud,Scott Treacy
 ---
 

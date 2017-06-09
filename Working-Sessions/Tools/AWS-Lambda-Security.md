@@ -3,23 +3,43 @@ layout      : blocks/working-session
 title       : AWS Lambda Security
 type        : workshop
 track       : Tools
-status      : draft
+status      : need-more content
+when-day    :
 organizers  :
 participants: Dinis Cruz
 ---
 
-_(add details, why, what, who)_
 
-**Questions to answer:**
+## Why
 
-* How to do security reviews on code running on [AWS Lambda](https://aws.amazon.com/lambda)?
-* How to add Security to is DevOps practices?
-* How to detect malicious functions?
-* What features are missing?
-* Are users aware of existing features?
+...why text...
 
-**To Invite:**
+## What
 
-* AWS Security team
-* AWS Lambda developers
-* AWS Lamba users
+ - How to do security reviews on code running on [AWS Lambda](https://aws.amazon.com/lambda)?
+ - How to add Security to DevOps practices?
+ - How to detect malicious functions?
+ - What features are missing?
+ - Are users aware of existing features?
+ 
+## Outcomes
+
+...add text...
+
+## Who
+
+The target audience for this Working Session is:
+
+- AWS Security team
+- AWS Lambda developers
+- AWS Lamba users
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

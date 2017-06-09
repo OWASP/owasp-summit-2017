@@ -1,14 +1,22 @@
 ---
-layout     : blocks/page-participant
-title      : ....
-type       : participant
-job-title  : ...
-image      :
-linkedin   :
-twiter     :
-facebook   :
-funded-who : self
-status     : empty
+layout          : blocks/page-participant
+title           : ....
+type            : participant
+job-title       :
+company         :
+travel-from     :
+image           :
+linkedin        :
+twitter          :
+facebook        :
+website         :
+email           :
+project-leader  :
+chapter-leader  :
+ticket          : 5x24h
+status          : empty
+working-sessions:
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
+<!-- put more details about participant here -->

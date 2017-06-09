@@ -1,5 +1,5 @@
 mixin status
-    | {% assign page_status = page.status | split: ',' %}
+    | {% assign page_status = metadata.status | split: ',' %}
     | {% for status in page_status %}
     |   {% case status %}
     |       {% when 'draft' %}
@@ -13,16 +13,21 @@ mixin status
     |   {% endcase %}
     | {% endfor %}
 
-mixin email
-    | {% if page.email != null %}
-    | {{ page.email }}
+mixin image
+    | {% if metadata.image != '' %}
+    img(src='{{ metadata.image }}' alt='{{ metadata.title }}')
     | {% else %}
-    | {{ site.data.emails[page.title] }}
+    img(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
+    | {% endif %}
+
+mixin email
+    | {% if metadata.email != null %}
+    | {{ metadata.email }}
+    | {% else %}
+    | {{ site.data.emails[metadata.title] }}
     | {% endif %}
 
 .participants-table
-    | {% assign participants = site.pages | where: 'type', 'participant' %}
-
     h1 Participant's Contacts
         a(href='/pages/for-editors') Back to Editor's pages
 
@@ -35,31 +40,36 @@ mixin email
             th status
             th image
             th email
+            th company
             th twitter
             th linkedin
             th facebook
             th website
-        | {% for page in participants%}
+
+        | {% for participant in site.data.mapped.participants  %}
+        | {% assign metadata = participant[1].metadata      %}
         tr
             td.text-center {{ forloop.index }}
             td
-                a(href='{{ page.url }}' target='_blank') {{ page.title }}
+                a(href='{{ participant[1].url }}' target='_blank') {{ participant[1].name }}
             td
-                a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+                a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ participant[1].url | replace: '.html','.md'}}" target='_blank') edit
             td.text-center.status-label
                 + status
 
             td.text-center
-                img(src='{{ page.image }}' alt='{{ page.title }}')
+                + image
             td
                 + email
             td
-                a(href='https://twitter/com/{{ page.twitter }}' target='_blank') {{ page.twitter }}
+                | {{ metadata.company }}
             td
-                a(href='https://twitter/u/{{ page.linkedin }}' target='_blank') {{ page.linkedin }}
+                a(href='https://twitter.com/{{ metadata.twitter }}' target='_blank') {{ metadata.twitter }}
             td
-                a(href='https://twitter/com/{{ page.facebook }}' target='_blank') {{ page.facebook }}
+                a(href='https://www.linkedin.com/in/{{ metadata.linkedin }}' target='_blank') {{ metadata.linkedin }}
             td
-                a(href='{{ page.website }}' target='_blank') {{ page.website }}
+                a(href='https://facebook.com/{{ metadata.facebook }}' target='_blank') {{ metadata.facebook }}
+            td
+                a(href='{{ metadata.website }}' target='_blank') {{ metadata.website }}
 
         | {% endfor %}

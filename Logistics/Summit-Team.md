@@ -18,9 +18,9 @@ The summit is being organized by 3 industry veterans with past track record at o
 
 <ul>
     <ul>
-        {% for page in site.pages %}
-            {% if page.title and page.role == 'Summit-Editor' %}
-                <li><a href="{{page.url}}">{{page.title}}</a></li>
+        {% for participant in site.data.mapped.participants %}
+            {% if participant[1].metadata.role == 'Summit-Editor' %}
+            <li><a href="{{participant[1].url}}">{{participant[1].name}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
