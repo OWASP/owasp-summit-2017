@@ -10,6 +10,8 @@ organizers   :
 participants :
 ---
 
+... Add intro content ...
+
 ## Why
 
 This session will focus on creating weightings to produce the 2017, 2020, and 2023 OWASP Top 10s, especially as AI and ML will start to make an impact.
