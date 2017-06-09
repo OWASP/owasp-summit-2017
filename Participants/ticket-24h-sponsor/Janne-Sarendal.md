@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One (4th)
+title           : Janne Sarendal
 type            : participant
 job-title       :
 company         : Capital One
