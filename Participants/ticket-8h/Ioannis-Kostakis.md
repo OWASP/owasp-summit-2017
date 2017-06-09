@@ -1,9 +1,9 @@
 ---
 layout          : blocks/page-participant
-title           : James Osborn
+title           : Ioannis Kostakis
 type            : participant
 job-title       :
-company         : WorldPay
+company         : Worldpay
 travel-from     :
 image           :
 linkedin        :
@@ -11,6 +11,7 @@ twitter          :
 facebook        :
 website         :
 email           :
+when-day        : Thurs
 ticket          : 1x8h
 status          : empty
 working-sessions:

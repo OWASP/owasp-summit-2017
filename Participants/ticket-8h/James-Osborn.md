@@ -1,9 +1,9 @@
 ---
 layout          : blocks/page-participant
-title           : Ajay Gupta
+title           : James Osborn
 type            : participant
 job-title       :
-company         :
+company         : Worldpay
 travel-from     :
 image           :
 linkedin        :
@@ -11,6 +11,7 @@ twitter          :
 facebook        :
 website         :
 email           :
+when-day        : Fri
 ticket          : 1x8h
 status          : empty
 working-sessions:
