@@ -39,13 +39,13 @@ We also need to know what arrangements we need to make for transport. So, if you
 ### Transport Arrangements:
 
 Have vehicle with N open slots:
-* Johan Peeters: 1 extra seat
 * Sebastien Deleersnyder: 3 extra seats
 
 Need transport:
 * Adam Shostack
 * Viktor Lindstrom
 * Bjoern Kimminich
+* Johan Peeters
 
 ### Tickets
 
