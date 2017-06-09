@@ -13,6 +13,7 @@ website         : http://soa-probe.com
 status          : done
 ticket          : 5x24h
 working-sessions:
+Agile Practices for Security Teams
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
