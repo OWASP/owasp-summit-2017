@@ -20,8 +20,8 @@ participants :
 
 What sort of data does the Top 10 need, and where/whom do we ask for it?
 How do we weight the various types of response?  
-(See Brian Glas' blog for "Tools Augmented with Humans vs. Humans with Augmented Technology.) 
-https://nvisium.com/blog/2017/04/24/musings-on-the-owasp-top-10-2017-rc1-pt2/
+See Brian Glas' blog for [Tools Augmented with Humans vs. Humans with Augmented Technology](https://nvisium.com/blog/2017/04/24/musings-on-the-owasp-top-10-2017-rc1-pt2/)
+
 
 ## What
 
