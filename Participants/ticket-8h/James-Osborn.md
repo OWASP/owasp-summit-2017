@@ -5,12 +5,12 @@ type            : participant
 job-title       :
 company         : Worldpay
 travel-from     : Hertfordshire
-image           :https://i.imgur.com/ENb0Jz5.jpg
-linkedin        :mrjamesosborn
-twitter         :TheJambo
-facebook        :sirjambo
-website         :https://james.am
-email           :james@james.am
+image           : https://i.imgur.com/ENb0Jz5.jpg
+linkedin        : mrjamesosborn
+twitter         : TheJambo
+facebook        : sirjambo
+website         : https://james.am
+email           : james@james.am
 when-day        : Fri
 ticket          : 1x8h
 status          : empty
