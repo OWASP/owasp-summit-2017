@@ -3,7 +3,7 @@ layout      : blocks/working-session
 title       : Browser Security
 type        : workshop
 technology  : Browsers
-status      : done
+status      : final stage; need-working materials
 organizers  :
 participants:
 ---
@@ -35,3 +35,13 @@ The purpose of this Working Session is to provide insight into today´s browsers
 ## References
 
 https://www.owasp.org/index.php/Category:Summit_2011_Browser_Security_Track
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
