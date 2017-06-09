@@ -9,7 +9,7 @@ when-day     : Tue
 when-time    : PM-3
 location     : Room-3
 organizers   :
-participants : Francois Raynaud
+participants : Francois Raynaud,Robert Morschel
 ---
 
 Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.
