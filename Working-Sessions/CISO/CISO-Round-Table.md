@@ -10,7 +10,7 @@ when-time    : AM-1
 location     : Room-4
 organizers   : Anders Reeves
 panelists    : Ante Gulam, Neil Barlow, Dinis Cruz,Kevin Fielder,Yan Kravchenko
-participants : Mateo Martinez,Ingo Hanke,Francois Raynaud, Robert Morschel
+participants : Mateo Martinez,Ingo Hanke,Francois Raynaud
 invited      : Asadur Rahman
 ---
 
