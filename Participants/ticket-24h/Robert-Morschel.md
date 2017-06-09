@@ -17,5 +17,5 @@ Agile Practices for Security Teams
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-Robert Morschel is a recent entry to the world of application security, having focused primarly on service-oriented architecture in the past.
+Robert Morschel is a recent entry to the world of application security, having focused primarily on service-oriented architecture in the past.
 
