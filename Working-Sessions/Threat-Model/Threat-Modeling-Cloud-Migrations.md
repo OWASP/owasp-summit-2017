@@ -9,7 +9,7 @@ related-to   :
 status       : draft
 when-day     : Thu
 organizers   : Don Gibson
-participants :
+participants : Robert Morschel
 ---
 
 As more companies move towards 'The Cloud', this stream will attempt to give you a framework to work with to properly identify and manage the risks involved.

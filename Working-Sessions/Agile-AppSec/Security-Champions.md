@@ -7,7 +7,7 @@ related-to   : Threat-Model,DevSecOps,CISO
 status       : review-content
 when-day     : Tue
 organizers   :
-participants :
+participants : Robert Morschel
 ---
 
 Security Champions are a key element of an AppSec team, since they create an cross-functional team focused on Application Security

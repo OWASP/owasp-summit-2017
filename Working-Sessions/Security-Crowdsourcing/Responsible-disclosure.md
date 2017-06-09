@@ -6,7 +6,7 @@ status       : more-content
 track        : Security Crowdsourcing
 when-day     : Tue
 organizers   :
-participants :
+participants : 
 ---
 
 Responsible disclosure is a great way to have multiple eyes with different methodologies test your assets.

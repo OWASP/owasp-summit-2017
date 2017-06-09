@@ -8,7 +8,7 @@ technology   :
 status       : draft
 when-day     : Mon
 organizers   : Ante Gulam
-participants : Dinis Cruz
+participants : Dinis Cruz, Robert Morschel
 ---
 
 ## Why
