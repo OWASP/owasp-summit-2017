@@ -18,4 +18,4 @@ working-sessions: Securing the CI Pipeline,Writing Security Tests,JIRA Risk Work
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-Security Professional with more than 15 years of experience, very passionate about security automation, AppSec and SecDevOps, he started the WhiteJaguars project at Costa Rica and is comitted to increase awareness wherever he can
+Mario is a security professional with more than 15 years of experience, and is very passionate about security automation, AppSec and SecDevOps. He started the WhiteJaguars project at Costa Rica, and is committed to increasing security awareness wherever he can.
