@@ -10,7 +10,7 @@ status       : need more content
 when-day     : Mon
 when-time    : PM-2
 location     : Room-1
-organizers   :
+organizers   : Robert Morschel
 participants : Ante Gulam,Francois Raynaud, Duncan Hurwood, Robert Morschel
 ---
 
