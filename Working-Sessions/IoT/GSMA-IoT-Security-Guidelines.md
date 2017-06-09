@@ -6,7 +6,7 @@ owasp-project : no
 track         :
 technology    : IoT
 related-to    :
-status        : done
+status        : final stage; add working materials
 organizers    :
 participants  :
 ---
@@ -47,3 +47,7 @@ This Working Session will publish a summary document containing the design guide
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...
