@@ -1,0 +1,186 @@
+available-lodges:
+  pre-summit:
+    - 'OK314'
+    - 'OK315'
+    - 'TBD'
+  summit: ['OK413','OK414','OK415','OK416','OK426','OK427','OK428','OK309','OK310','OK312','OK313','OK314','OK315','OK316','OK319','OK320','OK321']
+
+
+pre-summit:
+
+  'OK314':
+    name: HQ 1 (Sat, Sun)
+    users:
+      - Francois Raynaud , Lisa Raynaud
+      - Sebastien Deleersnyder
+      - Dinis Cruz
+      - Jemma Davis
+      - Robert Grace
+      - Steven Wierckx
+  'OK315':
+    name: HQ 2 (Sun)
+    users:
+      - Tiffany Long (Sat)
+      - Dave Wichers
+      - Amani Altarawneh
+      - Tony UV
+      - Nuno Loureiro
+      - Tiago Mendo
+
+with-sessions:
+  OK309:
+    name: OwaspSamm Villa
+    users:
+      - Sebastien Deleersnyder
+      - Bart De Win
+      - Brian Glas
+      - Avi Douglen
+      - Yan Kravchenko
+      - Viktor Lindstrom
+  'OK310':
+    name: Mobile Project Villa
+    users:
+      - Bernhard Mueller
+      - Sven Schleier
+      - Carlos Holguera
+      - Denis Pilipchuk
+      - Alexander Antukh
+      - Robert Morschel
+  'OK312':
+    name: DevSecCon Villa
+    users:
+      - Francois Raynaud,Lisa Raynaud
+      - Sandor Lenart
+      - Colin Domoney
+      - Phil Parker
+      - Steven van der Baan
+      - Peleus Uhley
+  'OK313':
+    name: Threat Model Villa
+    users:
+      - Jason Li
+      - Tony UV
+      - Marc Rimbau
+      - Felipe Zipitria
+      - Steven Wierckx
+      - Stephen de Vries
+  'OK314':
+    name: Juice Shop Villa
+    users:
+      - Bjoern Kimminich
+      - Timo Pagel
+      - Stefano Di Paola
+      - Leon Juranic
+      - Bosko Stankovic
+      - Ante Gulam
+  'OK315':
+    name: Testing Guide Villa
+    users:
+      - Matteo Meucci
+      - Devesh Bhatt, Nikita Garia
+      - Mateo Martinez
+      - Tiago Mendo
+      - Nuno Loureiro
+      - Josh Armour
+  'OK316':
+    name: Owasp Projects
+    users:
+      - Achim Hoffmann
+      - Adrian Winckles
+      - Azzeddine Ramrami
+      - Ohad Rabinovich
+      - Ohad Rabinovich
+      - Nanne Baars
+  'OK319':
+    name: Owasp Top 10
+    users:
+      - Dave Wichers
+      - Johanna Curiel
+      - Robert Grace
+      - Johan Peeters
+      - Chris Cooper
+      - Erez Yalon
+  'OK320':
+    name: PhotoBox Villa
+    users:
+      - Dilek Koluman
+      - Clare Creeden
+      - Naushad
+      - Dinis Cruz
+      - PhotoBox 5
+      - PhotoBox 6
+  'OK321':
+    name: Capital One Villa
+    users:
+      - Neil Barlow
+      - Dicky Stafford
+      - Capital One 3
+      - Capital One 4
+      - Capital One 5
+      - Hamza Alkofahi
+
+quiet-lodges:
+  'OK413':
+    name: Quiet 1 (5x24)
+    users:
+      - Jemma Davis
+      - Jemma Buttle
+      - Daniela Cruzes
+      - Amani Altarawneh
+      - Tiffany Long
+      - Helen Bravo
+  'OK414':
+    name: Quiet 2 (5x24)
+    users:
+     - Adam Shostack
+     - Bolot Kerimbaev
+     - Bruce Jenkins
+     - Carlos Esteves
+     - Carlos Perez Holguera
+     - Fabien Thalgott
+  'OK415':
+    name: Quiet 3 (5x24)
+    users:
+     - Akshay Sharma
+     - Steve Kosten
+     - Hardik Parekh
+     - Jeroen Willemsen
+     - Jonas Vanalderweireldt
+     - Martin Knobloch
+  'OK416':
+    name: Quiet 4 (5x24)
+    users:
+     - Mike Milner
+     - Nessim Kisserli
+     - Scott Treacy
+     - Enrico Giulio Maria Verzegnassi
+     - Brian Lawrence
+     - Ingo Hanke
+  'OK426':
+    name: Quiet 5 (3x24)
+    users:
+     - Barracuda 3
+     - Christian DeHoyos
+     - Gabor Pek
+     - 4
+     - 5
+     - 6
+  'OK427':
+
+    name: Quiet 6 (2x24)
+    users:
+     - Barracuda 2
+     - Chris Wysopal
+     - Vlad Nisic
+     - Mark Felegyhazi
+     - 5
+     - 6
+  'OK428':
+    name: Quiet 7 (1x24)
+    users:
+     - Sherif Mansour
+     - Stuart Gunter
+     - Ross Tanner
+     - 4
+     - 5
+     - 6

@@ -3,48 +3,51 @@
   <div class="container">
     <h1>{{ page.title }}<a href="/pages/for-editors">Back to Editor's pages</a></h1>
     <p>Here are the participant's mappings (per Lodge)</p>
-    <p>Note that changes will be made to the Summit mappings since the current list was created alphabetically</p>
-    <h2>Pre Summit</h2>
-    <div class="row">{% for lodge in site.data.mapped.lodges.pre_Summit%}
-      <div class="col-xs-4 col-sm-4">
-        <div class="card pre-summit-card">
-          <table class="table table-striped">
-            <thead>
-              <th class="text-center">Lodge Number</th>
-              <th class="text-center">Participant</th>
-            </thead>
-            <tbody>{% for participant in lodge[1] %}
-              <tr>{% if forloop.index == 1 %}
-                <td rowspan="6">
-                  <div class="lodge_Id">{{ lodge[0] }}</div>
-                </td>{% endif %}
-                <td>{{ participant.name }}
-                  <div class="when">{{ participant.when }}</div>
-                </td>
-              </tr>{% endfor %}
-            </tbody>
-          </table>
+    <h2>Pre-Summit Team (ZL4G )</h2>
+    <p>
+      This the advanced party that is going to finalise the last operational details and
+      make sure everything is in place
+    </p>
+    <div class="row">{% for lodge in site.data.lodges.pre-summit %}
+      <div class="col-xs-3 col-sm-3">
+        <div class="card">
+          <h3>{{ lodge[0] }}</h3>
+          <h4>{{ lodge[1].name }}</h4>
+          <ul>{% for user in lodge[1].users %}
+            <li>{{ user }}</li>{% endfor %}
+          </ul>
         </div>
       </div>{% endfor %}
     </div>
-    <h2>Summit</h2>
-    <div class="row">{% for lodge in site.data.mapped.lodges.lodges%}
-      <div class="col-xs-4 col-sm-4">
+    <h2>Working Lodges (ZL4G )</h2>
+    <p>
+      These are the Lodges closer to the Conference Center and where multiple Working Sessions will be hosted
+      (including the Evening sessions)
+    </p>
+    <div class="row">{% for lodge in site.data.lodges.with-sessions %}
+      <div class="col-xs-3 col-sm-3">
         <div class="card">
-          <table class="table table-striped">
-            <thead>
-              <th class="text-center">Lodge Number</th>
-              <th class="text-center">Participant</th>
-            </thead>
-            <tbody>{% for name in lodge[1].names %}
-              <tr>{% if forloop.index == 1 %}
-                <td rowspan="6">
-                  <div class="lodge_Id">{{ lodge[1].id }}</div>
-                </td>{% endif %}
-                <td>{{ name}}</td>
-              </tr>{% endfor %}
-            </tbody>
-          </table>
+          <h3>{{ lodge[0] }}</h3>
+          <h4>{{ lodge[1].name }}</h4>
+          <ul>{% for user in lodge[1].users %}
+            <li>{{ user }}</li>{% endfor %}
+          </ul>
+        </div>
+      </div>{% endfor %}
+    </div>
+    <h2>Quiet Lodges (XL42 )</h2>
+    <p>
+      These are the Lodges located a bit farther from the Conference Center with
+      no activities booked.
+    </p>
+    <div class="row">{% for lodge in site.data.lodges.quiet-lodges %}
+      <div class="col-xs-3 col-sm-3">
+        <div class="card">
+          <h3>{{ lodge[0] }}</h3>
+          <h4>{{ lodge[1].name }}</h4>
+          <ul>{% for user in lodge[1].users %}
+            <li>{{ user }}</li>{% endfor %}
+          </ul>
         </div>
       </div>{% endfor %}
     </div>
