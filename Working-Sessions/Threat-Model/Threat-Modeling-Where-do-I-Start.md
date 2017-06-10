@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : Eve
 location     : Villa-4
 organizers   :
-participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström, Sebastien Deleersnyder
+participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström, Sebastien Deleersnyder, Timo Pagel
 ---
 
 With regard to threat modelling, the single most common question developers ask me is 'Where do I start?'
