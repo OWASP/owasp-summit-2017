@@ -1,9 +1,9 @@
 ---
 layout          : blocks/page-participant
-title           : Mustafa Kasmani
+title           : Janne Sarendal
 type            : participant
 job-title       :
-company         : WorldPay
+company         : Capital One
 travel-from     :
 image           :
 linkedin        :
@@ -11,9 +11,12 @@ twitter          :
 facebook        :
 website         :
 email           :
-ticket          :
+project-leader  :
+chapter-leader  :
+ticket          : 5x24h
 status          : empty
 working-sessions:
+regonline       : No
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

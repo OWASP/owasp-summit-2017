@@ -11,7 +11,7 @@ when-time    : PM-3
 location     : Room-4
 organizers   : Ante Gulam
 panelists    : Dinis Cruz
-participants :
+participants : Robert Morschel
 invited      : Neil Barlow
 ---
 
