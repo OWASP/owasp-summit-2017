@@ -9,7 +9,7 @@ when-day     : Wed
 when-time    : AM-1
 location     : Room-4
 organizers   : Anders Reeves
-panelists    : Ante Gulam, Dinis Cruz,Kevin Fielder,Yan Kravchenko
+panelists    : Ante Gulam, Dinis Cruz,Kevin Fielder
 participants : Mateo Martinez,Ingo Hanke,Francois Raynaud
 invited      : Asadur Rahman
 ---
