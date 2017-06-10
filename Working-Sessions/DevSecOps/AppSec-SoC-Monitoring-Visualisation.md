@@ -10,7 +10,7 @@ when-day     : Thu
 when-time    : AM-1
 location     : Room-1
 organizers   : Mateo Martinez
-participants : Dinis Cruz,Francois Raynaud, Don Gibson, Robert Morschel, Johan Peeters
+participants : Dinis Cruz,Francois Raynaud, Don Gibson, Robert Morschel, Johan Peeters, Don Gibson
 ---
 
 ## Why

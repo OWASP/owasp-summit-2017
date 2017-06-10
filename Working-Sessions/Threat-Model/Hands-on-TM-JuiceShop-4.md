@@ -10,7 +10,7 @@ when-time    : PM-3
 location     : Villa-4
 status       : Improve outcomes; need-working materials
 organizers   : Adam Shostack,Bjoern Kimminich
-participants :
+participants : Steven Wierckx
 invited      :
 ---
 

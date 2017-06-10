@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One (3rd)
+title           : Andrew Sparry
 type            : participant
 job-title       :
 company         : Capital One

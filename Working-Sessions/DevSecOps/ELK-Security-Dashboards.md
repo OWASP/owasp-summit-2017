@@ -11,7 +11,7 @@ when-day     : Wed
 when-time    : PM-1
 location     : Room-6
 organizers   : Dicky Stafford
-participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud, Timo Pagel, Robert Morschel, Johan Peeters
+participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud, Timo Pagel, Johan Peeters
 
 ---
 

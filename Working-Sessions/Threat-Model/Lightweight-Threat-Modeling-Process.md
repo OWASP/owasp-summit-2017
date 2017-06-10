@@ -8,7 +8,7 @@ when-day     : Wed
 when-time    : PM-1
 location     : Villa-4
 organizers   : Geoff Hill
-participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin
+participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin, Steven Wierckx
 ---
 
 ## Why
