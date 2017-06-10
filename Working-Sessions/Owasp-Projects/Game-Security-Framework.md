@@ -11,6 +11,7 @@ location     : Room-4
 locked       : true
 organizers   : Daniel Miessler,Azzeddine Ramrami
 participants :
+invited      : Sam Houston, Tony UV, Andrew van der Stock, Jason Haddix, Mark Stanislav, Robert Hurlbut, Talmer Elzayyat
 ---
 
 ...intro text...

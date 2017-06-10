@@ -1,18 +1,22 @@
 ---
 layout          : blocks/page-participant
-title           : Stephen de Vries
+title           : Jonathan Ward
 type            : participant
-job-title       : Founder of Continuum Security
-Company         :
-image           : https://pbs.twimg.com/profile_images/54846161/pic_of_me_200x200.jpg
-email           : stephen@continuumsecurity.net
+job-title       :
+company         : Capital One
+travel-from     :
+image           :
 linkedin        :
-twitter         : stephendv
+twitter          :
 facebook        :
+website         :
+email           :
+project-leader  :
+chapter-leader  :
+ticket          : 5x24h
 status          : empty
-ticket          : 1x24h
 regonline       : No
-working sessions:
+working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

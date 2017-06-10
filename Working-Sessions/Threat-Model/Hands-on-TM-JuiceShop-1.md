@@ -10,7 +10,7 @@ when-time    : AM-1
 location     : Villa-4
 status       : Improve outcomes; need-working materials
 organizers   : Adam Shostack,Bjoern Kimminich
-participants : Steven Wierckx, Timo Pagel
+participants : Steven Wierckx, Robert Hurlbut, Timo Pagel
 invited      :
 ---
 
