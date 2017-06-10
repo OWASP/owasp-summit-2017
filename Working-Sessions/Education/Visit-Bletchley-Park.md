@@ -41,6 +41,7 @@ Transport remains to be arranged, but local taxi's are available. In order to be
 
 Have vehicle with N open slots:
 * Sebastien Deleersnyder: 3 extra seats
+* Chris Cooper: 3 extra seats
 
 Need transport:
 * Adam Shostack
