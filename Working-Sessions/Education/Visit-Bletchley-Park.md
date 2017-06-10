@@ -11,7 +11,7 @@ when-day     : Thu
 when-time    : PM-1,PM-2,PM-3
 location     :
 organizers   : Johan Peeters
-participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder
+participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt
 ---
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
