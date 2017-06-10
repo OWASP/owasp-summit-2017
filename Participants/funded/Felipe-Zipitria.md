@@ -16,7 +16,6 @@ chapter-leader  : Uruguay
 job-title       : Researcher / IT / Chapter Leader
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
 linkedin        : felipezipitria
-pre-summit      : Sun
 status          : done
 ticket          : 5x24h
 regonline       : No

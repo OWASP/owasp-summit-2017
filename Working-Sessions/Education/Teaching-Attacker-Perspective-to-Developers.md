@@ -7,11 +7,11 @@ track          : Education
 technology     :
 related-to     : Juice Shop,NodeGoat,Webgoat
 status         : final stage 
-when-day       : Wed
-when-time      : PM-2
-location       : Room-2
+when-day       : Thu
+when-time      : AM-1
+location       : Villa-5
 organizers     : Bjoern Kimminich
-participants   : Robert Morschel, Timo Pagel, Stuart Gunter, Tiffany Long
+participants   : Timo Pagel, Stuart Gunter, Tiffany Long
 ---
 
 > _Learning by doing_ is a quite successful education concept. Although

@@ -4,8 +4,8 @@ title        : Hackathon Daily Sessions
 type         : workshop
 track        : Security Crowdsourcing
 technology   :
-related-to   : OWASP Bug Bounty
-status       : draft
+related-to   : Juice Shop,O-Saft,OWASP Bug Bounty
+status       : need outcomes; need working materials
 when-day     : Mon,Tue,Wed,Thu
 when-time    : Eve
 location     : Villa-3
@@ -23,6 +23,13 @@ Bug Bounty Group Hack (e.g. similar to [Great OWASP Bug Bash of 2013](http://201
 
 Refer to the _Related Working Session(s)_ below for information about their hackathon-aspect.
 
-## Definition of done
+## Outcomes 
+--- 
 
-🔧TODO
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...

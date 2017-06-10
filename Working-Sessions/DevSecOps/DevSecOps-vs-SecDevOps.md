@@ -8,7 +8,7 @@ when-day    : Wed
 when-time   : Eve
 location    : Villa-3
 organizers  : Francois Raynaud
-participants: Marc Rimbau, Felipe Zipitria, Avi Douglen
+participants: Felipe Zipitria, Avi Douglen
 invited     : Ante Gulam, Colin Domoney, Tiffany Long
 ---
 

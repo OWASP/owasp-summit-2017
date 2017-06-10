@@ -1,17 +1,18 @@
 ---
 layout          : blocks/page-participant
-title           : WorldPay 6
+title           : Eddie Hoffman
 type            : participant
 job-title       :
-company         : WorldPay
+company         : Worldpay
 travel-from     :
 image           :
 linkedin        :
-twitter          :
+twitter         :
 facebook        :
 website         :
 email           :
-ticket          :
+when-day        : Thurs
+ticket          : 1x8h
 status          : empty
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)

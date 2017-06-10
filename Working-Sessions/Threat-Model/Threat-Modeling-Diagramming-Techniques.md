@@ -9,9 +9,9 @@ related-to   :
 status       : need-more content
 when-day     : Mon
 when-time    : PM-3
-location     : Room-6
+location     : Villa-4
 organizers   :
-participants :
+participants : Steven Wierckx
 ---
 
 Diagrams are a fundamental building block for putting mental models where they can be shared, debated, refined, or used as an aid to collaboration and analysis. 
