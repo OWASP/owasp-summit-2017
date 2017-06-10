@@ -97,7 +97,7 @@ with-sessions:
       - Dave Wichers
       - Johanna Curiel
       - Robert Grace
-      - Johan Peeters
+      - 4
       - Chris Cooper
       - Erez Yalon
   'OK320':
@@ -161,10 +161,10 @@ quiet-lodges:
     users:
      - Denis Pilipchuk (5x24h)
      - Avi Douglen (5x24h)
+     - Johan Peeters (5x24h)
      - Christian DeHoyos
      - Gabor Pek
      - Barracuda 3
-     - 6
   'OK427':
 
     name: Quiet 6 (2x24)
