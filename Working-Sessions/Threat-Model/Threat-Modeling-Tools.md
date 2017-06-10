@@ -11,8 +11,7 @@ when-day     : Mon
 when-time    : PM-2
 location     : Villa-4
 organizers   :
-participants : Geoff Hill, Irene Michlin, Robert Morschel, Stephen de Vries, Johan Peeters, Duncan Hurwood, 
-Viktor Lindström, Christian Martorella, Steven Wierckx, Don Gibson
+participants : Geoff Hill, Irene Michlin, Robert Morschel, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindstrom, Christian Martorella, Steven Wierckx, Don Gibson
 ---
 
 This session is a discovery session on what threat modelling tools exist currently and what their benefits and weaknesses are.
