@@ -9,7 +9,7 @@ status       : final stage; add content
 when-day     : Mon
 when-time    : PM-1
 location     : Room-2
-organizers   : Dave Wichers,Josh Grossman
+organizers   : Dave Wichers
 participants : Tiffany Long,Jonas vanalderweireldt
 ---
 
