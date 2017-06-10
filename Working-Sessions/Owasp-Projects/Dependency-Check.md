@@ -11,7 +11,7 @@ when-day     : Mon
 when-time    : PM-2
 location     : Room-3
 organizers   : Steve Springett
-participants : Johan Peeters
+participants : Johan Peeters, Steven Wierckx
 ---
 
 
