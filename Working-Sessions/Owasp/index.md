@@ -1,6 +1,6 @@
 ---
 layout       : blocks/track
-title        : Education
+title        : Owasp
 type         : track
 technology   :
 description  : Working Sessions related to Owasp

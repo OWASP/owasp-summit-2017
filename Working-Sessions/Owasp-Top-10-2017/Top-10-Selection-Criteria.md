@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : PM-1
 location     : Room-2
 organizers   : Dave Wichers,Josh Grossman
-participants : Tiffany Long
+participants : Tiffany Long,Jonas vanalderweireldt
 ---
 
 ## Why
