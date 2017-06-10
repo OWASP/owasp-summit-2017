@@ -11,7 +11,7 @@ when-day     : Tue
 when-time    : AM-1
 location     : Room-3
 organizers   : Irene Michlin
-participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu, Tiffany Long
+participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu, Tiffany Long, Don Gibson
 ---
 
 ## Why

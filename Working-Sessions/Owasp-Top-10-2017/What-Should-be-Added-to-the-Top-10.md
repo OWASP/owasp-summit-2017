@@ -10,7 +10,7 @@ when-day     : Tue
 when-time    : PM-2
 location     : Room-2
 organizers   :
-participants : Katy Anton
+participants : Katy Anton, Jonas Vanalderweireldt
 ---
 
 ## Why

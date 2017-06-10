@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One (5th)
+title           : Ben Gould
 type            : participant
 job-title       :
 company         : Capital One
