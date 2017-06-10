@@ -52,8 +52,9 @@ The target audience for this Working Session is:
 
 - [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 - [Protect your REST APIs with JWT tokens](http://yo1peeters.blogspot.com/2017/06/protect-your-rest-apis-with-jwt-tokens.html)
+- [In the (back)end, JWT is all that matters](http://yo1peeters.blogspot.com/2017/06/in-backend-jwt-is-all-that-matters.html)
 
---- 
+---
 
 ## Working materials
 

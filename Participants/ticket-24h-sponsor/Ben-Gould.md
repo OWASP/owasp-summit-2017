@@ -1,9 +1,9 @@
 ---
 layout          : blocks/page-participant
-title           : WorldPay 5
+title           : Ben Gould
 type            : participant
 job-title       :
-company         : WorldPay
+company         : Capital One
 travel-from     :
 image           :
 linkedin        :
@@ -11,8 +11,11 @@ twitter          :
 facebook        :
 website         :
 email           :
-ticket          :
+project-leader  :
+chapter-leader  :
+ticket          : 5x24h
 status          : empty
+regonline       : No
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
