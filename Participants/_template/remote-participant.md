@@ -1,21 +1,22 @@
 ---
 layout          : blocks/page-participant
-title           : Akanksha Bana
+title           : ...
 type            : participant-remote
-job-title       : Application Security Researcher
+job-title       : 
 company         : 
-image           : https://pbs.twimg.com/profile_images/751845815195344896/vc0WUvTr.jpg
-linkedin        : https://in.linkedin.com/in/akanksha-bana-87663b77
-twitter          : akankshabana
-facebook        : Akanksha Bana
+image           : 
+linkedin        : 
+twitter         : 
+facebook        : 
 website         :
-email           : kryptoknight13@outlook.com
+email           : 
 project-leader  :
 chapter-leader  :
 when-day        :
 status          : empty
-working-sessions: Mobile Security Testing Guide (MSTG),Mobile Application Security Verification Standard (MASVS),Data behind Owasp Top 10 2017.
+working-sessions: 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
 <!-- put more details about participant here -->
+
