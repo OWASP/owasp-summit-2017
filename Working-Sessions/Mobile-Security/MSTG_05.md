@@ -11,8 +11,8 @@ when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
 description     : In this book sprint we produce content for the reverse engineering chapters of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
-participants    : Carlos Holguera, Sven Schleier
-invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Jeroen Willemsen, Marc Rimbau, Alexander Antukh, Johanna Curiel
+participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen
+invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right" alt="owasp mstg"/>
