@@ -10,7 +10,7 @@ when-time    : Eve
 location     : Villa-4
 status       : Improve outcomes; need-working materials
 organizers   : Adam Shostack,Bjoern Kimminich
-participants : Sebastien Deleersnyder, Steven Wierckx
+participants : Sebastien Deleersnyder, Steven Wierckx, Robert Hurlbut
 ---
 
 All day, we'll have been working to create models (diagrams) of Juice Shop to help us find problems with it, learn threat modelling, and deliver examples.  This is all about answering the question of what Juice Shop is and building models of it.

@@ -8,6 +8,7 @@ technology   :
 related-to   :
 status       : need-outcomes; need-working materials
 when-day     : Tue
+organizers   : David Clarke
 when-time    : PM-1
 location     : Room-3
 organizers   : Irene Michlin

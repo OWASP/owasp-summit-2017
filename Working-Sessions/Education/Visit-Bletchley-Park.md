@@ -30,28 +30,33 @@ This historic place is now a museum, or, perhaps more accurately, a cluster of t
 
 ## What
 
-The Bletchley Park campus opens at 9:30 AM and closes at 5 PM - latest admission is 4 PM. The current proposal is to spend the afternoon there, visiting the exhibits listed above, but this is open for discussion. Feel free to add to the list.
+A guided tour at the National Museum of Computing has been booked between 1:30 and 3 PM. The guide is flexible and expects us to tell him our specific interests at the start of the tour.
 
-If 12 or more sign up, we can get a guided tour.
-
-We also need to know what arrangements we need to make for transport. So, if you intend to come, please indicate whether you need transport or can take people.
+We will spend the rest of the afternoon on the Bletchley campus. The site closes at 5 PM.
+Exhibits listed above are a suggestion, but feel free to pursue your own interests.
 
 ### Transport Arrangements:
 
+Transport remains to be arranged, but local taxi's are available. In order to be able to book sufficient taxi's, please indicate below whether you need transport or can take people. Shared taxi fees are likely to cost around 10 GBP per head, round trip.
+
 Have vehicle with N open slots:
-* Johan Peeters: 1 extra seat
 * Sebastien Deleersnyder: 3 extra seats
+* Chris Cooper: 3 extra seats
 
 Need transport:
 * Adam Shostack
 * Viktor Lindstrom
 * Bjoern Kimminich
+* Hamza Alkofahi
+* Johan Peeters
 
 ### Tickets
+
+Barring some financial windfall, you will be expected to pay entrance fees. The guided tour at the National Museum of Computing costs 12.50 GBP. A pre-ordered, pre-paid group ticket giving access to all Bletchley Park exhibitions costs 14 GBP, individual tickets cost 17.50 GBP. Unless you indicate otherwise below, it will be assumed that you want both a place on the guided tour and a discounted group ticket to the rest of Bletchley Park.
 
 Do *not* require ticket (e.g. season Pass owners)
 * Bjoern Kimminich
 
 ## Who
 
-Anyone interested in the history of our field. Note that, barring some financial windfall, you will be expected to pay entrance fees. In the event of commercial transport needing to be arranged, this will need to be paid for as well.
+Anyone interested in the history of our field.

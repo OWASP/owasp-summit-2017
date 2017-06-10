@@ -32,7 +32,7 @@ achieve this goal together:
 1. If you didn't already, please sign up as a participant for the
    working session via a GitHub Pull Request to either your participant
    file or
-   [the working session file](https://github.com/OWASP/owasp-summit-2017/blob/master/Working-Sessions/Owasp-Projects/Juice-Shop.md)!
+   [the working session files](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Juice-Shop)!
    ✍
 2. Go through the issues of the
    [OWASP Summit Challenge Pack 2017](https://github.com/bkimminich/juice-shop/milestone/3)
@@ -70,6 +70,9 @@ while the on-site participants do the same in the evening session(s)!
 Finally, I would like to advertise some related working sessions from
 the "Education" track which might be interesting for you as well:
 - [Teaching Attacker Perspective to Developers](http://owaspsummit.org/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers.html)
+- [Evaluation/Optimization/Creation of Training Slides](http://owaspsummit.org/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html)
+- The _Hands on Threat Modeling Juice Shop_ session series on the
+  [Threat Model Track](https://owaspsummit.org/Working-Sessions/Threat-Model)
 - [CTFs](http://owaspsummit.org/Working-Sessions/Education/CTFs.html)
   (still needs someone to take the lead...)
-- [Evaluation/Optimization/Creation of Training Slides](http://owaspsummit.org/Working-Sessions/Education/Evaluation-Optimization-and-Creation-of-Training-Slides.html)
+

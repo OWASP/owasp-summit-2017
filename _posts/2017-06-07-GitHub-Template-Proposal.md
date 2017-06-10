@@ -14,7 +14,7 @@ quality is something users and contributors alike are increasingly
 expecting from providers of open source software!_
 
 This is elaborated in more detail in the description of the
-[GitHub Organization Reboot](https://owaspsummit.org/Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html)
+[GitHub Organization Reboot](https://owaspsummit.org/Working-Sessions/Owasp/GitHub-OrgReboot.html)
 working session which is planned for the
 [OWASP Summit 2017](https://owaspsummit.org). The topic was also covered
 in my talk
@@ -69,5 +69,5 @@ follow these steps:
 Your Pull Requests, feedback, constructive criticism and other input is
 most welcome to give us something to discuss during the
 [GitHub Organization
-Reboot](https://owaspsummit.org/Working-Sessions/Owasp-Projects/GitHub-OrgReboot.html)
+Reboot](https://owaspsummit.org/Working-Sessions/Owasp/GitHub-OrgReboot.html)
 working session at the upcoming OWASP Summit 2017!

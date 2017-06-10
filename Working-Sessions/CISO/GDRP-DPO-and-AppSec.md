@@ -10,7 +10,7 @@ when-day     : Mon,Thu
 when-time    : PM-1
 location     : Room-4
 organizers   :
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam, Stuart Gunter, Don Gibson
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam, Stuart Gunter, Don Gibson, Robert Morschel
 invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden, Anders Reeves
 ---
 

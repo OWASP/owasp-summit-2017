@@ -10,7 +10,7 @@ when-day     : Thu
 when-time    : PM-2,PM-3
 location     : Room-6
 organizers   :
-participants : Steven Wierckx
+participants : 
 ---
 
 It is almost impossible to talk about modern Computer Science without mentioning the Internet of Things (IoT). The IoT is completely reorganizing traditional Information and Communication Technology (ICT) by introducing new features, infrastructures, and architectures. This enables implementation of new and complex cyber-physical systems which can improve the quality of our everyday lives. With the birth of IPv6 and the omnipresence of Wi-Fi networks, IoT is spreading like wildfire, and researchers estimate that by 2020, the number of IoT devices will reach 40 billion.
