@@ -5,7 +5,7 @@ type         : workshop
 track        : Education
 technology   :
 related-to   :
-status       : missing Outcomes; missing Working materials
+status       : missing Working materials
 when-day     : Tue
 when-time    : PM-1
 location     : Room-4
@@ -36,11 +36,11 @@ All the while, there is a lack of, and high demand for, professionals who can ge
  
 ## Outcomes 
  
-> Need to consider what will be the output of this session. 
 Suggesed Outcomes:
 - Example career paths to guide incoming AppSec Professionals
 - Recruiters guide
 - List of suggested next steps for AppSec Managers looking for longterm growth of their team
+- A quick ["Joel Test"](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) for AppSec
 
 ## Who
 
@@ -63,3 +63,11 @@ Here are the current 'work in progress' materials for this session (please add a
 ### Content
 
 ... add content ...
+
+### Links
+
+- Joel Spolsky's Guide to Hiring Technical Talent: 
+  - [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/)
+  - [Finding Great Developers](https://www.joelonsoftware.com/2006/09/06/finding-great-developers-2/)
+  - [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+- [What are the career paths in the computer security field?](https://security.stackexchange.com/q/3772/33) (Security.StackExchange)

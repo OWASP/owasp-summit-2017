@@ -16,7 +16,7 @@ chapter-leader  :
 funded-who      :
 ticket          : 5x24h
 status          : empty
-working-sessions: Threat Modeling Diagramming Techniques, Threat Modeling Tools, Threat Modeling Where do I Start?, MSTG Book Sprint - Mobile App Security Testing, O-Saft, Threat Modeling Cheat Sheet & Lightweight Threat Modeling, TM - What can go wrong with Juice Shop?, TM - What is Juice Shop, Threat Modeling Templates, Lightweight Threat Modeling Process, MSTG Book Sprint - Android Testing Guide, MSTG Book Sprint - iOS Testing Guide, Visit Bletchley Park, Threat Modeling Cloud Migrations, Threat Modeling IoT Devices, TM - What to do about Juice Shop?, MSTG Book Sprint - Reverse Engineering and Cracking, OWASP Internet of Things Project
+working-sessions: Threat Modeling Diagramming Techniques, Threat Modeling Tools, Threat Modeling Where do I Start?, O-Saft, Threat Modeling Cheat Sheet & Lightweight Threat Modeling, Threat Modeling Templates, Lightweight Threat Modeling Process, Visit Bletchley Park, Threat Modeling IoT Devices, OWASP Internet of Things Project, Hands on Threat Modeling Juice Shop (Architecture), Hands on Threat Modeling Juice Shop (Deployment & Operations), Hands on Threat Modeling Juice Shop (New features), Hands on Threat Modeling Juice Shop (Purchase workflow), Hands on Threat Modeling Juice Shop (Attacking 1), Hands on Threat Modeling Juice Shop (Attacking 2), Hands on Threat Modeling Juice Shop (Fixing)
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

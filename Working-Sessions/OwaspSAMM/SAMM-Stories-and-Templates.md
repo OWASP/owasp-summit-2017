@@ -9,7 +9,7 @@ when-day     : Tue
 when-time    : PM-3
 location     : Villa-1
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
 ---
 
 Update the SAMM use cases.

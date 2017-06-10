@@ -1,7 +1,7 @@
 ---
 layout      : blocks/working-session
-title       : Threat Modeling Cheat Sheet & Lightweight Threat Modeling
-type        : workshop
+title       : Threat Modeling Cheat Sheet & Lightweight Threat Modeling (Part II)
+type        : workshop
 track       : Threat Model
 related-to  : Cheat Sheets
 description : OWASP cheat sheet will provide prescriptive guidance on threat modeling activities, tasks, and output deliverables that should be produced as part of one of three varying methodologies (software centric, security centric, risk centric approaches) and tailored to application environments that are domain agnostic.
@@ -10,14 +10,13 @@ when-day    : Wed
 when-time   : PM-3
 location    : Villa-4
 organizers  : Tony UV
-participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin,Robert Morschel,Stephen de Vries,Duncan Hurwood, Steven Wierckx, Aruna-Katugampola
+participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin,Robert Morschel,Stephen de Vries,Duncan Hurwood, Steven Wierckx, Aruna Katugampola
 ---
 
 
 > [OWASP Threat Modeling Cheat Sheet](https://www.owasp.org/index.php/Threat_Modeling_Cheat_Sheet)
 > The objective of this cheat sheet is to provide guidance to developers, reviewers, designers and architects on conducting successful
-> threat modeling. The main goal of threat modeling is to understand the controls needed for a software system. This is a complex
-> endeavor that could involve investigations into:
+> threat modeling. The main goal of threat modeling is to understand the controls needed for a software system. The Cheat Sheet will abide by the similar prescriptive and concise recommendations for threat modelers to consider when building an application threat model.  The Cheat Sheet series will aim to build upon a Lightweight Threat Modeling Process and simply list out do's and don'ts that address the following:
 
     - The trust boundaries to and within the solution that we build
     - The actors that interact within and outside the trust boundaries

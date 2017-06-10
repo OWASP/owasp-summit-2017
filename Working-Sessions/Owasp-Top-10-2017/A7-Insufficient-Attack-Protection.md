@@ -10,7 +10,7 @@ when-day     : Tue
 when-time    : PM-1
 location     : Room-2
 organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
-participants : Sebastien Deleersnyder
+participants : Sebastien Deleersnyder, Jonas Vanalderweireldt
 ---
 
 Based on analysis of more than 2.3 million vulnerabilities in more than 50,000 applications, the OWASP Top 10 2017 introduces two new categories: Insufficient Attack Protection and Underprotected APIs.

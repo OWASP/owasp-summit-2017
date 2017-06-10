@@ -11,7 +11,7 @@ when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-1
 organizers     :
-participants   : Tiffany Long
+participants   : Tiffany Long, Jonas Vanalderweireldt
 ---
 
 > :triangular_flag_on_post: TODO: Add fancy sales pitch for
