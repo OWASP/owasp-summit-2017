@@ -17,6 +17,7 @@ invited      : Sam Houston, Tony UV, Andrew van der Stock, Jason Haddix, Mark St
 
 The OWASP Internet of Things Project is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.
 The project looks to define a structure for various IoT sub-projects such as Attack Surface Areas, Testing Guides and Top Vulnerabilities.  
+
 <img src='https://www.owasp.org/images/thumb/d/d6/Iot-project.png/800px-Iot-project.png' style='width:380px' alt='Iot project'/>
 
 ### Resources from Owasp.org
