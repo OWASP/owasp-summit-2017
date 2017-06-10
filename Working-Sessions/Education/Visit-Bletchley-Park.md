@@ -46,6 +46,7 @@ Need transport:
 * Adam Shostack
 * Viktor Lindstrom
 * Bjoern Kimminich
+* Hamza Alkofahi
 * Johan Peeters
 
 ### Tickets
