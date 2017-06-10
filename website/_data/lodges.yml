@@ -34,7 +34,7 @@ with-sessions:
       - Sebastien Deleersnyder
       - Bart De Win
       - Brian Glas
-      - Avi Douglen
+      - 4
       - Yan Kravchenko
       - Viktor Lindstrom
   'OK310':
@@ -43,13 +43,13 @@ with-sessions:
       - Bernhard Mueller
       - Sven Schleier
       - Carlos Holguera
-      - Denis Pilipchuk
       - Alexander Antukh
       - Robert Morschel
+      - 6
   'OK312':
     name: DevSecCon Villa
     users:
-      - Francois Raynaud,Lisa Raynaud
+      - Francois Raynaud,Lisa Raynaud (db)
       - Sandor Lenart
       - Colin Domoney
       - Phil Parker
@@ -76,8 +76,8 @@ with-sessions:
   'OK315':
     name: Testing Guide Villa
     users:
-      - Matteo Meucci
-      - Devesh Bhatt, Nikita Garia
+      - Matteo Meucci (db)
+      - Devesh Bhatt, Nikita Garia (db)
       - Mateo Martinez
       - Tiago Mendo
       - Nuno Loureiro
@@ -97,7 +97,7 @@ with-sessions:
       - Dave Wichers
       - Johanna Curiel
       - Robert Grace
-      - Johan Peeters
+      - 4
       - Chris Cooper
       - Erez Yalon
   'OK320':
@@ -159,12 +159,12 @@ quiet-lodges:
   'OK426':
     name: Quiet 5 (3x24)
     users:
-     - Barracuda 3
+     - Denis Pilipchuk (5x24h)
+     - Avi Douglen (5x24h)
+     - Johan Peeters (5x24h)
      - Christian DeHoyos
      - Gabor Pek
-     - 4
-     - 5
-     - 6
+     - Barracuda 3
   'OK427':
 
     name: Quiet 6 (2x24)

@@ -11,7 +11,7 @@ when-day     : Fri
 when-time    : AM-1
 location     : Room-6
 organizers   :
-participants : Irene Michlin
+participants : Irene Michlin, Steven Wierckx
 ---
 
 A threat model should be a living artefact that evolves with the project, but how can we achieve this with the available tools?

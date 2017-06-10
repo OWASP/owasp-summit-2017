@@ -28,9 +28,11 @@ cant-make-it : Dinis Cruz
 > use Juice Shop as a "guinea pig" application to check how well their
 > tools cope with JavaScript-heavy application frontends and REST APIs.
 
+![Collabocats](https://octodex.github.com/images/collabocats.jpg)
+
 ## What
 
-Hands-on coding session series to implement the
+☀-hands-on coding session series to implement the
 [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
 and other functional enhancements to the web application & CTF-extension
 identified in the [Juice Shop](Juice-Shop-Brainstorming.md) session!
@@ -47,7 +49,8 @@ This working session will implement the following:
   and
   [~~Pomace Recycling~~](https://github.com/bkimminich/juice-shop/issues/243)(_done!_)
 - Hint and solution sections for each new challenge are added to the
-  "Pwning OWASP Juice Shop" e-book
+  [Pwning OWASP Juice Shop](https://www.gitbook.com/book/bkimminich/pwning-owasp-juice-shop/details)
+  e-book
 - Functional and convenience improvements to the Juice Shop
   CTF-extension
 
@@ -71,7 +74,8 @@ The target audience for this Working Session is:
 - Web developers (Knowledge of Angular 1.x would be great but is _not
   mandatory_)
 - Web designers (the vulnerable features will _at least look good_)
-- CTFd project team and contributors
+- Hint/solution/documentation editors (Basic Markdown knowledge would be
+  nice but is _not mandatory_)
 
 ### Remote Participants
 
@@ -94,6 +98,16 @@ All that in your own speed and schedule!
   for Juice Shop CTF-Extension
 - OWASP Juice Shop
   [Contribution Guidelines](https://github.com/bkimminich/juice-shop/blob/master/CONTRIBUTING.md)
+
+[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
+| Juice Shop                                                                                                                                                                   | CTF-Extension                                                                                                                                                                   |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  [![Build Status](https://travis-ci.org/bkimminich/juice-shop.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop)                                               |  [![Build Status](https://travis-ci.org/bkimminich/juice-shop-ctf.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop-ctf)                                          |
+|  [![Build status](https://ci.appveyor.com/api/projects/status/903c6mnns4t7p6fa/branch/develop?svg=true)](https://ci.appveyor.com/project/bkimminich/juice-shop/branch/master) |  [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=develop) |
+|  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop)                                       |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf)                                  |
+|  [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop)                 |  [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop-ctf)            |
+| [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop-staging)](https://juice-shop-staging.herokuapp.com)                                                            |                                                                                                                                                                                  |
 
 ### Content
 
