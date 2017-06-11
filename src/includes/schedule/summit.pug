@@ -1,11 +1,13 @@
 mixin show-session-at-time
     | {% for session in day_Data[time]              %}
+    | {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
     div
         a(href="{{session.url}}") {{ session.name }}
         | {% if session.locked %}
         span.glyphicon.glyphicon-lock
         | {% endif             %}
     .track-info {{ time}} : {{ session.track }}
+    .track-info Room layout : {{ session.layout }}
     | {% endfor                                     %}
 
 mixin show-room-day
@@ -24,7 +26,7 @@ mixin show-room-day
     + show-session-at-time
 
 mixin show-room
-    //td
+    td
         h4 {{ room }}
     td
         | {% assign day = 'Mon'  %}
