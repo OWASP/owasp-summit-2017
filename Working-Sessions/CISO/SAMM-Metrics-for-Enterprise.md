@@ -5,10 +5,11 @@ type         : workshop
 track        : CISO
 technology   :
 related-to   : OwaspSAMM,Appsec Metrics
-status       : Final stage
+status       : done
 when-day     : Thu
 when-time    : PM-3
 location     : Room-4
+room-layout  : unknown
 organizers   : Yan Kravchenko
 participants : Robert Morschel, Ante Gulam
 
