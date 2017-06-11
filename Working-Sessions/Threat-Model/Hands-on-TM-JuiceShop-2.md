@@ -7,7 +7,7 @@ technology   :
 related-to   : Juice Shop
 when-day     : Tue
 when-time    : PM-1
-location     : Villa-4
+location     : Room-6
 status       : Improve outcomes; need-working materials
 organizers   : Adam Shostack,Bjoern Kimminich
 participants : Steven Wierckx, Robert Hurlbut, Timo Pagel
