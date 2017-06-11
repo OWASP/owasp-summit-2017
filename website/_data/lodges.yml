@@ -22,10 +22,15 @@ pre-summit:
     users:
       - Tiffany Long (Sat)
       - Dave Wichers
-      - Amani Altarawneh
+      - Felipe Zipitria
       - Tony UV
+      - Ryan Burgess
+      - Jemma B
+  'Hotel':
+    name: Late Arrivals (Sun)
       - Nuno Loureiro
       - Tiago Mendo
+      - Amani Altarawneh
 
 with-sessions:
   OK309:
@@ -45,7 +50,7 @@ with-sessions:
       - Carlos Holguera
       - Alexander Antukh
       - Robert Morschel
-      - 6
+      - Enrico Verzegnassi (new)
   'OK312':
     name: DevSecCon Villa
     users:
