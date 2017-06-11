@@ -9,6 +9,7 @@ when-time    : AM-1
 location     : Room-3
 organizers   : Achim Hoffmann
 participants :
+invited      : Martin Knobloch, Tiffany Long, Andrew van der Stock
 ---
 
 ## Why
