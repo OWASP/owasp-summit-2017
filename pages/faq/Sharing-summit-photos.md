@@ -9,7 +9,7 @@ title    : Sharing summit photos
 
 You can share your photos of the Summit in the following album: https://goo.gl/photos/d26tnV3z4tgcXABn8 
 
-Collaboration and comment rights are enabled and the link is sharable and unlisted at present
+Collaboration and comment rights are enabled and the link is sharable and unlisted at present.
 
 #### 2. How do I add my photos to the album?
 
