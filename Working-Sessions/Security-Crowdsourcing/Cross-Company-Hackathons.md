@@ -6,10 +6,11 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : definition-of-done
+status       : done
 when-day     : Thu
 when-time    : PM-3
 location     : Room-5
+room-layout  : square
 organizers   : Ante Gulam
 participants :
 ---
