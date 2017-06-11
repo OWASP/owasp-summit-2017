@@ -3,10 +3,11 @@ layout       : blocks/working-session
 title        : Threat Modeling Cheat Sheet & Lightweight Threat Modeling (Part I)
 type         : workshop
 track        : Threat Model
-status       : final stage; need-working materials
+status       : done
 when-day     : Wed
 when-time    : PM-1
 location     : Villa-4
+room-layout  : unknown
 organizers   : Geoff Hill, Tony UV
 participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin, Steven Wierckx
 ---
