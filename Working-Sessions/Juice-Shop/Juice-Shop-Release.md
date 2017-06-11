@@ -5,14 +5,15 @@ type         : workshop
 track        : Juice Shop
 technology   : Node
 description  : Live release of OWASP Juice Shop to publish all the work achievements of the summit and see Travis-CI & friends in action in the process.
-status       : Final stage
+status       : done
 organizers   : Bjoern Kimminich
 when-day     : Fri
 when-time    : AM-1
 locked       : true
 location     : Villa-5
+room-layout  : cabaret
 participants :
-invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro, Josh Grossman
+invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro
 ---
 
 ## Why

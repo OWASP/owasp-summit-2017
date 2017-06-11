@@ -6,11 +6,12 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : need working materials
+status       : done
 when-day     : Thu
 when-time    : AM-1
-location     : Room-5
-organizers   :
+location     : Room-5
+room-layout  : unknown
+organizers   : Danny Grander
 participants :
 ---
 

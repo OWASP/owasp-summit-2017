@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   : PCI
 related-to   :
-status       : final stage; add content
+status       : draft
 organizers   :
 participants :
 ---

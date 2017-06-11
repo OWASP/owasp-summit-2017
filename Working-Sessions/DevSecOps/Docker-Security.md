@@ -6,8 +6,13 @@ owasp-project : no
 track         : DevSecOps
 technology    :
 status        : done
+when-day      : Thu
+when-time     : PM-1
+location      : 
+room-layout   : 
 organizers    : Timo Pagel
 participants  : Johan Peeters,Francois Raynaud
+
 ---
 
 As DevOps become more and more popular, fewer businesses can avoid the use of containers. Containers make deploying servers and services easier and more efficient. Today, one of the most popular container platforms is Docker, which eliminates the “works on my machine” problems that can occur when working on code with a team. 

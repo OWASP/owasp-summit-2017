@@ -5,12 +5,13 @@ type          : workshop
 track         : OwaspSAMM
 technology    : Node
 owasp-project : yes
-status        : need-outcomes;need-working materials
+status        : done
 when-day      : Fri
 when-time     : PM-1
-location      : Room-4
-organizers    : Dinis Cruz
-participants  : Sebastien Deleersnyder, Yan Kravchenko,Irene Michlin, Viktor Lindstrom
+location      : Room-4
+room-layout   : unknown
+organizers    : Dinis Cruz
+participants  : Sebastien Deleersnyder, Yan Kravchenko,Irene Michlin, Viktor Lindstrom, Phil Parker
 ---
 
 See https://github.com/owasp/Maturity-Models for more details on this project

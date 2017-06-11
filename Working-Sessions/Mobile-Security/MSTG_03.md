@@ -5,14 +5,15 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : Final stage; missing working materials
+status          : done
 when-day        : Wed
 when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
+room-layout     : unknown
 description     : In this book sprint we produce content for the "Android Testing Guide" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
 participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen
-invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh, Johanna Curiel
+invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh,
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right" alt="owasp mstg"/>

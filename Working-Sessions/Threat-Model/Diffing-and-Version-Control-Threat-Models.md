@@ -12,6 +12,7 @@ when-time    : AM-1
 location     : Room-6
 organizers   :
 participants : Irene Michlin, Steven Wierckx
+invite: Adam Shostack
 ---
 
 A threat model should be a living artefact that evolves with the project, but how can we achieve this with the available tools?
@@ -19,7 +20,7 @@ We need some best practices that teams can adapt, if we want threat modelling to
 
 ## Why
 
-...why text...
+We tell teams to make their threat model a living artefact, but what are the actual practices and techniques to do that?
 
 ## What
 
@@ -27,13 +28,15 @@ We need some best practices that teams can adapt, if we want threat modelling to
 
 ## Outcomes
 
-...Add text...
+Recommendations documented at OWASP pages
+Either based on current tools capabilities, or at least set of requirements we'd want implemented in TM tools
 
 ## Who
 
 The target audience for this Working Session is:
 
-... who text ...
+Participants in the threat modeling track
+Participants in agile appsec track
 
 --- 
 

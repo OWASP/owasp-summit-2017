@@ -4,7 +4,7 @@ title        : SAMM - Core Model Update 3 - Implementation
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes;need-working materials
+status       : to be reviewed content
 when-day     : Wed
 when-time    : PM-1
 location     : Villa-1
@@ -25,7 +25,7 @@ This Working Session will look at the core model to see what updates related to 
 
 ## Outcomes
 
-...add content...
+- Core Model
 
 ## Who
 
@@ -46,4 +46,5 @@ Here are the current 'work in progress' materials for this session
 
 ### Content
 
-...add content...
+Core Model
+Review current version

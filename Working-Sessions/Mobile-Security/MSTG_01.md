@@ -5,13 +5,15 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : Final stage; missing-Working materials
+status          : done
 when-day        : Mon
 when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
+room-layout     : unknown
 description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller, Sven Schleier
 participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen
+remote participants: Anant Shrivastava
 invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
 

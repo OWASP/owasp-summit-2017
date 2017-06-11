@@ -9,6 +9,7 @@ status       : Final stage; missing working materials
 when-day     : Fri
 when-time    : AM-1
 location     : Room-3
+room-layout  : Cabaret
 organizers   : Johan Peeters
 participants : Dinis Cruz, Robert Morschel, Steven Wierckx
 ---
@@ -62,6 +63,3 @@ The target audience for this Working Session is:
 
 - Revised draft of REST Security Cheatsheet
 
-### Content
-
-...add content...

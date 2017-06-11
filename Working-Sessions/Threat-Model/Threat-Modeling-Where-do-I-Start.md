@@ -5,10 +5,11 @@ type         : workshop
 track        : Threat Model
 technology   :
 related-to   :
-status       : review-content
+status       : done
 when-day     : Mon
 when-time    : Eve
 location     : Villa-4
+room-layout  : unknown
 organizers   :
 participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström, Sebastien Deleersnyder, Timo Pagel
 ---

@@ -6,12 +6,13 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : need-outcomes; need-working materials
+status       : done
 when-day     : Mon
 when-time    : PM-2
 location     : Villa-4
+room-layout  : unknown
 organizers   :
-participants : Geoff Hill, Irene Michlin, Robert Morschel, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindstrom, Christian Martorella, Steven Wierckx, Don Gibson
+participants : Geoff Hill, Irene Michlin, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindstrom, Christian Martorella, Don Gibson
 ---
 
 This session is a discovery session on what threat modelling tools exist currently and what their benefits and weaknesses are.

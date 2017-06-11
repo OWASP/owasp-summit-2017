@@ -11,7 +11,7 @@ when-day     : Wed
 when-time    : PM-3
 location     : Room-4
 organizers   : Yan Kravchenko
-participants : Dinis Cruz
+participants : Dinis Cruz, Francois Faynaud, Fabien Thalgott
 
 ---
 
@@ -41,7 +41,3 @@ The target audience for this Working Session is:
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
-
-### Content
-
-...add content...
