@@ -10,6 +10,7 @@ status       : add content
 when-day     : Tue
 when-time    : AM-1
 location     : Room-2
+remote-link  : INSERT-LINK
 organizers   : Dave Wichers
 participants : Johan Peeters
 ---
