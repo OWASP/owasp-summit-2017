@@ -6,9 +6,12 @@
     {% assign no-regonline  = site.data.mapped.tickets.stats.no_regonline %}
     {% assign regonline     = totals | minus, no-regonline                %}
     <h3>{{site.data.mapped.tickets.by_Type.24h.size }}x 24h tickets</h3>
-    <textarea>{{ site.data.mapped.tickets.by_Type.24h | join: ' , ' }}</textarea>
+    <textarea>
+      Full Name, Job Title, Company
+      {{ site.data.mapped.tickets.by_Type.24h }}
+    </textarea>
     <h3>{{site.data.mapped.tickets.by_Type.8h.size }}x 8h tickets</h3>
-    <textarea>{{ site.data.mapped.tickets.by_Type.8h | join: ' , ' }}</textarea>
+    <textarea>{{ site.data.mapped.tickets.by_Type.8h }}</textarea>
     <h3>Tables</h3>
     <table class="table table-striped">
       <thead>

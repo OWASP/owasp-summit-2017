@@ -39,11 +39,12 @@ mixin email
 
         h3 {{site.data.mapped.tickets.by_Type.24h.size }}x 24h tickets
         textarea
-            | {{ site.data.mapped.tickets.by_Type.24h | join: ' , ' }}
+            | Full Name, Job Title, Company
+            | {{ site.data.mapped.tickets.by_Type.24h }}
 
         h3 {{site.data.mapped.tickets.by_Type.8h.size }}x 8h tickets
         textarea
-            | {{ site.data.mapped.tickets.by_Type.8h | join: ' , ' }}
+            | {{ site.data.mapped.tickets.by_Type.8h }}
         h3 Tables
         table.table.table-striped
             thead
