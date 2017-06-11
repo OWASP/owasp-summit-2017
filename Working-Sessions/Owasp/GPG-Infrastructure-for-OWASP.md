@@ -3,11 +3,12 @@ layout       : blocks/working-session
 title        : GPG Infrastructure for OWASP
 type         : workshop
 track        : Owasp
-status       : need working materials
+status       : done
 when-day     : Wed
 when-time    : AM-1
-location     : Room-3
-organizers   : Achim Hoffmann
+location     : room-3
+room-layout  : unknown
+organizers   : Achim Hoffmann
 participants :
 invited      : Martin Knobloch, Tiffany Long, Andrew van der Stock
 ---
