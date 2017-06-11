@@ -50,13 +50,13 @@ Here are the current 'work in progress' materials for this session (please add a
 
 OWASP [definition](https://www.owasp.org/index.php/Security_Champions) of security champions:
 
-Security Champions are a key element of an AppSec team, since they create an cross-functional team focused on Application Security
+Security Champions are a key element of an AppSec team, since they create a cross-functional team focused on Application Security.
 
-What is an Security Champion?
+What is a Security Champion?
 
-Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
-Act as the "voice" of security for the given product or team
-Assist in the triage of security bugs for their team or area
+- Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
+- Act as the "voice" of security for the given product or team
+- Assist in the triage of security bugs for their team or area
 
 What do they do?
 
