@@ -44,4 +44,4 @@ The target audience for this Working Session is:
 
 ### Content
 
-Currently Latam regions is growing, active chapter leaders are ready to go. We need to define a real roadmap, with rules, obligations, and activities.
+Currently Latam region is growing, active chapter leaders are ready to go. We need to define a real roadmap, with rules, obligations, and activities.
