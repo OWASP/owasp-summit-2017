@@ -12,6 +12,7 @@ when-time    : AM-1
 location     : Room-1
 participants :
 organizers   :
+invited      : Matias Madou
 ---
 
 ## Why

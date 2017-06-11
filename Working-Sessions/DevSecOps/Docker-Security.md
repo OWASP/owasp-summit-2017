@@ -6,6 +6,10 @@ owasp-project : no
 track         : DevSecOps
 technology    :
 status        : done
+when-day      : 
+when-time     : 
+location      : 
+room-layout   : 
 organizers    : Timo Pagel
 participants  : Johan Peeters,Francois Raynaud
 ---

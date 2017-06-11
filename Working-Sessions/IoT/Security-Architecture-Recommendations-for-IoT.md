@@ -4,7 +4,7 @@ title        : Security Architecture Recommendations for IoT
 type         : workshop
 technology   : IoT
 track        :
-status       : final stage; add content 
+status       : draft 
 organizers   :
 participants :
 ---

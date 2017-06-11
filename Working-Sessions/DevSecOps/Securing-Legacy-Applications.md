@@ -10,7 +10,7 @@ status       : missing-Outcomes; missing-Working materials
 when-day     : Wed
 when-time    : PM-3
 location     : Room-6
-organizers   : Lucas Ferreira
+organizers   : Lucas Ferreira, Juan Calderon
 participants : Don Gibson,Irene Michlin, Ingo Hanke
 ---
 

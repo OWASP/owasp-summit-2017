@@ -6,10 +6,11 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   : JIRA Risk Workflow
-status       : final stage
+status       : done
 when-day     : Thu
 when-time    : PM-2
 location     : Room-2
+room-layout  : unknown
 organizers   : Dinis Cruz
 participants : Ante Gulam, Irene Michlin, Mamta Vuppu, Duncan Hurwood
 ---

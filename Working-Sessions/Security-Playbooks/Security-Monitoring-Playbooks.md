@@ -9,7 +9,7 @@ status       : need-working materials
 when-day     : Wed
 when-time    : PM-3
 location     : Room-5
-organizers   :
+organizers   : Johan Peeters
 participants : Johan Peeters
 ---
 

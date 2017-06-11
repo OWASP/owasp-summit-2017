@@ -8,8 +8,9 @@ related-to   : Juice Shop
 when-day     : Tue
 when-time    : Eve
 location     : Villa-4
-status       : Improve outcomes; need-working materials
-organizers   : Adam Shostack,Bjoern Kimminich
+status       : done
+organizers   : Adam Shostack,Bjoern Kimminich
+room-layout  : unknown
 participants : Sebastien Deleersnyder, Steven Wierckx, Robert Hurlbut
 ---
 

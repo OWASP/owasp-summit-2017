@@ -6,10 +6,11 @@ owasp-project: no
 track        :
 technology   :
 related-to   :
-status       : 
+status       : done
 when-day     : Thu
 when-time    : Eve
 location     : Villa-3
+room-layout  : unknown
 organizers   : Francois Raynaud,Dinis Cruz,Seba
 participants : All
 ---

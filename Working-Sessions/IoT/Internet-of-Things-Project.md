@@ -5,11 +5,12 @@ type         : workshop
 owasp-project: yes
 track        : Owasp Projects
 technology   : IoT
-status       : final stage; add content
+status       : done
 when-day     : Mon
 when-time    : PM-3
-location     : Room-1
-locked       : true
+location     : Room-1
+room-layout  : cabaret
+locked       : true
 organizers   : Daniel Miessler
 participants :
 invited      : Sam Houston, Tony UV, Andrew van der Stock, Jason Haddix, Mark Stanislav, Robert Hurlbut, Talmer Elzayyat

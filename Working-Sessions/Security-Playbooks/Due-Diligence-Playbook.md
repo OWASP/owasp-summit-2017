@@ -9,7 +9,8 @@ status       : final stage; need-working materials
 when-day     : Fri
 when-time    : PM-2
 location     : Room-5
-organizers   :
+organizers   : unknown
+room-layout  : cabaret
 participants : Mamta Vuppu, Tiffany Long, Phil Parker
 ---
 

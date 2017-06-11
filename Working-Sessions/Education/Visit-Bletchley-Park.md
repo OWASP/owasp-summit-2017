@@ -6,10 +6,11 @@ owasp-project: no
 track        :
 technology   :
 related-to   :
-status       : review-content
+status       : done
 when-day     : Thu
 when-time    : PM-1,PM-2,PM-3
 location     :
+room-layout  : unknown
 organizers   : Johan Peeters
 participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt
 ---

@@ -7,8 +7,9 @@ technology   :
 related-to   : Juice Shop
 when-day     : Tue
 when-time    : PM-3
-location     : Room-6
-status       : Improve outcomes; need-working materials
+location     : Room-6
+room-layout  : unknown
+status       : done
 organizers   : Adam Shostack,Bjoern Kimminich
 participants : Steven Wierckx, Robert Hurlbut, Timo Pagel
 invited      :

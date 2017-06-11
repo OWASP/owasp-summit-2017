@@ -6,10 +6,11 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : final stage; need-working materials
+status       : done
 when-day     : Thu
 when-time    : PM-1
 location     : Room-6
+room-layout  : unknown
 organizers   : Don Gibson
 participants : 
 ---

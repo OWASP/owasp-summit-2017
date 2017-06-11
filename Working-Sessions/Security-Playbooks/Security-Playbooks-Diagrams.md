@@ -9,7 +9,7 @@ status       : need-working materials
 when-day     : Mon
 when-time    : PM-2
 location     : Room-5
-organizers   :
+organizers   : Jason Li
 participants :
 ---
 
@@ -36,7 +36,7 @@ Threat Connect also looks interesting:
 
  - Create and publish multiple Security Playbooks Diagrams
  
-## Definition of Done
+## Outcomes
 
 - Diagrams of Security Playbooks published
 
@@ -62,6 +62,3 @@ Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
-### Content
-
-...add content...

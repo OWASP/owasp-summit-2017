@@ -4,13 +4,15 @@ title        : Machine Learning and Security
 type         : workshop
 owasp-project: no
 track        : Research
-status       : need outcomes; need working materials
+status       : done
 organizers   : Talal Albacha
 when-day     : Wed
 when-day     : Fri
 when-time    : AM-1
-location     : Room-1
-participants :
+location     : Room-1
+room-layout  : cabaret
+participants : Mateo Martinez
+invited      : Fabien Thalgott, 
 ---
 
 Machine Learning (ML) and Artificial Intelligence (AI) are becoming mainstream techniques, and they provide a great opportunity for defenders.
