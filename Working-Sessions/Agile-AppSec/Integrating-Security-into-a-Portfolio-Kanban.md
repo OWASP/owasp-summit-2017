@@ -28,7 +28,7 @@ Integrating information security into the Portfolio Kanban enables organisations
 
 ## Outcomes
 
-...add text...
+- Playbook that defines staged industry best practices on how to integrate security into the general programme management workflow 
 
 ## Who
 
