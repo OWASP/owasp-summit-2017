@@ -5,7 +5,7 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : need-working materials
+status       : mereged with Playbooks Common Format
 when-day     : Mon
 when-time    : PM-3
 location     : Room-5
