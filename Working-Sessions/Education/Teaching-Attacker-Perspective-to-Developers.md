@@ -11,7 +11,7 @@ when-day       : Thu
 when-time      : AM-1
 location       : Villa-5
 organizers     : Bjoern Kimminich
-participants   : Timo Pagel, Stuart Gunter, Tiffany Long, Phil Parker
+participants   : Timo Pagel, Stuart Gunter, Tiffany Long, Phil Parker,Francois Raynaud
 ---
 
 > _Learning by doing_ is a quite successful education concept. Although
