@@ -77,12 +77,13 @@ class Jekyll_Data
 
     # Map by_Day
     for name, data of @.working_Sessions_Data when data.metadata.type is 'workshop'
-      days         = data.metadata['when-day' ] || 'no-day'
-      times        = data.metadata['when-time'] || 'no-time'
-      locations    = data.metadata['location' ] || 'no-location'
-      tracks       = data.metadata.track        || 'no-track'
-      locked       = data.metadata.locked       || false
-      status       = data.metadata.status       || ''
+      days         = data.metadata['when-day' ]    || 'no-day'
+      times        = data.metadata['when-time']    || 'no-time'
+      locations    = data.metadata['location' ]    || 'no-location'
+      layout       = data.metadata['room-layout' ] || 'unknown'
+      tracks       = data.metadata.track           || 'no-track'
+      locked       = data.metadata.locked          || false
+      status       = data.metadata.status          || ''
       invited      = data.metadata.invited
       organizers   = data.metadata.organizers
       panelists    = data.metadata.panelists
@@ -96,17 +97,17 @@ class Jekyll_Data
               schedule.by_Room[day]                  ?= {}
               schedule.by_Room[day][location]        ?= {}
               schedule.by_Room[day][location][time]  ?= []
-              schedule.by_Room[day][location][time].add name: name, url: data.url , track : track       , locked: locked
+              schedule.by_Room[day][location][time].add name: name, url: data.url , track : track       , layout: layout, locked: locked
 
               schedule.by_Track[day]                 ?= {}
               schedule.by_Track[day][track]          ?= {}
               schedule.by_Track[day][track][time]    ?= []
-              schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , locked: locked
+              schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , layout: layout, locked: locked
 
               schedule.by_Time[time]                 ?= {}
               schedule.by_Time[time][track]          ?= {}
               schedule.by_Time[time][track][day]     ?= []
-              schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , locked: locked, status: status
+              schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , layout: layout, locked: locked, status: status
 
               map_User = (user,role)->
                 schedule.by_Participant[user]             ?= {}

@@ -10,8 +10,8 @@ organizers   : Bjoern Kimminich
 when-day     : Mon
 when-time    : PM-3
 locked       : true
-location     : Villa-5
-room-layout  : unknown
+location     : Room-3
+room-layout  : circle
 participants : Dinis Cruz,Ade Yoseman Putra,Timo Pagel,Francois Raynaud
 invited      : Jannik Hollenbach
 cant-make-it : Ingo Hanke

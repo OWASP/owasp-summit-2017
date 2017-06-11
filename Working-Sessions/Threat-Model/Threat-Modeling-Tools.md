@@ -9,8 +9,8 @@ related-to   :
 status       : done
 when-day     : Mon
 when-time    : PM-2
-location     : Villa-4
-room-layout  : unknown
+location     : Room-6
+room-layout  : cabaret
 organizers   :
 participants : Geoff Hill, Irene Michlin, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindstrom, Christian Martorella, Don Gibson
 ---
