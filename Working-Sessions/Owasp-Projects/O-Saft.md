@@ -62,4 +62,5 @@ See "Working materials" above.
 
 ---
 
-Create a [slack team](https://o-saft.slack.com/), feel free to join the O-Saft team.
+Create a [slack team](https://o-saft.slack.com/), feel free to join the O-Saft team with your @owasp.org address (unfortunately slack is toooo stupid to accept @gmail.com addresses).
+
