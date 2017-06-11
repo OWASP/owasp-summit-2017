@@ -8,7 +8,7 @@ when-day     : Fri
 when-time    : AM-1
 location     : Room-2
 organizers   : Ade Yoseman Putra, Mohammad Febri Ramadlan
-participants : Petty Meisari
+participants : Petty Meisari, Phil Parker
 ---
 
 ## Why
