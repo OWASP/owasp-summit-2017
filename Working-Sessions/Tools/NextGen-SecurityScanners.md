@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : NextGen Security Scanners
 type         : workshop
 track        : Tools
-status       : final stage; need-working materials
+status       : final stage; need-working materials; need to be reviewed content
 when-day     : Thu
 when-time    : PM-2
 location     : Room-5
