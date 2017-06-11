@@ -32,12 +32,19 @@ mixin email
     .participants-table
         h1 {{ page.title }}
             a(href='/pages/for-editors') Back to Editor's pages
-
         | {% assign tickets       = site.data.mapped.tickets.by_Ticket          %}
         | {% assign totals        = site.data.mapped.tickets.stats.count        %}
         | {% assign no-regonline  = site.data.mapped.tickets.stats.no_regonline %}
         | {% assign regonline     = totals | minus, no-regonline                %}
 
+        h3 {{site.data.mapped.tickets.by_Type.24h.size }}x 24h tickets
+        textarea
+            | {{ site.data.mapped.tickets.by_Type.24h | join: ' , ' }}
+
+        h3 {{site.data.mapped.tickets.by_Type.8h.size }}x 8h tickets
+        textarea
+            | {{ site.data.mapped.tickets.by_Type.8h | join: ' , ' }}
+        h3 Tables
         table.table.table-striped
             thead
                 th.large-column  Ticket type

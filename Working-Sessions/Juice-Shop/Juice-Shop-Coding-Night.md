@@ -11,7 +11,7 @@ when-day     : Mon,Tue,Wed,Thu
 when-time    : Eve
 location     : Villa-5
 participants :
-invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro, Josh Grossman
+invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro
 ---
 
 ## Why

@@ -1,19 +1,19 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One (8th)
+title           : Paul Fountain
 type            : participant
 job-title       :
 company         : Capital One
 travel-from     :
 image           :
 linkedin        :
-twitter          :
+twitter         :
 facebook        :
 website         :
 email           :
 project-leader  :
 chapter-leader  :
-ticket          : 5x8h
+ticket          : 1x8h
 status          : empty
 regonline       : No
 working-sessions:

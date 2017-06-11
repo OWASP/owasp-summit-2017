@@ -13,7 +13,7 @@ website         :
 email           :
 project-leader  :
 chapter-leader  :
-ticket          : 5x24h
+ticket          : shared-24h
 status          : empty
 regonline       : No
 working-sessions:

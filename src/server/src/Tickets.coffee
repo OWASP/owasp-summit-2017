@@ -59,6 +59,7 @@ class Tickets
     data = {}
     data =
       stats: { count: 0 , no_regonline: 0}
+      by_Type: '24h': [] , '8h': []
       by_Ticket      : {}
       by_Participant : {}
 
@@ -67,6 +68,11 @@ class Tickets
       if value.metadata.type is 'participant' and value.metadata.ticket
         data.stats.count++
         data.stats.no_regonline++ if value.metadata.regonline is 'No'
+
+        if value.metadata.ticket.contains('24h')
+          data.by_Type['24h'].add key
+        else
+          data.by_Type['8h'].add key
 
         data.by_Ticket[value.metadata.ticket] ?= { stats: { count:0 }, names: []}
         using data.by_Ticket[value.metadata.ticket], ->

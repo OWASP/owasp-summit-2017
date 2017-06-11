@@ -13,6 +13,7 @@ website          : https://www.lafosse.com/rosstanner
 email            : ross.tanner@lafosse.com
 ticket           :
 when-day         : Tue
+ticket           : 1x24h
 status           : empty
 working-sessions : Creating AppSec Talent,Creating AppSec Teams,Growing the AppSec Industry,Recruiting AppSec Talent,Security Champions
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)

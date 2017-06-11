@@ -2,7 +2,7 @@
 layout      : blocks/working-session
 title       : AWS Lambda Security
 type        : workshop
-track       : Tools
+track       : DevSecOps
 status      : need-more content
 when-day    :
 organizers  :

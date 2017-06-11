@@ -1,21 +1,21 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One (7th)
+title           : Chris Pointon
 type            : participant
-job-title       :
-company         : Capital One
+job-title       : CTO
+company         : Databoxer
 travel-from     :
 image           :
 linkedin        :
-twitter          :
+twitter         :
 facebook        :
 website         :
 email           :
 project-leader  :
 chapter-leader  :
-ticket          : 5x8h
+when-day        : Tue
+ticket          : 1x8h
 status          : empty
-regonline       : No
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

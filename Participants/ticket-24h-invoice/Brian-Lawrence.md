@@ -1,13 +1,13 @@
 ---
 layout          : blocks/page-participant
-title           : Janne Sarendal
+title           : Brian Lawrence
 type            : participant
-job-title       : Head of Application Security
-company         : Capital One
+job-title       : Solution Engineer
+company         : NowSecure
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter         :
 facebook        :
 website         :
 email           :
@@ -15,8 +15,7 @@ project-leader  :
 chapter-leader  :
 ticket          : 5x24h
 status          : empty
-regonline       : No
-working-sessions: AGILE APPSEC, DEVSECOPS, THREAT MODEL
+working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
