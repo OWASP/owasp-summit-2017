@@ -65,7 +65,15 @@ The key to the Summit dynamic is having villas where you can interact with other
  
 When you arrive at Woburn Center Parcs proceed to the conference center (conveniently called The Venue) you will recive your house key and accommodation information package when you register for the conference.  Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide with your housemates on the sleeping arrangements.  If their are any difficulties please email the organizers at OWASPSummit@gmail.org.
  
+### General Housekeeping 
  
+Cleaners will come to your villa each morning to clean, see to dirty dishes, and take out the rubbish.  As there are no locks on bedroom doors, we advise you not to leave valuables lying around.  
+ 
+On the day you leave, please strip your bed of sheets and pillowcases.  Leave the dirty linen on the floor.  
+ 
+You need to have everything out of your room/villa by 10:00 a.m. on the day you leave; you can leave luggage at the registration desk in the Venue.  
+
+
 # Schedule
  
  
