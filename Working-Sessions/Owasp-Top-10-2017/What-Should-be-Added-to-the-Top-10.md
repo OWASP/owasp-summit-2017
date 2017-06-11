@@ -5,10 +5,10 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   : OWASP Proactive Controls
-status       : need working material; need content 
-when-day     : Tue
-when-time    : PM-2
-location     : Room-2
+status       : out
+when-day     : 
+when-time    : 
+location     : 
 organizers   : Andrew Ven Der Stock
 participants : Katy Anton, Jonas Vanalderweireldt, Mateo Martinez
 ---

@@ -23,9 +23,9 @@ pre-summit:
       - Tiffany Long (Sat)
       - Dave Wichers
       - Felipe Zipitria
-      - Tony UV
       - Jemma Buttle
-      - Ryan Burgess
+      - Mateo Martinez
+      - Tech Writer 1
   'Hotel':
     name: Late Arrivals (Sun)
     users:
@@ -98,14 +98,14 @@ with-sessions:
       - Ohad Rabinovich
       - Nanne Baars
   'OK319':
-    name: Owasp Top 10
+    name: Summit Team
     users:
-      - Dave Wichers
-      - Johanna Curiel
+      - Jemma Davis
+      - Jemma Buttle
       - Robert Grace
-      - 4
-      - Chris Cooper
-      - Erez Yalon
+      - Ryan Burgess
+      - Andrew Moore
+      -
   'OK320':
     name: PhotoBox Villa
     users:
@@ -129,8 +129,8 @@ quiet-lodges:
   'OK413':
     name: Quiet 1 (5x24)
     users:
-      - Jemma Davis
-      - Jemma Buttle
+      - Dave Wichers
+      - Chris Cooper
       - Daniela Cruzes
       - Amani Altarawneh
       - Tiffany Long
@@ -168,19 +168,19 @@ quiet-lodges:
      - Denis Pilipchuk
      - Avi Douglen
      - Johan Peeters
-     - Jemma Buttle
-     - Gabor Pek (3x24)
+     - Erez Yalon
      - Barracuda 3 (3x24)
+     - 6
   'OK427':
 
     name: Quiet 6 (2x24)
     users:
-     - Barracuda 2
+     - Gabor Pek (3x24)
      - Chris Wysopal
      - Vlad Nisic
      - Mark Felegyhazi
      - Christian DeHoyos
-     - 6
+     - Barracuda 2
   'OK428':
     name: Quiet 7 (1x24)
     users:

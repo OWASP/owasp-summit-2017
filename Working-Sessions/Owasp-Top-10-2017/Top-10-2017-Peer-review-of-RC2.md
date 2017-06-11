@@ -1,12 +1,12 @@
 ---
 layout       : blocks/working-session
-title        : Top 10 2017 - Process Discussion
+title        : Top 10 2017 - Peer review of RC2
 type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : done
-when-day     : Mon
+when-day     : Thu
 when-time    : AM-1
 location     : Room-2
 organizers   : Dave Wichers, Andrew Van Der Stock
@@ -18,10 +18,9 @@ participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessle
 
 ## What
 
-How does the OWASP Top 10 get made, let's discuss and define. 
-There's a reason why the OWASP Top 10 is what it is, but there needs to be transparency and a defined path for OWASP Top 10 project members and data call participants. 
-Let's work on this so we can define the way forward for the 2017, 2020 and 2023 OWASP Top 10. 
- 
+There will be an RC2 coming out of the summit. I would like folks to come back on Day 5 and review a near to final RC2 that we create together at the Project Summit. 
+Need 3 or 4 hours for this so we can review all of the revised RC2 document. Please schedule for 11 am - 3 pm BST, and folks can come and go as they please.  
+
 ## Outcomes 
 
 

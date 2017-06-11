@@ -5,10 +5,10 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : done 
-when-day     : Tue
-when-time    : PM-1
-location     : Room-2
+status       : out 
+when-day     : 
+when-time    : 
+location     : 
 room-layout  : u-shape
 organizers   : Dave Wichers, 
 participants : Sebastien Deleersnyder, Jonas Vanalderweireldt
