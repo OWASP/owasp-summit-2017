@@ -11,7 +11,7 @@ location     : Room-6
 room-layout  : unknown
 status       : done
 organizers   : Adam Shostack,Bjoern Kimminich
-participants : Steven Wierckx, Robert Hurlbut, Timo Pagel
+participants : Steven Wierckx, Robert Hurlbut, Timo Pagel, Irene Michlin
 invited      :
 ---
 
