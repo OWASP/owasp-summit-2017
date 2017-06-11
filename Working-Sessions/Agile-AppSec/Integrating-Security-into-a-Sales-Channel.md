@@ -6,7 +6,7 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   :
-status       : need more content
+status       : merged with integrating security into a portfolio kanban
 when-day     : Thu
 when-time    : AM-1
 location     : Room-2
