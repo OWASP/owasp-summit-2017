@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Tue
 organizers   :
-participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu
+participants : Robert Hurlbut, Irene Michlin
 ---
 
 Single most common question I get from Developers
