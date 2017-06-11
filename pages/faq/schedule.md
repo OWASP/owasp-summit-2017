@@ -14,5 +14,8 @@ Dynamic sessions take place over dinner, the topics are scheduled to particular 
 3.	What are evening sessions?
 Evening sessions are self-organised, informal discussions scheduled to take place in assigned villas.  No deliverables are expected.
 
+4.	My workshop is no longer on the schedule 
+Workshops with insufficient detail or no organizer or too few participants, were cancelled.
 
-... this page will contain FAQ about the schedule ...
+
+
