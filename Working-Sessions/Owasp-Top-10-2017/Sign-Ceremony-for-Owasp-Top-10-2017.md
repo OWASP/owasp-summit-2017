@@ -6,7 +6,7 @@ owasp-project: no
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : need working material
+status       : draft
 when-day     : Fri
 when-time    : PM-3
 location     : Room-6
