@@ -11,6 +11,7 @@ when-day     : Fri
 when-time    : AM-1
 location     : Room-1
 participants :
+invited      : Fabien Thalgott
 ---
 
 Machine Learning (ML) and Artificial Intelligence (AI) are becoming mainstream techniques, and they provide a great opportunity for defenders.
