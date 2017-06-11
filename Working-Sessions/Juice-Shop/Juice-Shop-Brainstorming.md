@@ -12,7 +12,7 @@ when-time    : PM-3
 locked       : true
 location     : Villa-5
 participants : Dinis Cruz,Ade Yoseman Putra,Timo Pagel,Francois Raynaud
-invited      : Josh Grossman,Jannik Hollenbach
+invited      : Jannik Hollenbach
 cant-make-it : Ingo Hanke
 ---
 

@@ -22,7 +22,8 @@ describe 'Jekyll_Data', ->
     using jekyll_Data, ->
       test_Data = @.folder_Participants.files_Recursive().first().file_Contents()
       using @.map_Participant_Raw_Data(test_Data), ->
-        @._keys().assert_Contains ['title','type','image']
+        @._keys().assert_Is [ 'working-sessions' ]
+        #@._keys().assert_Contains ['title','type','image']
 
   it 'map_Participants_Data', ->
     using jekyll_Data, ->
@@ -89,8 +90,9 @@ describe 'Jekyll_Data', ->
   it 'resolve_Working_Sessions', ->
     using jekyll_Data, ->
       test_Names        = ['Juice Shop','NodeGoat','Abc']
+      console.log  @.resolve_Working_Sessions(test_Names)
       @.resolve_Working_Sessions(test_Names)
-          .assert_Is [ { name: 'Juice Shop', url: '/Working-Sessions/Owasp-Projects/Juice-Shop.html' },
+          .assert_Is [ { name: 'Juice Shop', url: '/Working-Sessions/Juice-Shop/index.html' },
                        { name: 'NodeGoat'  , url: '/Working-Sessions/Owasp-Projects/NodeGoat.html' },
                        { name: 'Abc' } ]
 
