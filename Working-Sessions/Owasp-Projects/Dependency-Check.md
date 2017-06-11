@@ -10,8 +10,8 @@ owasp-project: yes
 when-day     : Mon
 when-time    : PM-2
 location     : Room-3
-organizers   : Steve Springett
-participants : Johan Peeters, Steven Wierckx
+organizers   : Steve Springett, Steven Wierckx
+participants : Johan Peeters
 ---
 
 
