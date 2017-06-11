@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Daily Briefing session
+title        : Prepare Daily Briefing session
 type         : workshop
 track        : Summit Team
 organizers   :
