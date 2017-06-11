@@ -15,7 +15,7 @@ project-leader  :
 chapter-leader  :
 ticket          : 5x24h
 status          : empty
-working-sessions: Security Guild vs Security Champions,Security Champions,Incident Response Playbook,Lessons learned from public bug bounties programmes,Cross-Company Hackathons,Internal Bug Bounties Programmes,Using ML and AI to detect Attacks,Bug Bounty Playbook
+working-sessions: Security Guild vs Security Champions,Security Champions,Incident Response Playbook,Lessons learned from public bug bounties programmes,Cross-Company Hackathons,Internal Bug Bounties Programmes,Machine Learning and Security,Bug Bounty Playbook
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
