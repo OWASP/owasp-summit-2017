@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Scaling Static Analysis Reviews and Deployments
 type         : workshop
 owasp-project: no
-track        : Tools
+track        : DevSecOps
 technology   : SAST
 related-to   : Securing the CI Pipeline,Integrating Security Tools in the SDL
 status       : review-content
@@ -11,7 +11,7 @@ when-day     : Fri
 when-time    : PM-1
 location     : Room-1
 participants : Avi Douglen, Robert Morschel
-organizers   :
+organizers   : Jason Li
 ---
 
 ## Why
