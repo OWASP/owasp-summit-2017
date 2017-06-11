@@ -45,14 +45,15 @@ The Working Session will focus on the internal redesign and some improvements th
 
 The target audience for this Working Session is:
 
---Add text--
+- contributors to the tool
+- users in general and users having special requirements
 
 --- 
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+There is a [docs](https://github.com/OWASP/O-Saft/tree/master/docs) directory with [documentation for developers](https://github.com/OWASP/O-Saft/) at github. It also contains Summit2017-todo.txt which contains all th topics to be discused and worked on during the session.
 
 ### Content
 
-...add content...
+See "Working materials" above.
