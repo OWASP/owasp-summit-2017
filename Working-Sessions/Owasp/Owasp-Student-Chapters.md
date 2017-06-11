@@ -28,7 +28,8 @@ There is not a handbook for student chapters, we need to create it during the su
 
 -  Student Chapter Leader Handbook
 -  2017 - 2018 Objectives and Roadmap
--  A document "Why you want an OWASP Student Chapter at your University?"
+-  A document for Univiersities: "Why you want an OWASP Student Chapter at your University?"
+-  A document for students: "Why you may create an OWASP Student Chapter at your University?"
 
 ## Who
 
@@ -36,8 +37,7 @@ The target audience for this Working Session is:
 
 - Chapter Leaders 
 - Project Leaders
-
---- 
+- Academic Supporters
 
 ## Working materials
 
@@ -49,4 +49,4 @@ The target audience for this Working Session is:
 
 This workshop objective is to discuss and plan how we want to grow with student chapters and how we will interact with academia an industry. But a clear path need to be defined.
 
-We need to pr
+
