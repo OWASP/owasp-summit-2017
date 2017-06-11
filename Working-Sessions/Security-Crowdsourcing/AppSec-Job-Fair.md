@@ -10,8 +10,8 @@ status       : need outcomes; need working materials
 when-day     : Tue
 when-time    : Eve
 location     : Villa-2
-organizers   :
-participants : Ross Tanner,Francois Raynaud,Ade Yoseman Putra, Don Gibson
+organizers   : Ross Tanner
+participants : Francois Raynaud,Ade Yoseman Putra, Don Gibson
 ---
 
 ## Why
