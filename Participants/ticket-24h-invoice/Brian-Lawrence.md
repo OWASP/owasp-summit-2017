@@ -1,21 +1,20 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One (8th)
+title           : Brian Lawrence
 type            : participant
-job-title       :
-company         : Capital One
+job-title       : Solution Engineer
+company         : NowSecure
 travel-from     :
 image           :
 linkedin        :
-twitter          :
+twitter         :
 facebook        :
 website         :
 email           :
 project-leader  :
 chapter-leader  :
-ticket          : 5x8h
+ticket          : 5x24h
 status          : empty
-regonline       : No
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

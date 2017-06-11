@@ -15,7 +15,7 @@ ticket          :
 status          : empty
 when-day        : Tue
 ticket          : 1x8h
-regonline       : No
+regonline       : yes
 working-sessions: Responsible Disclosure
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

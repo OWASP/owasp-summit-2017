@@ -39,7 +39,7 @@ with-sessions:
       - Sebastien Deleersnyder
       - Bart De Win
       - Brian Glas
-      - 4
+      - Brian Lawrence
       - Yan Kravchenko
       - Viktor Lindstrom
   'OK310':
@@ -162,14 +162,14 @@ quiet-lodges:
      - Brian Lawrence
      - Ingo Hanke
   'OK426':
-    name: Quiet 5 (3x24)
+    name: Quiet 5 (5x24)
     users:
-     - Denis Pilipchuk (5x24h)
-     - Avi Douglen (5x24h)
-     - Johan Peeters (5x24h)
-     - Christian DeHoyos
-     - Gabor Pek
-     - Barracuda 3
+     - Denis Pilipchuk
+     - Avi Douglen
+     - Johan Peeters
+     - Jemma Buttle
+     - Gabor Pek (3x24)
+     - Barracuda 3 (3x24)
   'OK427':
 
     name: Quiet 6 (2x24)
@@ -178,7 +178,7 @@ quiet-lodges:
      - Chris Wysopal
      - Vlad Nisic
      - Mark Felegyhazi
-     - 5
+     - Christian DeHoyos
      - 6
   'OK428':
     name: Quiet 7 (1x24)
@@ -186,6 +186,6 @@ quiet-lodges:
      - Sherif Mansour
      - Stuart Gunter
      - Ross Tanner
-     - 4
+     - Ceara Treacy
      - 5
      - 6
