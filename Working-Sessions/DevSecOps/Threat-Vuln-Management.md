@@ -10,7 +10,7 @@ when-time    : PM-1
 location     : Room-1
 room-layout  : unknown
 organizers   : Don Gibson
-participants : Francois Raynaud,Dinis Cruz,Marc Rimbau, Irene Michlin, Robert Morschel, Timo Pagel, Ingo Hanke, Mateo Martinez
+participants : Francois Raynaud,Dinis Cruz,Marc Rimbau, Irene Michlin, Timo Pagel, Ingo Hanke, Mateo Martinez
 ---
 
 Closing the circle
