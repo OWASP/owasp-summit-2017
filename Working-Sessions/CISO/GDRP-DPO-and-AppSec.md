@@ -44,6 +44,9 @@ We need to be much more focused on the questions to ask and provide as much info
 ### List of questions (AppSec implications)
 
  - What are the AppSec implications of this regulation?
+ - What is the accepted format/notation for data flows and data at rest documentation requirements?
+ - How to include the DPO as part of the software security governance?
+ - What constitutes personal data and what about edge cases? (Post code, First Name + Last Name, IP Address etc.)
 
 
 ### List of questions (General implications)
