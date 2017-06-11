@@ -9,8 +9,8 @@ status       : final stage; add content
 when-day     : Mon
 when-time    : PM-1
 location     : Room-2
-organizers   : Dave Wichers,Josh Grossman
-participants : Bjoern Kimminich, Tiffany Long
+organizers   : Dave Wichers
+participants : Tiffany Long,Jonas vanalderweireldt
 ---
 
 ## Why

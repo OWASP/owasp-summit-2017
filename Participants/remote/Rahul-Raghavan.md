@@ -6,7 +6,7 @@ job-title       : DevSecOps Evangelist
 company         : we45
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkUAAAAJDk1OWE4OGJjLTEzNDAtNDc0MS1hNGZmLTlkM2Y0NTFiZTI5OQ.jpg
 linkedin        : torahulraghavan
-twiter          :
+twitter          :
 facebook        :
 website         : https://www.we45.com/
 email           :

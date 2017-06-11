@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : TM - What can go wrong with Juice Shop?
+title        : Hands on Threat Modeling Juice Shop (Attacking 2)
 type         : workshop
 track        : Threat Model
 technology   :
@@ -9,11 +9,11 @@ when-day     : Wed
 when-time    : Eve
 location     : Villa-4
 status       : Improve outcomes; need-working materials 
-organizers   : Adam Shostack
-participants : Dinis Cruz
+organizers   : Adam Shostack,Bjoern Kimminich
+participants : Dinis Cruz, Sebastien Deleersnyder, Steven Wierckx, Robert Hurlbut
 ---
 
-Get together to use the models of Juice Shop to find problems with it, learn threat modelling, and deliver examples.
+Get together to continue to use the models of Juice Shop to find problems with it, learn threat modelling, and deliver examples.
 
 ## Why
 

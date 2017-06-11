@@ -7,7 +7,7 @@ company         :
 travel-from     :
 image           : https://lh3.googleusercontent.com/-p2zwVBF6ls8/AAAAAAAAAAI/AAAAAAAAY3g/vpQi8mhoC5g/s120-p-rw-no/photo.jpg
 linkedin        :
-twiter          : 
+twitter          :
 facebook        :
 website         :
 email           : joshua.armour@gmail.com

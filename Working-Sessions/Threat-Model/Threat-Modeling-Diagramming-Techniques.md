@@ -9,9 +9,9 @@ related-to   :
 status       : need-more content
 when-day     : Mon
 when-time    : PM-3
-location     : Room-6
+location     : Villa-4
 organizers   :
-participants :
+participants : Steven Wierckx, Stephen de Vries
 ---
 
 Diagrams are a fundamental building block for putting mental models where they can be shared, debated, refined, or used as an aid to collaboration and analysis. 
@@ -41,7 +41,8 @@ The target audience for this Working Session is:
 
 Here are the current 'work in progress' materials for this session 
 
-(please add as much information as possible before the sessions)
+- Can we re-use diagrams already produced during software devs?
+- Why DFD's and not sequence diagrams?
 
 ### Content
 

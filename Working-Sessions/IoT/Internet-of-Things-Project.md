@@ -6,15 +6,18 @@ owasp-project: yes
 track        : Owasp Projects
 technology   : IoT
 status       : final stage; add content
-when-time    : PM-1
-location     : Room-3
-when-day     : Fri
+when-day     : Mon
+when-time    : PM-3
+location     : Room-1
+locked       : true
 organizers   : Daniel Miessler
-participants : Bjoern Kimminich
+participants :
+invited      : Sam Houston, Tony UV, Andrew van der Stock, Jason Haddix, Mark Stanislav, Robert Hurlbut, Talmer Elzayyat
 ---
 
 The OWASP Internet of Things Project is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.
 The project looks to define a structure for various IoT sub-projects such as Attack Surface Areas, Testing Guides and Top Vulnerabilities.  
+
 <img src='https://www.owasp.org/images/thumb/d/d6/Iot-project.png/800px-Iot-project.png' style='width:380px' alt='Iot project'/>
 
 ### Resources from Owasp.org

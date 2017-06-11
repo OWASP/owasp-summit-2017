@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       : Application Security Quarterback
 image           : https://avatars3.githubusercontent.com/u/143166?v=3&s=460
 linkedin        : thesp0nge
-twiter          : thesp0nge
+twitter          : thesp0nge
 facebook        : CodiceInsicuro
 status          : done
 working sessions:

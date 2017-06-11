@@ -1,13 +1,13 @@
 ---
 layout          : blocks/page-participant
-title           : Capital One (5th)
+title           : Ben Gould
 type            : participant
 job-title       :
 company         : Capital One
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

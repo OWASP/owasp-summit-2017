@@ -6,7 +6,7 @@ job-title       : Technical Director
 company         : Cipher Security
 image           : https://cybersummitusa.com/wp-content/uploads/2017/03/Steve-Lamb-Bio-56.jpg
 linkedin        : 
-twiter          : actionlamb
+twitter          : actionlamb
 facebook        :
 website         :
 email           :

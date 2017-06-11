@@ -49,6 +49,7 @@ class Tickets
         names.add name: key, when: value.metadata['pre-summit']
     data.pre_Summit['OK314'] = names.splice(0,6)
     data.pre_Summit['OK315'] = names.splice(0,6)
+    data.pre_Summit['TBD']   = names.splice(0,6)
 
 
     @.jekyll_Data.save_Data data, @.file_Json_Lodges, @.file_Yaml_Lodges

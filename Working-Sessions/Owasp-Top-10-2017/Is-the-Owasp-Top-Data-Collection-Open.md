@@ -25,7 +25,7 @@ sides of the argument.
 
 See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/behind-the-the-owasp-top-10-2017-rc1-df43236f79ff) for good points on the need to be independent and open.
 
-![](https://cdn-images-1.medium.com/max/1440/1*pVqqjr479FPGgt8xOsVZfw.png)
+![Potential Risks](https://cdn-images-1.medium.com/max/1440/1*pVqqjr479FPGgt8xOsVZfw.png){:style="width:345px"}
 
 ## What
 

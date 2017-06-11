@@ -11,7 +11,8 @@ when-time       : AM-1,PM-1,PM-2,PM-3
 location        : Villa-2
 description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
-participants    : T.b.d.
+participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen
+invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right" alt="owasp mstg"/>
@@ -64,10 +65,8 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-- Draft of the Mobile Security Testing Guide (MSTG) (please add as much information as possible before the sessions)
+- Draft of the [Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
+- Jailbroken iOS devices, rooted Android devices
 
-### Content
-
-...add content...
 
 

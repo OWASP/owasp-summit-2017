@@ -6,7 +6,7 @@ job-title       : Principal Security Scientist
 company         : New Context
 image           : https://pbs.twimg.com/profile_images/458731837712367616/6mIwfNQE_400x400.png
 linkedin        : btomhave
-twiter          : falconsview
+twitter          : falconsview
 facebook        : 
 website         : http://www.secureconsulting.net/
 email           : tomhave@secureconsulting.net

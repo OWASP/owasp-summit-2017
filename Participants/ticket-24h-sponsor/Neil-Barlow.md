@@ -7,7 +7,7 @@ company         : Capital One
 travel-from     :
 image           : https://pbs.twimg.com/profile_images/628682294648307712/Vv0Yk15h_400x400.jpg
 linkedin        : neilbarlow
-twiter          : ArdMhacha24
+twitter          : ArdMhacha24
 facebook        :
 ticket          : 5x24h
 status          : need-content

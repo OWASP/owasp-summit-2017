@@ -6,7 +6,7 @@ job-title       : Veracode
 company         : Veracode
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAALrAAAAJDA0ZTkxYmIwLTZlMmMtNGRiNi04YTYzLTkxNmZhZjg5Y2JjOA.jpg
 linkedin        : katyanton/
-twiter          : katyanton
+twitter          : katyanton
 facebook        :
 website         :
 email           : katy.anton@owasp.org

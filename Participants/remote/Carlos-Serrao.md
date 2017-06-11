@@ -6,7 +6,7 @@ job-title       : Assistant Professor, R&D, Entrepreneur
 company         : Instituto Universitário de Lisboa (ISCTE-IUL)
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAo7AAAAJGU0ODQwZDNmLTFkNDUtNDAxOS1iZWNiLTdmZmZmNzQ2MDdjMg.jpg 
 linkedin        : carlosserrao
-twiter          : pontocom
+twitter          : pontocom
 facebook        : carlosserrao
 website         : http://ciencia.iscte-iul.pt/cjcs/en
 email           : carlos.serrao@owasp.org

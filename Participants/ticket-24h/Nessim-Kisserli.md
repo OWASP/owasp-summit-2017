@@ -7,7 +7,7 @@ company         : PwC
 travel-from     : Belgium
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :

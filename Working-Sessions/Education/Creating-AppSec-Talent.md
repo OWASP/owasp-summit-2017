@@ -12,6 +12,7 @@ when-time    : AM-1
 location     : Room-4
 participants : Tiffany Long
 organizers   :
+invited      : Lisa Raynaud
 ---
 
 ## Why

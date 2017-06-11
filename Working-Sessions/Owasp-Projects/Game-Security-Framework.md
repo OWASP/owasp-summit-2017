@@ -5,11 +5,13 @@ type         : workshop
 owasp-project: yes
 track        : Owasp Projects
 status       : need-more content
-when-day     : Fri
-when-time    : PM-2
-location     : Room-3
+when-day     : Tue
+when-time    : PM-3
+location     : Room-4
+locked       : true
 organizers   : Daniel Miessler,Azzeddine Ramrami
 participants :
+invited      : Sam Houston, Tony UV, Andrew van der Stock, Jason Haddix, Mark Stanislav, Robert Hurlbut, Talmer Elzayyat
 ---
 
 ...intro text...

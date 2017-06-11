@@ -7,7 +7,7 @@ job-title       : Head of Application Security
 travel-from     :
 image           :
 linkedin        : kefer
-twiter          : DKefer
+twitter          : DKefer
 facebook        :
 website         : https://securityrat.github.io/
 ticket          : 5x8h

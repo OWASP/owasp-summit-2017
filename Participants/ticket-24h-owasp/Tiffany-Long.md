@@ -14,7 +14,7 @@ company         : Owasp
 travel-from     : United States
 image           : https://pbs.twimg.com/profile_images/757596285113217024/whpdpXe6_400x400.jpg
 linkedin        : tmlong783
-twiter          : viewfromabook
+twitter          : viewfromabook
 facebook        :
 project-leader  :
 chapter-leader  :

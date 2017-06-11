@@ -4,9 +4,9 @@ title        : Securing GitHub Integrations
 type         : workshop
 track        : DevSecOps
 status       : need-more content
-when-day     : Thu
+when-day     : Wed
 when-time    : PM-2
-location     : Room-1
+location     : Villa-4
 organizers   : Danny Grander
 participants : Francois Raynaud
 ---

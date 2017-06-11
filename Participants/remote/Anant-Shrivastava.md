@@ -4,7 +4,7 @@ title           : Anant Shrivastava
 type            : participant-remote
 image           : https://anantshri.info/anant.jpg
 linkedin        : anantshri
-twiter          : anantshri
+twitter          : anantshri
 #facebook       : anantshri # 404
 website         : https://anantshri.info
 working-sessions: Mobile Security Testing Guide (MSTG),Mobile Application Security Verification Standard (MASVS),Data behind Owasp Top 10 2017,Owasp Top 10 2017

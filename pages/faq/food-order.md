@@ -28,8 +28,6 @@ The food main points will be located at the following villas:
 - salads
 - burgers
 - bean burgers
-- Kosher food
-- beer
 - white bread
 - brown bread
 - ketchup
@@ -40,4 +38,6 @@ The food main points will be located at the following villas:
 - orange juice
 - coffee
 - tea
-
+- sugar
+- toothpaste
+- toothbrush

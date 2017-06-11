@@ -7,7 +7,7 @@ company         : Nettitude Limited
 travel-from     : Leamington Spa
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :
