@@ -55,9 +55,6 @@ The target audience for this Working Session is:
 - draft learning objectives for BSC/MSc level Application Security curricula
 - draft strategy for the OWASP community to support AppSec curricula
 
-### Content
-
-... Add content ...
 
 
 
