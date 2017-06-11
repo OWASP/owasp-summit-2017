@@ -13,7 +13,7 @@ email           :
 project-leader  :
 chapter-leader  :
 status          : empty
-working-sessions: What Should be Added to the Top 10, A10 - Underprotected APIs, A7 - Insufficient Attack Protection, 
+working-sessions: What Should be Added to the Top 10, A10 - Underprotected APIs, A7 - Insufficient Attack Protection, Collaboratively write revised and new text, OWASP Top 10 Process Discussion, Validation of Weightings Discussion, feedback and conclusion, Peer Review of RC2, peer review of existing text, Owasp Top 10 2017 (Track)
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
