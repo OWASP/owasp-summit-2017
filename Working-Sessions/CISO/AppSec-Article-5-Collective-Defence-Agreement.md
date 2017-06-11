@@ -9,7 +9,7 @@ status       : final stage
 when-day     : Tue
 when-time    : AM-1
 location     : Room-1
-organizers   : Dinis Cruz,Ante Gulam
+organizers   : Dinis Cruz,Ante Gulam,Francois Raynaud
 participants :
 ---
 
