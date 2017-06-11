@@ -3,12 +3,12 @@ layout       : blocks/working-session
 title        : Securing GitHub Integrations
 type         : workshop
 track        : DevSecOps
-status       : need-more content
+status       : to be reviewed content
 when-day     : Wed
 when-time    : PM-2
 location     : Villa-4
 organizers   : Danny Grander
-participants : Francois Raynaud
+participants : Francois Raynaud;Dinis Cruz
 ---
 ## Why
 
@@ -50,7 +50,6 @@ Email exchange with GitHub on the topic of having multiple GitHub Accounts:
 >
 >It would be great if the GitHub Security team could work with organizations like OWASP and its community to find a way to improve the current situation (which doesn't scale and is bound to back-fire when one of those service providers is compromised, exposing thousands of customers' private repos).
 
---- 
 
 ## Working materials
 
