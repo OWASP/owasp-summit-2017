@@ -8,8 +8,9 @@ related-to   :
 status       : done 
 when-day     : Tue
 when-time    : PM-1
-location     : Room-2
-organizers   : Dave Wichers, 
+location     : Room-2
+room-layout  : u-shape
+organizers   : Dave Wichers, 
 participants : Sebastien Deleersnyder, Jonas Vanalderweireldt
 ---
 
