@@ -5,10 +5,11 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : need outcomes; need working materials; need content 
+status       : done
 when-day     : Mon
 when-time    : PM-2
 location     : Room-2
+room-layout  : u-layout
 organizers   : Dave Wichers
 participants : Tiffany Long
 ---
