@@ -4,10 +4,10 @@ title        : Implications of Owasp Top 10 2017
 type         : workshop
 owasp-project: yes
 track        : Owasp Top 10 2017
-status       : need outcomes; need working materials
-when-day     : Tue
-when-time    : PM-3
-location     : Room-2
+status       : out
+when-day     : 
+when-time    : 
+location     : 
 organizers   : Dave Wichers
 participants : Brian Glas,Felipe Zipitria,Mateo Martinez,Francois Raynaud,Stuart Gunter
 ---
