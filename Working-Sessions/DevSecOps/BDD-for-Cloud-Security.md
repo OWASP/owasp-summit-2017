@@ -24,6 +24,8 @@ Developers, and operations and security teams need to collaborate on building an
 - Write BDD specifications for those requirements (no implementation code, just specs)
 - Find existing tools/solutions that can be used as base implementations, e.g. Netflix's Security Monkey? NCC Group AWS auditor?
 - Link specs to standards (CSA, NIST, etc.)?
+- Understand whether the standard BDD story language of In order to/As a/I want and Given/When/Then maps appropriately to infrastructure and Cloud stories, and if not then define a model that fits better.
+- Understand BDD features from an auditor perspective - is a feature file just as good as an Office document?
 
 ## Outcomes
 
