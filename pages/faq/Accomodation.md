@@ -28,3 +28,7 @@ It does **not** include Sunday night.
 #### 4. Do I need to bring towels and bed linen?
 
 Towels and bed linen is provided at the accomodation. You may wish to bring towels for swimming etc as there are onsite swimming and spa facilities. There are sauna facilities and hot tubs within our villa community.
+
+#### 5. Will I have my own room?
+
+Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide with your house mates on the sleeping arrangements.
