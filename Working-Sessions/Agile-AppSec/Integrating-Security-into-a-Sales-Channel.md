@@ -29,7 +29,7 @@ The main purpose of this working session is to discuss and discover new ways of 
 
 ## Outcomes
 
-...Add content...
+- Playbook that defines staged industry best practices on how to integrate security into the general (usually B2B) programme management workflow
 
 ## Who
 
