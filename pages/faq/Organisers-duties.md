@@ -1,6 +1,6 @@
 ---
 layout   : blocks/page-content
-title    : Organisers Duties
+title    : Organiser's Duties
 ---
 
 #### 1. **What is the role of a Working Session organiser at the OWASP Summit, and what activities will I be responsible for?**
