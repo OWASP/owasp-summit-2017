@@ -7,13 +7,13 @@ company         : Capital One
 travel-from     :
 image           :
 linkedin        :
-twitter          :
+twitter         :
 facebook        :
 website         :
 email           :
 project-leader  :
 chapter-leader  :
-ticket          : 5x24h
+ticket          : 1x8h
 status          : empty
 regonline       : No
 working-sessions:

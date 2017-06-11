@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Chris-Lamont Smith
+title           : Simon Cole
 type            : participant
 job-title       :
 company         : Capital One
@@ -13,7 +13,7 @@ website         :
 email           :
 project-leader  :
 chapter-leader  :
-ticket          : 5x24h
+ticket          : 1x8h
 status          : empty
 regonline       : No
 working-sessions:
