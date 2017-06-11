@@ -7,7 +7,7 @@ technology   :
 related-to   :
 status       : done
 when-day     : Mon
-when-time    : AM1
+when-time    : AM-1
 location     : Room-2
 organizers   : Robert Grace, Andrew Van Der Stock
 participants : Dave Wichers, Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessler, Erez Yalon, Jason Li, Jonas vanalderweireldt, Kevin Greene, Nuno Loureiro, Sandor Lenart, Tiago Mendo, Tiffany Long, Torsten Gigler 
