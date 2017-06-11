@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : final stage 
+status       : done 
 when-day     : Tue
 when-time    : PM-1
 location     : Room-2
