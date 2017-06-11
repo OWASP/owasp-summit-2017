@@ -11,7 +11,7 @@ when-time    : PM-1
 location     : Room-4
 room-layout  : cabaret 
 organizers   : Anders Reeves
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Ante Gulam, Don Gibson, Robert Morschel
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel
 invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden
 ---
 
