@@ -9,7 +9,7 @@ status       : done
 when-day     : Mon,Thu
 when-time    : PM-1
 location     : Room-4
-Room-Layout  : Cabaret 
+room-layout  : cabaret 
 organizers   : Anders Reeves
 participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam, Stuart Gunter, Don Gibson, Robert Morschel
 invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden
