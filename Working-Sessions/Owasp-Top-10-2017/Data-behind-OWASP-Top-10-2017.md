@@ -4,11 +4,12 @@ title        : Data behind Owasp Top 10 2017
 type         : workshop
 description  : Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
 track        : Owasp Top 10 2017
-status       : final stage; need-working materials
+status       : done
 when-day     : Mon
 when-time    : PM-3
-location     : Room-2
-organizers   : Dave Wichers,Johanna Curiel,Claudia Casanovas
+location     : Room-2
+room-layout  : u-shape
+organizers   : Dave Wichers,Johanna Curiel,Claudia Casanovas
 participants : Brian Glas,Francois Raynaud,Jonas Vanalderweireldt
 ---
 
