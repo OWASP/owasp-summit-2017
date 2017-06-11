@@ -10,7 +10,7 @@ when-time    : PM-1
 location     : Room-1
 room-layout  : unknown
 organizers   : Don Gibson
-participants : Francois Raynaud,Dinis Cruz,Marc Rimbau, Irene Michlin, Robert Morschel, Timo Pagel, Ingo Hanke
+participants : Francois Raynaud,Dinis Cruz,Marc Rimbau, Irene Michlin, Robert Morschel, Timo Pagel, Ingo Hanke, Mateo Martinez
 ---
 
 Closing the circle
@@ -27,7 +27,8 @@ This Working Session will allow members to understand the full data and threat l
 
 ## Outcomes
 
-This Working Session will publish ideas and tips to help companies understand and manage threats and vulnerabilities.
+- This Working Session will publish ideas and tips to help companies understand and manage threats and vulnerabilities.
+- a Cheatsheet about Threat and Vulnerability Management
 
 ## Who
 
@@ -45,4 +46,4 @@ Draft ideas and tips to help companies understand and manage threats and vulnera
 
 ### Content
 
-...add content...
+Discuss about Threat, Vulnerability and Patch Management Process and create a deliverable.
