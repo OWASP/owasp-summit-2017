@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Owasp Orizon Reboot
 type         : workshop
 technology   : Java
-status       : need-more content
+status       : draft
 track        : Owasp Projects
 owasp-project: yes
 when-day     : Wed
