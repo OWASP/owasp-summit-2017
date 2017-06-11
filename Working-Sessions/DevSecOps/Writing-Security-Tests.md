@@ -11,7 +11,7 @@ when-day     : Wed
 when-time    : PM-2
 location     : Room-1
 organizers   : Dinis Cruz
-participants : Robert Morschel,Avi Douglen,Timo Pagel,Johan Peeters
+participants : Robert Morschel,Timo Pagel,Johan Peeters
 invited      : Nanne Baars
 ---
 
