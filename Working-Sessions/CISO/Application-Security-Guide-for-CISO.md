@@ -11,7 +11,7 @@ when-day     : Wed
 when-time    : PM-2
 location     : Room-4
 organizers   : Marco Morana
-participants : Don Gibson, Ingo Hanke, Avi Douglen, Yan Kravchenko, Ante Gulam
+participants : Don Gibson, Ingo Hanke, Yan Kravchenko, Ante Gulam
 ---
 
 [https://www.owasp.org/index.php/Application_Security_Guide_For_CISOs](http://owaspsummit.org/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html)
