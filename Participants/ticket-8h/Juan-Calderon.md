@@ -21,4 +21,4 @@ working-sessions: SAMM - Kick Off,SAMM - V2 Ground Rules,SAMM - Conducting Asses
 ---
 
 <!-- put more details about participant here -->
-Juan Carlos Calderon considers himself a Software Security Experts with 19 years of experience in software development and 18 years in Application Security. He was once an OWASP leader for internationalization and Spanish projects, coordinated Spanish versions of top documents at OWASP at that time. Currently is very interested in promoting software security, IT and education to kids and general public, and the development of scalable security for the rest of us.
+Juan Carlos Calderon considers himself a Software Security Expert with 19 years of experience in software development and 18 years in Application Security. He was once an OWASP leader for internationalization and Spanish projects, coordinated Spanish versions of top documents at OWASP at that time. Currently is very interested in promoting software security, IT and education to kids and general public, and the development of scalable security for the rest of us.
