@@ -9,7 +9,6 @@ when-day     : Wed
 when-time    : PM-3
 location     : Room-1
 organizers   : Dinis Cruz
-participants : Timo Pagel
 ---
 
 This JIRA Risk Workflow can be used to manage the Risk process and ensure that business owners understand the side effects of the decisions they make.
