@@ -55,4 +55,17 @@ Here are the current 'work in progress' materials for this session
 
 ### Content
 
-...add content...
+#### 1. Introduction and purpose
+
+
+#### 2. Executive summary
+
+
+#### 3. Playbook (template table)
+
+
+#### 4. Global glossary
+
+
+#### 5. Conclusion
+
