@@ -24,11 +24,13 @@ Currently, the GitHub security model does not allow the granularity required to 
 
 ## What
 
-... Add content 
+While we are using github as the platform for OWASP projects source code, we need to talk about the security of the code in order to provide integrity checks and other security controls needed.
 
 ## Outcomes
 
-...Add content...
+- OWASP Github security Policy
+- OWASP Github Security Cheatsheet
+- OWASP Github Security risks list
 
 ## Who
 
@@ -56,4 +58,7 @@ Here are the current 'work in progress' materials for this session (please add a
 
 ### Content
 
-...add content...
+- Github Risk
+- Github Integrations
+- Github Controls
+- Cheatsheets
