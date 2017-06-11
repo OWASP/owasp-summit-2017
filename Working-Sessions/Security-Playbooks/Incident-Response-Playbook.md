@@ -9,7 +9,7 @@ status       : need-more content
 when-day     : Wed
 when-time    : PM-1
 location     : Room-5
-organizers   :
+organizers   : Francois Raynaud
 participants : Mamta Vuppu
 ---
 
