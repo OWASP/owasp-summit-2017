@@ -3,7 +3,7 @@ layout       : blocks/working-session
 title        : Security Guild vs Security Champions
 type         : workshop
 owasp-project: no
-track        : Agile AppSec
+track        : DevSecOps
 technology   :
 related-to   : Integrating Security into an Spotify Model,Security Champions,CISO
 status       : final stage; need-working materials
