@@ -25,6 +25,7 @@
       <th>when-day</th>
       <th>when-time</th>
       <th>location</th>
+      <th>room-layout</th>
       <th>status</th>
       <th></th>
     </thead>{% assign sessions = site.data.mapped.working-sessions %}
@@ -40,6 +41,7 @@
       <td class="text-center {{ session[1].metadata.when-day  }}">{{ session[1].metadata.when-day }}</td>
       <td class="text-center {{ session[1].metadata.when-time }}">{{ session[1].metadata.when-time }}</td>
       <td class="text-center {{ session[1].metadata.location  }}">{{ session[1].metadata.location }}</td>
+      <td class="text-center {{ session[1].metadata.root-layout  }}">{{ session[1].metadata.room-layout }}</td>
       <td class="text-center">
         {% case session[1].metadata.status %}
         {% when 'draft' %}
