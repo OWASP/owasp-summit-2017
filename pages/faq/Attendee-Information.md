@@ -3,7 +3,7 @@ layout   : blocks/page-content
 title    : Attendee Information
 ---
 
-### Expectations for Attendees:
+### Expectations for Attendees
  
 The OWASP Summit is the most energizing InfoSec event in the world. Each of the 140+ working sessions will create a published deliverable for the greater InfoSec Community to engage with.  This high level of productivity does require certain commitments from the attendees.  As an OWASP Summit Attendee we have these expectations of you. 
  
@@ -61,12 +61,12 @@ Here is the Villa set up:
  
 The key to the Summit dynamic is having villas where you can interact with other participants on your own schedule around the clock.  To this end the venue is organized into a series of villas that are supplemented by the conference center (conveniently named The Venue).  The villas will serve the dual purpose of accommodations as well as locations for the more informal evening sessions. Some venues will also serve as locations for standard working sessions (these will be marked on the schedule)
  
-### Accommodations:
+### Accommodations
  
 When you arrive at Woburn Center Parcs proceed to the conference center (conveniently called The Venue) you will recive your house key and accommodation information package when you register for the conference.  Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide with your housemates on the sleeping arrangements.  If their are any difficulties please email the organizers at OWASPSummit@gmail.org.
  
  
-## Schedule
+# Schedule
  
  
 ### Session timings
@@ -88,9 +88,13 @@ We highly recommend to appoint a timekeeper at the beginning of the meeting to w
 ### Outcomes
  
 The point of the summit is to create concrete deliverables from each working session.  These deliverables can take many forms including:  
-Diagrams
-Flowchart
-Policies
+- Diagrams
+- Flowchart
+- Policies
+- Positions
+- Statements
+- Surveys
+- Documents
 ...
  
 ### Vendor Neutrality
@@ -103,10 +107,3 @@ Dynamic Sessions are scheduled but do not have a leader, or have deliverables ex
 ### Evening Sessions
 Evening sessions take place at villas, later in the evening.  There are scheduled topics, but topic will more than likely evolve organically.  
  
-### General Housekeeping 
- 
-Cleaners will come to your villa each morning to clean, see to dirty dishes, and take out the rubbish.  As there are no locks on bedroom doors, we advise you not to leave valuables lying around.  
- 
-On the day you leave, please strip your bed of sheets and pillowcases.  Leave the dirty linen on the floor.  
- 
-You need to have everything out of your room/villa by 10:00 a.m. on the day you leave; you can leave luggage at the registration desk in the Venue.  
