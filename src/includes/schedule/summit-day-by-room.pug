@@ -8,6 +8,7 @@ mixin show-session-at-time
         span.glyphicon.glyphicon-lock
         | {% endif             %}
     .track-info {{ session.track }}
+    .track-info Room layout: {{ session.layout }}
     | {% endfor                                     %}
 
 mixin show-room
