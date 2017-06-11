@@ -8,7 +8,7 @@ status       : need-more content
 when-day     : Wed
 when-time    : PM-3
 location     : Room-3
-organizers   : Simon Bennetts
+organizers   : Simon Bennetts, Mateo Martinez
 participants : Mateo Martinez, Ade Yoseman Putra
 ---
 
