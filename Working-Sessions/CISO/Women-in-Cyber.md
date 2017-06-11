@@ -10,8 +10,9 @@ status       : missing Outcomes, working materials
 when-day     : Fri
 when-time    : AM-1
 location     : Room-2
-organizers   :
+organizers   : Tiffany Long
 participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari, Tiffany Long
+room-layout  : square
 ---
 
 
@@ -33,7 +34,7 @@ I believe that women and others from a broad range of backgrounds can help to re
 
 ## Outcomes
 
-...Add text...
+List of Suggested priorities, policies, programs, and activities for the OWASP Board and community to consider and impliment.
 
 ## Who
 

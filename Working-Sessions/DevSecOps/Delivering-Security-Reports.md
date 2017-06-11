@@ -1,9 +1,9 @@
 ---
 layout       : blocks/working-session
-title        : title-goes-here
+title        : Delivering Security Reports
 type         : workshop
 owasp-project: no
-track        :
+track        : DevSecOps
 technology   :
 related-to   :
 status       : draft
