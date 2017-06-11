@@ -8,8 +8,9 @@ related-to   :
 status       : final stage; need-working materials
 when-day     : Fri
 when-time    : PM-1
-location     : Room-5
-organizers   :
+location     : Room-5
+room-layout  : cabaret
+organizers   :
 participants :
 ---
 
