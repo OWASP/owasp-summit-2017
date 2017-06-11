@@ -3,11 +3,12 @@ layout       : blocks/working-session
 title        : OWASP Risk Rating Management Project
 type         : workshop
 track        : Owasp Projects
-status       : Final stage
+status       : done
 when-day     : Fri
 when-time    : AM-1
-location     : Room-2
-organizers   : Phil Parker
+location     : Room-2
+room-layout  : cabaret
+organizers   : Phil Parker
 participants : Petty Meisari, Ade Yoseman Putra, Mohammad Febri Ramadlan
 ---
 
