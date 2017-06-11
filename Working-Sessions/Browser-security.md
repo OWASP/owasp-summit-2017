@@ -3,7 +3,7 @@ layout      : blocks/working-session
 title       : Browser Security
 type        : workshop
 technology  : Browsers
-status      : final stage; need-working materials
+status      : draft
 organizers  :
 participants:
 ---
