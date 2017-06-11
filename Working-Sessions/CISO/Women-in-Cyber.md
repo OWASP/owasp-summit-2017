@@ -11,7 +11,7 @@ when-day     : Fri
 when-time    : AM-1
 location     : Room-2
 organizers   :
-participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari, Tiffany Long
+participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari, Tiffany Long, Mamta Vuppu
 ---
 
 
