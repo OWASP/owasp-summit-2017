@@ -30,7 +30,7 @@ This session will also be a great place to hold thoughtful conversations about d
  
 ## Outcomes 
 
-... Add content ...
+Testimonials of the session
 
 ## Who
 
