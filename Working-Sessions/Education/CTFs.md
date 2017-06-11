@@ -10,12 +10,10 @@ status         : need more content
 when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-1
-organizers     :
-participants   : Tiffany Long, Jonas Vanalderweireldt
+organizers     : Steven Van Der Baan
+participants   : Tiffany Long, Jonas Vanalderweireldt, Danny Grander
 ---
 
-> :triangular_flag_on_post: TODO: Add fancy sales pitch for
-> Capture-the-flag (CTF)
 
 ## Why
 
