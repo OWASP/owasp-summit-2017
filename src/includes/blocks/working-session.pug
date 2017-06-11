@@ -5,8 +5,14 @@ include ../mixins/working-session.jade
 
 mixin show-track
     | {% if page.track != null %}
+    | {% assign tracks = page.track | split: ',' %}
     b Track: &#32;
-    a(href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}") {{ page.track }}
+    | {% for track in tracks %}
+    a(href="/Working-Sessions/{{ track | replace: ' ' , '-' }}") {{ track }}
+    |   {% if forloop.last != true %}
+    span ,
+    |   {% endif %}
+    | {% endfor %}
     | {% endif %}
     br
 
