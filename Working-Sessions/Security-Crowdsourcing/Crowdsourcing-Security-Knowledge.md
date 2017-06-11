@@ -6,11 +6,12 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : need working materials
+status       : done
 when-day     : Tue
 when-time    : PM-3
-location     : Room-5
-organizers   : Ante Gulam
+location     : Room-5
+room-layout  : square
+organizers   : Ante Gulam
 participants : Dinis Cruz, Francois Raynaud
 ---
 
