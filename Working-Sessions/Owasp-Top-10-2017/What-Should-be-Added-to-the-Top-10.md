@@ -9,7 +9,7 @@ status       : need working material; need content
 when-day     : Tue
 when-time    : PM-2
 location     : Room-2
-organizers   :
+organizers   : Andrew Ven Der Stock
 participants : Katy Anton, Jonas Vanalderweireldt
 ---
 
