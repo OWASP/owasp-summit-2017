@@ -10,7 +10,7 @@ status       : Merge with "Creating App sec teams"
 when-day     : Tue
 when-time    : AM-1
 location     : Room-4
-participants : Tiffany Long
+participants : Tiffany Long, Mateo Martinez
 organizers   :
 invited      : Lisa Raynaud
 ---
