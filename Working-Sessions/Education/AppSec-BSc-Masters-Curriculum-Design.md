@@ -2,11 +2,12 @@
 layout       : blocks/working-session
 title        : Application Security BSc/Masters Curriculum Design
 type         : workshop
-status       : final stage; missing working materials
+status       : done
 track        : Education
 when-day     : Wed
 when-time    : AM-1
 location     : Room-2
+room-layout  : caberet
 description  : Part of OWASP's main purpose is to "Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software" and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next generation as well especially with the acknowledged skill shortage in the whole sector that exists.
 organizers   : Adrian Winckles,Felipe Zipitria
 participants : Timo Pagel,Tiffany Long, Don Gibson
