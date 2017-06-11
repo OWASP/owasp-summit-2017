@@ -50,7 +50,7 @@ The Working Session will explore these issues to prepare for the various Playboo
 The target audience for this Working Session is:
 
  - 'Security Playbooks' Track organisers and participants
-  - Security teams
+ -  Security teams
 
 --- 
 
