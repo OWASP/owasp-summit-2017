@@ -28,6 +28,7 @@ pre-summit:
       - Jemma B
   'Hotel':
     name: Late Arrivals (Sun)
+    users:
       - Nuno Loureiro
       - Tiago Mendo
       - Amani Altarawneh
