@@ -10,8 +10,8 @@ status       : need working materials
 when-day     : Tue
 when-time    : PM-3
 location     : Room-5
-organizers   :
-participants :
+organizers   : Ante Gulam
+participants : Dinis Cruz, Francois Raynaud
 ---
 
 Given the current skills shortage in all fields of security, it is essential that we maximise resources and opportunities for
