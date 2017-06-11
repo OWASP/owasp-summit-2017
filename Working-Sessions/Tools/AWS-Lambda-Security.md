@@ -5,7 +5,7 @@ type        : workshop
 track       : DevSecOps
 status      : to be reviewed content
 when-day    :
-organizers  :Erez Yalon
+organizers  : Erez Yalon
 participants: Dinis Cruz
 ---
 
