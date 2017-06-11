@@ -8,8 +8,9 @@ related-to   : Juice Shop
 when-day     : Tue
 when-time    : AM-1
 location     : Room-6
-status       : Improve outcomes; need-working materials
-organizers   : Adam Shostack,Bjoern Kimminich
+status       : done
+organizers   : Adam Shostack,Bjoern Kimminich
+room-layout  : cabaret
 participants : Steven Wierckx, Robert Hurlbut, Timo Pagel
 invited      :
 ---
