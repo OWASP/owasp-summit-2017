@@ -6,11 +6,12 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   :
-status       : need more content
+status       : done
 when-day     : Tue
 when-time    : Eve
-location     : Villa-2
-organizers   :
+location     : Villa-2
+room-layout  : unknown
+organizers   :
 participants : Dinis Cruz,Francois Raynaud
 ---
 
