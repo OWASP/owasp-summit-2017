@@ -4,11 +4,12 @@ title        : SAMM - OWASP Project alignment
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes;need-working materials
+status       : done
 when-day     : Tue
 when-time    : PM-2
-location     : Villa-1
-organizers   : Brian Glas
+location     : Villa-1
+room-layout  : unknown
+organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
 ---
 
