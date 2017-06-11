@@ -6,10 +6,11 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : need-more content
+status       : done
 when-day     : Mon
 when-time    : PM-3
 location     : Villa-4
+room-layout  : unknown
 organizers   :
 participants : Steven Wierckx, Stephen de Vries
 ---
