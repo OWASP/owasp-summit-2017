@@ -6,7 +6,7 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   :
-status       : needs more content
+status       : draft
 when-day     : Wed
 when-time    : PM-1
 location     : Room-4
