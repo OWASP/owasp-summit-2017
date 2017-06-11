@@ -2,21 +2,21 @@
 layout          : blocks/page-participant
 title           : Juan Calderon
 type            : participant
-job-title       : CEO
+job-title       : App Sec Sr Engineer
 company         : Borealix
 travel-from     : Mexico
 image           : https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/7/000/1cf/3dc/0f72c04.jpg
 linkedin        : juancarloscalderon
 twitter          : johnccr
 facebook        : juan.c.calderon.r
-website         : www.borealixsec.com
+website         : http://www.borealixsec.com/
 email           : juan.calderon@owasp.org
 project-leader  :
 chapter-leader  :
 funded-who      :
 ticket          : 5x8h
 status          : done
-working-sessions: AppSec Review and Pentest Playbook, Crowdsourcing Security Knowledge, NextGen Security Scanners,Owasp Latam Region,SAMM Metrics for Enterprises,Securing Legacy Applications,WAF Best Practices,ZAP,Browser Security
+working-sessions: SAMM - Kick Off,SAMM - V2 Ground Rules,SAMM - Conducting Assessments,Dependency Check,Threat Modeling Diagramming Techniques,Creating AppSec Talent (next 100k professionals),A7 - Insufficient Attack Protection,SAMM - OWASP Project alignment,SAMM - Stories and Templates,Crowdsourcing Security Knowledge,Visit Bletchley Park,AppSec Review and Pentest Playbook,Webgoat,Writing Security Tests,ZAP,Hackathon - Beyond OWASP Top Ten,,Teaching Attacker perspective to Developers,Owasp Latam Region,Closing party,Machine Learning and Security,SAMM - Maturity Models tool,Role of Security Certification,Due Diligence Playbook,Sign Ceremony for Owasp Top 10 2017,owasp-Website,Recommending ESAPI in Top 10,WAF Best Practices,Webgoat,Visit Bletchley Park
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
