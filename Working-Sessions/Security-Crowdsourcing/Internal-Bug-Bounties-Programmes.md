@@ -10,7 +10,7 @@ status       : need working materials
 when-day     : Thu
 when-time    : AM-1
 location     : Room-5
-organizers   :
+organizers   : Danny Grander, Ante Gulam
 participants :
 ---
 
