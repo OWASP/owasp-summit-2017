@@ -10,7 +10,7 @@ status       : definition-of-done
 when-day     : Thu
 when-time    : PM-3
 location     : Room-5
-organizers   :
+organizers   : Ante Gulam
 participants :
 ---
 
@@ -50,7 +50,5 @@ The target audience for this Working Session is:
 - Draft playbook on cross-company hackathons
 - Please add as much information as possible before the sessions
 
-### Content
 
-... Add content ...
 
