@@ -1,13 +1,14 @@
 ---
 layout       : blocks/working-session
-title        : Threat and Vulnerability Management
+title        : Threat and Vulnerability Management Playbook
 type         : workshop
 owasp-project: no
 track        : DevSecOps
-status       : Final stage; missing Working Materials
+status       : done
 when-day     : Wed
 when-time    : PM-1
 location     : Room-1
+room-layout  : unknown
 organizers   : Don Gibson
 participants : Francois Raynaud,Dinis Cruz,Marc Rimbau, Irene Michlin, Robert Morschel, Timo Pagel, Ingo Hanke
 ---
