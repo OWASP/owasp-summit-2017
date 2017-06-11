@@ -10,7 +10,7 @@ status       : add content
 when-day     : Tue
 when-time    : AM-1
 location     : Room-2
-organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
+organizers   : Dave Wichers
 participants : Johan Peeters
 ---
 
