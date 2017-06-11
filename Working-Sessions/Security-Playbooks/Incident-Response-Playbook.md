@@ -10,7 +10,7 @@ when-day     : Wed
 when-time    : PM-1
 location     : Room-5
 organizers   : Francois Raynaud
-participants : Mamta Vuppu
+participants : Mamta Vuppu;Mateo Martínez
 ---
 
 ## Why
