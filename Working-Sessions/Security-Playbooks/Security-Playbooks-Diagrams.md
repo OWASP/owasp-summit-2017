@@ -36,7 +36,7 @@ Threat Connect also looks interesting:
 
  - Create and publish multiple Security Playbooks Diagrams
  
-## Outcome
+## Outcomes
 
 - Diagrams of Security Playbooks published
 
@@ -62,6 +62,3 @@ Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
-### Content
-
-...add content...
