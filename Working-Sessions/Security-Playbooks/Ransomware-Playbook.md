@@ -53,7 +53,5 @@ The target audience for this Working Session is:
 
 (please add as much information as possible before the sessions)
 
-### Content
 
-...add content...
 
