@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : PM-1
 location     : Room-5
 organizers   :
-participants : 
+participants : Jonas Vanalderweireldt
 ---
 
 ## Why
