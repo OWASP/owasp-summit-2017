@@ -9,8 +9,8 @@ status       : need-working materials
 when-day     : Fri
 when-time    : PM-3
 location     : Room-5
-organizers   :
-participants :
+organizers   : Anders Reeves
+participants : 
 ---
 
 ## Why
