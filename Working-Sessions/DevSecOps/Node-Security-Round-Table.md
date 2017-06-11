@@ -7,7 +7,7 @@ track        : DevSecOps
 technology   :
 related-to   :
 status       : missing-outcomes; missing-working materials
-organizers   :
+organizers   : Danny Grander
 participants :
 ---
 
