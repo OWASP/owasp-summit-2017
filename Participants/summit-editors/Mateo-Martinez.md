@@ -19,6 +19,6 @@ linkedin        : mateomartinez
 twitter         : MateoMartinezOK
 status          : done
 ticket          : 5x24h
-working-sessions:
+working-sessions:Incident Response Playbook;AppSec SOC Monitoring Visualisation;Owasp Latam Region;Owasp Student Chapters;What Should be Added to the Top 10;Threat and Vulnerability Management;Machine Learning and Security
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
