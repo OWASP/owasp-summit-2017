@@ -6,7 +6,7 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
-status       : need-working materials
+status       : Merge with "Creating App sec teams"
 when-day     : Tue
 when-time    : AM-1
 location     : Room-4
