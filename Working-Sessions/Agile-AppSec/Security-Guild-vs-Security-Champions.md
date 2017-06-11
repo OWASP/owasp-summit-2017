@@ -42,7 +42,7 @@ The target audience for this Working Session is:
  
  --- 
 
-# Working materials
+## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 
