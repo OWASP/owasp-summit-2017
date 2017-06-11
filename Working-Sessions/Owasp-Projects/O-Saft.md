@@ -52,8 +52,14 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-There is a [docs](https://github.com/OWASP/O-Saft/tree/master/docs) directory with [documentation for developers](https://github.com/OWASP/O-Saft/) at github. It also contains Summit2017-todo.txt which contains all th topics to be discused and worked on during the session.
+There is a [docs](https://github.com/OWASP/O-Saft/tree/master/docs) directory with [documentation for developers](https://github.com/OWASP/O-Saft/) at github.
+
+Draft for all the topics to be discused and worked on during the session in [google docs](https://docs.google.com/a/owasp.org/document/d/1He_hXRegxOYSqzgIT1jc50sTxATe6Tv4CoghnpI6R_4/edit?usp=sharing).
 
 ### Content
 
 See "Working materials" above.
+
+---
+
+Create a [slack team](https://o-saft.slack.com/), feel free to join the O-Saft team.
