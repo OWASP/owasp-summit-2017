@@ -11,7 +11,7 @@ organizers   : Dinis Cruz
 when-day     : Tue
 when-time    : PM-2
 location     : Room-4
-participants : Robert Morschel,Ade Yoseman Putra,Stuart Gunter, Tiffany Long, Don Gibson
+participants : Robert Morschel,Ade Yoseman Putra,Stuart Gunter, Tiffany Long, Don Gibson, Steven van der Baan
 ---
 
 ## Why
