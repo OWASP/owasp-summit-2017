@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       : PhD Student
 company         : Dundalk Institute of Technology
 image           : 
-linkedin        : https://www.linkedin.com/in/cearatreacy/
+linkedin        : cearatreacy
 twitter         : 
 facebook        : 
 website         :
