@@ -6,7 +6,7 @@ owasp-project  : no
 track          : Education
 technology     : Docker, AngularJS, Python
 related-to     : Teaching Attacker perspective to Developers, Juice Shop, CTFs, Hackathon Daily Sessions
-status         : draft
+status         : done
 when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-3
