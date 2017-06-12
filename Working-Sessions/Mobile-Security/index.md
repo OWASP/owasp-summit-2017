@@ -6,7 +6,7 @@ technology  : Mobile
 status      : featured
 description : Working Sessions related to Mobile Security
 organizers  : Bernhard Mueller,Sven Schleier
-participants: Denis Pilipchuk , Naushad , Bolot Kerimbaev , Jeroen Willemsen , Marc Rimbau , Kuai Hinojosa
+participants: Denis Pilipchuk , Naushad , Bolot Kerimbaev , Jeroen Willemsen , Marc Rimbau , Kuai Hinojosa, Ade Yoseman Putra, Carlos Holguera
 ---
 
 ## Summary
@@ -22,6 +22,12 @@ This track consists of a series of book sprints, each of which focuses on produc
 ## How to Join
 
 Join up for the working session(s) you like by following the link(s) on top of this page, then hitting the "Edit this page here" link at the bottom, and adding yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions. Don't worry though if your favorite topic is on the "wrong" day - you can always simply stop by our session and we'll brief you on your topic of choice. After all, this is the Woodstock of appsec!
+
+More things to do once you have signed up:
+
+- Make yourself familiar with the [existing content](https://github.com/OWASP/owasp-mstg). Or even better, start contributing right away :)
+- Ping us on the [OWASP MSTG Slack channel](https://owasp.slack.com/messages/project-mobile_omtg/details/) (sushi2k or bernhardm).
+- If you have rooted Android / jailbroken iOS devices, please bring them along to the session.
 
 ## About the OWASP Mobile Security Testing Project
 

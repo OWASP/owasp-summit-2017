@@ -6,10 +6,12 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   : Cyber Insurance,Education
-status       : review-content
-when-day     : Mon
+status       : needs more content
+when-day     : Wed
+when-time    : PM-2
+location     : Room-4
 organizers   : Yan Kravchenko
-participants :
+participants : Tiffany Long
 ---
 
 ## Why
@@ -28,9 +30,23 @@ This Working Session will consider the size and potential of the AppSec market, 
  - Is the market size a reflection that currently the number of 'damaging' attacks is still (relatively) small and that companies can safely afford not to invest in AppSec?
  - What is the role of Open Source tools in the AppSec market?
  - Are patents and 'technology lock' good or bad for the industry?
+ 
+## Outcomes
+
+...add content...
 
 ## Who
 
  - OWASP Community
  - AppSec professionals
  - [Jeremiah Grossman](https://twitter.com/jeremiahg)
+ 
+---
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

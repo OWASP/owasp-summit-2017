@@ -2,12 +2,15 @@
 layout       : blocks/working-session
 title        : Application Security BSc/Masters Curriculum Design
 type         : workshop
-status       : featured
+status       : done
 track        : Education
 when-day     : Wed
+when-time    : AM-1
+location     : Room-2
+room-layout  : caberet
 description  : Part of OWASP's main purpose is to "Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software" and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next generation as well especially with the acknowledged skill shortage in the whole sector that exists.
 organizers   : Adrian Winckles,Felipe Zipitria
-participants : Timo Pagel,Bjoern Kimminich
+participants : Timo Pagel,Tiffany Long, Don Gibson
 
 ---
 ## Why
@@ -24,18 +27,36 @@ There is an opportunity for OWASP to pull together its wide-ranging expertise, p
 
 - What aspects of Application Security knowledge and skills does industry need?
 - What problems relating to application security does the next generation of graduate software developers, computer scientists and security analysts need to solve?
-- Establish a core set of learning objectives for BSC/MSc level Application Security curricula.
-- Establish which OWASP Projects are useful to help shape and support curricula in Application Security.
+- Establish a core set of learning objectives for BSC/MSc level Application Security curricula
+- Establish which OWASP Projects are useful to help shape and support curricula in Application Security
 - Determine a mechanism by which regional/local deliveries of the curriculum could be supported by the OWASP community (for example, OWASP supporters on validation panels, critical friend on module design, guest lectures and training academics)
+
+## Outcomes
+
+This Working Session will deliver the following documents:
+
+- a core set of learning objectives for BSC/MSc level Application Security curricula
+- a strategy for the OWASP community to support AppSec curricula
+
 
 ## Who
 
 The target audience for this Working Session is:
 
 - OWASP project leaders whose projects have an educational element (probably all OWASP Project leaders)
-- Application Security Trainers  
+- Application Security trainers  
 - Academics involved in AppSec and InfoSec 
 - Any employer involved in recruiting graduates into application security related roles
-- Other organisations/professional bodies with a vested interest in application security educational programmes
+- Other organisations/professional bodies interested in Application Security educational programmes
+
+---
+
+## Working materials
+
+- draft learning objectives for BSC/MSc level Application Security curricula
+- draft strategy for the OWASP community to support AppSec curricula
+
+
+
 
 

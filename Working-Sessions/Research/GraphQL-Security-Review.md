@@ -6,29 +6,38 @@ owasp-project: no
 track        : Research
 technology   :
 related-to   : Threat Model
-status       : review-content
-when-day     : Fri
+status       : draft
+when-day     : Wed
+when-time    : Eve
+location     : Villa-3
 organizers   :
 participants : PhotoBox
+invited      : Anders Reeves
 ---
 
-> GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+> GraphQL is a query language for APIs and a runtime for fulfilling those queries with existing data. GraphQL provides a complete and understandable description of the data in an API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
 (from http://graphql.org/)
 
 ## Why
 
-Use the community attending the Summit to perform a security review to GraphQL (Threat Modeling, Code Review, Static Analysis, Pentest)
+This Working Session aims to use the community attending the Summit to perform a security review to GraphQL (Threat Modeling, Code Review, Static Analysis, Pentest).
 
 ## What
 
  - Perform Security review to GraphQL
- - Improve existing Security Documentation and guidance
+ - Improve existing Security documentation and guidance
+ 
+## Outcomes
+
+- Revised security documentation and guidance
 
 ## Who
 
+The target audience for this Working Session is:
+
  - GraphQL developers
- - Security Researchers
+ - Security researchers
  - Companies using GraphQL
 
 ## References
@@ -47,3 +56,14 @@ Use the community attending the Summit to perform a security review to GraphQL (
  - https://twitter.com/search?q=%23GraphQL
  - https://twitter.com/GraphQL
  - https://medium.com/the-graphqlhub/graphql-and-authentication-b73aed34bbeb
+
+--- 
+
+## Working materials
+
+- Draft revisions to security documentation and guidance
+- Please add as much information as possible before the sessions
+
+### Content
+
+... Add content ...

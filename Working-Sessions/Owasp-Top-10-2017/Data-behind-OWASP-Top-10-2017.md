@@ -4,19 +4,22 @@ title        : Data behind Owasp Top 10 2017
 type         : workshop
 description  : Due to its wide use, acceptance and need for trusted results, it is key that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
 track        : Owasp Top 10 2017
-status       : featured
-when-day     : Mon
-organizers   : Dave Wichers,Johanna Curiel,Claudia Casanovas
-participants : Brian Glas,Ingo Hanke,Francois Raynaud
+status       : out
+when-day     : 
+when-time    : 
+location     : 
+room-layout  : u-shape
+organizers   : Dave Wichers,Johanna Curiel,Claudia Casanovas
+participants : Brian Glas,Francois Raynaud,Jonas Vanalderweireldt, Akanksha Bana
 ---
 
-Due to its wide use, acceptance, and need for trusted results, it is essential that the data supporting the OWASP Top 10 2017 is understood and accepted by the community.
+Due to its wide use, acceptance, and need for trusted results, it is essential that data supporting the OWASP Top 10 2017 is understood and accepted by the community.
 
 ## Why
 
-The OWASP Top 10 2017 did a 'request for data' which might not have reached as wide an audience as it should have reached.
+The OWASP Top 10 2017 made a 'request for data' which might not have reached as wide an audience as it should have reached.
 
-The Summit, and this Working Session, provide a perfect opportunity to allow the current data set to be understood and for new data sets/analysis to be submitted/analysed (these will validate the current Top 10 items, or provide evident for changes).
+The Summit, and this Working Session, provide a perfect opportunity to allow the current data set to be understood and for new data sets/analysis to be submitted/analysed. The new data will validate the current Top 10 items, or provide evidence for changes.
 
 ## What
 
@@ -25,13 +28,16 @@ The Summit, and this Working Session, provide a perfect opportunity to allow the
  - Review data provided and compare with existing Top 10 items
  - (If relevant) create evidence for changes
 
-## Outcome
+## Outcomes 
 
  - Majority of participants to agree on the data set supporting the final Top 10 2017 mappings
  
 ## Who
 
 The target audience for this Working Session is:
+
+- OWASP Top 10 2017 Track participants
+- OWASP community
 
 ## References
 
@@ -49,3 +55,14 @@ The target audience for this Working Session is:
  - [OWASP Top 10 A7 Controversy](https://twitter.com/i/moments/856939400772673543) (twitter moment)
  - [Musings on the OWASP Top 10 2017 RC1](https://nvisium.com/blog/2017/04/18/musings-on-the-owasp-top-10-2017-rc1)
  - [Which of the OWASP Top 10 Caused the World’s Biggest Data Breaches?](https://snyk.io/blog/owasp-top-10-breaches)
+
+--- 
+
+## Working materials
+
+Draft data set supporting the final Top 10 2017 mappings. 
+(please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...

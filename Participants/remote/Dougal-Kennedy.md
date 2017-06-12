@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       : Security Consultant
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAj9AAAAJDA3OTA5M2Q1LTQzNzUtNGIyMi1iMDcxLTg2YTE0MDYxZGMwNQ.jpg
 linkedin        : dougal-kennedy-aab15725
-twiter          :
+twitter          :
 facebook        :
 funded-who      : self
 status          : empty

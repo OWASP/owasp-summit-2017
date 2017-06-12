@@ -5,7 +5,7 @@ type            : participant-remote
 job-title       :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           : sandeep.singh@owasp.org
@@ -13,3 +13,4 @@ project-leader  :
 chapter-leader  :
 status          : empty
 working-sessions:
+---

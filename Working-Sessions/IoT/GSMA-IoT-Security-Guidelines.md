@@ -6,29 +6,48 @@ owasp-project : no
 track         :
 technology    : IoT
 related-to    :
-status        : draft
+status        : done
 organizers    :
 participants  :
 ---
 
-> The goal of the Internet of Things Security Guidelines document set is to provide the implementer of an IoT technology or service with a set of design guidelines for building a secure product. To accomplish this task, this document will serve as an overarching model for interpreting what aspects of a technology or service are relevant to implementer. Once these aspects, or components, are identified, the implementer can evaluate the risks associated with each component, and determine how to manage them
-
-_(from [IoT Security Guidelines Overview](http://www.gsma.com/iot/iot-security-guidelines-overview-document/) page_
-
 ## Why
 
-...why text...
+The constant rise in popularity of the Internet of Things (IoT) is bound to create thousands of new services and IoT devices in the next ten years. Considering their sheer number, there is a high chance that some of those services will not be aware of the potential cyber security risks.
+
 
 ## What
 
-...what text...
+The mobile telecommunications industry, which the GSMA represents, has a long history of providing secure products and services, and has recently shared their security expertise with IoT service providers. The result was a set of security guidelines that IoT services and device manufacturers should use prior to starting their development.
+The GSMA IoT Security Guidelines are intended for:
+- Service providers
+- Device manufacturers
+- Network professionals
+
+## Outcomes
+
+This Working Session will publish a summary document containing the design guidelines on how to create a secure product and whether a product adheres to IoT Security Guidelines (see references).
 
 ## Who
 
-... target audience ...
+- Security professionals
+- CISOs
+- Agile practitioners
+- DevSecOps
+- SecDevOps
 
 ## References
 
   - http://www.gsma.com/iot/future-iot-networks/iot-security-guidelines/
   - http://www.gsma.com/iot/iot-security-guidelines-overview-document/
   - https://twitter.com/DonAndrewBailey/status/859875875994599424
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

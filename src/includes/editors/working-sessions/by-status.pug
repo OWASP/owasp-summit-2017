@@ -1,0 +1,25 @@
+mixin actions
+    a(href='{{ page.url }}' target='_blank') view
+    a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+
+.participants-table
+    | {% assign working-sessions = site.data.mapped.working-sessions | where_exp: 'item','item.metadata.type == "workshop"' | group_by_exp: 'item', 'item.metadata.status' %}
+
+    h1 Working Session's - List By Status
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p.
+        These are the Working Sessions ordered by Status Label.
+    table.table.table-striped
+        thead
+            th status
+            th sessions
+        | {% for group in working-sessions %}
+        tr
+            td.text-center
+              | {{ group.name }}
+            td
+              | {% for item in group.items %}
+              a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ item.url | replace: '.html', '.md' }}" target='_blank') {{ item.name }}
+              | {% endfor %}
+        | {% endfor %}

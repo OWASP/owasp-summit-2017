@@ -10,6 +10,7 @@ facebook        :
 funded-who      : sponsor
 ticket          : 5x24h
 status          : done
+pre-summit      : Sat,Sun
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

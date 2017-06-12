@@ -5,40 +5,48 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : review-content
-when-day     : Mon
+status       : out
+when-day     : 
+when-time    : 
+location     : 
+room-layout  : u-layout
 organizers   : Dave Wichers
-participants :
+participants : Tiffany Long
 ---
 
 ## Why
 
-Owasp Top 10 is one of the most important and recognized Owasp project. Owasp reputation and value for the AppSec
- community is very depended on the O part of OWASP (Open).
+OWASP Top 10 is one of the most important and widely recognised OWASP projects. OWASP's reputation and value to the AppSec
+community depends greatly on the 'O' part of OWASP (Open).
 
-The current RC version of the Owasp Top 10 2017 has generated quite a number of voices that questioned the openness
- level of process used and the potential conflict of interest of author.
+The current RC version of the OWASP Top 10 2017 has generated some debate about the openness of the process used, and the potential conflicts of interest for the authors. However, the authors have claimed that this was the most Open process so far.
 
-Meanwhile the authors have claimed that this was the most Open process so far.
+This Working Session presents an opportunity to clarify this situation, and for evidence to be presented and discussed on both
+sides of the argument.
 
-The Summit presents an opportunity to clarify this situation and for evidence to be presented and discussed on both
- sides of the argument.
+See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/behind-the-the-owasp-top-10-2017-rc1-df43236f79ff) for good points on the need to be independent and open.
 
-See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/behind-the-the-owasp-top-10-2017-rc1-df43236f79ff) for really good points on the need to be independent and open
-
-![](https://cdn-images-1.medium.com/max/1440/1*pVqqjr479FPGgt8xOsVZfw.png)
+![Potential Risks](https://cdn-images-1.medium.com/max/1440/1*pVqqjr479FPGgt8xOsVZfw.png){:style="width:345px"}
 
 ## What
 
+ - Agree upon definition of 'Openness'
  - Provide evidence on lack of Openness
  - Provide evidence on Openness
  - Review evidence provided
  - Reach a conclusion
+ 
+## Outcomes 
+
+- Framework to apply to the current and future process for the Top 10
+- Framework suggestions for other simularly created documentation processes
 
 ## Who
 
- - Security Professionals
- - Owasp Community
+The target audience for this Working Session is:
+
+ - Security professionals
+ - OWASP community
 
 ## References:
 
@@ -50,5 +58,13 @@ See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/beh
  - https://twitter.com/bilbragg/status/862979506767888384
  - https://twitter.com/wichers/status/863033639063474176
 
+--- 
 
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+... Add content ...
 

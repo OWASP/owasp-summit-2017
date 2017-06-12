@@ -2,12 +2,12 @@
 layout          : blocks/page-participant
 title           : Duncan Hurwood
 type            : participant
-job-title       :
+job-title       : 
 company         :
 travel-from     :
 image           :
 linkedin        :
-twiter          :
+twitter          :
 facebook        :
 website         :
 email           :
@@ -16,7 +16,7 @@ chapter-leader  :
 when-day        : Mon,Tue
 ticket          : 2x8h
 status          : empty
-working-sessions:
+working-sessions: Using Security Risks to Measure Agile Practices, 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

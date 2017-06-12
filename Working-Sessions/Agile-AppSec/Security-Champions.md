@@ -4,10 +4,12 @@ title        : Security Champions
 type         : workshop
 track        : Agile AppSec
 related-to   : Threat-Model,DevSecOps,CISO
-status       : review-content
+status       : final stage
 when-day     : Tue
-organizers   :
-participants :
+when-time    : PM-3
+location     : Room-3
+organizers   : Mustafa Kasmani
+participants : Francois Raynaud,Robert Morschel
 ---
 
 Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.
@@ -26,15 +28,21 @@ The main purpose of this working session is to discuss the role of Security Cham
 
 ## What
 
- - How to define Security Champions role, responsibilities and [OKR](https://en.wikipedia.org/wiki/OKR)
+ - How to define Security Champions' roles, responsibilities, and [OKR](https://en.wikipedia.org/wiki/OKR)
  - How to create a network of Security Champions
  - Forum for Security Champions to share their experiences
  - The importance of being supported by the corporate Security Policy
  - How to 'create' Security Champions? 
  - How to reward Security Champions?
  - Do Security Champions have a path into Application Security profession?
- - Is being a Security Champions worth including in your LinkedIn profile?
- - What is the Security Champion's role in Threat Modeling?
+ - Is being a Security Champion worth including in your LinkedIn profile?
+ - What is the Security Champion's role in Threat Modelling?
+ 
+## Outcomes
+
+- Agreed definition of security champions' roles, responsibilities, and OKR
+- Agreed structure to help companies create networks of security champions
+- Creation of a forum for security champions
 
 ## Who
 
@@ -52,3 +60,19 @@ The target audience for this Working Session is:
  - https://securingthehuman.sans.org/blog/2015/01/19/creating-a-security-champions-network
  - http://blog.diniscruz.com/2016/10/if-you-dont-have-security-champion-get.html
  - http://blog.diniscruz.com/2015/01/does-your-team-has-security-champion-if.html
+ 
+ --- 
+
+## Working materials
+
+--(please add as much information as possible before the sessions)--
+
+- Draft definition of security champions' roles, responsibilities, and OKR
+- Draft structure to help companies create networks of security champions
+- Draft plan for forum for security champions
+
+### Content
+
+...add content...
+
+

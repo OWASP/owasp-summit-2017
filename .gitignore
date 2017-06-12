@@ -7,3 +7,6 @@ node_modules
 .jekyll-metadata
 emails.yml
 _config.yml
+cert
+website/_data/mapped
+.DS_Store

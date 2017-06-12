@@ -3,11 +3,15 @@ layout       : blocks/working-session
 title        : IAM for REST APIs
 type         : workshop
 track        : Owasp Projects
+related-to   : Cheat Sheets, A10 - Underprotected APIs
 technology   : REST
-status       : done
+status       : Final stage; missing working materials
 when-day     : Fri
+when-time    : AM-1
+location     : Room-3
+room-layout  : Cabaret
 organizers   : Johan Peeters
-participants : Marc Rimbau,Dinis Cruz,Bjoern Kimminich, Robert Morschel
+participants : Dinis Cruz, Robert Morschel, Steven Wierckx
 ---
 
 ## Why
@@ -30,16 +34,32 @@ REST APIs are ubiquitous, yet there is a lack of solid insights into securing RE
 - JWT/JOSE
 - HoK
 
-### Potential outcomes
+## Outcomes
 
 - A new version of the REST Security Cheatsheet.
 - One or more demonstrators.
 
-## Who 
+## Who
 
 The target audience for this Working Session is:
 
 - Back-end REST services developers
 - SPA developers
 - Mobile developers
-- Authors of the REST security cheat sheet
+- Authors of the REST Security Cheat Sheet
+
+
+## References
+
+- [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+- [Protect your REST APIs with JWT tokens](http://yo1peeters.blogspot.com/2017/06/protect-your-rest-apis-with-jwt-tokens.html)
+- [In the (back)end, JWT is all that matters](http://yo1peeters.blogspot.com/2017/06/in-backend-jwt-is-all-that-matters.html)
+
+---
+
+## Working materials
+
+(please add as much information as possible before the sessions)
+
+- Revised draft of REST Security Cheatsheet
+

@@ -5,11 +5,17 @@ type            : workshop
 track           : Mobile Security
 owasp-project   : yes
 technology      : Mobile
-status          : featured
+status          : done
 when-day        : Mon
+when-time       : AM-1,PM-1,PM-2,PM-3
+location        : Room-4
+room-layout     : unknown
+remote          : https://hangouts.google.com/hangouts/_/owasp.org/summit-room-4
 description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
-organizers      : Bernhard Mueller,Sven Schleier
-participants    : T.b.d.
+organizers      : Bernhard Mueller, Sven Schleier
+participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen
+remote participants: Anant Shrivastava
+invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
 
 <img src="https://media.githubusercontent.com/media/OWASP/owasp-mstg/master/Document/Images/titlepage-small.jpg" width="250px" align="right" alt="owasp mstg"/>
@@ -34,3 +40,32 @@ Associated chapters in the MSTG:
 - [Android Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05a-Platform-Overview.md)
 - [iOS Platform Overview](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06a-Platform-Overview.md)
 
+## Outcomes
+
+This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
+
+## How to Join
+
+Follow the "Edit this page here" link at the bottom of this page and add yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions.
+
+More things to do once you have signed up:
+
+- Make yourself familiar with the [existing content](https://github.com/OWASP/owasp-mstg). Or even better, start contributing right away :)
+- Ping us on the [OWASP MSTG Slack channel](https://owasp.slack.com/messages/project-mobile_omtg/details/) (sushi2k or bernhardm).
+- If you have rooted Android / jailbroken iOS devices, please bring them along to the session.
+
+## Who
+
+The target audience for this Working Session is:
+
+- Developers
+- Security Testers
+- Reverse Engineers
+- Everyone else with good writing skills and some technical know-how :)
+
+--- 
+
+## Working materials
+
+- Draft of the [Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
+- Jailbroken iOS devices, rooted Android devices

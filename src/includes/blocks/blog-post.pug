@@ -1,18 +1,17 @@
 
 mixin add-author
-    | {% assign match = site.pages | where: 'title', page.author %}
-    | {% if match[0] %}
-    | {% if match[0].image != null %}
-    img.img-responsive(src='{{ match[0].image }}' alt='{{ page.title }}')
-    | {% else %}
+    | {% assign author = site.data.mapped.participants[page.author]  %}
+    | {% if author                                                  %}
+    | {%    if author.metadata.image != null                                 %}
+    img.img-responsive(src='{{ author.metadata.image }}' alt='{{ author.name }}')
+    | {%    else                                                    %}
     img.img-responsive(src='/website/assets/img/blocks/400x400.png' alt='Placeholder 400x400')
-    | {% endif %}
+    | {%    endif                                                   %}
     .author
-        a(href='{{match[0].url}}') {{ match[0].title }}
-    |   {% else %}
-
+        a(href='{{author.url}}') {{ author.name }}
+    | {%   else                                                     %}
     .author {{ page.author }}
-    |   {% endif %}
+    | {%   endif                                                    %}
 
 mixin add-date
     .date {{ page.date | date: "%-d %B" }}

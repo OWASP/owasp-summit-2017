@@ -6,10 +6,12 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   :
-status       : review-content
+status       : merged with integrating security into a portfolio kanban
 when-day     : Thu
-organizers   : David Clarke
-participants : Ante Gulam,Francois Raynaud
+when-time    : AM-1
+location     : Room-2
+organizers   :
+participants : Francois Raynaud
 ---
 
 Integrating security into sales channels is extremely important to every organisation that has a strong sales-driven component. In most cases, information security professionals must re-engineer processes and perform other tasks to oversee the current sales streams across different products.  
@@ -25,6 +27,10 @@ The main purpose of this working session is to discuss and discover new ways of 
 - Process re-engineering to fit security needs
 - Automating security over sales workstreams
 
+## Outcomes
+
+- Playbook that defines staged industry best practices on how to integrate security into the general (usually B2B) programme management workflow
+
 ## Who
 
 The target audience for this Working Session is:
@@ -34,3 +40,12 @@ The target audience for this Working Session is:
 - Agile practitioners
 - DevSecOps
 - SecDevOps
+
+--- 
+
+# Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+...add content...

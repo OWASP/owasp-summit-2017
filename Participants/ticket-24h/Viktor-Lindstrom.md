@@ -1,13 +1,13 @@
 ---
 layout          : blocks/page-participant
-title           : Viktor Lindström
+title           : Viktor Lindstrom
 type            : participant
 job-title       : IT Security Specialist
 company         : Volvo Cars Corporation
 travel-from     : Sweden
 image           : https://owaspgbgday.se/wp-content/uploads/2016/11/Viktor-229x300.jpg
 linkedin        : viktor-lindström-a9310a5a
-twiter          : ViktorLindstr_m
+twitter          : ViktorLindstr_m
 facebook        :
 website         :
 email           : viktor.lindstrom@owasp.org 

@@ -6,10 +6,13 @@ owasp-project: no
 track        : DevSecOps
 technology   :
 related-to   :
-status       : review-content
+status       : done
 when-day     : Tue
-organizers   : Stephen de Vries
-participants : Neil Barlow,Dicky Stafford,Fraser Scott,Francois Raynaud, Stephen de Vries
+when-time    : AM-1
+location     : Room-5
+room-layout  : square
+organizers   : Fraser Scott
+participants : Neil Barlow,Dicky Stafford,Francois Raynaud,Stephen de Vries,Johan Peeters
 ---
 
 ## Why
@@ -22,11 +25,24 @@ Developers, and operations and security teams need to collaborate on building an
 - Write BDD specifications for those requirements (no implementation code, just specs)
 - Find existing tools/solutions that can be used as base implementations, e.g. Netflix's Security Monkey? NCC Group AWS auditor?
 - Link specs to standards (CSA, NIST, etc.)?
+- Understand whether the standard BDD story language of In order to/As a/I want and Given/When/Then maps appropriately to infrastructure and Cloud stories, and if not then define a model that fits better.
+- Understand BDD features from an auditor perspective - is a feature file just as good as an Office document?
+
+## Outcomes
+
+This Working Session will publish BDD specifications for those requirements (no implementation code, just specs), and will link the specs to CSA, NIST, and other standards.
 
 ## Who
 
 The target audience for this Working Session is:
 
-- Cloud Security Architects
-- Security Teams
+- Cloud Security architects
+- Security teams
 - Cloud Ops
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+

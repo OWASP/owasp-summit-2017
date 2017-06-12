@@ -5,7 +5,7 @@ type       : participant-remote
 job-title  : Software Security Consultant
 image      : https://pbs.twimg.com/profile_images/814591366143610880/CKVLcioK.jpg
 linkedin   : roberthurlbut
-twiter     : roberthurlbut
+twitter     : roberthurlbut
 website    : https://roberthurlbut.com
 status     : done
 ---

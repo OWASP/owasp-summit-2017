@@ -1,0 +1,83 @@
+mixin show-conflicts
+    | {% if working-sessions == null        %}
+    .alert.alert-info No session
+    | {% elsif working-sessions.size > 1   %}
+    .alert.alert-danger Too many sessions
+    | {% endif                              %}
+mixin show-day
+    + show-conflicts
+    .session-name
+        | {% for working-session in working-sessions      %}
+        a(href="{{working-session.url}}") {{ working-session.name }}
+        | {% if working-session .locked %}
+        span.glyphicon.glyphicon-lock
+        | {% endif             %}
+        | {% if working-session.status == 'draft' %}
+        span.glyphicon.glyphicon-warning-sign
+        | {% endif %}
+        .role(class="{{ working-session.role }}")    {{ working-session.role }}
+        .location {{ site.data.venue[working-session.location].name }}
+
+        | {% endfor %}
+
+
+.schedule-track
+    | {% assign times        = "AM-1,PM-1,PM-2,PM-3,Eve" | split: ',' %}
+    | {% assign days         = "Mon,Tue,Wed,Thu,Fri"     | split: ',' %}
+    | {% assign participant  = page.title                             %}
+    h3 Scheduled Working Sessions for {{ participant }}
+
+    table.table.table-striped
+        thead
+            th
+                b (when)
+            th.text-center
+                h4 Monday
+            th.text-center
+                h4 Tuesday
+            th.text-center
+                h4 Wednesday
+            th.text-center
+                h4 Thursday
+            th.text-center
+                h4 Friday
+        | {% for time in times %}
+        |   {% if site.data.mapped.schedule.by_Participant[participant][time] %}
+        tr
+            td.text-center
+                .time {{ time }}
+                .time-hour {{ site.data.times[time] }}
+            | {% for day in days %}
+            |   {% assign working-sessions = site.data.mapped.schedule.by_Participant[participant][time][day]  %}
+            td
+                + show-day
+            |   {% endfor %}
+        |   {% endif %}
+        | {% endfor %}
+
+    | {% assign times = site.data.mapped.schedule.by_Track['no-day'][track]  %}
+    | {% if times %}
+    h3 Not Scheduled Working Sessions
+    p.
+        These Working Sessions are currently NOT scheduled to occur in one of the main Rooms.
+        This doesn't mean that they will NOT happen.
+        Participants will be able to work on this
+        Working Session (or others created during the Summit) at specific locations and times.
+    ul
+
+        | {% for time in times      %}
+        | {%    for working-session in time[1]      %}
+        li
+            a(href="{{ working-session.url }}") {{ working-session.name }}
+            span &#32; - {{ working-session.status}} &#32;
+            | {% if working-session.status == 'draft' %}
+            span.glyphicon.glyphicon-warning-sign
+            | {% endif %}
+        | {%    endfor %}
+        | {% endfor %}
+    | {% endif %}
+    //hr
+    //p
+    //    a(href="/Working-Sessions/{{ page.title | replace: ' ', '-'}}") Back to {{ page.title }} track details
+    //p
+    //    a(href='/pages/schedule') Back to schedule list

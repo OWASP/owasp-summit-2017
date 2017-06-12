@@ -1,0 +1,58 @@
+include ../mixins/schedule.jade
+
+mixin show-session-at-time
+    | {% for session in track[1][time]              %}
+    div
+        a(href="{{session.url}}") {{ session.name }}
+        | {% if session.locked                      %}
+        span.glyphicon.glyphicon-lock
+        | {% endif                                  %}
+    .track-info {{ session.location }}
+    | {% endfor                                     %}
+
+mixin show-track
+    td.text-center {{ track[0] }}
+    | {% for time in times %}
+    td
+        + show-session-at-time
+    | {% endfor%}
+
+
+| {% assign tracks = site.data.mapped.schedule.by_Track[page.day] %}
+| {% assign times = "AM-1,PM-1,PM-2,PM-3,Eve,no-time" | split: ',' %}
+
+.page-content
+    .schedule
+        h3 {{ page.title }}
+
+        hr
+        ul
+            + add-days-links
+            + add-schedule-links
+
+
+        hr
+        table.table
+            thead
+                th.text-center
+                    b (track)
+                th.text-center
+                    h4 AM 1
+                    .day-time 10:30 to 12:30
+                th.text-center
+                    h4 PM 1
+                    .day-time 13:30 to 15:00
+                th.text-center
+                    h4 PM 2
+                    .day-time 15:30 to 16:30
+                th.text-center
+                    h4 PM 3
+                    .day-time 16:30 to 17:30
+                th.text-center
+                    h4 Evening
+                    .day-time 20:00 to 23:59
+
+            | {% for track in tracks %}
+            tr
+                + show-track
+            | {% endfor %}

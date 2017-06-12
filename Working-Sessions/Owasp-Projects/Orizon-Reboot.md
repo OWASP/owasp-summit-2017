@@ -3,10 +3,12 @@ layout       : blocks/working-session
 title        : Owasp Orizon Reboot
 type         : workshop
 technology   : Java
-status       : more-content
+status       : done
 track        : Owasp Projects
 owasp-project: yes
 when-day     : Wed
+when-time    : PM-2
+location     : Room-3
 organizers   : Paolo Perego
 participants :
 ---
@@ -43,19 +45,37 @@ years, until in 2017 I kickstarted the Orizon project again from scratch.
 - How will Orizon integrate with Dependency Checker and OWASP ZAP?
 - Should Orizon only support J2EE, or should it also support Android?
 
-### Outcomes
+## Outcomes
 
-- A team of people interesting in working on Orizon
+- A team of people interested in working on Orizon
 - Some agile milestones
 
 ## Who
 
 The target audience for this Working Session is:
 
-ToDo: --Add content--
-
+- Security professionals
+- Software developers
+- Application architects
+- DBAs/DB experts
+- Web developers
 
 ## Links
 
 - OWASP Orizon [page](https://www.owasp.org/index.php/Category:OWASP_Orizon_Project)
 - GitHub repository: [here](https://github.com/thesp0nge/owasp-orizon)
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
+
+<a href="https://github.com/thesp0nge/owasp-orizon>GitHub Project</a>
+
+### Content
+
+OWASP Orizon is a source code security scanner designed to spot vulnerabilities in J2EE web applications, Android code and generally speaking in Java written source code.
+
+More information here: <a href="https://owasporizon.wordpress.com/>ORiZON BLOG</a>
+

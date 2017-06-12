@@ -7,9 +7,11 @@ track        : DevSecOps
 technology   :
 related-to   :
 status       : draft
-when-day     : Thu
+when-day     : Wed
+when-time    : PM-1
+location     : Room-6
 organizers   : Dicky Stafford
-participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud, Timo Pagel, Robert Morschel
+participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud, Timo Pagel, Johan Peeters
 
 ---
 
@@ -23,6 +25,20 @@ participants : Neil Barlow,Fraser Scott,Ante Gulam,Francois Raynaud, Timo Pagel,
 
 ...what text...
 
+## Outcomes
+
+...add text...
+
 ## Who
 
 ... target audience ...
+
+--- 
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+
+### Content
+
+...add content...

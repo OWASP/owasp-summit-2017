@@ -1,13 +1,45 @@
 .schedule {
+
+  .for-print {
+    font-size   : 18px   ;
+  }
+  .glyphicon-lock {
+    color       : #ff7b7d;
+    font-size   : 10px   ;
+    padding     : 5px    ;
+  }
   background-color: #f9f9f9;
+  padding:10px;
+
+  .room-name {
+    font-size: 16px;
+  }
+
+  .room-key {
+    font-size: 9px;
+  }
+  .day_Title      { font-size: 150%; }
+  .session-name a { font-size: 100%; }
+  .alert        a { font-size: 100%; }
 
   table {
+    .day-time {
+      font-size: 10px;
+      padding:0px;
+      margin: -5px
+    }
+
     td {
       a {
         font-size: 80%;
       }
+
       .track {
         font-size: 80%;
+      }
+      .track-info  {
+        font-size: 8px;
+        padding:0px;
       }
       hr {
         //border-bottom: 0.5px solid;
@@ -18,4 +50,32 @@
     }
   }
 
+}
+
+// from https://coolors.co/090446-786f52-feb95f-fee9ec-c2095a
+.schedule-colors {
+  .Mon {   background: #F0D3F7; }
+  .Tue {   background: #B98EA7; }
+  .Wed {   background: #AD8086; }
+  .Thu {   background: #F0BDC4; }
+  .Fri {   background: #A39DA5; }
+
+  .AM-1 {   background: #9BF3F0; }
+  .PM-1 {   background: #8DDDDB; }
+  .PM-2 {   background: #7FC7C5; }
+  .PM-3 {   background: #71B1AF; }
+  .Eve  {   background: #639B99; }
+
+  .Room-1 {   background: #FEE9EC; }
+  .Room-2 {   background: #FDD4DA; }
+  .Room-3 {   background: #FCBFC7; }
+  .Room-4 {   background: #FCAAB5; }
+  .Room-5 {   background: #FB95A3; }
+  .Room-6 {   background: #FA8090; }
+  .Villa-1 {   background: #C1BDB0; }
+  .Villa-2 {   background: #B5B0A0; }
+  .Villa-3 {   background: #A9A390; }
+
+  .scheduled     { color: #93C0A4; }
+  .not-scheduled { color: #F84159; }
 }
