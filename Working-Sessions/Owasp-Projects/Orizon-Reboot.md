@@ -71,11 +71,11 @@ The target audience for this Working Session is:
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
 
-<a href="https://github.com/thesp0nge/owasp-orizon>GitHub Project</a>
+<a href="https://github.com/thesp0nge/owasp-orizon">GitHub Project</a>
 
 ### Content
 
 OWASP Orizon is a source code security scanner designed to spot vulnerabilities in J2EE web applications, Android code and generally speaking in Java written source code.
 
-More information here: <a href="https://owasporizon.wordpress.com/>ORiZON BLOG</a>
+More information here: <a href="https://owasporizon.wordpress.com/">Owasp Orizon BLOG</a>
 
