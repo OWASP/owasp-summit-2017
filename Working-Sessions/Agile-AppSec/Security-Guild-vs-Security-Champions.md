@@ -42,6 +42,28 @@ The target audience for this Working Session is:
  
  --- 
 
+## Outcomes
+
+Security Champions are a key element of an AppSec team, since they create a cross-functional team focused on Application Security.
+
+What is a Security Champion?
+
+- Security Champions are active members of a team with a dotted line to the central Security Team 
+- Act as the "voice" of security for the given product or team
+- Security Champions provide visilibity to the central security
+
+Comments
+
+- Security Champions are a model that has been used succesfully
+- A group of Security Champions could be a Security Guild
+- Security Champions network need energy from the central Securtiy Team
+
+Follow up:
+
+- Request on the model present above
+- Create a survey that maps the current Security Champions structure (in the Summit)
+
+
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
@@ -54,12 +76,22 @@ Security Champions are a key element of an AppSec team, since they create a cros
 
 What is a Security Champion?
 
-- Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
+- Security Champions are active members of a team with a dotted line to the central Security Team 
 - Act as the "voice" of security for the given product or team
-- Assist in the triage of security bugs for their team or area
+- Security Champions provide visilibity to the central security
+
+Recommendation
+
+- Security Champions are a model that has been used succesfully
+- A group of Security Champions could be a Security Guild
+- Security Champions network need energy from the central Securtiy Team
+
+
+
+
 
 What do they do?
-
+- Assist in the triage of security issues for their team or area
 - Actively participate in the AppSec JIRA and WIKI
 - Collaborate with other security champions
 - Review impact of 'breaking changes' made in other projects
