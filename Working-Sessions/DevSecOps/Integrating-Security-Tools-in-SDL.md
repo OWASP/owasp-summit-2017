@@ -11,13 +11,13 @@ participants  :
 organizers    :
 ---
 
-Most of today´s cyber security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications or other systems, most of well-known vulnerabilities are caused by coding errors and implementation issues.
+Most of today´s cyber security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications, or other systems, most well-known vulnerabilities are caused by coding errors and implementation issues.
 
-The question here is why so many bugs and coding errors continue to cause major security issues when we had years to deal with these and other common vulnerabilities that are found in applications today.
+The question here is why so many bugs and coding errors continue to cause major security issues when we have had years to deal with these and other common vulnerabilities that are still found in applications today.
 
 ## Why
 
-The best way to make security ‘just happen’ is to integrate it within the normal SDL (Software Development Lifecycle) practices. Security teams can focus on confidentiality and integrity of data which can often require development teams to slow down assess code differently. Similarly, businesses want developers to write and revise code more quickly than ever which often results in them focusing on what works best instead of what is secure.
+The best way to make security ‘just happen’ is to integrate it within the normal SDL (Software Development Lifecycle) practices. Security teams can focus on confidentiality and integrity of data which often requires development teams to slow down and assess code differently. Similarly, businesses want developers to write and revise code faster than ever, which often results in the developers focusing on what works best instead of on what is secure.
 
 ## What
 
