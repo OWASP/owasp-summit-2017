@@ -7,7 +7,7 @@ company         : Securestorm Ltd
 travel-from     :
 image           :
 linkedin        : tonyrichardsclas
-twitter         : 
+twitter         : _tony_richards
 facebook        :
 website         :
 email           :
