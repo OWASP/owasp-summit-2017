@@ -8,11 +8,11 @@ description  : Brainstorming and designing new hacking challenges and other feat
 status       : done
 organizers   : Bjoern Kimminich
 when-day     : Mon
-when-time    : PM-3
+when-time    : PM-2
 locked       : true
-location     : Room-3
+location     : Room-2
 room-layout  : circle
-participants : Dinis Cruz,Ade Yoseman Putra,Timo Pagel,Francois Raynaud
+participants : Ade Yoseman Putra,Timo Pagel,Francois Raynaud
 invited      : Jannik Hollenbach
 cant-make-it : Ingo Hanke
 ---

@@ -830,6 +830,9 @@
   background-color: #f9f9f9;
   padding: 10px;
 }
+.schedule .for-print {
+  font-size: 18px   ;
+}
 .schedule .glyphicon-lock {
   color: #ff7b7d;
   font-size: 10px   ;

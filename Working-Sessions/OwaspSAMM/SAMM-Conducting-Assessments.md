@@ -7,7 +7,7 @@ track        : OwaspSAMM
 status       : done
 when-day     : Mon
 when-time    : PM-2
-location     : Villa-1
+location     : Room-3
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom

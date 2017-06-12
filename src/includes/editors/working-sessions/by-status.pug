@@ -17,9 +17,9 @@ mixin actions
         | {% for group in working-sessions %}
         tr
             td.text-center
-              {{ group.name }}
+              | {{ group.name }}
             td
-              {% for item in group.items %}
+              | {% for item in group.items %}
               a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ item.url | replace: '.html', '.md' }}" target='_blank') {{ item.name }}
-              {% endfor %}
+              | {% endfor %}
         | {% endfor %}

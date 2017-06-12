@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Mobilising Business Lines for Security (panel)
+title        : Mobilising Business Lines for Security
 type         : workshop
 owasp-project: yes
 track        : CISO
@@ -8,11 +8,10 @@ technology   :
 status       : final stage
 when-day     : Mon
 when-time    : PM-3
-location     : Room-4
+location     : Room-2
 organizers   : Ante Gulam
-panelists    : Dinis Cruz
+panelists    : Dinis Cruz,Ante Gulam, Neil Barlow
 participants : Robert Morschel, Don Gibson
-invited      : Neil Barlow
 ---
 
 ## Why

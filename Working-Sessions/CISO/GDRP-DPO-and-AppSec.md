@@ -8,11 +8,11 @@ related-to   :
 status       : done
 when-day     : Mon,Thu
 when-time    : PM-1
-location     : Room-4
+location     : Room-6
 room-layout  : cabaret 
 organizers   : Anders Reeves
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel
-invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel,Neil Barlow
+invited      : Kevin Fielder, Dilek Koluman, Clare Creeden
 ---
 
 ## Why
