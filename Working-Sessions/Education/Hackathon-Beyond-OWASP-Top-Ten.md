@@ -85,6 +85,6 @@ All the challenges will be available online so anyone can join us even remotely.
 The hackathon is going to be organized on the [avatao](https://avatao.com) platform, which is a commercial product to educate people to build secure products. In accordance with the general rules of the OWASP 2017 Summit, a dedicated learning path is going to be set up for all the on-site and remote conference participants *free of charge*. The organizers of the Hackathon will help the participants on-site, however, the Hackathon is going to be available for a longer period of time even after the conference. 
 
 
-## Definition of done
+## Outcomes
 
 Ran a hackathon about software security and collected ideas for new challenges.
