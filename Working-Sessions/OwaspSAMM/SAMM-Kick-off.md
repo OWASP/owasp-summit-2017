@@ -11,7 +11,7 @@ location     : Room-3
 remote       : https://hangouts.google.com/hangouts/_/owasp.org/summit-room-3
 room-layout  : unknown
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Don Gibson, Irene Michlin
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Don Gibson, Irene Michlin, Nessim Kisserli
 ---
 
 Discuss agenda - goals for this week. Welcome people who are going to participate
