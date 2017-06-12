@@ -43,6 +43,8 @@ mixin show-remote-link
     br
     | {% else %}
     | {% case data.metadata.location %}
+    | {% when 'Room-1' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-1"> join here</a>
     | {% when 'Room-2' %}
     b Remote link: <a href="{{ hangouts }}summit-room-2"> join here</a>
     | {% when 'Room-3' %}
