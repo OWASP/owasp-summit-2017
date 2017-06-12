@@ -6,7 +6,7 @@ track        : Juice Shop
 technology   : Node
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 status       : done
-organizers   : Bjoern Kimminich
+organizers   : Bjoern Kimminich, Timo Pagel
 when-day     : Wed
 when-time    : AM-1,PM-1,PM-2
 location     : Villa-5
