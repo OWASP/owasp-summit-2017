@@ -12,7 +12,7 @@ when-time    : PM-2
 location     : Room-6
 room-layout  : cabaret
 organizers   :
-participants : Geoff Hill, Irene Michlin, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindstrom, Christian Martorella, Don Gibson
+participants : Geoff Hill, Irene Michlin, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindstrom, Christian Martorella, Don Gibson, Mateo Martinez
 ---
 
 This session is a discovery session on what threat modelling tools exist currently and what their benefits and weaknesses are.
@@ -30,7 +30,8 @@ A good overview of the number of threat modelling tools available will enable mo
 
 ## Outcomes
 
-... Add text...
+- Cheatsheet with threat modeling tools list
+- Requirements for a threat modeling tool
 
 ## Who
 
@@ -59,4 +60,6 @@ Here are the current 'work in progress' materials for this session
 
 ### Content
 
-...add content...
+- Current Threat Modeling Tools
+- Next Generation Threat Modeling Tools requirements
+- Business Requirements

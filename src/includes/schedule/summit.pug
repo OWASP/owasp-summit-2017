@@ -1,3 +1,8 @@
+mixin show-remote-link
+  | {% if session.remote != '' %}
+  .track-info Remote link : <a href="{{ session.remote }}"> join here</a>
+  | {% endif                           %}
+
 mixin show-session-at-time
     | {% for session in day_Data[time]              %}
     | {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
@@ -8,6 +13,7 @@ mixin show-session-at-time
         | {% endif             %}
     .track-info {{ time}} : {{ session.track }}
     .track-info Room layout : {{ session.layout }}
+    + show-remote-link
     | {% endfor                                     %}
 
 mixin show-room-day
@@ -89,4 +95,3 @@ mixin show-room
             tr
                 + show-room
             | {% endfor %}
-

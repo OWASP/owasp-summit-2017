@@ -37,10 +37,10 @@ mixin show-location
     br
 
 mixin show-remote-link
-    | {% if data.metadata.remote != '' %}
-    b Remote link: <a href="{{ data.metadata.remote }}"> access here</a>
+    | {% if data.metadata.remote %}
+    b Remote link: <a href="{{ data.metadata.remote }}"> join here</a>
     br
-    | {% endif %}
+    | {% endif                   %}
 
 .working-session
     .container
