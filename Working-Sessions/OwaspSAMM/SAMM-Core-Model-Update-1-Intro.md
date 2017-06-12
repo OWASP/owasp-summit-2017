@@ -4,11 +4,12 @@ title        : SAMM - Core Model Update 1 - Intro
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes; need working materials
+status       : done
 when-day     : Mon
 when-time    : PM-3
-location     : Villa-1
-organizers   : Brian Glas
+location     : Room-3
+room-layout  : unknown
+organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
 ---
 

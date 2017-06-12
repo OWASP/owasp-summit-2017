@@ -2,12 +2,12 @@
 layout          : blocks/page-participant
 title           : Janne Sarendal
 type            : participant
-job-title       :
+job-title       : Head of Application Security
 company         : Capital One
 travel-from     :
 image           :
 linkedin        :
-twitter          :
+twiter          :
 facebook        :
 website         :
 email           :
@@ -15,8 +15,8 @@ project-leader  :
 chapter-leader  :
 ticket          : 5x24h
 status          : empty
-working-sessions:
 regonline       : No
+working-sessions: AGILE APPSEC, DEVSECOPS, THREAT MODEL
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

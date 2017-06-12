@@ -36,7 +36,7 @@ title       : Summit Schedule
 * [Owasp Top 10 2017](./tracks/Owasp-Top-10-2017.html)
 * [OwaspSAMM](./tracks/OwaspSAMM.html)
 * [Research](./tracks/Research.html)
-* [Security-Crowdsourcing](./tracks/Security-Crowdsourcing.html)
-* [Security- laybooks](./tracks/Security-Playbooks.html)
+* [Security Crowdsourcing](./tracks/Security-Crowdsourcing.html)
+* [Security Playbooks](./tracks/Security-Playbooks.html)
 
 

@@ -13,8 +13,8 @@ email           :
 project-leader  :
 chapter-leader  :
 status          : empty
-working-sessions: What Should be Added to the Top 10, A10 - Underprotected APIs, A7 - Insufficient Attack Protection, 
+working-sessions: Top 10 2017 - write revised and new text, Top 10 2017 - Process Discussion, Top 10 2017 - Validation of weightings Discussion, Top 10 2017 - Feedback and Conclusion, Top 10 2017 - Peer review of RC2, Top 10 2017 - peer review of existing text, Owasp Top 10 2017 (Track), Top 10 2017 - Call for Data and Weightings Discussion
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-<!-- put more details about participant here -->
+Patchy availabilty on Monday with better availability on Tuesday and Wednesday.

@@ -1,7 +1,6 @@
 ---
 layout          : blocks/page-participant
 title           : Fraser Scott
-company         : Capital One
 type            : participant
 job-title       : Senior Cloud SecOps Engineer
 company         : Capital One

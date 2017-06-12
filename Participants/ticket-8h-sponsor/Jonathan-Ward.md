@@ -1,19 +1,22 @@
 ---
 layout          : blocks/page-participant
-title           : Pravir Chandra
+title           : Jonathan Ward
 type            : participant
-job-title       : CTO Security Architect
-company         : Bloomberg LP
-travel-from     : United States
-image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/03b/044/2f12eb5.jpg
-linkedin        : pravirchandra
+job-title       :
+company         : Capital One
+travel-from     :
+image           :
+linkedin        :
 twitter          :
 facebook        :
 website         :
 email           :
-ticket          :
+project-leader  :
+chapter-leader  :
+ticket          : 1x8h
 status          : empty
-working-sessions: OwaspSAMM
+regonline       : No
+working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

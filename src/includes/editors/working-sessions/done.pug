@@ -1,0 +1,52 @@
+mixin status
+    | {% case working-session.metadata.status %}
+    | {% when 'draft' %}
+    .label.label-primary {{ working-session.metadata.status }}
+    | {% when 'done' %}
+    .label.label-success done
+    | {% when 'empty' %}
+    .label.label-danger empty
+    | {% else %}
+    .label.label-default {{ working-session.metadata.status }}
+    | {% endcase %}
+
+mixin actions
+    a(href='{{ page.url }}' target='_blank') view
+    a(href='https://github.com/OWASP/owasp-summit-2017/blob/master/{{ page.path }}' target='_blank') edit
+
+.participants-table
+    | {% assign working-sessions = site.data.mapped.working-sessions | where_exp: 'item','item.metadata.type == "workshop"' | where_exp: 'item','item.metadata.status == "done" '%}
+
+    | {% assign workshops = site.pages | where: 'type', 'workshop' | where_exp: 'item', 'item.metadata.status == "done"'%}
+
+    h1 Working Session's - Done Status
+        a(href='/pages/for-editors') Back to Editor's pages
+
+    p.
+        These are the Working Sessions marked as done.
+    table.table.table-striped
+        thead
+            th #
+            th name (title)
+            th
+            th track
+            th technologies
+            th participants
+            th status
+        | {% for working-session in working-sessions%}
+        tr
+            td.text-center {{ forloop.index }}
+            td
+                a(href='{{working-session.url}}' target='_blank') {{ working-session.name }}
+            td
+                a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ working-session.url | replace: '.html', '.md' }}" target='_blank') edit
+            td
+                a(href="/Working-Sessions/{{ working-session.metadata.track | replace: ' ', '-'}}" target='_blank') {{ working-session.metadata..track }}
+            //td
+                + add-technologies
+            td {{ working-session.metadata.technology }}
+            td {{ working-session.metadata.participants | join: ' , ' }}
+            td.text-center
+                + status
+
+        | {% endfor %}

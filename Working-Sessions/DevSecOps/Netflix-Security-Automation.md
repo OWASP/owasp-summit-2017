@@ -5,8 +5,8 @@ type         : workshop
 track        : DevSecOps
 technology   :
 related-to   :
-status       : need-more content
-organizers   :
+status       : need to be reviewed
+organizers   : Mateo Martínez
 participants : Neil Barlow,Dicky Stafford,Francois Raynaud,Timo Pagel
 ---
 

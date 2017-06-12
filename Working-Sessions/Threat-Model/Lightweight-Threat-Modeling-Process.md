@@ -1,19 +1,20 @@
 ---
 layout       : blocks/working-session
-title        : Lightweight Threat Modeling Process
+title        : Threat Modeling Cheat Sheet & Lightweight Threat Modeling (Part I)
 type         : workshop
 track        : Threat Model
-status       : final stage; need-working materials
+status       : done
 when-day     : Wed
 when-time    : PM-1
 location     : Villa-4
-organizers   : Geoff Hill
+room-layout  : unknown
+organizers   : Geoff Hill, Tony UV
 participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin, Steven Wierckx
 ---
 
 ## Why
 
-This Working Session aims to produce an overview of how to integrate threat modelling into a Agile/DevOps/Continuous Integration (ADCI) process. Keep in mind that a proper lightweight process should be easily-repeatable with few moving parts (ie. steps). It should be flexible enough to be used with various taxonomies and libraries.  The focus of this session should be on creating that process.
+This Working Session aims to produce an overview of how to integrate threat modelling into a Agile/DevOps/Continuous Integration (ADCI) process. Keep in mind that a proper lightweight process should be easily-repeatable with few moving parts (ie. steps). It should be flexible enough to be used with various taxonomies and libraries.  The focus of this session should be on creating that process. This process will be supported and complimented by prescriptive threat modeling guidance via the Threat Modeling Cheat Sheets being developed.
 
 
 ## What 
@@ -26,6 +27,7 @@ This Working Session aims to produce an overview of how to integrate threat mode
 - Review threat model taxonomies (eg. CIA, STRIDE, CWE, CAPEC, etc.) and decide which one(s) fit best for a lightweight process.
 - Create an adaptable threat library based on current OWASP and MITRE content, and align this process with the lightweight taxonomy (or taxonomies). Keep this library to a manageable set of elements (shoot for around 10).
 - Define the schema definitions for a migitations/countermeasures/controls library, again keeping the definitions top-level and flexible to enable speedy use. These definitions should leverage other OWASP content (e.g. ASVS, cheat sheets, SKF mitigation guidance, etc.) Keep this library to a manageable set of elements (shoot for around 15).
+- Content from Cheat Sheets will parrallel efforts depicted by this lightweight threat modeling process. 
 
 ## Definition of Done
 
@@ -34,6 +36,7 @@ This Working Session aims to produce an overview of how to integrate threat mode
 - Created: *application component* patterns library
 - Created: adaptable threat library
 - Created: countermeasures library schema definition
+- Key process activities that tie to cheat sheet guidance
 
 ## Who
 

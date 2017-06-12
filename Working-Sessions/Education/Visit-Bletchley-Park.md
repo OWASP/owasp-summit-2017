@@ -6,10 +6,11 @@ owasp-project: no
 track        :
 technology   :
 related-to   :
-status       : review-content
+status       : done
 when-day     : Thu
 when-time    : PM-1,PM-2,PM-3
 location     :
+room-layout  : unknown
 organizers   : Johan Peeters
 participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt
 ---
@@ -40,7 +41,7 @@ Exhibits listed above are a suggestion, but feel free to pursue your own interes
 Transport remains to be arranged, but local taxi's are available. In order to be able to book sufficient taxi's, please indicate below whether you need transport or can take people. Shared taxi fees are likely to cost around 10 GBP per head, round trip.
 
 Have vehicle with N open slots:
-* Sebastien Deleersnyder: 3 extra seats
+* Sebastien Deleersnyder: Steven Wierckx, Jonas Vanalderweireldt, Fabien Thalgott, 1 extra seat
 * Chris Cooper: 3 extra seats
 
 Need transport:
@@ -49,7 +50,6 @@ Need transport:
 * Bjoern Kimminich
 * Hamza Alkofahi
 * Johan Peeters
-* Jonas Vanalderweireldt
 
 ### Tickets
 

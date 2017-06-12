@@ -6,11 +6,12 @@ owasp-project  : no (but maybe during the summit)
 track          : Education
 technology     :
 related-to     : Teaching Attacker perspective to Developers,Application Security BSc/Masters Curriculum Design,Juice Shop,NodeGoat,Webgoat
-status         : final stage
+status         : Done
 when-day       : Wed
 when-time      : PM-3
-location       : Room-2
-organizers     : Timo Pagel
+location       : Room-2
+room-layout    : cabaret
+organizers     : Timo Pagel
 participants   : Bjoern Kimminich, Tiffany Long
 ---
 

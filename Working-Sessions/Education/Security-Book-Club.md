@@ -6,12 +6,13 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   :
-status       : need more content
+status       : done
 when-day     : Tue
 when-time    : Eve
-location     : Villa-2
-organizers   :
-participants : Dinis Cruz
+location     : Villa-2
+room-layout  : unknown
+organizers   :
+participants : Dinis Cruz,Francois Raynaud
 ---
 
 Books are the best way to learn.

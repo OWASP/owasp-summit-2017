@@ -22,7 +22,7 @@ email           :
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h
-regonline       : No
+regonline       : Yes
 pre-summit      : Sat,Sun
 status          : add details
 working-sessions:

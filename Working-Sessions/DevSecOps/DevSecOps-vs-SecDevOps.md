@@ -3,13 +3,14 @@ layout      : blocks/working-session
 title       : DevSecOps vs SecDevOps
 type        : workshop
 track       : DevSecOps
-status      : Final stage
+status      : done
 when-day    : Wed
 when-time   : Eve
 location    : Villa-3
 organizers  : Francois Raynaud
-participants: Felipe Zipitria, Avi Douglen
-invited     : Ante Gulam, Colin Domoney, Tiffany Long
+participants: Felipe Zipitria
+room-layout : unknown
+invited     : Ante Gulam, Colin Domoney, Tiffany Long
 ---
 
 This Working Session will be a light-hearted, round-table discussion on this very important topic in our community.

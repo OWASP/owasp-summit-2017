@@ -6,12 +6,13 @@ owasp-project: no
 track        : Threat Model
 technology   :
 related-to   :
-status       : final stage; need-working materials
+status       : done
 when-day     : Thu
 when-time    : PM-1
 location     : Room-6
+room-layout  : unknown
 organizers   : Don Gibson
-participants : 
+participants : Irene Michlin
 ---
 
 Cloud computing services have gained a lot of popularity in both public and business domains. But due to their dynamic nature, many standard security policies and practices cannot be implemented, which makes cloud services vulnerable to different security threats.

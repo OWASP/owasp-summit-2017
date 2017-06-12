@@ -22,6 +22,8 @@ twitter         : botflowking
 ticket          : 5x24h
 regonline       : No
 status          : update-content
+working-sessions : MSTG Book Sprint - Mobile Operating Systems,Top 10 Selection Criteria,Threat Modeling Tools,OWASP Internet of Things Project,Creating AppSec Talent (next 100k professionals),Recruiting AppSec Talent at job fairs,Creating AppSec Teams,Implications of Owasp Top 10 2017,Application Security BSc/Masters Curriculum Design,Software Defined Everything (SDx),Owasp Orizon Reboot, Evaluation/Optimization/Creation of Training Slides, Hackathon - Beyond OWASP Top Ten, Internal Bug Bounties Programmes, Lessons learned from public bug bounties programmes, Threat Modeling IoT Devices, Reverse Engineering APK's with Bytecodeviewer, Machine Learning and Security, MSTG Book Sprint - Reverse Engineering and Cracking
+
 ---
 
 I’ve approached my employer who can give me the time to attend but isn’t going to be able to cover the accomodation cost but will cover travel. 

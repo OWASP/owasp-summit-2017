@@ -6,10 +6,10 @@ track        : CISO
 technology   :
 related-to   :
 status       : final stage
-when-day     : Thu
+when-day     : Tue
 when-time    : AM-1
-location     : Room-4
-organizers   : Dinis Cruz,Ante Gulam
+location     : Room-1
+organizers   : Dinis Cruz,Ante Gulam,Francois Raynaud
 participants :
 ---
 

@@ -2,13 +2,14 @@
 layout       : blocks/working-session
 title        : Hands on Threat Modeling Juice Shop (Deployment & Operations)
 type         : workshop
-track        : Threat Model
+track        : Threat Model,Juice Shop
 technology   :
 related-to   : Juice Shop
 when-day     : Tue
 when-time    : PM-1
-location     : Villa-4
-status       : Improve outcomes; need-working materials
+location     : Room-6
+room-layout  : unknown
+status       : done
 organizers   : Adam Shostack,Bjoern Kimminich
 participants : Steven Wierckx, Robert Hurlbut, Timo Pagel
 invited      :

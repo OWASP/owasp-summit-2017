@@ -3,12 +3,13 @@ layout       : blocks/working-session
 title        : Hands on Threat Modeling Juice Shop (Fixing)
 type         : workshop
 owasp-project: no
-track        : Threat Model
+track        : Threat Model,Juice Shop
 technology   :
 related-to   : Juice Shop
 when-day     : Thu
 when-time    : Eve
 location     : Villa-4
+romm-layout  : cabaret -4
 status       : Improve outcomes; need-working materials
 organizers   : Adam Shostack,Bjoern Kimminich
 participants : Sebastien Deleersnyder, Steven Wierckx, Robert Hurlbut
@@ -44,7 +45,5 @@ Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
-### Content
 
-...add content...
 

@@ -6,11 +6,12 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : definition-of-done
+status       : done
 when-day     : Thu
 when-time    : PM-3
 location     : Room-5
-organizers   :
+room-layout  : square
+organizers   : Ante Gulam
 participants :
 ---
 
@@ -50,7 +51,5 @@ The target audience for this Working Session is:
 - Draft playbook on cross-company hackathons
 - Please add as much information as possible before the sessions
 
-### Content
 
-... Add content ...
 

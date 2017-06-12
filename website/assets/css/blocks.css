@@ -803,7 +803,7 @@
   min-width: 80px;
 }
 .schedule-track .location {
-  font-size: 8px;
+  font-size: 12px;
   font-style: italic;
 }
 .schedule-track .role {
@@ -812,6 +812,10 @@
 }
 .schedule-track .time {
   font-size: 16px;
+}
+.schedule-track .time-hour {
+  font-size: 8px;
+  font-style: italic;
 }
 .schedule-track .invited {
   color: #EEA79C;
@@ -829,6 +833,9 @@
 .schedule {
   background-color: #f9f9f9;
   padding: 10px;
+}
+.schedule .for-print {
+  font-size: 18px   ;
 }
 .schedule .glyphicon-lock {
   color: #ff7b7d;
@@ -1198,10 +1205,6 @@
   height: 50px;
 }
 
-
-
-
-
 body {
   font-family: 'Roboto Slab', serif !important;
   background: url('/website/assets/img/blocks/header-background.png') !important;
@@ -1344,3 +1347,7 @@ body .page-content {
   color: white;
   text-transform: uppercase;
 }
+
+
+
+

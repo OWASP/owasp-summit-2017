@@ -2,13 +2,14 @@
 layout       : blocks/working-session
 title        : Hands on Threat Modeling Juice Shop (Attacking 2)
 type         : workshop
-track        : Threat Model
+track        : Threat Model,Juice Shop
 technology   :
 related-to   : Juice Shop
 when-day     : Wed
 when-time    : Eve
-location     : Villa-4
-status       : Improve outcomes; need-working materials 
+location     : Villa-4
+room-layout  : unknown
+status       : done
 organizers   : Adam Shostack,Bjoern Kimminich
 participants : Dinis Cruz, Sebastien Deleersnyder, Steven Wierckx, Robert Hurlbut
 ---

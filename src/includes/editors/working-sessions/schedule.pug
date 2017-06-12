@@ -45,6 +45,7 @@ mixin actions
             th when-day
             th when-time
             th location
+            th room-layout
             th status
             th
         | {% assign sessions = site.data.mapped.working-sessions %}
@@ -64,11 +65,10 @@ mixin actions
             td.text-center(class="{{ session[1].metadata.when-day  }}") {{ session[1].metadata.when-day }}
             td.text-center(class="{{ session[1].metadata.when-time }}") {{ session[1].metadata.when-time }}
             td.text-center(class="{{ session[1].metadata.location  }}") {{ session[1].metadata.location }}
+            td.text-center(class="{{ session[1].metadata.root-layout  }}") {{ session[1].metadata.room-layout }}
             td.text-center
                 + status
             td
                 a(href="https://github.com/OWASP/owasp-summit-2017/blob/master/{{ session[1].url | replace: '.html', '.md' }}" target='_blank') edit
         | {%    endif %}
         | {% endfor %}
-
-
