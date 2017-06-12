@@ -44,6 +44,17 @@ Associated chapters in the MSTG:
 
 This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
 
+### Synopsis and Takeaways
+
+During the session at the OWASP 2017 summit, many topics were highlighted and debated based upon the MSTG book. Android security was focusing on the operating systems from Kit-Kat to Nougat and how they function. Android application standards were discussed and the defining of such standards needs to be addressed. These standards work best when analysed with a rooted device vs an un-rooted devices as they are able to access the physical phone vs the logical partition of the device.  General testing guides that are non-operating systems specific were addressed and is set to be updated.
+The testing for custom implementations for cryptography for android devices have been discussed in detail and have been highlighted as content to update.
+
+Outcomes:
+- Decision to complete the Android platform overview and revise the testing guide (Special edition OWASP 2017) 
+- Work packages were assigned to key members of the group such as IOS or Android security
+- Highlighted key areas that needed to be updated such as Authentication and Authorization, Cryptography and Testing processes for IOS devices.
+- The referencing of the work is not consistent, so there needs a standardised system in place.
+
 ## How to Join
 
 Follow the "Edit this page here" link at the bottom of this page and add yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions.
