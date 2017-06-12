@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : PM-2
 location     : Room-5
 organizers   : Jason Li
-participants :
+participants : Steven Wierckx
 ---
 
 ## Why
