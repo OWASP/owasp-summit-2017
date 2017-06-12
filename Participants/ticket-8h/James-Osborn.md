@@ -14,7 +14,8 @@ email           : james@james.am
 when-day        : Fri
 ticket          : 1x8h
 status          : empty
-working-sessions: Data behind Owasp Top 10 2017,Testing Guide v5,What Should be Added to the Top 10,JIRA Risk Workflow,Writing Security Tests,OWASP Game Security Framework,Bug Bounty Playbook,DoS Playbook,Due Diligence Playbook
+working-sessions: Data behind Owasp Top 10 2017,Testing Guide v5,What Should be Added to the Top 10,JIRA Risk Workflow,Writing Security Tests,OWASP Game Security Framework,Bug Bounty Playbook,DoS Playbook,Due Diligence Playbook,Top 10 2017 - Process Discussion,Top 10 2017 - Call for Data and Weightings Discussion
+
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
