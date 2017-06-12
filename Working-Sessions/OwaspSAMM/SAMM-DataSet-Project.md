@@ -4,12 +4,13 @@ title        : SAMM - DataSet Project
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes;need-working materials
+status       : done
 when-day     : Wed
 when-time    : AM-1
-location     : Villa-1
-organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Tiffany Long
+location     : Villa-1
+room-layout  : unknown
+organizers   : Brian Glas
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Tiffany Long
 ---
 
 Follow-up of the Benchmark project

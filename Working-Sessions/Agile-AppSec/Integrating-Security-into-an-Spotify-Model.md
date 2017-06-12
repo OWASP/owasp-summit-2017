@@ -10,8 +10,8 @@ status       : need more content
 when-day     : Thu
 when-time    : PM-1
 location     : Room-2
-organizers   :
-participants : Ante Gulam
+organizers   : Ante Gulam
+participants : 
 ---
 
 ## Why

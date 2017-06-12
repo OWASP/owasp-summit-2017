@@ -5,8 +5,14 @@ include ../mixins/working-session.jade
 
 mixin show-track
     | {% if page.track != null %}
+    | {% assign tracks = page.track | split: ',' %}
     b Track: &#32;
-    a(href="/Working-Sessions/{{ page.track | replace: ' ' , '-' }}") {{ page.track }}
+    | {% for track in tracks %}
+    a(href="/Working-Sessions/{{ track | replace: ' ' , '-' }}") {{ track }}
+    |   {% if forloop.last != true %}
+    span ,
+    |   {% endif %}
+    | {% endfor %}
     | {% endif %}
     br
 
@@ -30,6 +36,29 @@ mixin show-location
     b Location: {{ data.metadata.location  }}
     br
 
+mixin show-remote-link
+    | {% assign hangouts = 'https://hangouts.google.com/hangouts/_/owasp.org/' %}
+    | {% if data.metadata.remote %}
+    b Remote link: <a href="{{ data.metadata.remote }}"> join here</a>
+    br
+    | {% else %}
+    | {% case data.metadata.location %}
+    | {% when 'Room-1' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-1"> join here</a>
+    | {% when 'Room-2' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-2"> join here</a>
+    | {% when 'Room-3' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-3"> join here</a>
+    | {% when 'Room-4' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-4"> join here</a>
+    | {% when 'Room-5' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-5"> join here</a>
+    | {% when 'Room-6' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-6"> join here</a>
+    | {% endcase %}
+    br
+    | {% endif                   %}
+
 .working-session
     .container
         h1 {{ page.title }}
@@ -44,6 +73,7 @@ mixin show-location
             + show-when-day
             + show-when-time
             + show-location
+            + show-remote-link
         hr
         | {{ content }}
         + show-related-to

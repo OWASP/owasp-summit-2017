@@ -6,11 +6,12 @@ owasp-project: no
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : add content
-when-day     : Tue
-when-time    : AM-1
+status       : out
+when-day     : 
+when-time    : 
 location     : Room-2
-organizers   : Dave Wichers, Johanna Curiel, Claudia Cassanovas
+remote-link  : INSERT-LINK
+organizers   : Dave Wichers
 participants : Johan Peeters
 ---
 

@@ -6,12 +6,13 @@ owasp-project: no
 track        : DevSecOps
 technology   : TDD
 related-to   : Testing Guide v5
-status       : need-more content
+status       : done
 when-day     : Wed
 when-time    : PM-2
-location     : Room-1
-organizers   : Dinis Cruz
-participants : Robert Morschel,Avi Douglen,Timo Pagel,Johan Peeters
+location     : Room-1
+room-layout  : unknown
+organizers   : Dinis Cruz
+participants : Robert Morschel,Timo Pagel,Johan Peeters
 invited      : Nanne Baars
 ---
 

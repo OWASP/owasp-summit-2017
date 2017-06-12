@@ -27,6 +27,7 @@
     <tr>
       <td class="text-center">
         <div class="time">{{ time }}</div>
+        <div class="time-hour">{{ site.data.times[time] }}</div>
       </td>{% for day in days %}
         {% assign working-sessions = site.data.mapped.schedule.by_Participant[participant][time][day]  %}
       <td>{% if working-sessions == null        %}
@@ -35,7 +36,7 @@
         <div class="session-name">{% for working-session in working-sessions      %}<a href="{{working-session.url}}">{{ working-session.name }}</a>{% if working-session .locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}
           {% if working-session.status == 'draft' %}<span class="glyphicon glyphicon-warning-sign"></span>{% endif %}
           <div class="role {{ working-session.role }}">   {{ working-session.role }}</div>
-          <div class="location">{{ working-session.location }}</div>{% endfor %}
+          <div class="location">{{ site.data.venue[working-session.location].name }}</div>{% endfor %}
         </div>
       </td>  {% endfor %}
     </tr>  {% endif %}

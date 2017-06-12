@@ -6,12 +6,13 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   :
-status       : need working materials
+status       : done
 when-day     : Tue
 when-time    : PM-3
-location     : Room-5
-organizers   :
-participants :
+location     : Room-5
+room-layout  : square
+organizers   : Ante Gulam
+participants : Dinis Cruz, Francois Raynaud
 ---
 
 Given the current skills shortage in all fields of security, it is essential that we maximise resources and opportunities for

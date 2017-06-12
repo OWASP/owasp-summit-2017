@@ -2,11 +2,11 @@
 layout      : blocks/working-session
 title       : Best practices in using SAST, DAST, IAST and RASP Tools
 type        : workshop
-track       : Tools
+track       : DevSecOps
 technology  : SAST
 status      : final stage; need-working materials
 organizers  :
-participants: Marc Rimbau,Felipe Zipitria,Avi Douglen, Timo Pagel
+participants: Marc Rimbau,Felipe Zipitria,Avi Douglen, Timo Pagel,Francois Raynaud, Fabien Thalgott, Nessim Kisserli
 related-to  : Integrating Security Tools in the SDL, Securing the CI Pipeline
 ---
 
@@ -46,6 +46,3 @@ The target audience for this Working Session is:
 - Draft recommendations for writing specific tests
 (please add as much information as possible before the sessions)
 
-### Content
-
-...add content...

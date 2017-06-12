@@ -5,12 +5,13 @@ type        : workshop
 track       : Threat Model
 related-to  : Cheat Sheets, Templates, Tools
 description : OWASP Threat Modeling Pages provide global AppSec professionals and companies worldwide with a central reference point to OWASP project, tools, and references that are related to Application Threat Modeling. These pages will provide as a gateway for threat modelers to leverage OWASP threat modeling content as well as other OWASP content and tools that support application threat modeling objectives.
-status      : final stage; need-working materials
+status      : done
 when-day    : Wed
 when-time   : AM-1
 location    : Room-6
+room-layout : unknown
 organizers  : Tony UV
-participants: Avi Douglen
+participants: Avi Douglen, Robert Hurlbut
 ---
 
 The [OWASP Threat Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling) pages provide a global representation of application threat modelling content for security professionals worldwide, but the repository is disorganised and some information is incorrect.  This Working Session provides an opportunity to unify OWASP's application threat modelling content that can be vetted by OWASP security professionals worldwide. The pages also provide a way to correlate application security tools, references, and projects with application threat modelling activities.  Tools and references such as cheat sheets, coding guides, and risk models can also correlate to threat modelling activities managed by these pages.  

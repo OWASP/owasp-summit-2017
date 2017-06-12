@@ -5,12 +5,12 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : need-working materials
+status       : mereged with Playbooks Common Format
 when-day     : Mon
 when-time    : PM-3
 location     : Room-5
 organizers   :
-participants : Tiffany Long
+participants : Tiffany Long, Jonas Vanalderweireldt
 ---
 
 A [Playbook](https://en.wikipedia.org/wiki/Playbook) can be
@@ -55,4 +55,17 @@ Here are the current 'work in progress' materials for this session
 
 ### Content
 
-...add content...
+#### 1. Introduction and purpose
+
+
+#### 2. Executive summary
+
+
+#### 3. Playbook (template table)
+
+
+#### 4. Global glossary
+
+
+#### 5. Conclusion
+

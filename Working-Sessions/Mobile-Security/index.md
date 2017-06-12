@@ -6,7 +6,7 @@ technology  : Mobile
 status      : featured
 description : Working Sessions related to Mobile Security
 organizers  : Bernhard Mueller,Sven Schleier
-participants: Denis Pilipchuk , Naushad , Bolot Kerimbaev , Jeroen Willemsen , Marc Rimbau , Kuai Hinojosa, Ade Yoseman Putra
+participants: Denis Pilipchuk , Naushad , Bolot Kerimbaev , Jeroen Willemsen , Marc Rimbau , Kuai Hinojosa, Ade Yoseman Putra, Carlos Holguera
 ---
 
 ## Summary

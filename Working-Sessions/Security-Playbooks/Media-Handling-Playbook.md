@@ -5,11 +5,12 @@ type         : workshop
 track        : Security Playbooks
 technology   : GDPR
 related-to   :
-status       : final stage; need-working materials
+status       : done
 when-day     : Wed
 when-time    : PM-2
-location     : Room-5
-organizers   :
+location     : Room-5
+room-layout  : cabaret
+organizers   :
 participants : Tiffany Long
 ---
 

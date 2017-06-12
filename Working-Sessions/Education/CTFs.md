@@ -10,12 +10,10 @@ status         : need more content
 when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-1
-organizers     :
-participants   : Tiffany Long
+organizers     : Steven Van Der Baan
+participants   : Tiffany Long, Jonas Vanalderweireldt, Danny Grander, Fabien Thalgott
 ---
 
-> :triangular_flag_on_post: TODO: Add fancy sales pitch for
-> Capture-the-flag (CTF)
 
 ## Why
 
@@ -55,6 +53,3 @@ The target audience for this Working Session is:
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 
-### Content
-
-... Add content ...

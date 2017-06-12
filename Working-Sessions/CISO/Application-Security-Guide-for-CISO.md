@@ -11,7 +11,7 @@ when-day     : Wed
 when-time    : PM-2
 location     : Room-4
 organizers   : Marco Morana
-participants : Don Gibson, Ingo Hanke, Avi Douglen, Yan Kravchenko, Robert Morschel, Ante Gulam
+participants : Don Gibson, Ingo Hanke, Yan Kravchenko, Ante Gulam
 ---
 
 [https://www.owasp.org/index.php/Application_Security_Guide_For_CISOs](http://owaspsummit.org/Working-Sessions/CISO/Application-Security-Guide-for-CISO.html)
@@ -54,6 +54,3 @@ The target audience for this Working Session is:
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 
-### Content
-
-...add content...

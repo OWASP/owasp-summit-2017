@@ -5,12 +5,13 @@ type         : workshop
 track        : Security Playbooks
 technology   :
 related-to   :
-status       : final stage; need-working materials
+status       : done
 when-day     : Fri
 when-time    : AM-1
 location     : Room-5
-organizers   :
-participants :
+room-layout  : cabaret
+organizers   : Devesh Bhatt
+participants : Jonas Vanalderweireldt
 ---
 
 ## Why
@@ -47,7 +48,5 @@ The target audience for this Working Session is:
 
 (please add as much information as possible before the sessions)
 
-### Content
 
-...add content...
 

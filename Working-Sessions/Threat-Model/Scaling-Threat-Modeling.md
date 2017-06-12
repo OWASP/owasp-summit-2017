@@ -5,12 +5,13 @@ type         : workshop
 track        : Threat Model
 technology   :
 related-to   :
-status       : final stage; need-working materials
+status       : done
 when-day     : Wed
 when-time    : PM-2
-location     : Room-6
+location     : Villa-4
+room-layout  : unknown
 organizers   :
-participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström
+participants : Robert Hurlbut, Irene Michlin, Mamta Vuppu, Viktor Lindström, Steven Wierckx
 ---
 
 This Working Session will explore scaling threat modelling in enterprise.

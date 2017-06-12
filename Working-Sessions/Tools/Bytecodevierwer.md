@@ -8,8 +8,8 @@ when-day     : Thu
 when-time    : PM-3
 location     : Room-2
 status       : need-outcomes; need-working materials
-organizers   : Johanna Curiel
-participants :
+organizers   : 
+participants : Don Gibson
 ---
 
 Category: Mobile Penetration Testing (Android)

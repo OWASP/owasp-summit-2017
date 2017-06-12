@@ -4,12 +4,13 @@ title        : SAMM - V2 Ground Rules
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes; need working materials
+status       : done
 when-day     : Mon
 when-time    : PM-1
 location     : Room-3
+room-layout  : unknown
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Irene Michlin, Fabien Thalgott
 ---
 
 Set the goals for this week.

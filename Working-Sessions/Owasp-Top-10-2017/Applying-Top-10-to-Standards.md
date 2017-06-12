@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   : PCI
 related-to   :
-status       : final stage; add content
+status       : draft
 organizers   :
 participants :
 ---
@@ -42,8 +42,8 @@ The target audience for this Working Session is:
 
 - Draft list of standards that use OWASP Top 10
 - Draft guidelines for using OWASP Top 10 2017
-- raft roadmap to encourage current Top 10 users to update to OWASP Top 10 2017
-(please add as much information as possible before the sessions)
+- Draft roadmap to encourage current Top 10 users to update to OWASP Top 10 2017
+- Please add as much information as possible before the sessions
 
 ### Content
 

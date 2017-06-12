@@ -3,12 +3,12 @@ layout       : blocks/working-session
 title        : NextGen Security Scanners
 type         : workshop
 track        : Tools
-status       : final stage; need-working materials
+status       : final stage; need-working materials; need to be reviewed content
 when-day     : Thu
 when-time    : PM-2
 location     : Room-5
-organizers   :
-participants : Johan Peeters
+organizers   : Gabor Pek
+participants : Johan Peeters, Ingo Hanke, Mateo Martinez
 invited      : Simon Bennetts
 ---
 
@@ -26,6 +26,8 @@ Today's security scanners were built for yesterday's web applications, based on 
 
 ## Outcomes
 
+- A public document with "What a next generation security scanner needs?
+- A concrete plan to include those requirements into ZAP
 - OWASP ZAP extensions for JavaScript client-side code analysis
 - Improvements of OWASP ZAP Ajax Spider
 - Additional vulnerabilities for OWASP Juice Shop that showcase vulnerabilities found in the wild
@@ -39,14 +41,18 @@ The target audience for this Working Session is:
 - JavaScript frontend developers
 - Web application developers
 
---- 
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+Based on ZAP characteristics and new OWASP Top 10 risks we need to discuss what else is required to consider as scanner as a next generation security scanner.
 
 ### Content
 
-...add content...
+- Security Scanners
+- ZAP review
+- Next Generation Security Scanners needs
+- Juice Shop
+- OWASP Top 10 2017
+- ZAP Plugis
 
 
