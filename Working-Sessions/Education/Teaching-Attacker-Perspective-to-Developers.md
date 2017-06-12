@@ -9,9 +9,9 @@ related-to     : Juice Shop,NodeGoat,Webgoat
 status         : final stage 
 when-day       : Thu
 when-time      : AM-1
-location       : Villa-5
+location       : Room-4
 organizers     : Bjoern Kimminich
-participants   : Timo Pagel, Stuart Gunter, Tiffany Long, Phil Parker,Francois Raynaud, Irene Michlin
+participants   : Timo Pagel, Stuart Gunter, Tiffany Long, Phil Parker,Francois Raynaud, Irene Michlin, Steven van der Baan
 ---
 
 > _Learning by doing_ is a quite successful education concept. Although

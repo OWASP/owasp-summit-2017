@@ -1,10 +1,13 @@
 available-lodges:
+
+
   pre-summit:
     - 'OK314'
     - 'OK315'
     - 'TBD'
+    
+  
   summit: ['OK413','OK414','OK415','OK416','OK426','OK427','OK428','OK309','OK310','OK312','OK313','OK314','OK315','OK316','OK319','OK320','OK321']
-
 
 pre-summit:
 
@@ -32,9 +35,9 @@ pre-summit:
       - Nuno Loureiro
       - Tiago Mendo
       - Tech Writer 2
-
+ 
 with-sessions:
-  OK309:
+  OK311:
     name: OwaspSamm Villa
     users:
       - Sebastien Deleersnyder
@@ -51,8 +54,8 @@ with-sessions:
       - Carlos Holguera
       - Alexander Antukh
       - Robert Morschel
-      - Enrico Verzegnassi (new)
-  'OK312':
+      - Enrico Verzegnassi
+  'OK314':
     name: DevSecCon Villa
     users:
       - Francois Raynaud,Lisa Raynaud (db)
@@ -61,7 +64,7 @@ with-sessions:
       - Phil Parker
       - Steven van der Baan
       - Peleus Uhley
-  'OK313':
+  'OK312':
     name: Threat Model Villa
     users:
       - Jason Li
@@ -70,7 +73,7 @@ with-sessions:
       - Felipe Zipitria
       - Steven Wierckx
       - Stephen de Vries
-  'OK314':
+  'OK313':
     name: Juice Shop Villa
     users:
       - Bjoern Kimminich
@@ -84,7 +87,7 @@ with-sessions:
     users:
       - Matteo Meucci (db)
       - Devesh Bhatt, Nikita Garia (db)
-      - Mateo Martinez
+      - Tiffany Long
       - Tiago Mendo
       - Nuno Loureiro
       - Josh Armour
@@ -133,7 +136,7 @@ quiet-lodges:
       - Chris Cooper
       - Daniela Cruzes
       - Amani Altarawneh
-      - Tiffany Long
+      - Mateo Martinez
       - Helen Bravo
   'OK414':
     name: Quiet 2 (5x24)
@@ -170,7 +173,7 @@ quiet-lodges:
      - Johan Peeters
      - Erez Yalon
      - Barracuda 3 (3x24)
-     - 6
+     - Daniel Miessler
   'OK427':
 
     name: Quiet 6 (2x24)

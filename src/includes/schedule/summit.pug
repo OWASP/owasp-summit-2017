@@ -1,3 +1,8 @@
+mixin show-remote-link
+  | {% if session.remote != '' %}
+  .track-info Remote link : <a href="{{ session.remote }}"> join here</a>
+  | {% endif                           %}
+
 mixin show-session-at-time
     | {% for session in day_Data[time]              %}
     | {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
@@ -8,6 +13,7 @@ mixin show-session-at-time
         | {% endif             %}
     .track-info {{ time}} : {{ session.track }}
     .track-info Room layout : {{ session.layout }}
+    + show-remote-link
     | {% endfor                                     %}
 
 mixin show-room-day
@@ -48,6 +54,17 @@ mixin show-room
     .schedule
         h3 {{ page.title }}
 
+        .container
+            img(style='width:500px' src='https://user-images.githubusercontent.com/23117184/27015471-7a639320-4f0e-11e7-8a84-92c8bec861ba.png')
+
+            //img(style='width:300px' src='https://user-images.githubusercontent.com/656739/26856583-753c5fda-4b1c-11e7-9012-7c4c353b7c15.png')
+            //img(style='width:300px' src='https://user-images.githubusercontent.com/656739/26856589-8001c23e-4b1c-11e7-8335-afc6e6fd1c5f.png')
+
+            | {{ content }}
+
+
+        h3 Full Schedule
+
         p Here is the full Summit schedule (for alternative views of this schedule see links below)
 
         .alert.alert-success
@@ -78,9 +95,3 @@ mixin show-room
             tr
                 + show-room
             | {% endfor %}
-
-    .container
-        img(style='width:300px' src='https://user-images.githubusercontent.com/656739/26856583-753c5fda-4b1c-11e7-9012-7c4c353b7c15.png')
-        img(style='width:300px' src='https://user-images.githubusercontent.com/656739/26856589-8001c23e-4b1c-11e7-8335-afc6e6fd1c5f.png')
-
-        | {{ content }}

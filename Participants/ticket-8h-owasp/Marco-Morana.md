@@ -22,6 +22,6 @@ chapter-leader  :
 owasp-other     :
 status          : done
 ticket          : 5x8h
-working-sessions: Threat Model,CISO Survey
+working-sessions : MSTG Book Sprint - Mobile Operating Systems, GDPR and DPO AppSec implications, Threat Modeling Tools, Playbooks vs Handbooks, Threat Modeling Diagramming Techniques
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

@@ -5,7 +5,7 @@ type            : participant
 job-title       : Application Security Consultant
 company         : Toreon
 travel-from     : Belgium
-image           :
+image           : https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAf1AAAAJGMxYTE5NGQ0LTQ3ZTctNGE2Ni05MGZhLTQ0NTllNzhmZTA0Mg.jpg
 linkedin        :
 twitter          :
 facebook        :

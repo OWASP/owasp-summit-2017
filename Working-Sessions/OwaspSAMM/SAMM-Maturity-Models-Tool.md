@@ -11,7 +11,7 @@ when-time     : PM-1
 location      : Room-4
 room-layout   : unknown
 organizers    : Dinis Cruz
-participants  : Sebastien Deleersnyder, Yan Kravchenko,Irene Michlin, Viktor Lindstrom, Phil Parker
+participants  : Sebastien Deleersnyder, Yan Kravchenko,Irene Michlin, Viktor Lindstrom, Phil Parker, Mateo Martinez
 ---
 
 See https://github.com/owasp/Maturity-Models for more details on this project
@@ -23,7 +23,11 @@ See https://github.com/owasp/Maturity-Models for more details on this project
  
 ## Outcomes
 
-...add content...
+- Maturity Model Tool Cheatsheet
+- Presentation
+- Demo
+- Video
+
 
 ## Who
 
@@ -34,7 +38,6 @@ The target audience for this Working Session is:
 - DevOps Roles
 - CISOs
 
---- 
 
 ## Working materials
 
@@ -44,5 +47,6 @@ Here are the current 'work in progress' materials for this session
 
 ### Content
 
-...add content...
+- Review current used tools for Maturity Model
+- Review current OpenSAMM status and requirements
 

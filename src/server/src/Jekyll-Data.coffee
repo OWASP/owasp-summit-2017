@@ -81,6 +81,7 @@ class Jekyll_Data
       times        = data.metadata['when-time']    || 'no-time'
       locations    = data.metadata['location' ]    || 'no-location'
       layout       = data.metadata['room-layout' ] || 'unknown'
+      remote       = data.metadata['remote' ]      || ''
       tracks       = data.metadata.track           || 'no-track'
       locked       = data.metadata.locked          || false
       status       = data.metadata.status          || ''
@@ -97,17 +98,17 @@ class Jekyll_Data
               schedule.by_Room[day]                  ?= {}
               schedule.by_Room[day][location]        ?= {}
               schedule.by_Room[day][location][time]  ?= []
-              schedule.by_Room[day][location][time].add name: name, url: data.url , track : track       , layout: layout, locked: locked
+              schedule.by_Room[day][location][time].add name: name, url: data.url , track : track       , layout: layout, remote: remote, locked: locked
 
               schedule.by_Track[day]                 ?= {}
               schedule.by_Track[day][track]          ?= {}
               schedule.by_Track[day][track][time]    ?= []
-              schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , layout: layout, locked: locked
+              schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , layout: layout, remote: remote, locked: locked
 
               schedule.by_Time[time]                 ?= {}
               schedule.by_Time[time][track]          ?= {}
               schedule.by_Time[time][track][day]     ?= []
-              schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , layout: layout, locked: locked, status: status
+              schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , layout: layout, remote: remote, locked: locked, status: status
 
               map_User = (user,role)->
                 schedule.by_Participant[user]             ?= {}
