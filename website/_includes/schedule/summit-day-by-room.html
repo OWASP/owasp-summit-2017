@@ -1,58 +1,54 @@
 
 <div class="page-content">
   <div class="schedule">
-    <h3>{{ page.title }}</h3>
-    <hr/>
-    <ul><b>
-        Daily Schedule: &#32;&#32;&#32;
-        {% assign day_Text = 'Monday' %}
-        {% assign day_Key  = 'Mon'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span>{% assign day_Text = 'Tuesday' %}
-        {% assign day_Key  = 'Tue'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span>{% assign day_Text = 'Wednesday' %}
-        {% assign day_Key  = 'Wed'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span>{% assign day_Text = 'Thursday' %}
-        {% assign day_Key  = 'Thu'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span>{% assign day_Text = 'Friday' %}
-        {% assign day_Key  = 'Fri'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span></b><br/><br/><span>See &#32;</span><a href="/pages/schedule/summit-schedule.html">Full Schedule</a><span>&#32;|&#32;See Sessions &#32;</span><a href="/pages/schedule/by-room/Mon.html">by Room</a><span>&#32;|&#32;</span><a href="/pages/schedule/by-track/Mon.html">by Track</a>
-      <!--b Daily Schedule: &#32;&#32;&#32;-->
-      <!--a(href='./Mon.html'   ) Monday-->
-      <!--span &#32;|&#32;-->
-      <!--a(href='./Tue.html'  ) Tuesday-->
-      <!--span &#32;|&#32;-->
-      <!--a(href='./Wed.html') Wednesday-->
-      <!--span &#32;|&#32;-->
-      <!--a(href='./Thu.html' ) Thursday-->
-      <!--span &#32;|&#32;-->
-      <!--a(href='./Fri.html'   ) Friday-->
-      <!--span &#32;|&#32;Back to &#32;-->
-      <!--a(href='/pages/schedule') Schedule list-->
-    </ul>
-    <hr/>
+    <div class="visible-print-block"><img style="width:200px" src="/website/assets/img/blocks/logo-small.png" alt="owasp summit small logo"/></div>
+    <div class="visible-print-block">
+      <h1>{{ page.title }}</h1>
+    </div>
+    <div class="hidden-print">
+      <h3>{{ page.title }}</h3>
+    </div>
+    <hr class="hidden-print"/>
+    <div class="hidden-print">
+      <ul><b>
+          Daily Schedule: &#32;&#32;&#32;
+          {% assign day_Text = 'Monday' %}
+          {% assign day_Key  = 'Mon'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span>{% assign day_Text = 'Tuesday' %}
+          {% assign day_Key  = 'Tue'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span>{% assign day_Text = 'Wednesday' %}
+          {% assign day_Key  = 'Wed'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span>{% assign day_Text = 'Thursday' %}
+          {% assign day_Key  = 'Thu'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span>{% assign day_Text = 'Friday' %}
+          {% assign day_Key  = 'Fri'     %}{% if page.day == day_Key %}<span class="day_Title">{{ day_Text }}</span>{% else %}<a href="./{{ day_Key }}.html">{{ day_Text }}</a>{% endif %}<span>&#32;|&#32;</span></b><br/><br/><span>See &#32;</span><a href="/pages/schedule/summit-schedule.html">Full Schedule</a><span>&#32;|&#32;See Sessions &#32;</span><a href="/pages/schedule/by-room/Mon.html">by Room</a><span>&#32;|&#32;</span><a href="/pages/schedule/by-track/Mon.html">by Track</a>
+      </ul>
+    </div>
+    <hr class="hidden-print"/>
     <table class="table">
       <thead>
         <th class="text-center"><b>location</b></th>
         <th class="text-center">
           <h4>AM 1</h4>
-          <div class="day-time">10:00 to 12:00</div>
+          <div class="day-time">10:30 to 12:30 (2h)</div>
         </th>
         <th class="text-center">
           <h4>PM 1</h4>
-          <div class="day-time">13:00 to 14:30</div>
+          <div class="day-time">13:30 to 15:00 (1.5h)</div>
         </th>
         <th class="text-center">
           <h4>PM 2</h4>
-          <div class="day-time">14:30 to 15:40</div>
+          <div class="day-time">15:30 to 16:40 (1h)</div>
         </th>
         <th class="text-center">
           <h4>PM 3</h4>
-          <div class="day-time">16:00 to 17:30</div>
+          <div class="day-time">16:30 to 17:30 (1h)</div>
         </th>
         <th class="text-center">
           <h4>Evening</h4>
-          <div class="day-time">20:00 to 23:59</div>
+          <div class="day-time">20:30 to 23:59 (3.5h)</div>
         </th>
         <!--th.text-center
         h4 (no-time)
         
         -->
-      </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-3,Villa-4,Villa-5,no-location' | split: ',' %}
+      </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3' | split: ',' %}
       {% for room in locations %}
       <tr>{% assign day_Data = site.data.mapped.schedule.by_Room[page.day][room] %}
         <td class="text-center">
@@ -60,34 +56,40 @@
           <div class="room-key">{{ room }}</div>
         </td>
         <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
+          <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>
+          <div class="hidden-print"><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
           <div class="track-info">{{ session.track }}</div>
-          <div class="track-info">Room layout: {{ session.layout }}</div>{% endfor                                     %}
+          <!--.track-info Room layout: {{ session.layout }}-->{% endfor                                     %}
         </td>
         <td>{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
+          <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>
+          <div class="hidden-print"><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
           <div class="track-info">{{ session.track }}</div>
-          <div class="track-info">Room layout: {{ session.layout }}</div>{% endfor                                     %}
+          <!--.track-info Room layout: {{ session.layout }}-->{% endfor                                     %}
         </td>
         <td>{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
+          <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>
+          <div class="hidden-print"><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
           <div class="track-info">{{ session.track }}</div>
-          <div class="track-info">Room layout: {{ session.layout }}</div>{% endfor                                     %}
+          <!--.track-info Room layout: {{ session.layout }}-->{% endfor                                     %}
         </td>
         <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
+          <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>
+          <div class="hidden-print"><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
           <div class="track-info">{{ session.track }}</div>
-          <div class="track-info">Room layout: {{ session.layout }}</div>{% endfor                                     %}
+          <!--.track-info Room layout: {{ session.layout }}-->{% endfor                                     %}
         </td>
         <td>{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
+          <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>
+          <div class="hidden-print"><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
           <div class="track-info">{{ session.track }}</div>
-          <div class="track-info">Room layout: {{ session.layout }}</div>{% endfor                                     %}
+          <!--.track-info Room layout: {{ session.layout }}-->{% endfor                                     %}
         </td>
         <td>{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
-          <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
+          <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>
+          <div class="hidden-print"><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
           <div class="track-info">{{ session.track }}</div>
-          <div class="track-info">Room layout: {{ session.layout }}</div>{% endfor                                     %}
+          <!--.track-info Room layout: {{ session.layout }}-->{% endfor                                     %}
         </td>
       </tr>{% endfor %}
     </table>

@@ -16,7 +16,8 @@ mixin show-day
         span.glyphicon.glyphicon-warning-sign
         | {% endif %}
         .role(class="{{ working-session.role }}")    {{ working-session.role }}
-        .location {{ working-session.location }}
+        .location {{ site.data.venue[working-session.location].name }}
+
         | {% endfor %}
 
 
@@ -45,6 +46,7 @@ mixin show-day
         tr
             td.text-center
                 .time {{ time }}
+                .time-hour {{ site.data.times[time] }}
             | {% for day in days %}
             |   {% assign working-sessions = site.data.mapped.schedule.by_Participant[participant][time][day]  %}
             td
