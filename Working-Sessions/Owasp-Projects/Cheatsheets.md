@@ -6,7 +6,7 @@ track        : Owasp Projects
 when-day     : Tue
 when-time    : PM-3
 location     : Room-1
-status       : Final stage; missing working materials
+status       : done
 organizers   :
 participants : Johan Peeters, Don Gibson, Jonas Vanalderweireldt, Steven van der Baan
 ---
@@ -43,7 +43,7 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-- Draft OWASP Cheat Sheets (please add as much information as possible before the sessions)
+- [Draft OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
 
 ### Content
 
