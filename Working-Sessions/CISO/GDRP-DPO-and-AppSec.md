@@ -11,7 +11,7 @@ when-time    : PM-1
 location     : Room-6
 room-layout  : cabaret 
 organizers   : Anders Reeves
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel,Neil Barlow,Bjoern Kimminich
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel,Neil Barlow,Bjoern Kimminich, Steven van der Baan
 invited      : Kevin Fielder, Dilek Koluman, Clare Creeden
 ---
 
