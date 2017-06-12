@@ -22,6 +22,7 @@ twitter         : botflowking
 ticket          : 5x24h
 regonline       : No
 status          : update-content
+working-sessions: 
 ---
 
 I’ve approached my employer who can give me the time to attend but isn’t going to be able to cover the accomodation cost but will cover travel. 
