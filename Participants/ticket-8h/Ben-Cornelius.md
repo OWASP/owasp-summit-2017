@@ -4,18 +4,19 @@ title           : Ben Cornelius
 type            : participant
 job-title       : DevSecOps Engineer
 company         : ThoughtWorks
-travel-from     :
+travel-from     : London
 image           :
-linkedin        :
-twitter          :
+linkedin        : https://www.linkedin.com/in/ben-cornelius-1a086b42/
+twitter         : @cornaholic
 facebook        :
 website         :
-email           :
+email           : bcorneli@thoughtworks.com
 project-leader  :
 chapter-leader  :
 ticket          : 5x8h
 status          : empty
-working-sessions:
+working-sessions:Threat Modeling Diagramming Techniques, 	
+GDPR and DPO AppSec implications, Security Guild vs Security Champions, Top 10 2017 - Process Discussion
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
