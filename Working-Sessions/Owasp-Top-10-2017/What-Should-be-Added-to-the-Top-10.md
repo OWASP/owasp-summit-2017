@@ -5,17 +5,17 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   : OWASP Proactive Controls
-status       : need working material; need content 
-when-day     : Tue
-when-time    : PM-2
-location     : Room-2
+status       : out
+when-day     : 
+when-time    : 
+location     : 
 organizers   : Andrew Ven Der Stock
-participants : Katy Anton, Jonas Vanalderweireldt
+participants : Katy Anton, Jonas Vanalderweireldt, Mateo Martinez
 ---
 
 ## Why
 
-There are many opinions about the existing Top 10 categories. This Working Session will allow participants to present data and supporting information on what the different categories should include.
+There are many opinions about the existing Top 10 categories. This Working Session will allow participants to present data and supporting information on what the different categories should include and sections to the document which will help on the understanding and solving.
 
 ## What
 
@@ -24,7 +24,7 @@ There are many opinions about the existing Top 10 categories. This Working Sessi
 
 ## Outcomes
 
-- Agreed list of OWASP Top 10 2017 categories
+- Agreed list of OWASP Top 10 2017 categories and sections
 
 ## Who
 
@@ -51,4 +51,4 @@ Long list of potential categories for inclusion in OWASP Top 10 2017 categories
 
 ### Content
 
-... Add content ...
+Is there any other content needed? Government? Industry? Chapter Leaders? Deveoplers?

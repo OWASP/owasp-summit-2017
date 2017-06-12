@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : PM-2
 location     : Room-5
 organizers   : Jason Li
-participants :
+participants : Steven Wierckx
 ---
 
 ## Why
@@ -36,7 +36,7 @@ Threat Connect also looks interesting:
 
  - Create and publish multiple Security Playbooks Diagrams
  
-## Outcome
+## Outcomes
 
 - Diagrams of Security Playbooks published
 
@@ -60,8 +60,22 @@ Threat Connect also looks interesting:
 
 Here are the current 'work in progress' materials for this session 
 
-(please add as much information as possible before the sessions)
-
 ### Content
 
-...add content...
+#### 1. Introduction and purpose
+
+
+#### 2. Executive summary
+
+
+#### 3. Playbook (template table)
+
+
+#### 4. Global glossary
+
+
+#### 5. Conclusion
+
+
+
+

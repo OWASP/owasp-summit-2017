@@ -25,15 +25,18 @@ This session will allow attendees to:
 
 ## Outcomes
 
-...Add text...
+- Cheatsheet
+- Top 10 2017 risks examples with ZAP
+- ZAP Free Training Plan
 
 ## Who
 
 The target audience for this Working Session is:
 
-...Add text...
-
---- 
+- ZAP Users
+- Vulnerable App Leaders 
+- Consultants
+- Developers
 
 ## Working materials
 
@@ -41,4 +44,4 @@ Here are the current 'work in progress' materials for this session (please add a
 
 ### Content
 
-...add content...
+ZAP is one of the awesome OWASP Tools. We need to create more material in order to spread the word and to create more cheatsheets and technical material about ZAP.

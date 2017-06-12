@@ -5,10 +5,11 @@ type         : workshop
 owasp-project: no
 technology   : IoT
 track        : Threat Model
-status       : final stage; need-working materials
+status       : done
 when-day     : Thu
 when-time    : PM-2,PM-3
 location     : Room-6
+room-layout  : unknown
 organizers   :
 participants : 
 ---

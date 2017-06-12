@@ -29,19 +29,19 @@ Room-6:
   size: 30
 
 Villa-1:
-  name: OwaspSamm Villa
+  name: OwaspSamm Villa (OK309)
 
 Villa-2:
-  name: Mobile Project Villa
+  name: Mobile Project Villa (OK310)
 
 Villa-3:
-  name: DevSecCon Villa
+  name: DevSecCon Villa (OK314)
 
 Villa-4:
-  name: Threat Model Villa
+  name: Threat Model Villa (OK312)
 
 Villa-5:
-  name: Juice Shop Villa
+  name: Juice Shop Villa (OK313)
 
 Villa-6:
   name: Testing Guide Villa

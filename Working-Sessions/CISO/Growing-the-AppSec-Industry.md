@@ -7,7 +7,7 @@ track        : CISO
 technology   :
 related-to   : Cyber Insurance,Education
 status       : needs more content
-when-day     : Mon
+when-day     : Wed
 when-time    : PM-2
 location     : Room-4
 organizers   : Yan Kravchenko

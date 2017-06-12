@@ -6,7 +6,7 @@ track        : Owasp
 status       : need working material
 when-day     : 
 organizers   : Avi Douglen
-participants :
+participants : Mateo Martinez
 ---
 
 The joint purpose of the OWASP Chapter Handbook and the OWASP Chapter Leader Handbook is to provide chapter leaders with a central repository of information about starting a chapter, organising a chapter meeting, handling chapter finances, etc.   
@@ -30,7 +30,11 @@ This Working Session will discuss and agree on any open issues. The session will
 - One-page cheat sheets for:
     - chapter leaders 
     - new leaders 
+    - Creating an OWASP Account
+    - Wiki FAQ
+    - Scheduling a new event
     - creating a new chapter
+    - Reimbursment process
 - All outcomes are not final, and will serve as input for Foundation
 
 ## Who
@@ -59,5 +63,5 @@ The target audience for this Working Session is:
 
 ### Content
 
-... Add content ...
+There are some aspects to be reviewed like Inactive Chapters, frozen funds, etc.
 

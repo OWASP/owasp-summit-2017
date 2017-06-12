@@ -6,7 +6,7 @@ track        : Security Playbooks
 technology   : Jira
 related-to   :
 status       : final stage; need-working materials
-when-day     : Mon
+when-day     : Wed
 when-time    : PM-2
 location     : Room-5
 organizers   :
@@ -49,4 +49,12 @@ The target audience for this Working Session is:
 
 ### Content
 
-...add content...
+#### 1. Introduction and purpose
+
+#### 2. Executive summary
+
+#### 3. Playbook (template table)
+
+#### 4. Global glossary
+
+5. Conclusion

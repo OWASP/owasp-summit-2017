@@ -6,7 +6,7 @@ track       : DevSecOps
 technology  : SAST
 status      : final stage; need-working materials
 organizers  :
-participants: Marc Rimbau,Felipe Zipitria,Avi Douglen, Timo Pagel,Francois Raynaud, Fabien Thalgott
+participants: Marc Rimbau,Felipe Zipitria,Avi Douglen, Timo Pagel,Francois Raynaud, Fabien Thalgott, Nessim Kisserli
 related-to  : Integrating Security Tools in the SDL, Securing the CI Pipeline
 ---
 

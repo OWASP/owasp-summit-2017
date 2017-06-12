@@ -6,7 +6,7 @@ owasp-project: no
 track        : Research
 technology   :
 related-to   : Threat Model
-status       : need working material
+status       : draft
 when-day     : Wed
 when-time    : Eve
 location     : Villa-3

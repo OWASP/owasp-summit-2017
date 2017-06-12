@@ -5,7 +5,7 @@ type         : workshop
 track        : Owasp
 status       : Final stage
 description  : The OWASP GitHub organization hosts some of the foundation's greatest projects. Unfortunately there is lots of rubble obstructing access to them.
-when-day     : Mon
+when-day     : Wed
 when-time    : PM-2
 location     : Room-3
 organizers   : Bjoern Kimminich

@@ -52,6 +52,4 @@ For more details, more ideas etc. contact https://github.com/OWASP/owasp-summit-
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 
-### Content
 
-...add content...

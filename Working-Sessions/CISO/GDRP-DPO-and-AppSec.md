@@ -8,11 +8,11 @@ related-to   :
 status       : done
 when-day     : Mon,Thu
 when-time    : PM-1
-location     : Room-4
+location     : Room-6
 room-layout  : cabaret 
 organizers   : Anders Reeves
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam, Stuart Gunter, Don Gibson, Robert Morschel
-invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel,Neil Barlow,Bjoern Kimminich
+invited      : Kevin Fielder, Dilek Koluman, Clare Creeden
 ---
 
 ## Why
@@ -44,6 +44,9 @@ We need to be much more focused on the questions to ask and provide as much info
 ### List of questions (AppSec implications)
 
  - What are the AppSec implications of this regulation?
+ - What is the accepted format/notation for data flows and data at rest documentation requirements?
+ - How to include the DPO as part of the software security governance?
+ - What constitutes personal data and what about edge cases? (Post code, First Name + Last Name, IP Address etc.)
 
 
 ### List of questions (General implications)

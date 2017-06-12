@@ -9,10 +9,10 @@ related-to   :
 status       : done
 when-day     : Mon
 when-time    : PM-3
-location     : Villa-4
-room-layout  : unknown
+location     : Room-6
+room-layout  : cabaret
 organizers   :
-participants : Steven Wierckx, Stephen de Vries
+participants : Steven Wierckx, Stephen de Vries, Irene Michlin
 ---
 
 Diagrams are a fundamental building block for putting mental models where they can be shared, debated, refined, or used as an aid to collaboration and analysis. 

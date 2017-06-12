@@ -3,12 +3,12 @@ layout       : blocks/working-session
 title        : Peer Review of RC2
 type         : workshop
 track        : Owasp Top 10 2017
-when-day     : Fri
-when-time    : AM-1
-location     : Room-2
+when-day     : 
+when-time    : 
+location     : 
 technology   :
 related-to   :
-status       : draft
+status       : out
 organizers   :
 participants :
 ---

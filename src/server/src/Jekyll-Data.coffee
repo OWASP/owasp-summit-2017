@@ -77,12 +77,14 @@ class Jekyll_Data
 
     # Map by_Day
     for name, data of @.working_Sessions_Data when data.metadata.type is 'workshop'
-      days         = data.metadata['when-day' ] || 'no-day'
-      times        = data.metadata['when-time'] || 'no-time'
-      locations    = data.metadata['location' ] || 'no-location'
-      tracks       = data.metadata.track        || 'no-track'
-      locked       = data.metadata.locked       || false
-      status       = data.metadata.status       || ''
+      days         = data.metadata['when-day' ]    || 'no-day'
+      times        = data.metadata['when-time']    || 'no-time'
+      locations    = data.metadata['location' ]    || 'no-location'
+      layout       = data.metadata['room-layout' ] || 'unknown'
+      remote       = data.metadata['remote' ]      || ''
+      tracks       = data.metadata.track           || 'no-track'
+      locked       = data.metadata.locked          || false
+      status       = data.metadata.status          || ''
       invited      = data.metadata.invited
       organizers   = data.metadata.organizers
       panelists    = data.metadata.panelists
@@ -96,17 +98,17 @@ class Jekyll_Data
               schedule.by_Room[day]                  ?= {}
               schedule.by_Room[day][location]        ?= {}
               schedule.by_Room[day][location][time]  ?= []
-              schedule.by_Room[day][location][time].add name: name, url: data.url , track : track       , locked: locked
+              schedule.by_Room[day][location][time].add name: name, url: data.url , track : track       , layout: layout, remote: remote, locked: locked
 
               schedule.by_Track[day]                 ?= {}
               schedule.by_Track[day][track]          ?= {}
               schedule.by_Track[day][track][time]    ?= []
-              schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , locked: locked
+              schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , layout: layout, remote: remote, locked: locked
 
               schedule.by_Time[time]                 ?= {}
               schedule.by_Time[time][track]          ?= {}
               schedule.by_Time[time][track][day]     ?= []
-              schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , locked: locked, status: status
+              schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , layout: layout, remote: remote, locked: locked, status: status
 
               map_User = (user,role)->
                 schedule.by_Participant[user]             ?= {}
@@ -209,9 +211,12 @@ class Jekyll_Data
 
   map_Working_Sessions_Data: ->
     data = {}
-
+    all_organisers = []
     for file in @.folder_Working_Sessions.files_Recursive() when file.not_Contains('_template')
+
       metadata = @.map_Working_Session_Raw_Data file.file_Contents()
+
+      #all_organisers = all_organisers.concat metadata.organizers
 
       #continue if metadata.type != 'workshop'    # can't apply this fix this since the tracks calculation need this
 
@@ -232,6 +237,7 @@ class Jekyll_Data
       for key in data._keys().sort()
         sorted_Data[key] = data[key]
 
+    #console.log all_organisers.unique().size()
     sorted_Data.save_Json              @.file_Json_Working_Sessions       # save data as json file (we need this file for the tracks calculations)
     yaml.safeDump(sorted_Data).save_As @.file_Yaml_Working_Sessions       # save data as yml file
 
