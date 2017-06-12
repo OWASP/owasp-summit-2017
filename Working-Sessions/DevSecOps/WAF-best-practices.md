@@ -11,6 +11,7 @@ when-day     :
 when-time    : 
 organizers   : Scott Treacy
 participants : Francois Raynaud, Achim Hoffmann
+invited      : Sam Stepanyan
 ---
 
 Working session to cover Best practices in WAF..
