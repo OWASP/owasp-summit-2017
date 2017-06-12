@@ -39,7 +39,18 @@ The guide helps CISOs navigate through the many OWASP resources so they can deli
 
 ## Outcomes
 
-...add content...
+The Application Security Guide for CISO 2013 Version Goals were:
+1. Make Application Security and OWASP More Visible to Application Security Managers & CISOs 
+2. Analyse Reasons for Adopting An Application Security Program by An Organisation (e.g. Tactical and Strategic)
+3. Explain Difference Between Technical Risks and Business Risks including How to Estimate Costs of Data Breaches
+4. Factor The impact of Emerging Technologies in Application Security Program (e.g. Mobile, Cloud, Web Services) and provide guidance
+5. Provide Examples of Metrics & Measurements for Vulnerability Risk Management 
+
+For The Planned 2018 Version, Which Problems and Solutions/Guidance We Can Expand Upon ? (NOTE These Will be Assessed With Expanded CISO Survey Questions):
+1. Impact of GDPR on AppSec and Recommendations (Including Outcomes of 2017 Summit CISO track)
+2. Emerging technology risks and Risk Mitigation Guidance (e.g. APIs and Micro-services, Biometrics)
+3. Evolving Threats Facing Web Applications (e.g. 0-day exploits of AppSec vulnerabilities) and solutions (e.g. improved attack detection with new tools such as RASP)
+4. Others (brainstorming) 
 
 ## Who
 
