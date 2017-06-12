@@ -10,7 +10,7 @@ when-day     : Mon
 when-time    : PM-2
 location     : Room-5
 organizers   : Jason Li
-participants : Steven Wierckx
+participants : Steven Wierckx, Robert Grace, 
 ---
 
 ## Why
@@ -39,6 +39,20 @@ Threat Connect also looks interesting:
 ## Outcomes
 
 - Diagrams of Security Playbooks published
+
+### Synopsis and Takeaways
+
+We discussed how best to visualise the information contained in a playbook, realising that without data, we are restricted to process flows.
+
+OWASP is proactive, but we recognise that certain situations are reactive by nature – you can only start to solve a problem after it has manifested. 
+
+We agreed that Playbooks should include process diagrams, but only where necessary.  It is difficult to come up with diagrams without data, and data usually comes after the playbook has been followed (e.g., pen-test, bug bounty).
+
+We also agreed that we should create iconography for different audiences to help readers define the scope of the playbook:  either 
+
+- The buyer or end-user, or
+- The person who has to follow the process, or 
+- The person who has to take the result of the process and deal with the outcome (analyse, distil, process).
 
 ## Who
 
