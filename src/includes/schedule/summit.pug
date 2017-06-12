@@ -1,7 +1,7 @@
 mixin show-remote-link
   | {% if session.remote != '' %}
   .track-info Remote link : <a href="{{ session.remote }}"> join here</a>
-  | {% endif %}
+  | {% endif                           %}
 
 mixin show-session-at-time
     | {% for session in day_Data[time]              %}
@@ -95,4 +95,3 @@ mixin show-room
             tr
                 + show-room
             | {% endfor %}
-
