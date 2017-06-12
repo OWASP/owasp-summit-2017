@@ -3,7 +3,7 @@
  +title           : Suruchi Srivastava
  +type            : participant-remote
  +image      : https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/6/005/07c/2d2/244b970.jpg
- +working-sessions : Mobile Security Testing Guide (MSTG),Mobile Application Security Verification Standard (MASVS),Data behind Owasp Top 10 2017,Owasp Top 10 2017
+ +working-sessions : Mobile Security Testing Guide (MSTG),Mobile Application Security Verification Standard (MASVS),Data behind Owasp Top 10 2017, Owasp Top 10 2017
  +# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
  +---
  +
