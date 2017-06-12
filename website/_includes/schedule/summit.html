@@ -26,87 +26,208 @@
       </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-3,Villa-4,Villa-5,no-location' | split: ',' %}
       {% for room in locations %}
       <tr>
-        <!--tdh4 {{ room }}
-        -->
+        <td>
+          <h4>{{ room }}</h4>
+        </td>
         <td>{% assign day = 'Mon'  %}
           {% assign day_Data = site.data.mapped.schedule.by_Room[day][room] %}
-          {% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          {% assign time = 'AM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-2'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-3'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'Eve'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'no-time'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}
         </td>
         <td>{% assign day = 'Tue'  %}
           {% assign day_Data = site.data.mapped.schedule.by_Room[day][room] %}
-          {% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          {% assign time = 'AM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-2'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-3'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'Eve'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'no-time'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}
         </td>
         <td>{% assign day = 'Wed'  %}
           {% assign day_Data = site.data.mapped.schedule.by_Room[day][room] %}
-          {% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          {% assign time = 'AM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-2'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-3'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'Eve'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'no-time'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}
         </td>
         <td>{% assign day = 'Thu'  %}
           {% assign day_Data = site.data.mapped.schedule.by_Room[day][room] %}
-          {% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          {% assign time = 'AM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-2'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-3'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'Eve'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'no-time'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}
         </td>
         <td>{% assign day = 'Fri'  %}
           {% assign day_Data = site.data.mapped.schedule.by_Room[day][room] %}
-          {% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
+          {% assign time = 'AM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-1'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-1'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-2'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-2'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'PM-3'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'Eve'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'Eve'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}{% assign time = 'no-time'  %}{% for session in day_Data[time]              %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}{% assign time = 'no-time'  %}
+          {% for session in day_Data[time]              %}
+          {% assign cross_session = site.data.mapped.working-sessions[session.name] %}
           <div><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
-          <div class="track-info">{{ time}} : {{ session.track }}</div>{% endfor                                     %}
+          <div class="track-info">{{ time}} : {{ session.track }}</div>
+          <div class="track-info">Room layout : {{ session.layout }}</div>{% if session.remote != '' %}
+          <div class="track-info">Remote link : <a href="{{ session.remote }}"> join here</a></div>{% endif %}{% endfor                                     %}
         </td>
       </tr>{% endfor %}
     </table>
