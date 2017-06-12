@@ -12,7 +12,7 @@ when-time    : PM-2
 locked       : true
 location     : Room-2
 room-layout  : circle
-participants : Ade Yoseman Putra,Timo Pagel,Francois Raynaud
+participants : Ade Yoseman Putra,Timo Pagel,Francois Raynaud,Jonas Vanalderweireldt
 invited      : Jannik Hollenbach
 cant-make-it : Ingo Hanke
 ---
