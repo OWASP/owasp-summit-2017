@@ -6,7 +6,7 @@ owasp-project: no
 track        : OwaspSAMM
 status       : done
 when-day     : Tue
-when-time    : AM-1
+when-time    : PM-1
 location     : Villa-1
 room-layout  : unknown
 organizers   : Brian Glas
