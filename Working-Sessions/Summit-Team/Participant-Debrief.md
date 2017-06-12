@@ -7,6 +7,7 @@ organizers   :
 when-day     : Mon
 when-time    : AM-1
 location     : Room-4
+organizers   :
 participants : Dinis Cruz
 ---
 
