@@ -13,7 +13,7 @@ locked       : true
 location     : Room-2
 room-layout  : circle
 participants : Ade Yoseman Putra,Timo Pagel,Francois Raynaud,Jonas Vanalderweireldt
-invited      : Jannik Hollenbach
+invited      : Jannik Hollenbach, Viktor Lindstrom
 cant-make-it : Ingo Hanke
 ---
 

@@ -12,7 +12,7 @@ when-time    : AM-1,PM-1,PM-2
 location     : Villa-5
 room-layout  : cabaret
 participants :
-invited      : Ade Yoseman Putra, Amani Altarawneh, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Victor Vidigal Ribeiro
+invited      : Ade Yoseman Putra, Amani Altarawneh, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Victor Vidigal Ribeiro, Viktor Lindstrom
 cant-make-it : Dinis Cruz
 ---
 
