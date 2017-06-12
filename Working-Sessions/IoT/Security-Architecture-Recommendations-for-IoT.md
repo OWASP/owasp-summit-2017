@@ -4,7 +4,7 @@ title        : Security Architecture Recommendations for IoT
 type         : workshop
 technology   : IoT
 track        :
-status       : draft 
+status       : done 
 organizers   :
 participants :
 ---
@@ -30,21 +30,24 @@ Configuring each component to be secure is key in securing the overall IoT infra
 A set of guidelines needed for creating a simple but secure IoT architecture by protecting the code that drives the IoT, as well as protecting and managing the IoT devices.
 
 ## Who
+
 The target audience for this Working Session is:
 - Security Champions
 - CISOs
 - Developers
 
 ## References
-https://docs.microsoft.com/en-us/azure/iot-suite/iot-security-best-practices
-http://www.sciencedirect.com/science/article/pii/S1877050915008996
-https://www.symantec.com/content/dam/symantec/docs/white-papers/iot-security-reference-architecture-en.pdf
+[IoT Security Best Practices](https://docs.microsoft.com/en-us/azure/iot-suite/iot-security-best-practices)
+[New Security Architecture for IoT Network - Research Article](http://www.sciencedirect.com/science/article/pii/S1877050915008996)
+[IoT Security Reference Architecture](https://www.symantec.com/content/dam/symantec/docs/white-papers/iot-security-reference-architecture-en.pdf)
 
 --- 
 
 ## Working materials
 
 Draft guidelines for creating a simple but secure IoT architecture by protecting the code that drives the IoT, as well as protecting and managing the IoT devices.
+- [IoT Security Guidance](https://www.owasp.org/index.php/IoT_Security_Guidance)
+- [OWASP IoT Top 10](https://www.owasp.org/images/7/71/Internet_of_Things_Top_Ten_2014-OWASP.pdf)
 
 ### Content
 
