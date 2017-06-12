@@ -78,6 +78,14 @@ This working session will gather, discuss and design the following:
 |:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop) |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf) |
 
+
+### Synopsis and Takeaways
+
+> Preparation of some user stories and new hacking challenges for the Juice Shop
+> Creation of new ideas to implement in the evening sessions
+> Went through github issue list and decided what could be implemented whilst at Summit.
+
+
 ## Who
 
 The target audience for this Working Session is:
