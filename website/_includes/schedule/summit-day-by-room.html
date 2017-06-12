@@ -1,7 +1,7 @@
 
 <div class="page-content">
   <div class="schedule">
-    <div class="visible-print-block"><img src="/website/assets/img/blocks/logo-small.png" alt="owasp summit small logo"/></div>
+    <div class="visible-print-block"><img style="width:200px" src="/website/assets/img/blocks/logo-small.png" alt="owasp summit small logo"/></div>
     <div class="visible-print-block">
       <h1>{{ page.title }}</h1>
     </div>
@@ -48,7 +48,7 @@
         h4 (no-time)
         
         -->
-      </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-3,Villa-4,Villa-5,no-location' | split: ',' %}
+      </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3' | split: ',' %}
       {% for room in locations %}
       <tr>{% assign day_Data = site.data.mapped.schedule.by_Room[page.day][room] %}
         <td class="text-center">
@@ -94,5 +94,4 @@
       </tr>{% endfor %}
     </table>
   </div>
-  <div class="visible-print-block"><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
 </div>
