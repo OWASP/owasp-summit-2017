@@ -25,7 +25,8 @@ Let's work on this so we can define the way forward for the 2017, 2020 and 2023 
  
 ## Outcomes 
 
-
+- What should the next releases of the OWASP Top 10 look like?
+- What should be the process underlying the next versions of the OWASP Top 10?
 
 ## Who
 
