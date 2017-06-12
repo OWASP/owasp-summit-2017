@@ -15,8 +15,7 @@ project-leader  :
 chapter-leader  :
 ticket          : 5x8h
 status          : empty
-working-sessions:Threat Modeling Diagramming Techniques, 	
-GDPR and DPO AppSec implications, Security Guild vs Security Champions, Top 10 2017 - Process Discussion
+working-sessions : Threat Modeling Diagramming Techniques, GDPR and DPO AppSec implications, Security Guild vs Security Champions, Top 10 2017 - Process Discussion
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
