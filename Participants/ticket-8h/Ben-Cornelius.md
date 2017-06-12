@@ -7,14 +7,14 @@ company         : ThoughtWorks
 travel-from     : London
 image           :
 linkedin        : https://www.linkedin.com/in/ben-cornelius-1a086b42/
-twitter         : @cornaholic
+twitter         : cornaholic
 facebook        :
 website         :
 email           : bcorneli@thoughtworks.com
 project-leader  :
 chapter-leader  :
 ticket          : 5x8h
-status          : empty
+status          : 
 working-sessions : Threat Modeling Diagramming Techniques, GDPR and DPO AppSec implications, Security Guild vs Security Champions, Top 10 2017 - Process Discussion
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
