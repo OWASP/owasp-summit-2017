@@ -7,15 +7,15 @@ company         :
 travel-from     : London
 image           :
 linkedin        :
-twitter         : @slavakatok
+twitter         : slavakatok
 facebook        :
 website         :
-email           :slava.katok@kapin.ventures
+email           : slava.katok@kapin.ventures
 project-leader  :
 chapter-leader  :
 ticket          : 5x8h
 status          : empty
-working-sessions:GDPR and DPO AppSec implications, Threat Modeling Tools, Threat Modeling Diagramming Techniques
+working-sessions : GDPR and DPO AppSec implications, Threat Modeling Tools, Threat Modeling Diagramming Techniques
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
