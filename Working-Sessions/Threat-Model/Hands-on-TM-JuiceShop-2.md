@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : Hands on Threat Modeling Juice Shop (Deployment & Operations)
 type         : workshop
-track        : Threat Model, Juice Shop
+track        : Threat Model,Juice Shop
 technology   :
 related-to   : Juice Shop
 when-day     : Tue

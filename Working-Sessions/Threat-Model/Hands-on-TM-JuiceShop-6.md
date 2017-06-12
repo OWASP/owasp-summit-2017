@@ -2,7 +2,7 @@
 layout       : blocks/working-session
 title        : Hands on Threat Modeling Juice Shop (Attacking 2)
 type         : workshop
-track        : Threat Model, Juice Shop
+track        : Threat Model,Juice Shop
 technology   :
 related-to   : Juice Shop
 when-day     : Wed

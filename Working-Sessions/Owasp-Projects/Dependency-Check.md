@@ -7,7 +7,7 @@ technology   : Java
 status       : done
 track        : Owasp Projects
 owasp-project: yes
-when-day     : Mon
+when-day     : Wed
 when-time    : PM-2
 location     : Room-3
 room-layout  : cabaret
