@@ -6,7 +6,7 @@ track        : Owasp Projects
 organizers   : Achim Hoffmann
 technology   : TLS
 owasp-project: yes
-status       : Final stage; missing target audience; missing working materials
+status       : done
 when-day     : Tue
 when-time    : PM-1
 location     : Room-1
@@ -16,7 +16,6 @@ participants : Ingo Hanke
 
 [OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related configurations, behaviours and vulnerabilities.
 It's a standalone tool and can be used in closed and very restricted environments.
-
 
 ## Why
 
@@ -47,8 +46,6 @@ The target audience for this Working Session is:
 
 - contributors to the tool
 - users in general and users having special requirements
-
---- 
 
 ## Working materials
 
