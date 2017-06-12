@@ -41,7 +41,7 @@ The target audience for this Working Session is:
 ## Initial Brainstorm 
 (from [Josh Grossman](https://owaspsummit.org/Participants/remote/Josh-Grossman.html))
 
-### What should the OWASP Top 10 look like?
+### What should the OWASP Top 10 look like? [issue 8](https://github.com/OWASP/Top10/issues/8)
 - Stay as it is - top 10 list of application security *risks* based with some aggregation of categories?
 - Change to a "league table" of specific CWEs purely based on data gathered?
 - Evolve to consider wider issues in application security - this seems to have been the rationale behind "2017 RC1 A7 - Insufficient Attack Protection"?
