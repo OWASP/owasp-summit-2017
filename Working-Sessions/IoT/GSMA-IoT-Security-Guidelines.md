@@ -6,7 +6,7 @@ owasp-project : no
 track         :
 technology    : IoT
 related-to    :
-status        : draft
+status        : done
 organizers    :
 participants  :
 ---

@@ -37,10 +37,27 @@ mixin show-location
     br
 
 mixin show-remote-link
-    | {% if data.metadata.remote != '' %}
-    b Remote link: <a href="{{ data.metadata.remote }}"> access here</a>
+    | {% assign hangouts = 'https://hangouts.google.com/hangouts/_/owasp.org/' %}
+    | {% if data.metadata.remote %}
+    b Remote link: <a href="{{ data.metadata.remote }}"> join here</a>
     br
-    | {% endif %}
+    | {% else %}
+    | {% case data.metadata.location %}
+    | {% when 'Room-1' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-1"> join here</a>
+    | {% when 'Room-2' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-2"> join here</a>
+    | {% when 'Room-3' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-3"> join here</a>
+    | {% when 'Room-4' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-4"> join here</a>
+    | {% when 'Room-5' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-5"> join here</a>
+    | {% when 'Room-6' %}
+    b Remote link: <a href="{{ hangouts }}summit-room-6"> join here</a>
+    | {% endcase %}
+    br
+    | {% endif                   %}
 
 .working-session
     .container

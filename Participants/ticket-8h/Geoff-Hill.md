@@ -6,14 +6,14 @@ job-title       : Threat Modeler
 company         : Tutamantic Ltd.
 travel-from     : United Kingdom
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/04d/266/048ec09.jpg
-linkedin-company-beta: 10942080
+linkedin-company-beta : 10942080
 twitter         : Tutamantic_Sec
 facebook        : TutamanticSec
 email           : geoff.hill@tutamantic.com
 mobile          : 07 858 955 963
 status          : done
 ticket          : 5x8h
-working-sessions: Threat Modeling Diagramming Techniques, Threat Modeling OWASP Pages, Integrating Security into an Spotify Model, Maturity Models tool, Review and improve the 12 SAMM practices, SAMM Metrics for Enterprise, Threat Modeling Cheat Sheet & Lightweight Threat Modeling, Securing Legacy Applications, JIRA Risk Workflow, SAMM - Core Model Update 1 - Intro, SAMM - Maturity Models tool, GDPR and DPO AppSec implications, SAMM Metrics for Enterprises, Women in Cyber, Define Agile Security Practices, Using Security Risks to Measure Agile Practices, Integrating Security into a Portfolio Kanban
+working-sessions : Threat Modeling Diagramming Techniques, Threat Modeling OWASP Pages, Maturity Models tool, Review and improve the 12 SAMM practices, SAMM Metrics for Enterprise, Threat Modeling Cheat Sheet & Lightweight Threat Modeling, SAMM - Maturity Models tool, GDPR and DPO AppSec implications, SAMM Metrics for Enterprises, Women in Cyber, Define Agile Security Practices, Using Security Risks to Measure Agile Practices, Integrating Security into a Portfolio Kanban, Threat Modeling Cheat Sheet & Lightweight Threat Modeling (Part II), Threat Modeling Scaling and Security Champions
 
 
 ---
