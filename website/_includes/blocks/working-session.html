@@ -34,7 +34,11 @@
       {%        if item.url                         %}<a href="{{item.url}}">{{ item.name }}</a>{%        else                                %}<span>{{ item.name }}</span>{%        endif                               %}
       {%        if item.remote                      %}<span>(remotely)</span>{%        endif                               %}
       {%        if forloop.last != true             %}<span>,</span>{%        endif                               %}
-      {%    endfor                                  %}<br/>{% endif                                      %}{% if page.owasp-project and page.track != 'Project Summit' %}<b>Part of the &#32;</b><a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a>{% endif %}<br/><b>When: &#32;</b><a href="/pages/schedule/by-track/{{data.metadata.when-day}}.html">{{data.metadata.when-day}}</a><br/><b>Time: {{ data.metadata.when-time }}</b><br/><b>Location: {{ data.metadata.location  }}</b><br/>{% if data.metadata.remote %}<b>Remote link: <a href="{{ data.metadata.remote }}"> join here</a></b><br/>{% endif                   %}
+      {%    endfor                                  %}<br/>{% endif                                      %}{% if page.owasp-project and page.track != 'Project Summit' %}<b>Part of the &#32;</b><a href="/Working-Sessions/Project-Summit">OWASP Project Summit</a>{% endif %}<br/><b>When: &#32;</b><a href="/pages/schedule/by-track/{{data.metadata.when-day}}.html">{{data.metadata.when-day}}</a><br/><b>Time: {{ data.metadata.when-time }}</b><br/><b>Location: {{ data.metadata.location  }}</b><br/>
+      {% assign hangouts = 'https://hangouts.google.com/hangouts/_/owasp.org/' %}
+      {% if data.metadata.remote %}<b>Remote link: <a href="{{ data.metadata.remote }}"> join here</a></b><br/>{% else %}
+      {% case data.metadata.location %}
+      {% when 'Room-2' %}<b>Remote link: <a href="{{ hangouts }}summit-room-2"> join here</a></b>{% when 'Room-3' %}<b>Remote link: <a href="{{ hangouts }}summit-room-3"> join here</a></b>{% when 'Room-4' %}<b>Remote link: <a href="{{ hangouts }}summit-room-4"> join here</a></b>{% when 'Room-5' %}<b>Remote link: <a href="{{ hangouts }}summit-room-5"> join here</a></b>{% when 'Room-6' %}<b>Remote link: <a href="{{ hangouts }}summit-room-6"> join here</a></b>{% endcase %}<br/>{% endif                   %}
     </div>
     <hr/>{{ content }}{% if data.related-to.size > 0                 %}
     <h3>Related Working Session(s)</h3>
