@@ -210,9 +210,12 @@ class Jekyll_Data
 
   map_Working_Sessions_Data: ->
     data = {}
-
+    all_organisers = []
     for file in @.folder_Working_Sessions.files_Recursive() when file.not_Contains('_template')
+
       metadata = @.map_Working_Session_Raw_Data file.file_Contents()
+
+      #all_organisers = all_organisers.concat metadata.organizers
 
       #continue if metadata.type != 'workshop'    # can't apply this fix this since the tracks calculation need this
 
@@ -233,6 +236,7 @@ class Jekyll_Data
       for key in data._keys().sort()
         sorted_Data[key] = data[key]
 
+    #console.log all_organisers.unique().size()
     sorted_Data.save_Json              @.file_Json_Working_Sessions       # save data as json file (we need this file for the tracks calculations)
     yaml.safeDump(sorted_Data).save_As @.file_Yaml_Working_Sessions       # save data as yml file
 

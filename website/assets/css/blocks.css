@@ -803,7 +803,7 @@
   min-width: 80px;
 }
 .schedule-track .location {
-  font-size: 8px;
+  font-size: 12px;
   font-style: italic;
 }
 .schedule-track .role {
@@ -812,6 +812,10 @@
 }
 .schedule-track .time {
   font-size: 16px;
+}
+.schedule-track .time-hour {
+  font-size: 8px;
+  font-style: italic;
 }
 .schedule-track .invited {
   color: #EEA79C;
