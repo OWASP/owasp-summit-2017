@@ -9,7 +9,7 @@ when-day     : Thu
 when-time    : PM-2
 location     : Room-3
 organizers   : Mateo Martinez
-participants : 
+participants : Oscar Perez, Ricardo Supo Picon, John Jairo, Fernando Vela, Pablo, Gaston Toth, John Vargas
 ---
 
 This Working Session will review OWASP's position in Latin America (Latam) and plan the next steps for a growing region. Some OWASP activities planned include several global AppSec conferences, OWASP Day, and a more than 10-cities OWASP Latam Tour.
