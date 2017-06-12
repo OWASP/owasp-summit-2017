@@ -37,7 +37,7 @@ pre-summit:
       - Tech Writer 2
  
 with-sessions:
-  OK309:
+  OK311:
     name: OwaspSamm Villa
     users:
       - Sebastien Deleersnyder
@@ -55,7 +55,7 @@ with-sessions:
       - Alexander Antukh
       - Robert Morschel
       - Enrico Verzegnassi
-  'OK312':
+  'OK314':
     name: DevSecCon Villa
     users:
       - Francois Raynaud,Lisa Raynaud (db)
@@ -64,7 +64,7 @@ with-sessions:
       - Phil Parker
       - Steven van der Baan
       - Peleus Uhley
-  'OK313':
+  'OK312':
     name: Threat Model Villa
     users:
       - Jason Li
@@ -73,7 +73,7 @@ with-sessions:
       - Felipe Zipitria
       - Steven Wierckx
       - Stephen de Vries
-  'OK314':
+  'OK313':
     name: Juice Shop Villa
     users:
       - Bjoern Kimminich
@@ -126,14 +126,14 @@ with-sessions:
       - Janne Sarendal
       - Thomas Welch
       - Eddie Lee
-      - Hamza Alkofahi
+      - Chris Cooper
 
 quiet-lodges:
   'OK413':
     name: Quiet 1 (5x24)
     users:
       - Dave Wichers
-      - Chris Cooper
+      - Hamza Alkofahi
       - Daniela Cruzes
       - Amani Altarawneh
       - Mateo Martinez
@@ -191,5 +191,5 @@ quiet-lodges:
      - Stuart Gunter
      - Ross Tanner
      - Ceara Treacy
-     - 5
-     - 6
+     - Mustafa Kasmani
+     - Daniel Kefer

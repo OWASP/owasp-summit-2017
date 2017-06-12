@@ -10,7 +10,7 @@ when-time    : PM-1
 location     : Room-3
 room-layout  : unknown
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Irene Michlin
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Irene Michlin, Fabien Thalgott
 ---
 
 Set the goals for this week.

@@ -1,32 +1,35 @@
 ---
 layout       : blocks/working-session
-title        : SAMM - Core Model Update 2 - Dev Methods
+title        : SAMM - Introduction to Generic DevOps Security Maturity Model
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
 status       : done
 when-day     : Tue
-when-time    : AM-1
+when-time    : PM-1
 location     : Villa-1
 room-layout  : unknown
-organizers   : Brian Glas
+organizers   : Timo Pagel
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Fabien Thalgott
 ---
 
-SAMM core model update sessions.
+Introduction to Generic DevOps Security Maturity Model
 
 ## Why
 
-This Working Session will review the core model in relation to different development methodologies. We will analyse the core model to understand if it holds up to the new way of software development or if it needs to change. Additionally, we will discuss whether the implementation details need to align with different methodologies.
+get understanding of DevOps vocabulary / see how we could reuse parts/complete GDOSMM?
 
 ## What
 
-- Review core model related to different dev methods
-- Evaluate if model changes or implementation guidance
+- Introduction of the model
+- see link http://gdosmm-translation.timo-pagel.de/ (model)
+- see link https://drive.google.com/open?id=1rrbyXqxy3LXAJNPFrVH99mj_BNaJKymMsXZItYArWEM (presentation)
+- Discussion on usability within SAMM?
 
 ## Outcomes
 
-...add content...
+decision if reuse parts/complete GDOSMM?
+identify what?
 
 ## Who
 
@@ -45,6 +48,4 @@ Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
-### Content
 
-...add content...

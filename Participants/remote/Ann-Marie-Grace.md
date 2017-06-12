@@ -1,15 +1,15 @@
 ---
 layout          : blocks/page-participant
-title           : ...
+title           : Ann-Marie Grace
 type            : participant-remote
-job-title       : 
+job-title       : Summit Technical Editor
 company         : 
-image           : 
-linkedin        : 
-twitter         : 
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAROAAAAJDE0YTlhMTU1LTM3ZDYtNDIyNi1hYjg3LWFmN2E2ZjkwMDZlMw.jpg
+linkedin        : amgrace
+twitter         : 05ambg
 facebook        : 
-website         :
-email           : 
+website         : www.annmgrace.com
+email           : ambg05.amg@gmail.com
 project-leader  :
 chapter-leader  :
 when-day        :
