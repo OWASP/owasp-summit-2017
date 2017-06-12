@@ -42,14 +42,14 @@ The target audience for this Working Session is:
 (from [Josh Grossman](https://owaspsummit.org/Participants/remote/Josh-Grossman.html))
 
 ### What should the OWASP Top 10 look like? [issue 8](https://github.com/OWASP/Top10/issues/8)
-- Stay as it is - top 10 list of application security *risks* based with some aggregation of categories?
-- Change to a "league table" of specific CWEs purely based on data gathered?
-- Evolve to consider wider issues in application security - this seems to have been the rationale behind "2017 RC1 A7 - Insufficient Attack Protection"?
+1. Stay as it is - top 10 list of application security *risks* based with some aggregation of categories?
+2. Change to a "league table" of specific CWEs purely based on data gathered?
+3. Evolve to consider wider issues in application security - this seems to have been the rationale behind "2017 RC1 A7 - Insufficient Attack Protection"?
 
-### What should be the basis for the top 10?
-- Stay as it is - Initial call for data and then the Top 10 produced based on the data plus the judgement of the project leaders/authors.
-- Entirely data based - Top 10 based purely on the data gathered together with some normalisation or weightings?
-- Data based with consensus - Top 10 initially based on normalised/weighted data but also modified based on community discussion/consensus.
+### What should be the basis for the top 10? [issue 9](https://github.com/OWASP/Top10/issues/9)
+1. Stay as it is - Initial call for data and then the Top 10 produced based on the data plus the judgement of the project leaders/authors.
+2. Entirely data based - Top 10 based purely on the data gathered together with some normalisation or weightings?
+3. Data based with consensus - Top 10 initially based on normalised/weighted data but also modified based on community discussion/consensus.
 
 ### Does the preparation timescale make sense? 2017 process was:
 - 20 May 2016      - Initial call for data
