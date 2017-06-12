@@ -12,7 +12,7 @@ when-time    : PM-2
 location     : Room-6
 room-layout  : cabaret
 organizers   :
-participants : Geoff Hill, Irene Michlin, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindstrom, Christian Martorella, Don Gibson, Mateo Martinez
+participants : Geoff Hill, Irene Michlin, Stephen de Vries, Johan Peeters, Duncan Hurwood, Viktor Lindstrom, Christian Martorella, Don Gibson, Mateo Martinez, Steven van der Baan
 ---
 
 This session is a discovery session on what threat modelling tools exist currently and what their benefits and weaknesses are.

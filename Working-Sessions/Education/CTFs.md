@@ -11,7 +11,7 @@ when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-1
 organizers     : Steven Van Der Baan
-participants   : Tiffany Long, Jonas Vanalderweireldt, Danny Grander
+participants   : Tiffany Long, Jonas Vanalderweireldt, Danny Grander, Fabien Thalgott
 ---
 
 
