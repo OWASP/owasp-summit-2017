@@ -26,7 +26,11 @@ SAMM assessments can be conducted in varying ways and it would be useful to lear
 
 ## Outcomes
 
-...add content...
+### Synopsis and Takeaways
+Exchanged assessment experiences
+Role specific questions
+Dev team / simplified questions (scalability)
+Depth vs. breadth
 
 ## Who
 
