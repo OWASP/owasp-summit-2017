@@ -7,7 +7,7 @@ company         : NowSecure
 travel-from     : Chicago, IL
 image           : 
 linkedin        : 
-twitter         : @garregus
+twitter         : garregus
 facebook        : 
 website         : www.nowsecure.com
 email           : blawrence@nowsecure.com
