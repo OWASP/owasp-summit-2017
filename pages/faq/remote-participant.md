@@ -5,6 +5,11 @@ title    : Remote participant
 
 # How do I participate remotely?
 
-We will create events in the OWASP Summit using google hangouts for each of the sessions.
+We will create Google Hangout events that will be available as remote participation links in the working session. 
 
-You can access the list of sessions [here]()
+
+
+# As an organizer, how do I start my remote participation?
+
+TBD
+On Mac - use Safari for Google Hangouts
