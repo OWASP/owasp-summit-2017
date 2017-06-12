@@ -57,3 +57,8 @@ We need to be much more focused on the questions to ask and provide as much info
  - The role of SOC in detecting and reporting security incidents
 
 ## List of companies that will sign the first version
+
+
+## Working Document
+
+https://docs.google.com/a/equalexperts.com/document/d/1-Xa7eFsa9w3pUOcor0ymbKw_OZZobit-akXf5jCbmZQ/edit?usp=sharing
