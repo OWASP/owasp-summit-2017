@@ -81,7 +81,7 @@ class Jekyll_Data
       times        = data.metadata['when-time']    || 'no-time'
       locations    = data.metadata['location' ]    || 'no-location'
       layout       = data.metadata['room-layout' ] || 'unknown'
-      remote       = data.metadata['remote' ]      || 'not link yet'
+      remote       = data.metadata['remote' ]      || ''
       tracks       = data.metadata.track           || 'no-track'
       locked       = data.metadata.locked          || false
       status       = data.metadata.status          || ''
