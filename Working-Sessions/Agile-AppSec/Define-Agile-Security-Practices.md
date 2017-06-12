@@ -6,12 +6,13 @@ owasp-project: no
 track        : Agile AppSec
 technology   :
 related-to   : Integrating Security into an Spotify Model
-status       : need more content
+status       : done
 when-day     : Tue
 when-time    : AM-1
-location     : Room-3
-organizers   : Irene Michlin
-participants : Ante Gulam, Irene Michlin, Robert Morschel, Mamta Vuppu, Tiffany Long, Don Gibson
+location     : Room-3
+room-layout  : cabaret
+organizers   : Irene Michlin
+participants : Irene Michlin, Robert Morschel, Mamta Vuppu, Tiffany Long, Don Gibson
 ---
 
 ## Why

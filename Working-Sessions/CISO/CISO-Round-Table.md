@@ -3,12 +3,13 @@ layout       : blocks/working-session
 title        : CISO Round table
 type         : workshop
 track        : CISO
-status       : add more content
+status       : done
 description  : Round-table of CISO (and future CISOs) to share ideas on what is going on at this level
 when-day     : Wed
 when-time    : AM-1
-location     : Room-4
-organizers   : Anders Reeves
+location     : Room-4
+room-layout  : u-shape
+organizers   : Anders Reeves
 panelists    : Ante Gulam, Dinis Cruz,Kevin Fielder
 participants : Mateo Martinez,Ingo Hanke,Francois Raynaud
 invited      : Asadur Rahman

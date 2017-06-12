@@ -6,11 +6,12 @@ layout       : blocks/working-session
 track        : CISO
 technology   :
 related-to   : 
-status       : missing Outcomes, working materials
+status       : done
 when-day     : Fri
 when-time    : AM-1
-location     : Room-2
-organizers   : Tiffany Long
+location     : Room-2
+room-layout  : unknown
+organizers   : Tiffany Long
 participants : Neil Barlow,Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari, Mamta Vuppu
 room-layout  : square
 ---

@@ -6,7 +6,7 @@ owasp-project: no
 track        : Security Crowdsourcing
 technology   :
 related-to   : Recruiting AppSec Talent,Role of Security Certification,Crowdsourcing Security Knowledge
-status       : need outcomes; need working materials
+status       : merged with "Recruiting AppSec Talent"
 when-day     : Tue
 when-time    : Eve
 location     : Villa-2

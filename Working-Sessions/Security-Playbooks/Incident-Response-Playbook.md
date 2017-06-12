@@ -5,12 +5,13 @@ type         : workshop
 track        : Security Playbooks
 technology   : SOC
 related-to   :
-status       : need-more content
+status       : done
 when-day     : Wed
 when-time    : PM-1
 location     : Room-5
-organizers   :
-participants : Mamta Vuppu
+room-layout  : cabaret
+organizers   : Francois Raynaud
+participants : Mamta Vuppu;Mateo Martínez
 ---
 
 ## Why

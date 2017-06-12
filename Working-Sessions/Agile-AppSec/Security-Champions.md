@@ -8,7 +8,7 @@ status       : final stage
 when-day     : Tue
 when-time    : PM-3
 location     : Room-3
-organizers   :
+organizers   : Mustafa Kasmani
 participants : Francois Raynaud,Robert Morschel
 ---
 

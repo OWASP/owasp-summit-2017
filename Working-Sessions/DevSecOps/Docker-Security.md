@@ -6,8 +6,13 @@ owasp-project : no
 track         : DevSecOps
 technology    :
 status        : done
+when-day      : Thu
+when-time     : PM-1
+location      : Room-1
+room-layout   : 
 organizers    : Timo Pagel
 participants  : Johan Peeters,Francois Raynaud
+
 ---
 
 As DevOps become more and more popular, fewer businesses can avoid the use of containers. Containers make deploying servers and services easier and more efficient. Today, one of the most popular container platforms is Docker, which eliminates the “works on my machine” problems that can occur when working on code with a team. 
@@ -31,16 +36,15 @@ While there are several security issues which show up when reviewing Docker secu
 The outcome of this Working Session will be a document which summarizes the most common security concerns when using Docker and practical advice on how to protect from them.
 
 ## Who
-
-•	Docker Security Experts
-•	Docker users who wish to learn more
+- Docker Security Experts
+- Docker users who wish to learn more
 
 ## References
 
  - <a href="https://twitter.com/bpedro/status/859862631921987586">Twitter @letsencrypt + @docker + resty-auto-ssl</a>
  <a href="https://d3oypxn00j2a10.cloudfront.net/assets/img/Docker%20Security/WP_Intro_to_container_security_03.20.2015.pdf">White Paper about container security</a>
- <a href="https://docs.docker.com/engine/security/security/">Docker Security</a>
- <a href="https://github.com/docker/docker">Docker Download</a>
+- <a href="https://docs.docker.com/engine/security/security/">Docker Security</a>
+- <a href="https://github.com/docker/docker">Docker Download</a>
 
 ## Working materials
 

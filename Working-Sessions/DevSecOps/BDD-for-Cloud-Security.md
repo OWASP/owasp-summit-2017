@@ -6,10 +6,11 @@ owasp-project: no
 track        : DevSecOps
 technology   :
 related-to   :
-status       : Final stage
+status       : done
 when-day     : Tue
 when-time    : AM-1
 location     : Room-5
+room-layout  : square
 organizers   : Fraser Scott
 participants : Neil Barlow,Dicky Stafford,Francois Raynaud,Stephen de Vries,Johan Peeters
 ---

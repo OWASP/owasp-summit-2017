@@ -5,13 +5,14 @@ type         : workshop
 track        : Juice Shop
 technology   : Node
 description  : Brainstorming and designing new hacking challenges and other features for OWASP Juice Shop and its CTF-extension.
-status       : Final stage
+status       : done
 organizers   : Bjoern Kimminich
 when-day     : Mon
-when-time    : PM-3
+when-time    : PM-2
 locked       : true
-location     : Villa-5
-participants : Dinis Cruz,Ade Yoseman Putra,Timo Pagel,Francois Raynaud
+location     : Room-2
+room-layout  : circle
+participants : Ade Yoseman Putra,Timo Pagel,Francois Raynaud
 invited      : Jannik Hollenbach
 cant-make-it : Ingo Hanke
 ---

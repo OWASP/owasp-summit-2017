@@ -3,16 +3,16 @@ layout      : blocks/working-session
 title       : AWS Lambda Security
 type        : workshop
 track       : DevSecOps
-status      : need-more content
+status      : to be reviewed content
 when-day    :
-organizers  :
+organizers  : Erez Yalon
 participants: Dinis Cruz
 ---
 
 
 ## Why
 
-...why text...
+Because AWS Lambda lets us run code without provisioning or managing servers. What security risks are in place?
 
 ## What
 
@@ -24,7 +24,9 @@ participants: Dinis Cruz
  
 ## Outcomes
 
-...add text...
+AWS Lambda Security Cheatsheet
+AWS Lambda Security To-Do scripts
+AWS Lambda Secuity Checklit
 
 ## Who
 
@@ -34,12 +36,11 @@ The target audience for this Working Session is:
 - AWS Lambda developers
 - AWS Lamba users
 
---- 
-
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 
 ### Content
 
-...add content...
+AWS Lambda Security considerations
+AWS Lambda

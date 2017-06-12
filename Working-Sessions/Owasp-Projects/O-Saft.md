@@ -45,14 +45,22 @@ The Working Session will focus on the internal redesign and some improvements th
 
 The target audience for this Working Session is:
 
---Add text--
+- contributors to the tool
+- users in general and users having special requirements
 
 --- 
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+There is a [docs](https://github.com/OWASP/O-Saft/tree/master/docs) directory with [documentation for developers](https://github.com/OWASP/O-Saft/) at github.
+
+Draft for all the topics to be discused and worked on during the session in [google docs](https://docs.google.com/a/owasp.org/document/d/1He_hXRegxOYSqzgIT1jc50sTxATe6Tv4CoghnpI6R_4/edit?usp=sharing).
 
 ### Content
 
-...add content...
+See "Working materials" above.
+
+---
+
+Create a [slack team](https://o-saft.slack.com/), feel free to join the O-Saft team with your @owasp.org address (unfortunately slack is toooo stupid to accept @gmail.com addresses).
+

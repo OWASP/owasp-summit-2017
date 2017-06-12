@@ -5,11 +5,12 @@ type         : workshop
 track        : Juice Shop
 technology   : Node
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
-status       : Final stage
+status       : done
 organizers   : Bjoern Kimminich
 when-day     : Wed
 when-time    : AM-1,PM-1,PM-2
 location     : Villa-5
+room-layout  : cabaret
 participants :
 invited      : Ade Yoseman Putra, Amani Altarawneh, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Victor Vidigal Ribeiro
 cant-make-it : Dinis Cruz

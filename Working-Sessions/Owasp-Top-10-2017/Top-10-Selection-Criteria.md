@@ -5,10 +5,10 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : final stage; add content 
-when-day     : Mon
-when-time    : PM-1
-location     : Room-2
+status       : replaced 
+when-day     : 
+when-time    : 
+location     : 
 organizers   : Dave Wichers
 participants : Tiffany Long,Jonas vanalderweireldt
 ---

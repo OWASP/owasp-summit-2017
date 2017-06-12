@@ -8,9 +8,10 @@ technology   : CI,SAST
 related-to   : Integrating Security Tools in the SDL,CISO
 when-day     : Tue
 when-time    : PM-2
-location     : Room-1
-locked       : true
-status       : Final stage
+location     : Room-1
+room-layout  : unknown
+locked       : true
+status       : done
 participants : Johan Peeters, Timo Pagel
 organizers   : Felipe Zipitria
 invited      : Dinis Cruz

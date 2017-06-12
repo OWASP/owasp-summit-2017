@@ -69,10 +69,11 @@ class Tickets
         data.stats.count++
         data.stats.no_regonline++ if value.metadata.regonline is 'No'
 
+        # add data to the csv.
         if value.metadata.ticket.contains('24h')
-          data.by_Type['24h'].add key
+          data.by_Type['24h'].add "#{key}, #{value.metadata?['job-title'].before(',') || ''}, #{value.metadata['company'] || ''}\n"
         else
-          data.by_Type['8h'].add key
+          data.by_Type['8h'].add "#{key}, #{value.metadata?['job-title'].before(',') || ''}, #{value.metadata['company'] || ''}\n"
 
         data.by_Ticket[value.metadata.ticket] ?= { stats: { count:0 }, names: []}
         using data.by_Ticket[value.metadata.ticket], ->

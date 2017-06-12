@@ -4,8 +4,8 @@ title        : Hackathon Daily Sessions
 type         : workshop
 track        : Security Crowdsourcing
 technology   :
-related-to   : OWASP Bug Bounty
-status       : need outcomes; need working materials
+related-to   : Juice Shop,O-Saft,OWASP Bug Bounty
+status       : need to be reviewed content
 when-day     : Mon,Tue,Wed,Thu
 when-time    : Eve
 location     : Villa-3
@@ -15,20 +15,27 @@ participants :
 
 ## Why
 
-🔧TODO
+Having the woodstock of Appsec in London, it´s a must to put some people working on bug hunting tasks and improve the world. But we need also to help new ones into the bug hunting world. We need to map OWASP effort into bug hunting opportunities.
 
 ## What
 
+Recap on Bug Hunting Programs requirements and benefits.
+
 Bug Bounty Group Hack (e.g. similar to [Great OWASP Bug Bash of 2013](http://2013.appsecusa.org/2013/activities/bug-bounty-group-hack/index.html) at AppSecUSA complying with the [Team OWASP - Bug Bounty Program Agreement](https://docs.google.com/document/d/1rRZ--hH417l1RiIzsXY8PAOjnjEo4fBRZSL-t4U-uJA/edit))
 
-## Outcomes
+Refer to the _Related Working Session(s)_ below for information about their hackathon-aspect.
 
-... Add outcomes ...
+## Outcomes 
+
+- Bugbounty Cheatsheet
+- OWASP Top 10 mapping to top 3 bug hunting program
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+- OWASP TOP 10 2017
+- Bug Bounty programs
 
 ### Content
 
-... Add content ...
+OWASP TOP 10 2017
+Bug Hunting and Bug Bounty programs

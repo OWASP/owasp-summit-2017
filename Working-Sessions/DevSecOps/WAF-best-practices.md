@@ -10,7 +10,7 @@ status       : draft
 when-day     : 
 when-time    : 
 organizers   : Scott Treacy
-participants : Francois Raynaud
+participants : Francois Raynaud, Achim Hoffmann
 ---
 
 Working session to cover Best practices in WAF..

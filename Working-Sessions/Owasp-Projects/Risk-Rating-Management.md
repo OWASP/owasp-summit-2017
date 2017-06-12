@@ -3,12 +3,13 @@ layout       : blocks/working-session
 title        : OWASP Risk Rating Management Project
 type         : workshop
 track        : Owasp Projects
-status       : Final stage
+status       : done
 when-day     : Fri
 when-time    : AM-1
-location     : Room-2
-organizers   : Ade Yoseman Putra, Mohammad Febri Ramadlan
-participants : Petty Meisari, Phil Parker
+location     : Room-2
+room-layout  : cabaret
+organizers   : Phil Parker
+participants : Petty Meisari, Ade Yoseman Putra, Mohammad Febri Ramadlan
 ---
 
 ## Why
@@ -36,7 +37,7 @@ more details
 https://github.com/mohammadfebrir/owasp-riskrating
 
 
-## Definition of Done
+## Outcome
 
  How to use OWASP Risk Rating Methodology: 
  Step 1: Identifying a Risk 
