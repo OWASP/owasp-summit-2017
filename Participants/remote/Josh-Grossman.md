@@ -17,4 +17,4 @@ working-sessions: Top 10 2017 - write revised and new text, Top 10 2017 - Proces
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
-<!-- put more details about participant here -->
+Patchy availabilty on Monday with better availability on Tuesday and Wednesday.
