@@ -75,3 +75,7 @@ What do they do?
 - Help with QA and Testing:
 - Write Tests (from Unit Tests to Integration tests)
 - Help with development of CI (Continuous Integration) environments
+
+What is a Security Guild?
+
+"A guild is a community of members with shared interests. These are a group of people across the organization who want to share knowledge, tools code and practices." [Spotify](http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds)
