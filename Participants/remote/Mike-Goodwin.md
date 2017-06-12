@@ -5,8 +5,8 @@ type            : participant-remote
 job-title       : VP Product Security
 company         : Sage
 image           : https://avatars2.githubusercontent.com/u/5851302?v=3&u=5a81bc0c7ed953b5706aa70a7e3a00893928fc98&s=400
-linkedin        : https://www.linkedin.com/in/mike-goodwin-4619a1/
-twitter         : @theblacklabguy
+linkedin        : mike-goodwin-4619a1
+twitter         : theblacklabguy
 facebook        : 
 website         : 
 email           : mike.goodwin@owasp.org
