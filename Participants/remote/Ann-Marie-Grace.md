@@ -2,7 +2,7 @@
 layout          : blocks/page-participant
 title           : Ann-Marie Grace
 type            : participant-remote
-job-title       : OWASP Summit Technical Editor
+job-title       : Summit Technical Editor
 company         : 
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAROAAAAJDE0YTlhMTU1LTM3ZDYtNDIyNi1hYjg3LWFmN2E2ZjkwMDZlMw.jpg
 linkedin        : amgrace
