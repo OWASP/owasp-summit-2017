@@ -61,5 +61,5 @@ The target audience for this Working Session is:
 - July 2017        - Proposed final released
 
 Questions on the preparation time scale:
-- Would it make sense to publish the proposed Top 10 list without writing the full document so as to gather feedback on the suggested Top 10 first?
-- Does the ratio between time allocated to gathering data and time allocated to analysing the data make sense? (~3 months (~Jun-Aug) to gather compared to ~7 months (~Sep-Mar) to analyse).
+- Would it make sense to publish the proposed Top 10 list without writing the full document so as to gather feedback on the suggested Top 10 first? [issue 6](https://github.com/OWASP/Top10/issues/7)
+- Does the ratio between time allocated to gathering data and time allocated to analysing the data make sense? (~3 months (~Jun-Aug) to gather compared to ~7 months (~Sep-Mar) to analyse). [issue 7](https://github.com/OWASP/Top10/issues/6)
