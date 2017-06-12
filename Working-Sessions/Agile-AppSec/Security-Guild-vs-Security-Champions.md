@@ -78,4 +78,4 @@ What do they do?
 
 What is a Security Guild?
 
-"A guild is a community of members with shared interests. These are a group of people across the organization who want to share knowledge, tools code and practices." [Spotify](http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds)
+"A guild is a community of members with shared interests. These are a group of people across the organization who want to share knowledge, tools, code, and practices." [Spotify](http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds)
