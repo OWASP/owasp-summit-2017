@@ -57,19 +57,19 @@ The target audience for this Working Session is:
 
 ### The OWASP 2017 Summit path 
 
-![avatao owasp](https://github.com/avatao/blog.avatao.com/blob/master/images/avatao_kaitai.png)
+![avatao owasp](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/avatao_kaitai.png)
 
 ### Kaitai Struct in avatao
 
-![avatao kaitai](https://github.com/avatao/blog.avatao.com/blob/master/images/Kaitai%20Web%20IDE.png)
+![avatao kaitai](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/Kaitai%20Web%20IDE.png)
 
 ### Live Wireshark from your browser
 
-![avatao wireshark](https://github.com/avatao/blog.avatao.com/blob/master/images/avatao_wireshark.png)
+![avatao wireshark](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/avatao_wireshark.png)
 
 ### Some statistics
 
-![avatao statistics](https://github.com/avatao/blog.avatao.com/blob/master/images/avatao_statistics.png)
+![avatao statistics](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/avatao_statistics.png)
 
 
 
