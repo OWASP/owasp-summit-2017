@@ -8,7 +8,6 @@ technology   :
 related-to   :
 status       : empty
 when-day     : Thu
-organizers   : 
 when-time    : AM-1
 location     : Testing Guide Villa (315)
 organizers   : Matteo Meucci
