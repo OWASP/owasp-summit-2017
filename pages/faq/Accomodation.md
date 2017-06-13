@@ -49,6 +49,8 @@ Security will give you a map and directions to your allocated parking.
 
 The OWASP Summit team will hand you an envelope, this will include your key fob and usseful information about Centre Parcs. In your villa, you will find information packs and guidnace signs that will give you advice on the facilities. If you have any problems, you can call guest services from your villa on extension 2855.
 
+#### 10. Where do I go if I arrive after at Centre Parcs after 8pm to check in?
 
+Make your way to the security gate at the entrance to the park and let them know that you are attending the OWASP summit and need to collect the key to your accomodation. They will check your name and give you your key, they will also give you directions. 
 
 
