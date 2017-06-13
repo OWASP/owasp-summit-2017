@@ -6,7 +6,7 @@ owasp-project: no
 organizers   : Ingo Hanke
 track        : CISO
 status       : Final stage
-when-day     : Thu
+when-day     : Wed
 when-time    : Eve
 location     : Villa-2
 organizer    : 
