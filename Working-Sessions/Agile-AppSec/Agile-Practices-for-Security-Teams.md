@@ -32,7 +32,54 @@ Agile practices have been around for quite some time now and a lot of organisati
 
 ## Outcomes
 
-This Working Session will result in a draft document explaining how security can fit into an agile development process.
+The following categories highlight some of the key activities of an agile security team:
+
+Education
+- define and deliver security training programmes
+
+Communication
+- security team to be visible, present at standups, available
+- connect dev to production
+- empower security champions
+
+Standardisation and Compliance
+- Own strong guidelines, e.g. data classification, regulatory, compliance
+- two tier security standards? mandatory, depend on risk/sensitivity etc
+- library of standard stories
+
+Support
+- technical support
+- help create security user stories, personas, anti-personas, patterns
+- culture of "security is not to say no, but to help"
+- testing
+- automation is needed for CI/CD e.g. tool to track 3rd party licenses
+- "development enablement tribe"
+
+Governance/Control
+- project initiation touch point "gate"
+- prioritisation of involvement based on risk assessment, lifecycle stage
+- define "done"
+- 3rd party maturity assessment 
+- Internal compliance checks
+- centralised tracking in primary colours
+- security team KPIs
+- security organisation has to be separate from development
+- monetary value on risks helps prioritisation
+- risk acceptance/escalation process
+
+Engineering
+- Bring in shared security solutions such as WAF- engineering effort
+
+Practices
+- perhaps agile not applicable, more lean/kanban
+- view security as functions, not people - resourcing can change but functions don't
+- don't be a blocker to agile, e.g. in operational approvals
+- "security team as a service"
+- struggle to manage BAU and hence forecasting: separate functions
+- need visibility of project portfolio
+- separation of duty can be a constraint
+
+
 
 ## Who
 
