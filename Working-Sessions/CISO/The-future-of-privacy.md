@@ -7,8 +7,8 @@ organizers   : Ingo Hanke
 track        : CISO
 status       : Final stage
 when-day     : Thu
-when-time    : PM-1
-location     : Room-4
+when-time    : Eve
+location     : Villa-2
 organizer    : 
 participants : Akshay Sharma, Achim Hoffmann, Johan Peeters
 ---
