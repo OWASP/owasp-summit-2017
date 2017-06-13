@@ -29,6 +29,7 @@ For an organisation or group to understand and use threat modelling, they should
 - Who should be involved? 
 - For starting threat modelling on an existing project/codebase - how to start without the need to cover everything (this shares some similarities with introducing tests to legacy software)
 
+![API model][1]
 ## Outcomes
 
 - Guidelines for the effective use of threat modelling
@@ -78,3 +79,5 @@ How to get started
 
  ####Outcome: These are the steps that are common to most approaches. 
 We will finish the actual content at a later date due to time constraints (to do action).
+
+[1]: API.bmp
