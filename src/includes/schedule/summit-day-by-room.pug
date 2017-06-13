@@ -18,6 +18,10 @@ mixin show-room
     td.text-center
         .room-name {{ site.data.venue[room].name }}
         .room-key {{ room }}
+        | {% if site.data.venue[room].live-stream %}
+        b
+            a(href='{{site.data.venue[room].live-stream}}') Live Stream
+        | {% endif %}
     td
         | {% assign time = 'AM-1'  %}
         + show-session-at-time
@@ -45,7 +49,7 @@ mixin show-room
         div.visible-print-block
             h1 {{ page.title }}
         div.hidden-print
-            h3 {{ page.title }}
+            h3 {{ page.title }} schedule ({{ page.day }})
         hr.hidden-print
         div.hidden-print
             ul

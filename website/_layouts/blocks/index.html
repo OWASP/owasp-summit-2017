@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html>
-  <head>{% include page/header.html               %}</head>
+  <head>{% include page/header.html                   %}</head>
   <body>
-    {% include page/menu.html                 %}
-    {% include blocks/home-banner.html        %}
-    {% include blocks/summit-intro.html       %}
+    {% include page/menu.html                     %}
+    {% include blocks/during-summit.html          %}
+    {% include blocks/remote.html                 %}
+    {% include schedule/summit-day-by-room.html   %}
+    {% include blocks/summit-intro.html           %}
     <div class="featured-ws">
       <div class="container">
         {% include blocks/tracks.html         %}
-        {% include blocks/topics.html   %}
+        {% include blocks/topics.html         %}
       </div>
-    </div>{% include blocks/featured-ws.html        %}
-    {% include blocks/get-your-ticket.html    %}
-    {% include page/footer.html               %}
-    {% include page/google-analytics.html     %}
+    </div>{% include blocks/featured-ws.html            %}
+    {% include blocks/get-your-ticket.html        %}
+    {% include page/footer.html                   %}
+    {% include page/google-analytics.html         %}
   </body>
 </html>
