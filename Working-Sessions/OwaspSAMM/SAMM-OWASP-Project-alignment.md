@@ -30,6 +30,14 @@ SAMM provides a program level view of activities for securing software. We need 
 - Recommendations for addition to SAMM
 - Plan for project and activity alignment
 
+### Synopsis and Takeaways
+
+- We must make sure to remap “Flagship” and “Lab” projects for SAMM Version 2
+- Reach out to “Flagship” and “Lab” leaders to get references to the SAMM project and, if possible, link to an activity or     security process.
+- Identify missing tools and artefacts that are needed for different activates
+- Make sure to promote these missing tools and artefacts to encourage people to undertake the project themselves. 
+- Map a lower level of granularity; map at a level of activities  
+
 ## Who
 
 The target audience for this Working Session is:
