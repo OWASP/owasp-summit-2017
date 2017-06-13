@@ -11,10 +11,10 @@ flight-cost     : 2441
 ticket-cost     : 500
 funded-amount   : 1500 (Summit Budget), 941 (CISO Project)
 required-funds  : 2941
-job-title       :
-image           : 
-linkedin        :
-twitter          : marcomorana
+job-title       : SVP Information Security
+image           : https://pbs.twimg.com/profile_images/870407578316140545/aGlMEd9w.jpg
+linkedin        :
+twitter         : marcomorana
 facebook        :
 website         : https://www.owasp.org/index.php/Marco_Morana
 project-leader  :
