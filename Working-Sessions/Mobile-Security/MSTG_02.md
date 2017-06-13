@@ -41,15 +41,13 @@ Associated chapters in the MSTG:
 
 ## Outcomes
 
-Work has begun on a Special Edition version of the Mobile Security & Testing Guide 
+This Working Session continued on content creation, revision and editing of the Mobile Security Testing Guide
 
 ## Synopsis and Takeaways
 
-This workshop was characterized by fervent writing interspersed with interesting discussions.
-
-*  Whether to remove the Dynamic Analysis sections from the Cryptography chapter. Most of the analysis currently included is static and requires access to the source code. This may not be possible to analyze dynamically.
-
-*  Discussion on what to cover in the Remediation section? How much detail should be in the Testing Guide vs Developer Guide. Ideally, the Testing Guide would reference best practices in the Developer Guide.
+Develop existing content on Test Case Exception Handling.
+Testing Authentication and Session Management
+Updating high level methodology of mobile security testing
 
 ## How to Join
 
