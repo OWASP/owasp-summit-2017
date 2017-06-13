@@ -7,7 +7,7 @@ status       : final stage; need-working materials; need to be reviewed content
 when-day     : Thu
 when-time    : PM-2
 location     : Room-5
-organizers   : Gabor Pek
+organizers   : Nuno Loureiro, Tiago Mendo
 participants : Johan Peeters, Ingo Hanke, Mateo Martinez
 invited      : Simon Bennetts
 ---
