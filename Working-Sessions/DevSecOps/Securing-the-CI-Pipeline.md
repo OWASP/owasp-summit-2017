@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: no
 track        : DevSecOps
 technology   : CI,SAST
-related-to   : Integrating Security Tools in the SDL,CISO
+related-to   : Integrating Security Tools in the SDL,CISO,Docker Security
 when-day     : Tue
 when-time    : PM-2
 location     : Room-1
