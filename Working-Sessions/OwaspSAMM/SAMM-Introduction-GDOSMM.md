@@ -29,8 +29,13 @@ get understanding of DevOps vocabulary / see how we could reuse parts/complete G
 
 ## Outcomes
 
-decision if reuse parts/complete GDOSMM?
-identify what?
+### Synopsis and Takeaways
+- No need to change the core model but reviewing the SAMM activities is important to assure they are implementation neutral
+- In addition Implementation advice can be included for different roles and processes e.g. DevOps, Waterfall and Agile
+- GDOSMM is a potential implementation subset of SAMM
+- An evening session was agreed for model mapping SAMM to GDOSMM
+- The effort/impact dimensions suggested make for an interesting addition to activities 
+
 
 ## Who
 

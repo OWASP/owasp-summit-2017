@@ -11,7 +11,7 @@ when-day     : Tue
 when-time    : Eve
 location     : Villa-2
 organizers   : Ross Tanner
-participants : Francois Raynaud,Ade Yoseman Putra, Don Gibson
+participants : Ade Yoseman Putra, Don Gibson
 ---
 
 ## Why

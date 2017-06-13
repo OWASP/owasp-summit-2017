@@ -26,7 +26,11 @@ This Working Session will review the core model in relation to different develop
 
 ## Outcomes
 
-...add content...
+### Synopsis and Takeaways
+
+- Restructure SAMM activities with an increasing maturity of implementation
+- Apply this restructure to all SAMM practises and activities (high level).
+- Create one or more detailed descriptions with implementation guidance
 
 ## Who
 

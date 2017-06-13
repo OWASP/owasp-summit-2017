@@ -12,8 +12,12 @@ when-time    : PM-1,PM-2,PM-3
 location     :
 room-layout  : unknown
 organizers   : Johan Peeters
-participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt, Fabien Thalgott, Bolot Kerimbaev, Mateo Martinez
+participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt, Fabien Thalgott, Bolot Kerimbaev, Mateo Martinez, Scott Treacy, Sven Schleier
 ---
+
+
+## You must confirm your participation by 8pm on 13 June 2017 to secure your place.
+Maximum capacity: 40 participants
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
 
@@ -38,20 +42,7 @@ Exhibits listed above are a suggestion, but feel free to pursue your own interes
 
 ### Transport Arrangements:
 
-Transport remains to be arranged, but local taxi's are available. In order to be able to book sufficient taxi's, please indicate below whether you need transport or can take people. Shared taxi fees are likely to cost around 10 GBP per head, round trip.
-
-Have vehicle with N open slots:
-* Sebastien Deleersnyder: Steven Wierckx, Jonas Vanalderweireldt, Fabien Thalgott, 1 extra seat
-* Chris Cooper: 3 extra seats
-
-Need transport:
-* Adam Shostack
-* Viktor Lindstrom
-* Bjoern Kimminich
-* Hamza Alkofahi
-* Johan Peeters
-* Bolot Kerimbaev
-* Mateo Martinez
+A bus has been arranged to take us from the conference center to Bletchley. Watch this space for details of pickup location and time.
 
 ### Tickets
 
@@ -64,3 +55,4 @@ Do *not* require ticket (e.g. season Pass owners)
 ## Who
 
 Anyone interested in the history of our field.
+

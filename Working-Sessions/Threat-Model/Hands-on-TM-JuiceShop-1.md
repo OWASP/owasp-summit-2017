@@ -29,8 +29,18 @@ Dinis proposed a set of evening sessions to create threat model artefacts & exam
 
 ## Outcomes
 
-- Set of models checked in  
-- Possibly also sets of requirements or assumptions
+###Synapsis and Takeaways
+
+The Session was very productive. A live copy of Juice shop was demonstrated to the room and shared via google hangouts, in which valuable input was given. Insight to how Juice shop functioned was exhibited from code on the local server. During this demo, as a group, a model was created of the Juice Shop application in real-time.
+Architecture diagrams from the session were compared to the current official architecture that contrasted differences of opinion. These diagrams spanned information from the browser, server and file system. Injection processes that function with Juice shop were discussed. 
+ 
+The group moved from the question of “what is Juice Shop” to “what can go wrong with Juice Shop”.  It was decided that the first session would be a bigger group session to bring everyone up to speed, with the later sessions being smaller dedicated teams. 
+
+Outcomes
+- Demonstrated that professionals can work from different point of view on this core topic 
+- Decided that a threat model diagram can be created on Juice Shop in great detail
+- A useful architecture mapping diagram have been created. 
+
 
 ## Who
 
