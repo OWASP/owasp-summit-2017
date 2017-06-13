@@ -29,8 +29,14 @@ Dinis proposed a set of evening sessions to create threat model artefacts & exam
 
 ## Outcomes
 
-- Set of models checked in  
-- Possibly also sets of requirements or assumptions
+###Synapsis and Takeaways
+
+Following on from the morning session, the deployment and its processes was discussed. This session showcased the Juice Shop dependencies packages and the code to call upon them. The Juice Shop release process was shown in detail. A diagram was created on this process.  
+
+Outcomes
+- Solid overview of the continuous integration/deployment pipeline .
+- Diagram created of DevOps overview.
+- Diagram created of the monitoring infrastructure.
 
 ## Who
 
