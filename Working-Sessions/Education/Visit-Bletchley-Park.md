@@ -15,6 +15,10 @@ organizers   : Johan Peeters
 participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt, Fabien Thalgott, Bolot Kerimbaev, Mateo Martinez
 ---
 
+
+## You must confirm your participation by 8pm on 13 June 2017 to secure your place.
+Maximum capacity: 40 participants
+
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
 
 Enemy messages were decrypted at Bletchley Park during WW II. This capability was a closely guarded secret and turned out to be of decisive importance to the outcome of the war.
@@ -52,5 +56,3 @@ Do *not* require ticket (e.g. season Pass owners)
 
 Anyone interested in the history of our field.
 
-## You must confirm your participation by 8pm in 13 June 2017 to secure your place.
-Maximum capacity: 40 participants
