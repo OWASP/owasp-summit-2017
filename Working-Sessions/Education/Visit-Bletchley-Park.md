@@ -51,3 +51,6 @@ Do *not* require ticket (e.g. season Pass owners)
 ## Who
 
 Anyone interested in the history of our field.
+
+## You must confirm your participation by 8pm in 13 June 2017 to secure your place.
+Maximum capacity: 40 participants
