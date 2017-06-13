@@ -12,7 +12,7 @@ when-time    : PM-1,PM-2,PM-3
 location     :
 room-layout  : unknown
 organizers   : Johan Peeters
-participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt, Fabien Thalgott, Bolot Kerimbaev, Mateo Martinez, Scott Treacy, Sven Schleier, Timo Pagel, Mamta Naidu, Carlos Holguera, Brian Glas, Bernhard Mueller, Enrico Verzegnassi, Ingo Hanke
+participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt, Fabien Thalgott, Bolot Kerimbaev, Mateo Martinez, Scott Treacy, Sven Schleier, Timo Pagel, Mamta Naidu, Carlos Holguera, Brian Glas, Bernhard Mueller, Enrico Verzegnassi, Ingo Hanke, Bart De Win
 ---
 
 
