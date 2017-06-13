@@ -7,7 +7,7 @@ track        : Owasp
 status       : need working materials 
 when-day     : Thu
 when-time    : Eve
-location     : remotely
+location     : 
 organizers   : Mateo Martinez
 participants : Oscar Perez (remotely), Ricardo Supo Picon (remotely), John Jairo (remotely), Fernando Vela (remotely), Pablo (remotely), Gaston Toth (remotely), John Vargas (remotely)
 ---
