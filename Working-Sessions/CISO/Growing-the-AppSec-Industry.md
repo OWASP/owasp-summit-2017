@@ -7,9 +7,9 @@ track        : CISO
 technology   :
 related-to   : Cyber Insurance,Education
 status       : needs more content
-when-day     : Wed
-when-time    : PM-2
-location     : Room-4
+when-day     : 
+when-time    : 
+location     : 
 organizers   : Yan Kravchenko
 participants : Tiffany Long
 ---
