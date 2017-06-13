@@ -11,7 +11,7 @@ when-time    : PM-1
 location     : Room-5
 room-layout  : cabaret
 organizers   : Francois Raynaud
-participants : Mamta Vuppu;Mateo Martínez
+participants : Naushad007, Mamta Vuppu;Mateo Martínez
 ---
 
 ## Why
