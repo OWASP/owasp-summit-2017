@@ -17,7 +17,8 @@ when-day        : Mon,Tue,Wed,Thu
 ticket          : 3x24h,1x8h
 status          : empty
 regonline       : No
-working-sessions: GDPR and DPO AppSec implications, Security Guild vs Security Champions, Growing the AppSec Industry, Juice Shop, Creating AppSec Talent (next 100k professionals), Define Agile Security Practices, Agile Practices for Security Teams, Teaching Attacker perspective to Developers, A10 - Underprotected APIs, Threat Modeling Cheat Sheet & Lightweight Threat Modeling, Hands on Threat Modeling Juice Shop (Deployment & Operations), CISO Round table, Software Defined Everything (SDx), Writing Security Tests, Threat Modeling Scaling and Security Champions, JIRA Risk Workflow, Security Monitoring Playbooks, AppSec SOC Monitoring Visualisation, Integrating Security into an Spotify Model, Threat Modeling Cloud Migrations, Threat Modeling IoT Devices, NextGen Security Scanners, Securing Legacy Applications
+<<<<<<< HEAD
+working-sessions: GDPR and DPO AppSec implications, Security Guild vs Security Champions, Growing the AppSec Industry, Juice Shop, Creating AppSec Talent (next 100k professionals), Define Agile Security Practices, Agile Practices for Security Teams, Teaching Attacker perspective to Developers, A10 - Underprotected APIs, Threat Modeling Cheat Sheet & Lightweight Threat Modeling, Hands on Threat Modeling Juice Shop (Deployment & Operations), CISO Round table, Software Defined Everything (SDx), Writing Security Tests, Threat Modeling Scaling and Security Champions, JIRA Risk Workflow, Security Monitoring Playbooks, AppSec SOC Monitoring Visualisation, Integrating Security into an Spotify Model, Threat Modeling Cloud Migrations, Threat Modeling IoT Devices, NextGen Security Scanners, Securing Legacy Applications, Visit Bletchley Park
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
