@@ -32,52 +32,54 @@ Agile practices have been around for quite some time now and a lot of organisati
 
 ## Outcomes
 
+### Synopsis and Takeaways
+
 The following categories highlight some of the key activities of an agile security team:
 
 Education
-- define and deliver security training programmes
+- Define and deliver security training programmes
 
 Communication
-- security team to be visible, present at standups, available
-- connect dev to production
-- empower security champions
+- Security team to be visible, present at standups, available
+- Connect dev to production
+- Empower security champions
 
 Standardisation and Compliance
 - Own strong guidelines, e.g. data classification, regulatory, compliance
-- two tier security standards? mandatory, depend on risk/sensitivity etc
-- library of standard stories
+- Two tier security standards? mandatory, depend on risk/sensitivity etc
+- Library of standard stories
 
 Support
-- technical support
-- help create security user stories, personas, anti-personas, patterns
-- culture of "security is not to say no, but to help"
-- testing
-- automation is needed for CI/CD e.g. tool to track 3rd party licenses
-- "development enablement tribe"
+- Technical support
+- Help create security user stories, personas, anti-personas, patterns
+- Culture of "security is not to say no, but to help"
+- Testing
+- Automation is needed for CI/CD e.g. tool to track 3rd party licenses
+- "Development enablement tribe"
 
 Governance/Control
-- project initiation touch point "gate"
-- prioritisation of involvement based on risk assessment, lifecycle stage
-- define "done"
+- Project initiation touch point to define "gates"
+- Prioritisation of involvement based on risk assessment, lifecycle stage
+- Define "done"
 - 3rd party maturity assessment 
 - Internal compliance checks
-- centralised tracking in primary colours
-- security team KPIs
-- security organisation has to be separate from development
-- monetary value on risks helps prioritisation
-- risk acceptance/escalation process
+- Centralised tracking in primary colours
+- Security team KPIs
+- Security organisation has to be separate from development
+- Monetary value on risks helps prioritisation
+- Risk acceptance/escalation process
 
 Engineering
 - Bring in shared security solutions such as WAF- engineering effort
 
 Practices
-- perhaps agile not applicable, more lean/kanban
-- view security as functions, not people - resourcing can change but functions don't
-- don't be a blocker to agile, e.g. in operational approvals
-- "security team as a service"
-- struggle to manage BAU and hence forecasting: separate functions
-- need visibility of project portfolio
-- separation of duty can be a constraint
+- Perhaps agile not applicable, more lean/kanban
+- View security as functions, not people - resourcing can change but functions don't
+- Don't be a blocker to agile, e.g. in operational approvals
+- "Security team as a service"
+- Struggle to manage BAU and hence forecasting: separate functions
+- Need visibility of project portfolio
+- Separation of duty can be a constraint
 
 
 
