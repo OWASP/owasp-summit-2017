@@ -12,7 +12,7 @@ when-time    : PM-1,PM-2,PM-3
 location     :
 room-layout  : unknown
 organizers   : Johan Peeters
-participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt, Fabien Thalgott
+participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt, Fabien Thalgott, Bolot Kerimbaev
 ---
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
@@ -50,6 +50,7 @@ Need transport:
 * Bjoern Kimminich
 * Hamza Alkofahi
 * Johan Peeters
+* Bolot Kerimbaev
 
 ### Tickets
 
@@ -57,6 +58,7 @@ Barring some financial windfall, you will be expected to pay entrance fees. The 
 
 Do *not* require ticket (e.g. season Pass owners)
 * Bjoern Kimminich
+* Bolot Kerimbaev (have a ticket for Bletchley Park)
 
 ## Who
 
