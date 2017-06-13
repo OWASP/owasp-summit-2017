@@ -1,16 +1,15 @@
 ---
 layout       : blocks/working-session
-title        : OWASP Project Alignment
+title        : OWASP Project Alignment (Top 10, ASVS)
 type         : workshop
 owasp-project: no
 track        : Owasp Testing Guide v5
 technology   :
 related-to   :
-status       : done
+status       : empty
 when-day     : Wed
-organizers   : 
 when-time    : AM-1
 location     : Testing Guide Villa (315)
-organizers   : 
+organizers   : Matteo Meucci
 participants : 
 ---
