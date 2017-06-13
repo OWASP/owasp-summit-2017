@@ -5,12 +5,13 @@ type        : workshop
 track       : Threat Model
 related-to  : Threat Modeling Cheat Sheets
 description : OWASP Threat Modeling Templates will provide templates for addressing applications templates for which participants can leverage as starter kits for their respective threat modeling efforts.  The intent is to develop, maintain, and enhance a suite of templates that cover different application types, deployment models to which multiple MNCs across various industries can leverage within their respective AppSec groups.
-status      : final stage; need-working materials
+status      : done
 when-day    : Wed
 when-time   : AM-1
-location    : Room-6
+location    : Villa-4
+room-layout : unknown
 organizers  : Tony UV
-participants: Dinis Cruz,Jason Li,Avi Douglen,Irene Michlin,Stephen de Vries,Robert Morschel,Francois Raynaud, Duncan Hurwood,Johan Peeters
+participants: Dinis Cruz,Jason Li,Irene Michlin,Stephen de Vries,Robert Morschel,Francois Raynaud, Duncan Hurwood,Johan Peeters, Steven Wierckx
 ---
 
 This Working Session aims to create five threat modelling templates, that may include some of the following:  

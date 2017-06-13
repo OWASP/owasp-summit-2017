@@ -9,8 +9,8 @@ status       : need-working materials
 when-day     : Fri
 when-time    : PM-3
 location     : Room-5
-organizers   :
-participants :
+organizers   : Anders Reeves
+participants : 
 ---
 
 ## Why
@@ -53,7 +53,5 @@ The target audience for this Working Session is:
 
 (please add as much information as possible before the sessions)
 
-### Content
 
-...add content...
 

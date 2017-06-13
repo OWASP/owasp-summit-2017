@@ -14,7 +14,7 @@ project-leader  :
 chapter-leader  : Portuguese chapter
 when-day        :
 status          : empty
-working-sessions: Application Security BSc/Masters Curriculum Design,Teaching Attacker perspective to Developers,Evaluation/Optimization/Creation of Training Slides,Using ML and AI to detect Attacks,IAM for REST APIs,GDPR and DPO AppSec implications,AppSec SOC Monitoring Visualisation,TLS for Local IoT
+working-sessions: Application Security BSc/Masters Curriculum Design,Teaching Attacker perspective to Developers,Evaluation/Optimization/Creation of Training Slides,Machine Learning and Security,IAM for REST APIs,GDPR and DPO AppSec implications,AppSec SOC Monitoring Visualisation,TLS for Local IoT
 
 ---
 

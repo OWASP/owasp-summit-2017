@@ -13,7 +13,7 @@ You can travel to the Summit by rail or by car.
 
 Thameslink offers a service from London St Pancras International to Flitwick Train Station, which takes approximately 50 minutes. Flitwick station is approximately 3 miles, or a 10-minute transfer away; taxis are available at the station.
 
-For further rail information, visit [National Rail](www.nationalrail.co.uk.).
+For further rail information, visit [National Rail](https://www.nationalrail.co.uk).
 
 **Road**
 

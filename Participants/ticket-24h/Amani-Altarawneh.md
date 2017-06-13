@@ -14,8 +14,8 @@ email           :
 funded-who      :
 pre-summit      : Sun
 ticket          : 5x24h
-status          : empty
-working-sessions: Juice Shop,ZAP,Webgoat,OWASP Risk Rating Management Project,Bug Bounty Playbook,DoS Playbook,Women in Cyber,Data behind Owasp Top 10 2017,Top 10 Selection Criteria,OWASP Bug Bounty,The Future of Privacy,Writing Security Tests,Reverse Engineering APK's with Bytecodeviewer,Threat Modeling IoT Devices,Future of .Net Containers,OWASP Internet of Things Project,Ransomware Playbook
+status          : done
+working-sessions : OWASP Internet of Things Project,Threat Modeling Tools,Juice Shop Coding Night, Top 10 2017 - Call for Data and Weightings Discussion,A7 - Insufficient Attack Protection,Implications of Owasp Top 10 2017,Creating AppSec Teams,Threat and Vulnerability Management Playbook,Writing Security Tests,ZAP,Juice Shop Coding Day,Teaching Attacker perspective to Developers,Visit Bletchley Park,The Future of Privacy,Threat Modeling IoT Devices,OWASP Risk Rating Management Project,Women in Cyber,Scaling Static Analysis Reviews and Deployments
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

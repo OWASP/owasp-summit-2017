@@ -5,13 +5,14 @@ type         : workshop
 track        : CISO
 technology   : GDPR
 related-to   :
-status       : final stage
+status       : done
 when-day     : Mon,Thu
 when-time    : PM-1
-location     : Room-4
-organizers   :
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Ante Gulam, Stuart Gunter
-invited      : Neil Barlow, Kevin Fielder, Dilek Koluman, Clare Creeden, Anders Reeves
+location     : Room-6
+room-layout  : cabaret 
+organizers   : Anders Reeves
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel,Neil Barlow, Steven van der Baan, Bjoern Kimminich
+invited      : Kevin Fielder, Dilek Koluman, Clare Creeden
 ---
 
 ## Why
@@ -43,6 +44,9 @@ We need to be much more focused on the questions to ask and provide as much info
 ### List of questions (AppSec implications)
 
  - What are the AppSec implications of this regulation?
+ - What is the accepted format/notation for data flows and data at rest documentation requirements?
+ - How to include the DPO as part of the software security governance?
+ - What constitutes personal data and what about edge cases? (Post code, First Name + Last Name, IP Address etc.)
 
 
 ### List of questions (General implications)
@@ -53,3 +57,8 @@ We need to be much more focused on the questions to ask and provide as much info
  - The role of SOC in detecting and reporting security incidents
 
 ## List of companies that will sign the first version
+
+
+## Working Document
+
+https://docs.google.com/a/equalexperts.com/document/d/1-Xa7eFsa9w3pUOcor0ymbKw_OZZobit-akXf5jCbmZQ/edit?usp=sharing

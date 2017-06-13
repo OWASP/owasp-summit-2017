@@ -1,17 +1,17 @@
 ---
 layout       : blocks/working-session
-title        : Hands on Threat Modeling Juice Shop (topic 3)
+title        : Hands on Threat Modeling Juice Shop (New features)
 type         : workshop
-track        : Threat Model
+track        : Threat Model,Juice Shop
 technology   :
 related-to   : Juice Shop
 when-day     : Tue
 when-time    : PM-2
-location     : Villa-4
-status       : Improve outcomes; need-working materials
+location     : Room-6
+room-layout  : unknown
+status       : done
 organizers   : Adam Shostack,Bjoern Kimminich
-participants :
-invited      : Bjoern Kimminich
+participants : Steven Wierckx, Robert Hurlbut
 ---
 
 Get together to create models (diagrams) of Juice Shop to help us find problems with it, learn threat modelling, and deliver examples.  This is all about answering the question of what Juice Shop is and building models of it.
@@ -43,9 +43,7 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
-
-(please add as much information as possible before the sessions)
+* Juice Shop Staging Environment: <http://juice-shop-staging.herokuapp.com>
 
 ### Content
 

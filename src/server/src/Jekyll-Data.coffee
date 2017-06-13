@@ -77,51 +77,67 @@ class Jekyll_Data
 
     # Map by_Day
     for name, data of @.working_Sessions_Data when data.metadata.type is 'workshop'
-      days         = data.metadata['when-day' ] || 'no-day'
-      times        = data.metadata['when-time'] || 'no-time'
-      locations    = data.metadata['location' ] || 'no-location'
-      track        = data.metadata.track        || 'no-track'
-      locked       = data.metadata.locked       || false
-      status       = data.metadata.status
+      days         = data.metadata['when-day' ]    || 'no-day'
+      times        = data.metadata['when-time']    || 'no-time'
+      locations    = data.metadata['location' ]    || 'no-location'
+      layout       = data.metadata['room-layout' ] || 'unknown'
+      remote       = data.metadata['remote' ]      || ''
+      tracks       = data.metadata.track           || 'no-track'
+      locked       = data.metadata.locked          || false
+      status       = data.metadata.status          || ''
       invited      = data.metadata.invited
       organizers   = data.metadata.organizers
       panelists    = data.metadata.panelists
       participants = data.metadata.participants
 
+      is_Session_In_Multiple_Tracks = (array, name, track)->
+        for item in array
+          if item.name is name
+            return true
+        return false
+
 
       for day in days.split(',')
         for location in locations.split(',')
           for time in times.split(',')
+            for track in tracks.split(',')
+              schedule.by_Room[day]                  ?= {}
+              schedule.by_Room[day][location]        ?= {}
+              schedule.by_Room[day][location][time]  ?= []
+              using schedule.by_Room[day][location][time], ->
+                if is_Session_In_Multiple_Tracks @ , name, track
+                  @.track += ", @{track}"
+                else
+                  @.add name: name, url: data.url , track : track       , layout: layout, remote: remote, locked: locked
 
-            schedule.by_Room[day]                  ?= {}
-            schedule.by_Room[day][location]        ?= {}
-            schedule.by_Room[day][location][time]  ?= []
-            schedule.by_Room[day][location][time].add name: name, url: data.url , track : track       , locked: locked
+              schedule.by_Track[day]                 ?= {}
+              schedule.by_Track[day][track]          ?= {}
+              schedule.by_Track[day][track][time]    ?= []
+              schedule.by_Track[day][track][time].add name: name, url: data.url , location : location , layout: layout, remote: remote, locked: locked
 
-            schedule.by_Track[day]                 ?= {}
-            schedule.by_Track[day][track]          ?= {}
-            schedule.by_Track[day][track][time]    ?= []
-            schedule.by_Track[day][track][time]  .add name: name, url: data.url , location : location , locked: locked
+              schedule.by_Time[time]                 ?= {}
+              schedule.by_Time[time][track]          ?= {}
+              schedule.by_Time[time][track][day]     ?= []
+              schedule.by_Time[time][track][day].add name: name, url: data.url , location : location  , layout: layout, remote: remote, locked: locked, status: status
 
-            schedule.by_Time[time]                 ?= {}
-            schedule.by_Time[time][track]          ?= {}
-            schedule.by_Time[time][track][day]     ?= []
-            schedule.by_Time[time][track][day]   .add name: name, url: data.url , location : location  , locked: locked, status: status
+              map_User = (user,role)->
+                schedule.by_Participant[user]             ?= {}
+                schedule.by_Participant[user][time]       ?= {}
+                schedule.by_Participant[user][time][day]  ?= []
+                using schedule.by_Participant[user][time][day], ->
+                  if is_Session_In_Multiple_Tracks @ , name, track
+                    @.track += ", @{track}"
+                  else
+                    schedule.by_Participant[user][time][day].add name: name, url: data.url, location: location, role: role, status: status, track : track, locked: locked
 
-            map_User = (user,role)->
-              schedule.by_Participant[user]             ?= {}
-              schedule.by_Participant[user][time]       ?= {}
-              schedule.by_Participant[user][time][day]  ?= []
-              schedule.by_Participant[user][time][day].add name: name, url: data.url, location: location, role: role, status: status, track : track, locked: locked
-
-            for invite in invited
-              map_User invite  , 'invited'
-            for organizer in organizers
-              map_User organizer  , 'organizing'
-            for participant in participants
-              map_User participant, 'participating'
-            for panelist in panelists
-              map_User panelist  , 'panelist'
+              for invite in invited
+                map_User invite  , 'invited'
+              for organizer in organizers
+                map_User organizer  , 'organizing'
+              for participant in participants
+                map_User participant, 'participating'
+              for panelist in panelists
+                map_User panelist  , 'panelist'
 
       schedule.by_Track[day] = @.sort_By_Key schedule.by_Track[day]
 
@@ -209,8 +225,8 @@ class Jekyll_Data
 
   map_Working_Sessions_Data: ->
     data = {}
-
     for file in @.folder_Working_Sessions.files_Recursive() when file.not_Contains('_template')
+
       metadata = @.map_Working_Session_Raw_Data file.file_Contents()
 
       #continue if metadata.type != 'workshop'    # can't apply this fix this since the tracks calculation need this

@@ -11,7 +11,7 @@ when-day     : Thu
 when-time    : PM-2
 location     : Room-4
 organizers   : Don Gibson
-participants :
+participants : Robert Morschel
 ---
 
 It seems AppSec is a growing area for a lot of CISOs - you have secured the outside, you know where the traffic is going. You have a handle on data use and storage. But what are your apps doing? 

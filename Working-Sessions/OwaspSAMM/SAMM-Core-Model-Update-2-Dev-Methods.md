@@ -4,12 +4,13 @@ title        : SAMM - Core Model Update 2 - Dev Methods
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes; need-working materials
+status       : done
 when-day     : Tue
-when-time    : AM-1
-location     : Villa-1
-organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+when-time    : PM-1
+location     : Villa-1
+room-layout  : unknown
+organizers   : Brian Glas
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Fabien Thalgott
 ---
 
 SAMM core model update sessions.

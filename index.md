@@ -1,7 +1,7 @@
 ---
-#layout: event-point/index
 layout: blocks/index
-title: OWASP Summit 2017
+day    : Tue
+title  : OWASP Summit 2017
 ---
 
 

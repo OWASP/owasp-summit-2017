@@ -2,48 +2,66 @@ Room-1 :
   name: Kings
   type: Classroom
   size: 50
+  live-stream: https://hangouts.google.com/hangouts/_/owasp.org/summit-room-1
 
 Room-2:
   name: Portland
   type: Classroom
   size: 50
+  live-stream: https://hangouts.google.com/hangouts/_/owasp.org/summit-room-2
 
 Room-3:
   name: Larch
   type: Cabaret
   size: 30
+  live-stream: https://hangouts.google.com/hangouts/_/owasp.org/summit-room-3
 
 Room-4:
   name: Montague
   type: Cabaret
   size: 30
+  live-stream: https://hangouts.google.com/hangouts/_/owasp.org/summit-room-4
 
 Room-5:
   name: Maulden
   type: Cabaret
   size: 30
+  live-stream: https://hangouts.google.com/hangouts/_/owasp.org/summit-room-5
 
 Room-6:
   name: Pedley
   type: Cabaret
   size: 30
+  live-stream: https://hangouts.google.com/hangouts/_/owasp.org/summit-room-6
 
 Villa-1:
-  name: OwaspSamm Villa
+  name: OwaspSamm Villa (OK311)
 
 Villa-2:
-  name: Mobile Project Villa
+  name: Mobile Project Villa (OK310)
 
 Villa-3:
-  name: DevSecCon Villa
+  name: DevSecCon Villa (OK314)
 
 Villa-4:
-  name: Threat Model Villa
+  name: Threat Model Villa (OK312)
 
 Villa-5:
-  name: PhotoBox Villa
+  name: Juice Shop Villa (OK313)
 
 Villa-6:
+  name: Testing Guide Villa
+
+Villa-7:
+  name: Owasp Projects
+
+Villa-8:
+  name: Owasp Top 10
+
+Villa-9:
+  name: PhotoBox Villa
+
+Villa-10:
   name: Capital One Villa
 
 

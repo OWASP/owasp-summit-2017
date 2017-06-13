@@ -6,12 +6,13 @@ owasp-project: no
 track        : Education
 technology   :
 related-to   : Recruiting AppSec Talent,Security Champions,Growing the AppSec Industry,Creating AppSec Teams
-status       : need-working materials
+status       : Merged with "Creating App sec teams"
 when-day     : Tue
 when-time    : AM-1
 location     : Room-4
-participants : Tiffany Long
+participants : Tiffany Long, Mateo Martinez
 organizers   :
+invited      : Lisa Raynaud
 ---
 
 ## Why

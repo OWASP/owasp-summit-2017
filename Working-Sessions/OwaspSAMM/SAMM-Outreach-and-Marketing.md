@@ -4,12 +4,13 @@ title        : SAMM - Outreach and Marketing
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes;need-working materials
-when-day     : Thu
-when-time    : PM-1
+status       : done
+when-day     : Wed
+when-time    : PM-2
 location     : Villa-1
+room-layout  : unknown
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
 ---
 
 Improve the promotion of SAMM

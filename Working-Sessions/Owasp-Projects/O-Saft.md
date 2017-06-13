@@ -6,17 +6,16 @@ track        : Owasp Projects
 organizers   : Achim Hoffmann
 technology   : TLS
 owasp-project: yes
-status       : Final stage; missing target audience; missing working materials
+status       : done
 when-day     : Tue
 when-time    : PM-1
 location     : Room-1
 organizers   : Achim Hoffmann
-participants : Marc Rimbau, Ingo Hanke
+participants : Ingo Hanke
 ---
 
 [OWASP - SSL advanced forensic tool](https://www.owasp.org/index.php/O-Saft) is an easy to use tool to check various SSL/TLS related configurations, behaviours and vulnerabilities.
 It's a standalone tool and can be used in closed and very restricted environments.
-
 
 ## Why
 
@@ -45,14 +44,20 @@ The Working Session will focus on the internal redesign and some improvements th
 
 The target audience for this Working Session is:
 
---Add text--
-
---- 
+- contributors to the tool
+- users in general and users having special requirements
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+There is a [docs](https://github.com/OWASP/O-Saft/tree/master/docs) directory with [documentation for developers](https://github.com/OWASP/O-Saft/) at github.
+
+Draft for all the topics to be discused and worked on during the session in [google docs](https://docs.google.com/a/owasp.org/document/d/1He_hXRegxOYSqzgIT1jc50sTxATe6Tv4CoghnpI6R_4/edit?usp=sharing).
 
 ### Content
 
-...add content...
+See "Working materials" above.
+
+---
+
+Create a [slack team](https://o-saft.slack.com/), feel free to join the O-Saft team with your @owasp.org address (unfortunately slack is toooo stupid to accept @gmail.com addresses).
+

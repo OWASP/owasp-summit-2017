@@ -21,7 +21,7 @@ email           : ingo.hanke@owasp.org
 when-day        : Tue,Wed,Thu,Fri
 ticket          : 4x24h
 status          : done
-working-sessions: Implications of Owasp Top 10 2017
+working-sessions: Top 10 2017 - Validation of weightings Discussion, O-Saft, Crowdsourcing Security Knowledge, CISO Round table, Threat and Vulnerability Management Playbook, Application Security Guide for CISO, Securing Legacy Applications, Juice Shop Coding Night, Owasp Chapter Treasury, The Future of Privacy, NextGen Security Scanners, Threat Modeling IoT Devices
 ---
 
 ### OWASP Involvement

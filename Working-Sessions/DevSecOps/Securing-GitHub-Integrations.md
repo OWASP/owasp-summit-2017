@@ -3,12 +3,12 @@ layout       : blocks/working-session
 title        : Securing GitHub Integrations
 type         : workshop
 track        : DevSecOps
-status       : need-more content
-when-day     : Thu
+status       : to be reviewed content
+when-day     : Wed
 when-time    : PM-2
-location     : Room-1
+location     : Villa-4
 organizers   : Danny Grander
-participants : Francois Raynaud
+participants : Francois Raynaud;Dinis Cruz
 ---
 ## Why
 
@@ -24,11 +24,13 @@ Currently, the GitHub security model does not allow the granularity required to 
 
 ## What
 
-... Add content 
+While we are using github as the platform for OWASP projects source code, we need to talk about the security of the code in order to provide integrity checks and other security controls needed.
 
 ## Outcomes
 
-...Add content...
+- OWASP Github security Policy
+- OWASP Github Security Cheatsheet
+- OWASP Github Security risks list
 
 ## Who
 
@@ -48,7 +50,6 @@ Email exchange with GitHub on the topic of having multiple GitHub Accounts:
 >
 >It would be great if the GitHub Security team could work with organizations like OWASP and its community to find a way to improve the current situation (which doesn't scale and is bound to back-fire when one of those service providers is compromised, exposing thousands of customers' private repos).
 
---- 
 
 ## Working materials
 
@@ -56,4 +57,7 @@ Here are the current 'work in progress' materials for this session (please add a
 
 ### Content
 
-...add content...
+- Github Risk
+- Github Integrations
+- Github Controls
+- Cheatsheets

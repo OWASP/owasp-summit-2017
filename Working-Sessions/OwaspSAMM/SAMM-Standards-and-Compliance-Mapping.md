@@ -4,12 +4,13 @@ title        : SAMM - Standards and Compliance Mapping
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes; need-working materials
-when-day     : Thu
-when-time    : PM-2
-location     : Villa-1
-organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+status       : done
+when-day     : Wed
+when-time    : PM-3
+location     : Villa-1
+room-layout  : unknown
+organizers   : Brian Glas
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
 ---
 
 Map SAMM on standards or regulatory requirements.

@@ -15,7 +15,6 @@ If you want to help with the Summit organization or want to know more about what
 * [Invitation Letter](../Logistics/Invitation-letter.md) (sample)
 * [Summit Site](../Logistics/Summit-site.html)
   * [Jekyll Properties](../Logistics/Jekyll-Properties.html)
-* [OWASP Band](../Logistics/Owasp-Band.html)
 
 
 

@@ -5,7 +5,7 @@ type         : workshop
 track        : Research
 technology   : .Net,Docker
 related-to   :
-status       : final stage; need working materials
+status       : draft
 when-day     : Fri
 when-time    : PM-2
 location     : Room-1

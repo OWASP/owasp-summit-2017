@@ -4,13 +4,14 @@ title        : Dependency Check
 type         : workshop
 organizers   : Steve Springett
 technology   : Java
-status       : need-more content
+status       : done
 track        : Owasp Projects
 owasp-project: yes
-when-day     : Mon
+when-day     : Wed
 when-time    : PM-2
-location     : Room-3
-organizers   : Steve Springett
+location     : Room-3
+room-layout  : cabaret
+organizers   : Steve Springett, Steven Wierckx
 participants : Johan Peeters
 ---
 

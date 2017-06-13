@@ -4,12 +4,13 @@ title        : SAMM - Conducting Assessments
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
-status       : need-outcomes, need-working materials
+status       : done
 when-day     : Mon
 when-time    : PM-2
-location     : Villa-1
+location     : Room-3
+room-layout  : unknown
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Marc Rimbau, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Fabien Thalgott
 ---
 
 Conducting SAMM assessments
@@ -25,7 +26,11 @@ SAMM assessments can be conducted in varying ways and it would be useful to lear
 
 ## Outcomes
 
-...add content...
+### Synopsis and Takeaways
+Exchanged assessment experiences
+Role specific questions
+Dev team / simplified questions (scalability)
+Depth vs. breadth
 
 ## Who
 
