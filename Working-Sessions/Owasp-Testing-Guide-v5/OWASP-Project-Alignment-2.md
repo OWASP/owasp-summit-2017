@@ -6,11 +6,10 @@ owasp-project :
 track        : Owasp Testing Guide v5
 technology   :
 related-to   :
-status       : done
+status       : empty
 when-day     : Wed
-organizers   : 
 when-time    : PM-1
 location     : Testing Guide Villa (315)
-organizers   : 
+organizers   : Matteo Meucci
 participants : 
 ---
