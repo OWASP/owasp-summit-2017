@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Roadmap: tasks and deadlines assigned
+title        : Roadmap tasks and deadlines assigned
 type         : workshop
 owasp-project: 
 track        : Owasp Testing Guide v5
