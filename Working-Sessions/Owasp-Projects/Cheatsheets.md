@@ -47,4 +47,21 @@ The target audience for this Working Session is:
 
 ### Content
 
-...add content...
+The last afternoon session on the 13th June for Cheat Sheets has decided that we need to deliver a number of FAQs and functional requirements to ensure better participation and clarity around the process.
+
+The proposed topics are:
+•	How to create a new one?
+•	How to modify?
+•	How to get consensus for publication?
+•	How to move from draft to final?
+•	What is a valid cheat sheet topic?
+•	When to retire or remove one (currency test)?
+
+Functional requirements:
+•	Last edit date on the Wiki
+•	Last review date on the Wiki
+•	Status label
+•	Clear status label on template
+•	Standardisation of tagging for SEO ranking and searching.
+
+
