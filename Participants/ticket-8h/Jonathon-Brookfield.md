@@ -7,7 +7,7 @@ company         : BlackBerry
 travel-from     : 
 image           :
 linkedin        :
-twitter         : @Jonathon_b
+twitter         : jonathon_b
 facebook        :
 website         :
 email           :
