@@ -12,7 +12,7 @@ when-time    : PM-2
 location     : Room-3
 room-layout  : cabaret
 organizers   : Steve Springett, Steven Wierckx
-participants : Johan Peeters
+participants : Johan Peeters, Brian Glas
 ---
 
 
