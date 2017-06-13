@@ -16,7 +16,7 @@ chapter-leader  : Denver
 funded-who      :
 ticket          : 5x24h
 status          : empty
-working-sessions : Top 10 2017 - Process Discussion,OWASP Top 10 Call for Data and Weightings Discussion,Security Guild vs Security Champions,SAMM - Core Model Update 1 - Intro,Top 10 2017 - Validation of weightings Discussion,Top 10 2017 - write revised and new text,Securing the CI Pipeline,Security Champions
+working-sessions : Top 10 2017 - Process Discussion,OWASP Top 10 Call for Data and Weightings Discussion,Security Guild vs Security Champions,SAMM - Core Model Update 1 - Intro,Top 10 2017 - Validation of weightings Discussion,Top 10 2017 - write revised and new text,Securing the CI Pipeline,Security Champions,Visit Bletchley Park
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
