@@ -10,7 +10,7 @@ status       : done
 when-day     : Wed
 organizers   : 
 when-time    : AM-1
-location     : Testing Guide Villa
+location     : Testing Guide Villa (315)
 organizers   : 
 participants : 
 ---
