@@ -12,7 +12,7 @@ when-time    : AM-1
 location     : Room-3
 room-layout  : cabaret
 organizers   : Irene Michlin
-participants : Irene Michlin, Robert Morschel, Mamta Vuppu, Tiffany Long, Don Gibson
+participants : Irene Michlin, Robert Morschel, Mamta Vuppu, Tiffany Long, Don Gibson, Christian Martorella
 ---
 
 ## Why
