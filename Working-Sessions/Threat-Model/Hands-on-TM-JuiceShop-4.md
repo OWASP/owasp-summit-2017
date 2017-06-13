@@ -29,8 +29,13 @@ Dinis proposed a set of evening sessions to create threat model artefacts & exam
 
 ## Outcomes
 
-- Set of models checked in  
-- Possibly also sets of requirements or assumptions
+###Content/Takeaways
+
+This session discussed the purchase workflow of the Juice Shop Application. A State Machine Diagram was created. This diagram exhibits how Juice Shop handles customer purchasing. Consideration for the generation and distribution of coupon codes, is outside the scope, of this piece of the threat model.
+
+Outcome
+
+Diagram created on the Juice Shop State Machine.
 
 ## Who
 
