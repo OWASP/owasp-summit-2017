@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : Methodology: review and update test
+title        : Methodology review and update test
 type         : workshop
 owasp-project: 
 track        : Owasp Testing Guide v5
