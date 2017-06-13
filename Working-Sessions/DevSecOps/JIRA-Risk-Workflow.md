@@ -4,7 +4,7 @@ title        : JIRA Risk Workflow
 type         : workshop
 owasp-project: no
 track        : DevSecOps
-status       : missing Outcomes; missing working materials
+status       : done
 when-day     : Wed
 when-time    : PM-3
 location     : Room-1
@@ -19,17 +19,15 @@ This JIRA Risk Workflow can be used to manage the Risk process and ensure that b
 ## Why
 
 This workflow needs to be presented and discussed by the community.
-_(improve text)_
 
 ## What
 
  - How does it work in practice
  - Exporting Risk JIRA Workflow into Atlassian Marketplace
- - _(add more)_
  
 ## Outcomes
 
-...Add text...
+This Working Session should result in an improved JIRA Risk Workflow.
 
 ## Who
 
@@ -42,16 +40,17 @@ The target audience for this working session is:
 
 ## References
 
-- https://2016.appsec.eu/wp-content/uploads/2016/07/AppSecEU2016-Dinis-Cruz-Using-Jira-To-Manage-Risks.pdf
-- http://blog.diniscruz.com/2016/03/updated-jira-risk-workflow-now-with.html
-- http://blog.diniscruz.com/2015/12/jira-workflows-for-handing-appsec-risks.html
-- https://leanpub.com/secdevops
+- [Using JIRA to Manage Risks](https://2016.appsec.eu/wp-content/uploads/2016/07/AppSecEU2016-Dinis-Cruz-Using-Jira-To-Manage-Risks.pdf)
+- [Updated JIRA Workflow](http://blog.diniscruz.com/2016/03/updated-jira-risk-workflow-now-with.html)
+- [JIRA Workflows for AppSec Risks](http://blog.diniscruz.com/2015/12/jira-workflows-for-handing-appsec-risks.html)
+- [SecDevOps](https://leanpub.com/secdevops)
 
 --- 
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
+- [JIRA Risk Workflow - aplha version](http://blog.diniscruz.com/2016/10/jira-risk-workflow-book-alpha-version.html)
 
 ### Content
 
