@@ -5,12 +5,12 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   : PCI
 related-to   :
-status       : draft
+status       : done
 organizers   :
 participants :
 ---
 
->The [OWASP Top 10] (https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) is a powerful awareness document for web application security. It represents a broad consensus about the most critical security risks to web applications. Project members include a variety of security experts from around the world who have shared their expertise to produce this list.
+The OWASP Top 10 2017 will be released in July or August 2017 after a public comment period ending on June 30. This Working Session will consider how to help standards that use OWASP Top 10 to get maximum benefit from the 2017 version.
 
 ## Why
 
@@ -22,7 +22,7 @@ The OWASP Top 10 2017 will be released in July or August 2017 after a public com
  - Map out how they use it
  - Map out what worked and what didn't work in 2013 version (i.e. cases where Top 10 was not correctly used or recommended)
  - Provide explicit guidance on how to use the new OWASP Top 10 2017
- - Create plan to reach out to current users of Top 10 (PCI) and proactively engage with them to update to the 2017 version
+ - Create plan to reach out to current users of Top 10 (PCI) and proactively engage with them to update to the 2017 version.
  
 ## Outcomes
 
@@ -35,7 +35,8 @@ The OWASP Top 10 2017 will be released in July or August 2017 after a public com
 The target audience for this Working Session is:
 
  - Companies that use or recommend the Owasp Top 10
- 
+ - Security professionals
+ - OWASP community
  --- 
 
 ## Working materials
@@ -43,8 +44,7 @@ The target audience for this Working Session is:
 - Draft list of standards that use OWASP Top 10
 - Draft guidelines for using OWASP Top 10 2017
 - Draft roadmap to encourage current Top 10 users to update to OWASP Top 10 2017
-- Please add as much information as possible before the sessions
 
 ### Content
 
-... Add content ...
+-	[OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
