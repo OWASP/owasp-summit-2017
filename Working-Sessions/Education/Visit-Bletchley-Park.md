@@ -38,20 +38,7 @@ Exhibits listed above are a suggestion, but feel free to pursue your own interes
 
 ### Transport Arrangements:
 
-Transport remains to be arranged, but local taxi's are available. In order to be able to book sufficient taxi's, please indicate below whether you need transport or can take people. Shared taxi fees are likely to cost around 10 GBP per head, round trip.
-
-Have vehicle with N open slots:
-* Sebastien Deleersnyder: Steven Wierckx, Jonas Vanalderweireldt, Fabien Thalgott, 1 extra seat
-* Chris Cooper: 3 extra seats
-
-Need transport:
-* Adam Shostack
-* Viktor Lindstrom
-* Bjoern Kimminich
-* Hamza Alkofahi
-* Johan Peeters
-* Bolot Kerimbaev
-* Mateo Martinez
+A bus has been arranged to take us from the conference center to Bletchley. Watch this space for details of pickup location and time.
 
 ### Tickets
 
