@@ -14,6 +14,21 @@ organizers     : Gabor Pek, Mark Felegyhazi
 participants   : 
 ---
 
+## HOW TO PLAY
+
+Go to the [owasp path at avatao](https://avatao.com/events/owasp2017) and start solving the challenges. 
+If you are afraid of registering, we created some test accounts for you. However, if you register you can save your own score.
+
+user1: owaspsummit1@avatao.com
+password: OWASP_2017_IS_COOL
+
+user2: owaspsummit2@avatao.com
+password: OWASP_2017_IS_COOL
+
+user3: owaspsummit3@avatao.com
+password: OWASP_2017_IS_COOL
+
+
 ## Why
 
 In this hackathon, Participants can experience many security challenges ranging from web security to DevSecOps. The session is run on the [avatao](https://avatao.com) platform, an online tool that offers a wide variety of hands-on ITsec challenges. We demonstrate how deep the rabbit hole goes in terms of architecture, programming languages, or design. Avatao contains more than 400 challenges to achieve this. The session is useful for anyone who would like to get hands-on experience with cutting edge technologies (e.g., Unicorn Engine, Kaitai Struct) that shape our security today, or for anyone interested in solving more traditional challenges in web security or Java.
@@ -34,6 +49,7 @@ Planned topics for the hackathon:
 - Security tools tutorials (Wireshark, Unicorn Engine),
 - Crypto and protocol security,
 - Hacker stuff (pwn, RE) on demand
+
 
 
 ## Outcomes

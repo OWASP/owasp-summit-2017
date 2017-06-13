@@ -9,6 +9,7 @@ when-day     : Thu
 when-time    : AM-1
 location     : Room-3
 organizers   : Ingo Hanke
+invited      : Gabor Pek, Ade Yoseman Putra, Lucas Ferreira, Steve Kosten, Akshay Sharma, Felipe Zipitria, Mateo Martinez, Christian DeHoyos, Magno Logan, Steven van der Baan, Adrian Winckles, Sam Stepanyan, Tamer Elzayyat, Alexander Antukh, Carlos Serrao, Katy Anton, Abhinav Sejpal, Mane Piperevski, Yogesh Sharma, Mike Goodwin, Viktor Lindstrom
 participants : 
 ---
 

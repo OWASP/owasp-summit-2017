@@ -80,4 +80,4 @@ How to get started
  ####Outcome: These are the steps that are common to most approaches. 
 We will finish the actual content at a later date due to time constraints (to do action).
 
-[1]: /website/assets/img/blocks/API.bmp
+[1]: /website/assets/img/blocks/API.png
