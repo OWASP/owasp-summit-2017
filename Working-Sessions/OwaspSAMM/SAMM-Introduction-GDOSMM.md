@@ -8,6 +8,7 @@ status       : done
 when-day     : Tue
 when-time    : AM-1
 location     : Villa-1
+remote       : https://hangouts.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Timo Pagel
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Fabien Thalgott
