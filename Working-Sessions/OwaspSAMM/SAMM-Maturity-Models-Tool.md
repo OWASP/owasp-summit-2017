@@ -9,6 +9,7 @@ status        : done
 when-day      : Fri
 when-time     : PM-1
 location      : Room-4
+remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout   : unknown
 organizers    : Dinis Cruz
 participants  : Sebastien Deleersnyder, Yan Kravchenko,Irene Michlin, Viktor Lindstrom, Phil Parker, Mateo Martinez
