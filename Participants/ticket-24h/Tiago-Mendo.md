@@ -14,6 +14,6 @@ email           : mendo@probe.ly
 ticket          : 5x24h
 pre-summit      : Sun
 status          : empty
-working-sessions: Top 10 Selection Criteria,Dependency Check,Juice Shop Brainstorming,Data behind Owasp Top 10 2017,A10 - Underprotected APIs,A7 - Insufficient Attack Protection,Securing the CI Pipeline,Implications of Owasp Top 10 2017,Security Guidance and Feedback in IDE,Webgoat,Securing GitHub Integrations,ZAP,Teaching Attacker perspective to Developers,NextGen Security Scanners,Machine Learning and Security,Sign Ceremony for Owasp Top 10 2017
+working-sessions: Top 10 Selection Criteria,Dependency Check,Juice Shop Brainstorming,Data behind Owasp Top 10 2017,A10 - Underprotected APIs,A7 - Insufficient Attack Protection,Securing the CI Pipeline,Implications of Owasp Top 10 2017,Security Guidance and Feedback in IDE,Webgoat,Securing GitHub Integrations,ZAP,Teaching Attacker perspective to Developers,NextGen Security Scanners,Machine Learning and Security,Sign Ceremony for Owasp Top 10 2017,Hackathon Daily Sessions
 ---
 Loves web security, security automation and delivering security training.

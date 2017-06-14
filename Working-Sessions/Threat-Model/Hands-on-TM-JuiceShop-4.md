@@ -44,10 +44,16 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
-
-(please add as much information as possible before the sessions)
+* Juice Shop Staging Environment: <http://juice-shop-staging.herokuapp.com>
 
 ### Content
 
-...add content...
+[![](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Threat-Model/whiteboard-photos/PM-3-Picture-1.jpg)](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Threat-Model/whiteboard-photos/PM-3-Picture-1.jpg)
+
+#### Content/Takeaways
+
+This session discussed the purchase workflow of the Juice Shop Application. A State Machine Diagram was created. This diagram exhibits how Juice Shop handles customer purchasing. Consideration for the generation and distribution of coupon codes, is outside the scope, of this piece of the threat model.
+
+Outcome
+
+Diagram created on the Juice Shop State Machine using the current system state.

@@ -6,7 +6,7 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   :
-status       : draft
+status       : done
 when-day     : Wed
 when-time    : PM-1
 location     : Room-4
@@ -14,13 +14,17 @@ organizers   : Yan Kravchenko
 participants : Tiffany Long
 ---
 
+99.9% of current InfoSec vendors do not offer any warranties or guarantees. Although offering them presents a unique opportunity for them to differentiate themselves from competitors, they simply do not want the liability.
+
 ## Why
 
-99.9% of current InfoSec products and services provide no warranty or guarantee.
-
-Although this has been very beneficial for software/apps innovation, the security implications are very serious. In the absence of warranties and guarantees, the security industry is driven by marketing, and has very little accountability for the effectiveness, or even the security, of their products and services. 
+In the absence of warranties and guarantees, customers are facing the following challenges:
+- Lack of guarantees makes it difficult to differentiate effective solutions from those that are less effective.
+- No warranties or guarantees makes it impossible to justify the cost of InfoSec products to management.
+- Without guarantees or warranties, customers find it hard to trust their InfoSec vendors since they are not accountable for the performance of their products.
 
 This Working Session will examine the need for InfoSec warranties and guarantees, and how they might be designed and implemented.
+
 
 ## What
 
@@ -35,7 +39,7 @@ This Working Session will examine the need for InfoSec warranties and guarantees
  
 ## Outcomes
 
-Suggested Outcome:  Recommendation of the issue or warranties and guarantees. 
+This Working Session will try to answer the question whether security companies should issue guarantees and warranties and provide a set of guidelines on how they should be designed and implemented.
 
 ## Who
 
@@ -58,10 +62,10 @@ The target audience for this Working Session is:
 ---
 
 ## Working materials
-
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
+- draft document explaining why and how InfoSec should offer guarantees and warranties
 
 ### Content
 
-...add content...
+[Jeremiah Grossman - Why InfoSec Needs Security Guarantees](https://www.slideshare.net/jeremiahgrossman/no-more-snake-oil-why-infosec-needs-security-guarantees)
 

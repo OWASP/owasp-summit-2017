@@ -6,11 +6,11 @@ status       : done
 track        : Education
 when-day     : Wed
 when-time    : AM-1
-location     : Room-2
+location     : Room-6
 room-layout  : caberet
 description  : Part of OWASP's main purpose is to "Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software" and a key part of that mission is to educate not just the current generation of developers or information security professionals but also the next generation as well especially with the acknowledged skill shortage in the whole sector that exists.
 organizers   : Adrian Winckles,Felipe Zipitria
-participants : Timo Pagel,Tiffany Long, Don Gibson
+participants : Timo Pagel,Tiffany Long, Don Gibson, Katy Anton (remotely), Steven van der Baan
 
 ---
 ## Why
@@ -38,6 +38,17 @@ This Working Session will deliver the following documents:
 - a core set of learning objectives for BSC/MSc level Application Security curricula
 - a strategy for the OWASP community to support AppSec curricula
 
+### Synopsis/Takeaways
+
+This session supported the need for a generic curriculum for Application security in university BSC/MSC programs. This involved particular patterns of delivery and how deep/complex the curriculum needed to be. 
+The session looked for a first step strategy, for further discussion at subsequent meetings. The major takeaway was an agreement that there is not enough APPSEC in educational curriculums. The solution is to have a low-level set of core learning objectives, that are can be incorporated by secondary educational institutions. A modular set of advanced learning objectives to be built for higher educational settings, based around Builder, Breaker, and Defender frameworks.  
+
+### Takeaways
+
+- Completion of an exit survey
+- A wider Strategy than BSC/MSC, that Combines OWASP strategic strengths
+- Agreement that there is not enough AppSec, in educational curriculums 
+- Creation of an Educational Diagram 
 
 ## Who
 

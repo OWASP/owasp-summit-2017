@@ -29,7 +29,7 @@ CISO hands-on support for Security initiatives is a key factor of success
  - What is the team structure and budgets
  - What is the best way to present security to the Board
  
-## Outcomes
+## Outcomes (after session)
 
 - Create document with answers
 
@@ -42,8 +42,48 @@ CISO hands-on support for Security initiatives is a key factor of success
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
 
-### Content
+### Outcomes
 
-...add content...
+Every Company needs a CISO with Mandate and Resources
+
+ - Target audience:  Companies without a CISO
+   - CISO should report:
+       - 1st to The Board
+       - 2nd to C-Suite and Sub-committees (so there are no conflicts of interest)
+ - Centre of gravity skill set: Strong Business, Technical, Security skills and be transformation agent
+ - Security is a business Function
+ - Facilitates business acceptance of Risk
+
+
+
+ - What they need:
+  - Budget (that they control)
+  - Mandate
+  - Integrity of message
+  - Central Team (with seniors SMEs)
+  - Network of Security Champions
+  - Be involved in cross-function committees and roadmaps
+
+top board requirements
+
+ - Current programmes status
+ - Meeting regulatory requirements
+ - Major Business Risks and Incidents
+ - Security asks
+
+Top priorities for CISO:
+ - Situational Awareness
+ - Match risk appetite
+ - Actionable Metrics and dashboards
+
+
+Who was here
+
+ - CISO
+ - AppSec/SDL Engineer
+ - Recuiter
+ - CTO
+ - CISO Advisor
+
+

@@ -116,4 +116,23 @@ Using these files/configs, it is possible to turn a non-SRP web server into a SR
 
 Equally, it is possible to make a web browser appear TLS-SRP enabled to test a TLS-SRP web server implementation; simply run a http2srp stunnel on your desktop and point your browser at that instead of directly at the web server
 
+ ---
 
+## Roadmap
+
+Kev Sheldrake will progress building a demonstration system and will endeavor to present the outcomes of this workshop at other events - IoTSF in December 2017 being one propsed candidate, but all other options will be considered.  Kev will then utilise OWASP contacts to open discussions with browser devs.  Kev will endeavor to encourage initiation of IoT vendor adoption.
+
+* Step 1 - produce demos for discussion:
+  * Produce a demo mobile app that implements TLS-SRP on top of a web view (webkit or similar) for configuring TLS-SRP IoT devices.
+  * Identify or produce TLS-SRP browser extensions to allow browsers to access TLS-SRP IoT devices, for demonstration purposes.
+  * Build demo IoT device (likely on Raspberry Pi) that utilises TLS-SRP for secure web admin.
+  * Build web site dedicated to the 'TLS-SRP for IoT solution'; should aim at encouraging discussion, access to open source via github, solicit support from individuals and organisations.
+* Step 2 - publicise demos:
+  * Take demos to IoT, browser and security conferences to publicise efforts.
+  * Find vendor-neutral organisations willing to brand/push the step 1 demos to encourage discussions with browser and IoT vendors.  OWASP and IoTSF could be first candidates.
+* Step 3 - from demos to capability:
+  * Build IoT TLS-SRP reference design / implementation.  Initial design will use stunnel-srp to front web server.
+  * Use OWASP contacts to open discussions with browser devs and W3C.
+  * Design (in conjunction with browser devs) a suitable browser UI to support TLS-SRP - login box, logout, identification that connection is TLS-SRP (in URL bar perhaps).
+
+Progress will be reported via the web site built during step 1.  People and organisations will be able to join and support efforts via the web site and github.  If appropriate, OWASP could 'own' the project to give it a home and suitable publicity.  This roadmap is the first draft and all interested parties are encouraged to develop it further.

@@ -8,6 +8,7 @@ status       : done
 when-day     : Wed
 when-time    : AM-1
 location     : Villa-1
+remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Tiffany Long
@@ -27,7 +28,12 @@ As a community, we are long overdue a standard way of collecting SAMM results to
 
 ## Outcomes
 
-...add content...
+### Synopsis and Takeaways
+
+- The DataSet Project was unanimously agreed upon to be a key project for OWASP and is worth pursuing. 
+- The DataSet project is key to the SAMM project as a whole
+- For the project to progress steadily it is important to collect names that are willing to contribute to the project consistently
+- Create a survey that is to be sent via the "SAMM users mailing list", in order to gain valuable information about what users want from the DataSet
 
 
 ## Who

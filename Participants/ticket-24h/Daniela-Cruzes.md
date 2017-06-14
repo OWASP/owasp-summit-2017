@@ -5,7 +5,7 @@ type            : participant
 job-title       : Research Scientist
 company         : SINTEF
 travel-from     : Norway
-image           : http://www.sintef.no/content/units/AnsattBilde.aspx?EmpId=4504
+image           : https://www.sintef.no/content/units/AnsattBilde.aspx?EmpId=4504
 linkedin        : daniela-cruzes-72162315
 twitter          :
 facebook        :

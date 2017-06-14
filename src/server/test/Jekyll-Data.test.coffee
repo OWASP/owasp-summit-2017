@@ -29,7 +29,7 @@ describe 'Jekyll_Data', ->
     using jekyll_Data, ->
       @.file_Json_Participants.file_Delete()
       data = @.map_Participants_Data()
-      data._keys().size().add(4).assert_Is @.folder_Participants.files_Recursive().size()      # if these don't match it means that there are duplicate file names (the extra 4 are the template)
+      data._keys().size().add(6).assert_Is @.folder_Participants.files_Recursive().size()      # if these don't match it means that there are duplicate file names (the extra 4 are the template, extra two was .DS_Store)
                                 .assert_Bigger_Than(100)                                       # ensure that we have at least 100 mappings
       using data['Daniel Miessler'], ->
         @.metadata.layout.assert_Is 'blocks/page-participant'
@@ -40,7 +40,7 @@ describe 'Jekyll_Data', ->
     using jekyll_Data, ->
       schedule = @.map_Schedule()
       schedule._keys().assert_Is [ 'by_Room', 'by_Track','by_Time', 'by_Participant' ]
-      schedule.by_Time['PM-1']['CISO']['Mon'][0]._keys().assert_Is ['name', 'url', 'location', 'layout', 'locked', 'status']
+      schedule.by_Time['PM-1']['CISO']['Mon'][0]._keys().assert_Is ['name', 'url', 'location', 'layout','remote', 'locked', 'status']
 
   it 'map_Tracks_Data', ->
     using jekyll_Data, ->
@@ -139,6 +139,21 @@ describe 'Jekyll_Data', ->
       @._keys().size().assert_Is_Bigger_Than 180
       #assert_Is_Null @['CISO']
       #@._keys().size().assert_Is_Smaller_Than 180
+
+  it 'bug - duplicated track shown in participant page when session is in two tracks',->
+    using jekyll_Data.schedule_Data.by_Room.Tue['Room-6']['AM-1'], ->
+      #@.assert_Size_Is 2                                                        # should be 1
+      #@[0].name.assert_Is 'Hands on Threat Modeling Juice Shop (Architecture)'
+      #@[0].name.assert_Is @[1].name                                             # shows duplication of Sessions name
+      @.assert_Size_Is 1                                                         # Fixed value
+
+    using jekyll_Data.schedule_Data.by_Participant['Bjoern Kimminich']['AM-1'].Tue,->
+      #@.assert_Size_Is 2                                                         # should be 1
+      #@[0].name.assert_Is 'Hands on Threat Modeling Juice Shop (Architecture)'
+      #@[0].name.assert_Is @[1].name                                              # shows duplication of Sessions name
+      @.assert_Size_Is 1                                                         # Fixed value
+
+
 
   # MISC
 

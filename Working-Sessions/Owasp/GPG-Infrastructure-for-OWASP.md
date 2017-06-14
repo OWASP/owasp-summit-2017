@@ -6,7 +6,7 @@ track        : Owasp
 status       : done
 when-day     : Wed
 when-time    : AM-1
-location     : room-3
+location     : Villa-3
 room-layout  : unknown
 organizers   : Achim Hoffmann
 participants :

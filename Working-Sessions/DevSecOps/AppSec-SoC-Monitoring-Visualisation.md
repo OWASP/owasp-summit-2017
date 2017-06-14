@@ -11,7 +11,7 @@ when-time    : AM-1
 location     : Room-1
 room-layout  : square
 organizers   : Mateo Martinez
-participants : Dinis Cruz,Francois Raynaud, Don Gibson, Robert Morschel, Johan Peeters, Don Gibson, Steven Wierckx, Phil Parker
+participants : Naushad007, Dinis Cruz,Francois Raynaud, Don Gibson, Robert Morschel, Johan Peeters, Don Gibson, Steven Wierckx, Phil Parker
 ---
 
 ## Why

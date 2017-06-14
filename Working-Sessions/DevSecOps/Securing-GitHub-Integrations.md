@@ -6,9 +6,9 @@ track        : DevSecOps
 status       : to be reviewed content
 when-day     : Wed
 when-time    : PM-2
-location     : Villa-4
+location     : Room-2
 organizers   : Danny Grander
-participants : Francois Raynaud;Dinis Cruz
+participants : Francois Raynaud, Dinis Cruz
 ---
 ## Why
 
@@ -27,10 +27,8 @@ Currently, the GitHub security model does not allow the granularity required to 
 While we are using github as the platform for OWASP projects source code, we need to talk about the security of the code in order to provide integrity checks and other security controls needed.
 
 ## Outcomes
-
-- OWASP Github security Policy
-- OWASP Github Security Cheatsheet
-- OWASP Github Security risks list
+- Map out the various risks of the current granularity access
+- Reach out to Github with a request for comment
 
 ## Who
 

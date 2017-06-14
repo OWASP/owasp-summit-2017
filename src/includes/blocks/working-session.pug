@@ -33,7 +33,22 @@ mixin show-when-time
     br
 
 mixin show-location
+    | {% case data.metadata.location %}
+    | {% when 'Room-1' %}
+    b Location: Kings
+    | {% when 'Room-2' %}
+    b Location: Portland
+    | {% when 'Room-3' %}
+    b Location: Larch
+    | {% when 'Room-4' %}
+    b Location: Montague
+    | {% when 'Room-5' %}
+    b Location: Maulden
+    | {% when 'Room-6' %}
+    b Location: Pedley
+    | {% else %}
     b Location: {{ data.metadata.location  }}
+    | {% endcase %}
     br
 
 mixin show-remote-link

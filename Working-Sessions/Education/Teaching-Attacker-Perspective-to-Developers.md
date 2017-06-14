@@ -11,7 +11,7 @@ when-day       : Thu
 when-time      : AM-1
 location       : Room-4
 organizers     : Bjoern Kimminich
-participants   : Timo Pagel, Stuart Gunter, Tiffany Long, Phil Parker,Francois Raynaud, Irene Michlin, Steven van der Baan
+participants   : Timo Pagel, Stuart Gunter, Tiffany Long, Phil Parker,Francois Raynaud, Irene Michlin, Steven van der Baan, Robert Hurlbut
 ---
 
 > _Learning by doing_ is a quite successful education concept. Although

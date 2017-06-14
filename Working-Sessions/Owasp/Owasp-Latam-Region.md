@@ -6,10 +6,10 @@ owasp-project: yes
 track        : Owasp
 status       : need working materials 
 when-day     : Thu
-when-time    : PM-2
-location     : Room-3
+when-time    : Eve
+location     : 
 organizers   : Mateo Martinez
-participants : 
+participants : Oscar Perez (remotely), Ricardo Supo Picon (remotely), John Jairo (remotely), Fernando Vela (remotely), Pablo (remotely), Gaston Toth (remotely), John Vargas (remotely)
 ---
 
 This Working Session will review OWASP's position in Latin America (Latam) and plan the next steps for a growing region. Some OWASP activities planned include several global AppSec conferences, OWASP Day, and a more than 10-cities OWASP Latam Tour.

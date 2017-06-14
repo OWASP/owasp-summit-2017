@@ -6,7 +6,7 @@ owasp-project: yes
 description  : Working Sessions related to the Owasp SAMM Project
 status       : done
 organizers   : Sebastien Deleersnyder
-participants : Dinis Cruz,Mateo Martinez,Brian Glas,Avi Douglen,Yan Kravchenko
+participants : Dinis Cruz,Mateo Martinez,Brian Glas,Avi Douglen,Yan Kravchenko, Hardik Parekh
 ---
 
 Several [OWASP SAMM](https://www.owasp.org/index.php/OWASP_SAMM_Project) Working-Sessions will form part of the OWASP summit.

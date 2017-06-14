@@ -43,7 +43,7 @@ with-sessions:
       - Sebastien Deleersnyder
       - Bart De Win
       - Brian Glas
-      - Brian Lawrence
+      - Juan Calderon
       - Yan Kravchenko
       - Viktor Lindstrom
   'OK310':
@@ -98,8 +98,8 @@ with-sessions:
       - Adrian Winckles
       - Azzeddine Ramrami
       - Ohad Rabinovich
-      - Ohad Rabinovich
       - Nanne Baars
+      - 
   'OK319':
     name: Summit Team
     users:
@@ -193,3 +193,4 @@ quiet-lodges:
      - Ceara Treacy
      - Mustafa Kasmani
      - Daniel Kefer
+

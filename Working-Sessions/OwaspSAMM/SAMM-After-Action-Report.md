@@ -7,7 +7,8 @@ track        : OwaspSAMM
 status       : done
 when-day     : Fri
 when-time    : AM-1
-location     : Room-4
+location     : Main-Room
+remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom

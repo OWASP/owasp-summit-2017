@@ -6,10 +6,10 @@ owasp-project: no
 track        : CISO
 technology   :
 related-to   :
-status       : needs more content
-when-day     : Thu
-when-time    : PM-2
-location     : Room-4
+status       : done
+when-day     : Wed
+when-time    : DS-1
+location     : Main-Room
 organizers   : Don Gibson
 participants : Robert Morschel
 ---
@@ -35,7 +35,7 @@ The aim of this Working Session is to examine AppSec from the vantage point of t
 
 ## Outcomes
 
-.. add content..
+This Working Session will result in a set of guidelines CISOs need to follow in order to know on which application security domains to invest so their business can deliver on its missions.
 
 ## Who
 
@@ -53,4 +53,5 @@ Here are the current 'work in progress' materials for this session (please add a
 
 ### Content
 
-...add content...
+- [Metrics For Managing Risks & Application Security Investments](https://www.owasp.org/index.php/CISO_AppSec_Guide:_Metrics_For_Managing_Risks_%26_Application_Security_Investments)
+- [CISO AppSec Guide: Application Security Program](https://www.owasp.org/index.php/CISO_AppSec_Guide:_Application_Security_Program)
