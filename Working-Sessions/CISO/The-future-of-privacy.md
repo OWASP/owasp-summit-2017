@@ -60,7 +60,7 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+- Agenda and results: https://drive.google.com/file/d/0B1vROwh8vCBGWGR6VENqak9SaHc/view?usp=sharing
 
 ### Content
 ... add content...
