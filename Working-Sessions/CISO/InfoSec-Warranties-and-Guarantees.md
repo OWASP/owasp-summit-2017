@@ -74,7 +74,7 @@ Here are the current 'work in progress' materials for this session (please add a
 
 Decisions on purchasing security products with Cyber Insurance, should not be based solely on the warranty (no matter how good it seems). Some Warranties may only cover secondary insurance that can cost the policy holder thousands if not millions.
 
-Reliance on warranties require scrutiny, equivalent to buying cyber insurance but warranties could be seen as a marketing ploy. It is normally not worth investigating a warranty for a product, due to the cost of the investigation against the cost of the initially cover. Normally negotiating warranty contracts can achieve more favourable terms. Collecting information about companies that submitted claims and results of that process would prove useful.
+Reliance on warranties require scrutiny, equivalent to buying cyber insurance but warranties could be seen as a marketing ploy. It is normally not worth investigating a warranty for a product, due to the cost of the investigation against the cost of the initially cover. Normally negotiating warranty contracts can achieve more favourable terms. Collecting information about companies that submitted claims and the results of that process would prove useful.
 
 #####Warranties should include:
 
@@ -90,7 +90,7 @@ You can't make decisions based purely on warranty claims.
 #####Takeaways
 
 Provided market to support claims
-Collecting information about companies that submitted claims and results of that process would prove useful.
+Collecting information about companies that submitted claims and the results of that process would prove useful.
 Warranties that provide something that the policy holder has complete control over such as:
 - Uptime
 - Direct performance indicators 
