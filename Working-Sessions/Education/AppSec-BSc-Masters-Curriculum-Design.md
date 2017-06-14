@@ -77,7 +77,7 @@ B)	Subsequent Departments you interface with:
 - Completion of an exit survey
 - A wider Strategy than BSC/MSC, that Combines OWASP strategic strengths.
 - Agreement that there is not enough AppSec, in educational curriculums. 
-- Priotise/Rank learning objectives.
+- Prioritise/Rank learning objectives.
 - Creation of an Educational Diagram. 
 
 ## Who
