@@ -15,7 +15,7 @@ participants   : Tiffany Long, Jonas Vanalderweireldt, Danny Grander, Fabien Tha
 ---
 
 
-## Why
+## Why 
 
 In this working session we can share our experience of various CTF
 formats, tools, and frameworks.
