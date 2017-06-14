@@ -62,7 +62,7 @@ The target audience for this Working Session is:
 This session supported the need for a generic curriculum for Application security in university BSC/MSC programs. This involved particular patterns of delivery and how deep/complex the curriculum needed to be. 
 The session looked for a first step strategy, for further discussion at subsequent meetings. The major takeaway was an agreement that there is not enough APPSEC in educational curriculums. The solution is to have a low-level set of core learning objectives, that are can be incorporated by secondary educational institutions. A modular set of advanced learning objectives to be built for higher educational settings, based around Builder, Breaker, and Defender frameworks.  
 
-### Outcomes
+### Takeaways
 
 - Competition of an exit survey
 - A wider Strategy than BSC/MSC, that Combines OWASP strategic strengths
