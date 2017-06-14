@@ -53,5 +53,28 @@ Here are the current 'work in progress' materials for this session
 
 ### Content
 
-...add content...
+###Security Centric
+The security centric approach tries to identify every possible threat to the system under investigation. This approach is used mainly by a niche group within threat modeling where any threat or vulnerability will have a huge impact and thus is a large risk. Since we can not prioritize threats on risk we must identify and cover all of them.
+
+Examples of industries where the security centric approach are military, critical infrastructure, healthcare, utility sector, space exploration, ...
+
+Most of these industries have very strict regulatory safety requirements to meet. Even though these organisations need to protect privacy and comply to regulations like GDPR these are not the main focus. In healthcare for example patient safety is more important then patient confidentiality.
+
+This is shooting at a moving target, even for a fixed technology new threats are emerging and being developed. Continuous evaluation of the threat library will be needed. This makes the security centric approach one of the more expensive approaches.
+
+####1. Scope & Objective
+In most approaches overscoping is a problem that needs to be addressed. In a security centric approach overscoping is preffered and underscoping needs to be avoided at all costs. 
+
+The objective of a security centric threat model is to document, analyse and mitigate every possible threat agaist the system.
+
+####2. System Overview
+The system overview is bound to be very large, most systems will have an overview that is split into several encapsulated parts. Each of these parts will be described in deeper levels. This usually happens in an iterative manner.
+
+####3. Decompose System
+
+
+####4. Identify and analyse threats
+The main difference between the security centric approach is that every threat needs to be identified (and mitigated).
+
+####5. Identify and analyse mitigations
  
