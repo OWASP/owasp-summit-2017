@@ -40,14 +40,44 @@ This Working Session will deliver the following documents:
 
 ### Synopsis/Takeaways
 
-This session supported the need for a generic curriculum for Application security in university BSC/MSC programs. This involved particular patterns of delivery and how deep/complex the curriculum needed to be. 
-The session looked for a first step strategy, for further discussion at subsequent meetings. The major takeaway was an agreement that there is not enough APPSEC in educational curriculums. The solution is to have a low-level set of core learning objectives, that are can be incorporated by secondary educational institutions. A modular set of advanced learning objectives to be built for higher educational settings, based around Builder, Breaker, and Defender frameworks.  
+This session supported the need for a generic curriculum for application security in university BSC/MSC programs. This involved particular patterns of delivery and how deep/complex the curriculum needed to be. 
+The session looked for a first step strategy, for further discussion at subsequent meetings. The major takeaway was an agreement that there is not enough APPSEC in educational curriculums. The solution is to have a low-level set of core learning objectives, that can be incorporated by secondary educational institutions. A modular set of advanced learning objectives to be built for higher educational settings, based around Builder, Breaker, and Defender frameworks.  
+
+-------------------------------------------------------------------------------------------
+Summit Exit Survey
+-------------------------------------------------------------------------------------------
+What are the three top APPSEC Skills or Knowledge required from newly appointed graduate: 
+
+A)	Own Department:
+
+1
+
+
+2
+
+
+3
+
+
+
+B)	Subsequent Departments you interface with:
+
+1
+
+
+2
+
+
+3
+
+--------------------------------------------------------------------------------------------
 
 ### Takeaways
 
 - Completion of an exit survey
-- A wider Strategy than BSC/MSC, that Combines OWASP strategic strengths
-- Agreement that there is not enough AppSec, in educational curriculums 
+- A wider strategy than BSC/MSC, that combines OWASP strategic strengths
+- Agreement that there is not enough AppSec in educational curricula 
+- Prioritise/Rank learning objectives
 - Creation of an Educational Diagram 
 
 ## Who
