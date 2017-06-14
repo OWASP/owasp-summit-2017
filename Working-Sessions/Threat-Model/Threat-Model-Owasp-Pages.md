@@ -73,27 +73,28 @@ The target audience for this Working Session is:
 This session was very productive. The group discussed how to improve the OWASP Threat Modelling pages. Specifically, defining the what, why, Who, When and how of Threat Modelling for development and security Roles. The session was split into 3 groups (Software, Risk, security Centric approaches).
 
 ##### What/Why
--Define Threat Modelling
--Benefits 
+- Define Threat Modelling
+- Benefits 
 
 ##### Who?
--Developers
--CISO
--Architects
--Penetration Testing 
--New Talent
--Managers
+- Developers
+- CISO
+- Architects
+- Penetration Testing 
+- New Talent
+- Managers
 
 ##### When/Typical Scenarios
--SDLC (Development Process) – Agile (Scrum)
--Architectural Reviews (Vendor Risk)
--Pre-Pen Testing (Different Stages)
--Procurement (Quickly)
+- SDLC (Development Process) – Agile (Scrum)
+- Architectural Reviews (Vendor Risk)
+- Pre-Pen Testing (Different Stages)
+- Procurement (Quickly)
 
 #### How/Approach
--Software Centric
--Risk Centric
--Security Centric 
+- Software Centric
+- Risk Centric
+- Security Centric 
+
 The Group output is shown below:
 
 ### Security Centric Approach
@@ -106,23 +107,23 @@ Most of these industries have very strict regulatory safety requirements to meet
 
 This is shooting at a moving target, even for a fixed technology new threats are emerging and being developed. Continuous evaluation of the threat library will be needed. This makes the security centric approach one of the more expensive approaches.
 
-####1. Scope & Objective
+#### 1. Scope & Objective
 
 In most approaches overscoping is a problem that needs to be addressed. In a security centric approach overscoping is preffered and underscoping needs to be avoided at all costs. 
 
 The objective of a security centric threat model is to document, analyse and mitigate every possible threat agaist the system.
 
-####2. System Overview
+#### 2. System Overview
 
 The system overview is bound to be very large, most systems will have an overview that is split into several encapsulated parts. Each of these parts will be described in deeper levels. This usually happens in an iterative manner.
 
-####3. Decompose System
+#### 3. Decompose System
 
-####4. Identify and analyse threats
+#### 4. Identify and analyse threats
 
 The main difference between the security centric approach is that every threat needs to be identified (and mitigated).
 
-####5. Identify and analyse mitigations
+#### 5. Identify and analyse mitigations
 
 - Approach from the attacker's point of view
 - Attacker-centric approach might be just a subset of this (vs. starting with security controls?) 
