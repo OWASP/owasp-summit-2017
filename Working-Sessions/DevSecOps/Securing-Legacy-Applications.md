@@ -33,8 +33,22 @@ This Working Session will discuss how best to secure these legacy applications.
 
 ## Outcome
 
-This Working Session will produce a set of guidelines on how to best secure legacy applications
+__Main Characteristic of a Legacy Application: You cannot fix the base of a problem on that system. e.g. Modify the code.__
+- Other hits you are dealing with a legacy app: 
+	* Not Under active maintenance
+	* Not secure anmore
+	* Ancient Technology (IE 6, Active X, Some Russian Script language only 30 people know)
+	* Odd Technology
+	* Not Easy to maintain
+	* Cannot timely respond to an incident
 
+- Risk Mitigation Strategies
+	* Eventually, the ultimate solution is decomission:
+	  * Do cost analisys of maintainting the application, and plan to decomission the application at some point of time and start using new (cheaper) technology
+		  * You have to put a final point to the app, they are not supposed to run forever.
+	Other less effective options (Still a certain amount of remaining risk must be accepted):
+		  * Lower likelihood by adding protection layers like WAFS, Firewalls, Filters, etc. This casues that old functionality cannot be exposed to new technology or have to be made in a very careful manner.
+  
 ## Who
 
 The target audience for this Working Session is:
@@ -50,9 +64,4 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
-- draft document containing the guidelines on how to secure legacy applications
-
 ### Content
-
-...add content...
