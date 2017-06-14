@@ -17,7 +17,7 @@ participants : Alexander Antukh, Amani Altarawneh, Bart De Win, Bernhard Mueller
 ---
 
 
-## THIS SESSION IS FULL.
+## THIS SESSION IS FULL. IF YOU ARE NAMED AS A PARTICIPANT, YOU WILL NEED TO BRING A CASH PAYMENT OF £17.75 TO COVER YOUR ENTRANCE FEE. PLEASE TRY TO BRING THE RIGHT MONEY TO SPEED UP THE PROCESS OR THE TOUR MAY BE DELAYED.
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
 

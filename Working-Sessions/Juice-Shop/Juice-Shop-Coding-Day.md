@@ -112,4 +112,6 @@ All that in your own speed and schedule!
 
 ### Content
 
-...add content...
+* [Release notes for upcoming v3.3.0](https://github.com/bkimminich/juice-shop/releases/tag/untagged-bdb2597bd6769221f800)
+* [Juice Shop Kanban Board on waffle.io](https://waffle.io/bkimminich/juice-shop)
+* [📺📢🕺💃](https://owaspsummit.org/Working-Sessions/Juice-Shop/JuiceShop-Shake.js.wmv)
