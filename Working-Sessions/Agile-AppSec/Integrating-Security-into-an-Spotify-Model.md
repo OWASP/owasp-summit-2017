@@ -8,8 +8,8 @@ technology   :
 related-to   :
 status       : need more content
 when-day     : Thu
-when-time    : PM-1
-location     : Room-2
+when-time    : DS-1
+location     : Main-Room
 organizers   : Ante Gulam
 participants : 
 ---

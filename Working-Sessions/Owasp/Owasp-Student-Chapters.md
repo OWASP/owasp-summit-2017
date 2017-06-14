@@ -7,7 +7,7 @@ track        : Owasp
 status       : need working materials
 when-day     : Thu
 when-time    : Eve
-location     : 
+location     : Main-Room
 organizers   : Mateo Martinez
 participants : Tiffany Long
 ---

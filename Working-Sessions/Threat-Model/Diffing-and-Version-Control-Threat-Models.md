@@ -7,9 +7,9 @@ track        : Threat Model
 technology   :
 related-to   :
 status       : draft
-when-day     : Fri
-when-time    : AM-1
-location     : Room-6
+when-day     : Wed
+when-time    : DS-1
+location     : Main-Room
 organizers   :
 participants : Irene Michlin, Steven Wierckx
 invite: Adam Shostack

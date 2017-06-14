@@ -7,9 +7,9 @@ track        : Security Crowdsourcing
 technology   :
 related-to   :
 status       : done
-when-day     : Thu
-when-time    : PM-3
-location     : Room-5
+when-day     : Wed
+when-time    : DS-1
+location     : Main-Room
 room-layout  : square
 organizers   : Ante Gulam
 participants :

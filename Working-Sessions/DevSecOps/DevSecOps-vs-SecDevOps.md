@@ -5,8 +5,8 @@ type        : workshop
 track       : DevSecOps
 status      : done
 when-day    : Wed
-when-time   : Eve
-location    : Villa-3
+when-time   : DS-1
+location    : Main-Room
 organizers  : Francois Raynaud
 participants: Felipe Zipitria
 room-layout : unknown

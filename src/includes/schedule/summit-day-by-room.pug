@@ -36,6 +36,9 @@ mixin show-room
         | {% assign time = 'PM-3'  %}
         + show-session-at-time
     td
+        | {% assign time = 'DS-1'  %}
+        + show-session-at-time
+    td
         | {% assign time = 'Eve'  %}
         + show-session-at-time
     td
@@ -69,17 +72,20 @@ mixin show-room
                     .day-time 13:30 to 15:00 (1.5h)
                 th.text-center
                     h4 PM 2
-                    .day-time 15:30 to 16:40 (1h)
+                    .day-time 15:30 to 16:30 (1h)
                 th.text-center
                     h4 PM 3
                     .day-time 16:30 to 17:30 (1h)
+                th.text-center
+                    h4 DS-1
+                    .day-time 18:00 to 19:45 (1:45h)
                 th.text-center
                     h4 Evening
                     .day-time 20:30 to 23:59 (3.5h)
                 //th.text-center
                     h4 (no-time)
 
-            | {% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3,Villa-6,no-location' | split: ',' %}
+            | {% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Main-Room,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3,Villa-6,no-location' | split: ',' %}
             | {% for room in locations %}
             tr
                 + show-room

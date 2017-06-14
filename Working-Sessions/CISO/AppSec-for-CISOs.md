@@ -7,9 +7,9 @@ track        : CISO
 technology   :
 related-to   :
 status       : done
-when-day     : Thu
-when-time    : PM-2
-location     : Room-4
+when-day     : Wed
+when-time    : DS-1
+location     : Main-Room
 organizers   : Don Gibson
 participants : Robert Morschel
 ---

@@ -8,8 +8,8 @@ technology   :
 related-to   :
 status       : merged with integrating security into a portfolio kanban
 when-day     : Thu
-when-time    : AM-1
-location     : Room-2
+when-time    : DS-1
+location     : Main-Room
 organizers   :
 participants : Francois Raynaud
 ---

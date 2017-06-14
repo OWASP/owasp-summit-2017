@@ -8,7 +8,7 @@ technology   : REST
 status       : Final stage; missing working materials
 when-day     : Fri
 when-time    : AM-1
-location     : Room-3
+location     : Main-Room
 room-layout  : Cabaret
 organizers   : Johan Peeters
 participants : Dinis Cruz, Robert Morschel, Steven Wierckx

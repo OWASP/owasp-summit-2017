@@ -4,9 +4,9 @@ title        : Reverse Engineering APK's with Bytecodeviewer
 type         : workshop
 track        : Tools
 technology   : Mobile
-when-day     : Thu
-when-time    : PM-3
-location     : Room-2
+when-day     : 
+when-time    :
+location     :
 status       : done
 organizers   : 
 participants : Don Gibson

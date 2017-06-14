@@ -8,8 +8,8 @@ technology   :
 related-to   : JIRA Risk Workflow
 status       : done
 when-day     : Thu
-when-time    : PM-2
-location     : Room-2
+when-time    : DS-1
+location     : Main-Room
 room-layout  : unknown
 organizers   : Dinis Cruz
 participants : Ante Gulam, Irene Michlin, Mamta Vuppu, Duncan Hurwood
