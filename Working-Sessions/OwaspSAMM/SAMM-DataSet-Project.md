@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : SAMM - DataSet Project
+title        : SAMM - Dataset Project
 type         : workshop
 owasp-project: no
 track        : OwaspSAMM
@@ -22,7 +22,7 @@ As a community, we are long overdue a standard way of collecting SAMM results to
 
 ## What
 
-- Goals of SAMM DataSet
+- Goals of SAMM Dataset
 - Logistics of Data Collection and Anonymisation
 - Data Model Review/Refinement
 
@@ -30,10 +30,10 @@ As a community, we are long overdue a standard way of collecting SAMM results to
 
 ### Synopsis and Takeaways
 
-- The DataSet Project was unanimously agreed upon to be a key project for OWASP and is worth pursuing. 
-- The DataSet project is key to the SAMM project as a whole
+- The Dataset Project was unanimously agreed upon to be a key project for OWASP and is worth pursuing. 
+- The Dataset project is key to the SAMM project as a whole
 - For the project to progress steadily it is important to collect names that are willing to contribute to the project consistently
-- Create a survey that is to be sent via the "SAMM users mailing list", in order to gain valuable information about what users want from the DataSet
+- Create a survey that is to be sent via the "SAMM users mailing list", in order to gain valuable information about what users want from the Dataset
 
 
 ## Who
