@@ -30,10 +30,12 @@ This Working Session aims to update the OWASP threat modelling pages. The result
   - Build a complete 'how to' for security centric threat models
   - Provide pointers to OWASP threat modelling cheat sheets, Security Champions, Lightweight threat modelling initiatives 
   
-## Outcomes
+ ## Outcomes
 
 - Revised content on OWASP threat modelling pages
 - Subpages on threat modelling methodologies with details and artefacts created
+
+See Session outcomes below.
   
 ## Who
 
@@ -45,15 +47,30 @@ The target audience for this Working Session is:
  
  --- 
 
-## Working materials
+## Session outcomes
 
-Here are the current 'work in progress' materials for this session 
+### What is a Threat Model?
 
-(please add as much information as possible before the sessions)
+- Tool/approach for risk management
+- Identification of threats
+- Structured methodology to understand the threats to which your application could be vulnerable
+- Technical threat analysis
+- Applies to SW, way to identify vulnerabilities, risks and threats from diagrams
+- Produces security requirements and/or risks, security design
+- "How secure is secure enough?"
+- Optimise the security investment
+- The term "threat" needs to be clarified (connection to vulnerability, exploit, threat agent...)
+- Possibility of a vulnerability / software flaw
+- Actualized risk of appearance of a vulnerability 
+- Intent of a threat agent to perform an undesired action (Attacker centric approach)
 
-### Content
+### Why use a Threat Model?
 
-###Security Centric
+- Enables/supports cost-effective security
+- Enables you to understand your security risks
+
+### Security Centric Approach
+
 The security centric approach tries to identify every possible threat to the system under investigation. This approach is used mainly by a niche group within threat modeling where any threat or vulnerability will have a huge impact and thus is a large risk. Since we can not prioritize threats on risk we must identify and cover all of them.
 
 Examples of industries where the security centric approach are military, critical infrastructure, healthcare, utility sector, space exploration, ...
@@ -63,18 +80,41 @@ Most of these industries have very strict regulatory safety requirements to meet
 This is shooting at a moving target, even for a fixed technology new threats are emerging and being developed. Continuous evaluation of the threat library will be needed. This makes the security centric approach one of the more expensive approaches.
 
 ####1. Scope & Objective
+
 In most approaches overscoping is a problem that needs to be addressed. In a security centric approach overscoping is preffered and underscoping needs to be avoided at all costs. 
 
 The objective of a security centric threat model is to document, analyse and mitigate every possible threat agaist the system.
 
 ####2. System Overview
+
 The system overview is bound to be very large, most systems will have an overview that is split into several encapsulated parts. Each of these parts will be described in deeper levels. This usually happens in an iterative manner.
 
 ####3. Decompose System
 
-
 ####4. Identify and analyse threats
+
 The main difference between the security centric approach is that every threat needs to be identified (and mitigated).
 
 ####5. Identify and analyse mitigations
- 
+
+- Approach from the attacker's point of view
+- Attacker-centric approach might be just a subset of this (vs. starting with security controls?) 
+
+### Options
+
+  - Attacker analysis (who, how many, how good, how motivated...)
+  - Attack Tree (how to achieve a goal - e.g. spoof a user)
+  - Usage of a threat library (e.g. STRIDE, ...)
+  - ? Given we can also start from security controls: ASF (Application Security Frame) - Microsoft Application
+  
+### Consumers 
+
+  - Military 
+  - Risk Adverse Enterprises 
+  - Pen testers
+  
+### When? 
+
+  - Good also late in SDLC (?)
+  - When we have poor internal visibility of the application
+
