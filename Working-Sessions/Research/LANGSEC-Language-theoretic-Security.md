@@ -6,7 +6,7 @@ owasp-project: no
 track        : Research
 technology   :
 related-to   :
-status       : draft
+status       : done
 organizers   :
 participants : Johan Peeters
 ---

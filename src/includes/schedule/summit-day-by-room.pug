@@ -18,6 +18,11 @@ mixin show-room
     td.text-center
         .room-name {{ site.data.venue[room].name }}
         .room-key {{ room }}
+        .div.hidden-print
+            | {% if site.data.venue[room].live-stream %}
+            b
+                a(href='{{site.data.venue[room].live-stream}}') Live Stream
+            | {% endif %}
     td
         | {% assign time = 'AM-1'  %}
         + show-session-at-time
@@ -45,7 +50,7 @@ mixin show-room
         div.visible-print-block
             h1 {{ page.title }}
         div.hidden-print
-            h3 {{ page.title }}
+            h3 {{ page.title }} schedule ({{ page.day }})
         hr.hidden-print
         div.hidden-print
             ul
@@ -74,7 +79,7 @@ mixin show-room
                 //th.text-center
                     h4 (no-time)
 
-            | {% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3' | split: ',' %}
+            | {% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3,no-location' | split: ',' %}
             | {% for room in locations %}
             tr
                 + show-room

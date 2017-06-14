@@ -10,7 +10,7 @@ when-day     : Mon,Tue,Wed,Thu
 when-time    : Eve
 location     : Villa-3
 organizers   : Leon Juranic
-participants :
+participants : Fabien Thalgott, Jonas Vanalderweireldt
 ---
 
 ## Why

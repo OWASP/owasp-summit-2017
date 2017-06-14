@@ -10,7 +10,7 @@ when-time    : PM-3
 location     : Villa-1
 room-layout  : unknown
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Fabien Thalgott
 ---
 
 Update the SAMM use cases.

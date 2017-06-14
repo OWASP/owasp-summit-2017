@@ -11,7 +11,7 @@ when-time    : PM-1
 location     : Room-6
 room-layout  : cabaret 
 organizers   : Anders Reeves
-participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel,Neil Barlow,Bjoern Kimminich, Steven van der Baan
+participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel,Neil Barlow, Steven van der Baan, Bjoern Kimminich
 invited      : Kevin Fielder, Dilek Koluman, Clare Creeden
 ---
 
@@ -57,3 +57,8 @@ We need to be much more focused on the questions to ask and provide as much info
  - The role of SOC in detecting and reporting security incidents
 
 ## List of companies that will sign the first version
+
+
+## Working Document
+
+https://docs.google.com/a/equalexperts.com/document/d/1-Xa7eFsa9w3pUOcor0ymbKw_OZZobit-akXf5jCbmZQ/edit?usp=sharing

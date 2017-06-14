@@ -31,7 +31,20 @@ Starting point for a common understanding of the goals and mindset for the SAMM 
 
 ## Outcomes
 
-...add content...
+### Synopsis and Takeaways
+
+Captured expectations of participants;
+Better understanding
+Include agile/devops
+Contribute
+Tools
+Benchmarking
+
+Make the model more “agile”?
+focus on developers. 
+Measure efficiency
+SAMM Profiles 
+
 
 ## Who
 

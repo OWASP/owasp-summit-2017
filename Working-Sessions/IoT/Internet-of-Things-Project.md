@@ -12,8 +12,8 @@ location     : Room-1
 room-layout  : cabaret
 locked       : true
 organizers   : Daniel Miessler
-participants :
-invited      : Sam Houston, Tony UV, Andrew van der Stock, Jason Haddix, Mark Stanislav, Robert Hurlbut, Talmer Elzayyat
+participants : Robert Hurlbut
+invited      : Sam Houston, Tony UV, Andrew van der Stock, Jason Haddix, Mark Stanislav, Talmer Elzayyat
 ---
 
 The OWASP Internet of Things Project is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.

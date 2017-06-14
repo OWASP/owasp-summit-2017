@@ -6,7 +6,7 @@ owasp-project  : no
 track          : Education
 technology     : Docker, AngularJS, Python
 related-to     : Teaching Attacker perspective to Developers, Juice Shop, CTFs, Hackathon Daily Sessions
-status         : draft
+status         : done
 when-day       : Tue,Wed
 when-time      : Eve
 location       : Villa-3
@@ -14,34 +14,50 @@ organizers     : Gabor Pek, Mark Felegyhazi
 participants   : 
 ---
 
+## HOW TO PLAY
+
+Go to the [owasp path at avatao](https://avatao.com/events/owasp2017) and start solving the challenges. 
+If you are afraid of registering, we created some test accounts for you. However, if you register you can save your own score.
+
+user1: owaspsummit1@avatao.com
+password: OWASP_2017_IS_COOL
+
+user2: owaspsummit2@avatao.com
+password: OWASP_2017_IS_COOL
+
+user3: owaspsummit3@avatao.com
+password: OWASP_2017_IS_COOL
+
+
 ## Why
 
-In this hackathon, Participants can experience a large set of security challenges ranging from web security to DevSecOps. The session is run on the [avatao](https://avatao.com) platform that is an online tool to offer a wide variety of hands-on ITsec challenges. We demonstrate how deep the rabbit hole goes in terms of architecture, programming languages or design. Avatao contains more than 400 real challenges to achieve this. The session can be useful for anyone who would like to get hands-on experience with cutting edge technologies (e.g., Unicorn Engine, Kaitai Struct) that shape our security today or solve more traditional challenges in web security or Java.
+In this hackathon, Participants can experience many security challenges ranging from web security to DevSecOps. The session is run on the [avatao](https://avatao.com) platform, an online tool that offers a wide variety of hands-on ITsec challenges. We demonstrate how deep the rabbit hole goes in terms of architecture, programming languages, or design. Avatao contains more than 400 challenges to achieve this. The session is useful for anyone who would like to get hands-on experience with cutting edge technologies (e.g., Unicorn Engine, Kaitai Struct) that shape our security today, or for anyone interested in solving more traditional challenges in web security or Java.
 
-The primary goal however is to have fun and gather feedback from the participants on the platform and ideas for new challenges for AppSec professionals.
+The primary goal is to have fun and gather feedback from the participants on the platform and ideas for new challenges for AppSec professionals.
 
 
 ## What
 
 Planned topics for the hackathon: 
-- web security, 
+- Web security, 
 - API security,
-- testing (BDD),
-- security misconfigurations,
+- Testing (BDD),
+- Security misconfigurations,
 - Docker security,
-- secure coding in C, 
-- secure coding in Java, 
-- security tools tutorials (Wireshark, Unicorn Engine),
-- crypto and protocol security,
-- hacker stuff (pwn, RE) on demand
+- Secure coding in C, 
+- Secure coding in Java, 
+- Security tools tutorials (Wireshark, Unicorn Engine),
+- Crypto and protocol security,
+- Hacker stuff (pwn, RE) on demand
+
 
 
 ## Outcomes
 
-- having fun 
-- learn new vulnerabilities and past epic failures ([Yahoo Mail stored XSS](https://klikki.fi/adv/yahoo2.html))
-- hands-on experience with cutting edge ITSec technologies (e.g., Kaitai Struct, Unicorn Engine)
-- collect new ideas for security challenges (secure coding in X, GDPR)
+- Having fun 
+- Learn new vulnerabilities and past epic failures ([Yahoo Mail stored XSS](https://klikki.fi/adv/yahoo2.html))
+- Hands-on experience with cutting edge ITSec technologies (e.g., Kaitai Struct, Unicorn Engine)
+- Collect new ideas for security challenges (secure coding in X, GDPR)
 
 
 ## Who
@@ -82,9 +98,9 @@ All the challenges will be available online so anyone can join us even remotely.
 
 ## General Rules to Participate
 
-The hackathon is going to be organized on the [avatao](https://avatao.com) platform, which is a commercial product to educate people to build secure products. In accordance with the general rules of the OWASP 2017 Summit, a dedicated learning path is going to be set up for all the on-site and remote conference participants *free of charge*. The organizers of the Hackathon will help the participants on-site, however, the Hackathon is going to be available for a longer period of time even after the conference. 
+The hackathon will be organised on the [avatao](https://avatao.com) platform, which is a commercial product to teach people how to build secure products. In accordance with the general rules of the OWASP 2017 Summit, a dedicated learning path will be set up for all the on-site and remote conference participants *free of charge*. The organisers of the Hackathon will help the participants on-site, but the Hackathon will continue to be available after the conference. 
 
 
-## Definition of done
+## Outcomes
 
-Ran a hackathon about software security and collected ideas for new challenges.
+ -Successful hackathon about software security and collected ideas for new challenges.

@@ -10,7 +10,7 @@ when-time    : PM-1
 location     : Room-3
 room-layout  : unknown
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Irene Michlin
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Irene Michlin, Fabien Thalgott
 ---
 
 Set the goals for this week.
@@ -28,7 +28,13 @@ Starting point for a common understanding of the goals and mindset for the SAMM 
 
 ## Outcomes
 
-...add content...
+### Synopsis and Takeaways
+One Model 
+Evolution
+Scope equals software
+Experiment with tagging to cover various viewpoints
+Extra working session to discuss DevSecOps maturity model (tomorrow – morning session)
+Keep it simple with a Balanced model (desirable)
 
 ## Who
 

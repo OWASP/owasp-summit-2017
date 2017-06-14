@@ -13,7 +13,7 @@ locked       : true
 location     : Room-2
 room-layout  : circle
 participants : Ade Yoseman Putra,Timo Pagel,Francois Raynaud,Jonas Vanalderweireldt
-invited      : Jannik Hollenbach
+invited      : Jannik Hollenbach, Viktor Lindstrom
 cant-make-it : Ingo Hanke
 ---
 
@@ -77,6 +77,14 @@ This working session will gather, discuss and design the following:
 | Juice Shop                                                                                                                             | CTF-Extension                                                                                                                                  |
 |:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop) |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf) |
+
+
+### Synopsis and Takeaways
+
+> Preparation of some user stories and new hacking challenges for the Juice Shop
+> Creation of new ideas to implement in the evening sessions
+> Went through github issue list and decided what could be implemented whilst at Summit.
+
 
 ## Who
 

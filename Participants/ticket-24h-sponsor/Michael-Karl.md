@@ -17,7 +17,7 @@ when-day        : Tue - Fri
 ticket          : 5x24h
 status          : empty
 regonline       : No
-working-sessions : Creating AppSec Teams, Threat and Vulnerability Management Playbook, JIRA Risk Workflow, OWASP Bug Bounty, Application Security Guide for CISO, Incident Response Playbook, Create Jira Workflows for Security Playbooks, AppSec Review and Pentest Playbook, Using Security Risks to Measure Agile Practices, Internal Bug Bounties Programmes, Threat Modeling Cloud Migrations
+working-sessions : Creating AppSec Teams, JIRA Risk Workflow, Application Security Guide for CISO, Incident Response Playbook, Using Security Risks to Measure Agile Practices, Internal Bug Bounties Programmes, Threat Modeling Cloud Migrations
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

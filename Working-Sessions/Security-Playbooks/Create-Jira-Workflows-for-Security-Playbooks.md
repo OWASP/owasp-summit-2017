@@ -6,9 +6,9 @@ track        : Security Playbooks
 technology   : Jira
 related-to   :
 status       : final stage; need-working materials
-when-day     : Wed
-when-time    : PM-2
-location     : Room-5
+when-day     : 
+when-time    : 
+location     : 
 organizers   :
 participants : Irene Michlin,Duncan Hurwood
 ---

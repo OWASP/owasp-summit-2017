@@ -6,7 +6,7 @@
       <h1>{{ page.title }}</h1>
     </div>
     <div class="hidden-print">
-      <h3>{{ page.title }}</h3>
+      <h3>{{ page.title }} schedule ({{ page.day }})</h3>
     </div>
     <hr class="hidden-print"/>
     <div class="hidden-print">
@@ -48,12 +48,13 @@
         h4 (no-time)
         
         -->
-      </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3' | split: ',' %}
+      </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3,no-location' | split: ',' %}
       {% for room in locations %}
       <tr>{% assign day_Data = site.data.mapped.schedule.by_Room[page.day][room] %}
         <td class="text-center">
           <div class="room-name">{{ site.data.venue[room].name }}</div>
           <div class="room-key">{{ room }}</div>
+          <div class="div hidden-print">{% if site.data.venue[room].live-stream %}<b><a href="{{site.data.venue[room].live-stream}}">Live Stream</a></b>{% endif %}</div>
         </td>
         <td>{% assign time = 'AM-1'  %}{% for session in day_Data[time]              %}
           <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>

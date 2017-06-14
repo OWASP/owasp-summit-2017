@@ -6,7 +6,7 @@ owasp-project: no
 track        : DevSecOps
 technology   : SAST
 related-to   : Cyber Insurance,CISO,InfoSec Warranties and Guarantees
-status       : missing-Outcomes; missing-Working materials
+status       : done
 when-day     : Wed
 when-time    : PM-3
 location     : Room-6
@@ -33,7 +33,7 @@ This Working Session will discuss how best to secure these legacy applications.
 
 ## Outcome
 
-...add content...
+This Working Session will produce a set of guidelines on how to best secure legacy applications
 
 ## Who
 
@@ -45,12 +45,13 @@ The target audience for this Working Session is:
 ## References
 
  - [Legacy-SecDevOps (AppSec Management Debrief](http://blog.diniscruz.com/2017/04/presentation-legacy-secdevops-appsec.html)
- 
+ - [Securing Legacy Apps](https://blog.sqreen.io/securing-legacy-apps/)
 --- 
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
+- draft document containing the guidelines on how to secure legacy applications
 
 ### Content
 

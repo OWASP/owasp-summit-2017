@@ -7,12 +7,12 @@ technology   : Java
 status       : done
 track        : Owasp Projects
 owasp-project: yes
-when-day     : Wed
+when-day     : Fri
 when-time    : PM-2
 location     : Room-3
 room-layout  : cabaret
 organizers   : Steve Springett, Steven Wierckx
-participants : Johan Peeters
+participants : Johan Peeters, Brian Glas
 ---
 
 

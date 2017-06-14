@@ -41,7 +41,13 @@ Associated chapters in the MSTG:
 
 ## Outcomes
 
-This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
+This Working Session continued on content creation, revision and editing of the Mobile Security Testing Guide
+
+## Synopsis and Takeaways
+
+Develop existing content on Test Case Exception Handling.
+Testing Authentication and Session Management
+Updating high level methodology of mobile security testing
 
 ## How to Join
 

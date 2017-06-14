@@ -5,7 +5,7 @@ type         : workshop
 owasp-project: no
 track        : DevSecOps
 technology   : CI,SAST
-related-to   : Integrating Security Tools in the SDL,CISO
+related-to   : Integrating Security Tools in the SDL,CISO,Docker Security
 when-day     : Tue
 when-time    : PM-2
 location     : Room-1
@@ -45,7 +45,7 @@ This Working Session will publish:
 
 ## References
 
-- https://www.nccgroup.trust/uk/our-research/securing-the-continuous-integration-process
+- [How to Secure a Continuous Integration Process](https://www.nccgroup.trust/uk/our-research/securing-the-continuous-integration-process)
 - [DEF CON 22 - Kyle Kelley and Greg Anderson - Is This Your Pipe? Hijacking the Build Pipeline](https://www.youtube.com/watch?v=nBR7Kru6JX0)
 
 --- 

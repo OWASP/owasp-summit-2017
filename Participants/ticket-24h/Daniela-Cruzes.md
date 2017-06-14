@@ -5,14 +5,14 @@ type            : participant
 job-title       : Research Scientist
 company         : SINTEF
 travel-from     : Norway
-image           : http://www.sintef.no/content/units/AnsattBilde.aspx?EmpId=4504
-linkedin        : daniela-cruzes-72162315/
+image           : https://www.sintef.no/content/units/AnsattBilde.aspx?EmpId=4504
+linkedin        : daniela-cruzes-72162315
 twitter          :
 facebook        :
 funded-who      : SINTEF
 status          : done
 ticket          : 5x24h
-working-sessions:
+working-sessions : GDPR and DPO AppSec implications,Threat Modeling Tools,Threat Modeling Diagramming Techniques,Threat Modeling Where do I Start?,Define Agile Security Practices,Agile Practices for Security Teams,Integrating Security into a Portfolio Kanban,Security Champions,Security Guidance and Feedback in IDE,Threat and Vulnerability Management Playbook,Writing Security Tests,JIRA Risk Workflow, DevSecOps vs SecDevOps,GraphQL Security Review,Hackathon Daily Sessions,Hackathon on avatao - Beyond OWASP Top Ten,Integrating Security into a Sales Channel,Top 10 2017 - Peer review of RC2,Integrating Security into an Spotify Model,Using Security Risks to Measure Agile Practices,SAMM Metrics for Enterprises,Closing party,Machine Learning and Security
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

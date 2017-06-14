@@ -10,7 +10,7 @@ when-day     : Fri
 when-time    : AM-1
 location     : Room-5
 room-layout  : cabaret
-organizers   : Devesh Bhatt
+organizers   : 
 participants : Jonas Vanalderweireldt
 ---
 

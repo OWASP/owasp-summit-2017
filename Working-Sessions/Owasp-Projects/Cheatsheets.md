@@ -6,7 +6,7 @@ track        : Owasp Projects
 when-day     : Tue
 when-time    : PM-3
 location     : Room-1
-status       : Final stage; missing working materials
+status       : done
 organizers   :
 participants : Johan Peeters, Don Gibson, Jonas Vanalderweireldt, Steven van der Baan
 ---
@@ -43,8 +43,25 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-- Draft OWASP Cheat Sheets (please add as much information as possible before the sessions)
+- [Draft OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
 
 ### Content
 
-...add content...
+The last afternoon session on the 13th June for Cheat Sheets has decided that we need to deliver a number of FAQs and functional requirements to ensure better participation and clarity around the process.
+
+The proposed topics are:
+•	How to create a new one?
+•	How to modify?
+•	How to get consensus for publication?
+•	How to move from draft to final?
+•	What is a valid cheat sheet topic?
+•	When to retire or remove one (currency test)?
+
+Functional requirements:
+•	Last edit date on the Wiki
+•	Last review date on the Wiki
+•	Status label
+•	Clear status label on template
+•	Standardisation of tagging for SEO ranking and searching.
+
+

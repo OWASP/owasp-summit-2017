@@ -8,6 +8,7 @@ status       : to be reviewed content
 when-day     : Wed
 when-time    : PM-1
 location     : Villa-1
+remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Nessim Kisserli
 ---
