@@ -89,7 +89,7 @@ You can't make decisions based purely on warranty claims.
 
 #####Takeaways
 
-Provided market to support claims
+Provided marketing data to support claims
 Collecting information about companies that submitted claims and the results of that process would prove useful.
 Warranties that provide something that the policy holder has complete control over such as:
 - Uptime
