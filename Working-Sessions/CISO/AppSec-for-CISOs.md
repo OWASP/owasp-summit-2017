@@ -53,5 +53,5 @@ Here are the current 'work in progress' materials for this session (please add a
 
 ### Content
 
-- <a href="https://www.owasp.org/index.php/CISO_AppSec_Guide:_Metrics_For_Managing_Risks_%26_Application_Security_Investments">Metrics For Managing Risks & Application Security Investments</a>
-- <a href="https://www.owasp.org/index.php/CISO_AppSec_Guide:_Application_Security_Program">CISO AppSec Guide: Application Security Program</a>
+- [Metrics For Managing Risks & Application Security Investments](https://www.owasp.org/index.php/CISO_AppSec_Guide:_Metrics_For_Managing_Risks_%26_Application_Security_Investments)
+- [CISO AppSec Guide: Application Security Program](https://www.owasp.org/index.php/CISO_AppSec_Guide:_Application_Security_Program)
