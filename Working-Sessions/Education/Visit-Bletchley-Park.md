@@ -16,8 +16,7 @@ participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Seb
 ---
 
 
-## You must confirm your participation by 8pm on 13 June 2017 to secure your place.
-Maximum capacity: 40 participants
+## THIS SESSION IS FULL. 
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
 
