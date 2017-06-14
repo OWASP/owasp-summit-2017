@@ -43,6 +43,8 @@ The target audience for this Working Session is:
 
 ## Working materials
 
+- Session Agenda and results: https://drive.google.com/file/d/0B1vROwh8vCBGeUpDbEhYT2RfcmM/view?usp=sharing
+- OWASP Chapter Handbook: https://www.owasp.org/index.php/Chapter_Handbook/Chapter_4:_Chapter_Administration
 - Draft rules for recording information
 - Draft cheat sheet for chapter treasurers
 - Please add as much information as possible before the sessions
