@@ -13,7 +13,7 @@ location       : Room-2
 room-layout    : cabaret
 organizers     : Timo Pagel
 participants   : Bjoern Kimminich, Tiffany Long
-invited        : Mateo Matrinez
+invited        : Mateo Martinez
 ---
 
 ## Why
