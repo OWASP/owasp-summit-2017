@@ -49,7 +49,7 @@ The Application Security Guide for CISO 2013 Version Goals were:
 For The Planned 2018 Version, Which Problems and Solutions/Guidance We Can Expand Upon ? (NOTE These Will be Assessed With Expanded CISO Survey Questions):
 1. Impact of GDPR on AppSec and Recommendations (Including Outcomes of 2017 Summit CISO track)
 2. Emerging technology risks and Risk Mitigation Guidance (e.g. APIs and Micro-services, Biometrics)
-3. Evolving Threats Facing Web Applications (e.g. 0-day exploits of AppSec vulnerabilities) and solutions (e.g. improved attack detection with new tools suchOutcome 1  (unranked) – What topics would you like covered in the new CISO guide? as RASP)
+3. Evolving Threats Facing Web Applications (e.g. 0-day exploits of AppSec vulnerabilities) and solutions (e.g. improved attack detection with new tools such as Outcome 1 (unranked) – What topics would you like covered in the new CISO guide? as RASP)
 4. Others (brainstorming) 
 
 ### Synopsis and Takeaways
