@@ -8,7 +8,7 @@ description : OWASP Threat Modeling Pages provide global AppSec professionals an
 status      : done
 when-day    : Wed
 when-time   : AM-1
-location    : Room-6
+location    : Villa-3
 room-layout : unknown
 organizers  : Tony UV
 participants: Avi Douglen, Robert Hurlbut
