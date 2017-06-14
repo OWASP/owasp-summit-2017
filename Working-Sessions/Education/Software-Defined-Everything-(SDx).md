@@ -6,7 +6,7 @@ track        : Education
 status       : missing outcomes
 when-day     : Wed
 when-time    : PM-1
-location     : Room-2
+location     : Room-3
 organizers   : Adrian Winckles
 participants : 
 ---
