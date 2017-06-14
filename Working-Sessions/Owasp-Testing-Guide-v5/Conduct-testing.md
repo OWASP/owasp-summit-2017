@@ -9,7 +9,7 @@ related-to   :
 status       : empty
 when-day     : Thu
 when-time    : AM-1
-location     : Testing Guide Villa (315)
+location     : Villa-6
 organizers   : Matteo Meucci
 participants : 
 ---

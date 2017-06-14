@@ -11,7 +11,7 @@ when-time   : PM-3
 location    : Villa-4
 room-layout : unknown
 organizers  : Tony UV
-participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin,Robert Morschel,Stephen de Vries,Duncan Hurwood, Steven Wierckx, Aruna Katugampola
+participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin,Robert Morschel,Stephen de Vries,Duncan Hurwood, Steven Wierckx, Aruna Katugampola, Christian Martorella
 ---
 
 
