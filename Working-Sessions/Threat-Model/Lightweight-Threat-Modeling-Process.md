@@ -56,12 +56,12 @@ Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
-### Prior art
+### Prior articles
 
-https://blogs.msdn.microsoft.com/ptorr/2005/02/22/guerrilla-threat-modelling-or-threat-modeling-if-youre-american/
-https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf
-http://schd.ws/hosted_files/appseceurope2017/df/Incremental%20Threat%20Modelling%20v1.0.pptx
-https://www.safaribooksonline.com/blog/2016/02/09/threat-modeling-simplified/
+- [Guerilla Threat Modelling or Threat Modeling If You're American](https://blogs.msdn.microsoft.com/ptorr/2005/02/22/guerrilla-threat-modelling-or-threat-modeling-if-youre-american/)
+- [SAFECode TM Whitepaper](https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)
+- [Incremental Threat Modelling v1.0](http://schd.ws/hosted_files/appseceurope2017/df/Incremental%20Threat%20Modelling%20v1.0.pptx)
+- [Threat Modeling Simplified](https://www.safaribooksonline.com/blog/2016/02/09/threat-modeling-simplified/)
 
 
 ### Content
