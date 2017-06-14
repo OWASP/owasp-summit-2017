@@ -34,20 +34,20 @@ This Working Session will create industry-wide security guidelines.
 
 ### Synopsis and Takeaways
 
-Specific and targetted 
+**Specific and targeted** 
 - Address noise within an IDE – specific and targeted live analysis of code to highlight specific areas requiring attention rather than flooding developers with a long list of errors that they will not be able to address; filtering option may be useful to streamline the process of identifying security errors.
 
-Accuracy 
+**Accuracy** 
 - Feedback on vulnerabilities needs to be accurate, in particular, if it’s a general security issue, but there may be exceptions to these rules.
 - Think carefully about-when and where to highlight these exceptions to maintain the credibility of the tool.
 
-Gamification
-Developers are competitive and want to maximise achievement.  Introducing a scoring system may be a good way to do this; e.g, scoring unit test coverage on how it addresses security errors. 
+**Gamification**
+- Developers are competitive and want to maximise achievement.  Introducing a scoring system may be a good way to do this; e.g., scoring unit test coverage on how it addresses security errors. 
 
-Low resource consumption
+**Low resource consumption**
 - Many IDEs can be resource-intensive and development may involve virtualisation technologies that are also resource-intensive so whatever is added to the IDE ought not add to that load.
 
-Dependency Scanning
+**Dependency Scanning**
 - Don’t just think about the code the developers are writing, think about code being included from third party libraries or dependencies., e.g., CVE scanners.
 
 
