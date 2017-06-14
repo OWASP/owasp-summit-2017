@@ -53,5 +53,35 @@ Here are the current 'work in progress' materials for this session
 
 ### Content
 
-...add content...
+
+### Software Centric
+
+Scope: Software components, architecture, infrastructure.
+
+As a prerequisite, we assume we have a buy-in from the management. Technical people look at the content of these pages to see how they start the threat modeling process.
+
+Consider whether it's a greenfield project or an existing product, and development and release model (waterfall or agile).
+
+Legacy products:
+-- have to accept that it's not realistic to do a full TM; baseline the existing situation
+-- new changes have to be threat-modeled against current state/situation bring legacy components into scope only as part of changes
+
+Greenfield projects:
+-- Can start from scratch, architects decompose the application
+
+Release model:
+-- Depending on whether waterfall, agile, or combination is used, TM must fit into the process and be proportional to the overall design planning 
+-- For agile models, smaller TM portions should be added to each sprint (or Epic)
+-- Definition of completion of Epic should include TM part
+
+Starter kit on the page for those new to threat modelling:
+-- Wizard-like tutorial/walkthrough with many pictures; aimed to help navigate the process according to the experience 
+-- Templates, going top-down to enumerate the application, from higher-level (type of application, industry vertical), covering major components/technologies
+-- Different methodologies/taxonomies can be used/offered as a set of templates (STRIDE, Touchpoints, CIA, etc)
+-- Prioritization may be based on technical or business risk, need to choose
+-- Mitigation techniques
+
+Further information for intermediate users.
+Contribution from advanced users.
+
  
