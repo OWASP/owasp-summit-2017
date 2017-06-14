@@ -69,6 +69,33 @@ The target audience for this Working Session is:
 - Enables/supports cost-effective security
 - Enables you to understand your security risks
 
+#### Synapse/Takeaways
+This session was very productive. The group discussed how to improve the OWASP Threat Modelling pages. Specifically, defining the what, why, Who, When and how of Threat Modelling for development and security Roles. The session was split into 3 groups (Software, Risk, security Centric approaches).
+
+##### What/Why
+-Define Threat Modelling
+-Benefits 
+
+##### Who?
+-Developers
+-CISO
+-Architects
+-Penetration Testing 
+-New Talent
+-Managers
+
+##### When/Typical Scenarios
+-SDLC (Development Process) – Agile (Scrum)
+-Architectural Reviews (Vendor Risk)
+-Pre-Pen Testing (Different Stages)
+-Procurement (Quickly)
+
+#### How/Approach
+-Software Centric
+-Risk Centric
+-Security Centric 
+The Group output is shown below:
+
 ### Security Centric Approach
 
 The security centric approach tries to identify every possible threat to the system under investigation. This approach is used mainly by a niche group within threat modeling where any threat or vulnerability will have a huge impact and thus is a large risk. Since we can not prioritize threats on risk we must identify and cover all of them.
