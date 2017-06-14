@@ -12,7 +12,7 @@ location      : Room-4
 remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout   : unknown
 organizers    : Dinis Cruz
-participants  : Sebastien Deleersnyder, Yan Kravchenko,Irene Michlin, Viktor Lindstrom, Phil Parker, Mateo Martinez
+participants  : Sebastien Deleersnyder, Yan Kravchenko,Irene Michlin, Viktor Lindstrom, Phil Parker, Mateo Martinez, Brian Glas, Bart De Win
 ---
 
 See https://github.com/owasp/Maturity-Models for more details on this project
