@@ -45,7 +45,7 @@ The session looked for a first step strategy, for further discussion at subseque
 
 ### Takeaways
 
-- Competition of an exit survey
+- Completion of an exit survey
 - A wider Strategy than BSC/MSC, that Combines OWASP strategic strengths
 - Agreement that there is not enough AppSec, in educational curriculums 
 - Creation of an Educational Diagram 
