@@ -7,7 +7,7 @@ track          : Education
 technology     :
 related-to     : Teaching Attacker perspective to Developers,Juice Shop
 status         : need more content
-when-day       : Tue,Wed
+when-day       : Tue
 when-time      : Eve
 location       : Villa-3
 organizers     : Steven Van Der Baan
