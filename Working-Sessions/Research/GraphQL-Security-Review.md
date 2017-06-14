@@ -7,9 +7,9 @@ track        : Research
 technology   :
 related-to   : Threat Model
 status       : done
-when-day     : Wed
-when-time    : Eve
-location     : Villa-3
+when-day     : 
+when-time    : 
+location     : 
 organizers   :
 participants : PhotoBox
 invited      : Anders Reeves
