@@ -31,6 +31,11 @@ One key area that we need to work on is the outreach and marketing of SAMM. Ther
 
 - High-level plan for promoting and integrating SAMM
 
+### Synopsis and Takeaways
+
+- In need of a marketing specialist to construct a model for SAMM to improve market awareness
+- Invite members of the mailing list to create a video showcasing some real world evidence of SAMM in action
+- In need of a way to measure downloads of the SAMM model; Possible solution is to link to the model from GitHub
 
 ## Who
 
