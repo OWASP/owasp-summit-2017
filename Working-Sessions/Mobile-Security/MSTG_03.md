@@ -45,7 +45,17 @@ Associated chapters in the MSTG:
 
 ## Outcomes
 
-This Working Session will complete a first draft of the Mobile Security Testing Guide (MSTG).
+Looking to complete an early release version of the Mobile Security Testing Guide (MSTG) by end of the week.
+
+## Synopsis and Takeaways
+
+* Substantial progress on Encryption Chapter. Finalising Android exception handling for IOS & Android and Integrity testing for IOS
+
+* QA Process for Android Chapter
+
+* On target for early access version
+
+* Looking for sponsorship
 
 ## How to Join
 
