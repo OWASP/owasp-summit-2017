@@ -7,7 +7,7 @@ track         : DevSecOps
 technology    :
 status        : done
 when-day      : Fri
-when-time     : PM-3
+when-time     : PM-2
 location      : Room-1
 room-layout   : 
 organizers    : Timo Pagel
