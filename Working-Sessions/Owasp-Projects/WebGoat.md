@@ -7,7 +7,7 @@ technology   : Java
 status       : Final stage; missing working materials
 when-day     : Wed
 when-time    : PM-1
-location     : Room-3
+location     : Villa-3
 organizers   : Nanne Baars
 participants : Ade Yoseman Putra
 invited      : Tiffany Long
