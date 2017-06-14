@@ -34,6 +34,8 @@ This Working Session aims to update the OWASP threat modelling pages. The result
 
 - Revised content on OWASP threat modelling pages
 - Subpages on threat modelling methodologies with details and artefacts created
+
+See Session outcomes below.
   
 ## Who
 
@@ -45,7 +47,7 @@ The target audience for this Working Session is:
  
  --- 
 
-## Session outcome
+## Session outcomes
 
 ### What is a Threat Model?
 
