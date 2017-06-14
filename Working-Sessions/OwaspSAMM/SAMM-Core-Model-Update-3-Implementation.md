@@ -33,12 +33,12 @@ This Working Session will look at the core model to see what updates related to 
 - We are exploring adding a fifth business function to the SAMM Model.
 - This function will be somewhere between the current "Construction" and "Verification" Business Functions
 - This new function may encompass code building and code mangement
-- The current "Contstruction" Business Function is mostly about design, so it needs recategorizing
-- Defect management is not clearly defind in the current SAMM Model
+- The current "Construction" Business Function is mostly about design, so it needs recategorizing
+- Defect management is not clearly defined in the current SAMM Model
 - Fundamental additions and changes to the current SAMM Model will most likely need to be made
 - Ideas for the new Business Function naming and criteria have been put forward
 - Ideas for new Security Practises have been noted
-- Likely updates to the "Operations"Business Function are to be made to account for more infrastructure related activites
+- Likely updates to the "Operations"Business Function are to be made to account for more infrastructure related activities
 
 ## Who
 
