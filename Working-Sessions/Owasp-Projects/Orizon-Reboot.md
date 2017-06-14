@@ -10,7 +10,7 @@ when-day     : Wed
 when-time    : PM-2
 location     : Room-3
 organizers   : Paolo Perego
-participants :
+participants : Steven van der Baan
 ---
 
 ## Why
