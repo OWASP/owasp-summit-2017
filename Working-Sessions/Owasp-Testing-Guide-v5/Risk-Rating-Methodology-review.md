@@ -8,7 +8,7 @@ technology   :
 related-to   :
 status       : empty
 when-day     : Wed
-when-time    : PM-2
+when-time    : PM-2,PM-3
 location     : Villa-6
 organizers   : Matteo Meucci
 participants : 
