@@ -79,7 +79,7 @@ mixin show-room
                 //th.text-center
                     h4 (no-time)
 
-            | {% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3,no-location' | split: ',' %}
+            | {% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3,Villa-6,no-location' | split: ',' %}
             | {% for room in locations %}
             tr
                 + show-room
