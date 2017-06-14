@@ -54,13 +54,13 @@ For The Planned 2018 Version, Which Problems and Solutions/Guidance We Can Expan
 
 ### Synopsis and Takeaways
 
-Outcome 1 – What topics would you like covered in the new CISO guide? (unranked)
+**Outcome 1 – What topics would you like covered in the new CISO guide? (unranked)**
 
 - Incorporate reference to outcomes of 2017 Summit CISO track 
 - Expand to include new tools/technologies
 - Expand to include compliance with GDPR
 - Expand on new emerging technology risks and provide risk Mitigation Guidance (e.g. APIs, proliferation, and Micro-services/interoperability, Biometrics, Cloud (internal and external), strategies for managing risk in Cloud environments)
-- Expand on Risk Management Strategies For Vendors, Provisioning, Supply-Chain Risks
+- Expand on Risk Management Strategies for Vendors, Provisioning, Supply-Chain Risks
 - Expand on new evolving threats facing web Applications (e.g. 0-day exploits
 - Add reference to handbooks and  playbooks for CISO’s managed process
 - Where to provide guidance or where to put a focus, e.g., 5,000 applications in different countries, where to allocate security resources in such a situation
@@ -71,9 +71,9 @@ Outcome 1 – What topics would you like covered in the new CISO guide? (unranke
 - A proactive, strategic CISO is better than a reactive one:  knowing to shift focus from fighting fires to ensuring the fires do not get out of control
 - After an incident, think about how to promote change; train people to think holistically not just about the incident, but about the impact of the incident 
 - Involvement CISO should be involved in road mapping for future deployment and included in business development meeting so CISO can plan ahead 
-- Format:  It was agreed that a handbook would have more value than a playbook given threat  variables between company requirements
+- Format:  It was agreed that a handbook would have more value than a playbook given threat variables between company requirements
 
-Outcome 2 – What type of question would you like included in the new CISO guide? (unranked)
+**Outcome 2 – What type of question would you like included in the new CISO guide? (unranked)**
 
 - Which among the organization IT assets, networks or applications are considered more at risk of cyber-attacks ?
 - Does your organization have a cyber-threat intelligence program and attack monitoring/alert process ?
