@@ -6,7 +6,7 @@ track        : DevSecOps
 status       : to be reviewed content
 when-day     : Wed
 when-time    : PM-2
-location     : Villa-4
+location     : Room-2
 organizers   : Danny Grander
 participants : Francois Raynaud;Dinis Cruz
 ---
