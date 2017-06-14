@@ -30,45 +30,7 @@ This Working Session aims to update the OWASP threat modelling pages. The result
   - Build a complete 'how to' for security centric threat models
   - Provide pointers to OWASP threat modelling cheat sheets, Security Champions, Lightweight threat modelling initiatives 
   
-  ### Session Outcome 
-  
-  ## What is a TM?
-* tool/approach for risk management
-* identification of threats
-* structured methodology to understand (threats) that your application could be vulnerable to
-* technical threat analysis
-* applies to SW, way to identify vulnerabilities, risks and threats from diagrams
-* produces security requirements and/or risks, security design
-* "how secure is secure enough?"
-* optimize the security investment
-* the term "threat" needs to be clarified (connection to vulnerability, exploit, threat agent...)
-  * possibility of a vulnerability / software flaw
-  * actualized risk of appearance of a vulnerability 
-  * intent of a threat agent to perfom an undesired action (Attacker centric approach)
-
-## Why TM ?
-* enabling/supporting cost-effective security
-* enables you to understand your security risks
-
-## Security Centric Approach
-### What is this?
-* Approach where the start from the attacker's point of view
-* Attacker-centric approach might be just a subset of this (vs. starting with security controls?) 
-### Options
-  * Attacker analysis (who, how many, how good, how motivated...)
-  * Attack Tree (how to achieve a particular goal - e.g. spoof a user)
-  * Usage of a threat library (e.g. STRIDE, ...)
-  * ? Given we can also start from security controls: ASF (Application Security Frame) - Microsoft Application
-### Consumers 
-  * Military 
-  * Risk Adverse Enterprises 
-  * Pentesters
-### When? 
-  * good also late in SDLC (?)
-  * when we have poor internal visibility of the application
-
-  
-## Outcomes
+ ## Outcomes
 
 - Revised content on OWASP threat modelling pages
 - Subpages on threat modelling methodologies with details and artefacts created
@@ -83,13 +45,49 @@ The target audience for this Working Session is:
  
  --- 
 
-## Working materials
+## Session outcome
 
-Here are the current 'work in progress' materials for this session 
+### What is a Threat Model?
 
-(please add as much information as possible before the sessions)
+- Tool/approach for risk management
+- Identification of threats
+- Structured methodology to understand the threats to which your application could be vulnerable
+- Technical threat analysis
+- Applies to SW, way to identify vulnerabilities, risks and threats from diagrams
+- Produces security requirements and/or risks, security design
+- "How secure is secure enough?"
+- Optimise the security investment
+- The term "threat" needs to be clarified (connection to vulnerability, exploit, threat agent...)
+- Possibility of a vulnerability / software flaw
+- Actualized risk of appearance of a vulnerability 
+- Intent of a threat agent to perform an undesired action (Attacker centric approach)
 
-### Content
+## Why use a Threat Model?
 
-...add content...
- 
+- Enables/supports cost-effective security
+- Enables you to understand your security risks
+
+## Security Centric Approach
+
+### What is this?
+
+- Approach from the attacker's point of view
+- Attacker-centric approach might be just a subset of this (vs. starting with security controls?) 
+
+### Options
+
+  - Attacker analysis (who, how many, how good, how motivated...)
+  - Attack Tree (how to achieve a goal - e.g. spoof a user)
+  - Usage of a threat library (e.g. STRIDE, ...)
+  - ? Given we can also start from security controls: ASF (Application Security Frame) - Microsoft Application
+  
+### Consumers 
+
+  - Military 
+  - Risk Adverse Enterprises 
+  - Pen testers
+  
+### When? 
+
+  - Good also late in SDLC (?)
+  - When we have poor internal visibility of the application
