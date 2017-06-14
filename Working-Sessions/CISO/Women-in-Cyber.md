@@ -9,7 +9,7 @@ related-to   :
 status       : done
 when-day     : Fri
 when-time    : AM-1
-location     : Room-2
+location     : Room-4
 room-layout  : unknown
 organizers   : Tiffany Long
 participants : Neil Barlow (remotely),Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari, Mamta Vuppu

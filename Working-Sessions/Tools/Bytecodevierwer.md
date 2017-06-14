@@ -4,20 +4,21 @@ title        : Reverse Engineering APK's with Bytecodeviewer
 type         : workshop
 track        : Tools
 technology   : Mobile
-when-day     : Thu
-when-time    : PM-3
-location     : Room-2
-status       : need-outcomes; need-working materials
+when-day     : 
+when-time    :
+location     :
+status       : done
 organizers   : 
 participants : Don Gibson
 ---
 
-Category: Mobile Penetration Testing (Android)
+In the evolving world of technology, mobile applications have become omnipresent and this evolution is creating a completely new range of attacks that were not relevant in the classic web application world.
+
+As AppSec experts, it is our mission to define, promote, and improve mobile application security.
 
 ## Why
 
-Because Bytecodeviewer is possibly the best open source tool to reverse engineering APK's. 
-This workshop is the result of five months of research into pen testing mobile APK's @Securify.nl
+Because Bytecodeviewer is possibly the best open source tool tofor reverse engineering of APK's. This workshop is the result of five months of research into pen testing mobile APK's @Securify.nl
 
 ## What
 
@@ -46,7 +47,7 @@ Reverse engineering APKS with Bytecodevierwer (Pre-release 3.0.0) features:
 
 ## Outcomes
 
-... add text...
+This Working Session will provide a brief overview of the anatomy of a mobile penetration test, and provide information on how to get started with reverse engineering of APK´s.
 
 ## Who
 
@@ -59,8 +60,11 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
+- draft overview of how to use Bytecode for reverse engineering and penetration testing on Android
 
 ### Content
 
-...add content...
+- [Android Testing Cheat Sheet OWASP](https://www.owasp.org/index.php/Android_Testing_Cheat_Sheet)
+
+- [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)

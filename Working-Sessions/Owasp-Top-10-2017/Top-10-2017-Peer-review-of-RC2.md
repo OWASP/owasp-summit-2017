@@ -6,9 +6,9 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : done
-when-day     : Thu
-when-time    : AM-1
-location     : Room-2
+when-day     :
+when-time    :
+location     :
 organizers   : Dave Wichers, Andrew Van Der Stock
 participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessler, Erez Yalon, Jason Li, Jonas vanalderweireldt, Kevin Greene, Nuno Loureiro, Sandor Lenart, Tiago Mendo, Tiffany Long, Torsten Gigler, Josh Grossman 
 ---

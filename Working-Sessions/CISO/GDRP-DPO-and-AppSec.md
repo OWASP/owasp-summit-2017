@@ -6,7 +6,7 @@ track        : CISO
 technology   : GDPR
 related-to   :
 status       : done
-when-day     : Mon,Thu
+when-day     : Mon
 when-time    : PM-1
 location     : Room-6
 room-layout  : cabaret 

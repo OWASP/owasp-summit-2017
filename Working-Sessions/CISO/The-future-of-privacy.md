@@ -10,7 +10,7 @@ when-day     : Wed
 when-time    : Eve
 location     : Villa-2
 organizer    : 
-participants : Akshay Sharma, Achim Hoffmann, Johan Peeters
+participants : Akshay Sharma, Achim Hoffmann, Johan Peeters, Hardik Parekh
 ---
 
 Is there a future for privacy?

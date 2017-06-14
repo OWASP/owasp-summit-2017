@@ -8,6 +8,7 @@ status       : done
 when-day     : Thu
 when-time    : AM-1
 location     : Villa-1
+remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
@@ -27,7 +28,7 @@ SAMM currently has a very basic set of metrics for measuring progress and benefi
 
 ## Outcomes
 
-...add content...
+This Working Session will result in updated SAMM Metrics and an outline plan for the future updates.
 
 ## Who
 
@@ -42,7 +43,8 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
+Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)_
+- [OWASP SAMM Project](https://www.owasp.org/index.php/OWASP_SAMM_Project#tab=Browse_Online)
 
 ### Content
 

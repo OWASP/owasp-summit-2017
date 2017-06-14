@@ -5,9 +5,9 @@ type         : workshop
 organizers   :
 track        : Owasp
 status       : need working materials
-when-day     : Thu
-when-time    : AM-1
-location     : Room-3
+when-day     : Wed
+when-time    : DS-1
+location     : Main-Room
 organizers   : Ingo Hanke
 invited      : Gabor Pek, Ade Yoseman Putra, Lucas Ferreira, Steve Kosten, Akshay Sharma, Felipe Zipitria, Mateo Martinez, Christian DeHoyos, Magno Logan, Steven van der Baan, Adrian Winckles, Sam Stepanyan, Tamer Elzayyat, Alexander Antukh, Carlos Serrao, Katy Anton, Abhinav Sejpal, Mane Piperevski, Yogesh Sharma, Mike Goodwin, Viktor Lindstrom
 participants : 
@@ -43,6 +43,8 @@ The target audience for this Working Session is:
 
 ## Working materials
 
+- Session Agenda and results: https://drive.google.com/file/d/0B1vROwh8vCBGeUpDbEhYT2RfcmM/view?usp=sharing
+- OWASP Chapter Handbook: https://www.owasp.org/index.php/Chapter_Handbook/Chapter_4:_Chapter_Administration
 - Draft rules for recording information
 - Draft cheat sheet for chapter treasurers
 - Please add as much information as possible before the sessions

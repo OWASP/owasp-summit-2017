@@ -40,6 +40,11 @@ Responsible disclosure is a great way to test your assets using multiple perspec
 - These questions are answered with "Yes" or "No" questions, in addition, comments can be made if needed.
 - After collaborating with participants the "OWASP Responsible Disclosure Maturity Model Survey" was conceived 
 
+Survey Images:
+
+![survey 1](https://user-images.githubusercontent.com/29351740/27132725-d5ff17ae-5107-11e7-8b33-a3b088319f54.PNG)
+
+![survey 2](https://user-images.githubusercontent.com/29351740/27132732-db1e8d00-5107-11e7-9dec-da753bb6230e.PNG)
 
 ## Who
 

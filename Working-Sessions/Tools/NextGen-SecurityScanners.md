@@ -5,9 +5,9 @@ type         : workshop
 track        : Tools
 status       : final stage; need-working materials; need to be reviewed content
 when-day     : Thu
-when-time    : PM-2
-location     : Room-5
-organizers   : Nuno Loureiro, Tiago Mendo
+when-time    : AM-1
+location     : Room-3
+organizers   : Nuno Loureiro, Tiago Mendo, Simon Bennetts
 participants : Johan Peeters, Ingo Hanke, Mateo Martinez
 invited      : Simon Bennetts
 ---

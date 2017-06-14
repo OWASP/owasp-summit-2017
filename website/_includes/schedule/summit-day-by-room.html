@@ -34,11 +34,15 @@
         </th>
         <th class="text-center">
           <h4>PM 2</h4>
-          <div class="day-time">15:30 to 16:40 (1h)</div>
+          <div class="day-time">15:30 to 16:30 (1h)</div>
         </th>
         <th class="text-center">
           <h4>PM 3</h4>
           <div class="day-time">16:30 to 17:30 (1h)</div>
+        </th>
+        <th class="text-center">
+          <h4>DS-1</h4>
+          <div class="day-time">18:00 to 19:45 (1:45h)</div>
         </th>
         <th class="text-center">
           <h4>Evening</h4>
@@ -48,7 +52,7 @@
         h4 (no-time)
         
         -->
-      </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3,no-location' | split: ',' %}
+      </thead>{% assign locations = 'Room-1,Room-2,Room-3,Room-4,Room-5,Room-6,Main-Room,Villa-1,Villa-2,Villa-4,Villa-5,Villa-3,Villa-6,no-location' | split: ',' %}
       {% for room in locations %}
       <tr>{% assign day_Data = site.data.mapped.schedule.by_Room[page.day][room] %}
         <td class="text-center">
@@ -75,6 +79,12 @@
           <!--.track-info Room layout: {{ session.layout }}-->{% endfor                                     %}
         </td>
         <td>{% assign time = 'PM-3'  %}{% for session in day_Data[time]              %}
+          <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>
+          <div class="hidden-print"><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
+          <div class="track-info">{{ session.track }}</div>
+          <!--.track-info Room layout: {{ session.layout }}-->{% endfor                                     %}
+        </td>
+        <td>{% assign time = 'DS-1'  %}{% for session in day_Data[time]              %}
           <div class="visible-print-block"><span class="for-print">{{session.name }}</span></div>
           <div class="hidden-print"><a href="{{session.url}}">{{ session.name }}</a>{% if session.locked %}<span class="glyphicon glyphicon-lock"></span>{% endif             %}</div>
           <div class="track-info">{{ session.track }}</div>

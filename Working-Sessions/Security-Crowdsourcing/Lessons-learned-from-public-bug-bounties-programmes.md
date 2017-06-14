@@ -7,9 +7,9 @@ track        : Security Crowdsourcing
 technology   :
 related-to   :
 status       : need working materials
-when-day     : Thu
-when-time    : PM-1
-location     : Room-5
+when-day     : Wed
+when-time    : DS-1
+location     : Main-Room
 organizers   :
 participants :
 ---

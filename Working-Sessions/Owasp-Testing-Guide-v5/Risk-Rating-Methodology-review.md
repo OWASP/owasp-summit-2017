@@ -8,8 +8,8 @@ technology   :
 related-to   :
 status       : empty
 when-day     : Wed
-when-time    : PM-2
-location     : Testing Guide Villa (315)
+when-time    : PM-2,PM-3
+location     : Villa-6
 organizers   : Matteo Meucci
 participants : 
 ---
