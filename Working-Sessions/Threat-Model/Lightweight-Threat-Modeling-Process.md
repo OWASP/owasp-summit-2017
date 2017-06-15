@@ -62,6 +62,7 @@ Here are the current 'work in progress' materials for this session
 - [SAFECode TM Whitepaper](https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)
 - [Incremental Threat Modelling v1.0](http://schd.ws/hosted_files/appseceurope2017/df/Incremental%20Threat%20Modelling%20v1.0.pptx)
 - [Threat Modeling Simplified](https://www.safaribooksonline.com/blog/2016/02/09/threat-modeling-simplified/)
+- https://www.infoq.com/articles/threat-modeling-express
 
 
 ### Content
