@@ -14,12 +14,13 @@ also produced some **_really_ tangible output**!
 In the
 [final morning session on Friday, June 16th](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Release.html)
 (in room _Pedley_) I will trigger the production release of the v4.0.0
-version. It comes with a load of new feature, challenges, convenience
-feats and technical advancents!
+version. It comes with a load of new business functionality, challenges,
+convenience feats and technical advancents!
 
 While the (fully automated) release is underway, I am happy to give an
 overview of the newly added features and maybe some participants already
-want to try them out right on the spot to be the first to conquer them? 🥇
+want to try them out right on the spot to be the first to conquer them?
+🥇
 
 You can find the full list of changes in
 [the release notes](https://github.com/bkimminich/juice-shop/releases)
@@ -77,8 +78,9 @@ below:
 > * added section on Lectures and Trainings to `RESOURCES.md`
 > * added several blog posts and other coverage
 
-I would like to thank the following **awesome summit participants** 🏆 for their
-valuable contributions during or in between the various coding sessions:
+I would like to thank the following **awesome summit participants** 🏆
+for their valuable contributions during or in between the various coding
+sessions:
 
 [![Viktor Lindström](https://owaspgbgday.se/wp-content/uploads/2016/11/Viktor-229x300.jpg)](https://owaspsummit.org/Participants/ticket-24h/Viktor-Lindstrom.html)
 [![Avi Douglen](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkRAAAAJDkyZmFkMDRlLWMzZjAtNDk1Yy1hNDFiLTA2MTM2M2IzNzFhZA.jpg)](https://owaspsummit.org/Participants/ticket-24h-owasp/Avi-Douglen.html)
