@@ -8,8 +8,8 @@ technology   :
 related-to   :
 status       : done
 when-day     : Thu
-when-time    : PM-1
-location     : Room-6
+when-time    : DS-1
+location     : Main-Room
 room-layout  : unknown
 organizers   : Don Gibson
 participants : Irene Michlin
