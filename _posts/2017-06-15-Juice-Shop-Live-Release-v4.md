@@ -9,7 +9,7 @@ author      : Bjoern Kimminich
 The
 [Juice Shop track](https://owaspsummit.org/Working-Sessions/Juice-Shop/)
 of the OWASP Summit 2017 was not only a very enjoyable experience but
-also produced some **_really_ tangible output**:
+also produced some **_really_ tangible output**!
 
 In the
 [final morning session on Friday, June 16th](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Release.html)
@@ -19,9 +19,9 @@ feats and technical advancents!
 
 While the (fully automated) release is underway, I am happy to give an
 overview of the newly added features and maybe some participants already
-want to try them out right on the spot to be the first to conquer them?
+want to try them out right on the spot to be the first to conquer them? 🥇
 
-You can find the full list in
+You can find the full list of changes in
 [the release notes](https://github.com/bkimminich/juice-shop/releases)
 below:
 
@@ -77,14 +77,12 @@ below:
 > * added section on Lectures and Trainings to `RESOURCES.md`
 > * added several blog posts and other coverage
 
-I would like to thank the following summit participants for their
+I would like to thank the following **awesome summit participants** 🏆 for their
 valuable contributions during or in between the various coding sessions:
 
 [![Viktor Lindström](https://owaspgbgday.se/wp-content/uploads/2016/11/Viktor-229x300.jpg)](https://owaspsummit.org/Participants/ticket-24h/Viktor-Lindstrom.html)
-[![Timo Pagel](http://timo-pagel.de/assets/img/header-bg.jpg)](https://owaspsummit.org/Participants/ticket-24h-owasp/Timo-Pagel.html)
 [![Avi Douglen](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkRAAAAJDkyZmFkMDRlLWMzZjAtNDk1Yy1hNDFiLTA2MTM2M2IzNzFhZA.jpg)](https://owaspsummit.org/Participants/ticket-24h-owasp/Avi-Douglen.html)
-
-**You are awesome!**
+[![Timo Pagel](http://timo-pagel.de/assets/img/header-bg.jpg)](https://owaspsummit.org/Participants/ticket-24h-owasp/Timo-Pagel.html)
 
 Kudos also go to
 * all **participants of the
@@ -94,4 +92,4 @@ Kudos also go to
   [Hands-on Threat Modeling Juice Shop series](https://owaspsummit.org/Working-Sessions/Threat-Model/index.html)**
   within the Threat Modeling track
 
-Enjoy hacking the hell out of OWASP Juice Shop v4.0.0!
+Enjoy hacking the hell out of OWASP Juice Shop v4.0.0! 😈
