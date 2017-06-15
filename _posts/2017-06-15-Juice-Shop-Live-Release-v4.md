@@ -62,7 +62,7 @@ below:
 >
 > ### I18N
 >
-> * added Hebrew translation
+> * added Hebrew translation (by @avidouglen)
 >
 > ### Tests
 >
