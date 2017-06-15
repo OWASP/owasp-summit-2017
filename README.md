@@ -15,7 +15,7 @@ This is not a conference with uni-directional presentations, this is a working s
 * Risk & Governance, Privacy & CTO/CISO requirements
 * Secure Design, Bug-bounties
 * [Browser Security](./Working-Sessions/Browser-security.md), AI for Attack & Defence
-* DDoS, Cyber Warfare, AppSec Standards;
+* DDoS, Cyber Warfare, AppSec Standards; 
 
 .. and of course, working sessions on popular OWASP projects (lead by its leaders) such as:
 * ZAP, Top 10, Dependency Check, Juice Shop
