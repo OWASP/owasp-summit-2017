@@ -1,5 +1,7 @@
 1. Simple demo/example site online would be useful
-  - _Does this exist?_
+  - VWAD
+  - https://github.com/joe-shenouda/awesome-cyber-skills
+  - AwesomeList for CTF
 2. Use _lecture-based_ training application and go through its (simple) lessons
   - Security Shephered
   - WebGoat
