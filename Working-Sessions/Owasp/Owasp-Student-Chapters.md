@@ -6,7 +6,7 @@ owasp-project: yes
 track        : Owasp
 status       : need working materials
 when-day     : Thu
-when-time    : Eve
+when-time    : DS-1
 location     : Main-Room
 organizers   : Mateo Martinez
 participants : Tiffany Long
