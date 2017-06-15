@@ -9,7 +9,7 @@ when-time    : PM-1
 location     : Villa-4
 room-layout  : unknown
 organizers   : Geoff Hill, Tony UV
-participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin, Steven Wierckx, Aruna Katugampola
+participants : Felipe Zipitria,Robert Morschel,Stephen de Vries,Irene Michlin, Steven Wierckx, Aruna Katugampola, Christian Martorella
 ---
 
 ## Why
