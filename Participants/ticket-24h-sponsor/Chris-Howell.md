@@ -2,12 +2,12 @@
 layout          : blocks/page-participant
 title           : Chris Howell
 type            : participant
-job-title       :
+job-title       : Infrastructure Engineer
 company         : Capital One
-travel-from     :
-image           :
-linkedin        :
-twitter          :
+travel-from     : Nottingham, UK
+image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/078/2fa/1484aca.jpg
+linkedin        : chowell84
+twitter         :
 facebook        :
 website         :
 email           :
@@ -16,8 +16,7 @@ chapter-leader  :
 ticket          : shared-24h
 status          : empty
 regonline       : No
-working-sessions:
-# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
+working-sessions: AppSec SOC Monitoring Visualisation, Threat Modeling Cloud Migrations, Threat Modeling IoT Devices, Women in Cyber, DoS Playbook, Docker Security, Ransomware Playbook, Visit Bletchley Park
 ---
 
 <!-- put more details about participant here -->
