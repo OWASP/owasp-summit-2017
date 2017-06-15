@@ -30,7 +30,7 @@ A good overview of the number of threat modelling tools available will enable mo
 
 ## Outcomes
 
-###Synopsis and Takeaways
+### Synopsis and Takeaways
 
 Leading from the previous session (where the week’s aims have been defined) this session looked at the tools used in helping research threat models in-depth.
 Tools in this session have been identified as key candidates for further research. These are better than Excel, Visio or a text editor in a manual process:
@@ -49,7 +49,7 @@ We need to
 -	Develop a help guide for developers with security unit tests in mind  
 -	Help with automation on the developer’s side with input from security personal.
 
-Outcomes
+**Outcomes**
 
 Defined the approach used and what is threat modelling used for
 Users were surveyed on Threat modelling approaches and tool desirables.  

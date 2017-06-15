@@ -8,8 +8,8 @@ technology   : SAST
 related-to   : Securing the CI Pipeline,Integrating Security Tools in the SDL
 status       : done
 when-day     : Fri
-when-time    : PM-1
-location     : Room-1
+when-time    : AM-1
+location     : Room-3
 room-layout  : unknown
 participants : Avi Douglen, Robert Morschel
 organizers   : Jason Li

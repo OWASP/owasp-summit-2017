@@ -30,6 +30,17 @@ SAMM currently has a very basic set of metrics for measuring progress and benefi
 
 This Working Session will result in updated SAMM Metrics and an outline plan for the future updates.
 
+### Synopsis and Takeaways
+
+- There is a need to evaluate adding an optional depth component to scoring for questionnaire
+- Need to most likely remove success metrics and replace with Business Metrics
+          - Alternatively Metrics may have its own section 
+          - We need to focus on metrics ranging from operational to strategic operations
+- Three logical categories of metrics:
+          - App
+          - Process
+          - Environment
+
 ## Who
 
 The target audience for this Working Session is:
