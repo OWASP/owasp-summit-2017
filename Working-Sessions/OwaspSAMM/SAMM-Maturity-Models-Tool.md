@@ -7,8 +7,8 @@ technology    : Node
 owasp-project : yes
 status        : done
 when-day      : Fri
-when-time     : PM-1
-location      : Room-4
+when-time     : AM-1
+location      : Main-Room
 remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout   : unknown
 organizers    : Dinis Cruz
