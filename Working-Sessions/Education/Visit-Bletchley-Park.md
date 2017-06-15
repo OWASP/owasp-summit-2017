@@ -17,7 +17,7 @@ participants : Alexander Antukh, Amani Altarawneh, Bart De Win, Bernhard Mueller
 ---
 
 
-## THIS SESSION IS FULL. IF YOU ARE NAMED AS A PARTICIPANT, YOU WILL NEED TO BRING A CASH PAYMENT OF £17.75 TO COVER YOUR ENTRANCE FEE. PLEASE TRY TO BRING THE RIGHT MONEY TO SPEED UP THE PROCESS OR THE TOUR MAY BE DELAYED.
+## IF YOU ARE NAMED AS A PARTICIPANT, YOU WILL NEED TO BRING A CASH PAYMENT OF £12.50 TO COVER YOUR NATIONAL MUSEUM OF COMPUTING TOUR. THE ENTRANCE FEE FOR BLETCHLEY PARK IS £17.75. (A TOTAL OF £30.25 IS REQUIRED FOR BOTH SITES) PLEASE TRY TO BRING THE RIGHT MONEY TO SPEED UP THE PROCESS OR THE TOUR MAY BE DELAYED.
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
 
@@ -42,7 +42,7 @@ Exhibits listed above are a suggestion, but feel free to pursue your own interes
 
 ### Transport Arrangements:
 
-A bus has been arranged to take us from the conference center to Bletchley. Watch this space for details of pickup location and time.
+A bus has been arranged to take us from the conference center to Bletchley. Please meet at the reception of 'The Venue' at 1pm and you will be taken to the pick up point. This will be a staggered departure process, please be patient while you are allocated a bus seat.
 
 ### Tickets
 
