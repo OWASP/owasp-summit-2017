@@ -106,8 +106,8 @@ participants :
 #### Takeaways
 
 - Went through the user story handling the address lookup delivery service
-- Threats have been identified for the service that threat model templates need to be created for TLS, e-mail etc.
-- The discussion encountered friction pertaining to the level of threat we should be looking at
+- Threats were identified for the service that threat model templates need to be created for: TLS, e-mail etc.
+- The discussion did not resolve the level of threat we should be looking at
  
 ## Who
 
