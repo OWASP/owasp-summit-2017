@@ -11,7 +11,7 @@ when-day     : Thu
 when-time    : AM-1
 location     : Room-5
 room-layout  : unknown
-organizers   : Danny Grander
+organizers   : None
 participants :
 ---
 
