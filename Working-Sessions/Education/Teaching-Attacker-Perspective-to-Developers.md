@@ -45,7 +45,7 @@ and services used in practical developer security training sessions.
 ## Outcomes
 
 - Recommendation for a
-  [Learning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/LearningPath)
+  [eLearning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/eLearningPath)
   guiding developers through various hands-on sessions in an appropriate
   order (e.g. with increasing difficulty)
 - [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices)
@@ -66,7 +66,7 @@ The target audience for this Working Session is:
 
 * [Antipatterns](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/Antipatterns)
 * [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices)
-* [Learning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/LearningPath)
+* [eLearning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/eLearningPath)
 
 ### Content
 
