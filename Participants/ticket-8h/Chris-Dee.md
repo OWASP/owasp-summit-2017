@@ -14,7 +14,7 @@ email           :
 when-day        : Fri
 ticket          : 1x8h
 status          : empty
-working-sessions : IAM for REST APIs, DoS Playbook, Docker Security, Ransomware Playbook
+working-sessions : IAM for REST APIs, DoS Playbook, Docker Security, Ransomware Playbook, Identity and Access Management for REST APIs - REST Security Cheat Sheet
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
