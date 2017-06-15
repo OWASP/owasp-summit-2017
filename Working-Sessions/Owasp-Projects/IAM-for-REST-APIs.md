@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : IAM for REST APIs
+title        : Identity and Access Management for REST APIs - REST Security Cheat Sheet
 type         : workshop
 track        : Owasp Projects
 related-to   : Cheat Sheets, A10 - Underprotected APIs
