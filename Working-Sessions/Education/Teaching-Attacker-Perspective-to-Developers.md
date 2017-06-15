@@ -39,7 +39,7 @@ and services used in practical developer security training sessions.
 - Run-through of open source tools (like WebGoat, Security Shepherd,
   Juice Shop)
 - Are vendor demo applications (like AltoroMutual) an option?
-- What (if any) tools for pentesting (like (ZAP or Burp) do you
+- What (if any) tools for pentesting (like ZAP or Burp) do you
   recommend or use in dev trainings?
 
 ## Outcomes
@@ -48,8 +48,8 @@ and services used in practical developer security training sessions.
   [Learning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/LearningPath)
   guiding developers through various hands-on sessions in an appropriate
   order (e.g. with increasing difficulty)
-- [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices)for
-  developer-focused security training
+- [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices)
+  for developer-focused security training
 - Developer training
   [Antipatterns](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/Antipatterns)
 
@@ -64,14 +64,10 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-- Recommendation for a _Learning Path_ guiding developers through
-  various hands-on sessions in an appropriate order (e.g. with
-  increasing difficulty)
-- draft _Best Practice_ for developer-focused security training
-- Developer training draft _Antipatterns_ and _Pitfalls_
-
-### Content
-
 * [Antipatterns](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/Antipatterns)
 * [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices)
 * [Learning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/LearningPath)
+
+### Content
+
+see [above](#working-materials)
