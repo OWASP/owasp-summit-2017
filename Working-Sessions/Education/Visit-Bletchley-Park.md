@@ -12,7 +12,7 @@ when-time    : PM-1,PM-2,PM-3
 location     :
 room-layout  : unknown
 organizers   : Johan Peeters
-participants : Alexander Antukh, Amani Altarawneh, Bart De Win, Bernhard Mueller, Bjoern Kimminich, Bolot Kerimbaev, Brian Glas, Carlos Holguera, Chris Cooper, Daniel Kefer, Danny Grander, Dave Wickers, Denis Pilipchuk, Devesh Bhatt, Enrico Verzegnassi, Fabien Thalgott, Felipe Zipitria, Gabor Pek, Ingo Hanke, Jason Li, Jonas Vanalderweireldt, Juan Calderon, Mamta Naidu, Mark Felegyhazi, Martin Knobloch, Mateo Martinez, Nikita Garia, Sandor Lenart, Scott Treacy, Sebastien Deleersnyder, Steve Kosten, Steven van der Baan, Steven Wierckx, Sven Schleier, Timo Pagel, Bruce Jenkins, Viktor Lindstrom, Adam Shostack, Hamza Alkofahi, 
+participants : Alexander Antukh, Amani Altarawneh, Bart De Win, Bernhard Mueller, Bjoern Kimminich, Bolot Kerimbaev, Brian Glas, Carlos Holguera, Chris Cooper, Daniel Kefer, Danny Grander, Dave Wickers, Denis Pilipchuk, Devesh Bhatt, Enrico Verzegnassi, Fabien Thalgott, Felipe Zipitria, Gabor Pek, Ingo Hanke, Jason Li, Jonas Vanalderweireldt, Juan Calderon, Mamta Naidu, Mark Felegyhazi, Martin Knobloch, Mateo Martinez, Nikita Garia, Sandor Lenart, Scott Treacy, Sebastien Deleersnyder, Steve Kosten, Steven van der Baan, Steven Wierckx, Sven Schleier, Timo Pagel, Bruce Jenkins, Viktor Lindstrom, Adam Shostack, Hamza Alkofahi, Janne Sarendal, paul foutain, chris howell, dominic hobson, eddie lee, Marco Morana, George Simms, Mohan Yelnadu, Hardik Parekh
 
 ---
 
@@ -47,8 +47,8 @@ A bus has been arranged to take us from the conference center to Bletchley. Plea
 ### Tickets
 
 Do *not* require ticket (e.g. season Pass owners)
-* Bjoern Kimminich
-* Bolot Kerimbaev (have a ticket for Bletchley Park)
+* Bjoern Kimminich (ticket for Bletchley Park)
+* Bolot Kerimbaev (ticket for Bletchley Park)
 
 ## Who
 
