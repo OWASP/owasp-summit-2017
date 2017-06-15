@@ -8,12 +8,12 @@ technology   :
 related-to   :
 status       : done
 when-day     : Thu
-when-time    : PM-1
-location     : Room-6
+when-time    : DS-1
+location     : Main-Room
 room-layout  : unknown
 organizers   : Don Gibson
 participants : Irene Michlin
----
+--- 
 
 Cloud computing services have gained a lot of popularity in both public and business domains. But due to their dynamic nature, many standard security policies and practices cannot be implemented, which makes cloud services vulnerable to different security threats.
 

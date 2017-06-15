@@ -10,7 +10,7 @@ status       : done
 organizers   : Timo Pagel
 when-day     : Wed
 when-time    : Eve
-location     : Villa-2
+location     : Villa-5
 participants : Jeroen Willemsen
 ---
 

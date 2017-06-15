@@ -1,0 +1,29 @@
+# (BP) Have an Icebreaker
+Have a gimmick - something novel - e.g breaking the physical safe
+
+# (BP) Learn the whole Lifecycle
+Sandbox examples, discover the vulnerability, use the exploit to gain access and then issue a fix - learn the whole lifecycle
+
+# (AP) Elongated Code Reviews
+Going through an extensive code snippet line by line by line by ... Zzzzzz...
+
+# (AP) Wrong Tech Stack
+Focus too much on vulnerabilities that are not relevant for the techology stack used by the developers in your training.
+
+# (BP) Red Team + Blue Team = Purple Team
+Make sure Attacker _and_ Defender perspective is covered, e.g. don't focus your trainings just on fixing vulnerabilities.
+
+# (BP) Provide Context
+Give an overview of the training/exercise application used so the students have sufficient background for their own attack attempts.
+
+# (AP) Mandatory Training
+Force _every developer_ into a generic security training even though it might not affect them in their daily work.
+
+
+Train developers to be inquisitive, what is underneath hwo do things join together, not just that the function calls work?
+
+Can you decompose your application?
+
+Google Web Tool Kit GWTK - removes visibility of client/server sides.
+
+Teams of dev's don't always see end to end system

@@ -51,4 +51,4 @@ The target audience for this Working Session is:
 
 ### Content
 
-...add content...
+NOTE: This session did not happen. Instead, focus was on the lightweight threat modeling session(s) during this time slot.

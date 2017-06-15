@@ -45,10 +45,13 @@ CISO hands-on support for Security initiatives is a key factor of success
 
 ### Outcomes
 
+Target audience:  Companies without a CISO
+ 
+**CISO Job**
+
 Every Company needs a CISO with Mandate and Resources
 
- - Target audience:  Companies without a CISO
-   - CISO should report:
+ - CISO should report:
        - 1st to The Board
        - 2nd to C-Suite and Sub-committees (so there are no conflicts of interest)
  - Centre of gravity skill set: Strong Business, Technical, Security skills and be transformation agent
@@ -57,7 +60,8 @@ Every Company needs a CISO with Mandate and Resources
 
 
 
- - What they need:
+**What they need:**
+ 
   - Budget (that they control)
   - Mandate
   - Integrity of message
@@ -65,20 +69,21 @@ Every Company needs a CISO with Mandate and Resources
   - Network of Security Champions
   - Be involved in cross-function committees and roadmaps
 
-top board requirements
+**Top board requirements**
 
  - Current programmes status
  - Meeting regulatory requirements
  - Major Business Risks and Incidents
  - Security asks
 
-Top priorities for CISO:
+**Top priorities for CISO**
+
  - Situational Awareness
  - Match risk appetite
  - Actionable Metrics and dashboards
 
 
-Who was here
+**Who was here**
 
  - CISO
  - AppSec/SDL Engineer

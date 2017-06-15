@@ -29,7 +29,7 @@ Ensure there is a common understanding of what was discussed, decisions made, pr
 
 ## Outcomes
 
-...add content...
+This Working Session will result in a report that will summarize the items that were discussed and list the future SAMM plans.
 
 ## Who
 

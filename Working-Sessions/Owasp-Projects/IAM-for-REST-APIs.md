@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : IAM for REST APIs
+title        : Identity and Access Management for REST APIs - REST Security Cheat Sheet
 type         : workshop
 track        : Owasp Projects
 related-to   : Cheat Sheets, A10 - Underprotected APIs
@@ -70,7 +70,7 @@ Here are the points that I think need to be addressed in the cheat sheet. Give m
      * the resource owner granted access to one of more resources on this resource server
      * the resource owner granted access to the API consumer invoking the services
      * the requested operation is in scope.
-* Drop references to CSRF. When a REST service has multiple clients, some of which do not have access to the CSRF tokens issued, that service has no role in protecting against CSRF - this is exclusively the responsibility for the client.
+* CSRF protection cannot be achieved in a multi-client REST service with a CSRF token. Origin header should be mandated and checked with configured list of allowed origins.
 * Direct object references are fine - this is how you point to a resource. It is just that access to that resource needs to be protected with an access token.
 * Input validation section is hard to understand. The bottom line is that any data included in the call needs to be output encoded before being used in processing the request.
 * Drop references to parsing XML - I assume no-one seriously wants to do that.
