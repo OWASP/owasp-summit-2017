@@ -1,6 +1,6 @@
 ---
 layout: blocks/index
-day    : Wed
+day    : Thu
 title  : OWASP Summit 2017
 ---
 
