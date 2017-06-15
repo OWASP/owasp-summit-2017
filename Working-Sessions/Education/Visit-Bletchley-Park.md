@@ -47,8 +47,8 @@ A bus has been arranged to take us from the conference center to Bletchley. Plea
 ### Tickets
 
 Do *not* require ticket (e.g. season Pass owners)
-* Bjoern Kimminich
-* Bolot Kerimbaev (have a ticket for Bletchley Park)
+* Bjoern Kimminich (ticket for Bletchley Park)
+* Bolot Kerimbaev (ticket for Bletchley Park)
 
 ## Who
 
