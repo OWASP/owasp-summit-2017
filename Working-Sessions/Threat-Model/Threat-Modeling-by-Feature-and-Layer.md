@@ -25,8 +25,90 @@ participants :
 
 ## Outcomes
 
-...add text...
+### Synopsis/Takeaways
 
+#### Delivery Service (External)
+
+**Threats**
+
+- Fake delivery services 
+- Tampering of quantity 
+- Reproduction of confirmation response
+- Reversal of data direction 
+
+**Assumptions** 
+
+- TLS is used
+- Threat models exist for TLS
+- Paid Service
+- A Quote-flow is generated
+
+#### Juice Shop User (External)
+
+**Threats** 
+
+- User authentication
+- Audit trail for user activity 
+- Account takeover (email confirmation)
+- Admin console available due to lack of authentication 
+- Admin console is obfuscated
+
+**Assumptions**
+
+- TLS is used
+- Threat models exist for TLS
+- User is authenticated 
+
+#### Email Service (External)
+
+**Threats**
+
+- Service is misused
+- Juice Shop sends malicious emails
+- Connected to the correct service
+- BCC abused
+- HTML body injection
+- Header injection 
+- Juice Shop sending spam
+- Email message tampering
+- Sent confirmation
+- Sensitive data sent in emails
+- Tracking mechanism (privacy)
+
+**Assumptions**
+
+- Rest API
+- TLS is used
+- Threat models exist for TLS
+- Delivery confirmation
+- Validated reputation 
+
+#### Invoice Tracking (Internal)
+
+**Threats**
+
+- Unauthorised access to the invoice service
+- Page is obfuscated
+- Discouragement of business sensitive data (Prices, Quantities) 
+- Discouragement of user sensitive data
+- Audit trail of the invoice
+- Manipulation of invoice data 
+- Logging of read access
+- Screen scraping 
+
+**Assumptions**
+
+- Page is within the application 
+- User is authenticated 
+- Used only for delivery services
+- Not built for user invoicing 
+
+#### Takeaways
+
+- Went through the user story handling the address lookup delivery service
+- Identified threats to the service that threat model templates need to be created for such as TLS, email etc.
+- We encountered friction of what level of threats we should be looking at
+ 
 ## Who
 
 ... target audience ...
