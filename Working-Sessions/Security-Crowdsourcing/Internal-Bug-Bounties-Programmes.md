@@ -33,7 +33,7 @@ This Working Session aims to leverage the knowledge of those who have experience
 
 ## Outcomes
 
-#### Synapse/Takeaways
+#### Synopsis/Takeaways
 
 The session discussed the uses and implementations of internal Bug Bounties, which require selecting the correct applications and team (Non-crunch team) to give an adequate return on resources invested. 
 
