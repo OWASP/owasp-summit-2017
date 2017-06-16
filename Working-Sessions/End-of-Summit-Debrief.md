@@ -8,7 +8,7 @@ related-to   :
 status       : done
 when-day     : Fri
 when-time    : PM-3
-location     : Main Room
+location     : Main-Room
 organizers   : 
 participants : 
 ---
