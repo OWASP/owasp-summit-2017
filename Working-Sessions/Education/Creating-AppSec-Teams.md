@@ -55,7 +55,7 @@ Considerations for reaching new AppSec Professionals:
 - Secure code is an output of great developers
 - Security champion is a developer who can teach, role model, culture changer, and trained to do security, give them a career roadmap
 - Install "love" for security from young age (8-13) 
-- Kids see hacking as how to break things - we have to tell them it's about building things properly, but hacking is part of the journey - But needs to be fun
+- Kids see hacking as how to break things - we have to tell them it's about building things properly, but hacking is part of the journey - but it needs to be fun
 - Make fun within organisation by blue and teams wargaming
 
 "Education early and over a lifetime"
