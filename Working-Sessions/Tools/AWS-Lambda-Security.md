@@ -26,7 +26,7 @@ Because AWS Lambda lets us run code without provisioning or managing servers. Wh
 
 AWS Lambda Security Cheatsheet
 AWS Lambda Security To-Do scripts
-AWS Lambda Secuity Checklit
+AWS Lambda Security Checklist
 
 ## Who
 
