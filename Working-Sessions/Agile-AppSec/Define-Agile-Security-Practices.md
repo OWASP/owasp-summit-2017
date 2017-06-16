@@ -17,9 +17,9 @@ participants : Irene Michlin, Robert Morschel, Mamta Vuppu, Tiffany Long, Don Gi
 
 ## Why
 
-The idea of using Agile in Security Practices/Activities is one that makes a lot of sense. But what does it mean?
+The idea of using Agile in Security Practices/Activities is one that makes a lot of sense but what does it mean?
 
-This Working Session will aim to define those Practices in easy-to-use and scalable formats and documentation.
+This Working Session will aim to define those practices in easy-to-use and scalable formats and documentation.
 
 ## What
 
