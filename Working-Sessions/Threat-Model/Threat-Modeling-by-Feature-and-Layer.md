@@ -131,14 +131,14 @@ No outbound rate limit, so a fuzzy request can result in a large list of matches
 
 **Threats**
 
-- Unauthorised access to the invoice service
-- Page is obfuscated
-- Discouragement of business sensitive data (Prices, Quantities)
-- Discouragement of user sensitive data
-- Audit trail of the invoice
-- Manipulation of invoice data
-- Logging of read access
-- Screen scraping
+- (E) Unauthorised access to the invoice service
+- (I) Page is obfuscated, but a determined attacker can easily find it
+- (I) Disclosure of business sensitive data (Prices, Quantities)
+- (I) Disclosure of user sensitive data (PII)
+- (R) Audit trail of the invoice
+- (T) Manipulation of invoice data
+- (R) Logging of read access
+- (I) Screen scraping (grab large volume of data)
 
 **Assumptions**
 
