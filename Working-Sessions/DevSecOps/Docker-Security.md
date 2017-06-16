@@ -40,16 +40,16 @@ The outcome of this Working Session will be a document which summarizes the most
 General Security recommendation should be addressed and links should be shared.
 
 General Docker Security Considerations
- - Docker has a shared kernel with host
- - Do not run containers as privileged if not needed
- - Review of Dockerfiles
+- Docker has a shared kernel with host
+- Do not run containers as privileged if not needed
+- Review of Dockerfiles
   - A user is added as which the application runs
   - Credentials in the Dockerfile
   - Exposing unnecessary ports
- - Patchmanagement
- - Limits
- - Secrets Management?
- - Tools
+- Patchmanagement
+- Limits
+- Secrets Management?
+- Tools
   - Scanning of images/containers for components with known vulnerabilities
   - Benchmark of a Dockerfile
 
