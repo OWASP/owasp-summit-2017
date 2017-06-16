@@ -43,9 +43,9 @@ This Working Session will try to answer the question whether security companies 
 
 ### Synopsis and Takeaways
 
-Decisions on purchasing security products with Cyber Insurance, should not be based solely on the warranty (no matter how good it seems). Some Warranties may only cover secondary insurance that can cost the policy holder thousands if not millions.
+Decisions on purchasing security products with Cyber Insurance should not be based solely on the warranty (no matter how good it seems). Some Warranties may only cover secondary insurance that can cost the policyholder thousands if not millions.
 
-Reliance on warranties require scrutiny, equivalent to buying cyber insurance but warranties could be seen as a marketing ploy. It is normally not worth investigating a warranty for a product, due to the cost of the investigation against the cost of the initially cover. Normally negotiating warranty contracts can achieve more favourable terms. Collecting information about companies that submitted claims and the results of that process would prove useful.
+Reliance on warranties requires scrutiny, equivalent to buying cyberinsurance; however, warranties could be seen as a marketing ploy. It is normally not worth investigating a warranty for a product when the cost of the investigation is weighed against the cost of the initial cover. Normally negotiating warranty contracts can achieve more favourable terms. Collecting information on companies that have submitted claims and the results of the claims process would prove useful.
 
 ### Warranties should include:
 
@@ -56,7 +56,7 @@ Reliance on warranties require scrutiny, equivalent to buying cyber insurance bu
 - Should not be conditional based on incident response or other internal procedures
 - Include the right to breach the contract (Termination Clause)
 
-You can't make decisions based purely on warranty claims.
+You cannot make decisions based purely on warranty claims.
 
 ### Takeaways
 
