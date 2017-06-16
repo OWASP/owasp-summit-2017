@@ -47,7 +47,7 @@ Decisions on purchasing security products with Cyber Insurance, should not be ba
 
 Reliance on warranties require scrutiny, equivalent to buying cyber insurance but warranties could be seen as a marketing ploy. It is normally not worth investigating a warranty for a product, due to the cost of the investigation against the cost of the initially cover. Normally negotiating warranty contracts can achieve more favourable terms. Collecting information about companies that submitted claims and the results of that process would prove useful.
 
-#####Warranties should include:
+### Warranties should include:
 
 - Provide data to backup marketing claims
 - Independently validated data
@@ -58,7 +58,7 @@ Reliance on warranties require scrutiny, equivalent to buying cyber insurance bu
 
 You can't make decisions based purely on warranty claims.
 
-#####Takeaways
+### Takeaways
 
 Provided marketing data to support claims
 Collecting information about companies that submitted claims and the results of that process would prove useful.
