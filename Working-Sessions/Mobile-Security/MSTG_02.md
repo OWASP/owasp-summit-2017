@@ -47,7 +47,7 @@ This Working Session continued on content creation, revision and editing of the 
 
 Develop existing content on Test Case Exception Handling.
 Testing Authentication and Session Management
-Updating high level methodology of mobile security testing
+Update high level methodology of mobile security testing
 
 ## How to Join
 
@@ -55,7 +55,7 @@ Follow the "Edit this page here" link at the bottom of this page and add yoursel
 
 More things to do once you have signed up:
 
-- Make yourself familiar with the [existing content](https://github.com/OWASP/owasp-mstg). Or even better, start contributing right away :)
+- Familiarize yourself with the [existing content](https://github.com/OWASP/owasp-mstg). Or even better, start contributing right away :)
 - Ping us on the [OWASP MSTG Slack channel](https://owasp.slack.com/messages/project-mobile_omtg/details/) (sushi2k or bernhardm).
 - If you have rooted Android / jailbroken iOS devices, please bring them along to the session.
 

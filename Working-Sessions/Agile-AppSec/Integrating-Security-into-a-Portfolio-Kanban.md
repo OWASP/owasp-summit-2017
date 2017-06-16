@@ -18,9 +18,9 @@ Integrating security into sales channels is extremely important to every organis
  
 ## Why
 
-Integrating information security into the Portfolio Kanban enables organisations to have fully secure workstreams through every stage of the project development cycle. In the agile world, the integration of security must start at the earliest possible stage, which in most cases is the portfolio management workstream definition stage, a stage that normally utilises Kanban. This session will discuss the challenges and advantages of that approach and how one can plan and execute this model across environments. 
+Integrating information security into the Portfolio Kanban enables organisations to have fully secure workstreams through every stage of the project development cycle. In the agile world, the integration of security must start at the earliest possible stage, which in most cases is the portfolio management workstream definition stage. This is a stage that normally utilises Kanban. This session will discuss the challenges and advantages of that approach and how to plan and execute this model across environments. 
 
-The main purpose of this working session is to discuss and discover new ways of integrating information security into established sales channel workstreams within an organisation. Usually such organisations utilise a B2B model, and most of the requirements for new components and features come directly from the customer. This session will discuss how to achieve visibility over the process, how to ensure that the process is secure, and how to ensure that the sales channel workstreams have security controls and processes within them.
+The main purpose of this working session is to discuss and discover new ways of integrating information security into established sales channel workstreams within an organisation. Usually, such organisations utilise a B2B model, and most of the requirements for new components and features come directly from the customer. This session will discuss how to achieve visibility over the process, how to ensure that the process is secure, and how to ensure that the sales channel workstreams have security controls and processes within them.
 
 ## What
 

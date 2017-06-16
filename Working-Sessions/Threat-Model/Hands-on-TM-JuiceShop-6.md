@@ -45,6 +45,8 @@ The target audience for this Working Session is:
 * Juice Shop Staging Environment: <http://juice-shop-staging.herokuapp.com>
 
 ### Content
+### Output
 
-...add content...
+Much of the output is in <https://owaspsummit.org/Working-Sessions/Threat-Model/Threat-Modeling-by-Feature-and-Layer.html>
+
 

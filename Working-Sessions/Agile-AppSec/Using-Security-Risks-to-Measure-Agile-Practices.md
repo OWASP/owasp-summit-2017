@@ -17,7 +17,7 @@ participants : Ante Gulam, Irene Michlin, Mamta Vuppu, Duncan Hurwood
 
 ## Why
 
-A key problem of Agile practices in large organisations is 'how to measure them?'.
+A key problem of Agile practices in large organisations is 'how to measure them?'
 
 If you have 10 squads/teams across multiple buildings/countries, how do you measure their 'level of agility'?
 

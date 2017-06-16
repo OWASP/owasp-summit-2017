@@ -15,7 +15,7 @@ project-leader  :
 chapter-leader  :
 ticket          : 5x24h
 status          : started
-working-sessions: A10 - Underprotected APIs, Writing Security Tests, Testing Guide v5, Recruiting AppSec Talent, Teaching Attacker perspective to Developers, Security Labels, JIRA Risk Workflow, Top 10 Selection Criteria, OWASP Internet of Things Project, Integrating Security into a Portfolio Kanban, Cheat Sheets, AppSec Review and Pentest Playbook, Visit Bletchley Park, Sign Ceremony for Owasp Top 10 2017, Role of Security Certification, OWASP Risk Rating Management Project
+working-sessions: A10 - Underprotected APIs, Writing Security Tests, Testing Guide v5, Recruiting AppSec Talent, Teaching Attacker perspective to Developers, Security Labels, JIRA Risk Workflow, Top 10 Selection Criteria, OWASP Internet of Things Project, Integrating Security into a Portfolio Kanban, Cheat Sheets, AppSec Review and Pentest Playbook, Visit Bletchley Park, Sign Ceremony for Owasp Top 10 2017, Role of Security Certification, OWASP Risk Rating Management Project, Identity and Access Management for REST APIs - REST Security Cheat Sheet
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

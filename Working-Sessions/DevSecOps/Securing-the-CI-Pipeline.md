@@ -18,9 +18,9 @@ invited      : Dinis Cruz
 ---
 ## Why
 
-A key element of DevOps that this Working Session will consider, is the securing of the CI Pipeline.
+This Working Session will consider the securing of the CI Pipeline - A key element of DevOps.
 
-Doing CI builds, testing, and deployments have many advantages when done correctly. Using libraries from 3rd parties in your build, which can be on compromised servers, or even signing your packages or artifacts automatically, could result with you delivering compromised software to others.
+Doing CI builds, testing, and deployments have many advantages when done correctly. Using libraries from 3rd parties in your build can be on compromised servers. Even signing your packages or artifacts automatically could result in you delivering compromised software to others.
 
 ## What
 
