@@ -3,7 +3,7 @@ layout   : blocks/page-content
 title    : Accomodation
 ---
 
-## Accomodation
+## Accommodation
 
 #### 1. When can I check in to my room?
 
