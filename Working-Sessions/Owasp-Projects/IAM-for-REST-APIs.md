@@ -36,6 +36,15 @@ REST APIs are ubiquitous, yet there is a lack of solid insights into securing RE
 
 ## Outcomes
 
+- Use simpler terms: user, api, application - good enough for most scenarios and more comprehensible - guideline should outlive the specific schemes
+- Glossary of terms to clarify our use of terms like credentials, api keys, ...
+- Need to list the different common scenarios (use cases), providing guidelines for each, e.g.:
+- Application consuming an api without a separate identity provider - api issues credentials/secret/mutual ssl securely - supplied on requests in an authorisation header over secure channel, e.g. HTTPS - application must be able to keep the credentials secret, e.g. not in public repositories, encrypted in configuration, ...  api could use internal identity (authorisation) provider - application not aware of an IDP - one-legged
+- Application calling multiple APIs with shared identity provider (application is aware of the IDP) - two-legged c.g. OAuth client credential grant - microservices scenario
+- User (resource owner) and application (client) and api - OAuth three-legged case - adds authorisation claims
+- As above but api calls api - no way to prevent api propagating rights illegitimately - JWT or signing bearer tokens is one way to mitigate this
+- Fine-grained resource control 
+
 ### Synopsis & takeaways
 
 REST IAM
@@ -51,16 +60,6 @@ REST IAM
 - Need to at least address the simple case and offer good advice
 - Signed bearer tokens are an interesting idea
 
-**Outcomes**
-
-- Use simpler terms: user, api, application - good enough for most scenarios and more comprehensible - guideline should outlive the specific schemes
-- Glossary of terms to clarify our use of terms like credentials, api keys, ...
-- Need to list the different common scenarios (use cases), providing guidelines for each, e.g.:
-- Application consuming an api without a separate identity provider - api issues credentials/secret/mutual ssl securely - supplied on requests in an authorisation header over secure channel, e.g. HTTPS - application must be able to keep the credentials secret, e.g. not in public repositories, encrypted in configuration, ...  api could use internal identity (authorisation) provider - application not aware of an IDP - one-legged
-- Application calling multiple APIs with shared identity provider (application is aware of the IDP) - two-legged c.g. OAuth client credential grant - microservices scenario
-- User (resource owner) and application (client) and api - OAuth three-legged case - adds authorisation claims
-- As above but api calls api - no way to prevent api propagating rights illegitimately - JWT or signing bearer tokens is one way to mitigate this
-- Fine-grained resource control 
 
 ### Scenario1
 ![Scenario1][1]
