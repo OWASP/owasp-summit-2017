@@ -7,7 +7,7 @@ technology   :
 related-to   :
 status       : need-working materials
 when-day     : Fri
-when-time    : PM-3
+when-time    : PM-2
 location     : Room-5
 organizers   : Anders Reeves
 participants : 
