@@ -11,7 +11,7 @@ when-time    : AM-1
 location     : Main-Room
 room-layout  : Cabaret
 organizers   : Johan Peeters
-participants : Dinis Cruz, Robert Morschel, Steven Wierckx
+participants : Dinis Cruz, Robert Morschel, Steven Wierckx, Phil Parker
 ---
 
 ## Why
