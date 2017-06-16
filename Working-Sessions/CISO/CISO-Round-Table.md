@@ -32,6 +32,7 @@ CISO hands-on support for Security initiatives is a key factor of success
 ## Outcomes (after session)
 
 - Create document with answers
+- See under Working Materials
 
 ## Who
 
@@ -43,7 +44,7 @@ CISO hands-on support for Security initiatives is a key factor of success
 ## Working materials
 
 
-### Outcomes
+### Synopsis and Takeaways 
 
 Target audience:  Companies without a CISO
  
