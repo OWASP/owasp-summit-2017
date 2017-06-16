@@ -67,18 +67,18 @@ We have adapted the Joel Test to quickly indicate a company’s AppSec culture.
 The test’s purpose is to help companies attract  the right talent and help talent to find the right company  
 
 First draft of the AppSec Joel Test (in no specific order): 
-Does the company fund ongoing education for AppSec hires?
-Do developers undergo periodic AppSec training?
-Do AppSec people have quiet working environment?
-Are there both offense and defense teams, and do they work together?
-Can the AppSec team delay release (or fix) a new version or product?
-Is the AppSec team involved throughout the development lifecycle process?
-Can I access developers directly?
-Are security bugs treated like functional bugs?
-Is there some form of SDL / Maturity model / or other process in place?
-Can AppSec people choose their own tools (paid for by the company)?
-Is there a dedicated Incident Response team?
-Does the company contribute to Open Source and community efforts (or support personal contributions)?
+- Does the company fund ongoing education for AppSec hires?
+- Do developers undergo periodic AppSec training?
+- Do AppSec people have quiet working environment?
+- Are there both offense and defense teams, and do they work together?
+- Can the AppSec team delay release (or fix) a new version or product?
+- Is the AppSec team involved throughout the development lifecycle process?
+- Can I access developers directly?
+- Are security bugs treated like functional bugs?
+- Is there some form of SDL / Maturity model / or other process in place?
+- Can AppSec people choose their own tools (paid for by the company)?
+- Is there a dedicated Incident Response team?
+- Does the company contribute to Open Source and community efforts (or support personal contributions)?
 
 ## Who
 
