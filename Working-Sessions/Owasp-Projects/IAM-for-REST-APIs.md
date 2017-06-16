@@ -61,15 +61,24 @@ REST IAM
 - Signed bearer tokens are an interesting idea
 
 
-### Scenario1
+*Scenario 1*
+
 ![Scenario1][1]
-###Scenario2
+
+*Scenario 2*
+
 ![Scenario2][2]
-###Scenario3
+
+*Scenario 3*
+
 ![Scenario3][3]
-###Scenario4
+
+*Scenario 4*
+
 ![Scenario4][4]
-###Scenario5
+
+*Scenario5*
+
 ![Scenario5][5]
 
 (sources for all these images are (https://drive.google.com/drive/u/0/folders/0B8Z12l6_ShfuSkQxaUc2SFFjQzg) )
