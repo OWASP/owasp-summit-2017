@@ -60,6 +60,7 @@ below:
 > ### Bugfixes
 >
 > * disabled an invalid way to solve the _Forged Feedback_ challenge
+> * postpone websocket event registration until after data creator is finished (#345)
 >
 > ### I18N
 >
