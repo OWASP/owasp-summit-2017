@@ -54,7 +54,7 @@ General Docker Security Considerations
   - Benchmark of a Dockerfile
 
 Work in Progress: https://docs.google.com/a/owasp.org/document/d/1_71svrCpC40S30kj9j0Hb3RnXaVsz8koD4EbZuSo5HQ/edit?usp=sharing
-Slack Channel will be created for further communication
+A Slack Channel will be created for further communication.
 
 ## Who
 - Docker Security Experts
