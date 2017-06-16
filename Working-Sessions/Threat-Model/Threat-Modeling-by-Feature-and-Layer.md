@@ -105,27 +105,24 @@ No outbound rate limit, so a fuzzy request can result in a large list of matches
 
 **Threats**
 
-- Service is misused
-- Juice Shop sends malicious emails
-- Connected to the correct service
-- BCC abused
-- HTML body injection
-- Header injection
-- Juice Shop sending spam
-- Email message tampering
-- Sent confirmation
-- Sensitive data sent in emails
-- Tracking mechanism (privacy)
+- Juice Shop sends malicious emails (spoofing+)
+- Connecting to a fake service (spoofing)
+- BCC header field is abused (tampering, information disclosure)
+- Malicious data can be injected into the HTML body (tampering)
+- Malicious data can be injected to the email headers headers (tampering)
+- Juice Shop sending spam (spoofing+)
+- Emails are not being sent (denial of service)
+- Sent emails not confirmed appropriately by email service provider (repudiation)
+- Sensitive data sent in emails (information disclosure)
+- Email tracking mechanism is misused or abused (information disclosure / privacy)
 
 **Assumptions**
 
-- Rest API
+- Rest API is used
 - TLS is used
 - Threat models exist for TLS
-- Delivery confirmation
-- Validated reputation
-
-
+- Email service is only used for delivery confirmation
+- Juice Shop has validated reputation of the email delivery mechanism
 
 #### Invoice Tracking (Internal)
 
