@@ -59,6 +59,7 @@ Planned topics for the hackathon:
 - Hands-on experience with cutting edge ITSec technologies (e.g., Kaitai Struct, Unicorn Engine)
 - Collect new ideas for security challenges (secure coding in X, GDPR)
 
+### See Synopsis and Takeaways below
 
 ## Who
 
@@ -87,20 +88,16 @@ The target audience for this Working Session is:
 
 ![avatao statistics](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/avatao_statistics.png)
 
-
-
 ## Remote Participants
 
-All the challenges will be available online so anyone can join us even remotely.
+All the challenges will be available online so people can participate remotely.
 
 --- 
 
-
 ## General Rules to Participate
 
-The hackathon will be organised on the [avatao](https://avatao.com) platform, which is a commercial product to teach people how to build secure products. In accordance with the general rules of the OWASP 2017 Summit, a dedicated learning path will be set up for all the on-site and remote conference participants *free of charge*. The organisers of the Hackathon will help the participants on-site, but the Hackathon will continue to be available after the conference. 
-
+The hackathon will be organised on the [avatao](https://avatao.com) platform, which is a commercial product to teach people how to build secure products. In accordance with the general rules of the OWASP Summit 2017, a dedicated learning path will be set up for all the on-site and remote conference participants *free of charge*. The organisers of the Hackathon will help the participants on-site, but the Hackathon will continue to be available after the conference. 
 
 ## Outcomes
 
- -Successful hackathon about software security and collected ideas for new challenges.
+ -A very successful hackathon about software security; we also collected ideas for new challenges.
