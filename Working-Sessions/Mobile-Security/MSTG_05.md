@@ -8,7 +8,7 @@ technology      : Mobile
 status          : done
 when-day        : Fri
 when-time       : PM-1,PM-2
-location        : Room-5
+location        : Room-6
 room-layout     : unknown
 description     : In this book sprint we produce content for the reverse engineering chapters of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller,Sven Schleier
