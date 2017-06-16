@@ -12,13 +12,13 @@ organizers   :
 participants : Don Gibson
 ---
 
-In the evolving world of technology, mobile applications have become omnipresent and this evolution is creating a completely new range of attacks that were not relevant in the classic web application world.
+In the evolving world of technology, mobile applications have become omnipresent and this evolution is creating a completely new range of attacks not relevant in the classic web application world.
 
 As AppSec experts, it is our mission to define, promote, and improve mobile application security.
 
 ## Why
 
-Because Bytecodeviewer is possibly the best open source tool tofor reverse engineering of APK's. This workshop is the result of five months of research into pen testing mobile APK's @Securify.nl
+Bytecodeviewer is possibly the best open source tool for reverse engineering of APK's. This workshop is the result of five months of research into pen testing mobile APK's @Securify.nl
 
 ## What
 
@@ -47,7 +47,10 @@ Reverse engineering APKS with Bytecodevierwer (Pre-release 3.0.0) features:
 
 ## Outcomes
 
-This Working Session will provide a brief overview of the anatomy of a mobile penetration test, and provide information on how to get started with reverse engineering of APK´s.
+This Working Session will provide:
+
+- A brief overview of the anatomy of a mobile penetration test
+- Information on how to get started with reverse engineering of APK´s.
 
 ## Who
 

@@ -18,7 +18,7 @@ invited      : Nanne Baars
 
 ## Why
 
-This Working Session will look at Security Tests, a special type of test that confirms, via passing tests, that security issues either exist or have been fixed.
+This Working Session will look at Security Tests. These are a special type of test that confirms, via passing tests that security issues either exist or have been fixed.
 
 ## What
 
