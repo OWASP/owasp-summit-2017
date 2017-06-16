@@ -16,7 +16,7 @@ This Working Session will examine the need for secure GitHub integrations.
 
 As more and more services are integrated with GitHub, the public and private repos of different companies are being exposed to a much wider set of attackers and threats.
 
-Currently, the GitHub security model does not allow the granularity required to control access (for example read-access to only one repo), which means that choices tend to be limited to either:
+Currently, the GitHub security model does not allow the granularity required to control access (for example read-access to only one repo). This means that choices tend to be limited to either:
 
  a) provide no access and no use of the 3rd party service (which ironically might provide a security service)
 
