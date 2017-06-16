@@ -62,6 +62,18 @@ REST IAM
 - As above but api calls api - no way to prevent api propagating rights illegitimately - JWT or signing bearer tokens is one way to mitigate this
 - Fine-grained resource control 
 
+### Scenario1
+![Scenario1][1]
+###Scenario2
+![Scenario2][2]
+###Scenario3
+![Scenario3][3]
+###Scenario4
+![Scenario4][4]
+###Scenario5
+![Scenario5][5]
+
+(sources for all these images are (https://drive.google.com/drive/u/0/folders/0B8Z12l6_ShfuSkQxaUc2SFFjQzg) )
 
 ## Who
 
@@ -102,3 +114,9 @@ Here are the points that I think need to be addressed in the cheat sheet. Give m
 * A couple of important topics are missing and should be added:
     * CORS
     * HoK
+
+[1]: /website/assets/img/blocks/REST-Scenario1.png
+[2]: /website/assets/img/blocks/REST-Scenario2.png
+[3]: /website/assets/img/blocks/REST-Scenario3.png
+[4]: /website/assets/img/blocks/REST-Scenario4.png
+[5]: /website/assets/img/blocks/REST-Scenario5.png
