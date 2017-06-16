@@ -45,7 +45,7 @@ This Working Session will create industry-wide security guidelines.
 - Developers are competitive and want to maximise achievement. Introducing a scoring system may be a good way to do this: e.g., scoring unit test coverage on how it addresses security errors. 
 
 **Low resource consumption**
-- Many IDEs can be resource-intensive and development may involve virtualisation technologies that are also resource-intensive. Whatever is added to the IDE ought not add to that load.
+- Many IDEs can be resource-intensive and development may involve virtualisation technologies that are also resource-intensive. Whatever is added to the IDE should not add to that load.
 
 **Dependency Scanning**
 - Don’t just think about the code the developers are writing, think about code being included from third party libraries or dependencies., e.g., CVE scanners.
