@@ -47,7 +47,10 @@ Reverse engineering APKS with Bytecodevierwer (Pre-release 3.0.0) features:
 
 ## Outcomes
 
-This Working Session will provide a brief overview of the anatomy of a mobile penetration test and provide information on how to get started with reverse engineering of APK´s.
+This Working Session will provide:
+
+- A brief overview of the anatomy of a mobile penetration test
+- Information on how to get started with reverse engineering of APK´s.
 
 ## Who
 
