@@ -35,6 +35,10 @@ This Working Session will discuss some aspects of GDPR, including the role of th
 - Generate the list of 10 questions for the ICO to clarify the implications for AppSec specifically
 - Generate the list of questions for the ICO regarding general implications
 
+### Synopsis ad Takeaways
+
+Letter in final draft stage.
+
 ---
 
 ## Working materials
