@@ -13,6 +13,11 @@ participants :
 invited      : Martin Knobloch, Tiffany Long, Andrew van der Stock, Simon Bennetts
 ---
 
+
+## Current document
+
+Please see [google docs](https://docs.google.com/document/d/1GXeCF1_EqNdZ0RZLz1iRzA5hC2Qz817NdRvwHwrQnMA/edit)
+
 ## Why
 
 OWASP generates, delivers, and hosts a range of documents and tools that are widely accepted for their high quality; however, there is no mechanism to make these projects tamper-proof.
