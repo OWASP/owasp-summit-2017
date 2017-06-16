@@ -35,28 +35,28 @@ participants :
 
 **Threats**
 
-- Fake delivery service spoofs the real one; can collect data on JS customers, interfere with delivery
-- Tampering of quantity on wire
-- Repudiation of confirmation response & reverse, repudiation of request for truck roll
-- Send bad pricing: either too high to see if it gets accepted, or too (this might be spoofing, repudiation, tampering, info disclose; we had several motivations)
-- (See Address Lookup for additional threats; many are similar)
+- Fake delivery services
+- Tampering of quantity
+- Reproduction of confirmation response
+- Reversal of data direction
 
 **Assumptions**
 
 - TLS is used
 - Threat models exist for TLS
-- Delivery service is a pay-for service
-- This is an analysis of the quote flow, there is also a execute flow that needs to be threat modeled.
+- Paid Service
+- A Quote-flow is generated
 
 #### Juice Shop User (External)
 
 **Threats**
 
-- User authentication
-- Audit trail for user activity
-- Account takeover (email confirmation)
-- Admin console available due to lack of authentication
-- Admin console is obfuscated
+- Weak user authentication allows the user to be spoofed easily (spoofing, EoP)
+- No Audit trail for user activity exists (repudiation)
+- Weak account management security allows account takeover, e.g. lack of email confirmation (spoofing, EoP)
+- Admin console available due to lack of authentication (EoP)
+- Admin console security relies on obfuscation (information disclosure)
+- POST-SESSION: User is able to input malicious data (EoP)
 
 **Assumptions**
 
