@@ -5,7 +5,7 @@ type            : participant
 job-title       :
 company         :
 travel-from     : Italy
-image           : goo.gl/G0Fxiv
+image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAYCAAAAJDVhMTQxZDFiLTZkOWUtNDI0Zi05OTljLWE5MDVhZTk2ZGUxNQ.jpg
 linkedin        : https://www.linkedin.com/in/enrico-giulio-maria-verzegnassi-8b59b8113/
 twitter         :
 facebook        :
