@@ -70,6 +70,8 @@ The target audience for this Working Session is:
 - CTF participants (and those who would like to become one)
 - CISOs
 
+### Synopsis and Takeaways
+
 ## Screenshots
 
 ### The OWASP 2017 Summit path 
@@ -98,6 +100,6 @@ All the challenges will be available online so people can participate remotely.
 
 The hackathon will be organised on the [avatao](https://avatao.com) platform, which is a commercial product to teach people how to build secure products. In accordance with the general rules of the OWASP Summit 2017, a dedicated learning path will be set up for all the on-site and remote conference participants *free of charge*. The organisers of the Hackathon will help the participants on-site, but the Hackathon will continue to be available after the conference. 
 
-## Outcomes
+## Outcome
 
  -A very successful hackathon about software security; we also collected ideas for new challenges.
