@@ -14,7 +14,7 @@ participants : Francois Raynaud, Achim Hoffmann
 invited      : Sam Stepanyan
 ---
 
-Working session to crowd source best practices for deployment and managing Web Appliation Firewalls.
+Working session to crowdsource best practices for deployment and managing Web Application Firewalls.
 
 ## Why
 Web Application Firewalls require the skills and knowledge of Network, Security, and Application subject matter experts.
