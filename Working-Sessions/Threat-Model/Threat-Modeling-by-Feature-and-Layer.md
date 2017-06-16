@@ -27,6 +27,10 @@ participants :
 
 ### Synopsis/Takeaways
 
+#### Address Lookup (external entity)
+
+
+
 #### Delivery Service (External)
 
 **Threats**
@@ -82,6 +86,8 @@ participants :
 - Threat models exist for TLS
 - Delivery confirmation
 - Validated reputation
+
+
 
 #### Invoice Tracking (Internal)
 
