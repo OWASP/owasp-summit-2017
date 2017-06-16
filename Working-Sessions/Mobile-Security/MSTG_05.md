@@ -7,7 +7,7 @@ owasp-project   : yes
 technology      : Mobile
 status          : done
 when-day        : Fri
-when-time       : PM-1,PM-2,PM-3
+when-time       : PM-1,PM-2
 location        : Room-5
 room-layout     : unknown
 description     : In this book sprint we produce content for the reverse engineering chapters of the Mobile Security Testing Guide.
