@@ -88,11 +88,12 @@ No outbound rate limit, so a fuzzy request can result in a large list of matches
 
 **Threats**
 
-- User authentication
-- Audit trail for user activity
-- Account takeover (email confirmation)
-- Admin console available due to lack of authentication
-- Admin console is obfuscated
+- Weak user authentication allows the user to be spoofed easily (spoofing, EoP)
+- No Audit trail for user activity exists (repudiation)
+- Weak account management security allows account takeover, e.g. lack of email confirmation (spoofing, EoP)
+- Admin console available due to lack of authentication (EoP)
+- Admin console security relies on obfuscation (information disclosure)
+- POST-SESSION: User is able to input malicious data (EoP)
 
 **Assumptions**
 
