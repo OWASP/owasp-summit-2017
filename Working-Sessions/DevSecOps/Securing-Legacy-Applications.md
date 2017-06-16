@@ -33,7 +33,8 @@ This Working Session will discuss how best to secure these legacy applications.
 
 ## Outcome
 
-__Main Characteristic of a Legacy Application: You cannot fix the base of a problem on that system. e.g. Modify the code.__
+_Main Characteristic of a Legacy Application: You cannot fix the base of a problem on that system. e.g. Modify the code._
+
 - Other issues you are dealing with on a legacy app: 
 	* Not under active maintenance
 	* Not secure anymore
