@@ -45,6 +45,16 @@ The target audience for this Working Session is:
 * Juice Shop Staging Environment: <http://juice-shop-staging.herokuapp.com>
 
 ### Content
+### Output
 
-...add content...
+### Threats to Juiceshop <-> Address lookup
+
+### Threats to Juiceshop <-> Delivery service
+
+### Threats to Juiceshop <-> Email sending service
+
+### Threats to Juiceshop's invoice page
+
+### Threats to Juiceshop that don't fit above
+
 
