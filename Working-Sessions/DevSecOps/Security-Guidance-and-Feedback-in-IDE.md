@@ -17,7 +17,7 @@ invited      : Matias Madou
 
 ## Why
 
-This Working Session will consider how the best location to provide security guidance and feedback to developers is its IDE (Integrated Development Environment).
+This Working Session will consider the IDE (Integrated Development Environment) as the best location to provide security guidance and feedback to developers.
 
 ## What
 
@@ -38,14 +38,14 @@ This Working Session will create industry-wide security guidelines.
 - Address noise within an IDE – specific and targeted live analysis of code to highlight specific areas requiring attention rather than flooding developers with a long list of errors that they will not be able to address; filtering option may be useful to streamline the process of identifying security errors.
 
 **Accuracy** 
-- Feedback on vulnerabilities needs to be accurate, in particular, if it’s a general security issue, but there may be exceptions to these rules.
-- Think carefully about-when and where to highlight these exceptions to maintain the credibility of the tool.
+- Feedback on vulnerabilities needs to be accurate particularly if it’s a general security issue. However, there may be exceptions to these rules.
+- Think carefully about when and where to highlight these exceptions to maintain the credibility of the tool.
 
 **Gamification**
-- Developers are competitive and want to maximise achievement.  Introducing a scoring system may be a good way to do this; e.g., scoring unit test coverage on how it addresses security errors. 
+- Developers are competitive and want to maximise achievement. Introducing a scoring system may be a good way to do this: e.g., scoring unit test coverage on how it addresses security errors. 
 
 **Low resource consumption**
-- Many IDEs can be resource-intensive and development may involve virtualisation technologies that are also resource-intensive so whatever is added to the IDE ought not add to that load.
+- Many IDEs can be resource-intensive and development may involve virtualisation technologies that are also resource-intensive. Whatever is added to the IDE should not add to that load.
 
 **Dependency Scanning**
 - Don’t just think about the code the developers are writing, think about code being included from third party libraries or dependencies., e.g., CVE scanners.
