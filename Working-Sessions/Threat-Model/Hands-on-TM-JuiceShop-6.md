@@ -47,14 +47,6 @@ The target audience for this Working Session is:
 ### Content
 ### Output
 
-### Threats to Juiceshop <-> Address lookup
-
-### Threats to Juiceshop <-> Delivery service
-
-### Threats to Juiceshop <-> Email sending service
-
-### Threats to Juiceshop's invoice page
-
-### Threats to Juiceshop that don't fit above
+Much of the output is in <https://owaspsummit.org/Working-Sessions/Threat-Model/Threat-Modeling-by-Feature-and-Layer.html>
 
 
