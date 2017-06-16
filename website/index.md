@@ -1,5 +1,5 @@
 ---
 layout: blocks/index
-day   : Thu
-title: Owasp Summit 2017
+day   : Fri
+title : Owasp Summit 2017
 ---

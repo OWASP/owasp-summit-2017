@@ -5,12 +5,12 @@ type            : participant
 job-title       :
 company         :
 travel-from     : Italy
-image           :
-linkedin        :
+image           : goo.gl/G0Fxiv
+linkedin        : https://www.linkedin.com/in/enrico-giulio-maria-verzegnassi-8b59b8113/
 twitter         :
 facebook        :
 website         :
-email           :
+email           : verzegnassi.enrico@gmail.com
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h

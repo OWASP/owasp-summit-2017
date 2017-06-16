@@ -6,8 +6,8 @@ owasp-project: no
 track        : OwaspSAMM
 status       : done
 when-day     : Fri
-when-time    : AM-1
-location     : Main-Room
+when-time    : PM-1
+location     : Room-4
 remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Brian Glas
