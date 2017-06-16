@@ -74,6 +74,8 @@ below:
 > ### Miscellaneous
 >
 > * several smaller translation updates
+> * provided config `quiet.yml` (muting most notifications & hiding hints and GitHub ribbon)
+> * provided config `juicebox.yml` (for those who have a hard time pronouncing _jo͞osSHäp_)
 > * streamlined `README.md` documentation (remove duplicate content w/
 >   [official owasp.org project page](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project))
 > * added section on Lectures and Trainings to `RESOURCES.md`
