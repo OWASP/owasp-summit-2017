@@ -18,7 +18,7 @@ participants : Don Gibson,Irene Michlin, Ingo Hanke
 
 There has been a great improvement in the security of new languages/frameworks. This makes it harder to write insecure applications, at least from an injection point of view.
 
-However, the elephant in the room is the hundreds possibly thousands of legacy applications that exist in companies. These are performing mission critical functions and are not going anywhere anytime soon. 
+However, the elephant in the room is the hundreds, possibly thousands, of legacy applications that exist in companies. These are performing mission critical functions and are not going anywhere anytime soon. 
 
 This Working Session will discuss how best to secure these legacy applications.
 
@@ -46,7 +46,7 @@ __Main Characteristic of a Legacy Application: You cannot fix the base of a prob
 	* Eventually, the ultimate solution is decommission:
 	* Do cost analysis of maintaining the application. Plan to decommission the application at some point and start using new (cheaper) technology
 	* You have to put a final point to the app. They are not supposed to run forever.
-	* Other less effective options (Still a certain amount of remaining risk must be accepted): Lower likelihood by adding protection layers like WAFS, Firewalls, Filters, etc. This causes issues when old functionality cannot be exposed to new technology. This has to be done in a very careful manner.
+	* Other less effective options (a certain amount of remaining risk must be accepted): lower likelihood by adding protection layers like WAFS, Firewalls, Filters, etc. This causes issues when old functionality cannot be exposed to new technology. This has to be done in a very careful manner.
   
 ## Who
 
