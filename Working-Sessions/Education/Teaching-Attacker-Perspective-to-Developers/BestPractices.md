@@ -1,28 +1,27 @@
-# Best Practices
+# Best Practice
 
 ## Timebox your exercises
 
-When giving students a (hacking) exercise make sure they know how much
-time they have for it. At the end of the timebox show the solution to
-the exercise live on the video projector so everyone sees it at least
-once.
+When giving students a (hacking) exercise make sure they know th etime allowed. 
+At the end of the timebox show the solution to the exercise live on the video projector 
+so everyone sees it at least once.
 
 ## Explain Actual Risks
 
 Security issues cannot be considered in isolation so you need to be able
-to measure their value/risk over e.g. functional changes or other
+to measure their value/risk over, e.g., functional changes or other
 requirements. Developers need to learn how to balance all these
 requirements appropriately.
 
 ## Include Corporate Coding Standards
 
-Use code examples from or aligned with the _company's (secure) coding
+Use code examples from, or aligned with, the _company's (secure) coding
 standards_ to show insecure code and how to fix it during a developer
 training.
 
 ##  Have an Icebreaker
 
-Have a gimmick - something novel for the participants - e.g breaking a
+Have a gimmick - something novel for the participants - e.g., breaking a
 physical safe or picking a lock.
 
 ## Learn the whole Lifecycle
