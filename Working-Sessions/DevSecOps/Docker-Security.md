@@ -26,7 +26,7 @@ This Working Session will focus on the most common issues regarding Docker secur
 ## What
 
 While there are several security issues which show up when reviewing Docker security, the following four are identified as the most important ones:
-- The intrinsic security of the kernel and its support for namespaces and cgroups
+- The intrinsic security of the kernel and its support for namespaces and groups
 - The attack surface of the Docker daemon
 - Loopholes in the container configuration profile, either by default, or when customized by users
 - The “hardening” security features of the kernel and how they interact with containers
