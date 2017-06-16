@@ -15,8 +15,8 @@ organizers   : Irene Michlin
 participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Duncan Hurwood,Stuart Gunter, Stephen de Vries, Don Gibson, Robert Morschel
 ---
 
-Until recently, cyber security was often considered as a “nice to have” in the software development lifecycle. However, due to several data breaches that hit the headlines, more and more dev teams are now starting to incorporate security practices in their processes.
-Considering how agile methodologies benefit the development lifecycle, security should be approached in a similar, or the same, way.
+Until recently, cyber security was often considered as “nice to have” in the software development lifecycle. However, due to several data breaches that hit the headlines, more and more dev teams are now starting to incorporate security practices in their processes.
+Considering how agile methodologies benefit the development lifecycle, security should be approached in the same, or a similar, way.
 
 ## Why
 
@@ -82,8 +82,6 @@ Practices
 - Struggle to manage BAU and hence forecasting: separate functions
 - Need visibility of project portfolio
 - Separation of duty can be a constraint
-
-
 
 ## Who
 
