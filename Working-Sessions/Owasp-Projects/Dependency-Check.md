@@ -18,7 +18,7 @@ participants : Johan Peeters, Brian Glas
 
 ## Why
 
-Use of vulnerable components (A9) contributes to some of the worlds largest breaches. It's unique among other types of security issues in that vulnerabilities can suddently arrise at any point in the software development lifecycle with or without code changes. OWASP Depencency-Check, a project created by Jeremy Long in 2012, is a flagship OWASP project with thousdands of users and many volunteers. It has grown from a single command line tool into a full suite designed to provide visibility of vulnerable components throughout the software development lifecycle. 
+Use of vulnerable components (A9) contributes to some of the worlds largest breaches. It is unique among other types of security issues - in that vulnerabilities can suddenly arrise at any point in the software development lifecycle with or without code changes. OWASP Dependency-Check - a project created by Jeremy Long in 2012 - is a flagship OWASP project with thousands of users and many volunteers. It has grown from a single command line tool into a full suite designed to provide visibility of vulnerable components throughout the software development lifecycle. 
 
 ## What
 
@@ -29,8 +29,8 @@ Use of vulnerable components (A9) contributes to some of the worlds largest brea
 
 ## Outcomes
 
-* Identify areas Dependency-Check and Dependency-Track need improvement
-* Learn about complimentary issues that put use of third-party components at risk
+* Identify areas - Dependency-Check and Dependency-Track need improvement
+* Learn about complementary issues that put use of third-party components at risk
 * Learn how to contribute to the projects
 
 ## Who
