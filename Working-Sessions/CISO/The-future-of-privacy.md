@@ -46,23 +46,7 @@ It is possible to argue that privacy is not a priority in the work of OWASP, but
 - OWASP Privacy statements
 - Concept of a campaign and compliance of OWASP community and foundation, road map
 
-## Who
-
-The target audience for this Working Session is:
-
-- Everyone who cares about privacy.
-
-## References:
-
-(1) OWASP Summit 2011 Working Session "Privacy" ( https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073 )
-
---- 
-
-## Working materials
-
-- Agenda and results: https://drive.google.com/file/d/0B1vROwh8vCBGWGR6VENqak9SaHc/view?usp=sharing
-
-### Outcome
+### Synopsis and Takeaways
 
 "Is there a future for privacy?"
 
@@ -89,78 +73,45 @@ B.1 Types of privacy / personal data (brain storming)
    including criticality (high | medium |low | none)
 
 	- Name
-
 	- Gender
-
 	- Address
-
 	- Email address
-
 	- Phone numbers
-
 	- Photos/Videos of person
-
 	- Date of birth
-
 	- Place of birth
-
 	- Name of schools / universities / employers
-
 	- Job-position
-
 	- Salary
-
-	- property
-
+	- Property
 	- Passport data
-
-	- biometric data, e.g. Thumbprint
-
+	- Biometric data, e.g. Thumbprint
 	- Social security number / health insurance ID
-
 	- IP-Address
-
 	- Cookies
-
 	- Credit-Card numbers
-
-	- bank account numbers
-
+	- Bank account numbers
 	- Health data
-
 	- DNA-profile
-
-	- live style data / tracking 
-
-        - location data / movement profiles
-
-	- consumer data
-
+	- Live style data / tracking 
+        - Location data / movement profiles
+	- Consumer data
 	- Digital signatures
-
 	- Digitally stored manual signatures (e.g. signature pads)
-
-	- criminal records
-
+	- Criminal records
 	- Political, religious or philosophical beliefs
 
 B.2 Categories of privacy / personal data (brain storming)
 
 	Main categories:
-
 	- Personal identifiable information (PII)
-
 	- Sensitive personal information (SPI) [context dependend]
 
-	Sub categories:
-
-	- legally relevant data
-
-	- insurance relevant data
-
-	- socially relevant data
-
-	- financial data
+Sub categories:
+	- Legally relevant data
+	- Insurance relevant data
+	- Socially relevant data
+	- Financial data
 
 --- C. CONTROLS & MEASURES (WEB-APPS) ---
 
@@ -174,10 +125,27 @@ C.3 Automated information to individuals, not on request (e.g. once a year etc)
 
 D.1 Are there technical solutions conceivable, which help individuals to collect
 
-   - who has which type of personal data stored
+   - Who has which type of personal data stored
+   - Where is it stored?
 
-   - where is it stored
-
-   This concerns the "white hats",means: companies, organizations and government who have stored data.
+   This concerns "white hats", that is, companies, organizations, and governments who have stored data.
 
    The "black hats" (criminal individuals or gangs) are not in focus here.
+
+
+## Who
+
+The target audience for this Working Session is:
+
+- Everyone who cares about privacy.
+
+## References:
+
+(1) OWASP Summit 2011 Working Session "Privacy" ( https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073 )
+
+--- 
+
+## Working materials
+
+- Agenda and results: https://drive.google.com/file/d/0B1vROwh8vCBGWGR6VENqak9SaHc/view?usp=sharing
+
