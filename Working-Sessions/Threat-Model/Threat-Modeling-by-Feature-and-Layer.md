@@ -31,41 +31,41 @@ participants :
 
 **Threats**
 
-(S) Fake address lookup service
+- (S) Fake address lookup service
     - possibly through DNS poisoning
     - goals might be either to siphon private data of JuiceShop customers or return bogus addresses
- Mitigation: TLS with mutual authentication
+ - Mitigation: TLS with mutual authentication
     
-(S) Fake JuiceShop - someone else (possibly including the address lookup service itself) sending requests on behalf of the JuiceShop
-(R) Malicious data in these requests - can JuiceShop be liable if addressing service incures damage
+- (S) Fake JuiceShop - someone else (possibly including the address lookup service itself) sending requests on behalf of the JuiceShop
+- (R) Malicious data in these requests - can JuiceShop be liable if addressing service incures damage
     
-(D) If service is rate-limited, the threat above will lead to DoS.
+- (D) If service is rate-limited, the threat above will lead to DoS.
 
-(S) Customer enters fake address, leading to "craiglist" attack
+- (S) Customer enters fake address, leading to "craiglist" attack
 
-Address lookup is malicious, leading to:
+- Address lookup is malicious, leading to:
 
-(T) Trucks being sent to fake address
-(T) Bad data sent back, violating assumed response format, leading to range of problems with JuiceShop depending how vulnerable the JuiceShop parser is (from DoS to RCE)
+- (T) Trucks being sent to fake address
+- (T) Bad data sent back, violating assumed response format, leading to range of problems with JuiceShop depending how vulnerable the JuiceShop parser is (from DoS to RCE)
 
-(D) Customers or maybe fake JuiceShop requests include bad addresses (bad as in associated with drug trade, terrorists etc), hoping to trigger alerts in some security analytics, leading to DoS by government.
+- (D) Customers or maybe fake JuiceShop requests include bad addresses (bad as in associated with drug trade, terrorists etc), hoping to trigger alerts in some security analytics, leading to DoS by government.
 
-(I) Eavesdropping on communication will break privacy regulations, GDPR etc.
+- (I) Eavesdropping on communication will break privacy regulations, GDPR etc.
     Mitigation: TLS.
 
-(D) If the service is synchronous and unavailable or slow, would it result in DoS in JuiceShop?
+- (D) If the service is synchronous and unavailable or slow, would it result in DoS in JuiceShop?
 
-(I) If JuiceShop authenticates with keys, how secure is key storage.
+- (I) If JuiceShop authenticates with keys, how secure is key storage.
 
 
 **Assumptions**
 
-Address resolution service is paid (or at least rate-limited, with Juice shop having a specific quota)
-The API sends (name, address), gets back either:
+- Address resolution service is paid (or at least rate-limited, with Juice shop having a specific quota)
+- The API sends (name, address), gets back either:
   - address if it was correct
   - list of potential addresses if the resolution was a bit fuzzy
   - nothing if failed to resolve
-No outbound rate limit, so a fuzzy request can result in a large list of matches
+- No outbound rate limit, so a fuzzy request can result in a large list of matches
 
 
 #### Delivery Service (External)
