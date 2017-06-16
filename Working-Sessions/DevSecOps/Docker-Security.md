@@ -35,6 +35,27 @@ While there are several security issues which show up when reviewing Docker secu
 
 The outcome of this Working Session will be a document which summarizes the most common security concerns when using Docker and practical advice on how to protect from them.
 
+### Synopsis and Takeaways
+
+General Security recommendation should be addressed and links should be shared.
+
+General Docker Security Considerations
+ - Docker has a shared kernel with host
+ - Do not run containers as privileged if not needed
+ - Review of Dockerfiles
+  - A user is added as which the application runs
+  - Credentials in the Dockerfile
+  - Exposing unnecessary ports
+ - Patchmanagement
+ - Limits
+ - Secrets Management?
+ - Tools
+  - Scanning of images/containers for components with known vulnerabilities
+  - Benchmark of a Dockerfile
+
+Work in Progress: https://docs.google.com/a/owasp.org/document/d/1_71svrCpC40S30kj9j0Hb3RnXaVsz8koD4EbZuSo5HQ/edit?usp=sharing
+Slack Channel will be created for further communication
+
 ## Who
 - Docker Security Experts
 - Docker users who wish to learn more
