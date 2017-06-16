@@ -18,7 +18,7 @@ When creating horizontal security teams across multiple teams or squads, there a
 
 ## Why
 
-This working session will discuss common terminology and workflows, as it is important that industry agrees on and recognises the distinctions between Security Guilds and Security Champions.  
+This working session will discuss common terminology and workflows as it is important that industry agrees on and recognises the distinctions between Security Guilds and Security Champions.  
 
 ## What
 
@@ -56,7 +56,7 @@ Comments
 
 - Security Champions are a model that has been used succesfully
 - A group of Security Champions could be a Security Guild
-- Security Champions network need energy from the central Securtiy Team
+- Security Champions network need energy from the central Security Team
 
 Follow up:
 
@@ -84,11 +84,7 @@ Recommendation
 
 - Security Champions are a model that has been used succesfully
 - A group of Security Champions could be a Security Guild
-- Security Champions network need energy from the central Securtiy Team
-
-
-
-
+- Security Champions network need energy from the central Security Team
 
 What do they do?
 - Assist in the triage of security issues for their team or area
