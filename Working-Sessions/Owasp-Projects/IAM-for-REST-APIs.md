@@ -36,27 +36,31 @@ REST APIs are ubiquitous, yet there is a lack of solid insights into securing RE
 
 ## Outcomes
 
+### Synopsis & takeaways
+
 REST IAM
 
-Discussion
-- current section doesn't make sense, makes lot of upfront assumptions
-- prefer time-limited tokens to sending credentials with every request
-- tokens should be short-lived and scoped
-- long-running processes still need to be identified and authorised
-- exchanging short-lived tokens for longer-lived tokens with narrower scope - narrow scope is a good principle anyways - principle of least privilege
-- complexity of implementation is a consideration and trade-off to consider - more likely to get it wrong if complex
-- need to at least address the simple case and offer good advice
-- signed bearer tokens are an interesing idea
+**Discussion**
 
-Outcomes
-- use simpler terms: user, api, application - good enough for most scenarios and more comprehensible - guideline should outlive the specific schemes
-- glossary of terms to clarify our use of terms like credentials, api keys, ...
-- need to list the different common scenarios (use cases), providing guidelines for each, e.g:
--- application consuming an api without a separate identity provider - api issues credentials/secret/mutual ssl securely - supplied on requests in an authorisation header over secure channel, e.g HTTPS - application must be able to keep the credentials secret, e.g. not in public repositories, encrypted in configuration, ...  api could use internal identity (authorisation) provider - application not aware of an IDP - one-legged
--- application calling multiple APIs with shared identity provider (application is aware of the IDP) - two-legged c.g. OAuth client credential grant - microservices scenario
--- user (resource owner) and application (client) and api - oauth three-legged case - adds authorisation claims
--- as above but api calls api - no way to prevent api propagating rights illegitimately - JWT or signing bearer tokens is one way to mitigate this
--- fine-grained resource control 
+- Current section doesn't make sense, makes lot of upfront assumptions
+- Prefer time-limited tokens to sending credentials with every request
+- Tokens should be short-lived and scoped
+- Long-running processes still need to be identified and authorised
+- Exchanging short-lived tokens for longer-lived tokens with narrower scope - narrow scope is a good principle anyways - principle of least privilege
+- Complexity of implementation is a consideration and trade-off to consider - more likely to get it wrong if complex
+- Need to at least address the simple case and offer good advice
+- Signed bearer tokens are an interesting idea
+
+**Outcomes**
+
+- Use simpler terms: user, api, application - good enough for most scenarios and more comprehensible - guideline should outlive the specific schemes
+- Glossary of terms to clarify our use of terms like credentials, api keys, ...
+- Need to list the different common scenarios (use cases), providing guidelines for each, e.g.:
+- Application consuming an api without a separate identity provider - api issues credentials/secret/mutual ssl securely - supplied on requests in an authorisation header over secure channel, e.g. HTTPS - application must be able to keep the credentials secret, e.g. not in public repositories, encrypted in configuration, ...  api could use internal identity (authorisation) provider - application not aware of an IDP - one-legged
+- Application calling multiple APIs with shared identity provider (application is aware of the IDP) - two-legged c.g. OAuth client credential grant - microservices scenario
+- User (resource owner) and application (client) and api - OAuth three-legged case - adds authorisation claims
+- As above but api calls api - no way to prevent api propagating rights illegitimately - JWT or signing bearer tokens is one way to mitigate this
+- Fine-grained resource control 
 
 
 ## Who
