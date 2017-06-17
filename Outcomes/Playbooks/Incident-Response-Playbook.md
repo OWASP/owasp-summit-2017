@@ -1,27 +1,7 @@
 ---
-layout       : blocks/working-session
-title        : Incident Response Playbook
-type         : workshop
-track        : Security Playbooks
-technology   : SOC
-related-to   :
-status       : done
-when-day     : Wed
-when-time    : PM-1
-location     : Room-5
-room-layout  : cabaret
-organizers   : Francois Raynaud
-participants : Naushad007, Mamta Vuppu;Mateo Martínez
-outcomes     : mapped
+layout   : blocks/page-content
+title    : Incident Response Playbook
 ---
-
-## Why
-
-Responding to security incidents should not be an improvised or non-scripted activity. It is important that workflows and action-plans are created in advance, so that the team's response to an incident is consistent, focused and repeatable.
-
-## What
-
- - Create incident response playbook that can be used by the Community
 
 ## Outcomes
 
@@ -92,11 +72,3 @@ The target audience for this Working Session is:
  - [A weekend in Incident Response: How to Mitigate Cybersecurity Risks in HealthCare](https://www.linkedin.com/pulse/weekend-incident-response-how-mitigate-cybersecurity-risks-forte)
 
  ---
-
-# Working materials
-
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
-
-### Content
-
- - Draft version of an incident respose playbook

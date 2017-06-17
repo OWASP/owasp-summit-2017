@@ -10,8 +10,9 @@ when-day     : Fri
 when-time    : AM-1
 location     : Room-5
 room-layout  : cabaret
-organizers   : 
+organizers   :
 participants : Jonas Vanalderweireldt
+outcomes     : not-found
 ---
 
 ## Why
@@ -27,10 +28,10 @@ This Working Session will create a bug bounty playbook.
 ## What
 
  - Create Bug bounty playbook
- 
+
 ## Outcomes
 
-- Bug bounty playbook 
+- Bug bounty playbook
 
 ## Who
 
@@ -39,14 +40,11 @@ The target audience for this Working Session is:
  - Security teams
  - Bug bounty companies
  - Bug bounty hunters
- 
---- 
+
+---
 
 ## Working materials
 
-- Bug bounty playbook 
+- Bug bounty playbook
 
 (please add as much information as possible before the sessions)
-
-
-

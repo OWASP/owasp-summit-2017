@@ -9,10 +9,11 @@ status       : done
 when-day     : Mon
 when-time    : PM-1
 location     : Room-6
-room-layout  : cabaret 
+room-layout  : cabaret
 organizers   : Anders Reeves
 participants : Dinis Cruz, Francois Raynaud, Phil Parker, Stuart Gunter, Don Gibson, Robert Morschel,Neil Barlow, Steven van der Baan, Bjoern Kimminich
 invited      : Kevin Fielder, Dilek Koluman, Clare Creeden
+outcomes     : mapped
 ---
 
 ## Why
@@ -28,8 +29,8 @@ This Working Session will discuss some aspects of GDPR, including the role of th
  - DPOs (and DPOs Service providers)
  - CISOs
  - Heads of InfoSec
- 
- 
+
+
 ## Outcomes
 
 - Generate the list of 10 questions for the ICO to clarify the implications for AppSec specifically

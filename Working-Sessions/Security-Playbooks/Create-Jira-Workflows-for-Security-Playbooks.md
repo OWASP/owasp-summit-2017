@@ -6,11 +6,12 @@ track        : Security Playbooks
 technology   : Jira
 related-to   :
 status       : final stage; need-working materials
-when-day     : 
-when-time    : 
-location     : 
+when-day     :
+when-time    :
+location     :
 organizers   :
 participants : Irene Michlin,Duncan Hurwood
+outcomes     : not-found
 ---
 
 ## Why
@@ -28,7 +29,7 @@ This Working Session will discuss and create JIRA workflows for security playboo
  - Create Jira Workflows for Security Playbooks
  - Create examples of those Workflows in action
  - Publish them to Jira marketplace
- 
+
 ## Outcomes
 
 - Jira Workflows for Security Playbooks, published to Jira marketplace
@@ -38,8 +39,8 @@ This Working Session will discuss and create JIRA workflows for security playboo
 The target audience for this Working Session is:
 
  - Security teams
- 
---- 
+
+---
 
 ## Working materials
 

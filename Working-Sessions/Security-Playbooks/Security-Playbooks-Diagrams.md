@@ -10,7 +10,8 @@ when-day     : Mon
 when-time    : PM-2
 location     : Room-5
 organizers   : Jason Li
-participants : Steven Wierckx, Robert Grace, 
+participants : Steven Wierckx, Robert Grace,
+outcomes     : mapped
 ---
 
 ## Why
@@ -35,7 +36,7 @@ Threat Connect also looks interesting:
 ## What
 
  - Create and publish multiple Security Playbooks Diagrams
- 
+
 ## Outcomes
 
 - Diagrams of Security Playbooks published
@@ -44,14 +45,14 @@ Threat Connect also looks interesting:
 
 We discussed how best to visualise the information contained in a playbook, realising that without data, we are restricted to process flows.
 
-OWASP is proactive, but we recognise that certain situations are reactive by nature – you can only start to solve a problem after it has manifested. 
+OWASP is proactive, but we recognise that certain situations are reactive by nature – you can only start to solve a problem after it has manifested.
 
 We agreed that Playbooks should include process diagrams, but only where necessary.  It is difficult to come up with diagrams without data, and data usually comes after the playbook has been followed (e.g., pen-test, bug bounty).
 
-We also agreed that we should create iconography for different audiences to help readers define the scope of the playbook:  either 
+We also agreed that we should create iconography for different audiences to help readers define the scope of the playbook:  either
 
 - The buyer or end-user, or
-- The person who has to follow the process, or 
+- The person who has to follow the process, or
 - The person who has to take the result of the process and deal with the outcome (analyse, distil, process).
 
 ## Who
@@ -67,12 +68,12 @@ We also agreed that we should create iconography for different audiences to help
  - [ThreatConnect Playbook Actions: Be More Efficient and Gain Control with Automated Actions](https://threatconnect.com/blog/threatconnect-playbook-actions/)
  - [Playbooks](https://blog.phantom.us/category/playbooks/) related posts in Phantom's website
  - [COPS - Collaborative Open Playbook Standard](https://github.com/demisto/COPS)
- 
- --- 
+
+ ---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 ### Content
 
@@ -89,7 +90,3 @@ Here are the current 'work in progress' materials for this session
 
 
 #### 5. Conclusion
-
-
-
-

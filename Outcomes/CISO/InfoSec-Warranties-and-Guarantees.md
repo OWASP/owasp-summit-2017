@@ -1,42 +1,7 @@
 ---
-layout       : blocks/working-session
-title        : InfoSec Warranties and Guarantees
-type         : workshop
-owasp-project: no
-track        : CISO
-technology   :
-related-to   :
-status       : done
-when-day     : Wed
-when-time    : PM-1
-location     : Room-4
-organizers   : Yan Kravchenko
-participants : Tiffany Long
-outcomes     : mapped
+layout   : blocks/page-content
+title    : InfoSec Warranties and Guarantees
 ---
-
-99.9% of current InfoSec vendors do not offer any warranties or guarantees. Although offering them presents a unique opportunity for them to differentiate themselves from competitors, they simply do not want the liability.
-
-## Why
-
-In the absence of warranties and guarantees, customers are facing the following challenges:
-- Lack of guarantees makes it difficult to differentiate effective solutions from those that are less effective.
-- No warranties or guarantees makes it impossible to justify the cost of InfoSec products to management.
-- Without guarantees or warranties, customers find it hard to trust their InfoSec vendors since they are not accountable for the performance of their products.
-
-This Working Session will examine the need for InfoSec warranties and guarantees, and how they might be designed and implemented.
-
-
-## What
-
- - Are warranties and guarantees in InfoSec inevitable?
- - How to make warranties and guarantees work
- - What should be covered?
- - Should governments have a role in (for example) providing 'Cyber Insurance' for 'well-behaved companies'?
- - The roles of labels and market forces
- - Are we in a 'market for lemons'?
- - The role of Government Agencies
- - What lessons can be learned from the Food and Public Safety agencies (and activities)?
 
 ## Outcomes
 

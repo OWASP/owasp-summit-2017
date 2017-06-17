@@ -3,7 +3,6 @@ layout   : blocks/page-content
 title    : Security Playbooks Diagrams
 ---
 
-
 ## Outcomes
 
 - Diagrams of Security Playbooks published
