@@ -1,6 +1,6 @@
 ---
 layout   : blocks/page-content
-title    : GDPR letter
+title    : GDPR and DPO AppSec implications
 ---
 
 _Add recepients_
@@ -94,4 +94,3 @@ Legal Leads
 Data Owners
 
 Pseudonymisation - Consider a situation where an organisation hashes personal data (e.g., email address), is this still considered personal data even though it is not theoretically reversible?  What happens if and when we can break the technology and are able to reverse engineer (even collisions in SHA2 - 256?)?
-

@@ -12,6 +12,7 @@ when-time    : PM-3
 location     : Room-4
 organizers   : Yan Kravchenko
 participants : Dinis Cruz, Francois Faynaud, Fabien Thalgott
+outcomes     : not-found
 
 ---
 
@@ -36,10 +37,10 @@ This Working Session will focus on how well the cyber insurance market is workin
  - Should insurance companies lead the need for common standards and labels?
  - Should governments provide/buy cyber insurance for its citizens and companies?
  - How can organizations like OWASP work with insurance companies?
- 
+
 ## Outcomes
 
-This Working Session will produce a document which will cover common cyber insurance terms and explain the cost-effectiveness of cyber insurance. 
+This Working Session will produce a document which will cover common cyber insurance terms and explain the cost-effectiveness of cyber insurance.
 
 ## Who
 
@@ -47,7 +48,7 @@ The target audience for this Working Session is:
 
  - Insurance Companies
  - CISO
- 
+
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):

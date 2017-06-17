@@ -7,11 +7,12 @@ track        : CISO
 technology   :
 related-to   : Cyber Insurance,Education
 status       : needs more content
-when-day     : 
-when-time    : 
-location     : 
+when-day     :
+when-time    :
+location     :
 organizers   : Yan Kravchenko
 participants : Tiffany Long
+outcomes     : not-found
 ---
 
 ## Why
@@ -30,7 +31,7 @@ This Working Session will consider the size and potential of the AppSec market, 
  - Is the market size a reflection that currently the number of 'damaging' attacks is still (relatively) small and that companies can safely afford not to invest in AppSec?
  - What is the role of Open Source tools in the AppSec market?
  - Are patents and 'technology lock' good or bad for the industry?
- 
+
 ## Outcomes
 
 ...add content...
@@ -40,7 +41,7 @@ This Working Session will consider the size and potential of the AppSec market, 
  - OWASP Community
  - AppSec professionals
  - [Jeremiah Grossman](https://twitter.com/jeremiahg)
- 
+
 ---
 
 ## Working materials

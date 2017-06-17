@@ -11,6 +11,7 @@ when-time    : AM-1
 location     : Room-1
 organizers   : Dinis Cruz,Ante Gulam,Francois Raynaud
 participants :
+outcomes     : not-found
 ---
 
 ## Why
@@ -34,10 +35,10 @@ This Working Session aims to discuss and agree a first draft of 'AppSec Article 
  - Quickly review current similar efforts and learn from what worked and what didn't work (i.e. no need to re-invent the wheel)
  - Create a first definition of AppSec Article 5 (with rules of engagement)
  - Create a first list of companies that will sign the first version
- 
+
 ## Outcomes
 
-- Create one page document with the statement supported by FAQ 
+- Create one page document with the statement supported by FAQ
 - Commitment to go to the boards for commitment
 - Signed letter of intent (CISO's and Heads of)
 
@@ -52,7 +53,7 @@ The target audience for this Working Session is:
  - [Collective defence - Article 5](http://www.nato.int/cps/cn/natohq/topics_110496.htm)
 
 
---- 
+---
 
 ## Working materials
 

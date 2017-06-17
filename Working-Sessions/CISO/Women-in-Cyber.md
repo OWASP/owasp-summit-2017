@@ -5,7 +5,7 @@ type         : workshop
 layout       : blocks/working-session
 track        : CISO
 technology   :
-related-to   : 
+related-to   :
 status       : done
 when-day     : Fri
 when-time    : AM-1
@@ -14,6 +14,7 @@ room-layout  : unknown
 organizers   : Tiffany Long
 participants : Neil Barlow (remotely),Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari, Mamta Vuppu
 room-layout  : square
+outcomes     : not-found
 ---
 
 
@@ -51,8 +52,8 @@ The target audience for this Working Session is:
  - Philosophers
  - Organisational and learning specialists
  - Educators
- 
- --- 
+
+ ---
 
 ## Working materials
 
