@@ -13,6 +13,7 @@ organizers   : Anders Reeves
 panelists    : Ante Gulam, Dinis Cruz,Kevin Fielder
 participants : Mateo Martinez,Ingo Hanke,Francois Raynaud
 invited      : Asadur Rahman
+outcomes     : mapped
 ---
 
 Round-table of CISO (and future CISOs) to share ideas on what is going on at this level
