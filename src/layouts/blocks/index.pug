@@ -4,15 +4,11 @@ html
         | {% include page/header.html                   %}
     body
         | {% include page/menu.html                     %}
-        | {% include blocks/during-summit.html          %}
-        | {% include blocks/remote.html                 %}
-        | {% include schedule/summit-day-by-room.html   %}
+        | {% include blocks/post-summit.html          %}
         | {% include blocks/summit-intro.html           %}
         .featured-ws
             .container
                 | {% include blocks/tracks.html         %}
                 | {% include blocks/topics.html         %}
-        | {% include blocks/featured-ws.html            %}
-        | {% include blocks/get-your-ticket.html        %}
         | {% include page/footer.html                   %}
         | {% include page/google-analytics.html         %}
