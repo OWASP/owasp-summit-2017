@@ -11,6 +11,7 @@ when-time    : AM-1
 location     : Room-2
 organizers   : Dave Wichers, Andrew Van Der Stock
 participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessler, Erez Yalon, Jason Li, Jonas vanalderweireldt, Kevin Greene, Sandor Lenart, Tiffany Long, Torsten Gigler, Josh Grossman
+outcomes     : mapped
 ---
 
 ## Why
@@ -18,9 +19,9 @@ participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessle
 
 ## What
 
-This session is to peer review the existing text that will go forward without major change. I don't think a lot of the more vocal critics have actually read the entire Top 10, so let's apply a strong macro lens on the other items, foreword, and any additional material. 
+This session is to peer review the existing text that will go forward without major change. I don't think a lot of the more vocal critics have actually read the entire Top 10, so let's apply a strong macro lens on the other items, foreword, and any additional material.
 
-## Outcomes 
+## Outcomes
 
 
 
@@ -32,8 +33,6 @@ The target audience for this Working Session is:
 
 ## References
 
---- 
+---
 
 ## Working materials
-
-

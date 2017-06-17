@@ -7,12 +7,13 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : out
-when-day     : 
-when-time    : 
+when-day     :
+when-time    :
 location     : Room-2
 remote-link  : INSERT-LINK
 organizers   : Dave Wichers
 participants : Johan Peeters
+outcomes     : mapped
 ---
 
 Built using well-known techniques and being able to leverage existing infrastructures, the popularity of APIs is on a constant rise. Still, being fundamentally different, APIs come with a completely new risk profile.
@@ -31,8 +32,8 @@ The OWASP Top 2017 introduces Underprotected APIs as a new Top 10 category, and 
  - Review current description and text
  - What are the pros and cons of this category?
  - Is this category important enough to be added to the new Top 10?
- 
-## Outcomes 
+
+## Outcomes
 
 This Working Session will decide whether the Underprotected APIs category will be added to the Top 10.
 
@@ -46,7 +47,7 @@ The target audience for this Working Session is:
  - Application developers
  - Application architects
 
---- 
+---
 
 ## Working materials
 

@@ -5,11 +5,12 @@ type         : workshop
 owasp-project: yes
 track        : Owasp Top 10 2017
 status       : out
-when-day     : 
-when-time    : 
-location     : 
+when-day     :
+when-time    :
+location     :
 organizers   : Dave Wichers
 participants : Brian Glas,Felipe Zipitria,Mateo Martinez,Francois Raynaud,Stuart Gunter
+outcomes     : mapped
 ---
 
 ## Why
@@ -30,7 +31,7 @@ hot topics need further discussion and debate.
 - _.... What else should be covered in this Working Session?...._
 
 ## Outcomes
- 
+
 ... Add content ...
 
 ## Who
@@ -41,7 +42,7 @@ The target audience for this Working Session is:
 - AppSec teams
 - Tool vendors
 
---- 
+---
 
 ## Working materials
 
