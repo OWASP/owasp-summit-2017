@@ -2,16 +2,6 @@
 layout   : blocks/page-content
 title    : Playbooks Common Format
 ---
-## Working Session Outcomes
-
-### Attendees
-* Ante Gulam
-* Dinis Cruz
-* Jason Li
-* Matthew Gough
-* Colin Rouse
-* Alexander Antukh
-* Felipe Zipitria
 
 ### Summary
 
