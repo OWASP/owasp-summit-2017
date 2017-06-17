@@ -14,7 +14,7 @@ title    : The Future of Privacy
 
 Wilhelm von Humboldt, 1791: "There is no freedom without security"
 
-**GENERAL**
+**General**
 
 - Privacy is not a legal question! Privacy is a matter for individuals, not the courts!
 
