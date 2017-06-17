@@ -11,14 +11,15 @@ when-time    : PM-3
 location     : Room-5
 organizers   :
 participants : Tiffany Long, Jonas Vanalderweireldt
+outcomes     : not-found
 ---
 
 A [Playbook](https://en.wikipedia.org/wiki/Playbook) can be
-> "A document defining one or more business process workflows aimed at ensuring a consistent response to situations commonly encountered during the operation of the business" (Wikipedia) 
+> "A document defining one or more business process workflows aimed at ensuring a consistent response to situations commonly encountered during the operation of the business" (Wikipedia)
 
 ## Why
 
-The Cisco security blog describes a Playbook in the following way: 
+The Cisco security blog describes a Playbook in the following way:
 
 > "... To be clear, the Playbook is for organizing and documenting security monitoring. It isn’t an incident response handbook or a policy document or any other type of security document or handbook. The Playbook may reference things like the Incident Response Handbook or Acceptable Use Policy, but it isn’t a replacement for these...."
 
@@ -34,22 +35,22 @@ This Working Session will discuss and clarify these issues with the aim of agree
 
  - Clarify concepts
  - Agree on definition of Playbook
- 
+
 ## Outcomes
 
-- Agreed definition of Playbook 
+- Agreed definition of Playbook
 
 ## Who
 
 The target audience for this Working Session is:
 
  - Security teams
- 
---- 
+
+---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
@@ -68,4 +69,3 @@ Here are the current 'work in progress' materials for this session
 
 
 #### 5. Conclusion
-

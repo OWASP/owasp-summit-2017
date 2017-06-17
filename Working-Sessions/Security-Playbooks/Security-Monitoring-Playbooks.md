@@ -11,6 +11,7 @@ when-time    : PM-3
 location     : Room-5
 organizers   : Johan Peeters
 participants : Johan Peeters
+outcomes     : not-found
 ---
 
 ## Why
@@ -31,7 +32,7 @@ The Working Session will create Security Monitoring Playbooks.
 ## What
 
  - Create Security Monitoring Playbooks for use by the Community
- 
+
 ## Outcomes
 
 - Security Monitoring Playbooks
@@ -46,12 +47,12 @@ The target audience for this Working Session is:
 ## References
 
  - [Using a “Playbook” Model to Organize Your Information Security Monitoring Strategy](http://blogs.cisco.com/security/using-a-playbook-model-to-organize-your-information-security-monitoring-strategy)
- 
- --- 
+
+ ---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
