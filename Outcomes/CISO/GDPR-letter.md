@@ -6,9 +6,6 @@ title    : GDPR and DPO AppSec implications
 
 ### Synopsis and takeaways
 
-
-## Questions
-
 **PII**
 
   - In the event of a data breach when the IP address is an Indicator of Compromise (IOC), and that IP address is not specifically tied to a user, is it still considered PII?
@@ -38,7 +35,7 @@ Example Scenario: an organisation uses a free tier (or educational/charitable) v
 - Should security be mandatory on Wi-Fi networks?
 - What type of evidence is required in the event of a data breach to prove due diligence (process vs. pentest reports)?
 - Subjects rights
-   The right to be forgotten.
+   - The right to be forgotten.
 - Are data backups in scope?
 - What if the data backup is the source of the breach?
 
@@ -68,7 +65,7 @@ You must notify the ICO of a breach only where it is likely to result in a risk 
 - Do you need consent to record an IP Address?
 - What is “legitimate business context”?
 
-As an IP address is not necessary unique to a person, at what point does it become PII? See the following scenarios:
+As an IP address is not necessarily unique to a person, at what point does it become PII? See the following scenarios:
 
   - IP address
   - IP address from known Proxy / TOR / UPA, etc.
