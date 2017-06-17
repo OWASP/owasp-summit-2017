@@ -14,25 +14,25 @@ title    : The Future of Privacy
 
 Wilhelm von Humboldt, 1791: "There is no freedom without security"
 
---- A. GENERAL ---
+**GENERAL**
 
-A.1 It's not a legal question! Privacy as matter for individuals, not courts!
+- Privacy is not a legal question! Privacy is a matter for individuals, not the courts!
 
-A.2 It's not question of compliance (of companies, organizations, etc)!
+- Privacy is not question of compliance (of companies, organisations, etc.)!
 
-A.3 It's not a question of identifiability: we assume here that you ARE identifiable!
+- Privacy is not a question of identifiability: we assume here that you ARE identifiable!
 
-A.4 Review resources: are there resources for privacy which
+- Review resources: are there resources for privacy which
 
 	- list types of privacy items
 
-	- deliver categorys of privacy
+	- deliver categories of privacy
 
---- B. RISKS ----
+**Risks**
 
-B.1 Types of privacy / personal data (brain storming)
+- Types of privacy / personal data (brain storming)
 
-   including criticality (high | medium |low | none)
+  - including criticality (high | medium |low | none)
 
 	- Name
 	- Gender
@@ -47,59 +47,52 @@ B.1 Types of privacy / personal data (brain storming)
 	- Salary
 	- Property
 	- Passport data
-	- Biometric data, e.g. Thumbprint
+	- Biometric data, e.g. thumbprint
 	- Social security number / health insurance ID
-	- IP-Address
+	- IP-address
 	- Cookies
-	- Credit-Card numbers
+	- Credit-card numbers
 	- Bank account numbers
 	- Health data
-	- DNA-profile
+	- DNA profile
 	- Live style data / tracking
         - Location data / movement profiles
 	- Consumer data
 	- Digital signatures
 	- Digitally stored manual signatures (e.g. signature pads)
 	- Criminal records
-	- Political, religious or philosophical beliefs
+	- Political, religious, or philosophical beliefs
 
-B.2 Categories of privacy / personal data (brain storming)
+**Categories of privacy / personal data (brain storming)**
 
-	Main categories:
-	- Personal identifiable information (PII)
-	- Sensitive personal information (SPI) [context dependend]
+   Main categories:
+     - Personal identifiable information (PII)
+     - Sensitive personal information (SPI) [context dependent]
 
-Sub categories:
-	- Legally relevant data
-	- Insurance relevant data
-	- Socially relevant data
-	- Financial data
+  **Sub categories:**
 
---- C. CONTROLS & MEASURES (WEB-APPS) ---
+     - Legally relevant data
+     - Insurance relevant data
+     - Socially relevant data
+     - Financial data
 
-C.1 Browser technology: what should be improved (not: what is technical possible and not what vendors like to do)
+**Controls and Measures (Web-Apps)**
 
-C.2 Rules for apps: privacy by design
+- Browser technology: what should be improved (not: what is technical possible and not what vendors like to do)
+- Rules for apps: privacy by design
+- Automated information to individuals, not on request (e.g. once a year etc.)
 
-C.3 Automated information to individuals, not on request (e.g. once a year etc)
+**Future Trends**
 
---- D. FUTURE TRENDS ---
+- Are there technical solutions conceivable, which help individuals to collect?
 
-D.1 Are there technical solutions conceivable, which help individuals to collect
+      - Who has which type of personal data stored?
+      - Where is it stored?
 
-   - Who has which type of personal data stored
-   - Where is it stored?
+- This concerns "white hats": companies, organisations, and governments who have stored data.
 
-   This concerns "white hats", that is, companies, organizations, and governments who have stored data.
+- The "black hats" (criminal individuals or gangs) are not our focus here.
 
-   The "black hats" (criminal individuals or gangs) are not in focus here.
-
-
-## Who
-
-The target audience for this Working Session is:
-
-- Everyone who cares about privacy.
 
 ## References:
 
