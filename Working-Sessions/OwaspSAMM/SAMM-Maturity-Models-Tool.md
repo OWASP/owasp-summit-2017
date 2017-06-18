@@ -13,6 +13,7 @@ remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout   : unknown
 organizers    : Dinis Cruz
 participants  : Sebastien Deleersnyder, Yan Kravchenko,Irene Michlin, Viktor Lindstrom, Phil Parker, Mateo Martinez, Brian Glas, Bart De Win
+outcomes     : not-found
 ---
 
 See https://github.com/owasp/Maturity-Models for more details on this project
@@ -21,7 +22,7 @@ See https://github.com/owasp/Maturity-Models for more details on this project
 
  - Sharing data collected
  - Improving visualizations and data mappings
- 
+
 ## Outcomes
 
 - Maturity Model Tool Cheatsheet
@@ -42,7 +43,7 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
@@ -50,4 +51,3 @@ Here are the current 'work in progress' materials for this session
 
 - Review current used tools for Maturity Model
 - Review current OpenSAMM status and requirements
-

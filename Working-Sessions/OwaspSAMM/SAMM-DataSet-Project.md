@@ -12,6 +12,7 @@ remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Tiffany Long
+outcomes     : mapped
 ---
 
 Follow-up of the Benchmark project
@@ -30,7 +31,7 @@ As a community, we are long overdue a standard way of collecting SAMM results to
 
 ### Synopsis and Takeaways
 
-- The Dataset Project was unanimously agreed upon to be a key project for OWASP and is worth pursuing. 
+- The Dataset Project was unanimously agreed upon to be a key project for OWASP and is worth pursuing.
 - The Dataset project is key to the SAMM project as a whole
 - For the project to progress steadily it is important to collect names that are willing to contribute to the project consistently
 - Create a survey that is to be sent via the "SAMM users mailing list", in order to gain valuable information about what users want from the Dataset
@@ -45,11 +46,11 @@ The target audience for this Working Session is:
 - DevOps Roles
 - CISO
 
---- 
+---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 

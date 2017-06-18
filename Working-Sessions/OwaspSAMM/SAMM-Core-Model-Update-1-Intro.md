@@ -11,6 +11,7 @@ location     : Room-3
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Fabien Thalgott
+outcomes     : not-found
 ---
 
 SAMM core model update sessions. Review and improve the 12 SAMM practices towards SAMM v2.0 draft (based on the notes of last year's summit and the SAMM calls).
@@ -38,11 +39,11 @@ The target audience for this Working Session is:
 - DevOps Roles
 - CISOs
 
---- 
+---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 

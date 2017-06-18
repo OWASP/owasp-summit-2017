@@ -12,6 +12,7 @@ remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
+outcomes     : mapped
 ---
 
 Improve the promotion of SAMM
@@ -45,8 +46,8 @@ The target audience for this Working Session is:
  - Security architects
  - DevOps Roles
  - CISOs
- 
- --- 
+
+ ---
 
 ## Working materials
 
