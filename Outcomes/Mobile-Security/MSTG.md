@@ -99,6 +99,6 @@ Contributors are added to the acknowledgements table based on their contribution
 - Mini-contributor: Everything below 50 additions, e.g. committing a single word or sentence.
 - Reviewer: People that haven't submitted their own pull requests, but have created issues or given useful feedback in other ways.
 
-Please ping us or create a pull request if you are missing from the table or in the wrong column (note that we update the table frequently, but not in realtime).
+Please ping us or create a pull request if you are missing from the table or in the wrong column (note that we update the table frequently, but not in real time).
 
-If you are willing to write a large portion of the guide and help consistently drive the project forward, you can join as an author. Be aware that you'll be expected to invest lots of time over several months. Contact [Bernhard Mueller](https://twitter.com/muellerberndt) (Slack: *bernhardm*) for more information.
+If you are willing to write a large portion of the guide and help drive the project forward, you can join as an author. Be aware that you'll be expected to invest lots of time over several months. Contact [Bernhard Mueller](https://twitter.com/muellerberndt) (Slack: *bernhardm*) for more information.
