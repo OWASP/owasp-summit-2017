@@ -8,10 +8,11 @@ related-to   :
 status       : done
 organizers   :
 participants :
+outcomes     : mapped
 ---
-According to Verizon´s 2016 Data Breach Investigations Report, web application attacks are one of the leading causes of data breaches. Still, many organizations find it hard to protect themselves simply because they don´t know where to start. 
+According to Verizon´s 2016 Data Breach Investigations Report, web application attacks are one of the leading causes of data breaches. Still, many organizations find it hard to protect themselves simply because they don´t know where to start.
 
-Can OWASP Top 10 become their starting point? 
+Can OWASP Top 10 become their starting point?
 
 ## Why
 
@@ -24,7 +25,7 @@ This Working Session will explore how setting security policies based on OWASP T
  - Map cases where Top 10 was abused (in its use or in product's marketing)
  - Normalise data and find patterns
  - Provide recommendations for new Top 10 (aligned to how it is used)
- 
+
 ## Outcomes
 
 - Recommendations for Top 10 2017
@@ -38,7 +39,7 @@ The target audience for this Working Session is:
 •	Product/Service vendors
 •	Organisations that recommend the use of OWASP Top 10
 
---- 
+---
 
 ## Working materials
 
@@ -50,4 +51,3 @@ The target audience for this Working Session is:
 <a href="http://www.verizonenterprise.com/resources/reports/rp_DBIR_2016_Report_en_xg.pdf>Verizon´s 2016 Data Breach Investigations Report</a>
 <a href="http://www.darkreading.com/application-security/new-owasp-top-10-reveals-critical-weakness-in-application-defenses/a/d-id/1328751>New OWASP Top 10 Reveals Critical Weakness in Application Defenses</a>
 <a href="https://snyk.io/blog/owasp-top-10-breaches/>OWASP Top 10 Breaches</a>
-

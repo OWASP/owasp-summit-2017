@@ -2,14 +2,15 @@
 layout       : blocks/working-session
 title        : peer review of existing text
 type         : workshop
-description  : 
+description  :
 track        : Owasp Top 10 2017
 status       : draft
-when-day     : 
-when-time    : 
-location     : 
-organizers   : 
-participants : 
+when-day     :
+when-time    :
+location     :
+organizers   :
+participants :
+outcomes     : mapped
 ---
 
 This session is for peer review of existing text that will go forward without major changes.
@@ -22,17 +23,17 @@ Many of the more vocal critics may not have read the entire Top 10, so we need t
 
  ... Add content ...
 
-## Outcomes 
+## Outcomes
 
 ... Add content ...
- 
+
 ## Who
 
 The target audience for this Working Session is:
 
 ... Add content ...
 
---- 
+---
 
 ## Working materials
 

@@ -11,7 +11,8 @@ when-time    : AM-1
 location     : Room-2
 remote       : https://hangouts.google.com/hangouts/_/owasp.org/summit-room-2
 organizers   : Dave Wichers, Andrew Van Der Stock
-participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessler, Erez Yalon, Jason Li, Jonas vanalderweireldt, Kevin Greene, Nuno Loureiro, Sandor Lenart, Tiago Mendo, Tiffany Long, Torsten Gigler, Robert Grace, Phil Parker, Josh Grossman 
+participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessler, Erez Yalon, Jason Li, Jonas vanalderweireldt, Kevin Greene, Nuno Loureiro, Sandor Lenart, Tiago Mendo, Tiffany Long, Torsten Gigler, Robert Grace, Phil Parker, Josh Grossman
+outcomes     : mapped
 ---
 
 ## Why
@@ -19,23 +20,23 @@ participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessle
 
 ## What
 
-How does the OWASP Top 10 get made, let's discuss and define. 
-There's a reason why the OWASP Top 10 is what it is, but there needs to be transparency and a defined path for OWASP Top 10 project members and data call participants. 
-Let's work on this so we can define the way forward for the 2017, 2020 and 2023 OWASP Top 10. 
- 
-## Outcomes 
+How does the OWASP Top 10 get made, let's discuss and define.
+There's a reason why the OWASP Top 10 is what it is, but there needs to be transparency and a defined path for OWASP Top 10 project members and data call participants.
+Let's work on this so we can define the way forward for the 2017, 2020 and 2023 OWASP Top 10.
+
+## Outcomes
 
 - What should the next releases of the OWASP Top 10 look like?
 - What should be the process underlying the next versions of the OWASP Top 10?
 
 ### Synopsis and Takeaways
 
-In the first session, we talked about the history of the OWASP Top 10, and how it evolved over time. 
-In 2004, there was no data backing the standard. In 2007, we used only CVE data for the analysis, and we used our judgement to fit in CSRF as an issue. In 2010 and 2013, the forward-looking issue was out of date components, which on one analysis of the OWASP Top 10 to breach data represents a full 24% of all data breaches. Therefore, there should always be room for forward-looking inclusions. 
+In the first session, we talked about the history of the OWASP Top 10, and how it evolved over time.
+In 2004, there was no data backing the standard. In 2007, we used only CVE data for the analysis, and we used our judgement to fit in CSRF as an issue. In 2010 and 2013, the forward-looking issue was out of date components, which on one analysis of the OWASP Top 10 to breach data represents a full 24% of all data breaches. Therefore, there should always be room for forward-looking inclusions.
 
 - Our audience is everyone in appsec, not just developers.
 
-- The basis for the OWASP Top 10 is "risks". Andrew van der Stock suggested we adopt the ISO 31000:2015 standard definition for risk, so that we have the same understanding as risk managers in most parts of the world. 
+- The basis for the OWASP Top 10 is "risks". Andrew van der Stock suggested we adopt the ISO 31000:2015 standard definition for risk, so that we have the same understanding as risk managers in most parts of the world.
 
 - We will document the rationale for the OWASP Top 10 on the wiki, and possibly at least a part of it in the document this year. This will be the same rationale / process going forward for 2020 and 2023.
 
@@ -52,11 +53,11 @@ The target audience for this Working Session is:
 
 ## References
 
---- 
+---
 
 ## Working materials
 
-## Initial Brainstorm 
+## Initial Brainstorm
 (from [Josh Grossman](https://owaspsummit.org/Participants/remote/Josh-Grossman.html))
 
 ### What should the OWASP Top 10 look like? [issue 8](https://github.com/OWASP/Top10/issues/8)

@@ -14,6 +14,7 @@ room-layout  : cabaret
 participants :
 invited      : Ade Yoseman Putra, Amani Altarawneh, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Victor Vidigal Ribeiro, Viktor Lindstrom
 cant-make-it : Dinis Cruz
+outcomes     : mapped
 ---
 
 ## Why

@@ -10,7 +10,8 @@ when-day     : Wed
 when-time    : PM-1
 location     : Room-2
 organizers   : Dave Wichers, Andrew Van Der Stock
-participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessler, Erez Yalon, Jason Li, Jonas vanalderweireldt, Kevin Greene, Nuno Loureiro, Sandor Lenart, Tiago Mendo, Tiffany Long, Torsten Gigler, Josh Grossman 
+participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessler, Erez Yalon, Jason Li, Jonas vanalderweireldt, Kevin Greene, Nuno Loureiro, Sandor Lenart, Tiago Mendo, Tiffany Long, Torsten Gigler, Josh Grossman
+outcomes     : mapped
 ---
 
 ## Why
@@ -20,7 +21,7 @@ participants : Amani Altarawneh, Chris Cooper, Christian DeHoyos, Daniel Miessle
 
 Let's work through any community feedback that has been received and work through *constructive* and *positive* feedback, coming up with a consensus view of a RC2 OWASP Top 10. I want these to be logged as GitHub issues so that we can work through creating an RC2 draft by the end of the week with agreed community feedback implemented.  
 
-## Outcomes 
+## Outcomes
 
 
 
@@ -32,8 +33,6 @@ The target audience for this Working Session is:
 
 ## References
 
---- 
+---
 
 ## Working materials
-
-

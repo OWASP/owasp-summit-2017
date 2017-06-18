@@ -8,6 +8,7 @@ related-to   : OWASP Proactive Controls
 status       : draft
 organizers   :
 participants :
+outcomes     : mapped
 ---
 
 There are multiple OWASP Top 10 lists, we need to synchronize them with the new 2017 release of the main Top 10
@@ -23,7 +24,7 @@ new 'community-supported top 10' will generate
 
 ... add content ...
 
-## Outcomes 
+## Outcomes
 
 ... add content ...
 
@@ -31,7 +32,7 @@ new 'community-supported top 10' will generate
 
 ... add content ...
 
---- 
+---
 
 ## Working materials
 

@@ -5,41 +5,33 @@ title    : InfoSec Warranties and Guarantees
 
 ## Outcomes
 
-This Working Session will try to answer the question whether security companies should issue guarantees and warranties and provide a set of guidelines on how they should be designed and implemented.
+This Working Session will try to answer the question of whether security companies should issue guarantees, warranties, and provide a set of guidelines on the design and implementation of warranties and guarantees.
 
 ### Synopsis and Takeaways
 
-Decisions on purchasing security products with Cyber Insurance should not be based solely on the warranty (no matter how good it seems). Some Warranties may only cover secondary insurance that can cost the policyholder thousands if not millions.
+Decisions on purchasing security products with cyber insurance should not be based solely on the warranty, no matter how good it seems. Some warranties may only cover secondary insurance that can cost the policyholder thousands if not millions.
 
-Reliance on warranties requires scrutiny, equivalent to buying cyberinsurance; however, warranties could be seen as a marketing ploy. It is normally not worth investigating a warranty for a product when the cost of the investigation is weighed against the cost of the initial cover. Normally negotiating warranty contracts can achieve more favourable terms. Collecting information on companies that have submitted claims and the results of the claims process would prove useful.
+Reliance on warranties requires the same scrutiny as buying cyber insurance; however, warranties could be a marketing ploy. It is normally not worth investigating a warranty for a product when the cost of the investigation is weighed against the cost of the initial cover. Normally, negotiating warranty contracts can achieve more favourable terms. Collecting information on companies that have submitted claims, and the results of the claims, would be useful.
 
 ### Warranties should include:
 
-- Provide data to backup marketing claims
+- Data to backup marketing claims
 - Independently validated data
-- Monetary value at least equivalent to what was paid at the point of deployment.
-- Refunds, not credit for more services from the same vender
-- Should not be conditional based on incident response or other internal procedures
-- Include the right to breach the contract (Termination Clause)
+- Monetary value at least equivalent to what was paid at the point of deployment
+- Refunds, not credit for more services from the same vendor
+- The right to breach the contract (Termination Clause)
 
-You cannot make decisions based purely on warranty claims.
+Warranties should not be conditional on incident responses or other internal procedures. 
+
+You cannot make decisions purely on warranty claims.
 
 ### Takeaways
 
-Provided marketing data to support claims
-Collecting information about companies that submitted claims and the results of that process would prove useful.
-Warranties that provide something that the policy holder has complete control over such as:
-- Uptime
-- Direct performance indicators
-
-## Who
-
-The target audience for this Working Session is:
-
- - Buyers of InfoSec products and services
- - InfoSec Products and Services providers
- - Government Agencies
- - [Jeremiah Grossman](https://twitter.com/jeremiahg)
+- Provide marketing data to support claims
+- Collecting information about companies that submitted claims and the results of that process would prove useful.
+- Warranties that provide something that the policy holder has complete control over such as:
+  - Uptime
+  - Direct performance indicators
 
 ## References
 

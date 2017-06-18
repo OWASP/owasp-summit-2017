@@ -1,39 +1,7 @@
 ---
-layout       : blocks/working-session
-title        : Juice Shop Live-Release
-type         : workshop
-track        : Juice Shop
-technology   : Node
-description  : Live release of OWASP Juice Shop to publish all the work achievements of the summit and see Travis-CI & friends in action in the process.
-status       : done
-organizers   : Bjoern Kimminich
-when-day     : Fri
-when-time    : AM-1
-locked       : true
-location     : Room-6
-room-layout  : cabaret
-participants :
-invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro, Viktor Lindstrom
-outcomes     : mapped
+layout   : blocks/page-content
+title    : Juice Shop Update
 ---
-
-## Why
-
-> [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project "OWASP Juice Shop Project")
-> is an intentionally insecure webapp for security training written
-> entirely in JavaScript and which encompasses the entire OWASP Top Ten
-> and other severe security flaws. Juice Shop is written in Node.js,
-> Express, and AngularJS. The application contains more than 30
-> challenges of varying difficulty where the user should exploit the
-> underlying vulnerabilities. Apart from being useful for hacker and
-> awareness training, pentesting proxies or security scanners can also
-> use Juice Shop as a "guinea pig" application to check how well their
-> tools cope with JavaScript-heavy application frontends and REST APIs.
-
-![Travis-CI](https://cdn.travis-ci.com/images/logos/TravisCI-Mascot-1-20feeadb48fc2492ba741d89cb5a5c8a.png)
-
-## What
-
 Live release of OWASP Juice Shop to publish all the work achievements of
 the summit and see Travis-CI & friends in action in the process.
 
@@ -90,7 +58,18 @@ git push --follow-tags
 The rest will be done _automagically_ by the build and deployment script for Travis-CI and a small army of GitHub webhooks.
 
 > For the CTF-Extension the commands are identical except for the version being `v1.2.0`.
+- GitHub issues in
+  [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
+- [_Enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+  for Juice Shop CTF-Extension
+- OWASP Juice Shop
+  [Contribution Guidelines](https://github.com/bkimminich/juice-shop/blob/master/CONTRIBUTING.md)
 
-### Content
+[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+- [Project Roadmap](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Road_Map_and_Getting_Involved)
+- GitHub issues in
+  [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
+- [_Enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+  for Juice Shop CTF-Extension
 
-...add content...
+  

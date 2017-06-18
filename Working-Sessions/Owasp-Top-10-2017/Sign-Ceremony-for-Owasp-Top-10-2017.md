@@ -7,11 +7,12 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : out
-when-day     : 
-when-time    : 
-location     : 
+when-day     :
+when-time    :
+location     :
 organizers   : Dave Wichers
 participants :
+outcomes     : mapped
 ---
 The OWASP Top Ten provides a powerful awareness document for web application security. The OWASP Top Ten represents a broad consensus about what the most critical web application security flaws are.
 
@@ -23,7 +24,7 @@ Summit's Working Sessions, participants (both at the Summit and attending remote
 ## What
 
  - Sign the OWASP Top 10 2017 version
- 
+
 ## Outcomes
 
 This Working Session will result in a finalized and signed version of OWASP Top 10 2017.
@@ -37,7 +38,7 @@ The target audience for this Working Session is:
  - Product/Service vendors
  - Organisations that recommend the use of OWASP Top 10
 
---- 
+---
 
 ## Working materials
 
@@ -46,7 +47,7 @@ The target audience for this Working Session is:
 
 ### Content
 
-The release candidate for public comment was published 10 April 2017 and can be downloaded on the link provided in the Working Materials above. 
+The release candidate for public comment was published 10 April 2017 and can be downloaded on the link provided in the Working Materials above.
 
 This release of the OWASP Top 10 marks this project’s fourteenth year of raising awareness of the importance of application security risks. This release follows the 2013 update, whose main change was the addition of 2013-A9 Use of Known Vulnerable Components. We are pleased to see that since the 2013 Top 10 release, a whole ecosystem of both free and commercial tools have emerged to help combat this problem as the use of open source components has continued to rapidly expand across practically every programming language. The data also suggests the use of known vulnerable components is still prevalent, but not as widespread as before. We believe the awareness of this issue the Top 10 - 2013 generated has contributed to both of these changes.
 

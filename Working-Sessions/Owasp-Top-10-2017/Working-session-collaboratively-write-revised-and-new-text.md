@@ -7,11 +7,12 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : draft
-when-day     : 
-when-time    : 
-location     : 
-organizers   : 
-participants : 
+when-day     :
+when-time    :
+location     :
+organizers   :
+participants :
+outcomes     : mapped
 ---
 
 This session is planned to collaboratively outline any revised or new section(s) in Google Docs or GitHub directly.
@@ -24,7 +25,7 @@ This session is planned to collaboratively outline any revised or new section(s)
 
 ... Add content ...
 
- ## Outcomes 
+ ## Outcomes
 
 ... Add content ...
 
@@ -34,7 +35,7 @@ The target audience for this Working Session is:
 
 ... Add content ...
 
---- 
+---
 
 ## Working materials
 
