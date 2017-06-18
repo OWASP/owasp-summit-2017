@@ -3,7 +3,7 @@ layout   : blocks/page-content
 title    : Machine Learning and Security
 ---
 
-##Outcomes
+## Outcomes
 Create common datasets with the purpose of testing and validating of machine learning algorithms security
 - we can use data output of Mod Security, webgoat and others to create the datasets
 - those datasets should be shared
