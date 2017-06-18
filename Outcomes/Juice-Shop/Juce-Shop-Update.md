@@ -2,7 +2,7 @@
 layout   : blocks/page-content
 title    : Juice Shop Update
 ---
-Live release of OWASP Juice Shop to publish all the work achievements of
+Live release of OWASP Juice Shop to publish all the achievements of
 the summit and see Travis-CI & friends in action in the process.
 
 **While the release is underway all the new features in v4.0.0 will be demonstrated!**
@@ -11,7 +11,7 @@ the summit and see Travis-CI & friends in action in the process.
 
 ## Outcomes
 
-This working session will perform a live release utilizing the entire
+This working session performed a live release utilising the entire
 CI/CD stack Juice Shop utilizes:
 
 - New version of Juice Shop live on Heroku:
@@ -32,16 +32,6 @@ CI/CD stack Juice Shop utilizes:
 | [![Code Climate](https://codeclimate.com/github/bkimminich/juice-shop/badges/gpa.svg)](https://codeclimate.com/github/bkimminich/juice-shop)                                | [![Code Climate](https://codeclimate.com/github/bkimminich/juice-shop-ctf/badges/gpa.svg)](https://codeclimate.com/github/bkimminich/juice-shop-ctf)                           |
 | [![bitHound Overall Score](https://www.bithound.io/github/bkimminich/juice-shop/badges/score.svg)](https://www.bithound.io/github/bkimminich/juice-shop)                    | [![bitHound Overall Score](https://www.bithound.io/github/bkimminich/juice-shop-ctf/badges/score.svg)](https://www.bithound.io/github/bkimminich/juice-shop-ctf)               |
 | [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop)](https://juice-shop.herokuapp.com)                                                                           |                                                                                                                                                                                |
-
-## Who
-
-The target audience for this Working Session is:
-
-- everyone who was involved any Juice Shop-related session throughout
-  the summit
-- everyone who'd like to see the power of CI/CD automation with GitHub,
-  Travis-CI and friends
-
 ---
 
 ## Working materials
