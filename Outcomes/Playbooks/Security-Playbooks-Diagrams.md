@@ -11,17 +11,18 @@ title    : Security Playbooks Diagrams
 
 We discussed how best to visualise the information contained in a playbook, realising that without data, we are restricted to process flows.
 
-OWASP is proactive, but we recognise that certain situations are reactive by nature – you can only start to solve a problem after it has manifested.
+OWASP is proactive, but we recognise that certain situations are reactive by nature – you can only start to solve a problem when the problem occurs.
 
-We agreed that Playbooks should include process diagrams, but only where necessary.  It is difficult to come up with diagrams without data, and data usually comes after the playbook has been followed (e.g., pen-test, bug bounty).
+We agreed that playbooks should include process diagrams, but only where necessary.  It is difficult to come up with diagrams without data, and data usually comes after the playbook has been followed (e.g., pen-test, bug bounty).
 
-We also agreed that we should create iconography for different audiences to help readers define the scope of the playbook:  either
+We also agreed that we should create iconography for different audiences to help readers define the scope of the playbook. The audiences could include:
 
-- The buyer or end-user, or
-- The person who has to follow the process, or
-- The person who has to take the result of the process and deal with the outcome (analyse, distil, process).
+- The buyer or end-user
+- The person who follows the process
+- The person who takes the result of the process and deals with the outcome (analyse, distil, process).
 
-### Diagrams
+**Diagrams**
+
 Ayehu's site has a really good example of what these diagrams could look like:
 
 [![](https://ayehu.com/wp-content/uploads/2016/05/Multiple-Logins-Detected-color.png)](https://ayehu.com/wp-content/uploads/2016/05/Multiple-Logins-Detected-color.png)
@@ -35,10 +36,6 @@ Threat Connect also looks interesting:
 
 [![](https://threatconnect.com/wp-content/uploads/image00-24.png)](https://threatconnect.com/wp-content/uploads/image00-24.png)
 
-
-## Who
-
- - Security teams
 
 ## References
 
