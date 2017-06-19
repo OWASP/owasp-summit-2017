@@ -35,7 +35,7 @@ title    : Incident Response Playbook
 - Communication – keep people updated with minimal publicity
 - Log what happens, and when, so people coming in as the crisis develops can be brought up to speed quickly
 - Stagger engineering team so that 24/7 coverage is possible (people need to rest, eat, etc.)
-- The benefit of a situation dealt with quickly and efficiently outweigh the cost of the remedy and the cost to the business
+- The benefit of a situation dealt with quickly and efficiently outweighs the cost of the remedy and the cost to the business
 
 **Post Mortem**
 - Did the threat model cover this?
@@ -43,11 +43,11 @@ title    : Incident Response Playbook
 - Why did it happen?
 - How did we react?
 - Was best practice followed?
-- If not, why not?
+  - If not, why not?
 - Tuning web application firewalls
 
 **Lessons learnt / next steps**
-- How many pre-requisites were satisfied
+- How many pre-requisites were satisfied?
 - Was Playbook appropriate?
 - Variables will cause gaps in PB
 - What adjustments need to be made?
