@@ -11,8 +11,8 @@ title    : Incident Response Playbook
 
 **Goals**
 - IR from a developer’s perspective
-- Don’t cover entire IR field, just developer’s roles and responsibilities
-- Reinforce how other best practices, such as threat models, support the IR process.
+- Don’t cover entire IR field, just the developer’s roles and responsibilities
+- Reinforce how other best practices, such as threat models, support the IR process
 
 **Preparation**
 - Conduct fire drill – consider tabletop exercises
@@ -24,7 +24,7 @@ title    : Incident Response Playbook
 - Is it our data?
 - Is it a breach?
 - What app/service provides the data?
-- Where did data come from?
+- Where did the data come from?
 - Can the data be time stamped?
 - What does it mean?
 - Does it have value?
@@ -40,7 +40,7 @@ title    : Incident Response Playbook
 **Post Mortem**
 - Did the threat model cover this?
 - Bug Bounty the target?
-- Why it happened?
+- Why did it happen?
 - How did we react?
 - Was best practice followed?
 - If not, why not?
@@ -50,17 +50,10 @@ title    : Incident Response Playbook
 - How many pre-requisites were satisfied
 - Was Playbook appropriate?
 - Variables will cause gaps in PB
-- What adjustments need to be made
+- What adjustments need to be made?
 
 **Overall outcome**
 - We feel that a Preparation Guide could satisfy needs in this area, perhaps building on Tom Brennan’s OWASP Incident Response Project
-
-## Who
-
-The target audience for this Working Session is:
-
- - Security teams
- - SOC teams
 
 ## References
 

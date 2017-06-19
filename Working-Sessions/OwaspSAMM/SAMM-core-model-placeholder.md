@@ -10,7 +10,8 @@ when-time    : Eve
 location     : Villa-1
 room-layout  : unknown
 organizers   : Sebastien Deleersnyder
-participants : Bart De Win, Brian Glas 
+participants : Bart De Win, Brian Glas
+outcomes     : not-found 
 ---
 
 Introduction to Generic DevOps Security Maturity Model
@@ -40,12 +41,10 @@ The target audience for this Working Session is:
 - DevOps Roles
 - CISOs
 
---- 
+---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
-
-

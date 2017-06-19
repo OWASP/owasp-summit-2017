@@ -69,7 +69,11 @@ Here are the current 'work in progress' materials for this session
 
 #### Synopsis/Takeaways
 
-This session focused on building a lightweight (bottom up) threat model.  The group was split into 3 teams (Ascertain, Threats, and Mitigation).  A diagram was created from this.
+This session focused on building a lightweight (bottom up) threat model, which we call XUUL.  It's important to give our threat modeling processes names and version numbers.  What's below is XUUL .1.  If you say "Lightwight TM process", there can be many of those, and those new to threat modeling may be confused when they read different descriptions of lightwieght TM processes.  This what's below is XUUL, a lightwight TM process created at the OWASP Summit.  We look forward to beta feedback.
+
+
+
+The group was split into 3 teams (Ascertain, Threats, and Mitigation).  A diagram was created from this.
 
 ![Diagram](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Threat-Model/cheat-sheet/lightweight.jpg)
 

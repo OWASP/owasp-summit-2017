@@ -12,6 +12,7 @@ remote       : https://hangouts.google.com/hangouts/_/owasp.org/summit-room-3
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Don Gibson, Irene Michlin, Nessim Kisserli
+outcomes     : mapped
 ---
 
 Discuss agenda - goals for this week. Welcome people who are going to participate
@@ -41,9 +42,9 @@ Tools
 Benchmarking
 
 Make the model more “agile”?
-focus on developers. 
+focus on developers.
 Measure efficiency
-SAMM Profiles 
+SAMM Profiles
 
 
 ## Who
@@ -58,9 +59,9 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 <a href="https://www.owasp.org/images/3/30/SAMM_How_To_V1-5_FINAL.pdf">How-To Guide</a>
-<a href="https://www.owasp.org/images/1/18/SAMM_Quick_Start_V1-5_FINAL.pdf">Quick Start Guide</a> 
+<a href="https://www.owasp.org/images/1/18/SAMM_Quick_Start_V1-5_FINAL.pdf">Quick Start Guide</a>
 <a href="https://www.owasp.org/images/6/6f/SAMM_Core_V1-5_FINAL.pdf">SAMM Core Model</a>
 <a href="https://www.owasp.org/images/8/8d/OWASP_SAMM_v1.5.zip">All SAMM v1.5 files (.zip)</a>
 

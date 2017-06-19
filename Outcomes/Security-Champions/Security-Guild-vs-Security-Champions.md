@@ -1,34 +1,7 @@
 ---
-layout       : blocks/working-session
+layout       : blocks/page-content
 title        : Security Guild vs Security Champions
-type         : workshop
-owasp-project: no
-track        : DevSecOps
-technology   :
-related-to   : Integrating Security into an Spotify Model,Security Champions,CISO
-status       : final stage; need-working materials
-when-day     : Mon
-when-time    : PM-2
-location     : Room-1
-organizers   : Robert Morschel
-participants : Ante Gulam,Francois Raynaud, Duncan Hurwood, Robert Morschel, Timo Pagel
-outcomes     : mapped
 ---
-
-When creating horizontal security teams across multiple teams or squads, there are two models that have gained some traction: Security Guilds and Security Champions.
-
-## Why
-
-This working session will discuss common terminology and workflows as it is important that industry agrees on and recognises the distinctions between Security Guilds and Security Champions.  
-
-## What
-
- - What are the best definitions of Security Guilds and Security Champions?
- - How different are they?
- - Should Security Champions be part of a Security Guild?
- - Should they be merged?
- - Should we agree on one concept and push it has an industry?
-
 ## Outcomes
 
 Security Champions are a key element of an AppSec team, since they create a cross-functional team focused on Application Security.

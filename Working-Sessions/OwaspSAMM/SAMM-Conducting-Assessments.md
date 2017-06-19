@@ -11,6 +11,7 @@ location     : Room-3
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Fabien Thalgott
+outcomes     : not-found
 ---
 
 Conducting SAMM assessments
@@ -38,7 +39,7 @@ The target audience for this Working Session is:
 
 Security champions, Security architects, DevOps Roles, CISO, ...
 
---- 
+---
 
 ## Working materials
 
