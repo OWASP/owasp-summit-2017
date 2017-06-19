@@ -1,3 +1,8 @@
+---
+layout   : blocks/page-content
+title    : Agile Practices for Security Teams.md
+---
+
 ## Outcomes
 
 A Draft List of Agile Security Practices
