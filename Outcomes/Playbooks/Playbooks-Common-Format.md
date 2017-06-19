@@ -23,11 +23,11 @@ To have an effective working session that generates meaningful and collaborative
 5. Ask participants to share their worksheet with the group
 6. Identify and distill the common threads of the process and document them in a process workflow diagram
 7. With the process defined, break into five smaller groups and assign each group to discuss the remaining content items:         
-  - prerequisites
-  - cost benefit analysis
-  - quick wins
-  - success criteria & metrics
-  - improvement opportunities (given the perspective of the agreed process)
+  - Prerequisites
+  - Cost benefit analysis
+  - Quick wins
+  - Success criteria & metrics
+  - Improvement opportunities (given the perspective of the agreed process)
 
 ### Playbook Content
 
