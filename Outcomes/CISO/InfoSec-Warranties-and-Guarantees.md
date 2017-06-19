@@ -15,10 +15,10 @@ Reliance on warranties requires the same scrutiny as buying cyber insurance; how
 
 ### Warranties should include:
 
-- Data to backup marketing claims
+- Data to back up marketing claims
 - Independently validated data
 - Monetary value at least equivalent to what was paid at the point of deployment
-- Refunds, not credit for more services from the same vendor
+- Refunds, not credit for more services, from the  vendor
 - The right to breach the contract (Termination Clause)
 
 Warranties should not be conditional on incident responses or other internal procedures. 
