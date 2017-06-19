@@ -12,16 +12,16 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
 
 - There is a need to evaluate adding an optional depth component to scoring for questionnaire
 - Need to most likely remove success metrics and replace with Business Metrics
-          - Alternatively Metrics may have its own section
-          - We need to focus on metrics ranging from operational to strategic operations
-- Three logical categories of metrics:
-          - App
-          - Process
-          - Environment
+  - Alternatively Metrics may have its own section
+  - We need to focus on metrics ranging from operational to strategic operations
+- Three logical categories of metrics
+  - App
+  - Process
+  - Environment
 
 ## Who
 
-The target audience for this Working Session is:
+The target audience for this Working Session is
 
 - Security champions
 - Security architects
@@ -51,8 +51,8 @@ Here are the current 'work in progress' materials for this session (please add a
 
 - We are exploring adding a fifth business function to the SAMM Model.
 - This function will be somewhere between the current "Construction" and "Verification" business functions
-- This new function may encompass code building and code mangement
-- The current "Construction" Business Function is mostly about design, so it needs recategorising
+- The new function may encompass code building and code mangement
+- The current "Construction" Business Function is mostly about design, so needs recategorising
 - Defect management is not clearly defined in the current SAMM Model
 - We will probably need to make fundamental additions and changes to the current SAMM Model
 - Ideas for the new business function naming and criteria have been put forward
@@ -84,17 +84,17 @@ Here are the current 'work in progress' materials for this session (please add a
 
 ### Synopsis and Takeaways
 
-Captured expectations of participants;
-Better understanding
-Include agile/devops
-Contribute
-Tools
-Benchmarking
+- Captured expectations of participants
+- Better understanding
+- Include agile/devops
+- Contribute
+- Tools
+- Benchmarking
 
-Make the model more “agile”?
-focus on developers.
-Measure efficiency
-SAMM Profiles
+- Make the model more “agile”?
+- Focus on developers.
+- Measure efficiency
+- SAMM Profiles
 
 
 ## Who
@@ -134,7 +134,7 @@ The Software Assurance Maturity Model (SAMM) is an open framework to help organi
 
 - Need a marketing specialist to construct a model for SAMM to improve market awareness
 - Invite members of the mailing list to create a video showcasing some real world evidence of SAMM in action
-- Need a way to measure downloads of the SAMM model; possible solution is to link to the model from GitHub
+- Need a way to measure downloads of the SAMM model; a possible solution is to link to the model from GitHub
 
 # OWASP Project alignment
 ## Outcomes
@@ -146,8 +146,8 @@ The Software Assurance Maturity Model (SAMM) is an open framework to help organi
 
 - We must make sure to remap “Flagship” and “Lab” projects for SAMM Version 2
 - Reach out to “Flagship” and “Lab” leaders to get references to the SAMM project and, if possible, link to an activity or     security process.
-- Identify missing tools and artefacts that are needed for different activates
-- Make sure to promote these missing tools and artefacts to encourage people to undertake the project themselves.
+- Identify the missing tools and artefacts needed for different activates
+- Make sure to promote the missing tools and artefacts to encourage people to undertake the project themselves
 - Map a lower level of granularity; map at a level of activities  
 
 # Stories and Templates
@@ -158,9 +158,10 @@ The Software Assurance Maturity Model (SAMM) is an open framework to help organi
 
 # SAMM V2 Ground Rules
 ### Synopsis and Takeaways
-One Model
-Evolution
-Scope equals software
-Experiment with tagging to cover various viewpoints
-Extra working session to discuss DevSecOps maturity model (tomorrow – morning session)
-Keep it simple with a Balanced model (desirable)
+
+- One Model
+- Evolution
+- Scope equals software
+- Experiment with tagging to cover various viewpoints
+- Extra working session to discuss DevSecOps maturity model (tomorrow – morning session)
+- Keep it simple with a Balanced model (desirable)
