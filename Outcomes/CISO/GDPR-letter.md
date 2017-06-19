@@ -7,25 +7,25 @@ title    : GDPR and DPO AppSec implications
 ### Synopsis and takeaways
 
 
-## Questions
+### Questions
 
 **PII**
 
   - In the event of a data breach when the IP address is an Indicator of Compromise (IOC), and that IP address is not specifically tied to a user, is it still considered PII?
-  - If a third party provides a component of your product, do you need to anonymize/encrypt PII data? If so, how, and What are the approved methods?
+  - If a third party provides a component of your product, do you need to anonymize/encrypt PII data? If so, how?  What are the approved methods?
   
 **Supplier responsibility**
 
-Example Scenario: an organisation uses a free tier (or educational/charitable) version of Google Docs (or any other SaaS) for storing lists of customers/benefactors. In this scenario:
+Sample Scenario: an organisation uses a free tier (or educational/charitable) version of Google Docs (or any other SaaS) for storing lists of customers/benefactors. In this scenario:
   - Is Google considered a processor?
   - Does this comply with Article 28 - 3: “Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor”
   - Is Google required to notify the “controller” in the event of a breach?
-  - To what extent in this case is the controller responsible for a breach of the processors’ systems?
+  - To what extent is the controller responsible for a breach of the processors’ systems in this case?
 - A processor has a breach and takes 48 hours to report to the controller. Does the controller then have 24 hours to notify the ICO, or does the time reset from time of notification?  (Article 33 - 1)
 - What is the definition of “large-scale” when determining the requirement for designation of a data protection officer (Article 37 - 1)?
 - How does this apply to the user of analytics systems (GA, Krux, etc.)?
 - Browser fingerprinting, URLs visited, etc., clearly fall under the definition of “personal data” (Article 4 - 1) and “profiling” (Article 4 - 4)
-- If you are using a cloud provider and they state that the server side is encrypted, is that enough? End-to-end (client side also) vs. server side encryption?
+- If you are using a cloud provider and they state that the server side is encrypted, is that sufficient? End-to-end (client side also) vs. server side encryption?
 
 **Definitions**
 
@@ -36,7 +36,7 @@ Example Scenario: an organisation uses a free tier (or educational/charitable) v
 
 - Transfer of data (e.g., when accessing a free Wi-Fi, should a default routed VPN be used when accessing customer data)?
 - Should security be mandatory on Wi-Fi networks?
-- What type of evidence is required in the event of a data breach to prove due diligence (process vs. pentest reports)?
+- What type of evidence is required in the event of a data breach to prove due diligence (process vs. pen test reports)?
 - Subjects rights
    The right to be forgotten.
 - Are data backups in scope?
