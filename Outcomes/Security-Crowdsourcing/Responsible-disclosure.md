@@ -9,11 +9,29 @@ title        : Responsible Disclosure
 
 ### Synopsis and Takeways
 
-- Level one consists of "Creating an email address for communication (vulnerablilty report submissions)", "Designated Person for the response" and "Publishing the contact details for responsible disclosure (Social channels or through the web page)".
-- Level two conists of "Rewards or kudos awarded for valid submissions", "Published the validation timelines", "Ability to triage" and "Ability to fix the issues".
-- Level three conists of "Credibility of the program within the security community", "Published the reward values", "Published the remediation timelines" and "Published end to end process".
-- These questions are answered with "Yes" or "No" questions, in addition, comments can be made if needed.
-- After collaborating with participants the "OWASP Responsible Disclosure Maturity Model Survey" was conceived
+- **Level one** consists of:
+
+   - Creating an email address for communication (vulnerability report submissions)
+   - Designated Person for the response
+   - Publishing the contact details for responsible disclosure (Social channels or through the web page)
+      
+- **Level two** consists of:
+
+   - Rewards or kudos awarded for valid submissions
+   - Published the validation timelines
+   - Ability to triage
+   - Ability to fix the issues
+      
+- **Level three** consists of:
+
+   - Credibility of the program within the security community
+   - Published the reward values
+   - Published the remediation timelines
+   - Published end to end process
+      
+- These appear as Yes/No questions on the survey, and comments can be added as necessary.
+
+After collaborating with participants, the "OWASP Responsible Disclosure Maturity Model Survey" was conceived.
 
 Survey Images:
 
@@ -21,18 +39,9 @@ Survey Images:
 
 ![survey 2](https://user-images.githubusercontent.com/29351740/27132732-db1e8d00-5107-11e7-9dec-da753bb6230e.PNG)
 
-## Who
-
-The target audience for this Working Session is:
-
-* Leading bug bounty hunters
-* Companies with mature bug bounty programmes (self-managed)
-* Third party leaders in managed bug bounties
-
 ---
 
 ## Working materials
 
 - Draft checklists to keep in mind before starting a programme
 - Draft Responsible Disclosure legal framework accepted EU/country wide
-- Please add as much information as possible before the sessions
