@@ -8,20 +8,20 @@ title    : CISO Round Table
 
 Target audience:  Companies without a CISO
 
-**CISO Job**
+**CISO Role**
 
 Every Company needs a CISO, and every CISO should have a strong mandate and adequate resources. The CISO should report:
-  - 1st to The Board
-  - 2nd to C-Suite and sub-committees (so there are no conflicts of interest)
+  - Firstly to the Board
+  - Secondly to C-suite and sub-committees (so there are no conflicts of interest)
 
-The CISO should also possess the following qualities:
+The CISO should
 
-  - A centre of gravity skill set: strong business, technical, and security skills
-  - Ability to be an agent for transformation
-  - Understanding that security is a business function
-  - Facilitates business acceptance of risk
+  - Have a centre of gravity skill set: strong business, technical, and security skills
+  - Be an agent for transformation
+  - Understand that security is a business function
+  - Be able to facilitate business acceptance of risk
 
-**What they need:**
+**What they need**
 
   - Budget (that they control)
   - Mandate
@@ -33,12 +33,12 @@ The CISO should also possess the following qualities:
 **Top board requirements**
 
  - Current programmes status
- - Meeting regulatory requirements
+ - Meet regulatory requirements
  - Major business risks and incidents
  - Security asks
 
 **Top priorities for CISO**
 
- - Situational Awareness
+ - Situational awareness
  - Match risk appetite
  - Actionable metrics and dashboards
