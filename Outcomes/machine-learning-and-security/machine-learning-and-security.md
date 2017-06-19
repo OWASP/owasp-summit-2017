@@ -19,4 +19,7 @@ Create working group to work on tools and guidance of:
 - how can we check if a dataset is
  noise free (not compromised)
 - review of algorithms implementations
+
+
+
 ![image](https://user-images.githubusercontent.com/13433538/27265242-d6543204-5489-11e7-846f-b0e306852248.png)
