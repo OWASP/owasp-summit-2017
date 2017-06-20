@@ -1,6 +1,6 @@
 ---
-layout   : blocks/page-content
-title    : Integrating Security into a Portfolio Kanban
+layout : blocks/outcome
+title  : Integrating Security into a Portfolio Kanban
 ---
 
 ## Outcomes
