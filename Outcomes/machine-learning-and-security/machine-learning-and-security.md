@@ -5,13 +5,13 @@ title    : Machine Learning and Security
 
 ## Outcomes
 
-- Create common datasets with the purpose of testing and validating of machine learning algorithms security
+- Create common datasets with the purpose of testing and validating the security of machine learning algorithms
   - We can use data output of Mod Security, WebGoat and others to create the datasets
   - Those datasets should be shared
   - Anonymized dataset
   - Common dataset for testing
 
-- Create guidance page to include ML security definitions, latest reports and links to the available tools and datasets.
+- Create guidance page to include ML security definitions, latest reports, and links to the available tools and datasets
   - Find good materials and resources
 
 - Use ML techniques in the current tools provided by OWASP (e.g. use ML to reduce false positives in ZAP scanning output)
