@@ -1,5 +1,5 @@
 ---
-layout   : blocks/page-content
+layout   : blocks/outcome
 title    : Application Security Guide for CISO
 ---
 ## Outcomes

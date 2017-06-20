@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : CISO Round table
+title        : CISO Round Table
 type         : workshop
 track        : CISO
 status       : done

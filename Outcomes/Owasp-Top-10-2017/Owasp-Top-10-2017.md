@@ -1,5 +1,5 @@
 ---
-layout   : blocks/page-content
+layout   : blocks/outcome
 title    : OWASP Top 10 2017
 ---
 

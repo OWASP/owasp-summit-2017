@@ -1,6 +1,6 @@
 ---
-layout         : blocks/page-content
-title          : Security Feature Request to GitHub
+layout         : blocks/outcome
+title          : GitHub Security Feature Request
 working-session: Securing GitHub Integrations
 ---
 

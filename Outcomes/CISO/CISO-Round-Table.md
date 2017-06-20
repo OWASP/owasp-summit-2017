@@ -1,7 +1,8 @@
 ---
-layout   : blocks/page-content
+layout   : blocks/outcome
 title    : CISO Round Table
 ---
+
 ## Outcomes
 
 ### Synopsis and Takeaways

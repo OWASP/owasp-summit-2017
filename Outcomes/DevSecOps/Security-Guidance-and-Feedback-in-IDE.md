@@ -1,5 +1,5 @@
 ---
-layout   : blocks/page-content
+layout   : blocks/outcome
 title    : Security Guidance and Feedback in IDE.md
 ---
 ## Outcomes
