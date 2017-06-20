@@ -63,7 +63,9 @@ List of Suggested priorities, policies, programs, and activities for the OWASP B
 - Spelling out clear business benefits
 
 **FOCUS on 3 key areas for the year**
-1)	Webinars up and running – metrics demonstrating 
+1	Webinars up and running – metrics demonstrating 
+2
+3
 
 ## Who
 
