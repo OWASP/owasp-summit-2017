@@ -1,5 +1,5 @@
 ---
-layout   : blocks/page-content
+layout   : blocks/outcome
 title    : GPG Infrastructure for OWASP
 ---
 
