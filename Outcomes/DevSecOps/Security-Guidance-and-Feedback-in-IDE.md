@@ -1,6 +1,7 @@
 ---
 layout   : blocks/outcome
 title    : Security Guidance and Feedback in IDE.md
+working-session : Securing GitHub Integrations
 ---
 ## Outcomes
 
