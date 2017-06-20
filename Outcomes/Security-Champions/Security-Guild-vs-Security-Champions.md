@@ -1,5 +1,5 @@
 ---
-layout       : blocks/page-content
+layout       : blocks/outcome
 title        : Security Guild vs Security Champions
 ---
 ## Outcomes
