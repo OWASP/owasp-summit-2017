@@ -45,13 +45,13 @@ and services used in practical developer security training sessions.
 ## Outcomes
 
 - Recommendation for a
-  [eLearning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/eLearningPath.md)
+  [eLearning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Outcomes/Education/Teaching-Attacker-Perspective-to-Developers/eLearningPath.md)
   guiding developers through various hands-on sessions in an appropriate
   order (e.g. with increasing difficulty)
-- [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices.md)
+- [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Outcomes/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices.md)
   for developer-focused security training
 - Developer training
-  [Antipatterns](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/Antipatterns.md)
+  [Antipatterns](https://github.com/OWASP/owasp-summit-2017/tree/master/Outcomes/Education/Teaching-Attacker-Perspective-to-Developers/Antipatterns.md)
 
 ## Who
 
@@ -64,9 +64,9 @@ The target audience for this Working Session is:
 
 ## Working materials
 
-* [Antipatterns](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/Antipatterns.md)
-* [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices.md)
-* [eLearning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Education/Teaching-Attacker-Perspective-to-Developers/eLearningPath.md)
+* [Antipatterns](https://github.com/OWASP/owasp-summit-2017/tree/master/Outcomes/Education/Teaching-Attacker-Perspective-to-Developers/Antipatterns.md)
+* [Best Practices](https://github.com/OWASP/owasp-summit-2017/tree/master/Outcomes/Education/Teaching-Attacker-Perspective-to-Developers/BestPractices.md)
+* [eLearning Path](https://github.com/OWASP/owasp-summit-2017/tree/master/Outcomes/Education/Teaching-Attacker-Perspective-to-Developers/eLearningPath.md)
 
 ### Content
 

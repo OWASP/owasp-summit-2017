@@ -2,9 +2,9 @@
 
 ## Timebox your exercises
 
-When giving students a (hacking) exercise make sure they know th etime allowed. 
-At the end of the timebox show the solution to the exercise live on the video projector 
-so everyone sees it at least once.
+When giving students a (hacking) exercise make sure they know th etime
+allowed. At the end of the timebox show the solution to the exercise
+live on the video projector so everyone sees it at least once.
 
 ## Explain Actual Risks
 
@@ -46,6 +46,7 @@ mentor (e.g. Security Champion) goes through one topic per session. A
 monthly schedule should be maintained to keep up the community-aspect of
 this format.
 
-> See [InternalSecurityMeetup.md](InternalSecurityMeetup.md) for a
-> proposal setup of such a MeetUp.
+> See
+> [InternalSecurityMeetup.md](https://github.com/OWASP/owasp-summit-2017/tree/master/Outcomes/Education/Teaching-Attacker-Perspective-to-Developers/InternalSecurityMeetup.md)
+> for a proposal setup of such a MeetUp.
 
