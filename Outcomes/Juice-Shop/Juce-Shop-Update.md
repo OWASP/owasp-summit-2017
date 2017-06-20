@@ -9,14 +9,14 @@ of the OWASP Summit 2017 was not only a very enjoyable experience but
 also produced some **_really_ tangible output**!
 
 In the
-[final morning session on Friday, June 16th](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Release.html) I triggered the production release of the v4.0.0
-version. It comes with new business functionality, challenges,
-convenience feats and technical advances!
+[final morning session on Friday, June 16th](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Release.html)
+I triggered the production release of the v4.0.0 version. It comes with
+new business functionality, challenges, convenience feats and technical
+advances!
 
 While the (fully automated) release is underway, I am happy to give an
 overview of the newly-added features and maybe some participants already
-want to try and be the first to conquer them?
-🥇
+want to try and be the first to conquer them? 🥇
 
 You can find the full list of changes in
 [the release notes](https://github.com/bkimminich/juice-shop/releases)
@@ -46,7 +46,9 @@ below:
 > - Add **awareness training example** by @wurstbrot with
 >   [huge visual](https://gist.github.com/marcaube/692b5bdb99ba69b9b60f471d2721aa95)
 >   and data pricacy impacts (#316, _only available when running as
->   [Vagrant box](https://github.com/bkimminich/juice-shop/blob/master/README.md#vagrant)_)
+>   [Vagrant box](https://github.com/bkimminich/juice-shop/blob/master/README.md#vagrant).
+>   Also available on Youtube:
+>   [📺](https://www.youtube.com/watch?v=L7ZEMWRm7LA)_)
 >
 > **OWASP Summit 2017 Challenge Pack**
 >
@@ -56,7 +58,8 @@ below:
 > **Bugfixes**
 >
 > - Disabled an invalid way to solve the _Forged Feedback_ challenge
-> - Postpone websocket event registration until after data creator is finished (#345)
+> - Postpone websocket event registration until after data creator is
+>   finished (#345)
 >
 > **I18N**
 >
@@ -70,8 +73,10 @@ below:
 > **Miscellaneous**
 >
 > - Several smaller translation updates
-> - Provided config `quiet.yml` (muting most notifications & hiding hints and GitHub ribbon)
-> - Provided config `juicebox.yml` (for those who have a hard time pronouncing _jo͞osSHäp_)
+> - Provided config `quiet.yml` (muting most notifications & hiding
+>   hints and GitHub ribbon)
+> - Provided config `juicebox.yml` (for those who have a hard time
+>   pronouncing _jo͞osSHäp_)
 > - Streamlined `README.md` documentation (remove duplicate content w/
 >   [official owasp.org project page](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project))
 > - Added section on Lectures and Trainings to `RESOURCES.md`
@@ -95,4 +100,7 @@ Kudos also go to
 
 Enjoy hacking the hell out of OWASP Juice Shop v4.0.0! 😈
 
-(Source: [Juice Shop v4.0.0 Live Release](https://owaspsummit.org/2017/06/15/Juice-Shop-Live-Release-v4.html) blog post by [Björn Kimminich](https://owaspsummit.org/Participants/summit-editors/Bjoern-Kimminich.html))
+(Source:
+[Juice Shop v4.0.0 Live Release](https://owaspsummit.org/2017/06/15/Juice-Shop-Live-Release-v4.html)
+blog post by
+[Björn Kimminich](https://owaspsummit.org/Participants/summit-editors/Bjoern-Kimminich.html))

@@ -50,7 +50,9 @@ below:
 > * add **awareness training example** by @wurstbrot with
 >   [huge visual](https://gist.github.com/marcaube/692b5bdb99ba69b9b60f471d2721aa95)
 >   and data pricacy impacts (#316, _only available when running as
->   [Vagrant box](https://github.com/bkimminich/juice-shop/blob/master/README.md#vagrant)_)
+>   [Vagrant box](https://github.com/bkimminich/juice-shop/blob/master/README.md#vagrant).
+>   Also available on Youtube:
+>   [📺](https://www.youtube.com/watch?v=L7ZEMWRm7LA)_)
 >
 > ### OWASP Summit 2017 Challenge Pack
 >
@@ -60,7 +62,8 @@ below:
 > ### Bugfixes
 >
 > * disabled an invalid way to solve the _Forged Feedback_ challenge
-> * postpone websocket event registration until after data creator is finished (#345)
+> * postpone websocket event registration until after data creator is
+>   finished (#345)
 >
 > ### I18N
 >
@@ -74,8 +77,10 @@ below:
 > ### Miscellaneous
 >
 > * several smaller translation updates
-> * provided config `quiet.yml` (muting most notifications & hiding hints and GitHub ribbon)
-> * provided config `juicebox.yml` (for those who have a hard time pronouncing _jo͞osSHäp_)
+> * provided config `quiet.yml` (muting most notifications & hiding
+>   hints and GitHub ribbon)
+> * provided config `juicebox.yml` (for those who have a hard time
+>   pronouncing _jo͞osSHäp_)
 > * streamlined `README.md` documentation (remove duplicate content w/
 >   [official owasp.org project page](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project))
 > * added section on Lectures and Trainings to `RESOURCES.md`
