@@ -2,64 +2,98 @@
 layout   : blocks/page-content
 title    : Juice Shop Update
 ---
-Live release of OWASP Juice Shop to publish all the achievements of
-the summit and see Travis-CI & friends in action in the process.
 
-**While the release is underway all the new features in v4.0.0 will be demonstrated!**
+The
+[Juice Shop track](https://owaspsummit.org/Working-Sessions/Juice-Shop/)
+of the OWASP Summit 2017 was not only a very enjoyable experience but
+also produced some **_really_ tangible output**!
 
-![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
+In the
+[final morning session on Friday, June 16th](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Release.html)
+(in room _Pedley_) I will trigger the production release of the v4.0.0
+version. It comes with a load of new business functionality, challenges,
+convenience feats and technical advancents!
 
-## Outcomes
+While the (fully automated) release is underway, I am happy to give an
+overview of the newly added features and maybe some participants already
+want to try them out right on the spot to be the first to conquer them?
+🥇
 
-This working session performed a live release utilising the entire
-CI/CD stack Juice Shop utilizes:
+You can find the full list of changes in
+[the release notes](https://github.com/bkimminich/juice-shop/releases)
+below:
 
-- New version of Juice Shop live on Heroku:
-  <https://juice-shop.herokuapp.com>
-- New version of Juice Shop CTF-extension live on NPM:
-  <https://www.npmjs.com/package/juice-shop-ctf-cli>
-- Release of latest Juice Shop pre-packaged distributions on GitHub:
-  <https://github.com/bkimminich/juice-shop/releases/latest>
-- Release of latest Juice Shop pre-packaged distributions on
-  Sourceforge: <https://sourceforge.net/projects/juice-shop/>
+> ### Incompatible Changes
+>
+> * **removed support for Node.js 7.x**
+> * Docker images `node7-*` consequently are not built any more
+> * **Snapshot Docker images named `*-develop` are not built any more.**
+>   Please use `*-snapshot` images instead.
+>
+> ### Platform Support
+>
+> * added support for Node.js 8.x (#332)
+>
+> ### Features
+>
+> * users can ask for **pomace recycling** pickup or delivery of a box
+>   to send pomace back in (#243)
+> * during registration users now have to pick and answer a **security
+>   question** (#323)
+> * users can now **reset their password** authenticating with the
+>   answer to their security question (#323)
+> * hacking progress is not **automatically saved and restored** after a
+>   server restart (#309)
+> * add **awareness training example** by @wurstbrot with
+>   [huge visual](https://gist.github.com/marcaube/692b5bdb99ba69b9b60f471d2721aa95)
+>   and data pricacy impacts (#316, _only available when running as
+>   [Vagrant box](https://github.com/bkimminich/juice-shop/blob/master/README.md#vagrant)_)
+>
+> ### OWASP Summit 2017 Challenge Pack
+>
+> * added 3 challenges on security questions (#323)
+> * @ViktorLindstrm added 1 challenge on the used JWT secret (#336)
+>
+> ### Bugfixes
+>
+> * disabled an invalid way to solve the _Forged Feedback_ challenge
+> * postpone websocket event registration until after data creator is finished (#345)
+>
+> ### I18N
+>
+> * added Hebrew translation (by @avidouglen)
+>
+> ### Tests
+>
+> * split server-side tests into isolated unit tests (for `/routes`) and
+>   `frisby.js`-based API tests
+>
+> ### Miscellaneous
+>
+> * several smaller translation updates
+> * provided config `quiet.yml` (muting most notifications & hiding hints and GitHub ribbon)
+> * provided config `juicebox.yml` (for those who have a hard time pronouncing _jo͞osSHäp_)
+> * streamlined `README.md` documentation (remove duplicate content w/
+>   [official owasp.org project page](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project))
+> * added section on Lectures and Trainings to `RESOURCES.md`
+> * added several blog posts and other coverage
 
-| Juice Shop                                                                                                                                                                  | CTF-Extension                                                                                                                                                                  |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/releases/latest)                              | [![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop-ctf.svg)](https://github.com/bkimminich/juice-shop-ctf/releases/latest)                         |
-| [![Build Status](https://travis-ci.org/bkimminich/juice-shop.svg?branch=master)](https://travis-ci.org/bkimminich/juice-shop)                                               | [![Build Status](https://travis-ci.org/bkimminich/juice-shop-ctf.svg?branch=master)](https://travis-ci.org/bkimminich/juice-shop-ctf)                                          |
-| [![Build status](https://ci.appveyor.com/api/projects/status/903c6mnns4t7p6fa/branch/master?svg=true)](https://ci.appveyor.com/project/bkimminich/juice-shop/branch/master) | [![Dependency Status](https://gemnasium.com/badges/github.com/bkimminich/juice-shop-ctf.svg)](https://gemnasium.com/github.com/bkimminich/juice-shop-ctf)                      |
-| [![Test Coverage](https://codeclimate.com/github/bkimminich/juice-shop/badges/coverage.svg)](https://codeclimate.com/github/bkimminich/juice-shop)                          | [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=master) |
-| [![Code Climate](https://codeclimate.com/github/bkimminich/juice-shop/badges/gpa.svg)](https://codeclimate.com/github/bkimminich/juice-shop)                                | [![Code Climate](https://codeclimate.com/github/bkimminich/juice-shop-ctf/badges/gpa.svg)](https://codeclimate.com/github/bkimminich/juice-shop-ctf)                           |
-| [![bitHound Overall Score](https://www.bithound.io/github/bkimminich/juice-shop/badges/score.svg)](https://www.bithound.io/github/bkimminich/juice-shop)                    | [![bitHound Overall Score](https://www.bithound.io/github/bkimminich/juice-shop-ctf/badges/score.svg)](https://www.bithound.io/github/bkimminich/juice-shop-ctf)               |
-| [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop)](https://juice-shop.herokuapp.com)                                                                           |                                                                                                                                                                                |
----
+I would like to thank the following **awesome summit participants** 🏆
+for their valuable contributions during or in between the various coding
+sessions:
 
-## Working materials
+[![Viktor Lindström](https://owaspgbgday.se/wp-content/uploads/2016/11/Viktor-229x300.jpg)](https://owaspsummit.org/Participants/ticket-24h/Viktor-Lindstrom.html)
+[![Avi Douglen](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkRAAAAJDkyZmFkMDRlLWMzZjAtNDk1Yy1hNDFiLTA2MTM2M2IzNzFhZA.jpg)](https://owaspsummit.org/Participants/ticket-24h-owasp/Avi-Douglen.html)
+[![Timo Pagel](http://timo-pagel.de/assets/img/header-bg.jpg)](https://owaspsummit.org/Participants/ticket-24h-owasp/Timo-Pagel.html)
 
-Release commands for OWASP Juice Shop:
+Kudos also go to
+* all **participants of the
+  [Juice Shop Brainstorming](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Brainstorming.html)
+  session** where several good ideas for new challenges were created
+* the **participants of the
+  [Hands-on Threat Modeling Juice Shop series](https://owaspsummit.org/Working-Sessions/Threat-Model/index.html)**
+  within the Threat Modeling track
 
-```bash
-git checkout master
-git merge develop
-git tag v4.0.0 -s -m "v4.0.0"
-git push --follow-tags
-```
+Enjoy hacking the hell out of OWASP Juice Shop v4.0.0! 😈
 
-The rest will be done _automagically_ by the build and deployment script for Travis-CI and a small army of GitHub webhooks.
-
-> For the CTF-Extension the commands are identical except for the version being `v1.2.0`.
-- GitHub issues in
-  [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
-- [_Enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
-  for Juice Shop CTF-Extension
-- OWASP Juice Shop
-  [Contribution Guidelines](https://github.com/bkimminich/juice-shop/blob/master/CONTRIBUTING.md)
-
-[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-- [Project Roadmap](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Road_Map_and_Getting_Involved)
-- GitHub issues in
-  [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
-- [_Enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
-  for Juice Shop CTF-Extension
-
-  
+(Source: [Juice Shop v4.0.0 Live Release](https://owaspsummit.org/2017/06/15/Juice-Shop-Live-Release-v4.html) blog post)
