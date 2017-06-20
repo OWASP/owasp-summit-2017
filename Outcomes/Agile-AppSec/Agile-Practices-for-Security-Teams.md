@@ -1,6 +1,6 @@
 ---
-layout   : blocks/page-content
-title    : Agile Practices for Security Teams.md
+layout : blocks/outcome
+title  : Agile Practices for Security Teams
 ---
 
 ## Outcomes
