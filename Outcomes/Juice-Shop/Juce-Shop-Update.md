@@ -9,74 +9,73 @@ of the OWASP Summit 2017 was not only a very enjoyable experience but
 also produced some **_really_ tangible output**!
 
 In the
-[final morning session on Friday, June 16th](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Release.html)
-(in room _Pedley_) I will trigger the production release of the v4.0.0
-version. It comes with a load of new business functionality, challenges,
-convenience feats and technical advancents!
+[final morning session on Friday, June 16th](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Release.html) I triggered the production release of the v4.0.0
+version. It comes with new business functionality, challenges,
+convenience feats and technical advances!
 
 While the (fully automated) release is underway, I am happy to give an
-overview of the newly added features and maybe some participants already
-want to try them out right on the spot to be the first to conquer them?
+overview of the newly-added features and maybe some participants already
+want to try and be the first to conquer them?
 🥇
 
 You can find the full list of changes in
 [the release notes](https://github.com/bkimminich/juice-shop/releases)
 below:
 
-> ### Incompatible Changes
+> **Incompatible Changes**
 >
-> * **removed support for Node.js 7.x**
-> * Docker images `node7-*` consequently are not built any more
-> * **Snapshot Docker images named `*-develop` are not built any more.**
+> - **removed support for Node.js 7.x**
+> - Docker images `node7-*` consequently are not built any more
+> - **Snapshot Docker images named `*-develop` are not built any more.**
 >   Please use `*-snapshot` images instead.
 >
-> ### Platform Support
+> **Platform Support**
 >
 > * added support for Node.js 8.x (#332)
 >
-> ### Features
+> **Features**
 >
-> * users can ask for **pomace recycling** pickup or delivery of a box
+> - Users can ask for **pomace recycling** pickup or delivery of a box
 >   to send pomace back in (#243)
-> * during registration users now have to pick and answer a **security
+> - During registration users now have to pick and answer a **security
 >   question** (#323)
-> * users can now **reset their password** authenticating with the
+> - Users can now **reset their password** authenticating with the
 >   answer to their security question (#323)
-> * hacking progress is not **automatically saved and restored** after a
+> - Hacking progress is not **automatically saved and restored** after a
 >   server restart (#309)
-> * add **awareness training example** by @wurstbrot with
+> - Add **awareness training example** by @wurstbrot with
 >   [huge visual](https://gist.github.com/marcaube/692b5bdb99ba69b9b60f471d2721aa95)
 >   and data pricacy impacts (#316, _only available when running as
 >   [Vagrant box](https://github.com/bkimminich/juice-shop/blob/master/README.md#vagrant)_)
 >
-> ### OWASP Summit 2017 Challenge Pack
+> **OWASP Summit 2017 Challenge Pack**
 >
-> * added 3 challenges on security questions (#323)
-> * @ViktorLindstrm added 1 challenge on the used JWT secret (#336)
+> - Added 3 challenges on security questions (#323)
+> - @ViktorLindstroem added 1 challenge on the used JWT secret (#336)
 >
-> ### Bugfixes
+> **Bugfixes**
 >
-> * disabled an invalid way to solve the _Forged Feedback_ challenge
-> * postpone websocket event registration until after data creator is finished (#345)
+> - Disabled an invalid way to solve the _Forged Feedback_ challenge
+> - Postpone websocket event registration until after data creator is finished (#345)
 >
-> ### I18N
+> **I18N**
 >
-> * added Hebrew translation (by @avidouglen)
+> - Added Hebrew translation (by @avidouglen)
 >
-> ### Tests
+> **Tests**
 >
-> * split server-side tests into isolated unit tests (for `/routes`) and
+> - Split server-side tests into isolated unit tests (for `/routes`) and
 >   `frisby.js`-based API tests
 >
-> ### Miscellaneous
+> **Miscellaneous**
 >
-> * several smaller translation updates
-> * provided config `quiet.yml` (muting most notifications & hiding hints and GitHub ribbon)
-> * provided config `juicebox.yml` (for those who have a hard time pronouncing _jo͞osSHäp_)
-> * streamlined `README.md` documentation (remove duplicate content w/
+> - Several smaller translation updates
+> - Provided config `quiet.yml` (muting most notifications & hiding hints and GitHub ribbon)
+> - Provided config `juicebox.yml` (for those who have a hard time pronouncing _jo͞osSHäp_)
+> - Streamlined `README.md` documentation (remove duplicate content w/
 >   [official owasp.org project page](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project))
-> * added section on Lectures and Trainings to `RESOURCES.md`
-> * added several blog posts and other coverage
+> - Added section on Lectures and Trainings to `RESOURCES.md`
+> - Added several blog posts and other coverage
 
 I would like to thank the following **awesome summit participants** 🏆
 for their valuable contributions during or in between the various coding
@@ -87,10 +86,10 @@ sessions:
 [![Timo Pagel](http://timo-pagel.de/assets/img/header-bg.jpg)](https://owaspsummit.org/Participants/ticket-24h-owasp/Timo-Pagel.html)
 
 Kudos also go to
-* all **participants of the
+- All **participants of the
   [Juice Shop Brainstorming](https://owaspsummit.org/Working-Sessions/Juice-Shop/Juice-Shop-Brainstorming.html)
   session** where several good ideas for new challenges were created
-* the **participants of the
+- The **participants of the
   [Hands-on Threat Modeling Juice Shop series](https://owaspsummit.org/Working-Sessions/Threat-Model/index.html)**
   within the Threat Modeling track
 
