@@ -3,12 +3,13 @@ layout       : blocks/working-session
 title        : Securing GitHub Integrations
 type         : workshop
 track        : DevSecOps
-status       : to be reviewed content
+status       : done
 when-day     : Wed
 when-time    : PM-2
 location     : Room-2
 organizers   : Danny Grander
 participants : Francois Raynaud, Dinis Cruz
+outcomes     : mapped
 ---
 ## Why
 
