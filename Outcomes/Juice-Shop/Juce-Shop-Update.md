@@ -96,4 +96,4 @@ Kudos also go to
 
 Enjoy hacking the hell out of OWASP Juice Shop v4.0.0! 😈
 
-(Source: [Juice Shop v4.0.0 Live Release](https://owaspsummit.org/2017/06/15/Juice-Shop-Live-Release-v4.html) blog post)
+(Source: [Juice Shop v4.0.0 Live Release](https://owaspsummit.org/2017/06/15/Juice-Shop-Live-Release-v4.html) blog post by [Björn Kimminich](https://owaspsummit.org/Participants/summit-editors/Bjoern-Kimminich.html))
