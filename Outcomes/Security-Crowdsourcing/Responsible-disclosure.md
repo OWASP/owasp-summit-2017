@@ -9,21 +9,18 @@ title        : Responsible Disclosure
 
 ### Synopsis and Takeways
 
-- **Level one** consists of:
-
+- **Level one** consists of
    - Creating an email address for communication (vulnerability report submissions)
    - Designated Person for the response
-   - Publishing the contact details for responsible disclosure (Social channels or through the web page)
+   - Publishing the contact details for responsible disclosure (social channels or through the web page)
       
-- **Level two** consists of:
-
+- **Level two** consists of
    - Rewards or kudos awarded for valid submissions
    - Published the validation timelines
    - Ability to triage
    - Ability to fix the issues
-      
-- **Level three** consists of:
-
+   
+- **Level three** consists of
    - Credibility of the program within the security community
    - Published the reward values
    - Published the remediation timelines
