@@ -4,9 +4,9 @@ title   : Women in Cyber
 ---
 
 
-## Outcomes
+### Outcomes
 
-List of Suggested priorities, policies, programs, and activities for the OWASP Board and community to consider and impliment.
+List of suggested priorities, policies, programs, and activities for the OWASP Board and community to consider and implement.
 
 ### Synopsis and Outcomes 
 
@@ -20,7 +20,7 @@ List of Suggested priorities, policies, programs, and activities for the OWASP B
 **Policies**
 -	Panel invited speaker – at least one woman
 -	Codify blind readings for CFP
--	Help Cultivate champions
+-	Help cultivate champions
 -	WASPies and other awards
 -	Ensure communications are inclusive
 -	Discount to company with women
@@ -37,17 +37,3 @@ List of Suggested priorities, policies, programs, and activities for the OWASP B
 2
 3
 
-## Who
-
-The target audience for this Working Session is:
-
- - IT security professionals
- - Devops professionals
- - Developers
- - Managers
- - Social scientists
- - Creative designers
- - Psychologists
- - Philosophers
- - Organisational and learning specialists
- - Educators
