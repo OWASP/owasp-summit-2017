@@ -1,34 +1,43 @@
-# Antipatterns
+---
+layout  : blocks/outcome
+title	: Teaching attacker perspective to developers
+---
 
-## ZAP'n'Burp
+### Outcomes
 
-Try to teach how to use non-trivial tools like OWASP ZAP or BurpSuite
-_along the way_ during a beginner's level web security training.
+#### AntiPatterns
 
-## Time Cheater
+Good trainers will be aware of, and will avoid, the antipatterns listed below.
 
-Go overtime with your _frontal lecture_ part and try to make up for it
-by a) skipping or b) cutting the far more interesting _exercises and
-demos_.
+#### ZAP'n'Burp
 
-## Toy Overkill
+Try to teach the use of non-trivial tools like OWASP ZAP or BurpSuite
+along the way during beginner-level web security training.
 
-Overwhelm students with a myriad of different pentesting & hacking tools
-during a developer training. Worst case: Let them use _Kali Linux_ right
+#### Time waster
+
+Lecture for too long and try to compensate
+by a) skipping or b) cutting the far more interesting exercises and
+demos.
+
+#### Toy overkill
+
+Overwhelm students with too many pentesting and hacking tools
+during developer training. Worst case: Let them use Kali Linux right
 from the start.
 
-## Elongated Code Reviews
+#### Elongated code reviews
 
 Going through an extensive code snippet line by line by line by ...
 Zzzzzz...
 
-## Wrong Tech Stack
+#### Wrong tech stack
 
-Focus too much on vulnerabilities that are not relevant for the
-techology stack used by the developers in your training.
+Focus too much on vulnerabilities that are not relevant to the
+techology stack used by the developers you are training.
 
-## Mandatory Training
+#### Mandatory training
 
-Force _every developer_ into a generic security training even though it
+Force every developer into generic security training even though it
 might not affect them in their daily work.
 
