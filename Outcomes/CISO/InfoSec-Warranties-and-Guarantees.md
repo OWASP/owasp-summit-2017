@@ -3,15 +3,15 @@ layout   : blocks/outcome
 title    : InfoSec Warranties and Guarantees
 ---
 
-## Outcomes
+### Outcomes
 
-This Working Session will try to answer the question of whether security companies should issue guarantees, warranties, and provide a set of guidelines on the design and implementation of warranties and guarantees.
+This Working Session aimed to answer the question of whether security companies should issue guarantees, warranties, and provide a set of guidelines on the design and implementation of warranties and guarantees.
 
 ### Synopsis and Takeaways
 
-Decisions on purchasing security products with cyber insurance should not be based solely on the warranty, no matter how good it seems. Some warranties may only cover secondary insurance that can cost the policyholder thousands if not millions.
+Decisions on purchasing security products with cyber insurance should not be based solely on the warranty, no matter how good it seems. Some warranties may only cover secondary insurance and this can be very expensive for the policyholder.
 
-Reliance on warranties requires the same scrutiny as buying cyber insurance; however, warranties could be a marketing ploy. It is normally not worth investigating a warranty for a product when the cost of the investigation is weighed against the cost of the initial cover. Normally, negotiating warranty contracts can achieve more favourable terms. Collecting information on companies that have submitted claims, and the results of the claims, would be useful.
+Reliance on warranties requires the same scrutiny as buying cyber insurance; however, warranties could be a marketing ploy. It is normally not worth investigating a warranty for a product when the cost of the investigation is weighed against the cost of the initial cover. Usually, negotiating warranty contracts can achieve more favourable terms. Collecting information on companies that have submitted claims, and the results of the claims, would be useful.
 
 ### Warranties should include:
 
@@ -33,7 +33,7 @@ You cannot make decisions purely on warranty claims.
   - Uptime
   - Direct performance indicators
 
-## References
+### References
 
  - [Infosec Warranties and Guarantees](http://blog.jeremiahgrossman.com/2017/02/infosec-warranties-and-guarantees.html) - list of companies
  - [An Insiders Guide To Cyber Insurance And Security Guarantees](https://www.blackhat.com/docs/us-16/materials/us-16-Grossman-An-Insiders-Guide-To-Cyber-Insurance-And-Security-Guarantees.pdf) - presentation
@@ -44,7 +44,7 @@ You cannot make decisions purely on warranty claims.
 
 ---
 
-## Working materials
+### Working materials
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
 - draft document explaining why and how InfoSec should offer guarantees and warranties
 
