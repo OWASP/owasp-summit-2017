@@ -3,26 +3,27 @@ layout  : blocks/outcome
 title   : Threat Modeling Deliverable Creation
 ---
 
-## Outcomes
+### Outcomes
 
 ### Synopsis and Takeaways
 
-1.	Architecture – Considerations for architecture are to be applied as a workshop via the juice box threat modelling hands-on session.  
+1.	Architecture – Considerations for architecture are to be applied as a workshop via the juice box threat modelling hands-on session. 
 The goal is to deconstruct juice box in order to emulate proper threat modelling activities & techniques.
 2.	Tools – when a model is created there must be a change log handled automatically by a tool and put on GitHub. DFDs within tools are 
-ENS (Microsoft tool) and Vector magic (cedar cake ventures) 
+ENS (Microsoft tool) and Vector magic (cedar cake ventures). 
 3.	DFD – Common formatting of how the images should be formed. UML will be used. 
 4.	Cheat sheets - write and update existing cheat sheets. Create a new sheet in do's and don’ts in threat modelling. 
 5.	LTWT - Agile, business analytics, STRIDE, information disclosure, DDOS and escalation of privilege were discussed. 
-6.	Templates/demonstrations – It was discussed that all templates will be modular so they can be chained together. 
+6.	Templates/demonstrations – we agreed that all templates will be modular so they can be chained together. 
+
 The aims are to provide templates for
 
-- Internet of things/microcomputers such as pies.
+- Internet of things/microcomputers such as pies
   o	Consumer electronics (cars) 
   o	IDS (industry control systems) such as medical transportation and utilities 
 -	Mobile 
   o	Mobile clients
-  o	Find vulnerabilities in Apple and android systems.
+  o	Find vulnerabilities in Apple and android systems
   o	Correlate all the mobile information to the OWASP mobile top 10
 -	WEB API
   o	XML-RPC
@@ -36,7 +37,7 @@ The aims are to provide templates for
 -	Authentication
 -	Transport security 
 -	Authorization/ RBAC 
--	Administrative use case.
+-	Administrative use case
   o	Abuse Cases
 -	Privilege escalation
 -	RCE 
