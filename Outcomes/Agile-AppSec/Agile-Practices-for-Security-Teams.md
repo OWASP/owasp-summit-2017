@@ -5,7 +5,7 @@ title  : Agile Practices for Security Teams
 
 ### Outcomes
 
-A Draft List of Agile Security Practices
+A draft list of agile security practices
 
 ### Synopsis and Takeaways
 
@@ -67,10 +67,10 @@ The following categories highlight some of the key activities of an agile securi
 
 ### Working materials
 
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
+Here are the current "work in progress" materials for this session (please add as much information as possible before the sessions):
 
 <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=OWASP_Proactive_Controls_2016">OWASP Proactive Controls</a>
 
 ### Content
 
-- Draft list of ‘Agile Security Practices’
+- Draft list of "Agile Security Practices"
