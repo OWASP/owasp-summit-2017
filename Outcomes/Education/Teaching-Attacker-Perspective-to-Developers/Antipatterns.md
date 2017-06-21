@@ -5,6 +5,7 @@ title	: Teaching attacker perspective to developers
 
 ### Outcomes
 
+
 #### AntiPatterns
 
 Good trainers will be aware of, and will avoid, the antipatterns listed below.
