@@ -3,7 +3,7 @@ layout : blocks/outcome
 title  : Agile Practices for Security Teams
 ---
 
-## Outcomes
+### Outcomes
 
 A Draft List of Agile Security Practices
 
@@ -65,7 +65,7 @@ The following categories highlight some of the key activities of an agile securi
 
 --- 
 
-## Working materials
+### Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
 
