@@ -42,7 +42,7 @@ Here are the current 'work in progress' materials for this session.
 
 ### Content
 
-Architectures based on microservices have different requirements for how applications are developed, deployed, and managed during their lifecycle. This means that security models that support them must adapt to the different requirements. Security must be layered in a way that will address the complete infrastructure and will often combine different technologies to ensure each layer is adequately protected. 
+Architectures based on microservices have different requirements for how applications are developed, deployed, and managed during their lifecycle. This means that security models that support development, deployment and management must adapt to the different requirements. Security must be layered in a way that will address the complete infrastructure and will often combine different technologies to ensure each layer is adequately protected. 
 
 Docker simplifies the whole process and brings tangible benefits in terms of development and deployment, but also in terms of security. Containers give an additional layer of security by isolating themselves without the need to use resources and reduce the host´s surface area. In cases where an attacker gains access to one of the containers, they should be unable to access the host or other containers since the containers are not namespaced. However, if a user is root in the container, that user will be root on the host, which will result in a potential privilege escalation attack.
 
