@@ -19,11 +19,11 @@ The outcome is targeted at pen testers or developers. Work should not follow a c
 A dynamic list is better than a top ten list because threats can be added and update readily 
 Attack trees require a lot of work to function at a high level and are slow to perform. However, these can be used for a completeness check. The Idea is to focus attack trees on a certain area of interest.
 
-We need to 
--	Develop a tool to produce evidence-based outputs so big data will not be a problem. 
--	Increase awareness and accountability for developers who don’t understand the data flow or how the application stack works
--	Develop a help guide for developers with security unit tests in mind  
--	Help with automation on the developer’s side with input from security personal.
+- We need to 
+ -	Develop a tool to produce evidence-based outputs so big data will not be a problem. 
+ -	Increase awareness and accountability for developers who don’t understand the data flow or how the application stack works
+ -	Develop a help guide for developers with security unit tests in mind  
+ -	Help with automation on the developer’s side with input from security personal.
 
 #### Outcomes
 
