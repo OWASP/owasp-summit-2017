@@ -3,7 +3,7 @@ layout  : blocks/outcome
 title	  : Docker Security
 ---
 
-## Outcomes
+### Outcomes
 
 The outcome of this Working Session will be a document which summarizes the most common security concerns when using Docker, and gives practical advice on suitable safeguards.
 
