@@ -5,7 +5,7 @@ title        : Responsible Disclosure
 ## Outcomes
 
 - Checklists to keep in mind before starting a programme
-- Responsible Disclosure legal framework accepted EU/country wide
+- Responsible Disclosure legal framework accepted EU/countrywide
 
 ### Synopsis and Takeways
 
@@ -16,7 +16,7 @@ title        : Responsible Disclosure
       
 - **Level two** consists of
    - Rewards or kudos awarded for valid submissions
-   - Published the validation timelines
+   - Published validation timelines
    - Ability to triage
    - Ability to fix the issues
    
@@ -41,4 +41,4 @@ Survey Images:
 ## Working materials
 
 - Draft checklists to keep in mind before starting a programme
-- Draft Responsible Disclosure legal framework accepted EU/country wide
+- Draft Responsible Disclosure legal framework accepted EU/countrywide
