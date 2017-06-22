@@ -18,11 +18,11 @@ title	: WebGoat
 - How to integrate automated vulnerability checking into WebGoat
 - Fixing a lesson should be added so developers can fix as well as break
 - New lesson ideas
-      - Upload functionality
-      - Path traversal with shell upload
-      - Crypto
-      - Focus on HTML5
-      - JSON Injection
-      - Business logic 
-               - e.g., After payment of an order repeat the request and keep ordering the TVs without paying. 
+  - Upload functionality
+  - Path traversal with shell upload
+  - Crypto
+  - Focus on HTML5
+  - JSON Injection
+  - Business logic 
+       - e.g., After payment of an order repeat the request and keep ordering the TVs without paying. 
 
