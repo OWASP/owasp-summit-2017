@@ -14,7 +14,7 @@ This session discussed the current and in-development features of Juice Shop. Th
 
 Other features such as invoice tracking, delivery and email services were also discussed. Potential publishing a cheat sheet of do's and don’ts when using Data flow modelling.
 
-### Key Takeaways
+#### Key Takeaways
 
 - Created a sequence diagram of Two-Factor-Authentication information
 - Created a data flow diagram on new and improved features for Juice Shop
