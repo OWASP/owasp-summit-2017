@@ -11,23 +11,23 @@ A draft list of agile security practices
 
 The following categories highlight some of the key activities of an agile security team:
 
-**Education**
+#### Education
 
 - Define and deliver security training programmes
 
-**Communication** 
+#### Communication
 
 - Security team to be visible, present at standups, available
 - Connect dev to production
 - Empower security champions
 
-**Standardisation and Compliance**
+#### Standardisation and Compliance
 
 - Own strong guidelines, e.g. data classification, regulatory, compliance
 - Two tier security standards? mandatory, depend on risk/sensitivity etc.
 - Library of standard stories
 
-**Support**
+#### Support
 
 - Technical support
 - Help create security user stories, personas, anti-personas, patterns
@@ -36,7 +36,7 @@ The following categories highlight some of the key activities of an agile securi
 - Automation is needed for CI/CD e.g. tool to track 3rd party licenses
 - "Development enablement tribe"
 
-**Governance/Control**
+#### Governance/Control
 
 - Project initiation touch point to define "gates"
 - Prioritisation of involvement based on risk assessment, lifecycle stage
@@ -49,11 +49,11 @@ The following categories highlight some of the key activities of an agile securi
 - Monetary value on risks helps prioritisation
 - Risk acceptance/escalation process
 
-**Engineering**
+#### Engineering
 
 - Bring in shared security solutions such as WAF- engineering effort
 
-**Practices**
+#### Practices
 
 - Perhaps agile not applicable, more lean/kanban
 - View security as functions, not people - resourcing can change but functions don't
