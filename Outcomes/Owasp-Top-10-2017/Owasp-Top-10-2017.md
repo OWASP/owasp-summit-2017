@@ -12,7 +12,7 @@ title    : OWASP Top 10 2017
 In the first session, we talked about the history of the OWASP Top 10, and how it evolved over time. In 2004, there was no data backing the standard. In 2007, we used only CVE data for the analysis, and we used our judgement to fit in CSRF as an issue. In 2010 and 2013, the forward looking issue was out of date components, which on one analysis of the OWASP Top 10 to breach data represents a full 24% of all data breaches. Therefore, there should always be room for forward looking inclusions.
 
 Audience is everyone in App Sec, and not just developers
-The basis for the OWASP Top 10 is "risks". I have suggested we adopt the ISO 31000:2015 standard definition for risk, so that we have the same understand as risk managers in most parts of the world.
+The basis for the OWASP Top 10 is "risks". I (Andrew van der Stock) have suggested we adopt the ISO 31000:2015 standard definition for risk, so that we have the same understand as risk managers in most parts of the world.
 We will document the rationale for the OWASP Top 10 on the wiki, and possibly at least a part of it in the document this year. This will be the same rationale / process going forward for 2020 and 2023
 I will take a motion to the Board asking for a change to the Project Leader Handbook, where Flagship projects will have a six month grace period to obtain at least two leaders from two different firms to avoid perceptions of vendor lock-in either in actuality or perceived. There is no restriction on a single leader from a single company controlling a Flagship project at the moment, so I want to de-couple the other issues from the independence issue.
 
@@ -49,9 +49,9 @@ This was a great session, where we agreed on what's staying and the "why" weight
 
 There will be a second data call, ending on August 25. If you can provide data in the same format as found here (https://github.com/OWASP/Top10/blob/master/2017/datacall/OWASP%20Top%2010%20-%202017%20Data%20Call-Public%20Release.xlsx), that would be great. We are looking for large and small data sets - tool or human driven, we want it all. We will get that out widely once I have a a chance to talk it over with Foundation Staff. I will reach out to those who have volunteered recently, but there will be a widespread and coordinated social media blitz once we're ready to do it. I want this to be a trial run for the OWASP Top 10 2020 data collection so we can learn from it as well.
 
-Andrew van der Stock will work with Brian Glas to define a set of 5-10 "on the cusp" / forward looking inclusions and let the community decide the fate of A7 / A10. Depending on the risk rating of the issues that are likely to be considered (XXE, Serialization, etc.) may mean A7 and A10 move around a bit.
+I will work with Brian Glas to define a set of 5-10 "on the cusp" / forward looking inclusions and let the community decide the fate of A7 / A10. Depending on the risk rating of the issues that are likely to be considered (XXE, Serialization, etc.) may mean A7 and A10 move around a bit.
 
-Thirdly, Andrew will work with Brian Glas and others to help define not only the final weighting for 2017, but some interesting questions for the 2020 data call, so basically, what could be done better for next time. We have agreed in this session, it's too late to change the data collection as we've already collected a lot of data.
+Thirdly, I will work with Brian Glas and others to help define not only the final weighting for 2017, but some interesting questions for the 2020 data call, so basically, what could be done better for next time. We have agreed in this session, it's too late to change the data collection as we've already collected a lot of data.
 
 Finally, we decided on a deadline for the next release of the OWASP Top 10 2017 - late November, just before Thanksgiving. I will try to get it out the week before. This drives various dates before then. We are looking for a relatively final release candidate in October to make sure that the data has had time to be analysed and included.
 
@@ -95,4 +95,4 @@ Please only one issue per area (i.e. "F" or "A3"), with the format of "what is w
 
 The rest of the week is free time. Thank you to everyone who participated in person and remotely. We had a few audio issues, but once video was dropped the audio impoved.
 
-We have made it to a point where action items need to be done by me and Brian Glas on the data call and editing the issues in Github. I don't want to waste people's time as there are so many great sessions on.  I hope attendees who wanted to attend the OWASP Top 10 sessions can find other tracks to learn more about the other great projects and initiatives at OWASP.
+We have made it to a point where action items need to be done by me (Andrew) and Brian Glas on the data call and editing the issues in Github. I don't want to waste people's time as there are so many great sessions on.  I hope attendees who wanted to attend the OWASP Top 10 sessions can find other tracks that interest them.
