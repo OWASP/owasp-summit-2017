@@ -9,10 +9,10 @@ title        : Responsible Disclosure
 
 ### Synopsis and Takeways
 
-- **Level one** consists of
-   - Creating an email address for communication (vulnerability report submissions)
-   - Designated Person for the response
-   - Publishing the contact details for responsible disclosure (social channels or through the web page)
+#### Level one
+  - Creating an email address for communication (vulnerability report submissions)
+  - Designated Person for the response
+  - Publishing the contact details for responsible disclosure (social channels or through the web page)
       
 - **Level two** consists of
    - Rewards or kudos awarded for valid submissions
