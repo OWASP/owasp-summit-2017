@@ -3,7 +3,7 @@ layout   : blocks/outcome
 title    : The Future of Privacy
 ---
 
-## Outcomes
+### Outcomes
 
 - OWASP Privacy statements
 - Concept of a campaign and compliance of OWASP community and foundation, road map
@@ -14,7 +14,7 @@ title    : The Future of Privacy
 
 Wilhelm von Humboldt, 1791: "There is no freedom without security"
 
-**General**
+#### General
 
 A.1 It's not a legal question! Privacy as matter for individuals, not courts!
 
@@ -28,7 +28,7 @@ A.4 Review resources: are there resources for privacy which
 
 	- deliver categorys of privacy
 
-**Risks**
+#### Risks
 
 B.1 Types of privacy / personal data (brain storming)
 
@@ -94,19 +94,12 @@ D.1 Are there technical solutions conceivable, which help individuals to collect
 
    The "black hats" (criminal individuals or gangs) are not in focus here.
 
-
-## Who
-
-The target audience for this Working Session is:
-
-- Everyone who cares about privacy.
-
-## References:
+### References:
 
 (1) OWASP Summit 2011 Working Session "Privacy" ( https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073 )
 
 ---
 
-## Working materials
+### Working materials
 
 - Agenda and results: https://drive.google.com/file/d/0B1vROwh8vCBGWGR6VENqak9SaHc/view?usp=sharing

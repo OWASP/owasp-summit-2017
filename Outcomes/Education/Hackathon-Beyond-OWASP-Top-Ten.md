@@ -3,7 +3,7 @@ layout  : blocks/outcome
 title   : Hackathon on avatao - Beyond OWASP Top Ten
 ---
 
-## Outcomes
+### Outcomes
 
 - Having fun 
 - Learn new vulnerabilities and past epic failures ([Yahoo Mail stored XSS](https://klikki.fi/adv/yahoo2.html))
@@ -12,46 +12,34 @@ title   : Hackathon on avatao - Beyond OWASP Top Ten
 
 ### Synopsis and Takeaways
 
-## Screenshots
+#### Screenshots
 
-### The OWASP 2017 Summit path 
+#### The OWASP 2017 Summit path 
 
 ![avatao owasp](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/avatao_kaitai.png)
 
-### Kaitai Struct in avatao
+#### Kaitai Struct in avatao
 
 ![avatao kaitai](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/Kaitai%20Web%20IDE.png)
 
-### Live Wireshark from your browser
+#### Live Wireshark from your browser
 
 ![avatao wireshark](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/avatao_wireshark.png)
 
-### Some statistics
+#### Some statistics
 
 ![avatao statistics](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/avatao_statistics.png)
 
-## Remote Participants
-
-All  challenges will be available online so people can participate remotely.
-
 --- 
 
-## General Rules for Participatants
+#### General Rules for Participatants
 
 The hackathon will be organised on the [avatao](https://avatao.com) platform, which is a commercial product to teach 
 people how to build secure products. In accordance with the general rules of the OWASP Summit 2017, a dedicated learning 
 path will be set up for all the on-site and remote conference participants *free of charge*. The organisers of the Hackathon 
 will help the participants on-site, but the Hackathon will continue to be available after the conference. 
 
-## Outcome
+#### Outcome
 
  -A very successful hackathon about software security; we also collected ideas for new challenges.
- 
- ## Who
 
-The target audience for this Working Session is:
-
-- Developers (anyone interested in web and low-level languages)
-- Security professionals
-- CTF participants (and those who would like to become one)
-- CISOs

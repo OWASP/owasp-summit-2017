@@ -4,32 +4,24 @@ title        : Security Guild vs Security Champions
 ---
 ## Outcomes
 
-Security Champions are a key element of an AppSec team, since they create a cross-functional team focused on Application Security.
+Security Champions are a key element of an AppSec team:  they create a cross-functional team focused on Application Security.
 
-What is a Security Champion?
+#### What is a Security Champion?
 
-- Security Champions are active members of a team with a dotted line to the central Security Team
+- Active members of a team with a dotted line to the central Security Team
 - Act as the "voice" of security for the given product or team
-- Security Champions provide visilibity to the central security
+- Provide visilibity to the central security
 
-Comments
+##### Comments
 
 - Security Champions are a model that has been used succesfully
 - A group of Security Champions could be a Security Guild
 - Security Champions network need energy from the central Security Team
 
-Follow up:
+#### Follow up
 
 - Request on the model present above
 - Create a survey that maps the current Security Champions structure (in the Summit)
-
-## Who
-
-The target audience for this Working Session is:
-
- - Security Champions
- - CISOs
- - Agile practitioners
 
  ---
 

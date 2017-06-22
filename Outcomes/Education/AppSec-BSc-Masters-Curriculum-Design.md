@@ -4,7 +4,7 @@ title   : Application Security BSc/Masters Curriculum Design
 ---
 
 
-## Outcomes
+### Outcomes
 
 This Working Session will deliver the following documents:
 
@@ -53,19 +53,10 @@ B)	Subsequent Departments you interface with:
 
 ![Educational Diagram](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design/learning-objectives.jpg){:style="width:603px"}
 
-## Who
-
-The target audience for this Working Session is:
-
-- OWASP project leaders whose projects have an educational element (probably all OWASP Project leaders)
-- Application Security trainers
-- Academics involved in AppSec and InfoSec
-- Any employer involved in recruiting graduates into application security related roles
-- Other organisations/professional bodies interested in Application Security educational programmes
 
 ---
 
-## Working materials
+### Working materials
 
 - Draft learning objectives for BSC/MSc level Application Security curricula
 - Draft strategy for the OWASP community to support AppSec curricula

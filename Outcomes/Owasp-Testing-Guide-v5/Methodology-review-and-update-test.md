@@ -5,14 +5,14 @@ title	  : Methodology review and update test
 
 ### Synopsis and Takeaways
 
-**Completed tasks**
+#### Completed tasks
 
-- Brainstorming the new activities that will improve the guide
+- Brainstorming new activities that will improve the guide
 - Alignment with OWASP guides: Development Guide, Code Review Guide, ASVS, Top10, Testing Checklist, ZAP, Vulnerability list
 - Discussion on tools
-- Add the list of new tests to the v5
+- Add the list of new tests to v5
 
-**New tests to write**
+#### New tests to write
 
 - Server-Side Request Forgery (SSRF)
 - Server-side Remote Code Execution (RCE)
@@ -28,7 +28,7 @@ title	  : Methodology review and update test
 - Testing Content Security Policy V2 (CSP)?
 - Testing for SSO?
 
-**Review**
+#### Review
 
 - Client Side Testing
 - ORM Injection 
@@ -38,7 +38,7 @@ title	  : Methodology review and update test
 - Reporting: adding how to create security testing case for devs
 - https://www.owasp.org/index.php/Test_Local_Storage_(OTG-CLIENT-012) add Client Side SQLi
 
-**Two questions for OWASP**
+#### Two questions for OWASP
 
 - TOOLS discussion: in the old version of the Testing Guide we cited open source and commercial tools for each type of test to perform that could help during the analysis. Would you like to cite both?
 

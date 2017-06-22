@@ -5,28 +5,28 @@ title        : Responsible Disclosure
 ## Outcomes
 
 - Checklists to keep in mind before starting a programme
-- Responsible Disclosure legal framework accepted EU/country wide
+- Responsible Disclosure legal framework accepted EU/countrywide
 
 ### Synopsis and Takeways
 
-- **Level one** consists of
-   - Creating an email address for communication (vulnerability report submissions)
-   - Designated Person for the response
-   - Publishing the contact details for responsible disclosure (social channels or through the web page)
+#### Level one
+  - Creating an email address for communication (vulnerability report submissions)
+  - Designated Person for the response
+  - Publishing the contact details for responsible disclosure (social channels or through the web page)
       
-- **Level two** consists of
-   - Rewards or kudos awarded for valid submissions
-   - Published the validation timelines
-   - Ability to triage
-   - Ability to fix the issues
+#### Level two
+  - Rewards or kudos awarded for valid submissions
+  - Published validation timelines
+  - Ability to triage
+  - Ability to fix the issues
    
-- **Level three** consists of
-   - Credibility of the program within the security community
-   - Published the reward values
-   - Published the remediation timelines
-   - Published end to end process
+#### Level three
+  - Credibility of the program within the security community
+  - Published the reward values
+  - Published the remediation timelines
+  - Published end to end process
       
-- These appear as Yes/No questions on the survey, and comments can be added as necessary.
+These appear as Yes/No questions on the survey, and comments can be added as necessary.
 
 After collaborating with participants, the "OWASP Responsible Disclosure Maturity Model Survey" was conceived.
 
@@ -41,4 +41,4 @@ Survey Images:
 ## Working materials
 
 - Draft checklists to keep in mind before starting a programme
-- Draft Responsible Disclosure legal framework accepted EU/country wide
+- Draft Responsible Disclosure legal framework accepted EU/countrywide

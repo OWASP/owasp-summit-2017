@@ -3,11 +3,11 @@ layout   : blocks/outcome
 title    : CISO Round Table
 ---
 
-## Outcomes
+### Outcomes
 
 ### Synopsis and Takeaways
 
-Target audience:  Companies without a CISO
+Target audience: Companies without a CISO
 
 **CISO Role**
 

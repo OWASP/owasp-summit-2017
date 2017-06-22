@@ -16,7 +16,7 @@ This Working Session will publish a document containing the following:
 
  The working session produced a list of best practices for capturing logs and feeding them into central locations. 
 
-**What do we put on a list of best practices? (discussion)**
+#### What do we put on a list of best practices? (discussion)
 
 - Good RegEx tutorials 
 - Plug-ins pages links for parservs
@@ -24,13 +24,13 @@ This Working Session will publish a document containing the following:
 - Read the meta data, process for understanding 
 - Feed MISP with threat intelligence information 
 
-**Best Practice list**
+#### Best Practice list
 
 - Check time synchronisation of NTP servers 
 - Evaluate which alerts can be converted into automatic or manual actions 
 - Send your CI / CD information to the SOC
 
-**Guidelines for visualising SOC data collected in actionable/meaningful graphs**
+#### Guidelines for visualising SOC data collected in actionable/meaningful graphs
 
 - Correlation of events
 - Out of bounds activities 

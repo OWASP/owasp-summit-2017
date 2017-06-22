@@ -8,14 +8,6 @@ title        : Security Champions
 - Agreed structure to help companies create networks of security champions
 - Creation of a forum for security champions
 
-## Who
-
-The target audience for this Working Session is:
-
- - Security Champions
- - CISOs
- - Developers
-
 ## References
 
  - https://www.owasp.org/index.php/Security_Champions

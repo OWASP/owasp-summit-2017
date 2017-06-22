@@ -1,22 +1,25 @@
-# Internal Security Meetup
+---
+layout : blocks/outcome
+title  : Internal Security Meetup
+---
 
-## Planning
+#### Planning
 
-- threat
-- vulnerability
-- attack vectors
-- offending vs. safe code
-- countermeasure (fixing)
-- deployment
+- Threat
+- Vulnerability
+- Attack vectors
+- Offending vs. safe code
+- Countermeasure (fixing)
+- Deployment
 
-## Target Audience
+#### Target Audience
 
-- developers
-- testers
-- devops team
-- managers (sometimes)
+- Developers
+- Testers
+- Devops team
+- Managers (sometimes)
 
-## Approach
+#### Approach
 
 - Theory by instructor or web-based training.
 - Hackathons for practical skills.
@@ -34,12 +37,12 @@ Study that shows
 [cost of discovering mistakes](https://espincorp.wordpress.com/tag/sdlc-bugs/).
 Discovery and fixing comes too late, too costly.
 
-## Objectives
+#### Objectives
 
 - Learn attack libraries, threat modeling
 - Increase the security awareness and code quality
 
-## Measurable outcomes
+#### Measurable outcomes
 
 - How many challenges you solve, get points
 - Reduced number of critical vulnerabilities in the codebase

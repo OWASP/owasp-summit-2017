@@ -3,9 +3,7 @@ layout  : blocks/outcome
 title   : Recruiting AppSec Talent
 ---
 
-
-
-## Outcomes  
+### Outcomes  
 
 Suggested Outcomes:
 
@@ -22,7 +20,7 @@ We discussed the gap between companies’ needs to recruit talented AppSec peopl
 work at their company.
 The Joel Test is a quick indicator of Development culture: an irresponsible, sloppy test to rate the quality of a software team. 
 We have adapted the Joel Test to quickly indicate a company’s AppSec culture.
-The test’s purpose is to help companies attract  the right talent and help talent to find the right company  
+The test’s purpose is to help companies attract the right talent and help talent to find the right company  
 
 First draft of the AppSec Joel Test (in no specific order): 
 - Does the company fund ongoing education for AppSec hires?
@@ -37,25 +35,6 @@ First draft of the AppSec Joel Test (in no specific order):
 - Can AppSec people choose their own tools (paid for by the company)?
 - Is there a dedicated Incident Response team?
 - Does the company contribute to Open Source and community efforts (or support personal contributions)?
-
-## Who
-
-The target audience for this Working Session is:
-
- - AppSec team leads
- - Technical managers
- - Senior employees 
- - Freelancers
- - Recruitment agencies
- - Human resources
- - Universities
-
-## Working materials
-
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)
-
-### Content
-... Add content...
 
 ### Links
 
