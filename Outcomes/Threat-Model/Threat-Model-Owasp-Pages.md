@@ -8,19 +8,7 @@ title   : Threat Modeling OWASP Pages
 - Revised content on OWASP threat modelling pages
 - Subpages on threat modelling methodologies with details and artefacts created
 
-See Session outcomes below.
-  
-## Who
-
-The target audience for this Working Session is:
-
- - Wiki ninjas
- - Experienced threat modeling evangelists
- - Project owners/session organisers for other threat modelling workshops/sessions
- 
- --- 
-
-## Session outcomes
+## Synopsis and Takeaways 
 
 ### What is a Threat Model?
 
@@ -32,10 +20,10 @@ The target audience for this Working Session is:
 - Produces security requirements and/or risks, security design
 - "How secure is secure enough?"
 - Optimise the security investment
-- The term "threat" needs to be clarified (connection to vulnerability, exploit, threat agent...)
+- The term "threat" needs to be clarified (connection to vulnerability, exploit, threat agent, etc.)
 - Possibility of a vulnerability / software flaw
 - Actualized risk of appearance of a vulnerability 
-- Intent of a threat agent to perform an undesired action (Attacker centric approach)
+- Intent of a threat agent to perform an undesired action (attacker-centric approach)
 
 ### Why use a Threat Model?
 
@@ -44,7 +32,7 @@ The target audience for this Working Session is:
 
 #### Synopsis/Takeaways
 
-This session was very productive. The group discussed how to improve the OWASP Threat Modelling pages. Specifically, defining the what, why, Who, When and how of Threat Modelling for development and security Roles. The session was split into 3 groups (Software, Risk, security Centric approaches).
+This session was very productive. The group discussed how to improve the OWASP Threat Modelling pages. Specifically, defining the what, why, who, when and how of Threat Modelling for development and security Roles. The session was split into 3 groups (Software, Risk, security Centric approaches).
 
 ##### What/Why
 
@@ -72,21 +60,21 @@ This session was very productive. The group discussed how to improve the OWASP T
 
 The Group output is shown below:
 
-### Security Centric Approach
+### Security-Centric Approach
 
-The security centric approach tries to identify every possible threat to the system under investigation. This approach is used mainly by a niche group within threat modeling where any threat or vulnerability will have a huge impact and thus is a large risk. Since we can not prioritize threats on risk we must identify and cover all of them.
+The security-centric approach tries to identify every possible threat to the system under investigation. This approach is used mainly by a niche group within threat modeling where any threat or vulnerability will have a huge impact and thus is a large risk. Since we can not prioritize threats on risk we must identify and cover all of them.
 
-Examples of industries where the security centric approach are military, critical infrastructure, healthcare, utility sector, space exploration, ...
+Examples of industries where the security centric approach are military, critical infrastructure, healthcare, utility sector, space exploration, etc.
 
 Most of these industries have very strict regulatory safety requirements to meet. Even though these organisations need to protect privacy and comply to regulations like GDPR these are not the main focus. In healthcare for example patient safety is more important then patient confidentiality.
 
-This is shooting at a moving target, even for a fixed technology new threats are emerging and being developed. Continuous evaluation of the threat library will be needed. This makes the security centric approach one of the more expensive approaches.
+This is shooting at a moving target, even for a fixed technology new threats are emerging and being developed. Continuous evaluation of the threat library will be needed. This makes the security-centric approach one of the more expensive approaches.
 
 #### 1. Scope & Objective
 
-In most approaches overscoping is a problem that needs to be addressed. In a security centric approach overscoping is preffered and underscoping needs to be avoided at all costs. 
+In most approaches overscoping is a problem that needs to be addressed. In a security-centric approach overscoping is preffered and underscoping needs to be avoided at all costs. 
 
-The objective of a security centric threat model is to document, analyse and mitigate every possible threat agaist the system.
+The objective of a security-centric threat model is to document, analyse and mitigate every possible threat agaist the system.
 
 #### 2. System Overview
 
@@ -96,7 +84,7 @@ The system overview is bound to be very large, most systems will have an overvie
 
 #### 4. Identify and analyse threats
 
-The main difference between the security centric approach is that every threat needs to be identified (and mitigated).
+The main difference between the security-centric approach is that every threat needs to be identified (and mitigated).
 
 #### 5. Identify and analyse mitigations
 
@@ -105,10 +93,10 @@ The main difference between the security centric approach is that every threat n
 
 ### Options
 
-  - Attacker analysis (who, how many, how good, how motivated...)
+  - Attacker analysis (who, how many, how good, how motivated, etc.)
   - Attack Tree (how to achieve a goal - e.g. spoof a user)
-  - Usage of a threat library (e.g. STRIDE, ...)
-  - ? Given we can also start from security controls: ASF (Application Security Frame) - Microsoft Application
+  - Usage of a threat library (e.g. STRIDE, etc.)
+  - Given that we can also start from security controls: ASF (Application Security Frame) - Microsoft Application
   
 ### Consumers 
 
@@ -130,8 +118,8 @@ As a prerequisite, we assume we have a buy-in from the management. Technical peo
 Consider whether it's a greenfield project or an existing product, and development and release model (waterfall or agile).
 
 Legacy products:
--- have to accept that it's not realistic to do a full TM; baseline the existing situation
--- new changes have to be threat-modeled against current state/situation bring legacy components into scope only as part of changes
+-- Have to accept that it's not realistic to do a full TM; baseline the existing situation
+-- New changes have to be threat-modeled against current state/situation bring legacy components into scope only as part of changes
 
 Greenfield projects:
 -- Can start from scratch, architects decompose the application
@@ -176,14 +164,14 @@ Contribution from advanced users.
 4.1 - Leverage a threat library and correlate to business impacting use cases
 4.2 - Develop an attack tree that has attack patterns affecting application components  
 4.2.2 - Leverage an attack library like CAPEC to correlate common attack patterns to the application threat model
-4.3 - Leverage threat intel from outside sources to substantiate prevalence of threats (e.g. - DFIR report, threat feeds, etc.)
+4.3 - Leverage threat intel from outside sources to substantiate prevalence of threats (e.g. - DFIR report, threat feeds)
 4.4 - Leverage infrastructure, application, server log info that correlates to attack patterns support threat model
 
 5. Vulnerability/ Weakness Identification
 5.1 - Correlate scan (SAST, DAST, Vuln, etc) data to identify presence of weaknesses associated with application components
 5.2 - Map Weaknesses to affected components and update attack tree component nodes with associated weaknesses
 5.2.2 - Leverage CWEs to use a weakness library
-5.3 - Identify Design Flaws in the Application Architecture (e.g. - poor key management, poor logging, implicit trusts, etc.)
+5.3 - Identify Design Flaws in the Application Architecture (e.g. - poor key management, poor logging, implicit trusts)
 
 6. Attack Modeling
 6.1 Update attack tree to include Threat -> Component -> Weakness -> Attack Patterns
