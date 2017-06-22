@@ -64,7 +64,7 @@ The Group output is shown below:
 
 The security-centric approach tries to identify every possible threat to the system under investigation. This approach is used mainly by a niche group within threat modeling where any threat or vulnerability will have a huge impact and thus is a large risk. Since we can not prioritize threats on risk we must identify and cover all of them.
 
-Examples of industries where the security centric approach are military, critical infrastructure, healthcare, utility sector, space exploration, etc.
+Industries which use the security-centric approach include military, critical infrastructure, healthcare, utility sector, space exploration, etc.
 
 Most of these industries have very strict regulatory safety requirements to meet. Even though these organisations need to protect privacy and comply to regulations like GDPR these are not the main focus. In healthcare for example patient safety is more important then patient confidentiality.
 
