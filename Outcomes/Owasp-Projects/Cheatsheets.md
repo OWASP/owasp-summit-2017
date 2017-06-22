@@ -7,7 +7,7 @@ title	  : Cheatsheets
  
 The last afternoon session on June 13th for Cheat Sheets decided that we need to deliver a number of FAQs and functional requirements to ensure better participation and clarity around the process.
 
-**The proposed topics are:**
+#### The proposed topics are:
 
   - How to create a new cheat sheet?
   - How to modify?
@@ -16,7 +16,7 @@ The last afternoon session on June 13th for Cheat Sheets decided that we need to
   - What is a valid cheat sheet topic?
   - When to retire or remove one (currency test)?
 
-**Functional requirements:**
+#### Functional requirements:
 
   - Last edit date on the Wiki
   - Last review date on the Wiki
