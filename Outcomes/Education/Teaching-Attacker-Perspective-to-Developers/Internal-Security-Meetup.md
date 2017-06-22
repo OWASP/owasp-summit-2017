@@ -5,19 +5,19 @@ title  : Internal Security Meetup
 
 #### Planning
 
-- threat
-- vulnerability
-- attack vectors
-- offending vs. safe code
-- countermeasure (fixing)
-- deployment
+- Threat
+- Vulnerability
+- Attack vectors
+- Offending vs. safe code
+- Countermeasure (fixing)
+- Deployment
 
 #### Target Audience
 
-- developers
-- testers
-- devops team
-- managers (sometimes)
+- Developers
+- Testers
+- Devops team
+- Managers (sometimes)
 
 #### Approach
 
