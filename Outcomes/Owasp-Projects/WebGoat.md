@@ -11,7 +11,7 @@ title	: WebGoat
 
 ### Synopsis and Takeaways
 
-- Add lessons not found in other Goat like applications e.g., SSRF
+- Add lessons not found in other Goat-like applications e.g., SSRF
 - Discussion about sharing content between Goat-like applications such as WebGoat, NodeGoat, etc.
 - Flexibility when presenting in lessons
 - Language support discussion and agreed to support one language and focus on other features first 
