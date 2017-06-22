@@ -26,11 +26,11 @@ The group was split into 3 teams (Ascertain, Threats, and Mitigation).  A diagra
 Assumption: Roles include developers, architect, product owners, team leads, DEVOPS, Security Champions, and DBAs.
 
 ###### Ascertain
-- Assumption: To piggy back on top of the standard Agile user story creation process.
-- Assumption: Ascertain phase evaluates the effectiveness of prior mitigation actions.
+- Assumption:  to piggy back on top of the standard Agile user story creation process.
+- Assumption:  ascertain phase evaluates the effectiveness of prior mitigation actions.
 
 - Security information is derived from the functional story information.
-- Team is encouraged to draw a high-level diagram of the system for a common talking point. We're all visual by nature :-)
+- Team is encouraged to draw a high-level diagram of the system for a common talking point:  we are visual by nature :-)
 - A non-granular Context Diagram is created as an artefact to support the security information.
 - Use Cases are defined from the business and security user story information, and are used later to derive abuse cases.
 
