@@ -1,4 +1,7 @@
-### Best Practice
+---
+layout : blocks/outcome
+title  : Best Practice
+---
 
 #### Timebox your exercises
 
