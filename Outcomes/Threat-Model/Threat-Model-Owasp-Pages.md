@@ -30,7 +30,7 @@ title   : Threat Modeling OWASP Pages
 - Enables/supports cost-effective security
 - Enables you to understand your security risks
 
-#### Synopsis/Takeaways
+#### Synopsis and Takeaways
 
 This session was very productive. The group discussed how to improve the OWASP Threat Modelling pages. Specifically, defining the what, why, who, when and how of Threat Modelling for development and security Roles. The session was split into 3 groups (Software, Risk, security Centric approaches).
 
