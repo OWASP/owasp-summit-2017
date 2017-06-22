@@ -4,7 +4,7 @@ title    : Application Security Guide for CISO
 ---
 ### Outcomes
 
-**The Application Security Guide for CISO 2013 Version Goals were:**
+#### The Application Security Guide for CISO 2013 Version Goals were:
 
 1. Make Application Security and OWASP more visible to Application Security managers and CISOs.
 2. Analyse the reasons for adopting an Application Security Program by an organisation (e.g. tactical and strategic).
@@ -12,7 +12,7 @@ title    : Application Security Guide for CISO
 4. Factor the impact of emerging technologies in Application Security Program (e.g. Mobile, Cloud, Web Services) and provide guidance.
 5. Provide examples of metrics and measurements for Vulnerability Risk Management.
 
-**For the Planned 2018 version, on which problems and solutions/guidance can we expand? (NOTE: these will be assessed with expanded CISO survey questions):**
+#### For the Planned 2018 version, on which problems and solutions/guidance can we expand? (NOTE: these will be assessed with expanded CISO survey questions):
 
 1. Impact of GDPR on AppSec and recommendations (including outcomes of 2017 Summit CISO track)
 2. Emerging technology risks and risk mitigation guidance (e.g. APIs and Micro-services, Biometrics)
@@ -21,7 +21,7 @@ title    : Application Security Guide for CISO
 
 ### Synopsis and Takeaways
 
-**Outcome 1 – What topics would you like covered in the new CISO guide? (unranked)**
+#### Outcome 1 – What topics would you like covered in the new CISO guide? (unranked)
 
 - Incorporate reference to outcomes of 2017 Summit CISO track
 - Expand to include new tools/technologies
@@ -40,7 +40,7 @@ title    : Application Security Guide for CISO
 - Involvement: the CISO should be involved in road mapping for future deployment, and in business development meetings, so they can plan ahead.
 - Format:  It was agreed that a handbook would have more value than a playbook given threat variables between company requirements.
 
-**Outcome 2 – What type of question would you like included in the new CISO guide? (unranked)**
+#### Outcome 2 – What type of question would you like included in the new CISO guide? (unranked)
 
 - Which of the organisation's IT assets, networks, or applications are considered more at risk of cyber-attacks?
 - Does your organisation have a cyber-threat intelligence program and an attack monitoring/alert process?
