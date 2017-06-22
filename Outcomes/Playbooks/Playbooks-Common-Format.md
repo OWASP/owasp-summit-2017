@@ -7,7 +7,7 @@ title    : Playbooks Common Format
 
 ### Introduction and Purpose
 
-The goal of an OWASP Playbook is to provide an actionable, consistent process for working with various application security scenarios. Most security playbooks address what to do when something happens to you (e.g., respond to an incident), but an OWASP Playbook addresses what to do when you want to do something (e.g., pen test an application). Throughout the OWASP Summit (and hopefully into the future), playbooks will be created to address various scenarios. To that end, the Playbook Common Format working session group focused on devising and agreeing a framework that will be common to all OWASP Playbooks.
+The goal of an OWASP Playbook is to provide an actionable, consistent process for working with various application security scenarios. Most security playbooks address what to do when something happens to you (e.g., respond to an incident), but an OWASP Playbook addresses what to do when you want to do something (e.g., pen test an application). Throughout the OWASP Summit (and hopefully into the future), playbooks will be created to address various scenarios. With this in mind, the Playbook Common Format working session focused on devising and agreeing a framework that will be common to all OWASP Playbooks.
 
 #### Executive Summary
 
@@ -18,7 +18,7 @@ The Playbook Common Format working session group reviewed a template worksheet d
 To have an effective working session that generates meaningful and collaborative content, we recommend the following process for Summit working sessions:
 1. Explain the OWASP Playbook concept to participants.
 2. Collaboratively define the scope of the session including defining the scenario(s), audience(s), and characteristics. Time is limited so we suggest narrowly defining the scope of an initial scenario so that the playbook can be as actionable as possible.
-3. Ensure that there are no playbooks that are already in existence and would be more suited to the scenario(s). Redefine the target scenario(s) if appropriate.
+3. Ensure that there are no playbooks already in existence and more suited to the scenario(s). Redefine the target scenario(s) if appropriate.
 4. Distribute the OWASP Playbook Working Session Worksheet to the participants and ask them to draft an initial set of steps to structure and capture their thoughts.
 5. Ask participants to share their worksheet with the group
 6. Identify and distill the common threads of the process and document them in a process workflow diagram
@@ -44,7 +44,7 @@ What does an OWASP Playbook provide to the reader? This content defines the doma
 
 #### 2. Prerequisites
 
-What must the reader already have in place for the action in question? These could include organisational funding, processes, or technical requirements. The 'prerequisites' content will help the reader decide whether they are ready for the action. An OWASP Playbook should enumerate the things needed for the action.
+What must the reader already have in place for the action in question? These could include organisational funding, processes, or technical requirements. The 'prerequisites' content will help the reader decide whether they are ready for the action. An OWASP Playbook should enumerate what is needed for the action.
 
 #### 3. Cost Benefit Analysis
 
