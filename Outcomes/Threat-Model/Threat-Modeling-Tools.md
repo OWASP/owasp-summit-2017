@@ -7,8 +7,8 @@ title   : Threat Modeling Tools
 
 ### Synopsis and Takeaways
 
-Leading from the previous session (where the week’s aims have been defined) this session looked at the tools used in helping research threat models in-depth.
-Tools in this session have been identified as key candidates for further research. These are better than Excel, Visio or a text editor in a manual process:
+Following from the previous session (where the week’s aims have been defined) this session looked at the tools used in helping research threat models in-depth.
+Tools in this session have been identified as key candidates for further research. These are better than Excel, Visio, or a text editor in a manual process:
 -	My app security
 -	Threat dragon – OWASP
 -	Threat spec
@@ -24,9 +24,9 @@ We need to
 -	Develop a help guide for developers with security unit tests in mind  
 -	Help with automation on the developer’s side with input from security personal.
 
-**Outcomes**
+#### Outcomes
 
-Defined the approach used and what is threat modelling used for
+Defined the approach used and what is threat modelling used for.
 Users were surveyed on Threat modelling approaches and tool desirables.  
 Defined the must haves for threat modelling tools
 -	DFD
@@ -43,16 +43,7 @@ Defined the must haves for threat modelling tools
 -	Access control for threat modelling tool	
 -	Supports a universal data schema 
 
-## Who
-
-The target audience for this Working Session is:
-
-* Architects
-* Security SMEs
-* SCRUM masters
-* Security champions
-
-## References
+### References
 
 - [Microsoft Threat Modeling Tool 2016](https://www.microsoft.com/en-us/download/details.aspx?id=49168)
 - [What’s New with Microsoft Threat Modeling Tool  Preview](https://blogs.msdn.microsoft.com/secdevblog/2017/04/21/whats-new-with-microsoft-threat-modeling-tool-preview/)
