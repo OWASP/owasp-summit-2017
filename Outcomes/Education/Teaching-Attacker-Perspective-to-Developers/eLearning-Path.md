@@ -1,6 +1,7 @@
 ---
 layout : blocks/outcome
 title  : eLearning Path
+working-session: Teaching Attacker Perspective to Developers
 ---
 
 ### Outcomes
