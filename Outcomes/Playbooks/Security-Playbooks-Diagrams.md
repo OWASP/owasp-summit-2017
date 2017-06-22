@@ -11,7 +11,7 @@ title    : Security Playbooks Diagrams
 
 We discussed how best to visualise the information contained in a playbook, realising that without data, we are restricted to process flows.
 
-OWASP is proactive, but we recognise that certain situations are reactive by nature – you can only start to solve a problem when the problem occurs.
+OWASP is proactive, but we recognise that certain situations are reactive by nature – you can only start to solve a problem when the problem arises.
 
 We agreed that playbooks should include process diagrams, but only where necessary.  It is difficult to come up with diagrams without data, and data usually comes after the playbook has been followed (e.g., pen-test, bug bounty).
 
