@@ -12,35 +12,7 @@ title   : Threat Modeling Cheat Sheet & Lightweight Threat Modeling (Part I)
 - Created: countermeasures library schema definition
 - Key process activities that tie to cheat sheet guidance
 
-**See Synopsis and Takeaways below**
-
-## Who
-
-The target audience for this Working Session is:
-
-- Architects
-- Designers
-- Scrum leads
-- Security champions
-- SMEs
-
----
-
-## Working materials
-
-Here are the current 'work in progress' materials for this session
-
-(please add as much information as possible before the sessions)
-
-### Prior articles
-
-- [Guerilla Threat Modelling or Threat Modeling If You're American](https://blogs.msdn.microsoft.com/ptorr/2005/02/22/guerrilla-threat-modelling-or-threat-modeling-if-youre-american/)
-- [SAFECode TM Whitepaper](https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)
-- [Incremental Threat Modelling v1.0](http://schd.ws/hosted_files/appseceurope2017/df/Incremental%20Threat%20Modelling%20v1.0.pptx)
-- [Threat Modeling Simplified](https://www.safaribooksonline.com/blog/2016/02/09/threat-modeling-simplified/)
-- https://www.infoq.com/articles/threat-modeling-express
-
-#### Synopsis and Takeaways
+### Synopsis and Takeaways
 
 This session focused on building a lightweight (bottom up) threat model, which we call XUUL.  It's important to give our threat modeling processes names and version numbers.  What's below is XUUL .1.  If you say "Lightwight TM process", there can be many of those, and those new to threat modeling may be confused when they read different descriptions of lightwieght TM processes.  This what's below is XUUL, a lightwight TM process created at the OWASP Summit.  We look forward to beta feedback.
 
@@ -48,7 +20,7 @@ The group was split into 3 teams (Ascertain, Threats, and Mitigation).  A diagra
 
 ![Diagram](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Threat-Model/cheat-sheet/lightweight.jpg)
 
-##### Takeaways
+##### Key Takeaways
 
 ###### Overall Assumptions
 Assumption: Roles include developers, architect, product owners, team leads, DEVOPS, Security Champions, and DBAs.
@@ -78,3 +50,21 @@ Assumption: Roles include developers, architect, product owners, team leads, DEV
 - The team does a quick subjective analysis on the impact-based threats (non-evidence based).
 - The team uses existing OWASP countermeasures to mitigate the associated threats.
 - To quicken the process, OWASP countermeasures should be added to the OWASP Threat Templates.
+
+---
+
+## Working materials
+
+Here are the current 'work in progress' materials for this session
+
+(please add as much information as possible before the sessions)
+
+### Prior articles
+
+- [Guerilla Threat Modelling or Threat Modeling If You're American](https://blogs.msdn.microsoft.com/ptorr/2005/02/22/guerrilla-threat-modelling-or-threat-modeling-if-youre-american/)
+- [SAFECode TM Whitepaper](https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)
+- [Incremental Threat Modelling v1.0](http://schd.ws/hosted_files/appseceurope2017/df/Incremental%20Threat%20Modelling%20v1.0.pptx)
+- [Threat Modeling Simplified](https://www.safaribooksonline.com/blog/2016/02/09/threat-modeling-simplified/)
+- https://www.infoq.com/articles/threat-modeling-express
+
+
