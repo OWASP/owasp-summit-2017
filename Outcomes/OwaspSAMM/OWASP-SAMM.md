@@ -10,30 +10,14 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
 
 ### Synopsis and Takeaways
 
-- There is a need to evaluate adding an optional depth component to scoring for questionnaire
-- Need to most likely remove success metrics and replace with Business Metrics
-  - Alternatively Metrics may have its own section
-  - We need to focus on metrics ranging from operational to strategic operations
+- Adding an optional depth component to scoring for questionnaire needs to be evaluated
+- Remove success metrics and replace with business metrics
+  - Alternatively Metrics may require its own section
+  - Focus on metrics ranging from operational to strategic operations
 - Three logical categories of metrics
   - App
   - Process
   - Environment
-
-## Who
-
-The target audience for this Working Session is
-
-- Security champions
-- Security architects
-- DevOps Roles
-- CISO
-
----
-
-## Working materials
-
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions)_
-- [OWASP SAMM Project](https://www.owasp.org/index.php/OWASP_SAMM_Project#tab=Browse_Online)
 
 # Core Model Update - Dev Methods
 ## Outcomes
@@ -92,38 +76,9 @@ Here are the current 'work in progress' materials for this session (please add a
 - Benchmarking
 
 - Make the model more “agile”?
-- Focus on developers.
+- Focus on developers
 - Measure efficiency
 - SAMM Profiles
-
-
-## Who
-
-The target audience for this Working Session is:
-
-- Security champions
-- Security architects
-- DevOps Roles
-- CISOs
-
-
-## Working materials
-
-Here are the current 'work in progress' materials for this session
-<a href="https://www.owasp.org/images/3/30/SAMM_How_To_V1-5_FINAL.pdf">How-To Guide</a>
-<a href="https://www.owasp.org/images/1/18/SAMM_Quick_Start_V1-5_FINAL.pdf">Quick Start Guide</a>
-<a href="https://www.owasp.org/images/6/6f/SAMM_Core_V1-5_FINAL.pdf">SAMM Core Model</a>
-<a href="https://www.owasp.org/images/8/8d/OWASP_SAMM_v1.5.zip">All SAMM v1.5 files (.zip)</a>
-
-### Content
-
-The Software Assurance Maturity Model (SAMM) is an open framework to help organizations formulate and implement a strategy for software security that is tailored to the specific risks facing the organization. SAMM helps you:
-- Evaluate an organization’s existing software security practices
-- Build a balanced software security assurance program in well-defined iterations
-- Demonstrate concrete improvements to a security assurance program
-- Define and measure security-related activities throughout an organization
-
-<a href="https://www.owasp.org/index.php/OWASP_SAMM_Project">OWASP SMM</a>
 
 # Outreach and Market
 ## Outcomes
@@ -145,7 +100,7 @@ The Software Assurance Maturity Model (SAMM) is an open framework to help organi
 ### Synopsis and Takeaways
 
 - We must make sure to remap “Flagship” and “Lab” projects for SAMM Version 2
-- Reach out to “Flagship” and “Lab” leaders to get references to the SAMM project and, if possible, link to an activity or     security process.
+- Reach out to “Flagship” and “Lab” leaders to get references to the SAMM project and, if possible, link to an activity or security process.
 - Identify the missing tools and artefacts needed for different activates
 - Make sure to promote the missing tools and artefacts to encourage people to undertake the project themselves
 - Map a lower level of granularity; map at a level of activities  
@@ -165,3 +120,23 @@ The Software Assurance Maturity Model (SAMM) is an open framework to help organi
 - Experiment with tagging to cover various viewpoints
 - Extra working session to discuss DevSecOps maturity model (tomorrow – morning session)
 - Keep it simple with a Balanced model (desirable)
+
+--- 
+## Working materials
+
+- [OWASP SAMM Project](https://www.owasp.org/index.php/OWASP_SAMM_Project#tab=Browse_Online)
+Here are the current 'work in progress' materials for this session
+<a href="https://www.owasp.org/images/3/30/SAMM_How_To_V1-5_FINAL.pdf">How-To Guide</a>
+<a href="https://www.owasp.org/images/1/18/SAMM_Quick_Start_V1-5_FINAL.pdf">Quick Start Guide</a>
+<a href="https://www.owasp.org/images/6/6f/SAMM_Core_V1-5_FINAL.pdf">SAMM Core Model</a>
+<a href="https://www.owasp.org/images/8/8d/OWASP_SAMM_v1.5.zip">All SAMM v1.5 files (.zip)</a>
+
+### Content
+
+The Software Assurance Maturity Model (SAMM) is an open framework to help organizations formulate and implement a strategy for software security that is tailored to the specific risks facing the organization. SAMM helps you:
+- Evaluate an organization’s existing software security practices
+- Build a balanced software security assurance program in well-defined iterations
+- Demonstrate concrete improvements to a security assurance program
+- Define and measure security-related activities throughout an organization
+
+<a href="https://www.owasp.org/index.php/OWASP_SAMM_Project">OWASP SMM</a>
