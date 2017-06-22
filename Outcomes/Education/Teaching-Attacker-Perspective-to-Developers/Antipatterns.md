@@ -1,6 +1,6 @@
 ---
 layout  : blocks/outcome
-title	: Teaching attacker perspective to developers
+title	: Antipatterns
 ---
 
 ### Outcomes
