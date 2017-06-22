@@ -26,7 +26,7 @@ title        : Responsible Disclosure
   - Published the remediation timelines
   - Published end to end process
       
-- These appear as Yes/No questions on the survey, and comments can be added as necessary.
+These appear as Yes/No questions on the survey, and comments can be added as necessary.
 
 After collaborating with participants, the "OWASP Responsible Disclosure Maturity Model Survey" was conceived.
 
