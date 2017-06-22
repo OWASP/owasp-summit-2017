@@ -18,6 +18,7 @@ These tools need to be used modularly during threat modelling with common data p
 The outcome is targeted at pen testers or developers. Work should not follow a check-box type of implementation. Scalability has been raised as a concern.
 A dynamic list is better than a top ten list because threats can be added and update readily 
 Attack trees require a lot of work to function at a high level and are slow to perform. However, these can be used for a completeness check. The Idea is to focus attack trees on a certain area of interest.
+
 We need to 
 -	Develop a tool to produce evidence-based outputs so big data will not be a problem. 
 -	Increase awareness and accountability for developers who don’t understand the data flow or how the application stack works
