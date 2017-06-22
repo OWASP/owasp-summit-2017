@@ -27,9 +27,8 @@ Attack trees require a lot of work to function at a high level and are slow to p
 
 #### Outcomes
 
-Defined the approach used and what is threat modelling used for.
-Users were surveyed on Threat modelling approaches and tool desirables.  
-Defined the must haves for threat modelling tools
+We defined the approach used and what is threat modelling used for.  Users were surveyed on Threat modelling approaches and tool desirables.  
+We defined the must haves for threat modelling tools:
 -	DFD
    o	Be able to upload the DFD
 -	Attack trees
