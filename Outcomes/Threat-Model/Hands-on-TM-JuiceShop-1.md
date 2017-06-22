@@ -19,14 +19,6 @@ The group moved from the question of “what is Juice Shop?” to “what can go
 - Decided that a threat model diagram can be created on Juice Shop in great detail
 - A useful architecture mapping diagram was created. 
 
-## Who
-
-The target audience for this Working Session is:
-
-- Participants in the threat modeling track
-- Participants interested in Juice Shop
-- Those who want to learn to threat model
-
 --- 
 
 ## Working materials
