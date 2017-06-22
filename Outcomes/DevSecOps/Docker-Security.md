@@ -11,7 +11,7 @@ The outcome of this Working Session will be a document which summarizes the most
 
 General Security recommendations should be addressed and links should be shared.
 
-**General Docker Security Considerations** 
+#### General Docker Security Considerations
 
 - Docker has a shared kernel with host
 - Do not run containers as privileged if not needed
@@ -29,14 +29,14 @@ General Security recommendations should be addressed and links should be shared.
 Work in Progress: https://docs.google.com/a/owasp.org/document/d/1_71svrCpC40S30kj9j0Hb3RnXaVsz8koD4EbZuSo5HQ/edit?usp=sharing
 A Slack Channel will be created for further communication.
 
-## References
+### References
 
  - <a href="https://twitter.com/bpedro/status/859862631921987586">Twitter @letsencrypt + @docker + resty-auto-ssl</a>
  <a href="https://d3oypxn00j2a10.cloudfront.net/assets/img/Docker%20Security/WP_Intro_to_container_security_03.20.2015.pdf">White Paper about container security</a>
 - <a href="https://docs.docker.com/engine/security/security/">Docker Security</a>
 - <a href="https://github.com/docker/docker">Docker Download</a>
 
-## Working materials
+### Working materials
 
 Here are the current 'work in progress' materials for this session.
 
