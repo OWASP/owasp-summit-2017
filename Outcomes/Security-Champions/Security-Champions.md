@@ -8,7 +8,7 @@ title	: Security Champions
 - 20 respondents
 - Roles: AppSec lead/head (4), Architect (3), QA (1), Consultant (4), InfoSec management (3), CISO (2), Blank - Devs? (3)
 
-#### Q-1: Typical activities performed by Security Champions?
+#### Q-1: What are the typical activities performed by Security Champions?
 - Knowledge sharing
 - Security updates / insight
 - Security training / coordinating awareness amongst peers
@@ -32,53 +32,53 @@ title	: Security Champions
 - Operations
 - Anyone interested (PM, Product, but not from Central Security team)
 
-#### Q-3: Security Champions mandate to control security within team?
+#### Q-3: What is the Security Champions' mandate to control security within the team?
 - Energise
-- Scaling of AppSec team
+- Scale the AppSec team
 - Advocacy 
 - Support / facilitation
 - Discovery / Triage flaws
-- Escalation
-- Sharing insight
+- Escalate
+- Share insight
 - Code reviews
 - Threat Modelling
 - Write security stories & tests
 - Prioritise & test security bug fixes 
 - Awareness / Encouragement / Educate
 - Point of Contact between Central Security Team & Host team
-- Security culture change artist 
+- Agent for security culture change 
 
-#### Q-4: Expected to share knowledge or conduct mini-trainings?
+#### Q-4: Are Security Champions expected to share knowledge or conduct mini-trainings?
 - YES: 18
 - NO: 1
 - OPTIONAL: 1
 
-#### Q-5: Expected to build Threat Models and keep up-to-date?
+#### Q-5: Are Security Champions expected to build Threat Models and keep up-to-date?
 - YES: 13
 - NO: 5
 - TEAMS, NOT INDIVIDUALS: 2
 
-#### Q-6: Expected to conduct internal security reviews for new features?
+#### Q-6: Are Security Champions expected to conduct internal security reviews for new features?
 - YES: 9
 - NO: 7
 - SOMETIMES: 4
 
-#### Q-7: Expected to help in decision making for product design / development?
+#### Q-7: Are Security Champions expected to help in decision-making for product design / development?
 - YES: 18
 - NO: 2
 
-#### Q-8: Expected to monitor best practices followed & report non-compliance?
+#### Q-8: Are Security Champions expected to monitor best practices followed & report non-compliance?
 - YES: 15
 - NO: 4
 - MONITOR BUT NOT REPORT: 1
 
-#### Q-9: Expected to participate / lead R&D work (e.g. testing new solutions / concepts, policies)?
+#### Q-9: Are Security Champions expected to participate / lead R&D work (e.g. testing new solutions / concepts, policies)?
 - YES: 8
 - NO: 7
 - DEPENDS / SOMETIMES: 3
 - N/A: 2
 
-#### Q-10: Expected to be the main point of contact for Bug Bounty?
+#### Q-10: Are Security Champions expected to be the main point of contact for Bug Bounty?
 - YES: 8
 - NO: 8
 - N/A: 4
@@ -100,15 +100,15 @@ title	: Security Champions
 - Link between Central Security & Technology teams
 
 #### Q-12: Organisation chart between security function and where Security Champions sit:
-- Majority: Security champions in Engineering teams, not under Central Security team
+- Majority: Security Champions in engineering teams, not under Central Security team
 - Some: Dotted line report to Central Security team
-- Minority: Security champions report to Central Security team not Engineering manager
+- Minority: Security champions report to central security team not engineering manager
 - Query: Difference between Security Champions network -vs- Security Guild -vs- Security Chapter?
 
 
 #### Discussion:
 
-Security Champions - Role Definition:
+Security Champions - role definition:
 - Scales AppSec team
 - Member of non-security team: Dev, Ops, Architecture, Legal, Finance, Marketing
 - Security advocate within other (host) team
@@ -118,7 +118,7 @@ Security Champions - Role Definition:
 - Visibility / eyes & ears on the ground
 - Organise team: active members of team actively drive outcomes e.g. Threat Models, etc.
 - Selection of security champion: self-appointed (better) rather than nominated
-- Network forums: meet regularly / conferences, CTFs. peer networks (both internal & external)
+- Network forums: meet regularly / conferences, CTFs, peer networks (both internal & external)
 
 Asks from Security Champion to Central Security team:
 - More training / CTFs
