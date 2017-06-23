@@ -24,7 +24,7 @@ The following categories highlight some of the key activities of an agile securi
 #### Standardisation and Compliance
 
 - Own strong guidelines, e.g., data classification, regulatory, compliance
-- Two tier security standards? mandatory, depend on risk/sensitivity, etc.
+- Two tier security standards? Mandatory, depend on risk/sensitivity, etc.
 - Library of standard stories
 
 #### Support
