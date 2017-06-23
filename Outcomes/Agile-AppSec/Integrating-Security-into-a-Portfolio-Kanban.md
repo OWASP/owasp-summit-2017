@@ -9,24 +9,24 @@ Playbook that defines staged industry best practices on how to integrate securit
 
 ### Synopsis and Takeaways 
 
-Ante Gulam drove a lively, participatory conversation; the conclusion was that while the idea is interesting, the scope, structure, processor, and profile are difficult to scale and standardize.  Any playbook would have to be tailored to a specific organization's needs.
+Ante Gulam drove a lively, participatory conversation.  The conclusion was that while the idea is interesting, the scope, structure, processor, and profile are difficult to scale and standardize.  Any playbook would have to be tailored to a specific organization's needs.
 
 ### Outline Playbook
 
 #### Stage 1
-Standardize the concept
+ - Standardize the concept
 
 #### Stage 2
-Create Security Champions in Programme Management 
-Plan meetings which include Security Champions
+ - Create Security Champions in Programme Management 
+ - Plan meetings which include Security Champions
 
 #### Stage 3
-Tagging by Security Champions
-Tagging can also be outsourced to Programme Management 
+ - Tagging by Security Champions
+ - Tagging can also be outsourced to Programme Management 
 
 #### Stage 4
-Defining SLAs
-Security review by security squad
+ - Defining SLAs
+ - Security review by security squad
 
 #### Stage 5
-SDLC security process
+ - SDLC security process
