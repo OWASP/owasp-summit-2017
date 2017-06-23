@@ -24,7 +24,7 @@ title	: Security Champions
 - Mentoring / providing energy & focus into security actives
 - Ad-hoc consultancy
 
-#### Q-2: Who fills the role of Security Champions?
+#### Q-2: Who fills the role of Security Champion?
 - Devs (but not lead/principal)
 - QA / Testers
 - Architects & Designers
@@ -32,7 +32,7 @@ title	: Security Champions
 - Operations
 - Anyone interested (PM, Product, but not from Central Security team)
 
-#### Q-3: What is the Security Champions' mandate to control security within the team?
+#### Q-3: What is the Security Champion's mandate to control security within the team?
 - Energise
 - Scale the AppSec team
 - Advocacy 
@@ -53,7 +53,7 @@ title	: Security Champions
 - NO: 1
 - OPTIONAL: 1
 
-#### Q-5: Are Security Champions expected to build Threat Models and keep up-to-date?
+#### Q-5: Are Security Champions expected to build Threat Models and keep them up-to-date?
 - YES: 13
 - NO: 5
 - TEAMS, NOT INDIVIDUALS: 2
@@ -63,7 +63,7 @@ title	: Security Champions
 - NO: 7
 - SOMETIMES: 4
 
-#### Q-7: Are Security Champions expected to help in decision-making for product design / development?
+#### Q-7: Are Security Champions expected to help decision-making for product design / development?
 - YES: 18
 - NO: 2
 
