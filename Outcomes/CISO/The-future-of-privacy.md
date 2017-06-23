@@ -94,7 +94,7 @@ D.1 Are there technical solutions conceivable, which help individuals to collect
 
    The "black hats" (criminal individuals or gangs) are not in focus here.
 
-### References:
+### References
 
 (1) OWASP Summit 2011 Working Session "Privacy" ( https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073 )
 
