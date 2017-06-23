@@ -6,10 +6,10 @@ title   : Application Security BSc/Masters Curriculum Design
 
 ### Outcomes
 
-This Working Session will deliver the following documents:
+This Working Session will deliver the following documents
 
-- a core set of learning objectives for BSC/MSc level Application Security curricula
-- a strategy for the OWASP community to support AppSec curricula
+- A core set of learning objectives for BSC/MSc level Application Security curricula
+- A strategy for the OWASP community to support AppSec curricula
 
 ### Synopsis and Takeaways
 
@@ -52,7 +52,6 @@ B)	Subsequent Departments you interface with:
 - Creation of an Educational Diagram
 
 ![Educational Diagram](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design/learning-objectives.jpg){:style="width:603px"}
-
 
 ---
 
