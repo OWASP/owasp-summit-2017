@@ -16,7 +16,7 @@ title    : Application Security Guide for CISO
 
 1. Impact of GDPR on AppSec and recommendations (including outcomes of 2017 Summit CISO track)
 2. Emerging technology risks and risk mitigation guidance (e.g., APIs and Micro-services, Biometrics)
-3. Evolving threats facing web applications (e.g., 0-day exploits of AppSec vulnerabilities) and solutions (e.g., improved attack detection with new tools such as Outcome 1 (unranked) – What topics would you like covered in the new CISO guide? as RASP)
+3. Evolving threats facing web applications, e.g., 0-day exploits of AppSec vulnerabilities; and solutions, e.g., improved attack detection with new tools such as Outcome 1 (unranked).  What topics would you like covered in the new CISO guide? (as RASP)
 4. Others (brainstorming)
 
 ### Synopsis and Takeaways
