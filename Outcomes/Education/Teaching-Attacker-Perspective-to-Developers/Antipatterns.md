@@ -5,7 +5,7 @@ title	: Antipatterns
 
 ### Outcomes
 
-Good trainers will be aware of, and will avoid, the antipatterns listed below.
+Good trainers will be aware of and avoid, the antipatterns listed below.
 
 #### ZAP'n'Burp
 
