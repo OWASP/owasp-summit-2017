@@ -9,7 +9,7 @@ title    : CISO Round Table
 
 Target audience: Companies without a CISO
 
-**CISO Role**
+#### CISO Role
 
 Every Company needs a CISO, and every CISO should have a strong mandate and adequate resources. The CISO should report:
   - Firstly to the Board
@@ -17,28 +17,28 @@ Every Company needs a CISO, and every CISO should have a strong mandate and adeq
 
 The CISO should
 
-  - Have a centre of gravity skill set: strong business, technical, and security skills
+  - Have a centre of gravity skill set:  strong business, technical, and security skills
   - Be an agent for transformation
   - Understand that security is a business function
   - Be able to facilitate business acceptance of risk
 
-**What they need**
+#### What the CISO needs
 
-  - Budget (that they control)
-  - Mandate
+  - A budget they control
+  - A mandate
   - Integrity of message
   - Central team (with senior SMEs)
   - Network of security champions
   - Presence on cross-functional committees and roadmaps
 
-**Top board requirements**
+#### Top board requirements
 
  - Current programmes status
  - Meet regulatory requirements
  - Major business risks and incidents
  - Security asks
 
-**Top priorities for CISO**
+#### Top priorities for CISO
 
  - Situational awareness
  - Match risk appetite
