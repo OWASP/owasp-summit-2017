@@ -8,9 +8,9 @@ title   : Threat Modeling OWASP Pages
 - Revised content on OWASP threat modelling pages
 - Subpages on threat modelling methodologies with details and artefacts created
 
-## Synopsis and Takeaways 
+### Synopsis and Takeaways 
 
-### What is a Threat Model?
+#### What is a Threat Model?
 
 - Tool/approach for risk management
 - Identification of threats
@@ -25,7 +25,7 @@ title   : Threat Modeling OWASP Pages
 - Actualized risk of appearance of a vulnerability 
 - Intent of a threat agent to perform an undesired action (attacker-centric approach)
 
-### Why use a Threat Model?
+#### Why use a Threat Model?
 
 - Enables/supports cost-effective security
 - Enables you to understand your security risks
@@ -53,7 +53,7 @@ This session was very productive. The group discussed how to improve the OWASP T
 - Pre-Pen Testing (Different Stages)
 - Procurement (Quickly)
 
-#### How/Approach
+##### How/Approach
 - Software Centric
 - Risk Centric
 - Security Centric 
@@ -94,8 +94,8 @@ The main difference between the security-centric approach is that every threat n
 ### Options
 
   - Attacker analysis (who, how many, how good, how motivated, etc.)
-  - Attack Tree (how to achieve a goal - e.g. spoof a user)
-  - Usage of a threat library (e.g. STRIDE, etc.)
+  - Attack Tree (how to achieve a goal - e.g., spoof a user)
+  - Usage of a threat library (e.g., STRIDE)
   - Given that we can also start from security controls: ASF (Application Security Frame) - Microsoft Application
   
 ### Consumers 
@@ -141,9 +141,9 @@ Contribution from advanced users.
 
 ### Risk Centric Approach (Process for Attack Simulation Threat Analysis - PASTA)
 1. Define Your Business Objectives for the Application
-1.1 - Business Impact of Application to Business (e.g. - make 
+1.1 - Business Impact of Application to Business (e.g. - make )
 1.2 - Identify Impact of Application Use Cases (more specific business impact)
-1.3 - Identify impact of regulations on information managed by application (e.g. GDPR, PCI-DSS, HIPAA, etc.)
+1.3 - Identify impact of regulations on information managed by application (e.g. GDPR, PCI-DSS, HIPAA)
 1.4 - Consider C.I.A of Security when considering business impact
 1.5 - Consider data model and data use and relevant impacts in appliaction (e.g. - PII, PHI, cardholder data)
 
@@ -164,14 +164,14 @@ Contribution from advanced users.
 4.1 - Leverage a threat library and correlate to business impacting use cases
 4.2 - Develop an attack tree that has attack patterns affecting application components  
 4.2.2 - Leverage an attack library like CAPEC to correlate common attack patterns to the application threat model
-4.3 - Leverage threat intel from outside sources to substantiate prevalence of threats (e.g. - DFIR report, threat feeds)
+4.3 - Leverage threat intel from outside sources to substantiate prevalence of threats (e.g., - DFIR report, threat feeds)
 4.4 - Leverage infrastructure, application, server log info that correlates to attack patterns support threat model
 
 5. Vulnerability/ Weakness Identification
-5.1 - Correlate scan (SAST, DAST, Vuln, etc) data to identify presence of weaknesses associated with application components
+5.1 - Correlate scan (SAST, DAST, Vuln, etc.) data to identify presence of weaknesses associated with application components
 5.2 - Map Weaknesses to affected components and update attack tree component nodes with associated weaknesses
 5.2.2 - Leverage CWEs to use a weakness library
-5.3 - Identify Design Flaws in the Application Architecture (e.g. - poor key management, poor logging, implicit trusts)
+5.3 - Identify Design Flaws in the Application Architecture (e.g., - poor key management, poor logging, implicit trusts)
 
 6. Attack Modeling
 6.1 Update attack tree to include Threat -> Component -> Weakness -> Attack Patterns
