@@ -12,7 +12,7 @@ Security Champions are a key element of an AppSec team:  they create a cross-fun
 - Act as the "voice" of security for the given product or team
 - Provide visilibity to the central security
 
-##### Comments
+#### Comments
 
 - Security Champions are a model that has been used succesfully
 - A group of Security Champions could be a Security Guild
