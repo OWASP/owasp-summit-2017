@@ -13,8 +13,8 @@ title   : Threat Modeling by Feature and Layer
 #### Threats
 
 - (S) Fake address lookup service
-    - possibly through DNS poisoning
-    - goals might be either to siphon private data of JuiceShop customers or return bogus addresses
+    - Possibly through DNS poisoning
+    - Goals might be either to siphon private data of JuiceShop customers or return bogus addresses
  - Mitigation: TLS with mutual authentication
     
 - (S) Fake JuiceShop - someone else (possibly including the address lookup service itself) sending requests on behalf of the JuiceShop
@@ -43,9 +43,9 @@ title   : Threat Modeling by Feature and Layer
 
 - Address resolution service is paid (or at least rate-limited, with Juice shop having a specific quota)
 - The API sends (name, address), gets back either:
-  - address if it was correct
-  - list of potential addresses if the resolution was a bit fuzzy
-  - nothing if failed to resolve
+  - Address if it was correct
+  - List of potential addresses if the resolution was a bit fuzzy
+  - Nothing if failed to resolve
 - No outbound rate limit, so a fuzzy request can result in a large list of matches
 
 
