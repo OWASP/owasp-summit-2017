@@ -22,18 +22,18 @@ You can find the full list of changes in
 [the release notes](https://github.com/bkimminich/juice-shop/releases)
 below:
 
-> **Incompatible Changes**
+> #### Incompatible Changes
 >
 > - **removed support for Node.js 7.x**
 > - Docker images `node7-*` consequently are not built any more
 > - **Snapshot Docker images named `*-develop` are not built any more.**
 >   Please use `*-snapshot` images instead.
 >
-> **Platform Support**
+> #### Platform Support
 >
 > * added support for Node.js 8.x (#332)
 >
-> **Features**
+> #### Features
 >
 > - Users can ask for **pomace recycling** pickup or delivery of a box
 >   to send pomace back in (#243)
@@ -50,27 +50,27 @@ below:
 >   Also available on Youtube:
 >   [📺](https://www.youtube.com/watch?v=L7ZEMWRm7LA)_)
 >
-> **OWASP Summit 2017 Challenge Pack**
+> #### OWASP Summit 2017 Challenge Pack
 >
 > - Added 3 challenges on security questions (#323)
 > - @ViktorLindstroem added 1 challenge on the used JWT secret (#336)
 >
-> **Bugfixes**
+> #### Bugfixes
 >
 > - Disabled an invalid way to solve the _Forged Feedback_ challenge
 > - Postpone websocket event registration until after data creator is
 >   finished (#345)
 >
-> **I18N**
+> #### I18N
 >
 > - Added Hebrew translation (by @avidouglen)
 >
-> **Tests**
+> ##### Tests
 >
 > - Split server-side tests into isolated unit tests (for `/routes`) and
 >   `frisby.js`-based API tests
 >
-> **Miscellaneous**
+> #### Miscellaneous
 >
 > - Several smaller translation updates
 > - Provided config `quiet.yml` (muting most notifications & hiding
