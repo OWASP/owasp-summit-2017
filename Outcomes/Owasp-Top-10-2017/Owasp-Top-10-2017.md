@@ -5,7 +5,7 @@ title    : OWASP Top 10 2017
 
 ## Synopsis and Takeaways
 
-## Session 1: OWASP Top 10 Governance and rationale
+### Session 1: OWASP Top 10 Governance and rationale
 
 ### Outcomes 
 
@@ -13,8 +13,9 @@ In the first session, we talked about the history of the OWASP Top 10, and how i
 
 Audience is everyone in App Sec, and not just developers
 The basis for the OWASP Top 10 is "risks". I (Andrew van der Stock) have suggested we adopt the ISO 31000:2015 standard definition for risk, so that we have the same understand as risk managers in most parts of the world.
-We will document the rationale for the OWASP Top 10 on the wiki, and possibly at least a part of it in the document this year. This will be the same rationale / process going forward for 2020 and 2023
-I will take a motion to the Board asking for a change to the Project Leader Handbook, where Flagship projects will have a six month grace period to obtain at least two leaders from two different firms to avoid perceptions of vendor lock-in either in actuality or perceived. There is no restriction on a single leader from a single company controlling a Flagship project at the moment, so I want to de-couple the other issues from the independence issue.
+We will document the rationale for the OWASP Top 10 on the wiki, and possibly at least a part of it in the document this year. This will be the same rationale / process going forward for 2020 and 2023.
+
+I will take a motion to the Board asking for a change to the Project Leader Handbook, where Flagship projects will have a six-month grace period to obtain at least two leaders from two different firms to avoid perceptions of vendor lock-in, actual or perceived. There is no restriction on a single leader from a single company controlling a Flagship project at the moment, so I want to de-couple the other issues from the independence issue.
 
 There will be a transparent and documented decision to ensure that up to 2 of the OWASP Top 10 issues will be forward looking, and that the community should drive the consensus for what they will be. I will open up a discussion on OWASP Leaders and elsewhere with a short vote on what the 2 for 2017 should be, including the existing two issues, XXE and object serialization, and I'll figure one out from the also-rans of the data collection process.
 
@@ -75,12 +76,12 @@ I added in all of the feedback that Dave Wichers had. If any feedback is missing
 - Ensure that products and services are OWASP aligned, e.g., name OWASP projects and remove commercial offerings
 - This is an "app" problem, helps dev and ops to work together, and should encourage. Nothing about ops in it, first devops issue. Might add more to existing text to make it more aligned with the devops movement
 
-### Still in the air:
-- Dave suggests we release an intermediate RC2 this month, RC3 later in the year and document that process and dates
-- AJV notes he is moving countries and may not achieve this in June. AJV wants to do weekly releases or just track master on Github.
-- I will make a decision on this depending on how much I have on my plate. I have to be realistic here as much as I want the issues documented in Github taken care of
+### Still in the air
+- Dave Wichers suggests we release an intermediate RC2 this month, RC3 later in the year and document that process and dates
+- I am moving country and may not achieve this in June; however, I want to do weekly releases or just track master on Github.
+- I will make a decision on this depending on how busy I am. I have to be realistic as much as I want the issues documented in Github taken care of.
 
-Torsten suggested we use a Top 10 for Developers (). I will follow up with him to find this and also to think about OWASP Top 10 for Defenders to complement OWASP Proactive Controls / OWASP Top 10 Risks. This is not decided or an agreed outcome.
+Torsten suggested we use a Top 10 for Developers. I will follow up with him to find this and also to think about OWASP Top 10 for Defenders to complement OWASP Proactive Controls / OWASP Top 10 Risks. This is not decided or an agreed outcome.
 
 ### Review of the OWASP Top 10 RC1
 
@@ -95,4 +96,4 @@ Please only one issue per area (i.e. "F" or "A3"), with the format of "what is w
 
 The rest of the week is free time. Thank you to everyone who participated in person and remotely. We had a few audio issues, but once video was dropped the audio impoved.
 
-We have made it to a point where action items need to be done by me (Andrew) and Brian Glas on the data call and editing the issues in Github. I don't want to waste people's time as there are so many great sessions on.  I hope attendees who wanted to attend the OWASP Top 10 sessions can find other tracks that interest them.
+We have made it to a point where action items need to be done by me (Andrew) and Brian Glas on the data call and editing the issues in GitHub. I don't want to waste people's time as there are so many great sessions on.  I hope attendees who wanted to attend the OWASP Top 10 sessions can find other tracks that interest them.
