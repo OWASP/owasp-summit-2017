@@ -24,7 +24,7 @@ To have an effective working session that generates meaningful and collaborative
 6. Identify and distill the common threads of the process and document them in a process workflow diagram
 7. With the process defined, break into five smaller groups and assign each group to discuss the remaining content items:         
   - Prerequisites
-  - Cost benefit analysis
+  - Cost-benefit analysis
   - Quick wins
   - Success criteria & metrics
   - Improvement opportunities (given the perspective of the agreed process)
@@ -46,9 +46,9 @@ What does an OWASP Playbook provide to the reader? This content defines the doma
 
 What must the reader already have in place for the action in question? These could include organisational funding, processes, or technical requirements. The 'prerequisites' content will help the reader decide whether they are ready for the action. An OWASP Playbook should enumerate what is needed for the action.
 
-#### 3. Cost Benefit Analysis
+#### 3. Cost-Benefit Analysis
 
-Should the reader even consider taking this specific action? Generally speaking, this content presumes that the entity wants the action to take place. However, it may not be a prudent action. Perhaps the action is too costly or does not provide the desired outcome. As a result, the entity should perform a cost benefit analysis. This content will help the reader determine whether their chosen action is appropriate. An OWASP Playbook should provide guidance on various criteria to help the reader measure both the cost of the action and its benefit.
+Should the reader even consider taking this specific action? Generally speaking, this content presumes that the entity wants the action to take place. However, it may not be a prudent action. Perhaps the action is too costly or does not provide the desired outcome. As a result, the entity should perform a cost-benefit analysis. This content will help the reader determine whether their chosen action is appropriate. An OWASP Playbook should provide guidance on various criteria to help the reader measure both the cost of the action and its benefit.
 
 #### 4. The Process
 
