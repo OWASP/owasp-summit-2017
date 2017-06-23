@@ -21,8 +21,6 @@ title        : Security Champions
 
 ## Working materials
 
---(please add as much information as possible before the sessions)--
-
 - Draft definition of security champions' roles, responsibilities, and OKR
 - Draft structure to help companies create networks of security champions
 - Draft plan for forum for security champions
