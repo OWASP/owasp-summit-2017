@@ -116,7 +116,7 @@ Security Champions - role definition:
 - Aspire to change: culture / career progression
 - Pro-active / enthusiastic about security
 - Visibility / eyes & ears on the ground
-- Organise team: active members of team actively drive outcomes e.g. Threat Models, etc.
+- Organise team: active members of team actively drive outcomes e.g., Threat Models
 - Selection of security champion: self-appointed (better) rather than nominated
 - Network forums: meet regularly / conferences, CTFs, peer networks (both internal & external)
 
