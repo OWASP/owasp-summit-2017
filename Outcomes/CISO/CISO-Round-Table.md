@@ -12,6 +12,7 @@ Target audience:  companies without a CISO
 #### CISO Role
 
 Every Company needs a CISO, and every CISO should have a strong mandate and adequate resources. 
+
 The CISO should report
   - Firstly to the Board
   - Secondly to C-suite and sub-committees (so there are no conflicts of interest)
