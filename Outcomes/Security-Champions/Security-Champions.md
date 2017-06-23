@@ -4,7 +4,7 @@ title	: Security Champions
 ---
 ### Outcomes
 
-#### SURVEY:
+#### Summary of results from the survey respondants:
 - 20 respondents
 - Roles: AppSec lead/head (4), Architect (3), QA (1), Consultant (4), InfoSec management (3), CISO (2), Blank - Devs? (3)
 
@@ -106,7 +106,7 @@ title	: Security Champions
 - Query: Difference between Security Champions network -vs- Security Guild -vs- Security Chapter?
 
 
-#### Discussion:
+#### Summary of discussion:
 
 Security Champions - role definition:
 - Scales AppSec team
