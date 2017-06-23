@@ -10,7 +10,7 @@ title   : Threat Modeling by Feature and Layer
 
 #### Address Lookup (external entity)
 
-**Threats**
+#### Threats
 
 - (S) Fake address lookup service
     - possibly through DNS poisoning
@@ -18,7 +18,7 @@ title   : Threat Modeling by Feature and Layer
  - Mitigation: TLS with mutual authentication
     
 - (S) Fake JuiceShop - someone else (possibly including the address lookup service itself) sending requests on behalf of the JuiceShop
-- (R) Malicious data in these requests - can JuiceShop be liable if addressing service incures damage
+- (R) Malicious data in these requests - can JuiceShop be liable if addressing service incures damage?
     
 - (D) If service is rate-limited, the threat above will lead to DoS.
 
@@ -29,9 +29,9 @@ title   : Threat Modeling by Feature and Layer
 - (T) Trucks being sent to fake address
 - (T) Bad data sent back, violating assumed response format, leading to range of problems with JuiceShop depending how vulnerable the JuiceShop parser is (from DoS to RCE)
 
-- (D) Customers or maybe fake JuiceShop requests include bad addresses (bad as in associated with drug trade, terrorists etc), hoping to trigger alerts in some security analytics, leading to DoS by government.
+- (D) Customers or maybe fake JuiceShop requests include bad addresses (bad as in associated with drug trade, terrorists, etc.), hoping to trigger alerts in some security analytics, leading to DoS by government.
 
-- (I) Eavesdropping on communication will break privacy regulations, GDPR etc.
+- (I) Eavesdropping on communication will break privacy regulations, GDPR, etc.
     Mitigation: TLS.
 
 - (D) If the service is synchronous and unavailable or slow, would it result in DoS in JuiceShop?
@@ -39,7 +39,7 @@ title   : Threat Modeling by Feature and Layer
 - (I) If JuiceShop authenticates with keys, how secure is key storage.
 
 
-**Assumptions**
+#### Assumptions
 
 - Address resolution service is paid (or at least rate-limited, with Juice shop having a specific quota)
 - The API sends (name, address), gets back either:
@@ -51,7 +51,7 @@ title   : Threat Modeling by Feature and Layer
 
 #### Delivery Service (External)
 
-**Threats**
+#### Threats
 - Fake delivery service spoofs the real one; can collect data on JS customers, interfere with delivery
  -Tampering of quantity on wire
  - Repudiation of confirmation response & reverse, repudiation of request for truck roll
@@ -59,7 +59,7 @@ title   : Threat Modeling by Feature and Layer
  - (See Address Lookup for additional threats; many are similar)
 
 
-**Assumptions**
+#### Assumptions
 
 - TLS is used
 - Threat models exist for TLS
@@ -69,16 +69,16 @@ title   : Threat Modeling by Feature and Layer
 
 #### Juice Shop User (External)
 
-**Threats**
+#### Threats
 
 - Weak user authentication allows the user to be spoofed easily (spoofing, EoP)
 - No Audit trail for user activity exists (repudiation)
-- Weak account management security allows account takeover, e.g. lack of email confirmation (spoofing, EoP)
+- Weak account management security allows account takeover, e.g., lack of email confirmation (spoofing, EoP)
 - Admin console available due to lack of authentication (EoP)
 - Admin console security relies on obfuscation (information disclosure)
 - POST-SESSION: User is able to input malicious data (EoP)
 
-**Assumptions**
+#### Assumptions
 
 - TLS is used
 - Threat models exist for TLS
@@ -86,7 +86,7 @@ title   : Threat Modeling by Feature and Layer
 
 #### Email Service (External)
 
-**Threats**
+#### Threats
 
 - Juice Shop sends malicious emails (spoofing+)
 - Connecting to a fake service (spoofing)
@@ -99,7 +99,7 @@ title   : Threat Modeling by Feature and Layer
 - Sensitive data sent in emails (information disclosure)
 - Email tracking mechanism is misused or abused (information disclosure / privacy)
 
-**Assumptions**
+#### Assumptions
 
 - Rest API is used
 - TLS is used
@@ -109,7 +109,7 @@ title   : Threat Modeling by Feature and Layer
 
 #### Invoice Tracking (Internal)
 
-**Threats**
+#### Threats
 
 - (E) Unauthorised access to the invoice service
 - (I) Page is obfuscated, but a determined attacker can easily find it
@@ -120,7 +120,7 @@ title   : Threat Modeling by Feature and Layer
 - (R) Logging of read access
 - (I) Screen scraping (grab large volume of data)
 
-**Assumptions**
+#### Assumptions
 
 - Page is within the application
 - User is authenticated
@@ -130,23 +130,7 @@ title   : Threat Modeling by Feature and Layer
 #### Takeaways
 
 - Went through the user story handling the address lookup delivery service
-- Threats were identified for the service that threat model templates need to be created for: TLS, e-mail etc.
+- Threats were identified for the service that threat model templates need to be created for: TLS, e-mail, etc.
 - The discussion did not resolve the level of threat we should be looking at
 
 ![Whiteboard picture](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Threat-Model/whiteboard-photos/By-Feature-and-Layer.jpg)
-
-## Who
-
-... target audience ...
-
----
-
-## Working materials
-
-Here are the current 'work in progress' materials for this session
-
-(please add as much information as possible before the sessions)
-
-### Content
-
-...add content...
