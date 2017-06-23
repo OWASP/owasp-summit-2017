@@ -26,14 +26,6 @@ For an organisation or group to understand and use threat modelling, they need t
 
 - Guidelines for the effective use of threat modelling
 
---- 
-
-## Working materials
-
-- Draft guidelines for the effective use of threat modelling
-
-(please add as much information as possible before the sessions)
-
 ### Content
 How to get started
 
