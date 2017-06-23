@@ -7,7 +7,7 @@ title    : CISO Round Table
 
 ### Synopsis and Takeaways
 
-Target audience: Companies without a CISO
+Target audience:  companies without a CISO
 
 #### CISO Role
 
