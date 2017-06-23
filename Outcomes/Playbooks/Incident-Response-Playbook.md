@@ -16,7 +16,7 @@ title    : Incident Response Playbook
 
 #### Preparation
 - Conduct fire drill – consider tabletop exercises
-- Assign points of contact (e.g. Security Champions)
+- Assign points of contact (e.g., Security Champions)
 - Rapid deployment plan
 - Logging
 
@@ -63,5 +63,3 @@ title    : Incident Response Playbook
  - [How To Handle A Cyber Security Incident](http://www.huffingtonpost.co.uk/paul-rose/crisis-management-how-to-_b_14143266.html)
  - [Best Practices for Developing a Cyber Security Playbook](https://www.cnsgroup.co.uk/media-hub/news/news-article/2017/05/02/whitepaper-best-practices-for-developing-a-cyber-security-playbook)
  - [A weekend in Incident Response: How to Mitigate Cybersecurity Risks in HealthCare](https://www.linkedin.com/pulse/weekend-incident-response-how-mitigate-cybersecurity-risks-forte)
-
- ---
