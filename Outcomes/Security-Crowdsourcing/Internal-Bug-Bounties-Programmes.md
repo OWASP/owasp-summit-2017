@@ -10,7 +10,7 @@ title	  : Internal Bug Bounties Programmes
 
 The session discussed the uses and implementations of internal Bug Bounties, which require selecting the correct applications and team (non-crunch team) to give an adequate return on resources invested. 
 
-Organisational examples include:
+Organisational examples include
  - Starting with small controlled experiments with set timeframe
  - Insuring the correct participants are identified
  - Creation of roadmap for bug bounty program
@@ -23,7 +23,7 @@ Organisational examples include:
  - Encourage the focus on selected (high-risk) areas that give the best outcomes
  - Expectation setting (rules)
  - Use a recognition-based scoreboard that showcases the best internal talent for later projects
- - Tracking system: format standard for reporting, Unit tests, expectations of formal documentation, technologies used to create the bug, and a platform to send the report (GitHub/Jira etc.)
+ - Tracking system: format standard for reporting, Unit tests, expectations of formal documentation, technologies used to create the bug, and a platform to send the report (GitHub/Jira, etc.)
  - Testing layer defences ethically from an internal, pre-approved point of view
 
 ### Pros and Cons
