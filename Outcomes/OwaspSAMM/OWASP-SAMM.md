@@ -3,7 +3,7 @@ layout   : blocks/outcome
 title    : SAMM
 ---
 
-# Core Metrics
+## Core Metrics
 ## Outcomes
 
 This Working Session will result in updated SAMM Metrics and an outline plan for the future updates.
@@ -19,14 +19,14 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
   - Process
   - Environment
 
-# Core Model Update - Dev Methods
+## Core Model Update - Dev Methods
 ## Outcomes
 ### Synopsis and Takeaways
 - Restructure SAMM activities with an increasing maturity of implementation
-- Apply this restructure to all SAMM practises and activities (high level).
+- Apply this restructure to all SAMM practises and activities (high level)
 - Create one or more detailed descriptions with implementation guidance
 
-# Core Model Update - Implementation
+## Core Model Update - Implementation
 ## Outcomes
 
 - Core Model
@@ -43,7 +43,7 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
 - Ideas for new security practices have been noted
 - Likely updates to the "Operations" business function are to be made to account for more infrastructure-related activities
 
-# DataSet Project
+## DataSet Project
 ## Outcomes
 
 ### Synopsis and Takeaways
@@ -53,7 +53,7 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
 - For the project to progress steadily it is important to collect names that are willing to contribute to the project consistently
 - Create a survey that is to be sent via the "SAMM users mailing list", in order to gain valuable information about what users want from the Dataset
 
-# Introduction - GDOSMM
+## Introduction - GDOSMM
 ## Outcomes
 
 ### Synopsis and Takeaways
@@ -63,7 +63,7 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
 - An evening session was agreed for model mapping SAMM to GDOSMM
 - The effort/impact dimensions suggested make for an interesting addition to activities
 
-# Kick-off
+## Kick-off
 ## Outcomes
 
 ### Synopsis and Takeaways
@@ -80,7 +80,7 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
 - Measure efficiency
 - SAMM Profiles
 
-# Outreach and Market
+## Outreach and Market
 ## Outcomes
 
 - High-level plan for promoting and integrating SAMM
@@ -91,7 +91,7 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
 - Invite members of the mailing list to create a video showcasing some real world evidence of SAMM in action
 - Need a way to measure downloads of the SAMM model; a possible solution is to link to the model from GitHub
 
-# OWASP Project alignment
+## OWASP Project alignment
 ## Outcomes
 
 - Recommendations for addition to SAMM
@@ -105,13 +105,13 @@ This Working Session will result in updated SAMM Metrics and an outline plan for
 - Make sure to promote the missing tools and artefacts to encourage people to undertake the project themselves
 - Map a lower level of granularity; map at a level of activities  
 
-# Stories and Templates
+## Stories and Templates
 ## Outcomes
 - New templates drafted
 - Existing use cases updated
 - New use cases identified
 
-# SAMM V2 Ground Rules
+## SAMM V2 Ground Rules
 ### Synopsis and Takeaways
 
 - One Model
