@@ -24,7 +24,7 @@ title  : Internal Security Meetup
 - Theory by instructor or web-based training.
 - Hackathons for practical skills.
 
-You can also go by topics, where you switch theory/practice for each
+You can also go by topic, where you switch theory/practice for each
 topic.
 
 TDD can be good for that. Write the code from security tests.
