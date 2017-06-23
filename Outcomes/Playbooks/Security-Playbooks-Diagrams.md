@@ -21,7 +21,7 @@ We also agreed that we should create iconography for different audiences to help
 - The person who follows the process
 - The person who takes the result of the process and deals with the outcome (analyse, distil, process).
 
-**Diagrams**
+#### Diagrams
 
 Ayehu's site has a really good example of what these diagrams could look like:
 
