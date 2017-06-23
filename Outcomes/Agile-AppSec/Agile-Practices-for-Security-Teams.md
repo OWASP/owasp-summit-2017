@@ -23,8 +23,8 @@ The following categories highlight some of the key activities of an agile securi
 
 #### Standardisation and Compliance
 
-- Own strong guidelines, e.g. data classification, regulatory, compliance
-- Two tier security standards? mandatory, depend on risk/sensitivity etc.
+- Own strong guidelines, e.g., data classification, regulatory, compliance
+- Two tier security standards? mandatory, depend on risk/sensitivity, etc.
 - Library of standard stories
 
 #### Support
@@ -33,7 +33,7 @@ The following categories highlight some of the key activities of an agile securi
 - Help create security user stories, personas, anti-personas, patterns
 - Culture of "security is not to say no, but to help"
 - Testing
-- Automation is needed for CI/CD e.g. tool to track 3rd party licenses
+- Automation is needed for CI/CD e.g. tool to track third party licenses
 - "Development enablement tribe"
 
 #### Governance/Control
@@ -41,7 +41,7 @@ The following categories highlight some of the key activities of an agile securi
 - Project initiation touch point to define "gates"
 - Prioritisation of involvement based on risk assessment, lifecycle stage
 - Define "done"
-- 3rd party maturity assessment 
+- Third party maturity assessment 
 - Internal compliance checks
 - Centralised tracking in primary colours
 - Security team KPIs
@@ -57,7 +57,7 @@ The following categories highlight some of the key activities of an agile securi
 
 - Perhaps agile not applicable, more lean/kanban
 - View security as functions, not people - resourcing can change but functions don't
-- Don't be a blocker to agile, e.g. in operational approvals
+- Don't be a blocker to agile, e.g., in operational approvals
 - "Security team as a service"
 - Struggle to manage BAU and hence forecasting: separate functions
 - Need visibility of project portfolio
@@ -66,8 +66,6 @@ The following categories highlight some of the key activities of an agile securi
 --- 
 
 ### Working materials
-
-Here are the current "work in progress" materials for this session (please add as much information as possible before the sessions):
 
 <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=OWASP_Proactive_Controls_2016">OWASP Proactive Controls</a>
 
