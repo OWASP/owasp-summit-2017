@@ -8,7 +8,7 @@ title   : Threat Modeling by Feature and Layer
 
 ### Synopsis/Takeaways
 
-#### Address Lookup (external entity)
+### Address Lookup (external entity)
 
 #### Threats
 
@@ -49,7 +49,7 @@ title   : Threat Modeling by Feature and Layer
 - No outbound rate limit, so a fuzzy request can result in a large list of matches
 
 
-#### Delivery Service (External)
+### Delivery Service (External)
 
 #### Threats
 - Fake delivery service spoofs the real one; can collect data on JS customers, interfere with delivery
@@ -67,7 +67,7 @@ title   : Threat Modeling by Feature and Layer
 - This is an analysis of the quote flow, there is also a execute flow that needs to be threat modeled.
 
 
-#### Juice Shop User (External)
+### Juice Shop User (External)
 
 #### Threats
 
@@ -84,7 +84,7 @@ title   : Threat Modeling by Feature and Layer
 - Threat models exist for TLS
 - User is authenticated
 
-#### Email Service (External)
+### Email Service (External)
 
 #### Threats
 
@@ -107,7 +107,7 @@ title   : Threat Modeling by Feature and Layer
 - Email service is only used for delivery confirmation
 - Juice Shop has validated reputation of the email delivery mechanism
 
-#### Invoice Tracking (Internal)
+### Invoice Tracking (Internal)
 
 #### Threats
 
@@ -127,7 +127,7 @@ title   : Threat Modeling by Feature and Layer
 - Used only for delivery services
 - Not built for user invoicing
 
-#### Takeaways
+### Takeaways
 
 - Went through the user story handling the address lookup delivery service
 - Threats were identified for the service that threat model templates need to be created for: TLS, e-mail, etc.
