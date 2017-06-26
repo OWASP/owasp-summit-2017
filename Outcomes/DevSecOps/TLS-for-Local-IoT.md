@@ -3,7 +3,7 @@ layout  : blocks/outcome
 title	: TLS for Local IoT
 ---
 
-## Outcomes
+### Outcomes
 
 Developed roadmap for TLS-SRP implementation and adoption.
 
@@ -14,15 +14,15 @@ The roadmap will include:
  
  --- 
  
-## Working materials
+### Working materials
 
-## Proposal
+### Proposal
 
 Develop a roadmap to fully implement and adopt Transport Layer Security - Secure Remote Password (TLS-SRP).  Other approaches can be considered, but TLS-SRP appears to meet the requirements if it is implemented correctly. TLS-SRP lends itself to user credentials better than TLS-PSK (lower entropy requirements), it is built on established crypto principles, and it is already implemented in some required components.
 
 Cloud-based servers could be used to administer IoT devices, through local configuration of local network access by audio, Bluetooth, or light-based protocols from a mobile device, followed by secure connections to the cloud server by both the device and the administration web browser, with control/configuration relayed between the two. However, this is a costly option for many vendors and only works while internet access can be provided to the device and while the cloud service is maintained.  This may become the norm in the future but, for now, many devices support local web admin interfaces and these cannot be secured with traditional TLS.
 
-## Proposed Approach
+### Proposed Approach
 
 To use TLS-SRP in IoT and embedded spaces, we will need:
 
@@ -49,7 +49,7 @@ Suggestions include:
 
 Once implemented, IoT and embedded vendors will need to be encouraged to use TLS-SRP over traditional TLS for web admin security.
 
-## Supporting files
+### Supporting files
 
 Over on https://github.com/rtfcode/tls-srp I have created some supporting info for test/dev:
 * Apache configuration for a TLS-SRP vhost - I know Apache isn't very IoT but it's just a demo.
@@ -69,23 +69,23 @@ Equally, it is possible to make a web browser appear TLS-SRP enabled to test a T
 
  ---
 
-## Roadmap
+### Roadmap
 
 Kev Sheldrake will progress building a demonstration system and will endeavor to present the outcomes of this workshop at other events - IoTSF in December 2017 being one candidate, but we will consider all other options. Kev will then utilise OWASP contacts to open discussions with browser devs.  Kev will endeavor to encourage initiation of IoT vendor adoption.
 
-**Step 1 - produce demos for discussion:**
+#### Step 1 - produce demos for discussion:
 
   - Produce a demo mobile app that implements TLS-SRP on top of a web view (webkit or similar) for configuring TLS-SRP IoT devices.
   - Identify or produce TLS-SRP browser extensions to allow browsers to access TLS-SRP IoT devices, for demonstration purposes.
   - Build demo IoT device (likely on Raspberry Pi) that utilises TLS-SRP for secure web admin.
   - Build web site dedicated to the 'TLS-SRP for IoT solution'; should aim at encouraging discussion, access to open source via GitHub, solicit support from individuals and organisations.
   
-**Step 2 - publicise demos:**
+#### Step 2 - publicise demos:
 
   - Take demos to IoT, browser and security conferences to publicise efforts.
   - Find vendor-neutral organisations willing to brand/push the step 1 demos to encourage discussions with browser and IoT vendors.  OWASP and IoTSF could be first candidates.
   
-**Step 3 - from demos to capability:**
+#### Step 3 - from demos to capability:
 
   - Build IoT TLS-SRP reference design / implementation.  Initial design will use stunnel-srp to front web server
   - Use OWASP contacts to open discussions with browser devs and W3C
