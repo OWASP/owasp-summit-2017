@@ -63,23 +63,23 @@ REST IAM
 
 *Scenario 1*
 
-![Scenario1][1]
+![Scenario1][1]{:style="width:949px"}
 
 *Scenario 2*
 
-![Scenario2][2]
+![Scenario2][2]{:style="width:949px"}
 
 *Scenario 3*
 
-![Scenario3][3]
+![Scenario3][3]{:style="width:656px"}
 
 *Scenario 4*
 
-![Scenario4][4]
+![Scenario4][4]{:style="width:949px"}
 
 *Scenario5*
 
-![Scenario5][5]
+![Scenario5][5]{:style="width:949px"}
 
 (sources for all these images are (https://drive.google.com/drive/u/0/folders/0B8Z12l6_ShfuSkQxaUc2SFFjQzg) )
 
