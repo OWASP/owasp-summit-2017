@@ -7,7 +7,7 @@ technology   : Java
 status       : Final stage; missing working materials
 when-day     : Wed
 when-time    : PM-1
-location     : Room-3
+location     : Villa-3
 organizers   : Nanne Baars
 participants : Ade Yoseman Putra
 invited      : Tiffany Long
@@ -34,6 +34,23 @@ This Working Session will explore how WebGoat can be improved.
 - New test cases
 - New shared knowledge base
 - New lesson content, including content on how to fix vulnerabilities
+
+### Synopsis and Takeaways
+
+- Add lessons not found in other Goat like applications e.g., SSRF
+- Discussion about sharing content between Goat like applications such as WebGoat, NodeGoat, etc.
+- Flexibility when presenting in lessons
+- Language support discussion and agreed on supporting one language and focus on other features first 
+- How to integrate automated vulnerability checking into WebGoat
+- Fixing a lesson should be added so developers can fix as well as break
+- New lesson ideas
+      - Upload functionality
+      - Path traversal with shell upload
+      - Crypto
+      - Focus on HTML5
+      - JSON Injection
+      - Business logic 
+               - e.g., After payment of an order repeat the request and keep ordering the TVs without paying. 
 
 ##  Who
 

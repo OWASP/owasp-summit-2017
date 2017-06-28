@@ -12,11 +12,12 @@ location     : Room-2
 organizers   : Ante Gulam
 panelists    : Dinis Cruz,Ante Gulam, Neil Barlow
 participants : Robert Morschel, Don Gibson
+outcomes     : not-found
 ---
 
 ## Why
 
-This Working Session will discuss how to mobilise business lines for security, one of the biggest challenges faced by every CISO. Ensuring that business liaisons are held accountable, and that risk is mutually agreed, are essential to achieve the appropriate prioritisation that security requires. 
+This Working Session will discuss how to mobilise business lines for security, one of the biggest challenges faced by every CISO. Ensuring that business liaisons are held accountable, and that risk is mutually agreed, are essential to achieve the appropriate prioritisation that security requires.
 
 ## What
 

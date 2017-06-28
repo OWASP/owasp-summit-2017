@@ -6,11 +6,12 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   : OWASP Proactive Controls
 status       : out
-when-day     : 
-when-time    : 
-location     : 
+when-day     :
+when-time    :
+location     :
 organizers   : Andrew Ven Der Stock
 participants : Katy Anton, Jonas Vanalderweireldt, Mateo Martinez
+outcomes     : mapped
 ---
 
 ## Why
@@ -42,11 +43,11 @@ The target audience for this Working Session is:
  - "Another day, another client with external RCE from a #Java Deserialisation vulnerability. Truly the gift which keeps on giving" from [twitter](https://twitter.com/JoshCGrossman/status/856429276488491008)
  - [OWASP Top 10 2017 — What should be there](https://medium.com/@JoshCGrossman/owasp-top-10-2017-what-should-be-there-f5500c1a938d)
 
---- 
+---
 
 ## Working materials
 
-Long list of potential categories for inclusion in OWASP Top 10 2017 categories 
+Long list of potential categories for inclusion in OWASP Top 10 2017 categories
 (please add as much information as possible before the sessions)
 
 ### Content

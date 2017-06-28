@@ -8,15 +8,15 @@ technology   :
 related-to   :
 status       : need more content
 when-day     : Thu
-when-time    : PM-1
-location     : Room-2
+when-time    : DS-1
+location     : Main-Room
 organizers   : Ante Gulam
 participants : 
 ---
 
 ## Why
 
-The Spotify model of Squads, Chapters, Tribes, and Guilds (using multiple Agile methodologies) has been adopted by many companies since it presents an opportunity to define global practices and activities that can be replicated across multiple teams, geographical locations, and cultures.
+The Spotify model of Squads, Chapters, Tribes, and Guilds (using multiple Agile methodologies) has been adopted by many companies. It presents an opportunity to define global practices and activities that can be replicated across multiple teams, geographical locations, and cultures.
 
 We need companies that have tried, failed, and succeeded to integrate security into a Spotify Model to share their experiences.
 

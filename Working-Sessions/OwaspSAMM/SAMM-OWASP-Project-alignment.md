@@ -11,6 +11,7 @@ location     : Villa-1
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
+outcomes     : mapped
 ---
 
 Align SAMM with other OWASP projects. Include OWASP projects as resources for the SAMM practices in SAMM v2.0 (started online [here](https://www.owasp.org/index.php/Category:SAMM-Resources))
@@ -30,6 +31,14 @@ SAMM provides a program level view of activities for securing software. We need 
 - Recommendations for addition to SAMM
 - Plan for project and activity alignment
 
+### Synopsis and Takeaways
+
+- We must make sure to remap “Flagship” and “Lab” projects for SAMM Version 2
+- Reach out to “Flagship” and “Lab” leaders to get references to the SAMM project and, if possible, link to an activity or     security process.
+- Identify missing tools and artefacts that are needed for different activates
+- Make sure to promote these missing tools and artefacts to encourage people to undertake the project themselves.
+- Map a lower level of granularity; map at a level of activities  
+
 ## Who
 
 The target audience for this Working Session is:
@@ -39,11 +48,11 @@ The target audience for this Working Session is:
 - DevOps Roles
 - CISOs
 
---- 
+---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 

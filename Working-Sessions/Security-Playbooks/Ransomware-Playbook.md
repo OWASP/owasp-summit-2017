@@ -7,10 +7,11 @@ technology   :
 related-to   :
 status       : need-working materials
 when-day     : Fri
-when-time    : PM-3
+when-time    : PM-2
 location     : Room-5
 organizers   : Anders Reeves
-participants : 
+participants :
+outcomes     : not-found
 ---
 
 ## Why
@@ -22,7 +23,7 @@ When that happens, it is imperative that clean workflows (aka playbooks) exist, 
 ## What
 
  - Create Ransomware Playbook
- 
+
 ## Outcomes
 
 - Ransomware Playbook
@@ -44,14 +45,11 @@ The target audience for this Working Session is:
    - [Playbook for Handling Ransomware Infections](https://www.demisto.com/playbook-for-handling-ransomware-infections/)
    - [The five Step Ransomware Defense Playbook](https://itspmagazine.com/from-the-newsroom/the-five-step-ransomware-defense-playbook)
    - [playbook-ransomware.yml](https://github.com/demisto/content/blob/master/Playbooks/playbook-ransomware.yml)
-   
-  --- 
+
+  ---
 
 ## Working materials
 
 - Draft Ransomware Playbook
 
 (please add as much information as possible before the sessions)
-
-
-

@@ -12,8 +12,12 @@ when-time    : PM-1,PM-2,PM-3
 location     :
 room-layout  : unknown
 organizers   : Johan Peeters
-participants : Dinis Cruz, Bjoern Kimminich,Steven Wierckx,Viktor Lindstrom, Sebastien Deleersnyder, Jonas Vanalderweireldt, Fabien Thalgott
+participants : Alexander Antukh, Amani Altarawneh, Bart De Win, Bernhard Mueller, Bjoern Kimminich, Bolot Kerimbaev, Brian Glas, Carlos Holguera, Chris Cooper, Daniel Kefer, Danny Grander, Dave Wickers, Denis Pilipchuk, Devesh Bhatt, Enrico Verzegnassi, Fabien Thalgott, Felipe Zipitria, Gabor Pek, Ingo Hanke, Jason Li, Jonas Vanalderweireldt, Juan Calderon, Mamta Naidu, Mark Felegyhazi, Martin Knobloch, Mateo Martinez, Nikita Garia, Sandor Lenart, Scott Treacy, Sebastien Deleersnyder, Steve Kosten, Steven van der Baan, Steven Wierckx, Sven Schleier, Timo Pagel, Bruce Jenkins, Viktor Lindstrom, Adam Shostack, Hamza Alkofahi, Janne Sarendal, paul foutain, chris howell, dominic hobson, eddie lee, Marco Morana, George Simms, Mohan Yelnadu, Hardik Parekh, Christian Martorella, Ohad Rabinovich
+
 ---
+
+
+## IF YOU ARE NAMED AS A PARTICIPANT, YOU WILL NEED TO BRING A CASH PAYMENT OF £12.50 TO COVER YOUR NATIONAL MUSEUM OF COMPUTING TOUR. THE ENTRANCE FEE FOR BLETCHLEY PARK IS £17.75. (A TOTAL OF £30.25 IS REQUIRED FOR BOTH SITES) PLEASE TRY TO BRING THE RIGHT MONEY TO SPEED UP THE PROCESS OR THE TOUR MAY BE DELAYED.
 
 This session takes a step back from current pressing cyber-security concerns and travels back in time to the place where, in a sense, it all began, nearby [Bletchley Park](https://bletchleypark.org.uk/).
 
@@ -38,25 +42,13 @@ Exhibits listed above are a suggestion, but feel free to pursue your own interes
 
 ### Transport Arrangements:
 
-Transport remains to be arranged, but local taxi's are available. In order to be able to book sufficient taxi's, please indicate below whether you need transport or can take people. Shared taxi fees are likely to cost around 10 GBP per head, round trip.
-
-Have vehicle with N open slots:
-* Sebastien Deleersnyder: Steven Wierckx, Jonas Vanalderweireldt, Fabien Thalgott, 1 extra seat
-* Chris Cooper: 3 extra seats
-
-Need transport:
-* Adam Shostack
-* Viktor Lindstrom
-* Bjoern Kimminich
-* Hamza Alkofahi
-* Johan Peeters
+A bus has been arranged to take us from the conference center to Bletchley. Please meet at the reception of 'The Venue' at 1pm and you will be taken to the pick up point. This will be a staggered departure process, please be patient while you are allocated a bus seat.
 
 ### Tickets
 
-Barring some financial windfall, you will be expected to pay entrance fees. The guided tour at the National Museum of Computing costs 12.50 GBP. A pre-ordered, pre-paid group ticket giving access to all Bletchley Park exhibitions costs 14 GBP, individual tickets cost 17.50 GBP. Unless you indicate otherwise below, it will be assumed that you want both a place on the guided tour and a discounted group ticket to the rest of Bletchley Park.
-
 Do *not* require ticket (e.g. season Pass owners)
-* Bjoern Kimminich
+* Bjoern Kimminich (ticket for Bletchley Park)
+* Bolot Kerimbaev (ticket for Bletchley Park)
 
 ## Who
 

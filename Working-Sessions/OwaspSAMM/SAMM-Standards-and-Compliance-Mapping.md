@@ -8,9 +8,11 @@ status       : done
 when-day     : Wed
 when-time    : PM-3
 location     : Villa-1
+remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
+outcomes     : not-found
 ---
 
 Map SAMM on standards or regulatory requirements.
@@ -38,16 +40,14 @@ The target audience for this Working Session is:
 - DevOps Roles
 - CISOs
 
---- 
+---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 
 ### Content
 
 ...add content...
-
-

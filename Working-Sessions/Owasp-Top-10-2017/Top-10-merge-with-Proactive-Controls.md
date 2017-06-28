@@ -8,6 +8,7 @@ related-to   : OWASP Proactive Controls
 status       : draft
 organizers   :
 participants :
+outcomes     : mapped
 ---
 
 > _"...If a pro-A7 argument is proactivity, maybe @OWASPControls should replace top 10 risks..."
@@ -21,7 +22,7 @@ participants :
 
 ... Add content ...
 
-## Outcomes 
+## Outcomes
 
 ... Add content ...
 
@@ -29,7 +30,7 @@ participants :
 
 ... Add content ...
 
---- 
+---
 
 ## Working materials
 

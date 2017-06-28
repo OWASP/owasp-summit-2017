@@ -11,7 +11,7 @@ when-time   : AM-1
 location    : Villa-4
 room-layout : unknown
 organizers  : Tony UV
-participants: Dinis Cruz,Jason Li,Irene Michlin,Stephen de Vries,Robert Morschel,Francois Raynaud, Duncan Hurwood,Johan Peeters, Steven Wierckx
+participants: Jason Li,Irene Michlin,Stephen de Vries,Robert Morschel,Francois Raynaud, Duncan Hurwood,Johan Peeters, Steven Wierckx
 ---
 
 This Working Session aims to create five threat modelling templates, that may include some of the following:  

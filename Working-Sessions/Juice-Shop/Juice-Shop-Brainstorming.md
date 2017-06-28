@@ -15,6 +15,7 @@ room-layout  : circle
 participants : Ade Yoseman Putra,Timo Pagel,Francois Raynaud,Jonas Vanalderweireldt
 invited      : Jannik Hollenbach, Viktor Lindstrom
 cant-make-it : Ingo Hanke
+outcomes     : mapped
 ---
 
 ## Why

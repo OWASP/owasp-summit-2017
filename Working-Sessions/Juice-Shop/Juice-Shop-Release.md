@@ -10,10 +10,11 @@ organizers   : Bjoern Kimminich
 when-day     : Fri
 when-time    : AM-1
 locked       : true
-location     : Villa-5
+location     : Room-6
 room-layout  : cabaret
 participants :
 invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud, Ingo Hanke, Madhu Akula, Stefano Di Paola, Tiago Mendo, Timo Pagel, Victor Vidigal Ribeiro, Viktor Lindstrom
+outcomes     : mapped
 ---
 
 ## Why
@@ -35,6 +36,8 @@ invited      : Ade Yoseman Putra, Amani Altarawneh, Dinis Cruz, Francois Raynaud
 
 Live release of OWASP Juice Shop to publish all the work achievements of
 the summit and see Travis-CI & friends in action in the process.
+
+**While the release is underway all the new features in v4.0.0 will be demonstrated!**
 
 ![Juice Shop logo](https://github.com/bkimminich/juice-shop/raw/master/app/public/images/JuiceShop_Logo_100px.png)
 
@@ -80,7 +83,7 @@ Release commands for OWASP Juice Shop:
 ```bash
 git checkout master
 git merge develop
-git tag v3.3.0 -s -m "v3.3.0"
+git tag v4.0.0 -s -m "v4.0.0"
 git push --follow-tags
 ```
 

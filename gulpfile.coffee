@@ -78,4 +78,4 @@ gulp.task 'default'    , ['styles', 'pug', 'build-data', 'build'],->
     gulp.watch 'Logistics/**/*.md'            , ['build-data', 'reload-page-all']
     gulp.watch 'Participants/**/*.md'         , ['build-data', 'reload-page-all']
     gulp.watch 'Working-Sessions/**/*.md'     , ['build-data', 'reload-page-all']
-    #gulp.watch 'Working-Sessions/**/*.md'     , ['reload-page']
+    gulp.watch 'Outcomes/**/*.md'             , ['reload-page']

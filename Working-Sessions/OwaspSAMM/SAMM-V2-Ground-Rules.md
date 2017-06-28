@@ -11,6 +11,7 @@ location     : Room-3
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom, Irene Michlin, Fabien Thalgott
+outcomes     : mapped
 ---
 
 Set the goals for this week.
@@ -29,7 +30,7 @@ Starting point for a common understanding of the goals and mindset for the SAMM 
 ## Outcomes
 
 ### Synopsis and Takeaways
-One Model 
+One Model
 Evolution
 Scope equals software
 Experiment with tagging to cover various viewpoints
@@ -45,11 +46,11 @@ The target audience for this Working Session is:
 - DevOps Roles
 - CISOs
 
---- 
+---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 

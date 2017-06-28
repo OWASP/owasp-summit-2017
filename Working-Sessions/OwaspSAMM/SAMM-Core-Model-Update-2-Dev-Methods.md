@@ -11,6 +11,7 @@ location     : Villa-1
 room-layout  : unknown
 organizers   : Brian Glas
 participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Fabien Thalgott
+outcomes     : mapped
 ---
 
 SAMM core model update sessions.
@@ -26,7 +27,11 @@ This Working Session will review the core model in relation to different develop
 
 ## Outcomes
 
-...add content...
+### Synopsis and Takeaways
+
+- Restructure SAMM activities with an increasing maturity of implementation
+- Apply this restructure to all SAMM practises and activities (high level).
+- Create one or more detailed descriptions with implementation guidance
 
 ## Who
 
@@ -37,11 +42,11 @@ The target audience for this Working Session is:
 - DevOps Roles
 - CISOs
 
---- 
+---
 
 ## Working materials
 
-Here are the current 'work in progress' materials for this session 
+Here are the current 'work in progress' materials for this session
 
 (please add as much information as possible before the sessions)
 

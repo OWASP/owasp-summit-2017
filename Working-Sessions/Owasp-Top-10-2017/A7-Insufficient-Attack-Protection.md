@@ -5,13 +5,13 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : out 
-when-day     : 
-when-time    : 
-location     : 
-room-layout  : u-shape
-organizers   : Dave Wichers, 
+status       : Dynamic Session
+when-day     : Wed
+when-time    : DS-1
+location     : Main-Room
+organizers   : Dave Wichers,
 participants : Sebastien Deleersnyder, Jonas Vanalderweireldt
+outcomes     : mapped
 ---
 
 Based on analysis of more than 2.3 million vulnerabilities in more than 50,000 applications, the OWASP Top 10 2017 introduces two new categories: Insufficient Attack Protection and Underprotected APIs.
@@ -32,7 +32,7 @@ The idea behind A7 is the "Security-as-Code" principle meaning that security pro
  - Review current description and text
  - What are the pros and cons of this category?
  - Is this category important enough to be added to the new Top 10?
- 
+
 ## Outcomes
 
 This Working Session will decide whether the Underprotected APIs category will be added to the Top 10.
@@ -54,7 +54,7 @@ The target audience for this Working Session is:
  - https://twitter.com/securestep9/status/863005880161382400
  - http://lists.owasp.org/pipermail/owasp-topten/2017-April/001422.html
 
---- 
+---
 
 ## Working materials
 

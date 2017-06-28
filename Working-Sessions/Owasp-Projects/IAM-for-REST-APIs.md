@@ -1,6 +1,6 @@
 ---
 layout       : blocks/working-session
-title        : IAM for REST APIs
+title        : Identity and Access Management for REST APIs - REST Security Cheat Sheet
 type         : workshop
 track        : Owasp Projects
 related-to   : Cheat Sheets, A10 - Underprotected APIs
@@ -8,10 +8,10 @@ technology   : REST
 status       : Final stage; missing working materials
 when-day     : Fri
 when-time    : AM-1
-location     : Room-3
+location     : Main-Room
 room-layout  : Cabaret
 organizers   : Johan Peeters
-participants : Dinis Cruz, Robert Morschel, Steven Wierckx
+participants : Dinis Cruz, Robert Morschel, Steven Wierckx, Phil Parker
 ---
 
 ## Why
@@ -36,8 +36,52 @@ REST APIs are ubiquitous, yet there is a lack of solid insights into securing RE
 
 ## Outcomes
 
-- A new version of the REST Security Cheatsheet.
-- One or more demonstrators.
+- Use simpler terms: user, api, application - good enough for most scenarios and more comprehensible - guideline should outlive the specific schemes
+- Glossary of terms to clarify our use of terms like credentials, api keys, ...
+- Need to list the different common scenarios (use cases), providing guidelines for each, e.g.:
+- Application consuming an api without a separate identity provider - api issues credentials/secret/mutual ssl securely - supplied on requests in an authorisation header over secure channel, e.g. HTTPS - application must be able to keep the credentials secret, e.g. not in public repositories, encrypted in configuration, ...  api could use internal identity (authorisation) provider - application not aware of an IDP - one-legged
+- Application calling multiple APIs with shared identity provider (application is aware of the IDP) - two-legged c.g. OAuth client credential grant - microservices scenario
+- User (resource owner) and application (client) and api - OAuth three-legged case - adds authorisation claims
+- As above but api calls api - no way to prevent api propagating rights illegitimately - JWT or signing bearer tokens is one way to mitigate this
+- Fine-grained resource control 
+
+### Synopsis & takeaways
+
+REST IAM
+
+**Discussion**
+
+- Current section doesn't make sense, makes lot of upfront assumptions
+- Prefer time-limited tokens to sending credentials with every request
+- Tokens should be short-lived and scoped
+- Long-running processes still need to be identified and authorised
+- Exchanging short-lived tokens for longer-lived tokens with narrower scope - narrow scope is a good principle anyways - principle of least privilege
+- Complexity of implementation is a consideration and trade-off to consider - more likely to get it wrong if complex
+- Need to at least address the simple case and offer good advice
+- Signed bearer tokens are an interesting idea
+
+
+*Scenario 1*
+
+![Scenario1][1]
+
+*Scenario 2*
+
+![Scenario2][2]
+
+*Scenario 3*
+
+![Scenario3][3]
+
+*Scenario 4*
+
+![Scenario4][4]
+
+*Scenario5*
+
+![Scenario5][5]
+
+(sources for all these images are (https://drive.google.com/drive/u/0/folders/0B8Z12l6_ShfuSkQxaUc2SFFjQzg) )
 
 ## Who
 
@@ -70,7 +114,7 @@ Here are the points that I think need to be addressed in the cheat sheet. Give m
      * the resource owner granted access to one of more resources on this resource server
      * the resource owner granted access to the API consumer invoking the services
      * the requested operation is in scope.
-* Drop references to CSRF. When a REST service has multiple clients, some of which do not have access to the CSRF tokens issued, that service has no role in protecting against CSRF - this is exclusively the responsibility for the client.
+* CSRF protection cannot be achieved in a multi-client REST service with a CSRF token. Origin header should be mandated and checked with configured list of allowed origins.
 * Direct object references are fine - this is how you point to a resource. It is just that access to that resource needs to be protected with an access token.
 * Input validation section is hard to understand. The bottom line is that any data included in the call needs to be output encoded before being used in processing the request.
 * Drop references to parsing XML - I assume no-one seriously wants to do that.
@@ -78,3 +122,9 @@ Here are the points that I think need to be addressed in the cheat sheet. Give m
 * A couple of important topics are missing and should be added:
     * CORS
     * HoK
+
+[1]: /website/assets/img/blocks/REST-Scenario1.png
+[2]: /website/assets/img/blocks/REST-Scenario2.png
+[3]: /website/assets/img/blocks/REST-Scenario3.png
+[4]: /website/assets/img/blocks/REST-Scenario4.png
+[5]: /website/assets/img/blocks/REST-Scenario5.png

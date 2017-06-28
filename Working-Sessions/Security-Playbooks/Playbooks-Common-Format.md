@@ -11,6 +11,7 @@ when-time    : PM-1
 location     : Room-5
 organizers   : Jason Li
 participants : Jonas Vanalderweireldt,Tiffany Long, Steven Wierckx
+outcomes     : mapped
 ---
 
 ## Why
@@ -19,7 +20,7 @@ To collaborate effectively and agree on a common format for the playbooks, we sh
 
 Isn't it better to consolidate the actions of the SecOps Team, AppSec Team, and SOC into Playbooks (i.e. workflows on how to act/behave)?
 
-The Cisco security blog describes a Playbook in the following way: 
+The Cisco security blog describes a Playbook in the following way:
 
 > "... To be clear, the Playbook is for organizing and documenting security monitoring. It isn’t an incident response handbook or a policy document or any other type of security document or handbook. The Playbook may reference things like the Incident Response Handbook or Acceptable Use Policy, but it isn’t a replacement for these...."
 
@@ -38,12 +39,12 @@ The Working Session will explore these issues to prepare for the various Playboo
  - Create plan for how it will be used on the Playbook Working Sessions
  - Clarify concepts
  - Agree on definition of Playbook
- 
+
 ## Outcomes
 
 - Template for playbooks
 - Plan for how template will be used in the Playbook Working Sessions.
-- Agreed definition of Playbook 
+- Agreed definition of Playbook
 
 ## Who
 
@@ -52,7 +53,7 @@ The target audience for this Working Session is:
  - 'Security Playbooks' Track organisers and participants
  -  Security teams
 
---- 
+---
 
 ## Working Session Outcomes
 
@@ -115,5 +116,3 @@ How does the reader know they've achieved success? Success could simply be compl
 
 ##### Improvement Opportunities
 What can the reader do next? Perhaps the entity is interested in scaling or automating "the something". Or maybe they'd like to improve their maturity on the security scale. The intent of this content is to give the reader more information about next steps. An *OWASP Playbook* should provide suggested improvement for both "the something" and for other "related somethings" that the reader should consider.
-
-

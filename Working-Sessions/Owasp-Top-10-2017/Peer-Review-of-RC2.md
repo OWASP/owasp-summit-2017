@@ -3,14 +3,15 @@ layout       : blocks/working-session
 title        : Peer Review of RC2
 type         : workshop
 track        : Owasp Top 10 2017
-when-day     : 
-when-time    : 
-location     : 
+when-day     :
+when-time    :
+location     :
 technology   :
 related-to   :
 status       : out
 organizers   :
 participants :
+outcomes     : mapped
 ---
 
 There will be an RC2 resulting from the summit.
@@ -32,7 +33,7 @@ There will be an RC2 resulting from the summit.
 
 ... Add content ...
 
---- 
+---
 
 ## Working materials
 

@@ -6,7 +6,7 @@ owasp-project : no
 track         : DevSecOps
 technology    :
 status        : done
-when-day      : Thu
+when-day      : Fri
 when-time     : PM-1
 location      : Room-1
 room-layout   : 
@@ -26,7 +26,7 @@ This Working Session will focus on the most common issues regarding Docker secur
 ## What
 
 While there are several security issues which show up when reviewing Docker security, the following four are identified as the most important ones:
-- The intrinsic security of the kernel and its support for namespaces and cgroups
+- The intrinsic security of the kernel and its support for namespaces and groups
 - The attack surface of the Docker daemon
 - Loopholes in the container configuration profile, either by default, or when customized by users
 - The “hardening” security features of the kernel and how they interact with containers
@@ -34,6 +34,27 @@ While there are several security issues which show up when reviewing Docker secu
 ## Outcomes
 
 The outcome of this Working Session will be a document which summarizes the most common security concerns when using Docker and practical advice on how to protect from them.
+
+### Synopsis and Takeaways
+
+General Security recommendation should be addressed and links should be shared.
+
+General Docker Security Considerations
+- Docker has a shared kernel with host
+- Do not run containers as privileged if not needed
+- Review of Dockerfiles
+  - A user is added as which the application runs
+  - Credentials in the Dockerfile
+  - Exposing unnecessary ports
+- Patchmanagement
+- Limits
+- Secrets Management?
+- Tools
+  - Scanning of images/containers for components with known vulnerabilities
+  - Benchmark of a Dockerfile
+
+Work in Progress: https://docs.google.com/a/owasp.org/document/d/1_71svrCpC40S30kj9j0Hb3RnXaVsz8koD4EbZuSo5HQ/edit?usp=sharing
+A Slack Channel will be created for further communication.
 
 ## Who
 - Docker Security Experts

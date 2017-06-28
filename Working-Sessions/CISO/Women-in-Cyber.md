@@ -5,15 +5,16 @@ type         : workshop
 layout       : blocks/working-session
 track        : CISO
 technology   :
-related-to   : 
+related-to   :
 status       : done
 when-day     : Fri
 when-time    : AM-1
-location     : Room-2
+location     : Room-4
 room-layout  : unknown
 organizers   : Tiffany Long
 participants : Neil Barlow (remotely),Ade Yoseman Putra,Francois Raynaud,Lisa Raynaud,Petty Meisari, Mamta Vuppu
 room-layout  : square
+outcomes     : not-found
 ---
 
 
@@ -37,6 +38,35 @@ I believe that women and others from a broad range of backgrounds can help to re
 
 List of Suggested priorities, policies, programs, and activities for the OWASP Board and community to consider and impliment.
 
+### Synopsis and Outcomes 
+
+**Issues**
+- Massive underrepresentation of women and lack of diversity generally
+- Imposter syndrome
+- Feeling underqualified
+- Feeling inexperienced
+- Internalised oppression 
+
+**Policies**
+-	Panel invited speaker – at least one woman
+-	Codify blind readings for CFP
+-	Help Cultivate champions
+-	WASPies and other awards
+-	Ensure communications are inclusive
+-	Discount to company with women
+
+**Initiatives**
+- Bootcamps
+- Get women into management positions
+- Available training online or low cost.  Specific public speaking training, webinars of women in cyber, cyber training 
+- Communication/public speaking  challenging workplace bullying
+- Spelling out clear business benefits
+
+**FOCUS on 3 key areas for the year**
+1	Webinars up and running – metrics demonstrating 
+2
+3
+
 ## Who
 
 The target audience for this Working Session is:
@@ -51,8 +81,8 @@ The target audience for this Working Session is:
  - Philosophers
  - Organisational and learning specialists
  - Educators
- 
- --- 
+
+ ---
 
 ## Working materials
 

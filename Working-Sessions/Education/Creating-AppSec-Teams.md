@@ -39,7 +39,26 @@ This Working Session will focus on how to create an AppSec team, a  challenge wh
  
 ## Outcomes 
 
-- Road map for reaching new AppSec Professionals.
+Considerations for reaching new AppSec Professionals:
+
+- Consultants to help sell the need
+- Evidence based business case, but not constructive fear-mongering
+- Security function needs to provide value
+- Case study mentioned: change the culture of security - to become the most secure organisation - run exercises to identify potential security champions - trained in security and peer-2-peer working ("influencers") - colleagues want to become like this and the effect snowballs - approach originally developed by ETNA
+- Goal of security team is to close the gap between security and development
+- WAF?  operational or app sec?
+- Ultimate goal of security is to reduce risk
+- Required akills: coding, infosec, risk, social
+- Universities are teaching GCHQ type security course, not app sec
+- Hardest skill is development - appsec is not for graduates
+- Source appsec team from within development community
+- Secure code is an output of great developers
+- Security champion is a developer who can teach, role model, culture changer, and trained to do security, give them a career roadmap
+- Install "love" for security from young age (8-13) 
+- Kids see hacking as how to break things - we have to tell them it's about building things properly, but hacking is part of the journey - but it needs to be fun
+- Make fun within organisation by blue and teams wargaming
+
+"Education early and over a lifetime"
 
 ## Who
 

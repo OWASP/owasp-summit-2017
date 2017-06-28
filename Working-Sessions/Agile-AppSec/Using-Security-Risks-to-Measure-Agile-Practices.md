@@ -8,8 +8,8 @@ technology   :
 related-to   : JIRA Risk Workflow
 status       : done
 when-day     : Thu
-when-time    : PM-2
-location     : Room-2
+when-time    : DS-1
+location     : Main-Room
 room-layout  : unknown
 organizers   : Dinis Cruz
 participants : Ante Gulam, Irene Michlin, Mamta Vuppu, Duncan Hurwood
@@ -17,7 +17,7 @@ participants : Ante Gulam, Irene Michlin, Mamta Vuppu, Duncan Hurwood
 
 ## Why
 
-A key problem of Agile practices in large organisations is 'how to measure them?'.
+A key problem of Agile practices in large organisations is 'how to measure them?'
 
 If you have 10 squads/teams across multiple buildings/countries, how do you measure their 'level of agility'?
 

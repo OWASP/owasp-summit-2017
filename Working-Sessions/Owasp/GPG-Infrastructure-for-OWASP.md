@@ -6,12 +6,17 @@ track        : Owasp
 status       : done
 when-day     : Wed
 when-time    : AM-1
-location     : room-3
+location     : Villa-3
 room-layout  : unknown
 organizers   : Achim Hoffmann
 participants :
 invited      : Martin Knobloch, Tiffany Long, Andrew van der Stock, Simon Bennetts
 ---
+
+
+## Current document
+
+Please see [google docs](https://docs.google.com/document/d/1GXeCF1_EqNdZ0RZLz1iRzA5hC2Qz817NdRvwHwrQnMA/edit)
 
 ## Why
 

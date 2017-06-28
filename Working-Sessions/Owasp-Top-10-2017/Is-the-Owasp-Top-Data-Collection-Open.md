@@ -6,12 +6,13 @@ track        : Owasp Top 10 2017
 technology   :
 related-to   :
 status       : out
-when-day     : 
-when-time    : 
-location     : 
+when-day     :
+when-time    :
+location     :
 room-layout  : u-layout
 organizers   : Dave Wichers
 participants : Tiffany Long
+outcomes     : mapped
 ---
 
 ## Why
@@ -35,8 +36,8 @@ See [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/beh
  - Provide evidence on Openness
  - Review evidence provided
  - Reach a conclusion
- 
-## Outcomes 
+
+## Outcomes
 
 - Framework to apply to the current and future process for the Top 10
 - Framework suggestions for other simularly created documentation processes
@@ -58,7 +59,7 @@ The target audience for this Working Session is:
  - https://twitter.com/bilbragg/status/862979506767888384
  - https://twitter.com/wichers/status/863033639063474176
 
---- 
+---
 
 ## Working materials
 
@@ -67,4 +68,3 @@ Here are the current 'work in progress' materials for this session (please add a
 ### Content
 
 ... Add content ...
-

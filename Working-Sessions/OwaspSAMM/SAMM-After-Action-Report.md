@@ -6,11 +6,13 @@ owasp-project: no
 track        : OwaspSAMM
 status       : done
 when-day     : Fri
-when-time    : AM-1
+when-time    : PM-1
 location     : Room-4
+remote       : https://plus.google.com/hangouts/_/owasp.org/owaspsummit-sam
 room-layout  : unknown
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Timo Pagel, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
+outcomes     : not-found
 ---
 
 What to do after the summit
@@ -28,7 +30,7 @@ Ensure there is a common understanding of what was discussed, decisions made, pr
 
 ## Outcomes
 
-...add content...
+This Working Session will result in a report that will summarize the items that were discussed and list the future SAMM plans.
 
 ## Who
 

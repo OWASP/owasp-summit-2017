@@ -59,6 +59,7 @@ Planned topics for the hackathon:
 - Hands-on experience with cutting edge ITSec technologies (e.g., Kaitai Struct, Unicorn Engine)
 - Collect new ideas for security challenges (secure coding in X, GDPR)
 
+### See Synopsis and Takeaways below
 
 ## Who
 
@@ -68,6 +69,8 @@ The target audience for this Working Session is:
 - Security professionals
 - CTF participants (and those who would like to become one)
 - CISOs
+
+### Synopsis and Takeaways
 
 ## Screenshots
 
@@ -87,20 +90,16 @@ The target audience for this Working Session is:
 
 ![avatao statistics](https://raw.githubusercontent.com/avatao/blog.avatao.com/master/images/avatao_statistics.png)
 
-
-
 ## Remote Participants
 
-All the challenges will be available online so anyone can join us even remotely.
+All the challenges will be available online so people can participate remotely.
 
 --- 
 
-
 ## General Rules to Participate
 
-The hackathon will be organised on the [avatao](https://avatao.com) platform, which is a commercial product to teach people how to build secure products. In accordance with the general rules of the OWASP 2017 Summit, a dedicated learning path will be set up for all the on-site and remote conference participants *free of charge*. The organisers of the Hackathon will help the participants on-site, but the Hackathon will continue to be available after the conference. 
+The hackathon will be organised on the [avatao](https://avatao.com) platform, which is a commercial product to teach people how to build secure products. In accordance with the general rules of the OWASP Summit 2017, a dedicated learning path will be set up for all the on-site and remote conference participants *free of charge*. The organisers of the Hackathon will help the participants on-site, but the Hackathon will continue to be available after the conference. 
 
+## Outcome
 
-## Outcomes
-
-We are more than happy to announce that we open-sourced (with *Apache 2 License*) our [challenge-engine](https://github.com/avatao/challenge-engine). Huge thank goes to [Dinis Cruz](https://twitter.com/DinisCruz) for pushing us to do that. This is the very first public version that anyone can use to build and run avatao challenges locally. We are going to update the descriptions and scripts continuously so that anyone can easily share challenges with all the folks on the [avatao platform](https://avatao.com).
+We are more than happy to announce that our [challenge-engine](https://github.com/avatao/challenge-engine) is now open source under the very permissive *Apache 2 License*. Huge thank goes to [Dinis Cruz](https://twitter.com/DinisCruz) for pushing us to do that. This is the very first public version that anyone can use to build and run avatao challenges locally. We are going to update the descriptions and scripts continuously so that anyone can easily share challenges with all the folks on [avatao](https://avatao.com).

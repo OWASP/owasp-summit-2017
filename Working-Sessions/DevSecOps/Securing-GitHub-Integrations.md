@@ -3,12 +3,13 @@ layout       : blocks/working-session
 title        : Securing GitHub Integrations
 type         : workshop
 track        : DevSecOps
-status       : to be reviewed content
+status       : done
 when-day     : Wed
 when-time    : PM-2
-location     : Villa-4
+location     : Room-2
 organizers   : Danny Grander
-participants : Francois Raynaud;Dinis Cruz
+participants : Francois Raynaud, Dinis Cruz
+outcomes     : mapped
 ---
 ## Why
 
@@ -16,7 +17,7 @@ This Working Session will examine the need for secure GitHub integrations.
 
 As more and more services are integrated with GitHub, the public and private repos of different companies are being exposed to a much wider set of attackers and threats.
 
-Currently, the GitHub security model does not allow the granularity required to control access (for example read-access to only one repo), which means that choices tend to be limited to either:
+Currently, the GitHub security model does not allow the granularity required to control access (for example read-access to only one repo). This means that choices tend to be limited to either:
 
  a) provide no access and no use of the 3rd party service (which ironically might provide a security service)
 
@@ -27,10 +28,8 @@ Currently, the GitHub security model does not allow the granularity required to 
 While we are using github as the platform for OWASP projects source code, we need to talk about the security of the code in order to provide integrity checks and other security controls needed.
 
 ## Outcomes
-
-- OWASP Github security Policy
-- OWASP Github Security Cheatsheet
-- OWASP Github Security risks list
+- Map out the various risks of the current granularity access
+- Reach out to Github with a request for comment
 
 ## Who
 

@@ -5,12 +5,13 @@ type         : workshop
 track        : Owasp Top 10 2017
 technology   :
 related-to   :
-status       : replaced 
-when-day     : 
-when-time    : 
-location     : 
+status       : replaced
+when-day     :
+when-time    :
+location     :
 organizers   : Dave Wichers
 participants : Tiffany Long,Jonas vanalderweireldt
+outcomes     : mapped
 ---
 
 ## Why
@@ -32,8 +33,8 @@ Given the controversy surrounding the current Top 10 2017 RC1, it is very import
  - Create a 'Top 10 Selection Criteria'
  - Apply the selection criteria to the all versions of the OWASP Top 10 (and see how they rank)
  - Create framework for it to be used in the other Working Sessions in the OWASP Top 10 2017 Track
- 
-## Outcomes 
+
+## Outcomes
 
 - 'Top 10 Selection Criteria' published
 - Framework for Top 10 criteria to be used in other OWASP Top 10 2017 Working Sessions
@@ -48,7 +49,7 @@ The target audience for this Working Session is:
 
  - [Behind the The OWASP Top 10 2017 RC1](https://medium.com/@JoshCGrossman/behind-the-the-owasp-top-10-2017-rc1-df43236f79ff)
 
---- 
+---
 
 ## Working materials
 

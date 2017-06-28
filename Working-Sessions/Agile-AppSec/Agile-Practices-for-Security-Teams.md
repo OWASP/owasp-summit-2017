@@ -15,8 +15,8 @@ organizers   : Irene Michlin
 participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Duncan Hurwood,Stuart Gunter, Stephen de Vries, Don Gibson, Robert Morschel
 ---
 
-Until recently, cyber security was often considered as “nice to have” in software development lifecycle. However, due to several data breaches that hit the headlines, more and more dev teams are now starting to incorporate security practices in their processes.
-Considering how agile methodologies benefit the development lifecycle, security should be approached in a similar, or same, way.
+Until recently, cyber security was often considered as “nice to have” in the software development lifecycle. However, due to several data breaches that hit the headlines, more and more dev teams are now starting to incorporate security practices in their processes.
+Considering how agile methodologies benefit the development lifecycle, security should be approached in the same, or a similar, way.
 
 ## Why
 
@@ -32,7 +32,56 @@ Agile practices have been around for quite some time now and a lot of organisati
 
 ## Outcomes
 
-This Working Session will result in a draft document explaining how security can fit into an agile development process.
+A Draft List of Agile Security Practices
+
+### Synopsis and Takeaways
+
+The following categories highlight some of the key activities of an agile security team:
+
+Education
+- Define and deliver security training programmes
+
+Communication
+- Security team to be visible, present at standups, available
+- Connect dev to production
+- Empower security champions
+
+Standardisation and Compliance
+- Own strong guidelines, e.g. data classification, regulatory, compliance
+- Two tier security standards? mandatory, depend on risk/sensitivity etc
+- Library of standard stories
+
+Support
+- Technical support
+- Help create security user stories, personas, anti-personas, patterns
+- Culture of "security is not to say no, but to help"
+- Testing
+- Automation is needed for CI/CD e.g. tool to track 3rd party licenses
+- "Development enablement tribe"
+
+Governance/Control
+- Project initiation touch point to define "gates"
+- Prioritisation of involvement based on risk assessment, lifecycle stage
+- Define "done"
+- 3rd party maturity assessment 
+- Internal compliance checks
+- Centralised tracking in primary colours
+- Security team KPIs
+- Security organisation has to be separate from development
+- Monetary value on risks helps prioritisation
+- Risk acceptance/escalation process
+
+Engineering
+- Bring in shared security solutions such as WAF- engineering effort
+
+Practices
+- Perhaps agile not applicable, more lean/kanban
+- View security as functions, not people - resourcing can change but functions don't
+- Don't be a blocker to agile, e.g. in operational approvals
+- "Security team as a service"
+- Struggle to manage BAU and hence forecasting: separate functions
+- Need visibility of project portfolio
+- Separation of duty can be a constraint
 
 ## Who
 

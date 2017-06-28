@@ -6,8 +6,8 @@ owasp-project: yes
 track        : Owasp
 status       : need working materials 
 when-day     : Thu
-when-time    : PM-2
-location     : Room-3
+when-time    : Eve
+location     : 
 organizers   : Mateo Martinez
 participants : Oscar Perez (remotely), Ricardo Supo Picon (remotely), John Jairo (remotely), Fernando Vela (remotely), Pablo (remotely), Gaston Toth (remotely), John Vargas (remotely)
 ---

@@ -8,6 +8,7 @@ technology   :
 status       : draft
 organizers   : Tobias Gondrom
 participants : Yan Kravchenko
+outcomes     : not-found
 ---
 
 https://www.owasp.org/index.php/OWASP_CISO_Survey

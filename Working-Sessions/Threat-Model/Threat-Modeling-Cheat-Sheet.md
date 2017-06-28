@@ -11,7 +11,7 @@ when-time   : PM-3
 location    : Villa-4
 room-layout : unknown
 organizers  : Tony UV
-participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin,Robert Morschel,Stephen de Vries,Duncan Hurwood, Steven Wierckx, Aruna Katugampola
+participants: Dinis Cruz,Avi Douglen,Francois Raynaud,Irene Michlin,Robert Morschel,Stephen de Vries,Duncan Hurwood, Steven Wierckx, Aruna Katugampola, Christian Martorella
 ---
 
 
@@ -46,7 +46,7 @@ Because some teams may find the heavyweight approach too cumbersome and onerous,
  - Lightweight Threat Modeling Steps
  ** What should a lightweight process produce?
  ** What are the simplest steps we can follow to arrive at that deliverable?
- 
+
 ## Outcomes
 
 - Threat modelling cheat sheets published for heavy and lightweight approaches
@@ -59,8 +59,8 @@ The target audience for this Working Session is:
  - Web developers of varying language backgrounds (.NET, Java, PHP, .js, etc.)
  - DBAs/ DB Developers
  - Security professionals w/ application architecture, software development experience
- 
- --- 
+
+ ---
 
 ## Working materials
 
@@ -70,5 +70,4 @@ The target audience for this Working Session is:
 
 ### Content
 
-...add content
-
+[Cheat Sheet 1](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Threat-Model/cheat-sheet/part1.jpg)
