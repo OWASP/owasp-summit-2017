@@ -5,16 +5,16 @@ title	  : Cheatsheets
 
 ### Synopsis & Takeaways
  
-The last afternoon session on June 13th for Cheat Sheets decided that we need to deliver a number of FAQs and functional requirements to ensure better participation and clarity around the process.
+The Cheat Sheets session on 13 June 2017 decided that we need to deliver a number of FAQs and functional requirements to ensure better participation and clarity around the process.
 
-#### The proposed topics are:
+#### The proposed topics are
 
-  - How to create a new cheat sheet?
-  - How to modify?
-  - How to get consensus for publication?
-  - How to move from draft to final?
+  - How to create a new cheat sheet
+  - How to modify
+  - How to get consensus for publication
+  - How to move from draft to final
   - What is a valid cheat sheet topic?
-  - When to retire or remove one (currency test)?
+  - When to retire or remove a topic (currency test)?
 
 #### Functional requirements:
 

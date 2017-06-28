@@ -5,7 +5,7 @@ title   : AppSec SOC Monitoring Visualisation
 
 ## Outcomes
 
-This Working Session will publish a document containing the following:
+This Working Session will publish a document containing the following
 
 - List of best practices for capturing logs and feeding them into central locations
 - List of best practices for using tools like ELK or Splunk

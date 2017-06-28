@@ -5,7 +5,7 @@ title   : Recruiting AppSec Talent
 
 ### Outcomes  
 
-Suggested Outcomes:
+Suggested Outcomes
 
 - Sample career paths to guide incoming AppSec Professionals
 - Typical AppSec jobs and their duties and requirements 
@@ -16,10 +16,9 @@ Suggested Outcomes:
  
 ### Synopsis and Takeaways
 
-We discussed the gap between companies’ needs to recruit talented AppSec people, and attracting the best AppSec people to  
-work at their company.
+We discussed the gap between companies’ needs to recruit talented AppSec people, and attracting the best AppSec people to work at their company.
 The Joel Test is a quick indicator of Development culture: an irresponsible, sloppy test to rate the quality of a software team. 
-We have adapted the Joel Test to quickly indicate a company’s AppSec culture.
+We adapted the Joel Test to be a quick indicator of a company’s AppSec culture.
 The test’s purpose is to help companies attract the right talent and help talent to find the right company  
 
 First draft of the AppSec Joel Test (in no specific order): 

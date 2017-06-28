@@ -4,19 +4,19 @@ title    : Application Security Guide for CISO
 ---
 ### Outcomes
 
-#### The Application Security Guide for CISO 2013 Version Goals were:
+#### The Application Security Guide for CISO 2013 Version Goals were
 
 1. Make Application Security and OWASP more visible to Application Security managers and CISOs.
-2. Analyse the reasons for adopting an Application Security Program by an organisation (e.g. tactical and strategic).
+2. Analyse the reasons for adopting an Application Security Program by an organisation (e.g., tactical and strategic).
 3. Explain the difference between technical risks and business risks, including how to estimate costs of data breaches.
-4. Factor the impact of emerging technologies in Application Security Program (e.g. Mobile, Cloud, Web Services) and provide guidance.
+4. Factor the impact of emerging technologies in Application Security Program (e.g., Mobile, Cloud, Web Services) and provide guidance.
 5. Provide examples of metrics and measurements for Vulnerability Risk Management.
 
-#### For the Planned 2018 version, on which problems and solutions/guidance can we expand? (NOTE: these will be assessed with expanded CISO survey questions):
+#### For the Planned 2018 version, on which problems and solutions/guidance can we expand? (NOTE: these will be assessed with expanded CISO survey questions)
 
 1. Impact of GDPR on AppSec and recommendations (including outcomes of 2017 Summit CISO track)
-2. Emerging technology risks and risk mitigation guidance (e.g. APIs and Micro-services, Biometrics)
-3. Evolving threats facing web applications (e.g. 0-day exploits of AppSec vulnerabilities) and solutions (e.g. improved attack detection with new tools such as Outcome 1 (unranked) – What topics would you like covered in the new CISO guide? as RASP)
+2. Emerging technology risks and risk mitigation guidance (e.g., APIs and Micro-services, Biometrics)
+3. Evolving threats facing web applications, e.g., 0-day exploits of AppSec vulnerabilities; and solutions, e.g., improved attack detection with new tools such as Outcome 1 (unranked).  What topics would you like covered in the new CISO guide? (as RASP)
 4. Others (brainstorming)
 
 ### Synopsis and Takeaways
@@ -26,9 +26,9 @@ title    : Application Security Guide for CISO
 - Incorporate reference to outcomes of 2017 Summit CISO track
 - Expand to include new tools/technologies
 - Expand to include compliance with GDPR
-- Expand on new emerging technology risks and provide risk mitigation guidance (e.g. APIs, proliferation, and micro-services/interoperability, biometrics, cloud (internal and external), strategies for managing risk in cloud environments)
+- Expand on new emerging technology risks and provide risk mitigation guidance (e.g., APIs, proliferation, and micro-services/interoperability, biometrics, cloud (internal and external), strategies for managing risk in cloud environments)
 - Expand on Risk Management Strategies for vendors, provisioning, supply-chain risks
-- Expand on new evolving threats facing web applications (e.g. 0-day exploits)
+- Expand on new evolving threats facing web applications (e.g., 0-day exploits)
 - Add reference to handbooks and playbooks for CISO’s managed process
 - Where to provide guidance or where to focus. For example, if there are 5,000 applications in different countries, where to allocate security resources in such a situation
 - How to get visibility across the organisation.  As CISO you need to know what changes are being made, and where.

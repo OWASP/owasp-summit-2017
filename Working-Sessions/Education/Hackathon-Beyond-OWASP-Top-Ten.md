@@ -102,4 +102,4 @@ The hackathon will be organised on the [avatao](https://avatao.com) platform, wh
 
 ## Outcome
 
- -A very successful hackathon about software security; we also collected ideas for new challenges.
+We are more than happy to announce that our [challenge-engine](https://github.com/avatao/challenge-engine) is now open source under the very permissive *Apache 2 License*. Huge thank goes to [Dinis Cruz](https://twitter.com/DinisCruz) for pushing us to do that. This is the very first public version that anyone can use to build and run avatao challenges locally. We are going to update the descriptions and scripts continuously so that anyone can easily share challenges with all the folks on [avatao](https://avatao.com).

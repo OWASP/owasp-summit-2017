@@ -1,6 +1,7 @@
 ---
 layout : blocks/outcome
 title  : eLearning Path
+working-session : Teaching Attacker Perspective to Developers
 ---
 
 ### Outcomes
@@ -18,9 +19,9 @@ web application security based on existing free resources:
    - Security Shepherd
    - WebGoat
    
-3. Read details on vulnerabilities and countermeasures e.g. for XSS
-   -  first https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
-   -  followed by
+3. Read details on vulnerabilities and countermeasures e.g., for XSS
+   -  First https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+   -  Followed by
       https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
       
 4. Use vuln-by-vuln training application

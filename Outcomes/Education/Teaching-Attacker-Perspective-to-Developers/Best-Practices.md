@@ -29,7 +29,7 @@ physical safe or picking a lock.
 
 #### Learn the whole lifecycle
 
-learn the whole lifecycle: Sandbox examples, discover the vulnerability, use the exploit to gain
+learn the whole lifecycle: sandbox examples, discover the vulnerability, use the exploit to gain
 access and then issue a fix.
 
 #### Red Team + Blue Team = Purple Team
@@ -45,7 +45,7 @@ students have sufficient background information for their own trial attacks.
 ## Internal security meetUp
 
 Use a format similar to after-work [Meetup](https://meetup.com) where a
-mentor (e.g. Security Champion) goes through one topic per session. A
+mentor (e.g., Security Champion) goes through one topic per session. A
 monthly schedule should be maintained to keep up the community aspect of
 this format.
 

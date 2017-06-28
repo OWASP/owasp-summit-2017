@@ -10,7 +10,7 @@ This Working Session will create industry-wide security guidelines.
 ### Synopsis and Takeaways
 
 #### Specific and targeted
-- Address noise within an IDE – specific and targeted live analysis of code to highlight specific areas requiring attention rather than flooding developers with a long list of errors they will be unable to address; filtering option may be useful to streamline the process of identifying security errors.
+- Address noise within an IDE – specific and targeted live analysis of code to highlight specific areas requiring attention rather than flooding developers with a long list of errors they will be unable to address; a filtering option may be useful to streamline the process of identifying security errors.
 
 #### Accuracy 
 - Feedback on vulnerabilities needs to be accurate particularly if it is a general security issue. However, there may be exceptions to these rules.

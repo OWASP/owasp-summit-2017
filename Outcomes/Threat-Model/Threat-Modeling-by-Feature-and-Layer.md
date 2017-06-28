@@ -18,7 +18,7 @@ title   : Threat Modeling by Feature and Layer
  - Mitigation: TLS with mutual authentication
     
 - (S) Fake JuiceShop - someone else (possibly including the address lookup service itself) sending requests on behalf of the JuiceShop
-- (R) Malicious data in these requests - can JuiceShop be liable if addressing service incures damage
+- (R) Malicious data in these requests - can JuiceShop be liable if addressing service incures damage?
     
 - (D) If service is rate-limited, the threat above will lead to DoS.
 
@@ -39,6 +39,7 @@ title   : Threat Modeling by Feature and Layer
 - (I) If JuiceShop authenticates with keys, how secure is key storage?
 
 #### Assumptions 
+
 
 - Address resolution service is paid (or at least rate-limited, with Juice shop having a specific quota)
 - The API sends (name, address), gets back either:
@@ -126,7 +127,7 @@ title   : Threat Modeling by Feature and Layer
 ### Key Takeaways
 
 - Went through the user story handling the address lookup delivery service
-- Threats were identified for the service that threat model templates need to be created for: TLS, e-mail etc.
+- Threats were identified for the service that threat model templates need to be created for: TLS, e-mail, etc.
 - The discussion did not resolve the level of threat we should be looking at
 
 ![Whiteboard picture](https://raw.githubusercontent.com/OWASP/owasp-summit-2017/master/Working-Sessions/Threat-Model/whiteboard-photos/By-Feature-and-Layer.jpg)

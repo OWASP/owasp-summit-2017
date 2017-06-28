@@ -3,9 +3,9 @@ layout  : blocks/outcome
 title	  : Docker Security
 ---
 
-### Outcomes
+### Outcome
 
-The outcome of this Working Session will be a document which summarizes the most common security concerns when using Docker, and gives practical advice on suitable safeguards.
+A document which summarizes the most common security concerns when using Docker, and gives practical advice on suitable safeguards.
 
 ### Synopsis and Takeaways
 
@@ -26,7 +26,9 @@ General Security recommendations should be addressed and links should be shared.
   - Scanning of images/containers for components with known vulnerabilities
   - Benchmark of a Dockerfile
 
-Work in Progress: https://docs.google.com/a/owasp.org/document/d/1_71svrCpC40S30kj9j0Hb3RnXaVsz8koD4EbZuSo5HQ/edit?usp=sharing
+#### Work in Progress
+
+https://docs.google.com/a/owasp.org/document/d/1_71svrCpC40S30kj9j0Hb3RnXaVsz8koD4EbZuSo5HQ/edit?usp=sharing
 A Slack Channel will be created for further communication.
 
 ### References
