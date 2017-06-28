@@ -7,8 +7,10 @@ title   : Threat Modeling OWASP Pages
 
 - Revised content on OWASP threat modelling pages
 - Subpages on threat modelling methodologies with details and artefacts created
+ 
+---
 
-### Synopsis and Takeaways 
+### Synopsis and Takeaways
 
 #### What is a Threat Model?
 
@@ -32,7 +34,7 @@ title   : Threat Modeling OWASP Pages
 
 #### Synopsis and Takeaways
 
-This session was very productive. The group discussed how to improve the OWASP Threat Modelling pages. Specifically, defining the what, why, who, when and how of Threat Modelling for development and security Roles. The session was split into 3 groups (Software, Risk, security Centric approaches).
+This session was very productive. The group discussed how to improve the OWASP Threat Modelling pages; specifically defining the what, why, who, when and how of Threat Modelling for development and security Roles. The session was split into 3 groups (Software, Risk, security Centric approaches).
 
 ##### What/Why
 
@@ -64,7 +66,7 @@ The Group output is shown below:
 
 The security-centric approach tries to identify every possible threat to the system under investigation. This approach is used mainly by a niche group within threat modeling where any threat or vulnerability will have a huge impact and thus is a large risk. Since we can not prioritize threats on risk we must identify and cover all of them.
 
-Industries which use the security-centric approach include military, critical infrastructure, healthcare, utility sector, space exploration, etc.
+Examples of industries where the security centric approach is used:  military, critical infrastructure, healthcare, utility sector, space exploration, and so on.
 
 Most of these industries have very strict regulatory safety requirements to meet. Even though these organisations need to protect privacy and comply to regulations like GDPR these are not the main focus. In healthcare for example patient safety is more important then patient confidentiality.
 
@@ -72,13 +74,13 @@ This is shooting at a moving target, even for a fixed technology new threats are
 
 #### 1. Scope & Objective
 
-In most approaches overscoping is a problem that needs to be addressed. In a security-centric approach overscoping is preffered and underscoping needs to be avoided at all costs. 
+In most approaches overscoping is a problem that needs to be addressed. In a security centric approach overscoping is preferred.  Underscoping needs to be avoided at all costs. 
 
-The objective of a security-centric threat model is to document, analyse and mitigate every possible threat agaist the system.
+The objective of a security centric threat model is to document, analyse, and mitigate every possible threat against the system.
 
 #### 2. System Overview
 
-The system overview is bound to be very large, most systems will have an overview that is split into several encapsulated parts. Each of these parts will be described in deeper levels. This usually happens in an iterative manner.
+The system overview is bound to be very large, most systems will have an overview that is split into several encapsulated parts. Each of these parts will be described in deeper levels. This usually happens iteratively.
 
 #### 3. Decompose System
 
@@ -94,9 +96,9 @@ The main difference between the security-centric approach is that every threat n
 ### Options
 
   - Attacker analysis (who, how many, how good, how motivated, etc.)
-  - Attack Tree (how to achieve a goal - e.g., spoof a user)
-  - Usage of a threat library (e.g., STRIDE)
-  - Given that we can also start from security controls: ASF (Application Security Frame) - Microsoft Application
+  - Attack Tree (how to achieve a goal - e.g. spoof a user)
+  - Usage of a threat library (e.g. STRIDE, ...)
+  - ? Given we can also start from security controls: ASF (Application Security Frame) - Microsoft Application
   
 ### Consumers 
 
@@ -140,6 +142,7 @@ Further information for intermediate users.
 Contribution from advanced users.
 
 ### Risk Centric Approach (Process for Attack Simulation Threat Analysis - PASTA)
+
 1. Define Your Business Objectives for the Application
 1.1 - Business Impact of Application to Business (e.g. - make )
 1.2 - Identify Impact of Application Use Cases (more specific business impact)
