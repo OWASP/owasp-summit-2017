@@ -44,7 +44,7 @@ The aims are to provide templates for
 -	Authentication bypass
 -	DOS 
 -	Client server
-7.	 Internet of things – Interaction with multiple templates so a suitable model can be chosen. Specific technologies that were proposed to research further:
+7.	 Internet of things – Interaction with multiple templates so a suitable model can be chosen. Specific technologies that were proposed to research further
 -	BLE 
 -	GAAT
 -	HTTP

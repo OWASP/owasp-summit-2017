@@ -12,7 +12,7 @@ title   : Hands on Threat Modeling Juice Shop (New features)
 
 This session discussed the current and in-development features of Juice Shop. The focus was on an in-development feature, called Two-Factor-Authentication. Using TOTP technology (one-time password) in the authentication process was also discussed, and a diagram was created. An additional sequence diagram was created on how data interacts with a user in Two-Factor-Authentication.  (see photogaphs below)
 
-Other features such as invoice tracking, delivery and email services were also discussed. Potential publishing a cheat sheet of do's and don’ts when using Data flow modelling.
+Other features such as invoice tracking, delivery and email services were also discussed. Potential publishing a cheat sheet of dos and don’ts when using Data flow modelling.
 
 #### Key Takeaways
 

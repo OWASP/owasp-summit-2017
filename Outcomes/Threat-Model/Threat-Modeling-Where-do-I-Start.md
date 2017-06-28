@@ -10,9 +10,9 @@ With regard to threat modelling, the single most common question developers ask 
 
 ## Why
 
-In order to run, you need to learn to walk. 
+In order to run, you first need to learn to walk. 
 
-For an organisation or group to understand and use threat modelling, they should know where to start. This Working Session will create guidelines for the effective use of threat modelling.
+For an organisation or group to understand and use threat modelling, they need to know where to start. This Working Session will create guidelines for the effective use of threat modelling.
 
 ## What
 
@@ -25,24 +25,6 @@ For an organisation or group to understand and use threat modelling, they should
 ## Outcomes
 
 - Guidelines for the effective use of threat modelling
-
-## Who
-
-The target audience for this Working Session is:
-
-- Developers
-- Architects
-- Security SMEs
-- SCRUM masters
-- Security champions
-
---- 
-
-## Working materials
-
-- Draft guidelines for the effective use of threat modelling
-
-(please add as much information as possible before the sessions)
 
 ### Content
 How to get started

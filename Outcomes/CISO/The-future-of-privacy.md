@@ -16,23 +16,23 @@ Wilhelm von Humboldt, 1791: "There is no freedom without security"
 
 #### General
 
-A.1 It's not a legal question! Privacy as matter for individuals, not courts!
+A.1 It's not a legal question! Privacy as matter for individuals, not courts.
 
-A.2 It's not question of compliance (of companies, organizations, etc)!
+A.2 It's not question of compliance (of companies, organizations, etc.)
 
 A.3 It's not a question of identifiability: we assume here that you ARE identifiable!
 
 A.4 Review resources: are there resources for privacy which
 
-	- list types of privacy items
+	- List types of privacy items
 
-	- deliver categorys of privacy
+	- Deliver categorys of privacy
 
 #### Risks
 
 B.1 Types of privacy / personal data (brain storming)
 
-   including criticality (high | medium |low | none)
+   Including criticality (high | medium |low | none)
 
 	- Name
 	- Gender
@@ -47,11 +47,11 @@ B.1 Types of privacy / personal data (brain storming)
 	- Salary
 	- Property
 	- Passport data
-	- Biometric data, e.g. Thumbprint
+	- Biometric data, e.g., thumbprint
 	- Social security number / health insurance ID
 	- IP-Address
 	- Cookies
-	- Credit-Card numbers
+	- Credit card numbers
 	- Bank account numbers
 	- Health data
 	- DNA-profile
@@ -59,7 +59,7 @@ B.1 Types of privacy / personal data (brain storming)
         - Location data / movement profiles
 	- Consumer data
 	- Digital signatures
-	- Digitally stored manual signatures (e.g. signature pads)
+	- Digitally stored manual signatures (e.g., signature pads)
 	- Criminal records
 	- Political, religious or philosophical beliefs
 
@@ -75,7 +75,7 @@ Sub categories:
 	- Socially relevant data
 	- Financial data
 
---- C. CONTROLS & MEASURES (WEB-APPS) ---
+#### Controls and Measures (Web Apps) 
 
 C.1 Browser technology: what should be improved (not: what is technical possible and not what vendors like to do)
 
@@ -83,18 +83,18 @@ C.2 Rules for apps: privacy by design
 
 C.3 Automated information to individuals, not on request (e.g. once a year etc)
 
---- D. FUTURE TRENDS ---
+#### Trends
 
 D.1 Are there technical solutions conceivable, which help individuals to collect
 
-   - Who has which type of personal data stored
+   - Who has which type of personal data stored?
    - Where is it stored?
 
    This concerns "white hats", that is, companies, organizations, and governments who have stored data.
 
    The "black hats" (criminal individuals or gangs) are not in focus here.
 
-### References:
+### References
 
 (1) OWASP Summit 2011 Working Session "Privacy" ( https://www.owasp.org/index.php/Talk:Summit_2011_Working_Sessions/Session073 )
 

@@ -5,26 +5,26 @@ title  : Internal Security Meetup
 
 #### Planning
 
-- threat
-- vulnerability
-- attack vectors
-- offending vs. safe code
-- countermeasure (fixing)
-- deployment
+- Threat
+- Vulnerability
+- Attack vectors
+- Offending vs. safe code
+- Countermeasure (fixing)
+- Deployment
 
 #### Target Audience
 
-- developers
-- testers
-- devops team
-- managers (sometimes)
+- Developers
+- Testers
+- Devops team
+- Managers (sometimes)
 
 #### Approach
 
 - Theory by instructor or web-based training.
 - Hackathons for practical skills.
 
-You can also go by topics, where you switch theory/practice for each
+You can also go by topic, where you switch theory/practice for each
 topic.
 
 TDD can be good for that. Write the code from security tests.

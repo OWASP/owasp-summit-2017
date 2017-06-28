@@ -13,7 +13,7 @@ Decisions on purchasing security products with cyber insurance should not be bas
 
 Reliance on warranties requires the same scrutiny as buying cyber insurance; however, warranties could be a marketing ploy. It is normally not worth investigating a warranty for a product when the cost of the investigation is weighed against the cost of the initial cover. Usually, negotiating warranty contracts can achieve more favourable terms. Collecting information on companies that have submitted claims, and the results of the claims, would be useful.
 
-### Warranties should include:
+#### Warranties should include:
 
 - Data to back up marketing claims
 - Independently validated data
@@ -25,7 +25,7 @@ Warranties should not be conditional on incident responses or other internal pro
 
 You cannot make decisions purely on warranty claims.
 
-### Takeaways
+#### Takeaways
 
 - Provide marketing data to support claims
 - Collecting information about companies that submitted claims and the results of that process would prove useful.
@@ -33,7 +33,7 @@ You cannot make decisions purely on warranty claims.
   - Uptime
   - Direct performance indicators
 
-### References
+#### References
 
  - [Infosec Warranties and Guarantees](http://blog.jeremiahgrossman.com/2017/02/infosec-warranties-and-guarantees.html) - list of companies
  - [An Insiders Guide To Cyber Insurance And Security Guarantees](https://www.blackhat.com/docs/us-16/materials/us-16-Grossman-An-Insiders-Guide-To-Cyber-Insurance-And-Security-Guarantees.pdf) - presentation
@@ -43,10 +43,6 @@ You cannot make decisions purely on warranty claims.
  - [Market for Lemons](https://en.wikipedia.org/wiki/The_Market_for_Lemons)
 
 ---
-
-### Working materials
-Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
-- draft document explaining why and how InfoSec should offer guarantees and warranties
 
 ### Content
 
