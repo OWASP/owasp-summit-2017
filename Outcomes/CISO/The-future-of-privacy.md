@@ -3,10 +3,47 @@ layout   : blocks/outcome
 title    : The Future of Privacy
 ---
 
-### Outcomes
+### Outcomes / Statements
+1. Data minimazation is a best practice, but
+      > its difficult to control
+      > it's difficult to enforce, because there is no general exact
+        definition, what "minimization" means
+      > it can be  bypassed using a broad formulated user consent
+      > we may loose this fight ...
 
-- OWASP Privacy statements
-- Concept of a campaign and compliance of OWASP community and foundation, road map
+2. Instead of enforce data minimazation we could invent a
+    misuse-based model:
+      > collecting and selling personal data is a successful business
+        model - therefore data minimazation is hard to enforce
+      > so: collecting data is NOT a misuse
+      > using data without a specific user-consent IS a misuse
+      > Correlation and / or merging of different data sources IS
+        a misuse
+      > future challenge:  misuse cases of specific data may change
+        in future
+
+3. data anonymization is a best practice, but
+      > big data analysis of combined data-sets may enable a
+        re-personalization of previously anonymized data
+      > in case of a secure, effective (randomized) data anonymization
+        there should be no restrictions for data collection
+
+4. Enforcing a consent-by-usage / consent-by-purpose model may be a part
+   of a solution
+      > so: organizations are allowed to store the data, but they
+        HAVE TO aks for a usage consent for any type of content at any
+        time they want to use those data for a new purpose
+      > this consent has to have an defined expiration date
+
+5. All data have to contain an individual time-of-expiration, were they
+  have to be deleted automatically (auto-destroy mechanism)
+  (except regulatory requirements force a later date of deletion)
+
+6. How can we achieve that respecting privacy issues is seen as a business
+  advantage and not a penalty? Which respect-privacy-incentives
+  are possible?
+
+7. People are adviced to use fake-identities where ever possible!
 
 ### Synopsis and Takeaways
 
