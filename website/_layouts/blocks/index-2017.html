@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>{% include page/header.html                   %}</head>
+  <body>
+    {% include page/menu.html                     %}
+    {% include blocks/post-summit.html          %}
+    {% include blocks/summit-intro.html           %}
+    <div class="featured-ws">
+      <div class="container">
+        {% include blocks/tracks.html         %}
+        {% include blocks/topics.html         %}
+      </div>
+    </div>{% include page/footer.html                   %}
+    {% include page/google-analytics.html         %}
+  </body>
+</html>

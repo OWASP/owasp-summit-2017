@@ -1,0 +1,14 @@
+doctype html
+html
+    head
+        | {% include page/header.html                   %}
+    body
+        | {% include page/menu.html                     %}
+        | {% include blocks/post-summit.html          %}
+        | {% include blocks/summit-intro.html           %}
+        .featured-ws
+            .container
+                | {% include blocks/tracks.html         %}
+                | {% include blocks/topics.html         %}
+        | {% include page/footer.html                   %}
+        | {% include page/google-analytics.html         %}

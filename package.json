@@ -7,7 +7,8 @@
     "build-data": "coffee ./src/server/build-data.coffee",
     "test": "node ./node_modules/mocha/bin/mocha --compilers coffee:coffee-script/register --recursive -R list src/server/test",
     "test-watch": "npm test -- --watch",
-    "start": "coffee src/server/main.coffee"
+    "start": "coffee src/server/main.coffee",
+    "jekyll": "docker run -it --rm -v ${PWD}:/owasp-summit -p 9001:309000:9000 ruby-jekyll-node bash -c \"cd owasp-summit;./node_modules/.bin/gulp \""
 
   },
   "author": "",
