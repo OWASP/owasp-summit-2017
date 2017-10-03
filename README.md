@@ -4,7 +4,7 @@ Welcome to the home page of the Owasp Summit 2018
 
 Registration is open [On RegOnline](TBD) 
 
-* [Slack channel](https://owasp.slack.com/archives/owasp-summit)
+* [Slack channel](https://owasp.slack.com/archives/owasp-summit-2018)
 
 **Owasp Summit 2018, England, 23-27 April 2018**
 OWASP is organizing our next Summit in 2018 focused on the collaboration between Developers and Application Security.
