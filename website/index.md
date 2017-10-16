@@ -1,4 +1,4 @@
 ---
 layout: blocks/index
-title : Owasp Summit 2017
+title : Owasp Summit 2018
 ---
