@@ -7,6 +7,14 @@ install: gem install jekyll html-proofer
 before_script:
   - npm install -g gulp-cli
 script: gulp travis
+deploy:
+  - provider: script
+    skip_cleanup: true
+    script: >-
+      echo $DEPLOY_KEY >> id_key
+      scp -i id_key -r _site ${DEPLOY_USER}@${DEPLOY_HOST}:
+    on:
+      branch: letsencrypt
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
