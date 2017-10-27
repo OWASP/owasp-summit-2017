@@ -4,6 +4,8 @@ rvm:
 before_install:
   - npm install
 install: gem install jekyll html-proofer
+before_script:
+  - npm install -g gulp-cli
 script: gulp travis
 env:
   global:
