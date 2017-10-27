@@ -13,6 +13,7 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_rsa
 - ssh-add /tmp/deploy_rsa
+- echo "45.55.84.129 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJtqX6mRFniqfkMD78pMaS6SLisfDOZMphWY8wnmjGUQAxT+mGiie5f6krryyOvrtzWoEj3+9kH3papAvrL/790=" >> ~/.ssh/known_hosts
 deploy:
 - provider: script
   skip_cleanup: true
