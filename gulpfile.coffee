@@ -8,7 +8,6 @@ less        = require 'gulp-less'
 notify      = require 'gulp-notify'
 shell       = require 'gulp-shell'
 
-
 gulp.task 'build', [], shell.task(['jekyll build --incremental'])
 
 gulp.task 'build-all', [], shell.task(['jekyll build'])
@@ -51,6 +50,8 @@ gulp.task 'styles', ->
         .pipe(gulp.dest('website/assets/css'))
         #.pipe browserSync.reload(stream: true)          # this is not working
 
+
+gulp.task 'travis'     , ['styles', 'pug', 'build-data', 'build'];
 
 gulp.task 'default'    , ['styles', 'pug', 'build-data', 'build'],->
     browserSync.init
