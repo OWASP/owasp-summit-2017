@@ -24,9 +24,9 @@
   },
   "dependencies": {
     "auto-sni": "^2.3.2",
-    "express": "^4.15.3",
+    "express": "^4.16.0",
     "fluentnode": "^0.6.5",
     "js-yaml": "^3.8.4",
-    "mocha": "^3.4.2"
+    "mocha": "^4.0.0"
   }
 }
