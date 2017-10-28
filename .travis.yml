@@ -1,4 +1,5 @@
 language: ruby
+sudo: false
 rvm:
 - 2.3
 before_install:
@@ -7,17 +8,17 @@ install: gem install jekyll html-proofer
 before_script:
 - npm install -g gulp-cli
 script: gulp travis
+addons:
+  ssh_known_hosts: $DEPLOY_HOST
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_8fdb4c1b2e15_key -iv $encrypted_8fdb4c1b2e15_iv
   -in deploy_rsa.enc -out /tmp/deploy_rsa -d
 - rm -f deploy_rsa.enc
-- echo $DEPLOY_KEY >> /tmp/deploy_ecdsa
+- echo "$DEPLOY_KEY" > /tmp/deploy_ecdsa
 - chmod 600 /tmp/deploy_ecdsa
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_rsa
 - ssh-add /tmp/deploy_ecdsa
-- echo "45.55.84.129 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJtqX6mRFniqfkMD78pMaS6SLisfDOZMphWY8wnmjGUQAxT+mGiie5f6krryyOvrtzWoEj3+9kH3papAvrL/790="
-  >> ~/.ssh/known_hosts
 deploy:
 - provider: script
   skip_cleanup: true
