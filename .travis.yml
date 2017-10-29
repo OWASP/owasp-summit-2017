@@ -18,6 +18,7 @@ before_deploy:
 - rm -f deploy_rsa.enc
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_rsa
+- echo "owaspsummit-test.org ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJtqX6mRFniqfkMD78pMaS6SLisfDOZMphWY8wnmjGUQAxT+mGiie5f6krryyOvrtzWoEj3+9kH3papAvrL/790=" >> ~/.ssh/known_hosts
 - ssh-add /tmp/deploy_rsa
 deploy:
 - provider: script
