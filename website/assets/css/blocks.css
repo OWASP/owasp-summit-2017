@@ -1146,6 +1146,69 @@
   font-size: 100%;
 }
 
+.participants-content {
+  background: #eaeaea;
+}
+.participants-content img {
+  border-radius: 0.5em;
+  border-color: #f2f2f2;
+}
+.participants-content table th {
+  font-family: 'Oswald';
+  color: #333333;
+  padding: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.participants-content table tr {
+  font-size: 14px;
+}
+
+.participants-table {
+  background: #eaeaea;
+  padding: 10px;
+}
+.participants-table h1 a {
+  padding: 20px;
+}
+.participants-table table {
+  font-size: 10px;
+}
+.participants-table table tr td {
+  border-right: 1px dotted #A0A0A0;
+  padding: 2px;
+}
+.participants-table table tr td img {
+  width: 15px;
+}
+.participants-table table tr td a {
+  padding-left: 3px;
+  font-size: 100%;
+}
+.participants-table table tr td .label {
+  padding: 2.5px;
+}
+.participants-table table tr td .no-technology {
+  color: red;
+}
+.participants-table table tr td li {
+  list-style: none;
+}
+.participants-table table th {
+  font-family: 'Oswald';
+  color: #333333;
+  padding: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.participants-table table .large-column {
+  min-width: 120px;
+}
+.participants-table textarea {
+  width: 100%;
+  height: 50px;
+}
+
 
 
 
@@ -1291,67 +1354,4 @@ body .page-content {
 .blocks-menu button a {
   color: white;
   text-transform: uppercase;
-}
-
-.participants-content {
-  background: #eaeaea;
-}
-.participants-content img {
-  border-radius: 0.5em;
-  border-color: #f2f2f2;
-}
-.participants-content table th {
-  font-family: 'Oswald';
-  color: #333333;
-  padding: 20px;
-  text-transform: uppercase;
-  text-align: center;
-}
-.participants-content table tr {
-  font-size: 14px;
-}
-
-.participants-table {
-  background: #eaeaea;
-  padding: 10px;
-}
-.participants-table h1 a {
-  padding: 20px;
-}
-.participants-table table {
-  font-size: 10px;
-}
-.participants-table table tr td {
-  border-right: 1px dotted #A0A0A0;
-  padding: 2px;
-}
-.participants-table table tr td img {
-  width: 15px;
-}
-.participants-table table tr td a {
-  padding-left: 3px;
-  font-size: 100%;
-}
-.participants-table table tr td .label {
-  padding: 2.5px;
-}
-.participants-table table tr td .no-technology {
-  color: red;
-}
-.participants-table table tr td li {
-  list-style: none;
-}
-.participants-table table th {
-  font-family: 'Oswald';
-  color: #333333;
-  padding: 20px;
-  text-transform: uppercase;
-  text-align: center;
-}
-.participants-table table .large-column {
-  min-width: 120px;
-}
-.participants-table textarea {
-  width: 100%;
-  height: 50px;
 }
