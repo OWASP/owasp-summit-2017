@@ -2,11 +2,11 @@
 
 Welcome to the home page of the Owasp Summit 2018
 
-Registration is open [On RegOnline](TBD) 
+Registration is open [On EventBrite](https://eventbrite.be/tickets-external?eid=39825671656&ref=etckt) 
 
 * [Slack channel](https://owasp.slack.com/archives/owasp-summit-2018)
 
-**Owasp Summit 2018, England, 23-27 April 2018**
+**Owasp Summit 2018, England, 4-8 June 2018**
 OWASP is organizing our next Summit in 2018 focused on the collaboration between Developers and Application Security.
 
 This is not a conference with uni-directional presentations, this is a working summit with working sessions on areas like:
@@ -27,6 +27,6 @@ Using the same model as the past  OWASP Summits in Portugal and the UK, this 5 d
 
 If you care about Application Security and want to collaborate with the key players in this industry, this is the event to be.
 
-The Summit will occur in England, 23-27 April 2018, with an entry ticket of 1400 EUR + VAT (covering stay + accommodation + event fee). OWASP has somefunding for its leaders and other deserving individuals to attend, so if you feel you can't afford this fee, or your company is not in a position to sponsor you, please contact the event organisers.
+The Summit will occur in England, 4-8 June 2018, with an entry ticket of 1400 EUR + VAT (covering stay + accommodation + event fee). OWASP has somefunding for its leaders and other deserving individuals to attend, so if you feel you can't afford this fee, or your company is not in a position to sponsor you, please contact the event organisers.
 
 If you want to be involved, add you name to the [Participants](Participants) page
