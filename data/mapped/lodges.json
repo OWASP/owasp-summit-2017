@@ -1,0 +1,472 @@
+{
+  "ids": [
+    "OK413"
+  ],
+  "lodges": {
+    "OK321": {
+      "id": "OK321",
+      "names": [
+        "Achim Hoffmann",
+        "Adam Shostack",
+        "Adrian Winckles",
+        "Akshay Sharma",
+        "Alexander Antukh",
+        "Amani Altarawneh"
+      ]
+    },
+    "OK320": {
+      "id": "OK320",
+      "names": [
+        "Andrew Moore",
+        "Avi Douglen",
+        "Azzeddine Ramrami",
+        "Bart De Win",
+        "Bernhard Mueller",
+        "Bjoern Kimminich"
+      ]
+    },
+    "OK319": {
+      "id": "OK319",
+      "names": [
+        "Bolot Kerimbaev",
+        "Bosko Stankovic",
+        "Brian Glas",
+        "Brian Lawrence",
+        "Bruce Jenkins",
+        "Carlos Esteves"
+      ]
+    },
+    "OK316": {
+      "id": "OK316",
+      "names": [
+        "Carlos Holguera",
+        "Carlos Perez Holguera",
+        "Chris Cooper",
+        "Clare Creeden",
+        "Colin Domoney",
+        "Daniela Cruzes"
+      ]
+    },
+    "OK315": {
+      "id": "OK315",
+      "names": [
+        "Dave Wichers",
+        "Denis Pilipchuk",
+        "Devesh Bhatt",
+        "Dicky Stafford",
+        "Dilek Koluman",
+        "Dinis Cruz"
+      ]
+    },
+    "OK314": {
+      "id": "OK314",
+      "names": [
+        "Enrico Verzegnassi",
+        "Erez Yalon",
+        "Fabien Thalgott",
+        "Felipe Zipitria",
+        "Francois Raynaud",
+        "Hamza Alkofahi"
+      ]
+    },
+    "OK313": {
+      "id": "OK313",
+      "names": [
+        "Hardik Parekh",
+        "Helen Bravo",
+        "Janne Sarendal",
+        "Jason Li",
+        "Jemma Buttle",
+        "Jemma Davis"
+      ]
+    },
+    "OK312": {
+      "id": "OK312",
+      "names": [
+        "Jeroen Willemsen",
+        "Johan Peeters",
+        "Jonas Vanalderweireldt",
+        "Josh Armour",
+        "Leon Juranic",
+        "Lisa Raynaud"
+      ]
+    },
+    "OK310": {
+      "id": "OK310",
+      "names": [
+        "Marc Rimbau",
+        "Martin Knobloch",
+        "Mateo Martinez",
+        "Matteo Meucci",
+        "Michael Karl",
+        "Mike Milner"
+      ]
+    },
+    "OK309": {
+      "id": "OK309",
+      "names": [
+        "Nanne Baars",
+        "Naushad",
+        "Neil Barlow",
+        "Nessim Kisserli",
+        "Nikita Garia",
+        "Nuno Loureiro"
+      ]
+    },
+    "OK428": {
+      "id": "OK428",
+      "names": [
+        "Ohad Rabinovich",
+        "Peleus Uhley",
+        "Phil Parker",
+        "PhotoBox 5",
+        "PhotoBox 6",
+        "Robert Grace"
+      ]
+    },
+    "OK427": {
+      "id": "OK427",
+      "names": [
+        "Robert Morschel",
+        "Sandor Lenart",
+        "Scott Treacy",
+        "Sebastien Deleersnyder",
+        "Stefano Di Paola",
+        "Steve Kosten"
+      ]
+    },
+    "OK426": {
+      "id": "OK426",
+      "names": [
+        "Steven Wierckx",
+        "Steven van der Baan",
+        "Sven Schleier",
+        "Thomas Welch",
+        "Tiago Mendo",
+        "Tiffany Long"
+      ]
+    },
+    "OK416": {
+      "id": "OK416",
+      "names": [
+        "Timo Pagel",
+        "Tony UV",
+        "Viktor Lindstrom",
+        "Yan Kravchenko",
+        "Ante Gulam",
+        "Barracuda 3"
+      ]
+    },
+    "OK415": {
+      "id": "OK415",
+      "names": [
+        "Christian DeHoyos",
+        "Stephen de Vries",
+        "Barracuda 2",
+        "Chris Wysopal",
+        "Vlad Nisic",
+        "Gabor Pek"
+      ]
+    },
+    "OK414": {
+      "id": "OK414",
+      "names": [
+        "Ingo Hanke",
+        "Mark Felegyhazi",
+        "Ross Tanner",
+        "Sherif Mansour",
+        "Stuart Gunter"
+      ]
+    },
+    "OK413": {
+      "id": "OK413",
+      "names": []
+    }
+  },
+  "pre_Summit": {
+    "OK314": [
+      {
+        "name": "Amani Altarawneh",
+        "when": "Sun"
+      },
+      {
+        "name": "Dave Wichers",
+        "when": "Sun"
+      },
+      {
+        "name": "Dinis Cruz",
+        "when": "Sat,Sun"
+      },
+      {
+        "name": "Francois Raynaud",
+        "when": "Sat,Sun"
+      },
+      {
+        "name": "Jemma Buttle",
+        "when": "Sun"
+      },
+      {
+        "name": "Jemma Davis",
+        "when": "Sat,Sun"
+      }
+    ],
+    "OK315": [
+      {
+        "name": "Nuno Loureiro",
+        "when": "Sun"
+      },
+      {
+        "name": "Robert Grace",
+        "when": "Sat,Sun"
+      },
+      {
+        "name": "Sebastien Deleersnyder",
+        "when": "Sat,Sun"
+      },
+      {
+        "name": "Steven Wierckx",
+        "when": "Sat,Sun"
+      },
+      {
+        "name": "Tiago Mendo",
+        "when": "Sun"
+      },
+      {
+        "name": "Tiffany Long",
+        "when": "Sat, Sun"
+      }
+    ],
+    "TBD": [
+      {
+        "name": "Tony UV",
+        "when": "Sun"
+      }
+    ]
+  },
+  "day_delegates": [
+    {
+      "first_Name": "Adam",
+      "last_Name": "Obrien"
+    },
+    {
+      "first_Name": "Anders",
+      "last_Name": "Reeves"
+    },
+    {
+      "first_Name": "Ben",
+      "last_Name": "Cornelius"
+    },
+    {
+      "first_Name": "Christian",
+      "last_Name": "Martorella"
+    },
+    {
+      "first_Name": "Daniel",
+      "last_Name": "Kefer"
+    },
+    {
+      "first_Name": "Daniel",
+      "last_Name": "Miessler"
+    },
+    {
+      "first_Name": "Danny",
+      "last_Name": "Grander"
+    },
+    {
+      "first_Name": "Don",
+      "last_Name": "Gibson"
+    },
+    {
+      "first_Name": "Ed",
+      "last_Name": "Woodfall"
+    },
+    {
+      "first_Name": "Fraser",
+      "last_Name": "Scott"
+    },
+    {
+      "first_Name": "Geoff",
+      "last_Name": "Hill"
+    },
+    {
+      "first_Name": "George",
+      "last_Name": "Simms"
+    },
+    {
+      "first_Name": "Irene",
+      "last_Name": "Michlin"
+    },
+    {
+      "first_Name": "John",
+      "last_Name": "Fitzgerald"
+    },
+    {
+      "first_Name": "Jonathon",
+      "last_Name": "Brookfield"
+    },
+    {
+      "first_Name": "Juan",
+      "last_Name": "Calderon"
+    },
+    {
+      "first_Name": "Mamta",
+      "last_Name": "Vuppu"
+    },
+    {
+      "first_Name": "Marco",
+      "last_Name": "Morana"
+    },
+    {
+      "first_Name": "Matt",
+      "last_Name": "Pendlebury"
+    },
+    {
+      "first_Name": "Matthew",
+      "last_Name": "Gough"
+    },
+    {
+      "first_Name": "PhotoBox",
+      "last_Name": "10"
+    },
+    {
+      "first_Name": "PhotoBox",
+      "last_Name": "11"
+    },
+    {
+      "first_Name": "PhotoBox",
+      "last_Name": "12"
+    },
+    {
+      "first_Name": "PhotoBox",
+      "last_Name": "9"
+    },
+    {
+      "first_Name": "Puja",
+      "last_Name": "Deora"
+    },
+    {
+      "first_Name": "Slava",
+      "last_Name": "Katok"
+    },
+    {
+      "first_Name": "Tony",
+      "last_Name": "Richards"
+    },
+    {
+      "first_Name": "Ade",
+      "last_Name": "Adeoniye"
+    },
+    {
+      "first_Name": "Ajay",
+      "last_Name": "Gupta"
+    },
+    {
+      "first_Name": "Aruna",
+      "last_Name": "Katugampola"
+    },
+    {
+      "first_Name": "Chris",
+      "last_Name": "Dee"
+    },
+    {
+      "first_Name": "Chris",
+      "last_Name": "Lamont Smith"
+    },
+    {
+      "first_Name": "Chris",
+      "last_Name": "Pointon"
+    },
+    {
+      "first_Name": "David",
+      "last_Name": "Sastre"
+    },
+    {
+      "first_Name": "Dominic",
+      "last_Name": "Hobson"
+    },
+    {
+      "first_Name": "Eddie",
+      "last_Name": "Hoffman"
+    },
+    {
+      "first_Name": "Gavin",
+      "last_Name": "Thomas"
+    },
+    {
+      "first_Name": "Ioannis",
+      "last_Name": "Kostakis"
+    },
+    {
+      "first_Name": "James",
+      "last_Name": "Osborn"
+    },
+    {
+      "first_Name": "John",
+      "last_Name": "Donnellan"
+    },
+    {
+      "first_Name": "Jonathan",
+      "last_Name": "Ward"
+    },
+    {
+      "first_Name": "Kevin",
+      "last_Name": "Sheldrake"
+    },
+    {
+      "first_Name": "Milo",
+      "last_Name": "Hunter"
+    },
+    {
+      "first_Name": "Paul",
+      "last_Name": "Fountain"
+    },
+    {
+      "first_Name": "Rhod",
+      "last_Name": "Williams"
+    },
+    {
+      "first_Name": "Simon",
+      "last_Name": "Cole"
+    },
+    {
+      "first_Name": "Talal",
+      "last_Name": "Albacha"
+    },
+    {
+      "first_Name": "Tatiana",
+      "last_Name": "Yusupova"
+    },
+    {
+      "first_Name": "Andrew",
+      "last_Name": "Sparry"
+    },
+    {
+      "first_Name": "Ben",
+      "last_Name": "Gould"
+    },
+    {
+      "first_Name": "Chris",
+      "last_Name": "Howell"
+    },
+    {
+      "first_Name": "Eddie",
+      "last_Name": "Lee"
+    },
+    {
+      "first_Name": "Gagan",
+      "last_Name": "Bhatia"
+    },
+    {
+      "first_Name": "Colin",
+      "last_Name": "Rouse"
+    },
+    {
+      "first_Name": "Duncan",
+      "last_Name": "Hurwood"
+    },
+    {
+      "first_Name": "Mustafa",
+      "last_Name": "Kasmani"
+    }
+  ]
+}

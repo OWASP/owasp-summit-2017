@@ -1,0 +1,26 @@
+{{ if isset .Params "track" }}
+  {{ $tracks := ".Params.track" | split "," }}
+  {{ range $tracks }}
+  <b>Track: &#32;</b>
+    {{ partial "ws-track-link" "." }}
+  <br />
+  {{ end }}
+{{ end }}
+
+{{ if and (isset .Params "owasp-project") (ne .Params.track "Project Summit") }}
+<b>Part of the &#32;</b>
+<a href="/session/Project-Summit">OWASP Project Summit</a>
+<br />
+{{ end }}
+
+<b>When: &#32;</b>
+<a href="/schedule/by-track/{{ .Params.when }}.html">{{ .Params.when }}</a>
+<br />
+
+<b>Time:</b> {{ .Params.time }}
+<br />
+
+{{ if isset .Params "location" }}
+<b>Location:</b>{{ .Params.location }}
+<br />
+{{ end }}

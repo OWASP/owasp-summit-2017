@@ -1,0 +1,11 @@
+extends ../_default/baseof.amber
+
+block content
+  h1 Summit Outcomes pages
+  p Current Summit Outcomes pages
+
+  div.row
+    ul
+      each $outcome in Data.Pages
+        li
+          a[href=$outcome.Permalink] #{$outcome.Title}

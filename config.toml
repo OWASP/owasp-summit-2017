@@ -1,0 +1,75 @@
+baseURL = "https://owaspsummit.org/"
+languageCode = "en-us"
+title = "OWASP Summit 2018"
+enableGitInfo = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+ignoreFiles = [ "^\\.#", "^\\#", "^\\.*.swp" ]
+
+[[menu.main]]
+    name = "Tracks"
+    identifier = "tracks"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 1
+    url = "/session"
+[[menu.main]]
+    name = "Outcomes"
+    identifier = "outcomes"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 2
+    url = "/outcome"
+[[menu.main]]
+    name = "Participants"
+    identifier = "participants"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 3
+    url = "/participant"
+[[menu.main]]
+    name = "Venue"
+    identifier = "venue"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 4
+    url = "/venue"
+[[menu.main]]
+    name = "Faq"
+    identifier = "faq"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 5
+    url = "/faq"
+[[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 6
+    url = "/blog"
+[[menu.main]]
+    name = "Sponsors"
+    identifier = "sponsors"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 7
+    url = "/sponsor"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 8
+    url = "/about"
+[[menu.main]]
+    name = "Admin"
+    identifier = "admin"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 9
+    url = "/admin"
+
+[params]
+
+style = "default"
+author = "OWASP Project"
+copyright = "Copyright (c) OWASP; all rights reserved."
+description = "OWASP Summit 2018"
+github = "https://github.com/OWASP/owasp-summits"
+
+# Format dates with Go's time formatting
+date_format = "January 2, 2006"

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ partial "header.html" . }}
+</head>
+<body>
+{{ partial "menu.html" . }}
+<div class="page-content">
+<div class="blog">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-0"></div>
+      <div class="col-xs-12">
+        <h1>Blog</h1>
+        <p>Summit blog with latest news, thinking and participant's posts.</p>
+        <div class="col-xs-0"></div>
+        {{ range .Data.Pages }}
+        <div class="row">
+          <div class="col-xs-12 col-sm-12">
+            <div class="card">
+              <div class="card-top">
+                <div class="title">
+                  <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+                </div>
+                {{ partial "add-author.html" . }}
+              </div>
+              <div class="card-block">
+                {{ .Content | safeHTML | truncate 250 }}
+              </div>
+            </div><!-- card -->
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div><!-- container -->
+</div>
+</div>
+{{ partial "footer.html" . }}
+</body>
+</html>

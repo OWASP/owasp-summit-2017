@@ -1,0 +1,6 @@
+extends baseof.amber
+
+block content
+  h1 #{Title}
+  
+  #{Content}

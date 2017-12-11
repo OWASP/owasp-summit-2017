@@ -9,7 +9,6 @@
     "test-watch": "npm test -- --watch",
     "start": "coffee src/server/main.coffee",
     "jekyll": "docker run -it --rm -v ${PWD}:/owasp-summit -p 9001:309000:9000 ruby-jekyll-node bash -c \"cd owasp-summit;./node_modules/.bin/gulp \""
-
   },
   "author": "",
   "license": "ISC",
@@ -24,6 +23,7 @@
     "gulp-shell": "^0.6.3"
   },
   "dependencies": {
+    "auto-sni": "^2.3.1",
     "express": "^4.15.3",
     "fluentnode": "^0.6.5",
     "js-yaml": "^3.8.4",

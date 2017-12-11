@@ -1,0 +1,65 @@
+mixin show-conflicts
+    if working-sessions = 0
+      div.alert.alert-info No session
+    elsif len(working-sessions) > 1
+      div.alert.alert-danger Too many sessions
+
+mixin show-day
+    + show-conflicts
+    div.session-name
+      | each $working-session in working-sessions
+        a[href="working-session.url"] #{working-session.Name}
+        | if working-session .locked
+          span.glyphicon.glyphicon-lock
+        | if working-session.status == "draft"
+          span.glyphicon.glyphicon-warning-sign
+        div.role[class=working-session.role] #{working-session.Role}
+        div.location #{Site.Data.venue[working-session.location].Name}
+
+
+div.schedule-track
+    $times        = "AM-1,PM-1,PM-2,PM-3,Eve" | split: ","
+    $days         = [Mon,Tue,Wed,Thu,Fri]
+    $participant  = Title
+    h3 Scheduled Working Sessions for #{$participant}
+
+    table.table.table-striped
+        thead
+            th
+                b [when]
+            th.text-center
+                h4 Monday
+            th.text-center
+                h4 Tuesday
+            th.text-center
+                h4 Wednesday
+            th.text-center
+                h4 Thursday
+            th.text-center
+                h4 Friday
+        | each $time in $times
+        |   if Site.Data.mapped.schedule.by_Participant[$participant][$time]
+        tr
+            td.text-center
+                div.time #{$time}
+                div.time-hour #{Site.Data.times[$time]}
+                  $working-sessions = Site.Data.mapped.schedule.by_Participant[$participant][$time][$day]
+                  td
+                    + show-day
+
+    | $times = Site.Data.mapped.schedule.by_Track["no-day"][track]
+    | if times
+    h3 Not Scheduled Working Sessions
+    p.
+        These Working Sessions are currently NOT scheduled to occur in one of the main Rooms.
+        This doesn't mean that they will NOT happen.
+        Participants will be able to work on this
+        Working Session [or others created during the Summit] at specific locations and times.
+    ul
+        | each $time in times
+        |   each $working-session in time[1]
+        li
+            a[href=$working-session.url] #{$working-session.name}
+            span &#32; - #{$working-session.status}} &#32;
+            | if working-session.status == "draft"
+            span.glyphicon.glyphicon-warning-sign

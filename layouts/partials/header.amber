@@ -1,0 +1,14 @@
+meta[http-equiv="content-type"][content="text/html; charset=utf-8"]
+meta[http-equiv="X-UA-Compatible"][content="IE=edge"]
+meta[name="viewport"][content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"]
+meta[name="referrer"][content="no-referrer"]
+meta[name="author"][content=Site.Params.author]
+meta[name="description"][content=Site.Params.description]
+link[rel="stylesheet"][href=Site.BaseURL + "css/styles.css"]
+// this icon shows in browser toolbar
+link[rel="icon"][type="image/x-icon"][href=Site.BaseURL + "/img/owasp-grey.ico"]
+script[src=Site.BaseURL + "js/jquery-3.2.1.min.js"]
+script[src=Site.BaseURL + "js/bootstrap.js"]
+script[src=Site.BaseURL + "js/countdown.js"]
+script[src=Site.BaseURL + "js/custom.script.js"]
+title #{ Title }

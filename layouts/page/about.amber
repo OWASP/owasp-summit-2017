@@ -1,0 +1,61 @@
+extends ../_default/baseof.amber
+
+block content
+  div.about
+    div.about-main-section
+      div.container
+          h1 About
+          div.row
+              div.col-xs-12.top-text
+                p The OWASP Summit 2017 is focused on the <b>collaboration</b> between <b>Developers</b> and <b>Application Security</b>.
+          div.row
+              div.col-xs-3
+                img.img-responsive[src="/img/blocks/collaboration.png"][alt="collaboration"]
+              div.col-xs-9
+                p This is not a conference with uni-directional presentations. Using the same model as the past two OWASP Summits in Portugal, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively. Every thoroughly prepared working session is geared towards a specific application security challenge and will be focused on actionable outcomes.
+                p If you care about Application Security and want to collaborate with the key players in this industry, this is the event to be.
+
+          div.why-attend
+            h2 Why Attend
+            div.row.border-at-bottom
+              div.col-xs-1.plus-col
+                img.plus-box[src="/img/blocks/cube.png"][alt="cube"]
+              div.col-xs-10
+                p The summit will bring together leading figures from OWASP, security, development, government agencies and vendor companies.
+            div.row.border-at-bottom
+              div.col-xs-1.plus-col
+                img.plus-box[src="/img/blocks/cube.png"][alt="cube"]
+              div.col-xs-10
+                p Collaborate in working sessions to tackle some of the hardest security problems we are facing in 2017 and create actionable solutions.
+            div.row.border-at-bottom
+              div.col-xs-1.plus-col
+                img.plus-box[src="/img/blocks/cube.png"][alt="cube"]
+              div.col-xs-10
+                p Connect with like-minded individuals who are passionate about AppSec, get chatting over breakfast, lunch or dinner, during summit activities, or at the end of summit party.
+          div.row
+            div.col-xs-1.plus-col
+              img.plus-box[src="/img/blocks/cube.png"][alt="cube"]
+            div.col-xs-10
+              p Take advantage of the unique summit venue at Woburn Forest Center Parcs, an environment designed for maximum geek-time, synergies and collaboration.
+      br
+      div.summit-team
+        h2 Summit Team
+        p if you want to know who is working behind the scenes to organize this Summit, see &#32;
+          a[href="/Logistics/Summit-Team.html"] Summit Team
+        div.help-spread-word
+          h2 Help to spread the word
+          p If you want to present the summit at your OWASP Chapter meeting (or other event), please use this presentation:
+          div.glyphicon.glyphicon-plus
+            a[href=Site.Data.links.summit_presentation][target="_blank"] Download OWASP Summit 2017 presentation
+
+    div.about-past-summit
+      div.container
+        div.row
+          div.col-xs-6
+            br
+            img.img-responsive[src="/img/blocks/portugal-photos.png"][alt="portugal summit photo"]
+          div.col-xs-6.past-summit
+            h2 Past Summit
+            p The past two summits took place in Portugal, check out the photos below.
+            div.glyphicon.glyphicon-plus
+              a[href=Site.Data.links.summit_2011_photos][target="_blank"] Take a look at the photos of the 2011 Portugal Summit

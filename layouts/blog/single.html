@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ partial "header.html" . }}
+</head>
+<body>
+  {{ partial "menu.html" . }}
+  <div class="blog blog-post">
+    <div class="container">
+      <div class="col-xs-2">
+        {{ partial "add-author.html" . }}
+        <div class="date">
+          {{ if isset .Params "date" }}
+          {{ dateFormat "January 2, 2006" .Params.date }}
+          {{ end }}
+        </div>
+      </div>
+      <div class="col-xs-10">
+        <br />
+        <h3>{{ .Title }}</h3>
+        <hr />
+        {{ .Content }}
+      </div>
+    </div><!-- container -->
+  </div><!-- blog-post -->
+  {{ partial "footer.html" . }}
+</body>
+</html>
