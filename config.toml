@@ -4,7 +4,7 @@ title = "OWASP Summit 2018"
 enableGitInfo = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-97001849-1"
 
 ignoreFiles = [ "^\\.#", "^\\#", "^\\.*.swp" ]
 
