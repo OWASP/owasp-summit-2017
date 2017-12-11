@@ -1,0 +1,4 @@
+---
+title    : Venue
+layout   : venue
+---

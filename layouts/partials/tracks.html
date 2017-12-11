@@ -1,0 +1,26 @@
+<div class="row">
+  <div class="col-xs-0"></div>
+  <div class="col-xs-12">
+    <h1>Tracks</h1>
+    <p>Here are the current Tracks (with multiple Working Sessions)</p>
+    <div class="col-xs-0"></div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-0"></div>
+  <div class="col-xs-12">
+    <div class="row">
+      {{ $tracks := where .Data.Pages ".Params.type" "track" }}
+      {{ range $tracks }}
+      <div class="col-xs-4 col-sm-2">
+        <div class="ws-box">
+          <div class="ws-title">
+            <a href="{{ .Permalink }}">{{ truncate 45 .Title }}</a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    <div class="col-xs-0"></div>
+  </div>
+</div>

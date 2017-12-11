@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ partial "header.html" . }}
+</head>
+<body>
+  {{ partial "menu.html" . }}
+  <div class="page-content">
+    <div class="featured-ws">
+      <div class="container">
+
+        {{ partial "tracks.html" . }}
+        {{ partial "topics.html" . }}
+
+        <div class="row">
+          <div class="col-xs-0"></div>
+          <div class="col-xs-12">
+            <h1>Working Sessions</h1>
+            <p>Here are the other Working Sessions that we will occur at the Summit which have reached a good level of thinking and maturity (see list of draft Working Sessions below)</p>
+          </div>
+          <div class="col-xs-0"></div>
+        </div>
+        <div class="row">
+          <div class="col-xs-0"></div>
+          <div class="col-xs-12">
+            <ol>
+              {{ $sessions := where (where .Data.Pages ".Params.type" "workshop") ".Params.status" "ne" "draft"}}
+              {{ range $sessions }}
+                {{ if ne ".Param.status" "featured" }}
+                <li>
+                  <a href="{{ .RelPermalink }}"> {{ .Title }}</a>
+                </li>
+                {{ end }}
+              {{ end }}
+            </ol>
+          </div>
+          <div class="col-xs-0"></div>
+        </div>
+        <div class="row">
+          <div class="col-xs-0"></div>
+          <div class="col-xs-12">
+            <h1>Draft Working Sessions</h1>
+            <p>Here are the working sessions that are currently being worked on, but need more content and help. If you want to be involved please make the changes on GitHub and send a Pull Request with your ideas.</p>
+            <p>If you feel that there is missing working session that we NEED to have at the Summit, please create it.</p>
+            <ol>
+              {{ $draft := where (where .Data.Pages ".Params.type" "workshop") ".Params.status" "eq" "draft" }}
+              {{ range $draft }}
+                {{ if ne ".status" "featured" }}
+                <li>
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </li>
+                {{ end }}
+              {{ end }}
+            </ol>
+          </div>
+        </div>
+      </div><!-- container -->
+    </div><!-- featured-ws -->
+  </div><!-- page-content -->
+  {{ partial "footer.html" . }}
+</body>
+</html>

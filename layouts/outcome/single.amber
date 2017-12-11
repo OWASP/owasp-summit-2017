@@ -1,0 +1,15 @@
+extends ../_default/baseof.amber
+
+block content
+  div.outcome
+    h1 #{Title}
+
+    p Back to list of
+      a[href=Site.BaseURL + "outcome"] all Outcomes
+
+    p Original Working Session content:
+      a[href=Site.BaseURL] #{Title}
+
+    hr
+
+    #{Content}

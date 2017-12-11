@@ -1,6 +1,6 @@
 require 'fluentnode'
 
-https             = require 'https'
+https             = require 'auto-sni'
 fs                = require 'fs'                      # todo: due to ssl support (use fluentnode methods)
 express           = require 'express'
 
@@ -9,7 +9,8 @@ class Server
     @.app         = null
     @.options     = options || {}
     @.server      = null
-    @.port        = @.options.port || process.env.PORT || 3443
+    @.port        = @.options.port || process.env.PORT || 3080
+    @.sslport        = @.options.sslport || process.env.SSLPORT || 3443
 
   setup_Server: =>    
     @.app = express()
@@ -56,12 +57,20 @@ class Server
 
   start_Server_SSL: =>
     options =
-      key: fs.readFileSync('./src/server/cert/key.pem'),
-      cert: fs.readFileSync('./src/server/cert/cert.pem')
+      email: "dinis.cruz@owasp.org", // Emailed when certificates expire.
+      agreeTos: true, // Required for letsencrypt.
+      debug: true, // Add console messages and uses staging LetsEncrypt server. (Disable in production)
+      domains: ["owaspsummit.org"],
+      ports: {
+        http: @.port, // Optionally override the default http port.
+        https: @.sslport // // Optionally override the default https port.
+      }
+      #key: fs.readFileSync('./src/server/cert/key.pem'),
+      #cert: fs.readFileSync('./src/server/cert/cert.pem')
       #key: fs.readFileSync('./cert/privkey.pem'),
       #cert: fs.readFileSync('./cert/fullchain.pem')
 
-    @.server      = https.createServer(options, @.app).listen @.port
+    @.server      = https.createServer(options, @.app)
 
     #console.log ' Started server with SSL support'
 
@@ -69,11 +78,12 @@ class Server
     @.start_Server_SSL()
 
   server_Url: =>
-    "https://localhost:#{@.port}"
+    "https://localhost:#{@.sslport}"
 
   run: (random_Port)=>
     if random_Port
       @.port = 23000 + 3000.random()
+      @.sslport = 27000 + 3000.random()
     @.setup_Server()
     @.add_Jekyll_Site()
     @.add_Controllers()

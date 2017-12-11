@@ -1,0 +1,21 @@
+extends _default/baseof.amber
+
+block content
+  div.summit-intro
+    div.container
+      h1 Next Summit: 4th - 8th June 2018
+      div.lgx-countdown-area
+        div#lgx-countdown[data-date="2018/06/04"]
+      p We will be organising the next Summit in 2018
+
+      p Same place, same format, same amazing energy and outcomes
+
+      h2 the question is 'Will you be there?
+
+      h2 Get Your Tickets
+
+      div.small-12.medium-8.medium-centered.large-8.large-centered.columns
+        div[style="width:100%; text-align:left;"]
+          iframe[src="//eventbrite.be/tickets-external?eid=39825671656&ref=etckt"][frameborder="0"][height="275"][width="100%"][vspace="0"][hspace="0"][marginheight="5"][marginwidth="5"][scrolling="auto"][allowtransparency="true"]
+          div[style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left"]
+            a[class="powered-by-eb"][style="color:#ADB0B6; text-decoration:none;"][target="_blank"][href="http://www.eventbrite.be"] Ticket registrations with Eventbrite

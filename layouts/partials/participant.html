@@ -1,0 +1,23 @@
+<div class="col-xs-4 col-sm-2">
+  <div class="card">
+      <div class="card-top">
+        <a href="{{ .Permalink }}">
+        {{ if isset .Params "image" }}
+          <img class="img-fluid" src="{{ .Params.image }}" alt="{{ .Params.title }}" />
+        {{ else }}
+          <img class="img-fluid" src="img/blocks/400x400.png" alt="400x400 placeholder" />
+        {{ end }}
+        </a>
+      </div>
+    <div class="card-block">
+      <a href={{ .Permalink }}>
+        <p class="participant-name">{{ .Params.title }}</p>
+        {{ if isset .Params "job" }}
+        <p class="participant-title">{{ .Params.job }}</p>
+        {{ else }}
+        <p class="participant-title">...</p>
+        {{ end }}
+      </a>
+    </div>
+  </div>
+</div>

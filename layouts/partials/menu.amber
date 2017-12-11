@@ -1,0 +1,21 @@
+mixin menu-entry($href, $pre, $text)
+    a[href=$href] #{$pre} #{$text}
+
+header
+  div.container
+    div.row
+      div.col-xs-12
+        nav.navbar.navbar-default#menu-offscroll
+          div.navbar-header
+            button[type="button"][data-toggle="collapse"][data-target=".navbar-collapse"].navbar-toggle
+              span.sr-only Toggle navigation
+              span.icon-bar
+              span.icon-bar
+              span.icon-bar
+            a[href="/"]
+              img[src="/img/blocks/logo-small.png"][alt="owasp summit small logo"]
+          div.collapse.navbar-collapse.blocks-menu
+            ul.nav.navbar-nav
+              each $section in Site.Menus.main
+                li
+                  +menu-entry($section.URL, $section.Pre, $section.Name)

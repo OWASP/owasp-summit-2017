@@ -1,0 +1,22 @@
+div.footer
+    div.container
+        div.row
+            div.col-xs-0.col-sm-0
+            div.col-xs-6.col-sm-6
+                h2 Code of Conduct
+                p The OWASP Summit is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of summit participants in any form in any summit venue, including working sessions, social events, or other channels of communication. A summit participant who violates these rules will be asked to stop. Should the participant not comply, the participant may be expelled from the summit without a refund. The summit organisers reserve the right to expel anyone who violates these rules.
+            div.col-xs-3.col-sm-3
+                h2 Contact
+                p OWASP Foundation
+                p 1200-C Agora Drive, #232
+                p Bel Air, MD 21014
+                p USA
+                p +1 951-692-7703 (tel)
+                p +1 443-283-4021(fax)
+            div.col-xs-3.col-sm-3
+                h2 Follow Us
+                a[href="https://twitter.com/owaspsummit"][target="_blank"]
+                    img[src=Site.BaseURL + "img/blocks/twitter.png"][alt="twitter logo"]
+                a[href=Site.Params.github][target="_blank"]
+                    img[src=Site.BaseURL + "img/blocks/github.png"][alt="github logo"]
+            div.col-xs-0.col-sm-0

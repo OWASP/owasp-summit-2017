@@ -1,0 +1,17 @@
+!!! 5
+html
+  head
+    import ../partials/header.amber
+
+  body
+    block menu
+      import ../partials/menu.amber
+
+    div.page-content
+      div.container
+        block content
+
+      block footer
+        import ../partials/footer.amber
+
+    import ../partials/google-analytics.amber

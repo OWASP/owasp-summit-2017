@@ -1,0 +1,5 @@
+<hr />
+<div class="row">
+    {{ $paginator := .Paginate .Data.Pages }}
+    {{ template "_internal/pagination.html" . }}
+</div>

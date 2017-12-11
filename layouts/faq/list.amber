@@ -1,0 +1,10 @@
+extends ../_default/baseof.amber
+
+block content
+  h1 FAQS AND LOGISTICS
+  p Current FAQs and Logistics pages
+
+  ol
+    each $faq in Data.Pages
+      li
+        a[href=$faq.Permalink] #{$faq.Title}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ partial "header.html" . }}
+</head>
+<body>
+{{ partial "menu.html" . }}
+<div class="page-content">
+  <div class="participants">
+      <div class="container">
+          <h1>Participants</h1>
+          <p>To add your name to this repo please fork the repo and use
+              <a href="{{ .Site.Params.github }}/tree/master/content/participants" target="_blank"> &#32; these pages.</a></p>
+          <p>If you want to participate remotely, see <a href="{{ .Site.BaseURL }}/content/participants-remote.html">this page</a>.</p>
+          <h4>Current list of Summit attendees</h4>
+          <br />
+          <div class="row">
+          {{ $local := where .Data.Pages ".Params.type" "participant" }}
+          {{ range $local }}
+            {{ partial "participant" . }}
+          {{ end }}
+          </div>
+        <h1>Remote Participants</h1>
+        <div class="row">
+          <p>This is the current list of remote participants (see the <a href="{{.Site.BaseURL}}/participants-remote.html">Remote Participants</a> page for more details and instructions on how to register)</p>
+
+          {{ $remote := where .Data.Pages ".Params.type" "participant-remote" }}
+          {{ range $remote }}
+            <div class="col-xs-4 col-sm-2">
+            {{ partial "participant" . }}
+            </div>
+          {{ end }}
+        </div>
+      </div><!-- container -->
+  </div><!-- participants -->
+</div>
+{{ partial "footer.html" . }}
+</body>
+</html>

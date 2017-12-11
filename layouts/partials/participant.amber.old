@@ -1,0 +1,14 @@
+div.col-xs-4.col-sm-2
+  div.card
+    {{ printf "%#v" . }}
+    a[href=Params.permalink]
+      .card-top
+        | if Params.Image != "" and Params.Image != null
+          img.img-fluid[src=Params.Image][alt=Params.title]
+        | else
+          img.img-fluid[src="/img/blocks/400x400.png"][alt="400x400 placeholder"]
+  div.card-block
+    a[href=Params.permalink]
+      p.participant-name #{Params.Title}
+        p.participant-title
+          | ...
