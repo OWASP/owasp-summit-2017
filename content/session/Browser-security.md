@@ -42,8 +42,8 @@ The purpose of this Working Session is to provide insight into today´s browsers
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
 
-- <a href="http://www.owasp.org/images/6/6d/OWASPSummit2011SiteSecurityPolicyBrowserSecurityTrack.pdf>Site Security Policy notes (pdf)</a>
-- <a href="http://www.owasp.org/images/c/cd/OWASPSummit2011HTML5SecurityBrowserSecurityTrack.pdf>HTML5 Security notes (pdf)</a>
+- <a href="http://www.owasp.org/images/6/6d/OWASPSummit2011SiteSecurityPolicyBrowserSecurityTrack.pdf">Site Security Policy notes (pdf)</a>
+- <a href="http://www.owasp.org/images/c/cd/OWASPSummit2011HTML5SecurityBrowserSecurityTrack.pdf">HTML5 Security notes (pdf)</a>
 
 ### Content
 
