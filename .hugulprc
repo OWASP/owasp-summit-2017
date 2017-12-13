@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "pipeline": [
+    "images",
+    "styles",
+    "scripts",
+    "fingerprint",
+    "html"
+  ],
+  "path": {
+    "styles": "styles",
+    "images": "img",
+    "scripts": "scripts"
+  },
+  "watch": {
+    "source": "assets",
+    "target": "static"
+  },
+  "build": {
+    "source": "public",
+    "target": "public"
+  },
+  "autoprefixer": {
+    "browsers": [
+      "last 2 versions"
+    ]
+  },
+  "cleancss": {
+    "advanced": false
+  },
+  "htmlmin": {
+    "collapseWhitespace": true
+  },
+  "gifsicle": {
+    "interlaced": true
+  },
+  "jpegtran": {
+    "progressive": true
+  },
+  "optipng": {
+    "optimizationLevel": 5
+  },
+  "svgo": {
+    "plugins": [
+      {
+        "removeViewBox": true
+      },
+      {
+        "cleanupIDs": false
+      }
+    ]
+  }
+}

@@ -13,19 +13,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.18.8",
     "coffee-script": "^1.12.4",
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.1",
-    "gulp-jade": "^1.1.0",
-    "gulp-less": "^3.3.0",
-    "gulp-notify": "^3.0.0",
-    "gulp-shell": "^0.6.3"
+    "hugulp": "^1.4.0"
   },
   "dependencies": {
     "auto-sni": "^2.3.1",
     "express": "^4.15.3",
     "fluentnode": "^0.6.5",
+    "hugulp": "^1.4.0",
     "js-yaml": "^3.8.4",
     "mocha": "^3.4.2"
   }
