@@ -10,3 +10,4 @@ _config.yml
 cert
 website/_data/mapped
 .DS_Store
+public/
