@@ -1,0 +1,68 @@
+extends ../_default/baseof.amber
+
+block content
+  div.summit-organization
+    div.container
+      h1 Summit Organization
+      h2 Schedule
+      p A first pass of the Summit Schedule is now available on the <a href="/pages/schedule"> schedule</a> page
+      h2 Get Involved
+      div.row
+        div.col-xs-7
+          p
+            If you want to help with the Summit organization or want to know more about what is happening behind the scenes, here are some links for you:
+            ul
+              li
+                a[href="/logistic/open-tasks"] Open Tasks
+              li
+                a[href="/pages/for-editors/participants/have-funding.html"] Participants with Owasp support
+              li
+                a[href="/logistic/sponsored-participants"] Sponsored Participants
+            ul
+              li
+                a[href="/logistic/summit-team"] Summit Team
+              li
+                a[href="/logistic/workshop-admin"] Workshop Admin
+              li
+                a[href="/logistic/invitation-letter"] Invitation Letter
+                  [sample]
+              li
+                a[href="/logistic/summit-site"] Summit Site
+                ul
+                  li
+                    a[href="/logistic/hugo-properties"] Hugo Properties
+                  li
+                    a[href="/pages/for-editors"] Editor's Pages
+                  li
+                    a[href="/logistic/owasp-band"] OWASP Band
+            div.col-xs-5
+              img.img-responsive[src="/img/blocks/clipboard.png"][alt="clipboard"]
+        br
+        div.row
+            div.col-xs-7
+                h2 GitHub Site
+                Site
+                p
+                  Here are the main areas of the
+                  a[href="https://github.com/OWASP/owasp-summits"] &#32; OWASP Summit GitHub site
+                  which is used to hold all information, details and data (including this site)
+                ul
+                    li
+                        a[href="https://github.com/OWASP/owasp-summits/issues"] Issues
+                    li
+                        a[href="https://github.com/OWASP/owasp-summits/tree/master/content/participant"] Participants
+                    li
+                        a[href="https://github.com/OWASP/owasp-summit-2017/tree/master/content/session"] Working-Sessions
+                    li
+                        a[href="https://github.com/OWASP/owasp-summit-2017/tree/master/Logistics"] Logistics
+                    li
+                        a[href="https://github.com/OWASP/owasp-summit-2017/tree/master/Logistics/meetings"] Weekly Meetings
+                    li
+                        a[href="https://github.com/OWASP/owasp-summit-2017/tree/master/Budget"] Budget
+            div.col-xs-4
+                div.contact-us
+                  h2 Contact Us
+                  p If you have any questions regarding the summit, please <a href="mailto:francois@devseccon.com">email us</a>
+                  p Your query will be forwarded to the best member of the team to assist.
+        h2 Search Site
+          import ../block/search.amber
