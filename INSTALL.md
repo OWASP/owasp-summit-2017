@@ -20,7 +20,7 @@ We use `hugulp` for our assets pipeline. `hugulp` will add gulp tasks for compil
 Just download hugulp using `npm`:
 
 ```
-npm install hugulp
+npm install
 ./node_modules/.bin/hugulp watch
 ```
 

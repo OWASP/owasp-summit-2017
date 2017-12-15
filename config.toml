@@ -61,7 +61,7 @@ ignoreFiles = [ "^\\.#", "^\\#", "^\\.*.swp" ]
     identifier = "admin"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 9
-    url = "/admin"
+    url = "/summit-organization.html"
 
 [params]
 
