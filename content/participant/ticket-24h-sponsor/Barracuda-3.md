@@ -17,7 +17,7 @@ ticket          : 3x24h
 # Note: please adjust the values above to your current plan (days and ticket duration)
 status          : empty
 regonline       : No
-working-sessions:
+sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

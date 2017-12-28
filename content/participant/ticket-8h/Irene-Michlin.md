@@ -9,7 +9,7 @@ email           : irene.michlin@nccgroup.com
 mobile          : +44 7972 333148
 status          : done
 ticket          : 5x8h
-working-sessions: Threat Model
+sessions: Threat Model
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

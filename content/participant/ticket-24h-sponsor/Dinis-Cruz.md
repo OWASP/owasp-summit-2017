@@ -12,7 +12,7 @@ website         : http://blog.diniscruz.com
 ticket          : 5x24h
 status          : done
 pre-summit      : Sat,Sun
-working-sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 ---
 
 

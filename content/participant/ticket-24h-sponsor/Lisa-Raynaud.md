@@ -14,9 +14,9 @@ email           :
 project-leader  :
 chapter-leader  :
 ticket          :
-status          : working-sessions mappings
+status          : sessions mappings
 ticket          : 5x24h
-working-sessions: Securing the CI Pipeline,DevSecOps vs SecDevOps
+sessions: Securing the CI Pipeline,DevSecOps vs SecDevOps
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

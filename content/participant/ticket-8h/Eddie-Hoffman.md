@@ -13,7 +13,7 @@ email           :
 when-day        : Thurs
 ticket          : 1x8h
 status          : empty
-working-sessions:
+sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

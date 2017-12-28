@@ -2,7 +2,7 @@
   {{ $tracks := ".Params.track" | split "," }}
   {{ range $tracks }}
   <b>Track: &#32;</b>
-    {{ partial "ws-track-link" "." }}
+    {{ partial "session/track-link" "." }}
   <br />
   {{ end }}
 {{ end }}

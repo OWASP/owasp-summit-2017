@@ -13,7 +13,7 @@ project-leader  : OWASP Application Security Verification Standard, OWASP Top 10
 chapter-leader  :
 when-day        : Monday, Tuesday
 status          : empty
-working-sessions: Owasp-Top-10-2017
+sessions: Owasp-Top-10-2017
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 <!-- put more details about participant here -->

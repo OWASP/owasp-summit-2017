@@ -12,7 +12,7 @@ website          : https://continuousassurance.org/
 email            :
 ticket           :
 status           : add-details
-working-sessions : Is the Owasp Top 10 Data Collection Open,Data behind Owasp Top 10 2017,Top 10 Selection Criteria,Threat Modeling Tools,Implications of Owasp Top 10 2017,What Should be Added to the Top 10,SAMM Metrics for Enterprise,Draft SAMM2 - the "DevOps release",Review and improve the 12 SAMM practices
+sessions : Is the Owasp Top 10 Data Collection Open,Data behind Owasp Top 10 2017,Top 10 Selection Criteria,Threat Modeling Tools,Implications of Owasp Top 10 2017,What Should be Added to the Top 10,SAMM Metrics for Enterprise,Draft SAMM2 - the "DevOps release",Review and improve the 12 SAMM practices
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

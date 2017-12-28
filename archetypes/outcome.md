@@ -1,5 +1,5 @@
 ---
-title          : GitHub Security Feature Request
-working-session: Securing GitHub Integrations
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
+related_session: 
 ---
-

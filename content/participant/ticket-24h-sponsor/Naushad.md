@@ -15,7 +15,7 @@ chapter-leader  :
 ticket          : 5x24h
 status          : empty
 regonline       : No
-working-sessions: Mobile Application Security Verification Standard (MASVS),Mobile Security Testing Guide (MSTG),Working Sessions related to SOC,AppSec SOC Monitoring Visualisation, Incident Response Playbook, Threat Modeling Templates,Creating AppSec Talent,Creating AppSec Teams,Threat Modeling Tools,Threat Modeling Where do I Start?,Netflix Resilience Engineering
+sessions: Mobile Application Security Verification Standard (MASVS),Mobile Security Testing Guide (MSTG),Working Sessions related to SOC,AppSec SOC Monitoring Visualisation, Incident Response Playbook, Threat Modeling Templates,Creating AppSec Talent,Creating AppSec Teams,Threat Modeling Tools,Threat Modeling Where do I Start?,Netflix Resilience Engineering
 ---
 
 <!-- put more details about participant here -->

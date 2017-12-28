@@ -21,7 +21,7 @@ twitter         : botflowking
 ticket          : 5x24h
 regonline       : No
 status          : update-content
-working-sessions : Top 10 Selection Criteria,GDPR and DPO AppSec implications,Threat Modeling Tools,OWASP Internet of Things Project,Creating AppSec Talent (next 100k professionals),Recruiting AppSec Talent at job fairs,Creating AppSec Teams,Implications of Owasp Top 10 2017,Application Security BSc/Masters Curriculum Design,Software Defined Everything (SDx),Evaluation/Optimization/Creation of Training Slides, Hackathon - Beyond OWASP Top Ten, Internal Bug Bounties Programmes, Lessons learned from public bug bounties programmes, Threat Modeling IoT Devices, Reverse Engineering APK's with Bytecodeviewer, Machine Learning and Security,Owasp Student Chapters
+sessions : Top 10 Selection Criteria,GDPR and DPO AppSec implications,Threat Modeling Tools,OWASP Internet of Things Project,Creating AppSec Talent (next 100k professionals),Recruiting AppSec Talent at job fairs,Creating AppSec Teams,Implications of Owasp Top 10 2017,Application Security BSc/Masters Curriculum Design,Software Defined Everything (SDx),Evaluation/Optimization/Creation of Training Slides, Hackathon - Beyond OWASP Top Ten, Internal Bug Bounties Programmes, Lessons learned from public bug bounties programmes, Threat Modeling IoT Devices, Reverse Engineering APK's with Bytecodeviewer, Machine Learning and Security,Owasp Student Chapters
 
 ---
 

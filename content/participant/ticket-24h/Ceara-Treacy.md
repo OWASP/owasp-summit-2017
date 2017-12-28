@@ -15,7 +15,7 @@ owasp-other     : OWASP Dublin Chapter Member
 when-day        : Tue
 ticket          : 1x24,1x8h
 status          : done
-working-sessions: Threat Modeling Templates, Threat Modeling Diagramming, Threat modeling Schema, Threat Modeling Cheat Sheet, Threat Modeling IoT Devices
+sessions: Threat Modeling Templates, Threat Modeling Diagramming, Threat modeling Schema, Threat Modeling Cheat Sheet, Threat Modeling IoT Devices
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

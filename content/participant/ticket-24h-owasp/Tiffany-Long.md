@@ -21,7 +21,7 @@ owasp-other     :
 pre-summit      : Sat, Sun
 status          : empty
 ticket          : 5x24h
-working-sessions: Owasp Chapter Treasury,Owasp Latam Region, 
+sessions: Owasp Chapter Treasury,Owasp Latam Region, 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

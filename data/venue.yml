@@ -1,4 +1,4 @@
-Room-1 :
+Room-1:
   name: Kings
   type: Classroom
   size: 50
@@ -67,5 +67,3 @@ Villa-9:
 
 Villa-10:
   name: Capital One Villa
-
-

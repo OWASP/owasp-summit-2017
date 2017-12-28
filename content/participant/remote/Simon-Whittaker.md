@@ -13,7 +13,7 @@ project-leader  :
 chapter-leader  :
 when-day        :
 status          : empty
-working-sessions: Threat Modeling Cloud Migration
+sessions: Threat Modeling Cloud Migration
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

@@ -24,7 +24,7 @@ ticket          : 5x24h
 regonline       : No
 status          : add details
 pre-summit      : Sat,Sun
-working-sessions:
+sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

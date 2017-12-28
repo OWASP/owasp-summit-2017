@@ -20,7 +20,7 @@ project-leader  :
 status          : improve-bio
 ticket          : 5x24h
 regonline       : No
-working-sessions:
+sessions:
 ---
 
 I would like to attend OWASP Summit, to get into the environment and discuss a new project with other OWASP Project leaders.

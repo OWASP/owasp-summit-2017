@@ -15,7 +15,7 @@ chapter-leader  :
 ticket          : 5x24h
 status          : empty
 regonline       : No
-working-sessions: AGILE APPSEC, DEVSECOPS, THREAT MODEL
+sessions: AGILE APPSEC, DEVSECOPS, THREAT MODEL
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

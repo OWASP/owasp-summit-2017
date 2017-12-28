@@ -13,5 +13,5 @@ project-leader  :
 chapter-leader  :
 when-day        :
 status          : done
-working-sessions: OwaspSAMM
+sessions: OwaspSAMM
 ---

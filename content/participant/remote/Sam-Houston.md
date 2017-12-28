@@ -12,7 +12,7 @@ website          : https://bugcrowd.com
 email            : sam@bugcrowd.com
 ticket           :
 status           : empty
-working-sessions : Crowdsourcing Security Knowledge,Bug Bounty Playbook,OWASP Bug Bounty,What Should be Added to the Top 10,Data behind Owasp Top 10 2017,Lessons learned from public bug bounties programmes,Internal Bug Bounties Programmes
+sessions : Crowdsourcing Security Knowledge,Bug Bounty Playbook,OWASP Bug Bounty,What Should be Added to the Top 10,Data behind Owasp Top 10 2017,Lessons learned from public bug bounties programmes,Internal Bug Bounties Programmes
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

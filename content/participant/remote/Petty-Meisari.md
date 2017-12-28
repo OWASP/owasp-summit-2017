@@ -6,5 +6,5 @@ email           : Petty.meisari@gmail.com
 twitter         : OwaspJakarta
 image           :
 status          : more-content
-working-sessions:
+sessions:
 ---

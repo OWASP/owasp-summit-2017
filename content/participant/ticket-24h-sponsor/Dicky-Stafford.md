@@ -11,6 +11,6 @@ facebook        :
 ticket          : 5x24h
 status          : need-content
 regonline       : No
-working-sessions: AppSec SOC Monitoring Visualisation
+sessions: AppSec SOC Monitoring Visualisation
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

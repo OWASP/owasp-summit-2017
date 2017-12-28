@@ -1,0 +1,74 @@
+<div class="schedule-track">
+  <h3>Scheduled Working Sessions for {{ .Title }}</h3>
+  {{ $name := .Title }}
+  {{ $days  := split "Mon,Tue,Wed,Thu,Fri" "," }}
+  <table class="table table-striped">
+      <thead>
+          <th>
+              <b> (when)</b>
+          </th>
+          <th class="text-center">
+              <h4>Monday</h4>
+          </th>
+          <th class="text-center">
+              <h4>Tuesday</h4>
+          </th>
+          <th class="text-center">
+              <h4>Wednesday</h4>
+          </th>
+          <th class="text-center">
+              <h4>Thursday</h4>
+          </th>
+          <th class="text-center">
+              <h4>Friday</h4>
+          </th>
+        </thead>
+    {{ $sessions :=  where $.Site.RegularPages "Section" "session" }}
+    {{ range $time_index, $element := index $.Site.Data.times }}
+      <tr>
+        <td class="text-center">
+            <span class="time"> {{ $time_index }}</span>
+            <span class="time-hour"> {{ $element }}</span>
+        </td>
+        {{ $workshops_time := where (where $sessions "Params.type" "workshop") "Params.when-time" $time_index }}
+        {{ range $days := split "Mon,Tue,Wed,Thu,Fri" "," }}
+          <!-- Sessions by name per user -->
+          {{ $workshops_today := where $workshops_time "Params.when-day" $days }}
+          <td>
+            <!-- show-conflicts -->
+            {{ $participant_session := split ($.Param "sessions") "," }}
+            {{ $sessions_today := where $workshops_today "Params.title" "in" $participant_session }}
+            <!-- falta el when-time -->
+            {{ if eq ($sessions_today | len) 0 }}
+            <div class="alert alert-info">No session</div>
+            {{ end }}
+            {{ if gt ($sessions_today | len) 1 }}
+            <div class="alert alert-danger">Too many sessions</div>
+            {{ end }}
+            <div class="session-name">
+              {{ range $sessions_today }}
+                <a href="{{ .URL }}">{{ .Title }}</a>
+                {{ if isset .Params "locked" }}
+                <span class="glyphicon glyphicon-lock"></span>
+                {{ end }}
+                {{ if eq ".Param.status" "draft" }}
+                <span class="glyphicon glyphicon-warning-sign"></span>
+                {{ end }}
+                {{ $organizers := split (.Param "organizers") "," }}
+                {{ if in $organizers $name }}
+                <div class="role organizing">organizing</div>
+                {{ else }}
+                <div class="role participating">participating</div>
+                {{ end }}
+                {{ $where := index .Site.Data.venue (string (.Param "location")) }}
+                {{ with $where }}
+                <div class="location">{{ .name }}</div>
+                {{ end }}
+              {{ end }}
+            </div>
+          </td>
+        {{ end }}
+    </tr>
+    {{ end }}
+    </table>
+</div>

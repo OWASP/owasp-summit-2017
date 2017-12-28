@@ -1,0 +1,11 @@
+div.panel
+  div.panel-heading
+    h3.panel-title Search
+    div.panel-body
+      form[action="//google.com/search"][method="get"][accept-charset="UTF-8"][role="search"]
+        div.input-group
+          input.form-control[type="search"][name="q"][results="0"][placeholder="Search..."
+            input[type="hidden"][name="q"][value="site:" + Site.BaseURL]
+              span.input-group-btn
+                button.btn.btn-template-main[type="submit"]
+                  i.fa.fa-search

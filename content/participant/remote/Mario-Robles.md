@@ -13,7 +13,7 @@ project-leader  : OWASP Pyttacker
 chapter-leader  :
 when-day        :
 status          : empty
-working-sessions: Securing the CI Pipeline,Writing Security Tests,JIRA Risk Workflow,DevSecOps vs SecDevOps
+sessions: Securing the CI Pipeline,Writing Security Tests,JIRA Risk Workflow,DevSecOps vs SecDevOps
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

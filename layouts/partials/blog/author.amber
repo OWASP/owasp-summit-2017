@@ -1,0 +1,11 @@
+$author = $
+if $author.image
+  img[class="img-responsive"][src=$author.image][alt=Title]
+else
+  img[class="img-responsive"][src="/img/blocks/400x400.png"][alt="Placeholder 400x400"]
+end
+div.author
+  a[href=Permalink] #{Title}
+
+div.author
+  #{Params.author}

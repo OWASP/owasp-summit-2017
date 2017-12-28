@@ -13,7 +13,7 @@ email           : me@andersreeves.com
 ticket          : 5x8h
 status          : add-content
 regonline       : No
-working-sessions:
+sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

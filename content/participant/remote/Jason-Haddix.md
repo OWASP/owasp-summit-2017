@@ -13,7 +13,7 @@ project-leader   :
 chapter-leader   :
 when-day         :
 status           : empty
-working-sessions : Crowdsourcing Security Knowledge,Bug Bounty Playbook
+sessions : Crowdsourcing Security Knowledge,Bug Bounty Playbook
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

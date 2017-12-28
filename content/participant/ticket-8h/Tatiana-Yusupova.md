@@ -13,7 +13,7 @@ email           :
 when-day        : Tues
 ticket          : 1x8h
 status          : empty
-working-sessions: A10 - Underprotected APIs, A7 - Insufficient Attack Protection, What Should be Added to the Top 10, Security Champions
+sessions: A10 - Underprotected APIs, A7 - Insufficient Attack Protection, What Should be Added to the Top 10, Security Champions
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

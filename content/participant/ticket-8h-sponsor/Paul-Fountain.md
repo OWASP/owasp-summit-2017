@@ -15,7 +15,7 @@ chapter-leader  :
 ticket          : 1x8h
 status          : empty
 regonline       : No
-working-sessions: AppSec SOC Monitoring Visualisation, Threat Modeling Cloud Migrations
+sessions: AppSec SOC Monitoring Visualisation, Threat Modeling Cloud Migrations
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

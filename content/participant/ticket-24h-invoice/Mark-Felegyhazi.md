@@ -14,7 +14,7 @@ when-day        : Tue,Wed,Thu
 ticket          : 2x24h,1x8h
 status          : empty
 regonline       : No
-working-sessions: Creating AppSec Talent (next 100k professionals), Recruiting AppSec Talent at job fairs, Creating AppSec Teams, Security Champions, Crowdsourcing Security Knowledge, CTFs, Hackathon on avatao - Beyond OWASP Top Ten, Teaching Attacker perspective to Developers, Application Security BSc/Masters Curriculum Design, Growing the AppSec Industry, Cyber Insurance, GDPR and DPO AppSec implications, Visit Bletchley Park, Cross-Company Hackathons, Hackathon Daily Sessions, Cyber Security Economics
+sessions: Creating AppSec Talent (next 100k professionals), Recruiting AppSec Talent at job fairs, Creating AppSec Teams, Security Champions, Crowdsourcing Security Knowledge, CTFs, Hackathon on avatao - Beyond OWASP Top Ten, Teaching Attacker perspective to Developers, Application Security BSc/Masters Curriculum Design, Growing the AppSec Industry, Cyber Insurance, GDPR and DPO AppSec implications, Visit Bletchley Park, Cross-Company Hackathons, Hackathon Daily Sessions, Cyber Security Economics
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

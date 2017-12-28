@@ -8,7 +8,7 @@ twitter  : mohammadfebri_r
 facebook : mohammadfebri.r
 funded-who : self
 status   : empty
-working-sessions: Mobile Security Testing Guide (MSTG),Mobile Application Security Verification Standard (MASVS),Application Security Verification Standard,OWASP Risk Rating Management Project,Women in Cyber
+sessions: Mobile Security Testing Guide (MSTG),Mobile Application Security Verification Standard (MASVS),Application Security Verification Standard,OWASP Risk Rating Management Project,Women in Cyber
 ---
 
 Mohammad Febri Ramadlan (Ebi) is Open Source Enthusiast and OWASP Contributor. He is OWASP Risk Rating Management Project Leader. Also he is happy to contribute and participate in any other sessions that other contributors/leaders would like join in.

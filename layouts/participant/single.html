@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ partial "header.html" . }}
+</head>
+<body>
+  {{ partial "menu.html" . }}
+  <div class="page-content">
+    <div class="container">
+      <h1>{{ .Title }}</h1>
+      {{ if isset .Params "image" }}
+        <img class="participant" src="{{ .Params.image }}" alt="{{ .Params.Title }}" />
+      {{ end }}
+
+      {{ .Content }}
+
+      {{ partial "participant/scheduled.html" . }}
+
+      <h2>contact details</h2>
+      <ul>
+        {{ if isset .Params "email" }}
+        <li><a href="mailto:{{ .Params.email }}" target="_blank"> Email</a></li>
+        {{ end }}
+        {{ if isset .Params "website" }}
+        <li><a href="{{ .Params.website }}" target="_blank"> Website</a></li>
+        {{ end }}
+        {{ if isset .Params "twitter" }}
+        <li><a href="https://twitter.com/{{ .Params.twitter }}" target="_blank"> Twitter</a></li>
+        {{ end }}
+        {{ if isset .Params "linkedin" }}
+        <li><a href="https://linkedin.com/in/{{ .Params.linkedin }}" target="_blank"> LinkedIn</a></li>
+        {{ end }}
+        {{ if isset .Params "linkedin-company-beta" }}
+        <li><a href="https://www.linkedin.com/company-beta/{{ .Params.linkedin }}" target="_blank"> LinkedIn</a></li>
+        {{ end }}
+        {{ if isset .Params "facebook" }}
+        <li><a href="https://facebook.com/{{ .Params.facebook }}" target="_blank"> Facebook</a></li>
+        {{ end }}
+      </ul>
+      <br />
+      <hr />
+      <p>Back to list of <a href='/participant'>all Participants</a><p>
+      <p>Edit this page <a href='https://github.com/OWASP/owasp-summits/blob/hugo-migration/content{{ .Path }}'>here </a></p>
+
+      </div>
+    </div><!-- container -->
+  </div><!-- page-content -->
+  {{ partial "footer.html" . }}
+</body>
+</html>

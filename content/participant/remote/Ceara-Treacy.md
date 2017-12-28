@@ -13,7 +13,7 @@ project-leader  :
 chapter-leader  :
 when-day        :
 status          :
-working-sessions : Threat Modeling Tools,Threat Modeling Diagramming Techniques,Threat Modeling Where do I Start?
+sessions : Threat Modeling Tools,Threat Modeling Diagramming Techniques,Threat Modeling Where do I Start?
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

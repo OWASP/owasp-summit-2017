@@ -13,7 +13,7 @@ project-leader  :
 chapter-leader  :
 when-day        :
 status          : empty
-working-sessions: Data behind Owasp Top 10 2017,Women in Cyber,Mobile Security Testing Guide (MSTG),Mobile Security 
+sessions: Data behind Owasp Top 10 2017,Women in Cyber,Mobile Security Testing Guide (MSTG),Mobile Security 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

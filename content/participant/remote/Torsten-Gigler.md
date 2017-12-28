@@ -9,7 +9,7 @@ project-leader  : OWASP Top 10 fuer Entwickler (= OWASP Top 10 for developers, i
 chapter-leader  :
 when-day        :
 status          : empty
-working-sessions: O-Saft, Owasp Top 10 2017, Top 10 Selection Criteria, Data behind Owasp Top 10 2017, A10 - Underprotected APIs, A7 - Insufficient Attack Protection, What Should be Added to the Top 10, Implications of Owasp Top 10 2017, Sign Ceremony for Owasp Top 10 2017
+sessions: O-Saft, Owasp Top 10 2017, Top 10 Selection Criteria, Data behind Owasp Top 10 2017, A10 - Underprotected APIs, A7 - Insufficient Attack Protection, What Should be Added to the Top 10, Implications of Owasp Top 10 2017, Sign Ceremony for Owasp Top 10 2017
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

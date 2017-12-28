@@ -11,7 +11,7 @@ email           : adbrucker@0x5f.org
 project-leader  :
 chapter-leader  :
 status          : empty
-working-sessions: Reverse Engineering APK's with Bytecodeviewer, OWASP Internet of Things Project, Testing Guide v5, Owasp Orizon Reboot,Security Guidance and Feedback in IDE,  Integrating Security Tools in the SDL, Best practices in using SAST, DAST, IAST and RASP Tools, Scaling Static Analysis Reviews and Deployments
+sessions: Reverse Engineering APK's with Bytecodeviewer, OWASP Internet of Things Project, Testing Guide v5, Owasp Orizon Reboot,Security Guidance and Feedback in IDE,  Integrating Security Tools in the SDL, Best practices in using SAST, DAST, IAST and RASP Tools, Scaling Static Analysis Reviews and Deployments
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

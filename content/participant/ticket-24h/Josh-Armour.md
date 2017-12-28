@@ -14,7 +14,7 @@ project-leader  :
 chapter-leader  :
 ticket          : 5x24h
 status          : empty
-working-sessions: OWASP Bug Bounty, Lessons learned from public bug bounties programmes, Internal Bug Bounties Programmes, Cross-Company Hackathons, Bug Bounty Playbook
+sessions: OWASP Bug Bounty, Lessons learned from public bug bounties programmes, Internal Bug Bounties Programmes, Cross-Company Hackathons, Bug Bounty Playbook
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

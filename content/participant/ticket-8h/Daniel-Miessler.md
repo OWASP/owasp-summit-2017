@@ -18,7 +18,7 @@ twitter         : danielmiessler
 facebook        :
 ticket          : 5x8h
 status          : done
-working-sessions: Security Playbooks Diagrams, Top 10 Selection Criteria, Define Agile Security Practices
+sessions: Security Playbooks Diagrams, Top 10 Selection Criteria, Define Agile Security Practices
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

@@ -15,7 +15,7 @@ chapter-leader  :
 ticket          : shared-24h
 status          : empty
 regonline       : No
-working-sessions: AppSec SOC Monitoring Visualisation, Threat Modeling Cloud Migrations, Threat Modeling IoT Devices, Women in Cyber, DoS Playbook, Docker Security, Ransomware Playbook, Visit Bletchley Park
+sessions: AppSec SOC Monitoring Visualisation, Threat Modeling Cloud Migrations, Threat Modeling IoT Devices, Women in Cyber, DoS Playbook, Docker Security, Ransomware Playbook, Visit Bletchley Park
 ---
 
 <!-- put more details about participant here -->

@@ -13,7 +13,7 @@ project-leader  : OWASP Threat Dragon
 chapter-leader  : UK Newcastle
 when-day        : Monday 12th June
 status          : 
-working-sessions : Threat Modeling Tools
+sessions : Threat Modeling Tools
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

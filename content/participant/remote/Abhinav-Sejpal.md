@@ -7,7 +7,7 @@ twitter     : Abhinav_sejpal
 facebook   : bugwrangler
 website         : https://bugwrangler.in/
 chapter-leader  : Bangalore
-working-sessions: Mobile Security Testing Guide (MSTG), Mobile Application Security Verification Standard (MASVS), Data behind Owasp Top 10 2017, Owasp Top 10 2017,  TLS for Local IoT, GDPR and DPO AppSec implications, Threat Modeling Where do I Start?, Securing the CI Pipeline
+sessions: Mobile Security Testing Guide (MSTG), Mobile Application Security Verification Standard (MASVS), Data behind Owasp Top 10 2017, Owasp Top 10 2017,  TLS for Local IoT, GDPR and DPO AppSec implications, Threat Modeling Where do I Start?, Securing the CI Pipeline
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

@@ -14,7 +14,7 @@ ticket           :
 when-day         : Tue
 ticket           : 1x24h
 status           : empty
-working-sessions : Creating AppSec Talent,Creating AppSec Teams,Creating AppSec Talent (next 100k professionals),Recruiting AppSec Talent,Security Champions
+sessions : Creating AppSec Talent,Creating AppSec Teams,Creating AppSec Talent (next 100k professionals),Recruiting AppSec Talent,Security Champions
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

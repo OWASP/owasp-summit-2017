@@ -11,5 +11,5 @@ website         : https://blog.marcelosouza.com
 email           :
 when-day        :
 status          : done
-working-sessions: SAMM
+sessions: SAMM
 ---

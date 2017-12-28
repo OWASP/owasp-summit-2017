@@ -13,7 +13,7 @@ email           :
 when-day        : Tues
 ticket          : 1x24
 status          : empty
-working-sessions : BDD for Cloud Security, Agile Practices for Security Teams, Securing the CI Pipeline
+sessions : BDD for Cloud Security, Agile Practices for Security Teams, Securing the CI Pipeline
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

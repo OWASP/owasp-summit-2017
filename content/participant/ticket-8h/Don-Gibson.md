@@ -12,7 +12,7 @@ email           : dgibson@omniaquae.com
 funded-who      : self
 status          : empty
 ticket          : 5x8h
-working-sessions: SOC,AppSec for CISOs
+sessions: SOC,AppSec for CISOs
 ---
 
 Security Architect currently looking for a new role having worked in Investment Banks, Financials, Pharma and Gaming.

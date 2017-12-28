@@ -16,7 +16,7 @@ when-day        : Wed
 ticket          : 1x8h
 status          : empty
 regonline       : No
-working-sessions: Writing Security Tests,Lightweight Threat Modeling Process,Threat Modeling Templates,Threat Modeling Cheat Sheet
+sessions: Writing Security Tests,Lightweight Threat Modeling Process,Threat Modeling Templates,Threat Modeling Cheat Sheet
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

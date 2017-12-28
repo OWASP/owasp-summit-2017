@@ -11,5 +11,5 @@ email           : sandeep.singh@owasp.org
 project-leader  :
 chapter-leader  :
 status          : empty
-working-sessions:
+sessions:
 ---

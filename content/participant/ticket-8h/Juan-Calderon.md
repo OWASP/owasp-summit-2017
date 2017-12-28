@@ -15,7 +15,7 @@ chapter-leader  :
 funded-who      :
 ticket          : 5x8h
 status          : done
-working-sessions: SAMM - Kick Off,SAMM - V2 Ground Rules,SAMM - Conducting Assessments,Dependency Check,Threat Modeling Diagramming Techniques,Creating AppSec Talent (next 100k professionals),A7 - Insufficient Attack Protection,SAMM - OWASP Project alignment,SAMM - Stories and Templates,Crowdsourcing Security Knowledge,Visit Bletchley Park,AppSec Review and Pentest Playbook,Webgoat,Writing Security Tests,ZAP,Hackathon - Beyond OWASP Top Ten,,Teaching Attacker perspective to Developers,Owasp Latam Region,Closing party,Machine Learning and Security,SAMM - Maturity Models tool,Role of Security Certification,Due Diligence Playbook,Sign Ceremony for Owasp Top 10 2017,owasp-Website,Recommending ESAPI in Top 10,WAF Best Practices,Webgoat,Visit Bletchley Park
+sessions: SAMM - Kick Off,SAMM - V2 Ground Rules,SAMM - Conducting Assessments,Dependency Check,Threat Modeling Diagramming Techniques,Creating AppSec Talent (next 100k professionals),A7 - Insufficient Attack Protection,SAMM - OWASP Project alignment,SAMM - Stories and Templates,Crowdsourcing Security Knowledge,Visit Bletchley Park,AppSec Review and Pentest Playbook,Webgoat,Writing Security Tests,ZAP,Hackathon - Beyond OWASP Top Ten,,Teaching Attacker perspective to Developers,Owasp Latam Region,Closing party,Machine Learning and Security,SAMM - Maturity Models tool,Role of Security Certification,Due Diligence Playbook,Sign Ceremony for Owasp Top 10 2017,owasp-Website,Recommending ESAPI in Top 10,WAF Best Practices,Webgoat,Visit Bletchley Park
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

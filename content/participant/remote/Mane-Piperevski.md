@@ -13,7 +13,7 @@ project-leader  :
 chapter-leader  : OWASP Chapter Macedonia
 when-day        : Friday
 status          : empty
-working-sessions: Role of Security Certification
+sessions: Role of Security Certification
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

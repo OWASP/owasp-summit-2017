@@ -7,7 +7,7 @@ twitter     : securestep9
 facebook   : samstepanyan
 website         : https://owasp.org/index.php/London
 chapter-leader  : London
-working-sessions: Owasp Top 10 2017
+sessions: Owasp Top 10 2017
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

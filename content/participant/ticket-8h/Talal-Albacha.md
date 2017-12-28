@@ -11,7 +11,7 @@ facebook        :
 funded-who      : self
 when-day        : Fri
 ticket          : 1x8h
-working-sessions: Scaling Static Analysis Reviews and Deployments, Sign Ceremony for Owasp Top 10 2017
+sessions: Scaling Static Analysis Reviews and Deployments, Sign Ceremony for Owasp Top 10 2017
 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---

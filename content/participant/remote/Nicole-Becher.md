@@ -11,5 +11,5 @@ email           : nicole.becher@owasp.org
 project-leader  : Vicnum
 chapter-leader  : Brooklyn
 when-day        :
-working-sessions : Application Security BSc/Masters Curriculum Design
+sessions : Application Security BSc/Masters Curriculum Design
 ---

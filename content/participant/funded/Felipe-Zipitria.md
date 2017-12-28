@@ -18,7 +18,7 @@ linkedin        : felipezipitria
 status          : done
 ticket          : 5x24h
 regonline       : No
-working-sessions: Writing Security Tests,Owasp Latam Region,Owasp Student Chapters,AppSec SOC Monitoring Visualisation,Teaching Attacker perspective to Developers,GitHub Organization Reboot,Data behind Owasp Top 10 2017,Threat Modeling Tools,WAF Best Practices,Visit Bletchley Park,Evaluation/Optimization/Creation of Training Slides,Playbooks Common Format,Creating AppSec Talent (next 100k professionals)
+sessions: Writing Security Tests,Owasp Latam Region,Owasp Student Chapters,AppSec SOC Monitoring Visualisation,Teaching Attacker perspective to Developers,GitHub Organization Reboot,Data behind Owasp Top 10 2017,Threat Modeling Tools,WAF Best Practices,Visit Bletchley Park,Evaluation/Optimization/Creation of Training Slides,Playbooks Common Format,Creating AppSec Talent (next 100k professionals)
 ---
 
 ## Felipe Zipitria

@@ -9,7 +9,7 @@ linkedin         :
 twitter          : kate_hartmann
 facebook         :
 status           : empty
-working-sessions : Owasp Chapter Treasury,Owasp Latam Region,Owasp Student Chapters,Owasp-Website
+sessions : Owasp Chapter Treasury,Owasp Latam Region,Owasp Student Chapters,Owasp-Website
 ---
 
 <!-- put more details about participant here -->

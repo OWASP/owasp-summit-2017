@@ -11,7 +11,7 @@ email           : tal@triadsec.com
 project-leader  :
 chapter-leader  :
 status          : empty
-working-sessions: Application Security Guide for CISO, CISO Survey, Owasp SAMM, Testing Guide v5, Owasp Top 10 2017, 
+sessions: Application Security Guide for CISO, CISO Survey, Owasp SAMM, Testing Guide v5, Owasp Top 10 2017, 
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 

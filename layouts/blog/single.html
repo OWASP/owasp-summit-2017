@@ -8,7 +8,7 @@
   <div class="blog blog-post">
     <div class="container">
       <div class="col-xs-2">
-        {{ partial "add-author.html" . }}
+        {{ partial "blog/author.html" . }}
         <div class="date">
           {{ if isset .Params "date" }}
           {{ dateFormat "January 2, 2006" .Params.date }}

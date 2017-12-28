@@ -7,7 +7,7 @@ image           : https://sendgrid.com/wp-content/uploads/2016/05/DavidCampbell-
 linkedin        : campbelldavid
 twitter          : alchemydc
 website         :
-working-sessions: 
+sessions: 
 status          : done
 ---
 
