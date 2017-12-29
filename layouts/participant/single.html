@@ -39,9 +39,9 @@
       </ul>
       <br />
       <hr />
+      <!-- {{ if .IsPage }}<small class="gray"><em>Updated: {{ .Page.Lastmod }}, Version: {{ .GitInfo.AbbreviatedHash }}</em></small>{{ end }} -->
       <p>Back to list of <a href='/participant'>all Participants</a><p>
-      <p>Edit this page <a href='https://github.com/OWASP/owasp-summits/blob/hugo-migration/content{{ .Path }}'>here </a></p>
-
+      {{ partial "github-edit-this-page.html" . }}
       </div>
     </div><!-- container -->
   </div><!-- page-content -->

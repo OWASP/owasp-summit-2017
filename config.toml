@@ -70,6 +70,6 @@ author = "OWASP Project"
 copyright = "Copyright (c) OWASP; all rights reserved."
 description = "OWASP Summit 2018"
 github = "https://github.com/OWASP/owasp-summits"
-
+gitBranch = "hugo-migration"
 # Format dates with Go's time formatting
 date_format = "January 2, 2006"

@@ -27,8 +27,8 @@
     {{ range $time_index, $element := index $.Site.Data.times }}
       <tr>
         <td class="text-center">
-            <span class="time"> {{ $time_index }}</span>
-            <span class="time-hour"> {{ $element }}</span>
+            <div class="time"> {{ $time_index }}</div>
+            <div class="time-hour"> {{ $element }}</div>
         </td>
         {{ $workshops_time := where (where $sessions "Params.type" "workshop") "Params.when-time" $time_index }}
         {{ range $days := split "Mon,Tue,Wed,Thu,Fri" "," }}
