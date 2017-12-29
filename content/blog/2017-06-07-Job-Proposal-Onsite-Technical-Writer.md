@@ -1,6 +1,6 @@
 ---
 title       : Job Proposal - Onsite Technical Writer (for Summit)
-post-date   : Jun 07
+date        : 2017-06-07T14:15:59-06:00
 author      : Tiffany Long
 ---
 

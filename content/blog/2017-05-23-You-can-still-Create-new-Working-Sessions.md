@@ -1,6 +1,6 @@
 ---
 title       : You can still create new Working Sessions and the Owasp Summit Schedule is not final!
-post-date   : May 23
+date        : 2017-05-23T14:15:59-06:00
 author      : Dinis Cruz
 ---
 

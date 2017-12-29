@@ -1,6 +1,6 @@
 ---
 title       : Please help to Promote the Summit
-post-date   : May 18
+date        : 2017-05-18T14:15:59-06:00
 author      : Dinis Cruz
 ---
 

@@ -1,6 +1,6 @@
 ---
 title       : First Summit Schedule and Working Sessions Registration
-post-date   : May 19
+date        : 2017-05-19T14:15:59-06:00
 author      : Dinis Cruz
 ---
 

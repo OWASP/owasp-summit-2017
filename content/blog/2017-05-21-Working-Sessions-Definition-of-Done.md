@@ -1,6 +1,6 @@
 ---
 title       : Working Session's Definition of Done
-post-date   : May 21
+date        : 2017-05-21T14:15:59-06:00
 author      : Dinis Cruz
 ---
 As you can see by the [Summit Schedule](http://owaspsummit.org/schedule/summit-schedule.html) one of the nice problems that Participants will have is going to be: **how to select which Working Sessions to attend**.

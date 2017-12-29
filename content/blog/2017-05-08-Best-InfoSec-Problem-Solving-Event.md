@@ -1,6 +1,6 @@
 ---
 title       : The Best Real-Life InfoSec Problem Solving Event in the World
-post-date   : May 08
+date        : 2017-05-08T14:15:59-06:00
 author      : Ante Gulam
 ---
 

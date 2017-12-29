@@ -22,7 +22,8 @@
                 <div class="title">
                   <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
                 </div>
-                {{ partial "blog/author.html" . }}
+                {{ partial "blog/author-list.html" . }}
+		<div class="date">{{ .Date.Format "Jan 2" }}</div>
               </div>
               <div class="card-block">
                 {{ .Content | safeHTML | truncate 250 }}

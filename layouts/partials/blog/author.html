@@ -1,14 +1,10 @@
-{{ $author := (.Site.GetPage "participant" "( .Params.author | urlize )") }}
-{{ with $author }}
-  {{ if isset .image }}
-    <img class="img-responsive" src="{{ .image }}" alt="{{ .Title }}" />
-  {{ else }}
-    <img class="img-responsive" src="/img/blocks/400x400.png" alt="Placeholder 400x400" />
-  {{ end }}
+{{ $authors := where .Site.Pages "Params.title" .Params.author }}
+{{ range first 1 $authors }}
+  <img class="img-responsive" src="{{ .Params.image |  default "/img/blocks/400x400.png" }}" alt="{{ .Title }}" />
   <div class="author">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
   </div>
-{{ end }}
   <div class="author">
-    {{ .Params.author }}
+    <a href="">{{ .Params.author }}</a>
   </div>
+{{ end }}

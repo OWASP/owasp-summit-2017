@@ -1,6 +1,6 @@
 ---
 title       : 30 days to go for the Owasp Summit 2017
-post-date   : May 08
+date        : 2017-05-08T14:15:59-06:00
 author      : Dinis Cruz
 ---
 

@@ -1,6 +1,6 @@
 ---
 title       : FAQ on Attendees Count, Working Session Format and how to Contribute
-post-date   : May 07
+date        : 2017-05-07T14:15:59-06:00
 author      : Dinis Cruz
 ---
 

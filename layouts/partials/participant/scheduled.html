@@ -24,6 +24,7 @@
           </th>
         </thead>
     {{ $sessions :=  where $.Site.RegularPages "Section" "session" }}
+    <!-- TODO: sorting by time_index -->
     {{ range $time_index, $element := index $.Site.Data.times }}
       <tr>
         <td class="text-center">

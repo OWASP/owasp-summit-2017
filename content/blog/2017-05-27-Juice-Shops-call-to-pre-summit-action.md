@@ -1,6 +1,6 @@
 ---
 title       : Juice Shop's call to pre-summit action
-post-date   : May 27
+date        : 2017-05-27T14:15:59-06:00
 author      : Bjoern Kimminich
 ---
 

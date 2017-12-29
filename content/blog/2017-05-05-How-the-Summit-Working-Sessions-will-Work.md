@@ -1,6 +1,6 @@
 ---
 title       : How the Summit's Working Sessions with work and Summit's Schedule
-post-date   : May 05
+date        : 2017-05-05T14:15:59-06:00
 author      : Dinis Cruz
 ---
 

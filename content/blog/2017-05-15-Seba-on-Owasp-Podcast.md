@@ -1,6 +1,6 @@
 ---
 title       : Seba Summit's Interview at Owasp 24/7 Podcast
-post-date   : May 15
+date        : 2017-05-15T14:15:59-06:00
 author      : Dinis Cruz
 ---
 

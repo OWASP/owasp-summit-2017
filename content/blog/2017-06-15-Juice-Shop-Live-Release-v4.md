@@ -1,6 +1,6 @@
 ---
 title       : Juice Shop v4.0.0 Live Release
-post-date   : Jun 15
+date        : 2017-06-15T14:15:59-06:00
 author      : Bjoern Kimminich
 ---
 

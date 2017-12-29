@@ -1,6 +1,6 @@
 ---
 title       : 5 days to the Owasp Summit, it's time to sort out your personalised Summit schedule!
-post-date   : Jun 7
+date        : 2017-06-07T14:15:59-06:00
 author      : Dinis Cruz
 ---
 
