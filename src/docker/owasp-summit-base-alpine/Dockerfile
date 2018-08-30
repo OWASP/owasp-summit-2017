@@ -2,8 +2,8 @@ FROM        jekyll/builder
 LABEL 	    MANTAINER "felipe.zipitria@owasp.org"
 
 WORKDIR     /home
-RUN 	      git clone https://github.com/OWASP/owasp-summits.git                            # clone repo with owasp summit site
-WORKDIR     owasp-summits
+RUN 	      git clone https://github.com/OWASP/owasp-summit-2017.git                            # clone repo with owasp summit site
+WORKDIR     owasp-summit-2017
 RUN         git checkout letsencrypt
 RUN         npm install --quiet                                                                 # update node dependencies
 
