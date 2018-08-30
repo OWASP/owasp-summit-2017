@@ -51,8 +51,6 @@ gulp.task 'styles', ->
         #.pipe browserSync.reload(stream: true)          # this is not working
 
 
-gulp.task 'travis'     , ['styles', 'pug', 'build-data', 'build'];
-
 gulp.task 'default'    , ['styles', 'pug', 'build-data', 'build'],->
     browserSync.init
         online         : false                     # doesn't bind to public IP address
