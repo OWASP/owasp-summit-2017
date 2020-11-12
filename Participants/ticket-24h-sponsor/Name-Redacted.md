@@ -21,3 +21,4 @@ working-sessions:
 ---
 
 <!-- put more details about participant here -->
+<!-- GDPR request to remove this information -->
