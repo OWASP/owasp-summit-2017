@@ -1,6 +1,6 @@
 ---
 layout          : blocks/page-participant
-title           : Dilek Koluman
+title           : Name Redacted
 type            : participant
 job-title       : Riks Analyst
 company         : PhotoBox Group
@@ -10,7 +10,7 @@ linkedin        :
 twitter          :
 facebook        :
 website         :
-email           : dilek.koluman@photobox.com
+email           : email.redacted@owasp.org
 project-leader  :
 chapter-leader  :
 ticket          : 5x24h
