@@ -50,7 +50,8 @@ The target audience for this working session is:
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
-- [JIRA Risk Workflow - aplha version](http://blog.diniscruz.com/2016/10/jira-risk-workflow-book-alpha-version.html)
+- [JIRA Risk Workflow - alpha version](httx://blog.diniscruz.com/2016/10/jira-risk-workflow-book-alpha-version.html)
+(Link oudated, redirecting to a spam farm)
 
 ### Content
 
