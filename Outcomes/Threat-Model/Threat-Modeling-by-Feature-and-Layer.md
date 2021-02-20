@@ -6,7 +6,7 @@ title   : Threat Modeling by Feature and Layer
 
 ## Outcomes
 
-### Synopsis/Takeaways
+### Synopsis  and Takeaways
 
 ### Address Lookup (external entity)
 
@@ -29,17 +29,17 @@ title   : Threat Modeling by Feature and Layer
 - (T) Trucks being sent to fake address
 - (T) Bad data sent back, violating assumed response format, leading to range of problems with JuiceShop depending how vulnerable the JuiceShop parser is (from DoS to RCE)
 
-- (D) Customers or maybe fake JuiceShop requests include bad addresses (bad as in associated with drug trade, terrorists, etc.), hoping to trigger alerts in some security analytics, leading to DoS by government.
+- (D) Customers or maybe fake JuiceShop requests include bad addresses ("bad" as in associated with drug trade, terrorists, etc.), hoping to trigger alerts in some security analytics, leading to DoS by government.
 
 - (I) Eavesdropping on communication will break privacy regulations, GDPR, etc.
     Mitigation: TLS.
 
 - (D) If the service is synchronous and unavailable or slow, would it result in DoS in JuiceShop?
 
-- (I) If JuiceShop authenticates with keys, how secure is key storage.
+- (I) If JuiceShop authenticates with keys, how secure is key storage?
 
+#### Assumptions 
 
-#### Assumptions
 
 - Address resolution service is paid (or at least rate-limited, with Juice shop having a specific quota)
 - The API sends (name, address), gets back either:
@@ -48,24 +48,21 @@ title   : Threat Modeling by Feature and Layer
   - Nothing if failed to resolve
 - No outbound rate limit, so a fuzzy request can result in a large list of matches
 
-
 ### Delivery Service (External)
 
 #### Threats
 - Fake delivery service spoofs the real one; can collect data on JS customers, interfere with delivery
  -Tampering of quantity on wire
  - Repudiation of confirmation response & reverse, repudiation of request for truck roll
- - Send bad pricing: either too high to see if it gets accepted, or too (this might be spoofing, repudiation, tampering, info disclose; we had several motivations)
+ - Send bad pricing: either too high to see if it gets accepted, or too low (this might be spoofing, repudiation, tampering, info disclose; we had several motivations)
  - (See Address Lookup for additional threats; many are similar)
-
 
 #### Assumptions
 
 - TLS is used
 - Threat models exist for TLS
 - Delivery service is a pay-for service
-- This is an analysis of the quote flow, there is also a execute flow that needs to be threat modeled.
-
+- This is an analysis of the quote flow, there is also an execute flow that needs to be threat modeled.
 
 ### Juice Shop User (External)
 
@@ -127,7 +124,7 @@ title   : Threat Modeling by Feature and Layer
 - Used only for delivery services
 - Not built for user invoicing
 
-### Takeaways
+### Key Takeaways
 
 - Went through the user story handling the address lookup delivery service
 - Threats were identified for the service that threat model templates need to be created for: TLS, e-mail, etc.
